@@ -1,0 +1,20 @@
+{
+  "id": "florida_6dd036434b",
+  "comuna": "florida",
+  "ruta": "Ordenanzas Descargadas\\1-600\\florida_acuerdo_296_facultar_a_la_municipalidad_de_florida_para_comprometer_incorporar_e__296.pdf",
+  "nombre": "florida_acuerdo_296_facultar_a_la_municipalidad_de_florida_para_comprometer_incorporar_e__296.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:41:13",
+  "fin": "2026-07-14T15:42:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "FLORIDA: Acuerdo Municipal 296 (may-2023, 1p) que faculta a la municipalidad para COMPROMETER UN APORTE PRESUPUESTARIO de aprox 25 millones de pesos (10 por ciento del costo) para el estudio de actualizacion del PRC. Tramite presupuestario puro, texto completo leido, sin normas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_77e6a14593",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_3985_modifica_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lo_barnechea_3985_modifica_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:02:41",
+  "fin": "2026-07-14T21:04:17",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LO BARNECHEA: Decreto 3985 (2009, BCN LeyChile, 2p), 'MPRC-LB-11 articulos 34 y 35 del PRC'. El decreto SOLO DEROGA: elimina el inciso tercero del art 34 y elimina completo el art 35 de la Ordenanza Local. No agrega ni reemplaza ningun cuadro ni valor normativo, solo suprime texto existente. Texto completo leido, sin tablas que registrar."
+  }
+}

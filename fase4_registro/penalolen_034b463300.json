@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_034b463300",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-1.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ficha de la ZONA EQ-1 (Equipamiento) del PRC de Penalolen: usos permitidos/prohibidos (por clase: comercio, esparcimiento, salud, seguridad, servicios, transporte, sanitaria) + condiciones de subdivision y edificacion (predial min 1000 m2, COS 0,7, CC 3, altura art.2.6.3 OGUC, sin antejardin exigido, agrupamiento aislado/pareado/continuo, estacionamientos art.7.1.2 PRMS). Documento de una sola zona, texto completo en 1-2 pags.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T17:53:19",
+  "fin": "2026-07-15T17:56:35",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_eq1_equipamiento.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "EQ-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: usos permitidos + tabla extensa de usos prohibidos por clase + condiciones de edificacion completas. Confirma nota_fase3 exacta."
+  }
+}

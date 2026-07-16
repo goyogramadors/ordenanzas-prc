@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_9f8b0083ec",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_SM1.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Ficha Zona SM-1 (1p): tabla completa usos permitidos/excluidos y condiciones de subdivisión predial y edificación para Vivienda, Equipamiento Comunal, Regional-Interurbana y Vecinal (predial mínima, frente, ocupación máxima 70%, CC, densidad 385hab/ha, agrupamiento, antejardín, estacionamientos).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:28:55",
+  "fin": "2026-07-15T14:30:30",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_sm1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "SM-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: usos excluidos por escala (equipamiento/transporte) + 4 tablas de condiciones de subdivision y edificacion (Vivienda, Equipamiento Comunal, Regional-Interurbana, Vecinal), todas transcritas desde render."
+  }
+}

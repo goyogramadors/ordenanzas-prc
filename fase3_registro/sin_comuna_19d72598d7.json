@@ -1,0 +1,25 @@
+{
+  "id": "sin_comuna_19d72598d7",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\RE6B5F~1.PDF",
+  "nombre": "RE6B5F~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T12:54:02",
+  "fin": "2026-07-14T13:00:06",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        14
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "RENGO: Decreto 0434 (mar-2023) Modificacion N6 al PRC (parcial, 5 temas). NUCLEO: pags 13-14 = Articulo 38 bis zona nueva ZH3-A (usos de suelo + condiciones de edificacion: predial minima, COS, CC, agrupamiento, altura, antejardin, densidad) en formato prosa/articulo, NO grilla. Rango ampliado a 6-14 por precaucion: 6-9 inventario patrimonial ICH/ZCH, 9-11 dotacion de estacionamientos por actividad, 11-12 vialidad estructurante. Pags 17-21 son planos apaisados escaneados (mirados: solo mapas, leyendas y firmas). OJO: este PDF NO trae el cuadro general de normas por zona del PRC vigente de Rengo, solo la zona nueva."
+  }
+}

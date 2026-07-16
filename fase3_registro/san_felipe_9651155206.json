@@ -1,0 +1,20 @@
+{
+  "id": "san_felipe_9651155206",
+  "comuna": "san_felipe",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_felipe_4298_aprueba_segunda_propuesta_enmienda_del_plan_regulador_comunal_de_san_felipe__Exportar.pdf",
+  "nombre": "san_felipe_4298_aprueba_segunda_propuesta_enmienda_del_plan_regulador_comunal_de_san_felipe__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:28:54",
+  "fin": "2026-07-14T21:30:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 4298 (2003): aprueba 2a Propuesta de Enmienda PRC para zonas C1,C2,C3,H4-H8,I1,I2,E5,E6,E9,E10, pero solo declara aprobacion por nombre de zona (1 pagina); no incluye tabla de parametros normativos."
+  }
+}

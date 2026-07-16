@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_92e58d8d00",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_AR3.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Extracto 'Zona A.R.3' (Preservación del Medio Ambiente Natural y Cultural). Tabla completa: superficie predial mínima 20.000 m2, frente predial 100m, ocupación máxima suelo 2.5%, coef. constructibilidad 0.025, sistema agrupamiento aislado, antejardín 10m.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:27:29",
+  "fin": "2026-07-15T14:28:47",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_ar3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "A.R.3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: predial 20000m2, frente 100m, ocupacion 2,5%, CC 0,025, aislado, antejardin 10m. Solo equipamiento areas verdes escala regional. Coincide con nota_fase3."
+  }
+}

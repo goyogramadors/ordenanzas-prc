@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_58b56250af",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pedro_aguirre_cerda_14528_modifica_ordenanza_del_plan_regulador_comuna_de_san_miguel__diario 10.11.18- plan reg. (1)San Miguel.pdf",
+  "nombre": "pedro_aguirre_cerda_14528_modifica_ordenanza_del_plan_regulador_comuna_de_san_miguel__diario 10.11.18- plan reg. (1)San Miguel.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:09:38",
+  "fin": "2026-07-14T21:12:05",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Comuna real=Pedro Aguirre Cerda (explicito en decreto); 'Plan Regulador Comunal de San Miguel' es nombre historico del instrumento aplicado a PAC, NO comuna ajena. Art.17 Exigencia Minima Estacionamientos por Zona D; Art.22 coeficientes maximos de constructibilidad por zona: PAC-1=0.84, PAC-2=1.05, PAC-3=1.05. Tabla real en texto plano."
+  }
+}

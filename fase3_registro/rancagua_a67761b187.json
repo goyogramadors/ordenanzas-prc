@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_a67761b187",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_decreto_944_aprueba_ficha_del_anteproyecto_programa_apoyo_y_control_plan_regulad__2022-03-D-944.pdf",
+  "nombre": "rancagua_decreto_944_aprueba_ficha_del_anteproyecto_programa_apoyo_y_control_plan_regulad__2022-03-D-944.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:22:08",
+  "fin": "2026-07-14T21:22:37",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Decreto Exento 944/2022 solo aprueba la ficha presupuestaria del 'Programa Apoyo y Control en la Elaboracion de Estudios, Disenos y Contraparte Tecnica en Modificaciones al PRC' (66,9 millones). Sin normas. Candidato a descarte."
+  }
+}

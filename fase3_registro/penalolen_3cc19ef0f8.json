@@ -1,0 +1,20 @@
+{
+  "id": "penalolen_3cc19ef0f8",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2004_02.pdf",
+  "nombre": "penalolen_MPRC_2004_02.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:44:32",
+  "fin": "2026-07-15T08:45:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Diario Oficial 17-dic-2004 pag7-8, Decreto 156/2004: MODIFICA PRC de Peñalolen ampliando limite urbano (poligono 2A-2B-2C-2D-2E-3-2A) y modificando trazado de deslindes (tabla de puntos/tramos de limite, no de normas urbanisticas). No incluye cuadro de COS/CC/altura por zona."
+  }
+}

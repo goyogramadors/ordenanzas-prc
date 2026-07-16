@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_6e391ef92a",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_1783_aprueba_nomina_de_declaraciones_de_utilidad_publica_de_circulaciones_parque__20151.pdf",
+  "nombre": "pichilemu_1783_aprueba_nomina_de_declaraciones_de_utilidad_publica_de_circulaciones_parque__20151.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 69,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:47:00",
+  "fin": "2026-07-15T12:09:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 1783/2015 (69p escaneadas), 'Aprueba Nómina de Declaratorias de Utilidad Pública de Circulaciones, Parques y Plazas del PRC de Pichilemu que quedan sin efecto según Ley 20.791'. Muestreo completo (p1-3, 10, 25, 40, 55, 68-69): es 100% nómina de desafectación de vialidad/parques/plazas (anexos V1-V11, P1-P7, PL1) con fichas por tramo (calle, desde/hasta, largo, superficie, plano de ubicación). Cero tablas de parámetros de zona (COS/CC/altura/predial/etc). Páginas finales (68-69) son la edición completa del DO 28-04-2015 que además trae decretos de Placilla y Concepción, ajenos a Pichilemu."
+  }
+}

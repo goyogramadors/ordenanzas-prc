@@ -1,0 +1,25 @@
+{
+  "id": "valparaiso_1c35ae2f53",
+  "comuna": "valparaiso",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valparaiso_3195_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141111.pdf",
+  "nombre": "valparaiso_3195_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141111.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:33:58",
+  "fin": "2026-07-14T21:37:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Dec.3195/2014 (DO edicion completa de 12p: solo p3-4 son Valparaiso, el resto es contenido ajeno -convenio Chile-Rusia, SEA, Banco Central-). Modifica PRC Valparaiso: Ampliacion Zona de Conservacion Historica Sector Cerro de Las Monjas (ZCHLF Ampliada). p4 art.8 usos permitidos/prohibidos + condiciones en TEXTO: predial min 250m2, ocupacion max suelo 70%, sistema de agrupamiento, alturas y distanciamientos detallados (a.1/a.2/b.1/b.2/b.3.1-3.3). TRAMPA MIXTO: 3 tablas SI son imagen -invisibles a pdftotext, confirmado con pdfimages y render-: tabla de deslinde por puntos (art.5, p3-4), tabla de miradores denominacion/poblacion/cerro (art.7, p4), tabla de Conjuntos Urbanos Planificados identificacion/roles (art.12, p4)."
+  }
+}

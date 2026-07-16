@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_5c36dad1bb",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_121_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__121.pdf",
+  "nombre": "zapallar_acuerdo_121_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__121.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T13:00:39",
+  "fin": "2026-07-15T13:01:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Certificado Acuerdo 121/2015 (22-may-2015, 1p): Concejo Municipal de Zapallar ACUERDA NO ACOGER la observación N15 (solicitaba desplazar el límite ZH-5/ZH-4 hacia el pie de cerro). Es un rechazo de observación ciudadana — no se adopta ningún valor normativo nuevo ni se modifica el límite de zona."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_241be7527d",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4484.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4484.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:54:35",
+  "fin": "2026-07-14T16:01:28",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (misma plantilla): Decreto 4484 (28-12-2004) solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Vivienda 1 (PS-U-V1) con anexos que NO estan en el archivo. Verificado por texto y render. Requiere el texto resolutivo del seccional PS-U-V1. LAS CONDES tiene al menos 5 decretos de este tipo (4475 C2, 4476 C3, 4484 V1, 4486 V3, 2974 Mall Plaza): conviene descargar los seccionales en bloque."
+  }
+}

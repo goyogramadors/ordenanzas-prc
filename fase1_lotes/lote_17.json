@@ -1,0 +1,784 @@
+[
+ {
+  "id": "d0168",
+  "comuna": "la_serena",
+  "nombre_documento": "2205_sobre_derechos_municipales_por_permisos_concesiones_y_servicios",
+  "archivo": "la_serena_2205_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_2205_03122018042132.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0169",
+  "comuna": "la_serena",
+  "nombre_documento": "2428_otorgamiento_patentes_alcoholes_modificacion",
+  "archivo": "la_serena_2428_otorgamiento_patentes_alcoholes_modificacion__doc_34_2428_21092015073359.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0170",
+  "comuna": "la_serena",
+  "nombre_documento": "2714_aprueba_plano_seccional_vial_no_2_de_varias_calles_del_plan_regulador_comun",
+  "archivo": "la_serena_2714_aprueba_plano_seccional_vial_no_2_de_varias_calles_del_plan_regulador_comun__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 10,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 11,
+   "articulado": 12
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC11",
+   "ZEX-17",
+   "ZEX9",
+   "ZT"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (agrupamiento, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 2714, LA SERENA (2006)\r\n\r\nDecreto 2714\r\nAPRUEBA PLANO SECCIONAL VIAL Nº 2 DE VARIAS CALLES DEL PLAN\r\nREGULADOR COMUNAL DE LA SERENA\r\nMUNICIPALIDAD DE LA SERENA\r\nPublicación: 27-JUL-2006 | Promulgación: 19-JUL-2006\r\nVersión: Última Versión De : 19-DIC-2020\r\nTexto derogado: 19-DIC-2020;Decreto-1302\r\nUltima Modificación: 19-DIC-2020 Decreto 1302\r\nUrl Corta: https://bcn.cl/3m85h\r\n\r\nAPRUEBA PLANO SECCIONAL VIAL Nº 2 DE VARIAS CALLES DEL PLAN REGULADOR COMUNAL DE LA\r\nSERENA\r\nNúm. 2.714.- La Serena, 19 de julio de 2006.- Vistos y considerando: Lo\r\ndispuesto en la Ley General de Urbanismo y Construcciones, especialmente en su\r\nartículo 46; La Ordenanza General de Urbanismo y Construcciones, especialmente su\r\nartículo 2.1.14; la necesidad de establecer con detalle los trazados y anchos de las\r\ncalles, la zonificación y los usos de suelo; El Decreto Alcaldicio 372/06 de 26 de\r\nenero de 2006 que ordena la exposición al público del proyecto de Plano Seccional\r\nVial Nº 2 de varias calles; La exposición al público del Plano Seccional Nº 2\r\nefectuada entre los días 8 de febrero al 9 de marzo de 2006; La Sesión Ordinaria\r\nNº 614 de fecha 12 de abril de 2006 del Concejo Comunal de La Serena, en la cual se\r\nacordó aprobar el Plano Seccional Vial Nº 2 del Plan Regulador Comunal de La\r\nSerena; La ley Nº 18.695 Orgánica Constitucional de Municipalidades y las\r\nfacultades propias de mi cargo:\r\nDecreto:\r\n1.- Apruébese el Plano Seccional Vial Nº 2 de varias calles del Plan Regulador\r\nComunal"
+ },
+ {
+  "id": "d0171",
+  "comuna": "la_serena",
+  "nombre_documento": "2769_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_a",
+  "archivo": "la_serena_2769_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_a__doc_34_2769_27102015074358.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 23,
+  "paginas_escaneadas": 23,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0172",
+  "comuna": "la_serena",
+  "nombre_documento": "2870_modifica_ordenanza_participacion_ciudadana",
+  "archivo": "la_serena_2870_modifica_ordenanza_participacion_ciudadana__doc_34_2870_29072014040105.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0173",
+  "comuna": "la_serena",
+  "nombre_documento": "2976_ordenanza_municipal_de_medio_ambiente_la_serena",
+  "archivo": "la_serena_2976_ordenanza_municipal_de_medio_ambiente_la_serena__doc_34_2976_23082016011602.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0174",
+  "comuna": "la_serena",
+  "nombre_documento": "2_ordenanza_municipal_para_la_promocion_y_proteccion_de_la_lactancia_materna_y_a",
+  "archivo": "la_serena_2_ordenanza_municipal_para_la_promocion_y_proteccion_de_la_lactancia_materna_y_a__doc_34_2_01092023110435.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0175",
+  "comuna": "la_serena",
+  "nombre_documento": "3000_ordenanza_contra_la_discriminacion_arbitraria",
+  "archivo": "la_serena_3000_ordenanza_contra_la_discriminacion_arbitraria__doc_34_24062019054833.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0176",
+  "comuna": "la_serena",
+  "nombre_documento": "3097_rectificase_el_articulo_20_de_la_ordenanza_local_del_plan_regulador_comunal",
+  "archivo": "la_serena_3097_rectificase_el_articulo_20_de_la_ordenanza_local_del_plan_regulador_comunal__doc_34_3097_27112024124955.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0177",
+  "comuna": "la_serena",
+  "nombre_documento": "3143_derechos_municipales",
+  "archivo": "la_serena_3143_derechos_municipales__doc_34_3143_12_02062014033144.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 24,
+  "paginas_escaneadas": 24,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0178",
+  "comuna": "la_serena",
+  "nombre_documento": "3421_aprueba_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_ser",
+  "archivo": "la_serena_3421_aprueba_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_ser__1381855744-1525962872.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 21,
+  "paginas_escaneadas": 21,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0179",
+  "comuna": "la_serena",
+  "nombre_documento": "3517_ordenanza_tenencia_responsable_de_animales",
+  "archivo": "la_serena_3517_ordenanza_tenencia_responsable_de_animales__doc_34_03082020105347.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 9,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0180",
+  "comuna": "la_serena",
+  "nombre_documento": "3530_rectifica_articulos_14_n_2_letra_d_de_la_ordenanza_sobre_de_derechos_munici",
+  "archivo": "la_serena_3530_rectifica_articulos_14_n_2_letra_d_de_la_ordenanza_sobre_de_derechos_munici__doc_34_14032024045326.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0181",
+  "comuna": "la_serena",
+  "nombre_documento": "3737_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios",
+  "archivo": "la_serena_3737_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_3737_17032015024217.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 16,
+  "paginas_escaneadas": 16,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0182",
+  "comuna": "la_serena",
+  "nombre_documento": "3738_ordenanza_derechos_municipales",
+  "archivo": "la_serena_3738_ordenanza_derechos_municipales__doc_34_05082020045945.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 26,
+  "paginas_escaneadas": 26,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0183",
+  "comuna": "la_serena",
+  "nombre_documento": "3988_ordenanza_sobre_de_derechos_municipales_por_permisos_concesiones_y_servicio",
+  "archivo": "la_serena_3988_ordenanza_sobre_de_derechos_municipales_por_permisos_concesiones_y_servicio__doc_34_3988_21102014031624.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 27,
+  "paginas_escaneadas": 27,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0184",
+  "comuna": "la_serena",
+  "nombre_documento": "4148_modifica_articulos_12_y_13_de_la_ordenanza_local_de_kioscos_de_ventas_de_di",
+  "archivo": "la_serena_4148_modifica_articulos_12_y_13_de_la_ordenanza_local_de_kioscos_de_ventas_de_di__doc_34_4148_03112014052428.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0185",
+  "comuna": "la_serena",
+  "nombre_documento": "4202_kiosco_de_ventas_de_diarios_y_revistas",
+  "archivo": "la_serena_4202_kiosco_de_ventas_de_diarios_y_revistas__doc_34_4202_07112014091854.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0186",
+  "comuna": "la_serena",
+  "nombre_documento": "447_ordenanza_municipal_de_participacion_ciudadana_elimina_numero_12",
+  "archivo": "la_serena_447_ordenanza_municipal_de_participacion_ciudadana_elimina_numero_12__doc_34_447_05032018074859.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0187",
+  "comuna": "la_serena",
+  "nombre_documento": "4503_aprueba_plano_seccional_no_3_del_plan_regulador_comunal_de_la_serena",
+  "archivo": "la_serena_4503_aprueba_plano_seccional_no_3_del_plan_regulador_comunal_de_la_serena__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 7,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC-1",
+   "ZC1"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 4503, LA SERENA (2006)\r\n\r\nDecreto 4503; Decreto 4503/06\r\nAPRUEBA PLANO SECCIONAL Nº 3 DEL PLAN REGULADOR COMUNAL DE LA\r\nSERENA\r\nMUNICIPALIDAD DE LA SERENA\r\nPublicación: 16-DIC-2006 | Promulgación: 07-DIC-2006\r\nVersión: Última Versión De : 19-DIC-2020\r\nTexto derogado: 19-DIC-2020;Decreto-1302\r\nUltima Modificación: 19-DIC-2020 Decreto 1302\r\nUrl Corta: https://bcn.cl/3lyt8\r\n\r\nAPRUEBA PLANO SECCIONAL Nº 3 DEL PLAN REGULADOR COMUNAL DE LA SERENA\r\nNúm. 4.503/06.- La Serena, 7 de diciembre de 2006.- Vistos y considerando: El\r\nPlan Regulador Comunal de La Serena, aprobado mediante decreto alcaldicio Nº\r\n498/2004 de 2 de julio de 2004 y publicado en el Diario Oficial con fecha 5 de agosto\r\nde 2004; el decreto alcaldicio Nº 3.043/06 del 11 de agosto de 2006 que ordena la\r\nexposición al público del Plano Seccional Nº 3 al Plan Regulador de La Serena; las\r\npublicaciones efectuadas con fechas 18 y 25 de agosto de 2006 en el diario El Día de\r\nla IV Región, informando la exposición al público del Plano Seccional Nº 3 al\r\nPlan Regulador de La Serena, efectuada en la Casa del Vecino Serenense desde el 25 de\r\nagosto al 28 de septiembre de 2006; las publicaciones efectuadas con fechas 2 y 9 de\r\noctubre de 2006 en el diario El Día de la IV Región, informando el plazo máximo de\r\nrecepción de observaciones al Plano Seccional Nº 3 al Plan Regulador Comunal de La\r\nSerena; la sesión ordinaria Nº 640 de fecha 8 de noviembre de 2006 del Concejo\r\nComunal, mediante la cual se aprueba en definitiv"
+ },
+ {
+  "id": "d0188",
+  "comuna": "la_serena",
+  "nombre_documento": "4516_graffitis_rayados_pinturas_y_otros_danos_semejantes_en_muros_y_paredes_fach",
+  "archivo": "la_serena_4516_graffitis_rayados_pinturas_y_otros_danos_semejantes_en_muros_y_paredes_fach__doc_34_4516_05032015122020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0189",
+  "comuna": "la_serena",
+  "nombre_documento": "4_ordenanza_que_regula_la_extraccion_de_aridos_desde_un_bien_nacional_de_uso_pub",
+  "archivo": "la_serena_4_ordenanza_que_regula_la_extraccion_de_aridos_desde_un_bien_nacional_de_uso_pub__doc_34_4_01092023110222.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0190",
+  "comuna": "la_serena",
+  "nombre_documento": "539_aprueba_plano_seccional_no4_del_plan_regulador_comunal_de_la_serena",
+  "archivo": "la_serena_539_aprueba_plano_seccional_no4_del_plan_regulador_comunal_de_la_serena__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 3,
+   "agrupamiento": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 4,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-8",
+   "ZONA"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (altura_maxima, agrupamiento, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 539, LA SERENA (2010)\r\n\r\nDecreto 539\r\nAPRUEBA PLANO SECCIONAL Nº4 DEL PLAN REGULADOR COMUNAL DE LA\r\nSERENA\r\nMUNICIPALIDAD DE LA SERENA\r\nFecha Publicación: 17-FEB-2010 | Fecha Promulgación: 08-FEB-2010\r\nTipo Versión: Última Versión De : 19-DIC-2020\r\nTexto derogado: 19-DIC-2020;Decreto-1302\r\nUltima Modificación: 19-DIC-2020 Decreto 1302\r\nUrl Corta: https://bcn.cl/3m4gq\r\n\r\nAPRUEBA PLANO SECCIONAL Nº4 DEL PLAN REGULADOR COMUNAL DE\r\nLA SERENA\r\nNúm. 539.- La Serena, 8 de febrero de 2010.- Vistos y\r\nConsiderando: El Plan Regulador Comunal de La Serena,\r\naprobado mediante Decreto Alcaldicio Nº 498/2004 de 2 de\r\nJulio de 2004 y publicado en el diario oficial con fecha 5\r\nde Agosto de 2004; El Decreto Alcaldicio Nº 3581/09 del 9\r\nde Octubre de 2009 que ordena la exposición al público del\r\nPlano Seccional Nº4 al Plan Regulador de La Serena; Las\r\npublicaciones efectuadas con fecha 9 y 16 de Octubre de 2009\r\nen el diario El Día de la IV Región, informando la\r\nexposición al Público del Plano Seccional Nº4 al Plan\r\nRegulador de La Serena, efectuada en el Patio Colonial el\r\nMunicipio, Prat 451, desde el 20 de Octubre al 18 de\r\nNoviembre de 2009 y respectivo plazo de recepción de\r\nobservaciones con término el día 3 de Diciembre de 2009;\r\nLas publicaciones efectuadas con fechas 20 y 27 de noviembre\r\nde 2009 informando la Extensión de la exposición al\r\nPúblico del Plano Seccional Nº4 al Plan Regulador de La\r\nSerena, efectuada en el Patio Colonial el Municipio, Prat\r\n451, hasta el 4 de D"
+ },
+ {
+  "id": "d0191",
+  "comuna": "la_serena",
+  "nombre_documento": "574_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios",
+  "archivo": "la_serena_574_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_574_28032018123804.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0192",
+  "comuna": "la_serena",
+  "nombre_documento": "576_rectifica_el_articulo_n_20_de_la_ordenanza_local_del_plan_regulador_comunal",
+  "archivo": "la_serena_576_rectifica_el_articulo_n_20_de_la_ordenanza_local_del_plan_regulador_comunal___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 6,
+   "articulado": 11
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 576, LA SERENA (2021)\r\n\r\nDecreto 576\r\nRECTIFICA EL ARTÍCULO 20 DE LA ORDENANZA LOCAL DEL PLAN\r\nREGULADOR COMUNAL DE LA SERENA\r\nMUNICIPALIDAD DE LA SERENA\r\nPublicación: 04-JUN-2021 | Promulgación: 26-MAY-2021\r\nVersión: Única De : 04-JUN-2021\r\nUrl Corta: https://bcn.cl/3lsfk\r\n\r\nRECTIFICA EL ARTÍCULO 20 DE LA ORDENANZA LOCAL DEL PLAN REGULADOR COMUNAL DE LA\r\nSERENA\r\nNúm. 576.- La Serena, 26 de mayo de 2021.\r\nVistos:\r\nEl ordinario N° 05-00-311/2021, de fecha 6 de mayo de 2021, de la Secretaría\r\nComunal de Planificación a la Dirección de Asesoría Jurídica; el certificado N°\r\n19840, de fecha 5 de mayo de 2021, de la Dirección de Obras; el ordinario N° 502,\r\nde fecha 3 de mayo de 2021, del Seremi Minvu, Región de Coquimbo, al Alcalde de La\r\nSerena; el ordinario N° 619, de fecha 27 de abril de 2021, la Secretaría Comunal de\r\nPlanificación, por orden del Alcalde, a la Seremi Minvu, Región de Coquimbo; el\r\nordinario N° 417, de fecha 22 de abril de 2021, del Seremi Minvu, Región de\r\nCoquimbo, al Alcalde de La Serena; el ordinario N° 477, de fecha 30 de marzo de\r\n2021, de la Secretaría Comunal de Planificación, por orden del Alcalde, a la Seremi\r\nMinvu, Región de Coquimbo; la presentación de don Roy Silva Manterola, de fecha 12\r\nde enero de 2021; el decreto alcaldicio N° 1302, de fecha 10 de diciembre de 2020,\r\nque Promulga la Actualización del Plan Regulador Comunal de La Serena; la Ley\r\nGeneral de Urbanismo y Construcciones y su Ordenanza; la ley N° 20.791, que modifica\r\nla Ley"
+ },
+ {
+  "id": "d0193",
+  "comuna": "la_serena",
+  "nombre_documento": "624_rectifica_el_articulo_n20_de_la_ordenanza_local_del_plan_regulador_comunal_e",
+  "archivo": "la_serena_624_rectifica_el_articulo_n20_de_la_ordenanza_local_del_plan_regulador_comunal_e__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 6,
+   "articulado": 11
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 624, LA SERENA (2021)\r\n\r\nDecreto 624\r\nRECTIFICA ARTÍCULO 20 DE LA ORDENANZA LOCAL DEL PLAN REGULADOR\r\nCOMUNAL\r\nMUNICIPALIDAD DE LA SERENA\r\nPublicación: 11-JUN-2021 | Promulgación: 07-JUN-2021\r\nVersión: Única De : 11-JUN-2021\r\nUrl Corta: https://bcn.cl/3p0zp\r\n\r\nRECTIFICA ARTÍCULO 20 DE LA ORDENANZA LOCAL DEL PLAN REGULADOR COMUNAL\r\nNúm. 624.- La Serena, 7 de junio de 2021.\r\nVistos:\r\nEl ordinario N° 05-00-311/2021, de fecha 6 de mayo de 2021, de la Secretaría\r\nComunal de Planificación a la Dirección de Asesoría Jurídica; el certificado N°\r\n19840, de fecha 5 de mayo de 2021, de la Dirección de Obras; el ordinario N° 502,\r\nde fecha 3 de mayo de 2021, del Seremi Minvu, Región de Coquimbo, al Alcalde de La\r\nSerena; el ordinario N° 619, de fecha 27 de abril de 2021, la Secretaría Comunal de\r\nPlanificación, por orden del Alcalde, a la Seremi Minvu, Región de Coquimbo; el\r\nordinario N° 417, de fecha 22 de abril de 2021, del Seremi Minvu, Región de\r\nCoquimbo, al Alcalde de La Serena; el ordinario N° 477, de fecha 30 de marzo de\r\n2021, de la Secretaría Comunal de Planificación, por orden del Alcalde, a la Seremi\r\nMinvu, Región de Coquimbo; la presentación de don Roy Silva Manterola, de fecha 12\r\nde enero de 2021; el decreto alcaldicio N° 1.302, de fecha 10 de diciembre de 2020,\r\nque Promulga la Actualización del Plan Regulador Comunal de La Serena; la Ley\r\nGeneral de Urbanismo y Construcciones y su Ordenanza; la ley N° 20.791, que modifica\r\nla Ley General de Urbanismo y Construc"
+ },
+ {
+  "id": "d0194",
+  "comuna": "la_serena",
+  "nombre_documento": "68_modificase_la_ordenanza_n16_sobre_derechos_municipales_por_permisos_y_servici",
+  "archivo": "la_serena_68_modificase_la_ordenanza_n16_sobre_derechos_municipales_por_permisos_y_servici__doc_34_12012026022742.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0195",
+  "comuna": "la_serena",
+  "nombre_documento": "6_ordenanza_de_proteccion_de_humedal_urbano_desembocadura_rio_elqui_altovalsol_d",
+  "archivo": "la_serena_6_ordenanza_de_proteccion_de_humedal_urbano_desembocadura_rio_elqui_altovalsol_d__doc_34_6_28072023035431.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

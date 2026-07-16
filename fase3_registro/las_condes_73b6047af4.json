@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_73b6047af4",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Ord.-SEREMI-N63-del-10.1.24.pdf",
+  "nombre": "las_condes_Ord.-SEREMI-N63-del-10.1.24.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:30:45",
+  "fin": "2026-07-15T08:33:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio SEREMI MINVU Ord.N63 (10-ene-2024) sobre expediente Modificacion N11 al PRC Las Condes: 26 paginas de antecedentes administrativos (audiencias, avisos, actas de concejo) y observaciones juridico-procedimentales por articulo (competencias IPT, coherencia normativa, simbologia de planos). Sin cuadro comparativo de valores numericos de zona (COS/CC/altura/densidad)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e84609e2ca",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Plan-de-Desarrollo-Comunal-2022-2025-Las-Condes.pdf",
+  "nombre": "las_condes_Plan-de-Desarrollo-Comunal-2022-2025-Las-Condes.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 371,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:55:50",
+  "fin": "2026-07-14T20:57:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: NO ES UN DOCUMENTO PRC. Es el Plan de Desarrollo Comunal (PLADECO) 2022-2025, 371p, instrumento estrategico distinto al PRC. Grep sobre el texto completo: solo 1 coincidencia aislada de las señales de coeficiente/ocupacion/predial/altura/agrupamiento en 371 paginas (no una tabla de normas real). Documento con 22 paginas escaneadas dispersas y mucho contenido grafico (338 con texto de 371). No contiene tablas de normas urbanisticas por zona."
+  }
+}

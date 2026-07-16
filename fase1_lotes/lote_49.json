@@ -1,0 +1,255 @@
+[
+ {
+  "id": "d0275",
+  "comuna": "san_felipe",
+  "nombre_documento": "2642_aprueba_congelamiento_de_areas_que_indica_y_posterga_propuestas_establecida",
+  "archivo": "san_felipe_2642_aprueba_congelamiento_de_areas_que_indica_y_posterga_propuestas_establecida__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "postergacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "postergacion de permisos: acto temporal, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2642, SAN FELIPE (1997)\r\n\r\nDecreto 2642\r\nAPRUEBA CONGELAMIENTO DE AREAS QUE INDICA Y POSTERGA\r\nPROPUESTAS ESTABLECIDAS EN EL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE SAN FELIPE\r\nFecha Publicación: 06-OCT-1997 | Fecha Promulgación: 03-OCT-1997\r\nTipo Versión: Única De : 06-OCT-1997\r\nUrl Corta: https://bcn.cl/3o6la\r\n\r\nAPRUEBA CONGELAMIENTO DE AREAS QUE INDICA Y POSTERGA PROPUESTAS ESTABLECIDAS EN EL\r\nPLAN REGULADOR COMUNAL\r\nNúm. 2.642.- San Felipe, 3 de octubre de 1997.- Vistos: Estos antecedentes, en\r\nuso de las facultades y atribuciones que me confieren los Artículos Nºs 10, 17 y 49\r\ndel Texto Refundido de la Ley Nº 18.695, Orgánica Constitucional de\r\nMunicipalidades, modificada por la Ley Nº 19.130 y lo dispuesto en el Decreto\r\nAlcaldicio Nº 2.769, de fecha 6 de diciembre de 1996.\r\nConsiderando:\r\n1).- Que el proyecto de actualización del Plano Regulador Comunal se encuentra\r\naprobado por el Concejo Municipal, según Certificados de Acuerdo Nº 28 y 29 de\r\nfecha 23 de enero de 1997, emitido por Secretaría Municipal y ratificado por Decreto\r\nAlcaldicio Nº 495, del 05.mar.97.\r\n2).- Las facultades dispuestas en el Artículo 117 de la Ley General de\r\nUrbanismo y Construcciones.\r\n3).- El Certificado Acuerdo Nº 217, de fecha 30 de septiembre del corriente,\r\nemitido por Secretaría Municipal, y Decreto Alcaldicio Nº 2.617, del 30.sep.97.\r\nrespaldatorio, donde se aprueba por unanimidad de los miembros del Concejo Municipal,\r\nel congelamiento de las áreas solicitadas por la Direcci"
+ },
+ {
+  "id": "d0276",
+  "comuna": "san_felipe",
+  "nombre_documento": "797_aprueba_proyecto_de_enmienda_del_plano_regulador_comunal",
+  "archivo": "san_felipe_797_aprueba_proyecto_de_enmienda_del_plano_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 3,
+   "predial_minima": 6,
+   "altura_maxima": 6,
+   "agrupamiento": 14,
+   "antejardin": 3,
+   "rasante": 4,
+   "distanciamiento": 2,
+   "usos_de_suelo": 7,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 797, SAN FELIPE (2002)\r\n\r\nDecreto 797\r\nAPRUEBA PROYECTO DE ENMIENDA DEL PLANO REGULADOR COMUNAL\r\nMUNICIPALIDAD DE SAN FELIPE\r\nFecha Publicación: 18-ABR-2002 | Fecha Promulgación: 28-MAR-2002\r\nTipo Versión: Única De : 18-ABR-2002\r\nUrl Corta: https://bcn.cl/3r9pn\r\n\r\nAPRUEBA PROYECTO DE ENMIENDA DEL PLANO\r\n\r\nREGULADOR COMUNAL\r\n\r\nNúm. 797.- San Felipe, marzo 28 de 2002.- Vistos:\r\n1.- El Proyecto de Modificación del Plano Regulador Comunal vigente de San\r\nFelipe denominado \"Proyecto de Enmienda de las Zonas de Equipamiento E1, E8 y E10\".\r\n2.- El decreto alcaldicio Nº 232 de fecha 17.01.2002, donde se autoriza la\r\nexposición del proyecto de Enmienda del Plan Regulador Comunal.\r\n3.- El certificado acuerdo Nº 392 de fecha 13.03.2002 del H. Concejo Municipal\r\nen que se aprueba la modificación al Plano Regulador de San Felipe.\r\n4.- El art. 45º de la Ley General de Urbanismo y Construcciones y el art.\r\n2.1.13. de la Ordenanza General de Urbanismo y Construcciones.\r\n5.- Estos antecedentes; en uso de las Facultades y Atribuciones que me confieren\r\nlos arts. 6º, 10º, 17º, 56º y 58º de la ley Nº 18.695, de 1988, Orgánica\r\nConstitucional de Municipalidades y lo dispuesto en el decreto alcaldicio Nº 3.760\r\nde 2000.\r\nConsiderando: Que se ha dado cumplimiento a lo dispuesto en la Ley General de\r\nUrbanismo y Construcciones y no habiendo objeciones por parte de la comunidad,\r\nD e c r e t o:\r\nApruébanse, el \"Proyecto de Enmienda de las Zonas de Equipamiento E1, E8 y E10\"\r\ny modifícase el t"
+ },
+ {
+  "id": "d0277",
+  "comuna": "san_felipe",
+  "nombre_documento": "decreto_alcaldicio_otorga_patentes_municipales_provisorias_para_habilitacion_de",
+  "archivo": "san_felipe_decreto_alcaldicio_otorga_patentes_municipales_provisorias_para_habilitacion_de___N-60.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0956",
+  "comuna": "san_felipe",
+  "nombre_documento": "2740_desafecta_y_elimina_del_plan_regulador_comunal_vigente_los_tramos_de_vias_p",
+  "archivo": "san_felipe_2740_desafecta_y_elimina_del_plan_regulador_comunal_vigente_los_tramos_de_vias_p__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 2740 EXENTO, SAN FELIPE (2015)\r\n\r\nDecreto 2740 EXENTO\r\nDESAFECTA Y ELIMINA DEL PLAN REGULADOR COMUNAL VIGENTE LOS\r\nTRAMOS DE VÍAS PÚBLICAS QUE INDICA\r\nMUNICIPALIDAD DE SAN FELIPE\r\nFecha Publicación: 05-MAY-2015 | Fecha Promulgación: 28-ABR-2015\r\nTipo Versión: Única De : 05-MAY-2015\r\nUrl Corta: https://bcn.cl/sex7ES\r\n\r\nDESAFECTA Y ELIMINA DEL PLAN REGULADOR COMUNAL VIGENTE LOS TRAMOS DE VÍAS PÚBLICAS\r\nQUE INDICA\r\n\r\nNúm. 2.740 exento.- San Felipe, 28 de abril de 2015.\r\nVistos:\r\nEstos antecedentes, en uso de las Facultades que me confieren los artículos\r\n12º, 20 y 63º, del Texto Refundido de la ley Nº 18.695, Orgánica Constitucional\r\nde Municipalidades, lo previsto en la Sentencia de Proclamación de Alcaldes Rol\r\n320-2012, de fecha 30 de noviembre de 2012, del Tribunal Electoral Regional de\r\nValparaíso; y lo dispuesto en el Art. 59 y 59 bis, de la Ley General de Urbanismo y\r\nConstrucciones, donde faculta al Municipio a desafectar la declaratoria de utilidad\r\npública que el Plan Regulador Comunal de San Felipe, del año 1997, genera sobre\r\nalgunos predios.\r\nConsiderando:\r\nEl plan Regulador Comunal vigente de San Felipe a la fecha, y el Listado de\r\nVialidades, Áreas Verdes y Parques y sus gráficas que se encuentran incorporadas a\r\ndicho Instrumento.\r\nEl Certificado de Acuerdo Nº 1170, del H. Concejo Municipal, de fecha 27 de\r\nabril de 2015, promulgado por decreto alcaldicio Nº 2718 de fecha 27 de abril de\r\n2015.\r\nQue se hace necesario desafectar la Declaratoria de Vialidad "
+ },
+ {
+  "id": "d0957",
+  "comuna": "san_felipe",
+  "nombre_documento": "4298_aprueba_segunda_propuesta_enmienda_del_plan_regulador_comunal_de_san_felipe",
+  "archivo": "san_felipe_4298_aprueba_segunda_propuesta_enmienda_del_plan_regulador_comunal_de_san_felipe__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 4298, SAN FELIPE (2003)\r\n\r\nDecreto 4298\r\nAPRUEBA 2ª PROPUESTA DE ENMIENDA DEL PLAN REGULADOR COMUNAL\r\nDE SAN FELIPE\r\nMUNICIPALIDAD DE SAN FELIPE\r\nFecha Publicación: 06-DIC-2003 | Fecha Promulgación: 21-NOV-2003\r\nTipo Versión: Única De : 06-DIC-2003\r\nUrl Corta: https://bcn.cl/3oqeu\r\n\r\nAPRUEBA 2ª PROPUESTA DE ENMIENDA DEL \"PLAN REGULADOR COMUNAL DE SAN FELIPE\"\r\nNúm. 4.298.- San Felipe, 21 de noviembre de 2003.- Vistos:\r\n1.- El proyecto de Modificación del Plano Regulador Comunal vigente de San\r\nFelipe, denominado \"2º Proyecto de Enmienda del Plan Regulador Comunal de San\r\nFelipe\".\r\n2.- El decreto alcaldicio Nº3.783 de fecha 13.17.01.2002.- donde se autoriza la\r\nexposición del Proyecto de Enmienda del Plan Regulador Comunal.\r\n3.- Los certificados acuerdo Nos 740 y 761 de fechas 12 y 19 de marzo de 2003\r\ndel H. Concejo Municipal en que se aprueba la 2ª Enmienda al Plano Regulador de San\r\nFelipe.\r\n4.- El Art. 45º de la Ley General de Urbanismo y Construcciones y el Art.\r\n2.1.13 de la Ordenanza General de Urbanismo y Construcciones.\r\n5.- Estos antecedentes; en uso de las facultades y atribuciones que me confieren\r\nlos Arts. 6º, 10º, 17º, 56º y 58º de la ley Nº18.695, de 1988, Orgánica\r\nConstitucional de Municipalidades y lo dispuesto en el decreto alcaldicio Nº3.760 de\r\n2000.\r\nConsiderando: Que se ha dado cumplimiento a lo dispuesto en la Ley General de\r\nUrbanismo y Construcciones y no habiendo objeciones por parte de la Comunidad,\r\nDecreto:\r\nApruébase la \"2ª Propuesta de E"
+ },
+ {
+  "id": "d1261",
+  "comuna": "san_felipe",
+  "nombre_documento": "plan_regulador",
+  "archivo": "san_felipe_plan_regulador__N-48.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 46,
+  "paginas_escaneadas": 46,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0958",
+  "comuna": "san_fernando",
+  "nombre_documento": "1698_plan_regulador_y_ordenanza_municipal",
+  "archivo": "san_fernando_1698_plan_regulador_y_ordenanza_municipal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 23,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 7,
+   "rasante": 4,
+   "adosamiento": 1,
+   "distanciamiento": 4,
+   "ordenanza_local_txt": 3,
+   "articulado": 13,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1698 EXENTO, SAN FERNANDO (1997)\r\n\r\nDecreto 1698 EXENTO\r\nAPRUEBA ACTUALIZACION DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE SAN FERNANDO\r\nFecha Publicación: 10-SEP-1998 | Fecha Promulgación: 31-DIC-1997\r\nTipo Versión: Única De : 10-SEP-1998\r\nUrl Corta: https://bcn.cl/3mxwr\r\n\r\nAPRUEBA ACTUALIZACION DEL PLAN REGULADOR COMUNAL\r\nSan Fernando, 31 de diciembre de 1997.- Esta alcaldía con fecha de hoy,\r\ndecretó lo siguiente:\r\nNúm. 1.698 exento.- Considerando:\r\nEl certificado de fecha 25 de noviembre de 1997, extendido por el Sr. Secretario\r\nMunicipal, donde certifica la exposición del Plan Regulador Comunal. El Acta de la\r\nNovena Sesión Extraordinaria de fecha 11 de noviembre de 1997, del Concejo\r\nMunicipal, donde aprueba el proyecto de Actualización Plan Regulador de la comuna de\r\nSan Fernando.\r\nVistos: Las facultades que me confiere la Ley Orgánica Constitucional de\r\nMunicipalidades Nº 18.695, de 1988, y sus modificaciones.\r\nD e c r e t o:\r\nApruébese con esta fecha de acuerdo a lo enunciado en el Considerando, la\r\nActualización del Plan Regulador Comunal de San Fernando, para continuar con la\r\ntramitación correspondiente.\r\nAnótese, comuníquese y archívese.- Aquiles Cornejo Cornejo, Alcalde.- Jorge\r\nMorales Ibarra, Secretario Municipal.\r\nORDENANZA LOCAL DEL PLAN REGULADOR SAN FERNANDO\r\nCAPITULO I\r\nDisposiciones Generales\r\nArtículo 1º.- La presente Ordenanza Local del Plan Regulador de San Fernando\r\nen adelante la Ordenanza, define el límite urbano del área planificada, las\r"
+ },
+ {
+  "id": "d0959",
+  "comuna": "san_javier",
+  "nombre_documento": "770_deja_sin_efecto_vias_grabadas_en_la_ordenanza_y_en_el_plan_regulador_vigente",
+  "archivo": "san_javier_770_deja_sin_efecto_vias_grabadas_en_la_ordenanza_y_en_el_plan_regulador_vigente__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 770, SAN JAVIER (2015)\r\n\r\nDecreto 770\r\nDEJA SIN EFECTO LAS VÍAS GRABADAS EN LA ORDENANZA Y EN EL PLAN\r\nREGULADOR VIGENTE DE LA COMUNA DE SAN JAVIER\r\nMUNICIPALIDAD DE SAN JAVIER\r\nFecha Publicación: 23-ABR-2015 | Fecha Promulgación: 16-ABR-2015\r\nTipo Versión: Única De : 23-ABR-2015\r\nUrl Corta: https://bcn.cl/3p18r\r\n\r\nDEJA SIN EFECTO LAS VÍAS GRABADAS EN LA ORDENANZA Y EN EL PLAN REGULADOR VIGENTE DE\r\nLA COMUNA DE SAN JAVIER\r\nNúm. 770.- San Javier, 16 de abril de 2015.- Vistos:\r\n1. El Plan Regulador vigente Comunal de San Javier, publicado en el Diario\r\nOficial el 21 de junio de 1990, y la modificación posterior a su ordenanza local,\r\npublicada en el Diario Oficial el 17 de junio de 1997 denominada PRC.S1-02.\r\n2. El artículo transitorio de la ley Nº 20.791, que modifica la Ley General de\r\nUrbanismo y Construcción en materia de afectaciones de Utilidad Pública de los\r\nPlanes Reguladores.\r\n3. La sesión ordinaria Nº 8 del Honorable Concejo Municipal de San Javier de\r\nfecha 8 de abril de 2015, y el Certificado Nº 34 del Secretario Municipal\r\nSubrogante, en donde se aprueba en forma unánime la eliminación de Vías Grabadas\r\nen la Ordenanza y en el Plan Regulador Vigente de la Comuna de San Javier.\r\n4. Las facultades que me confiere el DFL Nº 1/19.704 de 2006 del Ministerio del\r\nInterior, que fija el texto coordinado y refundido y sistematizado de la Ley 18.695\r\n\"Orgánica Constitucional de Municipalidades\" y sus modificaciones; el Estatuto\r\nAdministrativo Municipal, ley Nº 18.8"
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "pitrufquen_55ac1ed482",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pitrufquen_8_promulga_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "nombre": "pitrufquen_8_promulga_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:12:40",
+  "fin": "2026-07-14T21:15:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "promulga cambio zona B a B1 (equipamiento deportivo): pág1 tiene deslindes + usos permitidos/prohibidos + condiciones edificación (% ocupación 10%, agrupamiento aislado, antejardín 3m, altura según OGUC) en texto nativo"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_f84b1e6422",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_3980_aprueba_ordenanza__doc_34_24072020125710.pdf",
+  "nombre": "la_serena_3980_aprueba_ordenanza__doc_34_24072020125710.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:26:47",
+  "fin": "2026-07-15T08:28:30",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 3980 (24.11.2016), I.Municipalidad de La Serena. Aprueba Ordenanza Municipal sobre Autorizacion de Transporte de Basuras, Desechos, Escombros o Residuos. No es instrumento de planificacion territorial: sin norma urbanistica."
+  }
+}

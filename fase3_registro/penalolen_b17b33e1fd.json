@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_b17b33e1fd",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2002.pdf",
+  "nombre": "penalolen_MPRC_2002.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:45:29",
+  "fin": "2026-07-15T08:47:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        6
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial 37.238 (18-abr-2002), Modificación PRC Peñalolén Parque Cousiño Macul (9p). Págs.4-5 (DO pág.9): Art.32 zonas Z-E (equip. intercomunal) y ZHM-4/ZHM-5, tablas completas (densidad, agrupamiento, subdivisión, frente, %ocup, coef.constr, altura, distanciamiento, rasante, adosamiento, cierros, antejardín). Pág.6 (DO pág.10): ZHM-1, ZHM-2, ZHM-3, mismas columnas completas. Excluidas: pág.3 (solo usos permitidos/prohibidos cualitativos sin valores numéricos), pág.8 (tabla resumen densidad/uso de suelo, redundante con 4-6) y pág.9 (Normas Particulares de Propiedad Industrial, ajeno al PRC)."
+  }
+}

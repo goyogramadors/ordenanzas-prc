@@ -1,0 +1,29 @@
+{
+  "id": "zapallar_24d6e1f382",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\zapallar_2195_aprueba_la_enmienda_no_1_al_plan_regulador__1206507.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "ZAPALLAR: Diario Oficial 22-abr-2017, decreto 2195, Enmienda N1 al PRC. Norma en texto plano completo: modifica el Art 12 de la Ordenanza Local, redefiniendo la localizacion del equipamiento (regulariza el restaurante Cesar en el borde costero). Zona ZR-1: usos permitidos areas verdes y vialidad peatonal, anade equipamiento comercio (actividad restaurante) en la zona de encuentro con ZR-2, frente a rambla Alejandro Fierro. Zona ZR-2: usos permitidos pesca artesanal, vialidad peatonal, areas verdes, areas libres, anade equipamiento comercio (actividad restaurante) en zona de encuentro con ZR-1. Documento completo en 2 paginas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:18:30",
+  "fin": "2026-07-15T23:10:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\zapallar\\zapallar_2195_enmienda1_zr1_zr2.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZR-1",
+      "ZR-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Modifica art.12: permite equipamiento comercio (restaurante) en ZR-1 y ZR-2 en su zona de encuentro (rambla Alejandro Fierro). Sin parametros dimensionales. Verificado contra nota_fase3: coincide."
+  }
+}

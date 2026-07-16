@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_4377b3cbde",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_3432_autoriza_adquisicion_de_04_servicios_de_banqueteria_para__3432.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_3432_autoriza_adquisicion_de_04_servicios_de_banqueteria_para__3432.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:39:16",
+  "fin": "2026-07-15T08:41:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 3432, 22-oct-2019: AUTORICESE la adquisicion de 4 Servicios de Banqueteria para difusion del Plan Regulador. Decreto de compra/contratacion (orden de compra 44.962), tramite administrativo/presupuestario, no contiene tabla de normas urbanisticas. Verificado visualmente, documento de 1 pagina."
+  }
+}

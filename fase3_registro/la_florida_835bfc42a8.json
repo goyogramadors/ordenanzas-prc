@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_835bfc42a8",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\la_florida_1747_promulga_enmienda_n10_al_plan_regulador_vigente_zona_eaa_1__Enmienda_NNro_10_al_PRC.pdf",
+  "nombre": "la_florida_1747_promulga_enmienda_n10_al_plan_regulador_vigente_zona_eaa_1__Enmienda_NNro_10_al_PRC.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:17:48",
+  "fin": "2026-07-15T08:19:10",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial N41.177 (08.06.2015), Decreto 1.747 exento, Municipalidad de La Florida: Promulga Enmienda N10 al PRC, Zona EAA-1 (Zona de Normas Conjuntas, Sector Centro 1, Zona Z-AA1 'zona de edificacion aislada alta'). Modifica Art.41 Cap.IV: Antejardin = 3m construccion obligatoria sobre linea de edificacion; Distancia a medianeros = Segun OGUC (p.2, cuadro con 2 filas). Norma puntual real y acotada a esa zona especifica, no un cuadro completo de zonificacion."
+  }
+}

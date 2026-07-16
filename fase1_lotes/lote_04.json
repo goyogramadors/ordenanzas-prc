@@ -1,0 +1,976 @@
+[
+ {
+  "id": "d0033",
+  "comuna": "caldera",
+  "nombre_documento": "2827_aprueba_plano_seccional_y_enmiendas_al_plan_regulador_comunal",
+  "archivo": "caldera_2827_aprueba_plano_seccional_y_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 51,
+  "paginas_escaneadas": 21,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 6,
+   "articulado": 5,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2827, CALDERA (2012)\r\n\r\nDecreto 2827\r\nAPRUEBA PLANO\r\nCOMUNAL\r\n\r\nSECCIONAL\r\n\r\nY\r\n\r\nENMIENDAS\r\n\r\nAL\r\n\r\nPLAN\r\n\r\nREGULADOR\r\n\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 14-SEP-2012 | Promulgación: 16-AGO-2012\r\nVersión: Última Versión De : 08-AGO-2016\r\nUltima Modificación: 08-AGO-2016 Decreto 756\r\nUrl Corta: https://bcn.cl/3pdt6\r\n\r\nAPRUEBA PLANO SECCIONAL Y ENMIENDAS AL PLAN REGULADOR\r\nCOMUNAL\r\nNúm. 2.827.- Caldera, 16 de agosto de 2012.- Vistos:\r\nActa de acuerdo Nºs. 1162 y 1171 hasta 1227, que define uno\r\na uno los casos consultados que fueron aprobados mediante\r\nacta de acuerdo Nº 769 de fecha 2011 que aprueba la\r\nrectificación de una lista de casos consultados por la\r\ncomunidad y propuestos por la Secretaria de Planificación\r\nComunal y Dirección de Obras; decreto fuerza ley N°\r\n458/75, que aprueba la Ley General de Urbanismo y\r\nConstrucción y la Ordenanza General de Urbanismo y\r\nConstrucción; decreto Nº 225 de fecha 9 de febrero de\r\n2010, que aprueba la actualización del Plan Regulador\r\nComunal; la publicación en el Diario Oficial de fecha\r\nsábado 13 de febrero de 2010, en relación a la entrada en\r\nvigencia de la actualización del Plan Regulador Comunal de\r\nCaldera; decreto N° 1.766 del 7 de julio de 2011, que\r\ndelega funciones a la Administradora Municipal; el decreto\r\n2.630 del 25 de octubre de 2011, que establece subrogancias\r\ny las atribuciones que me otorga la Ley N° 18.695 Orgánica\r\nConstitucional de Municipalidades y sus posteriores\r\nmodificaciones.\r\nConsiderando:\r\n"
+ },
+ {
+  "id": "d0034",
+  "comuna": "caldera",
+  "nombre_documento": "2955_posterga_por_el_plazo_de_tres_meses_otorgamiento_de_permisos_de_edificacion",
+  "archivo": "caldera_2955_posterga_por_el_plazo_de_tres_meses_otorgamiento_de_permisos_de_edificacion__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "postergacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_postergacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "postergacion de permisos: acto temporal, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2955, CALDERA (2016)\r\n\r\nDecreto 2955\r\nPOSTERGA POR EL PLAZO DE TRES MESES OTORGAMIENTO DE PERMISOS\r\nDE EDIFICACIÓN, URBANIZACIÓN, LOTEO Y SUBDIVISIÓN EN LAS ZONAS\r\nU-14 Y U-18 DEL PLAN REGULADOR COMUNAL DE CALDERA\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 08-AGO-2016 | Promulgación: 21-JUL-2016\r\nVersión: Única De : 08-AGO-2016\r\nUrl Corta: https://bcn.cl/3l271\r\n\r\nPOSTERGA POR EL PLAZO DE TRES MESES OTORGAMIENTO DE PERMISOS DE EDIFICACIÓN,\r\nURBANIZACIÓN, LOTEO Y SUBDIVISIÓN EN LAS ZONAS U-14 Y U-18 DEL PLAN REGULADOR\r\nCOMUNAL DE CALDERA\r\nNúm. 2.955.- Caldera, 21 de julio de 2016.\r\nVistos:\r\nArtículo 117 de la Ley General de Urbanismo y Construcciones; las atribuciones\r\nque me confiere la ley N° 18.695, Orgánica Constitucional de Municipalidades, con\r\nsus modificaciones posteriores.\r\nConsiderando:\r\n- El Plan Regulador Comunal vigente aprobado mediante decreto alcaldicio N°\r\n2.827, de fecha 16 de agosto de 2012.\r\n- El Acta de Acuerdo N° 110 del año 2013, en el cual se dispuso la\r\nrealización de los estudios para la modificación del Plan Regulador Comunal de\r\nCaldera.\r\n- Que para la adecuada realización de los referidos estudios se requiere\r\npostergar el otorgamiento de los permisos de edificación, urbanización, loteo y\r\nsubdivisión en las zonas U-14 y U-18, hasta que se hayan aprobado las modificaciones\r\nal instrumento de planificación territorial comunal.\r\n- Que por Ord. N° 761, de fecha 23 de junio de 2016, el Secretario Regional\r\nMinisterial de Vivienda y Urbanismo Región"
+ },
+ {
+  "id": "d0035",
+  "comuna": "caldera",
+  "nombre_documento": "298_aprueba_modificacion_y_publicacion_al_estudio_modificacion_plan_regulador_co",
+  "archivo": "caldera_298_aprueba_modificacion_y_publicacion_al_estudio_modificacion_plan_regulador_co__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "predial_minima": 7,
+   "altura_maxima": 11,
+   "agrupamiento": 12,
+   "antejardin": 7,
+   "distanciamiento": 4,
+   "zonificacion": 3,
+   "usos_de_suelo": 8,
+   "ordenanza_local_txt": 7,
+   "articulado": 16,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZP1"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 298, CALDERA (2002)\r\n\r\nDecreto 298\r\nAPRUEBA MODIFICACION Y PUBLICACION AL ESTUDIO \"MODIFICACION PLAN\r\nREGULADOR COMUNAL, ZONAS U2H, CH, U2E, R21A, R22, SECTOR BAHIA\r\nINGLESA, CALDERA\"\r\nMUNICIPALIDAD DE CALDERA\r\nFecha Publicación: 14-AGO-2002 | Fecha Promulgación: 16-JUL-2002\r\nTipo Versión: Única De : 14-AGO-2002\r\nUrl Corta: https://bcn.cl/3ltcw\r\n\r\nAPRUEBA MODIFICACION Y PUBLICACION AL ESTUDIO \"MODIFICACION PLAN REGULADOR COMUNAL,\r\nZONAS U2H, CH, U2E, R21A, R22, SECTOR BAHIA INGLESA, CALDERA\"\r\nNúm. 298.- Caldera, 16 de julio de 2002.- Vistos: El decreto Nº 1.380 de fecha\r\n24.06.02, el cual aprueba Acta de fecha 23.08.01 del Concejo Comunal, en la cual se\r\naprueba Estudio proyecto Modificación Plan Regulador Comunal, ZONAS U2H, CH, U2E,\r\nR21A, R22, Sector Bahía Inglesa, el Ord. Nº 727 de fecha 24.06.02 Minvu, en el cual\r\nse informa favorablemente del proyecto en mención, y las atribuciones que me\r\nconfiere la ley Nº 18.695 Orgánica y Constitucional de Municipalidades, con sus\r\nmodificaciones posteriores.\r\nD e c r e t o:\r\n1.- Apruébase: La modificación al Plan Regulador Comunal de Caldera, Zonas\r\nU2H, CH, U2E, R21A, R22, Sector Bahía Inglesa, Caldera.\r\n2.- Apruébase: La publicación en el Diario Oficial de su Ordenanza respectiva.\r\n3.- Tómese conocimiento, anótese, comuníquese y archívese.\r\nBrunilda González Anjel, Alcaldesa.- Waldo Wong General, Secretario Municipal.\r\nORDENANZA LOCAL\r\nMODIFICACION PLAN REGULADOR DE CALDERA ZONA U2HCH- U2E- R21A- R21B-R22 SECTOR BAHIA ING"
+ },
+ {
+  "id": "d0036",
+  "comuna": "caldera",
+  "nombre_documento": "756_rectifica_errores_de_la_ordenanza_del_plan_regulador_comunal_de_caldera",
+  "archivo": "caldera_756_rectifica_errores_de_la_ordenanza_del_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 756, CALDERA (2016)\r\n\r\nDecreto 756\r\nRECTIFICA ERRORES DE LA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nDE CALDERA\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 08-AGO-2016 | Promulgación: 17-FEB-2016\r\nVersión: Única De : 08-AGO-2016\r\nUrl Corta: https://bcn.cl/3lu69\r\n\r\nRECTIFICA ERRORES DE LA ORDENANZA DEL PLAN REGULADOR COMUNAL DE CALDERA\r\nNúm. 756.- Caldera, 17 de febrero de 2016.\r\nVistos:\r\nLos artículos 118 y siguientes de la Constitución Política de la República,\r\nartículos 3 letra b), 6 letra b) y 24 letra a) de la ley N° 18.695 Orgánica\r\nConstitucional de Municipalidades y sus posteriores modificaciones, y artículo 62 de\r\nla ley N° 19.880 sobre bases de los procedimientos administrativos que rigen a los\r\nórganos del Estado.\r\nConsiderando:\r\n1. Que, mediante decreto alcaldicio N° 2.827, de fecha 16 de agosto de 2012, se\r\naprobó la actualización del instrumento de planificación territorial que contiene\r\nla Ordenanza del Plan Regulador Comunal de Caldera.\r\n2. Que, esta autoridad edilicia, ha advertido que la Ordenanza del Plan\r\nRegulador Comunal de Caldera, contiene en su artículo 18 una serie de manifiestos\r\nerrores relativos a la ubicación de las áreas verdes que desafecta.\r\n3. Que, al comparar la ubicación de las quince áreas verdes desafectadas por\r\nel mencionado artículo 18 de la Ordenanza del Plan Regulador Comunal de Caldera con\r\nsu respectivo Plano, es posible advertir que en sólo tres lugares existe plena\r\nconcordancia entre ambos instrumentos, en tanto que los doce re"
+ },
+ {
+  "id": "d0037",
+  "comuna": "caldera",
+  "nombre_documento": "decreto_alcaldicio_ordenanza_local_actualizacion_plan_regulador_comuna_de_calder",
+  "archivo": "caldera_decreto_alcaldicio_ordenanza_local_actualizacion_plan_regulador_comuna_de_calder__Decreto N°2827-2012 - APRUEBA PLANO SECCIONAL Y ENMIENDAS AL PLAN REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 65,
+  "paginas_escaneadas": 65,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0518",
+  "comuna": "caldera",
+  "nombre_documento": "1718_aprueba_texto_refundido_de_la_ordenanza_local_del_plan_regulador_comunal_de",
+  "archivo": "caldera_1718_aprueba_texto_refundido_de_la_ordenanza_local_del_plan_regulador_comunal_de__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 57,
+  "paginas_escaneadas": 35,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "antejardin": 6,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 11,
+   "articulado": 15,
+   "limite_urbano": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1718, CALDERA (2021)\r\n\r\nDecreto 1718\r\nAPRUEBA TEXTO REFUNDIDO DE LA ORDENANZA LOCAL DEL PLAN\r\nREGULADOR COMUNAL DE CALDERA Y SU RESPECTIVO PLANO,\r\nINCORPORANDO LAS MODIFICACIONES NO SUSTANCIALES APROBADAS EN\r\nEL MES DE AGOSTO DE 2019 POR EL HONORABLE CONCEJO MUNICIPAL DE\r\nCALDERA\r\nMUNICIPALIDAD DE CALDERA\r\nFecha Publicación: 21-SEP-2021 | Fecha Promulgación: 17-JUN-2021\r\nTipo Versión: Única De : 21-SEP-2021\r\nUrl Corta: https://bcn.cl/3l3dg\r\n\r\nAPRUEBA TEXTO REFUNDIDO DE LA ORDENANZA LOCAL DEL PLAN REGULADOR COMUNAL DE CALDERA Y\r\nSU RESPECTIVO PLANO, INCORPORANDO LAS MODIFICACIONES NO SUSTANCIALES APROBADAS EN EL\r\nMES DE AGOSTO DE 2019 POR EL HONORABLE CONCEJO MUNICIPAL DE CALDERA\r\nNúm. 1.718.- Caldera, 17 de junio de 2021.\r\nVistos:\r\n1. Lo dispuesto en el Art. 118 de la Constitución Política del República, la\r\nLey N° 18.695 de la Orgánica Constitucional de Municipalidades, lo dispuesto en el\r\nDFL N° 458 Ley General de Urbanismo y Construcciones y en su Ordenanza General,\r\nResolución N° 7 que fija normas sobre exención del trámite de toma de razón de\r\nla Contraloría General de la República, Decreto Alcaldicio 225 de 09 de febrero del\r\n2010 que aprueba actualización del Plan Regulador Comunal de Caldera, Decreto\r\nAlcaldicio N° 2827 de 16 de agosto del 2012 que aprueba plano seccional y enmiendas\r\nal Plan Regulador Comunal, Acuerdo N° 1312/2019 de fecha 06 de junio de 2019 del H.\r\nConcejo Municipal de Caldera se acuerda dar inicio al procedimiento para la\r\nelaboración y ap"
+ },
+ {
+  "id": "d0519",
+  "comuna": "caldera",
+  "nombre_documento": "225_promulga_actualizacion_plan_regulador_comunal_de_caldera",
+  "archivo": "caldera_225_promulga_actualizacion_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 32,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 5,
+   "agrupamiento": 3,
+   "antejardin": 5,
+   "rasante": 3,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 10,
+   "articulado": 22,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (altura_maxima, agrupamiento, antejardin, rasante)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 225, CALDERA (2010)\r\n\r\nDecreto 225\r\nPROMULGA ACTUALIZACION PLAN REGULADOR COMUNAL DE CALDERA\r\nMUNICIPALIDAD DE CALDERA\r\nFecha Publicación: 13-FEB-2010 | Fecha Promulgación: 09-FEB-2010\r\nTipo Versión: Única De : 13-FEB-2010\r\nTiene Texto Refundido: DECRETO-1718 2021-09-21\r\nUltima Modificación: 21-SEP-2021 Decreto 1718\r\nUrl Corta: https://bcn.cl/3pbcm\r\n\r\nPROMULGA ACTUALIZACION PLAN REGULADOR COMUNAL DE CALDERA\r\nNúm. 225.- Caldera, 9 de febrero de 2010.- Vistos: El Decreto Nº 517 de fecha\r\n03 de Septiembre de 2004 que aprueba el llamado a Propuesta Pública \" Actualización\r\nPlan Regulador Comuna de Caldera\"; el Decreto Nº 740 de fecha 13 de Julio del 2008\r\nque aprueba el reinicio del proyecto \" Actualización Plan Regulador Comunal de\r\nCaldera\"; la Resolución Exenta Nº 135 de fecha 02 de Julio de 2009 de la CONAMA III\r\nRegión Atacama, que califica ambientalmente el proyecto \"Actualización Plan\r\nRegulador Comunal de Caldera\"; el Acta de Concejo Nº 253/09, sesión ordinaria 026\r\nde fecha 21 de Agosto de 2009 que aprueba el Estudio \"Actualización Plan Regulador\r\nComunal de Caldera\"; Informe favorable de la Secretaría Regional Ministerial de\r\nVivienda y Urbanismo, Atacama, Ord. Nº 150 de fecha 09 de Febrero de 2010; la\r\nOrdenanza del Plan Regulador Intercomunal de las comunas costeras de Atacama:\r\nFreirina- Huasco- Copiapó- Caldera- Chañaral, sus planos y documentos\r\nconstitutivos, y las facultades que me confiere la Ley Nº 18.695 Orgánica y\r\nConstitucional de Municipalidades co"
+ },
+ {
+  "id": "d0520",
+  "comuna": "caldera",
+  "nombre_documento": "296_aprueba_modificacion_y_publicacion_al_proyecto_modificacion_plan_regulador_d",
+  "archivo": "caldera_296_aprueba_modificacion_y_publicacion_al_proyecto_modificacion_plan_regulador_d__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 5,
+   "predial_minima": 11,
+   "altura_maxima": 14,
+   "agrupamiento": 12,
+   "antejardin": 6,
+   "rasante": 3,
+   "distanciamiento": 5,
+   "zonificacion": 3,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 8,
+   "articulado": 17,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZP-1",
+   "ZP-2"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 296, CALDERA (2002)\r\n\r\nDecreto 296\r\nAPRUEBA MODIFICACION Y PUBLICACION AL PROYECTO \"MODIFICACION\r\nPLAN REGULADOR DE CALDERA, ZONAS U3ACB, R21A, R21B, R22, SECTOR\r\nPLAYA RAMADA\"\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 14-AGO-2002 | Promulgación: 16-JUL-2002\r\nVersión: Única De : 14-AGO-2002\r\nUrl Corta: https://bcn.cl/3s9hg\r\n\r\nAPRUEBA MODIFICACION Y PUBLICACION AL PROYECTO \"MODIFICACION PLAN REGULADOR DE\r\nCALDERA, ZONAS U3ACB, R21A, R21B, R22, SECTOR PLAYA RAMADA\"\r\nNúm. 296.- Caldera, 16 de julio de 2002.\r\nVistos: El Dto. Nº 1.382 de fecha 24.08.01, publicaciones de fecha 27.08.01 y\r\n04.09.01 Diario Chañarcillo, Ord. Nº 243 de Conama, Res. exenta Nº 82 de fecha\r\n13.09.01, Ord. Nº 0077 de fecha 20.02.02, Conama, Res. exenta Nº 19 de fecha\r\n06.02.02, memorándum Nº 70 Secretario Municipal en el cual se informa que se\r\naprueba proyecto \"Modificación Plan Regulador de Caldera, zonas, U3ACB, R21A, R21B,\r\nR22, Sector Ramada, Caldera\", el Ord. Nº 801 de fecha 09.07.02 en el cual se informa\r\nfavorablemente el plan en su versión actual y las atribuciones que me confiere la\r\nley Nº 18.695 Orgánica Constitucional de Municipalidades, con sus modificaciones\r\nposteriores.\r\nD e c r e t o:\r\n1.- Apruébase: La \"Modificación al Plan Regulador Comunal de Caldera, zonas\r\nU3ACB, R21A, R21B, R22 Sector Ramada, Caldera\".\r\n2.- Apruébase: La publicación en el Diario Oficial de su Ordenanza respectiva.\r\nTómese conocimiento, anótese, comuníquese y archívese.- Brunilda González\r\nAnjel, Alcaldesa.- Wa"
+ },
+ {
+  "id": "d0521",
+  "comuna": "caldera",
+  "nombre_documento": "297_aprueba_modificacion_y_publicacion_al_proyecto_plan_regulador_comunal_de_cal",
+  "archivo": "caldera_297_aprueba_modificacion_y_publicacion_al_proyecto_plan_regulador_comunal_de_cal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "agrupamiento": 1,
+   "antejardin": 2,
+   "adosamiento": 2,
+   "distanciamiento": 3,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 31
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE",
+   "ZE1",
+   "ZE3",
+   "ZE4",
+   "ZONA"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 297, CALDERA (2002)\r\n\r\nDecreto 297\r\nAPRUEBA MODIFICACION Y PUBLICACION AL PROYECTO PLAN REGULADOR\r\nCOMUNAL DE CALDERA, SECTOR PUNTA PESCADORES, BAHIA INGLESA,\r\nCALDERA\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 14-AGO-2002 | Promulgación: 16-JUL-2002\r\nVersión: Única De : 14-AGO-2002\r\nUrl Corta: https://bcn.cl/3let1\r\n\r\nAPRUEBA \"MODIFICACION Y PUBLICACION AL PROYECTO PLAN REGULADOR COMUNAL DE CALDERA,\r\nSECTOR PUNTA PESCADORES, BAHIA INGLESA, CALDERA\"\r\nNúm. 297.- Caldera, 16 de julio de 2002.- Vistos: El Ord. Nº 005 de fecha\r\n16.03.99 del Concejo Comunal en que se aprueba la tramitación legal del proyecto\r\n\"Modificación al Plan Regulador de Caldera, Sector Punta Pescadores, Bahía Inglesa,\r\nCaldera\", el Dto. Nº 863 de fecha 16.07.99 que aprueba Acta, el Ord. Nº 738 de\r\nfecha 26.06.02 del Minvu, y las atribuciones que me confiere la Ley Nº 18.695,\r\nOrgánica Constitucional de Municipalidades con sus modificaciones posteriores.\r\nD e c r e t o:\r\n1.- Apruébase: La \"modificación al Plan Regulador Comunal de Caldera, Sector\r\nPunta Pescadores, Bahía Inglesa, Caldera\".\r\n2.- Apruébase: La publicación en el Diario Oficial de su Ordenanza respectiva.\r\n3.- Tómese conocimiento, anótese, comuníquese y archívese. Brunilda\r\nGonzález Anjel, Alcaldesa. Waldo Wong General, Secretario Municipal.\r\nMUNICIPALIDAD DE CALDERA ORDENANZA LOCAL ESPECIAL PSPPC\r\nORDENANZA LOCAL ESPECIAL\r\nPLAN SECCIONAL PUNTA PESCADORES COMUNA DE CALDERA III REGION DE ATACAMA\r\nCAPITULO I\r\nDisposiciones Generales\r\n\r\nArtícul"
+ },
+ {
+  "id": "d0522",
+  "comuna": "caldera",
+  "nombre_documento": "525_aprueba_aprobacion_y_publicacion_del_proyecto_denominado_modificacion_al_pla",
+  "archivo": "caldera_525_aprueba_aprobacion_y_publicacion_del_proyecto_denominado_modificacion_al_pla__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 14,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "rasante": 1,
+   "distanciamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 2,
+   "articulado": 17,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 11 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 525, CALDERA (2004)\r\n\r\nDecreto 525\r\nAPRUEBA APROBACION Y PUBLICACION DEL PROYECTO DENOMINADO\r\n\"MODIFICACION AL PLAN REGULADOR DE CALDERA, ZONAS CD, U1D, U2D,\r\nR21E, R21F, R3\", SECTOR INDUSTRIAL NORTE\"\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 26-OCT-2004 | Promulgación: 07-SEP-2004\r\nVersión: Única De : 26-OCT-2004\r\nUrl Corta: https://bcn.cl/3mr3y\r\n\r\nAPRUEBA APROBACION Y PUBLICACION DEL PROYECTO DENOMINADO \"MODIFICACION AL PLAN\r\nREGULADOR DE CALDERA, ZONAS CD, U1D, U2D, R21E, R21F, R3\", SECTOR INDUSTRIAL NORTE\"\r\nNúm. 525.- Caldera, 7 de septiembre de 2004.- Vistos: El Memorándum Nº 248 de\r\nfecha 24 de agosto de 2004 de la Secretaría Comunal de Planificación al Honorable\r\nConcejo en el cual se solicita la aprobación y publicación del proyecto en\r\nmención, Memorándum Nº 172 de fecha 7 de septiembre de 2004 en el cual el Concejo\r\nda su aprobación y las atribuciones que me confiere la ley Nº 18.695, \"Orgánica y\r\nConstitucional de Municipalidades\", con sus modificaciones posteriores.\r\nD e c r e t o:\r\n1.- Apruébase: La aprobación del Proyecto \"Modificación al Plan Regulador de\r\nCaldera, Zonas CD, U1D, U2D, R21F, R3\", Sector Industrial Norte.\r\n2.- Apruébase: La publicación del proyecto \"Modificación al Plan Regulador de\r\nCaldera, Zonas CD, U1D, U2D, R21F, R3\", Sector Industrial Norte.\r\n3.- Impútese: El cumplimiento del presente decreto a la asignación\r\npresupuestaria 6130654.\r\nAnótese, comuníquese, regístrese y archívese.- Brunilda González Anjel,\r\nAlcaldesa.- Waldo Wong Genera"
+ },
+ {
+  "id": "d0523",
+  "comuna": "caldera",
+  "nombre_documento": "718_aprueba_modificacion_a_los_planes_reguladores_de_caldera_y_copiapo_sector_ba",
+  "archivo": "caldera_718_aprueba_modificacion_a_los_planes_reguladores_de_caldera_y_copiapo_sector_ba__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 29,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "densidad": 1,
+   "antejardin": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 718, CALDERA (2003)\r\n\r\nDecreto 718\r\nAPRUEBA MODIFICACION A LOS PLANES REGULADORES DE CALDERA Y\r\nCOPIAPO, SECTOR BAHIA SALADO\r\nMUNICIPALIDAD DE CALDERA\r\nPublicación: 01-SEP-2005 | Promulgación: 30-ABR-2003\r\nVersión: Única De : 01-SEP-2005\r\nUrl Corta: https://bcn.cl/3oerw\r\n\r\nAPRUEBA MODIFICACION A LOS PLANES REGULADORES DE CALDERA Y COPIAPO, SECTOR BAHIA\r\nSALADO\r\nNúm. 718.- Caldera, 30 de abril de 2003.- Vistos: La resolución exenta Nº 15\r\nde fecha 31 de enero de 2002 de la Comisión Regional del Medio Ambiente que califica\r\nfavorablemente el proyecto \"Modificación de los Planes Reguladores de Caldera y\r\nCopiapó, Sector Bahía Salado\"; Ord. Nº 916 de fecha 31 de julio de 2002 del\r\nSecretario Ministerial de Vivienda y Urbanismo Región de Atacama que informa de la\r\n\"Modificación de los Planes Reguladores de Caldera y Copiapó, Sector Bahía Salado\"\r\nrespeta la equivalencia de superficie del Plan Intercomunal Costero de Atacama; el\r\ncertificado G.D. Nº 01/03 del Gerente de Desarrollo de la Empresa de Servicios\r\nSanitarios de Atacama S.A. que informa que técnicamente es posible dotar de agua\r\npotable y alcantarillado al proyecto urbano \"Plan Bahía Salado de Atacama\"; el\r\nacuerdo tomado en la Sesión Extraordinaria Nº 132 de fecha 24 de marzo de 2003, por\r\nla unanimidad de los miembros en ejercicio del Honorable Concejo Municipal de\r\nCaldera, de aprobar la \"Modificación a los Planes Reguladores de Caldera y Copiapó,\r\nsector Bahía Salado\"; el decreto alcaldicio Nº 455 de fecha 24 "
+ },
+ {
+  "id": "d0524",
+  "comuna": "caldera",
+  "nombre_documento": "sn_modifica_plan_regulador_de_caldera_zona_u2ac_r22_sector_oriente_camino_calder",
+  "archivo": "caldera_sn_modifica_plan_regulador_de_caldera_zona_u2ac_r22_sector_oriente_camino_calder__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "predial_minima": 4,
+   "altura_maxima": 2,
+   "agrupamiento": 8,
+   "antejardin": 4,
+   "distanciamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 5,
+   "articulado": 24,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Ordenanza S/N, CALDERA\r\n\r\nOrdenanza S/N\r\nMODIFICA PLAN REGULADOR DE CALDERA ZONA U2AC -R22 SECTOR\r\nORIENTE CAMINO CALDERA BAHIA INGLESA\r\nMUNICIPALIDAD DE CALDERA\r\nFecha Publicación: 31-ENE-2004\r\nTipo Versión: Única De : 31-ENE-2004\r\nUrl Corta: https://bcn.cl/3n1zk\r\n\r\nMODIFICA PLAN REGULADOR DE CALDERA ZONA U2AC -R22 SECTOR ORIENTE CAMINO CALDERA BAHIA\r\nINGLESA\r\nCAPITULO I\r\nDisposiciones Generales\r\nArtículo 1: La presente Ordenanza Local, modifica la zona U2AC-R22 del Plan\r\nRegulador de Caldera de 1990, en el sentido de establecer 2 nuevas sub zonas con sus\r\ncorrespondientes normas sobre: límites, zonificación, usos de suelo, condiciones de\r\nsubdivisión predial, edificación, urbanización y vialidad. Dichas normas regirán\r\ndentro del Límite territorial del Plan descrito en el artículo 6° y, graficado en\r\nel Plano P-MOD-CAL- ORIENTE CAMINO CALDERA- BAHÍA INGLESA, en adelante el plano, y\r\nque complementa la información contenida en él.\r\nArtículo 2: El área de aplicación del Plan de Modificación al P.R.C.\r\ncorresponde al área urbana de la zona U2AC-R22, definida por la poligonal graficada\r\nen el plano, cuyos puntos y tramos se describen en el artículo 6° de esta\r\nOrdenanza.\r\nArtículo 3: Todas aquellas materias atingentes al desarrollo urbano que no se\r\nencontraren reglamentadas por esta Ordenanza, se regirán por las disposiciones de la\r\nLey General de Urbanismo y Construcciones, de la Ordenanza General de Urbanismo y\r\nConstrucciones y demás disposiciones legales y reglamentarias s"
+ },
+ {
+  "id": "d0038",
+  "comuna": "calle_larga",
+  "nombre_documento": "estoy_revisando_el_plan_municipal_cultural_y_el_plan_regulador_comunal_no_especi",
+  "archivo": "calle_larga_estoy_revisando_el_plan_municipal_cultural_y_el_plan_regulador_comunal_no_especi__b6e6a997-020b-406e-8dbb-e646db823412.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Calle Larga\r\n\r\nOficio / Nº 05/2026\r\nANT. : Solicitud de acceso a la información Pública Ley 20.285, Nº MU023T0001602 , de fecha\r\n11/12/2025\r\nMAT. : Accede a la entrega de información solicitada\r\nCALLE LARGA, 12/01/2026\r\n\r\nA : SR/A. CAMILA ANDREA IGNACIA BRAVO GOMEZ\r\nDE : SR/SRA.\r\nMunicipalidad de Calle Larga\r\nJunto con saludar y en virtud de su solicitud de información sobre acceso a la información pública número\r\nMU023T0001602, ingresada a Municipalidad de Calle Larga con fecha 11/12/2025, me es grato comunicar que se\r\nadjunta la siguiente información:\r\nInformar que respecto a su solicitud de información, mencionar que no se considera ninguna zona del tipo \"\r\nPatrimonio Natural\" es por eso que no aparece reflejada en el Plan Regulador Comunal.. Que se corresponde con la\r\ninformación que usted señaló como: Estoy revisando el Plan Municipal cultural y el Plan regulador comunal, no\r\nespecifican cual son los sitios de Patrimonio Natural consideradas en la zona..\r\nEsta información será entregada en forma gratuita a través de la forma y los medios señalados en su solicitud.\r\nDe no encontrarse conforme con la respuesta precedente, en contra de esta respuesta usted podrá interponer\r\nun reclamo ante el Consejo para la Transparencia dentro el plazo de 15 días hábiles contados desde la notificación de la\r\nmisma.\r\nEsperando haber dado respuesta a su consulta, cordialmente me despido.\r\nAtentamente.\r\nAngelica Donoso\r\nMunicipalidad de Calle Larga\r\n\r\nADJ: Oficio 05/2026\r\nDI"
+ },
+ {
+  "id": "d0039",
+  "comuna": "calle_larga",
+  "nombre_documento": "necesito_el_plano_regulador_vigente_de_la_comuna",
+  "archivo": "calle_larga_necesito_el_plano_regulador_vigente_de_la_comuna__2db55979-ceff-45b9-85ac-cef3fb2a3dc9.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_solicitud": 4
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Calle Larga\r\n\r\nOficio / Nº 126/2025\r\nANT. : Solicitud de acceso a la información Nº MU023T0001500 , de fecha 11/06/2025\r\nMAT. : Responde solicitud de información, en conformidad al artículo 15 de la Ley de\r\nTransparencia.\r\nCALLE LARGA, 10/07/2025,\r\n\r\nA : SR/A. Maria Inés Ovalle Cruz\r\nDE : SR/SRA.\r\nMunicipalidad de Calle Larga\r\nCon fecha 11/06/2025 , se ha recibido la solicitud de información pública Nº MU023T0001500, cuyo tenor literal es el\r\nsiguiente: Necesito el plano regulador vigente de la comuna\r\nEfectuada la búsqueda de la información solicitada, se verificó que ésta se encuentra Permanentemente a disposición\r\ndel público. Por tanto y de conformidad a lo dispuesto por el artículo 15 de la Ley de Transparencia de la Función\r\nPública y de Acceso a la Información de la Administración del Estado, cumplo con comunicarle que para acceder a dicha\r\ninformación, deberá Le informo que el Plan Regulador de la comuna lo puede encontrar ingresando al sitio de la Ilustre\r\nMunicipalidad de Calle Larga, en el ítem de: -Transparencia Pro-Activa -Otros Antecedentes -Cuentas Publicas -Pladeco\r\n-Plan Regulador - Plan Regulador Inter Comunal - Plan regulador Comunal .\r\nEn todo caso y de no encontrarse conforme con la respuesta precedente, en contra de esta decisión Usted podrá\r\ninterponer amparo a su derecho de acceso a la información ante el Consejo para la Transparencia en el plazo de 15\r\ndías hábiles contados desde la notificación de este Oficio.\r\nSaluda atentamente\r\n\r\n"
+ },
+ {
+  "id": "d0525",
+  "comuna": "calle_larga",
+  "nombre_documento": "353_enmienda_n_1_al_plan_regulador_comunal_de_calle_larga",
+  "archivo": "calle_larga_353_enmienda_n_1_al_plan_regulador_comunal_de_calle_larga__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "densidad": 17,
+   "ordenanza_local_txt": 4,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU",
+   "ZU-2",
+   "ZU-2A",
+   "ZU-3",
+   "ZU-3A",
+   "ZU-4",
+   "ZU-5",
+   "ZU-6"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 353 EXENTO, CALLE LARGA (2022)\r\n\r\nDecreto 353 EXENTO\r\nENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE CALLE LARGA\r\nMUNICIPALIDAD DE CALLE LARGA\r\nPublicación: 03-JUN-2022 | Promulgación: 13-MAY-2022\r\nVersión: Única De : 03-JUN-2022\r\nUrl Corta: https://bcn.cl/3md3i\r\n\r\nENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE CALLE LARGA\r\nNúm. 535 exento.- Calle Larga, 13 de mayo de 2022.\r\nVistos:\r\nEl Memorándum DOM N° 01/2021, de fecha 05/07/2021, del Director de Obras\r\nMunicipales a la Alcaldesa, solicitando autorización para iniciar el proceso de\r\naprobación de la Enmienda N° 1 al Plan Regulador Comunal de Calle Larga; el decreto\r\nexento N° 666, de fecha 20/07/2021, que autoriza dar inicio al proceso de\r\naprobación de la Enmienda N° 1 al Plan Regulador Comunal de Calle Larga; el Acta\r\nN° 1 de la Comisión Territorial del Concejo Municipal de Calle Larga, de fecha\r\n11/03/2021; la Memoria Explicativa de la Enmienda N° 1 del Plan Regulador Comunal de\r\nCalle Larga; la Carta Certificada, de fecha diciembre de 2021, mediante la cual la\r\nAlcaldesa informa a las Dirigentas y Dirigentes vecinales y territoriales acerca de\r\nlas principales características de la propuesta de Enmienda N° 1 al Plan Regulador\r\nComunal de Calle Larga; el Certificado sin número, de fecha 11/01/2022, del Director\r\ndel Diario Electrónico Los Andes Online, indicando que con fecha 23 y 30 de\r\ndiciembre de 2021, fueron publicados los llamados a Participación de Consulta\r\nPública por la Enmienda N° 1 al Plan Regulador Comunal "
+ },
+ {
+  "id": "d0526",
+  "comuna": "calle_larga",
+  "nombre_documento": "decreto_dejese_establecido_que_el_expediente_del_proyecto_de_actualizacion_del_p",
+  "archivo": "calle_larga_decreto_dejese_establecido_que_el_expediente_del_proyecto_de_actualizacion_del_p__218.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 38,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "normas_urbanisticas": 3,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 6,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 4
+  },
+  "codigos_zona": [
+   "ZAV",
+   "ZE-3",
+   "ZE-4",
+   "ZE-5",
+   "ZU",
+   "ZU-1",
+   "ZU-2",
+   "ZU-3",
+   "ZU-4",
+   "ZU-5",
+   "ZU-6",
+   "ZU3"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 13 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDADDECALLELARGA\r\nDIRECCIONDEOBRASMUNICIPALES\r\n\r\nPromulgacionActualizacion Plan ReguladorComunal CalleLarga\r\n\r\nMDNICIR\r\n\r\nDECRETOEXENTONO:\r\n\r\nCalle Larga, 2 5 FEB. 2014\r\nVISTOS:\r\nEl D.F.L N° 458 de 1975 Ley General de Urbanismo y Construcciones y sus modificaciones; el D.S. No\r\n47 de 1992 Ordenanza General de Urbanismo y Construcciones y sus modificaciones; el Decreto No\r\n142 de fecha 07/09/1984 del Ministerio de Vivienda y Urbanismo, que aprueba el Plan Regulador\r\nComunal de Calle Larga; la Resolucion No 31-01 Afecta de fecha 07/02/1994 del Gobierno Regional de\r\nValparaiso, que aprueba el Plan Regulador Intercomunal del Valle del Auco; la Resolucion 31-4-036\r\nAfecta de fecha 05/08/1996 del Gobierno Regional de Valparaiso, que aprueba Modificacion al Plan\r\nRegulador Intercomunal del Valle del Auco; la Resolucion 31-4-42 Afecta de fecha 10/05/2004 del\r\nGobierno Regional de Valparaiso, que aprueba modificacion al Plan Regulador Intercomunal del Valle\r\ndel Auco; el ORD. No 259/2011 de fecha 13/05/2011 de la 1. Municipalidad de Calle Larga, que solicita\r\nrecursos a la SEREMI de Vivienda y Urbanismo Region de Valparaiso, para financiar la actualizacion\r\ndel Plan Regulador Comunal vigente; el ORD N° 0191 de fecha 17/03/2011 de la Division de Desarrollo\r\n\r\nUrbano del Ministerio de Vivienda y Urbanismo, que aprueba el \"Programa de Actualizacion de\r\nInstrumentos de Planificacion Territorial\" para el ano 2011 en la Region de Valparaiso; el ORD. No 663\r\n\r\nde fecha 01/04/2011 de"
+ },
+ {
+  "id": "d0527",
+  "comuna": "canela",
+  "nombre_documento": "decreto_alcaldicio_28_iniciese_el_proceso_de_aprobacion_de_la_modificacion_del_p",
+  "archivo": "canela_decreto_alcaldicio_28_iniciese_el_proceso_de_aprobacion_de_la_modificacion_del_p__DECRETO_28.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_inicio": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "REPUBLICADECHILE\r\n\r\nILUSTREMUNICIPALIDADDECANELA\r\n\r\nSECRETARIACOMUNALDEPLANIFICACION\r\n\r\nfa lantes\r\n\r\nCANELA, 10 c\r\n\r\nVISTOS:\r\n1. Las facultades que me confiere la Ley 18.695, Organica Constitucional de\r\nMunicipalidades;\r\n\r\n2. La ley N°19.300 sobre Bases General del Medio Ambiente y sus modificaciones;\r\n3. Certificado de Acuerdo de Concejo Municipal n° 13 de fecha 29 de diciembre de\r\n2021 , aprueba continuar con la tramitacion del Plan Regulador de la comuna de\r\n\r\nCanela, prescindiendo de las observaciones, formuladas por el Ministerio del\r\nMedio Ambiente, en aplicacion de articulo 23 de Reglamento de la Ley 19.300,\r\n\r\nsobre Bases Generales de Medio Ambiente.\r\n4. Certificado de Acuerdo de Concejo Municipal N° 13 de fecha 29 de diciembre de\r\n2021, aprueba “Dar Inicio al proceso de aprobacion del Plan Regulador Comunal\r\nde Canela\".\r\n\r\n5. Lo establecido en articulos 43 y 44 de la Ley General de Urbanismo y\r\nConstrucciones y articulos 2.1.10 y 2.1.11 de la Ordenanza General de Urbanismo\r\ny Construcciones.\r\n6. Lo establecido en Decreto Supremo 32 de fecha 4 de noviembre de 2015, Aprueba\r\nReglamento para Evaluacion Ambiental Estrategica, articulos 24 y 25 Consulta\r\nPublica EAE.\r\n\r\n7. Lo establecido en el Articulo 7°bis de la Ley N°19.300 de Bases Generales del\r\n\r\nMedio Ambiente, y teniendo presente las disposiciones senaladas en el Articulo 24\r\ndel Reglamento para la Evaluacion Ambiental Estrategica, se realizara la Consulta\r\n\r\nPublica del Plan Regulador comunal de Los Vilos, Region"
+ },
+ {
+  "id": "d0528",
+  "comuna": "canete",
+  "nombre_documento": "doc_009_140219010216",
+  "archivo": "canete_doc_009_140219010216.PDF",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 40,
+  "paginas_escaneadas": 13,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 4,
+   "antejardin": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 3,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA-1",
+   "ZONA"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 13 senales normativas (constructibilidad, predial_minima, altura_maxima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR COMUNAL\r\nCAÑETE\r\nDIRECCIÓN DE OBRAS\r\nILUSTRE MUNICIPALIDAD DE CAÑETE\r\n\r\n\fPLAN REGULADOR , CAÑETE\r\n1. NORMATIVA GENERALES\r\nLa confección y aprobación del Plan Regulador se enmarca en lo dispuesto en la\r\nLey General de Urbanismo y Construcciones DFL N°458 del MINVU.\r\nLey 19300 sobre Bases y Medio Ambiente.\r\nEl artículo 2.1.10 de la O.G.U.C. establece que el Plan Regulador será confeccionado\r\npor la Ilustre Municipalidad de la comuna correspondiente y deberá estar\r\nconfeccionado por:\r\n Memoria Explicativa\r\n Estudio de factibilidad\r\n Ordenanza local\r\n Plano a escala 1:5000 donde se graficara con precisión los límites urbanos que se\r\nproponen.\r\n\r\n\fPLAN REGULADOR CAÑETE\r\n2. NORMATIVA LOCAL Y ZONIFICACIÓN\r\na. DEFINICIÓN: Articulo 1 : Definición del Plan Regulador\r\nArtículo 2: Marco Regulatorio, Territorio del Plan, Responsabilidades\r\nb. LIMITE URBANO:\r\nNORTE: Estero Huillinco\r\nSUR: Río Leiva\r\nPONIENTE: Río Tucapel por la Población Cardenal Raúl Silva Henríquez y\r\n500 mt con línea imaginaria desde la Población Tucapel 2\r\nORIENTE: Estero Caillín\r\nc. DEFINICIÓN DE ZONAS:\r\nTIPOS DE USOS DE SUELO\r\nCONDICIONES DE EDIFICACION\r\n\r\n\fZONIFICACIÓN PLAN REGULADOR CAÑETE\r\n\r\nCAÑETE\r\n\r\nSANTA ELENA,\r\nCAYUCUPIL\r\n\r\n\f1. ZONA A-1:\r\nZA-1: Centro de la ciudad\r\n\r\nRESIDENCIAL - MIXTA\r\n\r\n\f1. ZONA A-1: ZA-1\r\n\r\nRESIDENCIAL - MIXTA\r\n\r\nZONA A-1: ZA-1\r\nZonas Residenciales Mixtas:\r\nZona A-1: Residencial mixta - 1\r\n\r\nCONDICIONES DE EDIFICACIÓN ZONA ZA-1\r\nResidencial Mixta – 1\r\nSuperficie Predial "
+ },
+ {
+  "id": "d0529",
+  "comuna": "carahue",
+  "nombre_documento": "8_aprueba_plan_regulador_comunal_de_carahue_y_de_la_localidad_de_trovolhue",
+  "archivo": "carahue_8_aprueba_plan_regulador_comunal_de_carahue_y_de_la_localidad_de_trovolhue__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 33,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "agrupamiento": 4,
+   "antejardin": 2,
+   "rasante": 3,
+   "adosamiento": 2,
+   "distanciamiento": 4,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 8,
+   "articulado": 28,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 8, VIVIENDA (1989)\r\n\r\nDecreto 8\r\nAPRUEBA PLAN REGULADOR COMUNAL DE CARAHUE Y DE LA LOCALIDAD\r\nDE TROVOLHUE\r\nMINISTERIO DE VIVIENDA Y URBANISMO; SUBSECRETARÍA DE VIVIENDA Y\r\nURBANISMO\r\nFecha Publicación: 05-ABR-1989 | Fecha Promulgación: 12-ENE-1989\r\nTipo Versión: Última Versión De : 04-ENE-2013\r\nUltima Modificación: 04-ENE-2013 Decreto 29\r\nUrl Corta: https://bcn.cl/3mhyp\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE CARAHUE Y DE LA LOCALIDAD\r\nDE TROVOLHUE\r\nSantiago, 12 de Enero de 1989.- Hoy se decretó lo que\r\nsigue:\r\nNúm. 8.- Visto: Lo dispuesto en los artículos 2° y\r\n9° de la ley No. 16.391 y 12 letra i) del DL No. 1.305, de\r\n1976; los artículos 41 al 44, 53 y 54 del D.F.L. No. 458\r\n(V. y U), de 1975, Ley General de Urbanismo y\r\nConstrucciones; el artículo transitorio de la ley No.\r\n18.738; el artículo 550 de la Ordenanza General de\r\nConstrucciones y Urbanización, el Decreto Alcaldicio No.\r\n041, de 31 de Marzo de 1988, de la I. Municipalidad de\r\nCarahue; y, los antecedentes que se acompañan,\r\nDecreto:\r\nArtículo 1°.- Apruébanse el nuevo Plan Regulador\r\nComunal de Carahue y el Plan Regulador de la localidad de\r\nTrovolhue, en conformidad a lo indicado en la Memoria\r\nExplicativa, los respectivos Estudios de Factibilidad de\r\nAgua Potable y Alcantarillado, las Ordenanzas Locales y los\r\nPlanos PR-1, denominado \"Plano Regulador Comunal de Carahue\"\r\ny PR-2, denominado \"Plano Regulador de la localidad de\r\nTrovolhue\", confeccionados a escala 1:5000 por la I.\r\nMunicipalidad de Carahue, "
+ },
+ {
+  "id": "d0530",
+  "comuna": "casablanca",
+  "nombre_documento": "4674_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_casab",
+  "archivo": "casablanca_4674_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_casab__download.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 49,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 4,
+   "ordenanza_local_txt": 4,
+   "articulado": 12,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (agrupamiento, zonificacion, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.781\r\n\r\n|\r\n\r\nViernes 16 de Octubre de 2020\r\n\r\n|\r\n\r\nPágina 1 de 49\r\n\r\nNormas Generales\r\nCVE 1829760\r\n\r\nMUNICIPALIDAD DE CASABLANCA\r\n\r\nPROMULGA APROBACIÓN DE LA ACTUALIZACIÓN AL PLAN REGULADOR\r\nCOMUNAL DE CASABLANCA\r\nNúm. 4.674.- Casablanca, 1 de octubre de 2020.\r\nVistos:\r\n1. Oficio Nº 63 de fecha 01.10.2020 de Director de Obras Municipales a Sr. Alcalde,\r\nsolicita dictar decreto alcaldicio de promulgación de Plan Regulador Comunal.\r\n2. Ordinario Nº 1767 de fecha 13.08.2020 de Seremi Minvu que emite informe favorable,\r\nque cierra proceso administrativo de Estudio de actualización del PRC de Casablanca.\r\n3. Oficio alcaldicio Nº 427 de fecha 14.07.2020 que informa subsanación de observaciones\r\ne ingreso de expediente técnico y administrativo corregido de Estudio de actualización del PRC\r\nde Casablanca a Seremi Minvu para revisión y emisión de informe de acuerdo a artículo 2.1.11\r\nde la OGUC.\r\n4. Resolución exenta Nº 1.232 de fecha 06.07.2020 de la Seremi Minvu que autoriza la\r\nampliación de plazo para dar respuesta a observaciones emitidas a Estudio de actualización del\r\nPRC de Casablanca.\r\n5. Mail de fecha 02.07.2020 del Director de Obras Municipales a Seremi Minvu solicitando\r\nextensión de plazo para subsanación de observaciones a Estudio de actualización del PRC de\r\nCasablanca.\r\n6. Ordinario Nº 1251 de "
+ },
+ {
+  "id": "d0531",
+  "comuna": "casablanca",
+  "nombre_documento": "6007_aprueba_modificacion_del_plan_regulador",
+  "archivo": "casablanca_6007_aprueba_modificacion_del_plan_regulador__download.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZHE"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAE DE LA REPUBLICA DE CHILE\r\n\r\nCuerpo1-8\r\n\r\nSabde 26 de Dielemubre de 2015\r\n\r\nOTRASENTIDADES\r\n\r\nMunicipalidad de Casablanca\r\n\r\n(I4DO980418)\r\n\r\nAPRUEBAMODIFICACIONALPLANREGULADORCOMUNAL\r\nNum.6.007.-Casablanca,15dediciembre de 2015.\r\n\r\nVistos:\r\n1.-La necesidad de realizar una Modificacion del Plan Regulador Comunal de\r\nCasablanca,en orden a que se incluya como uso permitido en la Zona ZHE del Plan\r\n\r\ncl uso \"Equipamiento Salud' a requcrimiento del Honorable Concejo Municipal.\r\n\r\n2.-El procediniento de Modificacion del Plan regulasdor Comunal en ls articulos\r\n\r\n43\"44y45de la Ley General de Urbanismo yConstrucciones,ylo sehaladocn\r\n\r\nel articulo 2.L.ll de la Ordenanza General de Urbanismo y Construccicnes.\r\n3.-Los acuerdosnimeros2.935,2.936 y2.937defecha05.05.2015adoptados\r\npor el H, Concejo Municipal en sesion ordinaria nuimero 996 de fecha 5 de mayo\r\ndel aio 2015,que da inicio al proceso de modificacion al proyecto de Modificacion\r\ndel Plan Regulador Comumal.\r\n\r\n4.-Certificado 123 de 17 de junio de 2015 del Secretario Municipal de la I.\r\nMunicipalidad de Casablanca, correspondiente a la sesion ordinaria nimero 1001\r\nde 16 de junio de 2015, del H. Concejo Municipal, que incluye el acucrdo numero\r\n2.953 que autoriza a dar inicio al proceso de modificacion del Plan Regulador\r\nComunal de Casablanca a fin de dotar a la zona habitacional exclusiva de uso\r\ncquipamiento de salud.\r\n\r\n5.-Las cartas enviadas por la Municipalidad que notifican de la iniciativa\r\n\r\nde modificacio"
+ },
+ {
+  "id": "d0532",
+  "comuna": "casablanca",
+  "nombre_documento": "6828_enmienda_n_1_2022_a_las_zonas_zed_y_zhm_4_del_plan_regulador_comunal_de_cas",
+  "archivo": "casablanca_6828_enmienda_n_1_2022_a_las_zonas_zed_y_zhm_4_del_plan_regulador_comunal_de_cas__download.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 6,
+   "agrupamiento": 4,
+   "normas_urbanisticas": 2,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 23
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZED",
+   "ZHM-4"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.343\r\n\r\n|\r\n\r\nViernes 2 de Septiembre de 2022\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 2181172\r\n\r\nMUNICIPALIDAD DE CASABLANCA\r\n\r\nAPRUEBA LA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE\r\nCASABLANCA\r\nNúm. 6.828.- Casablanca, 24 de agosto de 2022.\r\nVistos:\r\n1.- Las facultades que me confieren las disposiciones legales vigentes contenidas en el\r\nartículo 65, letra b) de la ley N° 18.695 Orgánica Constitucional, de Municipalidades, cuyo texto\r\nrefundido fue fijado por el DFL N°1 de 2006, del Ministerio del Interior y sus modificaciones\r\nposteriores.\r\n2.- El Plan Regulador Comunal de Casablanca, aprobado por decreto alcaldicio N° 4.674 de\r\nfecha 1 de octubre de 2020 y publicado en el Diario Oficial de la República de Chile N° 42.781\r\nde fecha 16 de octubre de 2020.\r\n3.- Lo dispuesto en los Artículos 45° de la Ley General de Urbanismo y Construcciones y\r\n2.1.13 de su Ordenanza General.\r\n4.- El acuerdo del H. Concejo Municipal N° 4.647, adoptado por unanimidad en sesión\r\nordinaria N° 1.304, del 15 de febrero de 2022, según consta en el certificado N° 67/2022 de\r\nfecha 16 de febrero de 2022 del Secretario Municipal.\r\n5.- Decreto alcaldicio N° 1.856 de fecha 8 de marzo de 2022, que aprueba el inicio de la\r\ntramitación del proceso \"Estudio para propuesta de Enmienda N° 1 al Plan Regulador Comunal\r\nde Casablanc"
+ },
+ {
+  "id": "d0040",
+  "comuna": "cauquenes",
+  "nombre_documento": "decreto_500_apruebase_la_ordenanza_local_plan_regulador_comunal_de_cauquenes",
+  "archivo": "cauquenes_decreto_500_apruebase_la_ordenanza_local_plan_regulador_comunal_de_cauquenes__6ae85605-5cc1-4792-b5e8-5697f80d2aca.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 37,
+  "paginas_escaneadas": 37,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0533",
+  "comuna": "cauquenes",
+  "nombre_documento": "3519_enmienda_n_1_al_plan_regulador_comunal_de_cauquenes",
+  "archivo": "cauquenes_3519_enmienda_n_1_al_plan_regulador_comunal_de_cauquenes__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM3"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3519, CAUQUENES (2017)\r\n\r\nDecreto 3519\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE CAUQUENES\r\nMUNICIPALIDAD DE CAUQUENES\r\nFecha Publicación: 05-DIC-2017 | Fecha Promulgación: 29-NOV-2017\r\nTipo Versión: Única De : 05-DIC-2017\r\nUrl Corta: https://bcn.cl/3on3e\r\n\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE CAUQUENES\r\nNúm. 3.519.- Cauquenes, 29 de noviembre de 2017.\r\nVistos y teniendo presente:\r\n1.- Decreto alcaldicio Nº 500, de fecha 13 de julio de 2009, que aprueba el\r\ntexto de la Ordenanza Local Plan Regulador Comunal de Cauquenes.\r\n2.- Decreto alcaldicio Nº 2.985, de fecha 15 de septiembre de 2017, que aprueba\r\nel inicio del proceso para realizar Enmienda 01 del Plan Regulador Comunal de\r\nCauquenes, de acuerdo con lo establecido en el artículo 45 de la Ley General de\r\nUrbanismo y Construcciones y el artículo 2.1.13 de la Ordenanza General de Urbanismo\r\ny Construcciones.\r\n3.- Certificado de fecha 27 de noviembre de 2017 de Secretaria Municipal, que da\r\ncuenta de la realización de la Audiencia Pública, el día 10 de octubre de 2017.\r\n4.- Acta de fecha 10 de octubre de 2017, suscrita por la Secretaria Municipal y\r\nSecretario Comunal de Planificación que señala la Apertura de Exposición de la\r\nEnmienda 01 del Plan Regulador Comunal de Cauquenes al público, información que se\r\nencuentra disponible en el Edificio Consistorial y el Mercado Municipal de Cauquenes,\r\nsegún lo establecido en la Memoria Explicativa, numeral IV \"Cronograma de\r\nActividades Enmienda 01"
+ },
+ {
+  "id": "d0534",
+  "comuna": "cauquenes",
+  "nombre_documento": "500_ordenanza_local_plan_regulador_de_cauquenes",
+  "archivo": "cauquenes_500_ordenanza_local_plan_regulador_de_cauquenes__Decreto-500_04-SEP-2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 1,
+   "antejardin": 6,
+   "rasante": 1,
+   "distanciamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 7,
+   "articulado": 14,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAP",
+   "ZH1",
+   "ZH2",
+   "ZH3",
+   "ZI"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 500, CAUQUENES (2009)\r\n\r\nDecreto 500\r\nAPRUEBA ORDENANZA\r\nCAUQUENES\r\n\r\nLOCAL\r\n\r\nPLAN\r\n\r\nREGULADOR\r\n\r\nCOMUNAL\r\n\r\nDE\r\n\r\nMUNICIPALIDAD DE CAUQUENES\r\nFecha Publicación: 04-SEP-2009 | Fecha Promulgación: 13-JUL-2009\r\nTipo Versión: Texto Original De : 04-SEP-2009\r\nInicio Vigencia: 04-SEP-2009\r\nFin Vigencia: 04-DIC-2017\r\nUrl Corta: https://bcn.cl/2hey7\r\n\r\nAPRUEBA ORDENANZA LOCAL PLAN REGULADOR COMUNAL DE CAUQUENES\r\nNúm. 500.- Cauquenes, 13 de julio de 2009.- Vistos y teniendo presente:\r\n- Ord. N° 900 de fecha 1 de julio de 2009, de Sr. Secretario Regional\r\nMinisterial de Vivienda y Urbanismo.\r\n- Lo señalado en el artículo 2.1.11 del decreto supremo N° 47 de 1992, que\r\naprueba la Ordenanza General de Urbanismo y Construcciones.\r\n- Las facultades que me confiere la ley N° 18.695 de 1988, Orgánica\r\nConstitucional de Municipalidades y sus posteriores modificaciones.\r\n- Lo establecido en la resolución 1.600 de 2008 de Contraloría General de la\r\nRepública.\r\nDecreto:\r\n1.- Apruébase el texto de la Ordenanza Local Plan Regulador Comunal de\r\nCauquenes, que forma parte integrante del presente decreto:\r\nORDENANZA LOCAL PLAN REGULADOR COMUNAL DE CAUQUENES\r\n\r\nCAPÍTULO I\r\nDisposiciones Generales\r\nARTÍCULO 1 GENERALIDADES\r\nLa presente Ordenanza Local (OL) establece las normas referentes a Límite\r\nUrbano, zonificación, usos de suelo, densidad, condiciones de edificación,\r\nestacionamientos, urbanización, subdivisión predial y jerarquización de la\r\nestructura vial de la comuna de Cauquenes, seg"
+ },
+ {
+  "id": "d0535",
+  "comuna": "cauquenes",
+  "nombre_documento": "decreto_exento_1033_apruebasela_enmienda_02_del_plan_regulador_comunal_de_cauque",
+  "archivo": "cauquenes_decreto_exento_1033_apruebasela_enmienda_02_del_plan_regulador_comunal_de_cauque__DECRETO_20EXENTO_201033.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM2",
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "++.t\r\n\r\nSECPLA\r\n\r\nsEca ccNin.I oE E`.hi[E2.cla.I\r\n\r\na+ce`;EH€S\r\n\r\ncAUQUENEsi\r\n\r\n.i 7ABR. 20?i\r\n\r\nVISTOS Y TENIENDO PRESENTE:\r\n1.\r\n\r\nDecreto Alcaldicio N°500 de fecha 13 dejulio de 2009, que aprueba el Texto de la ORDENANZA\r\nLOCAL PLAN REGULADOR COMUNAL DE CAUQUENES.\r\n\r\n2.\r\n\r\nDecreto Exento N°4386, de fecha 31 de diciembre e 2025, que aprueba el inicio del proceso para\r\nrealizar Enmienda 02 del Plan Regulador Comunal de Cauquenes; de acuerdo con lo establecido\r\nen el articulo 45 de la Ley General de Urbanismo y Construcciones y el articulo 2.1.13 de la\r\nOrdenanza General de Urbanismo y Construcciones.\r\nRegistro de Asistencia de Audiencia PLlbljca, celebrada con fecha 02 de febrero de 2026.\r\nActa de fecha 02 de febrero de 2026, suscrito por el Secretario Comunal de Planificaci6n, que\r\nsefiala la Apertura de Exposici6n de la Enmienda 02 del Plan Regulador Comunal de Cauquenes\r\nal Ptlblico; informaci6n que se encuentra disponjble en el acceso principal del edificio Consistorial\r\n\r\n3.\r\n4.\r\n\r\ny en el acceso por Calle Victoria del Mercado Municipal de Cauquenes, segun lo establecido en\r\nla Memoria Explicativa correspondiente, especificamente en el Numeral Vl \"Cronograma de\r\nActividades\".\r\n\r\n5.\r\n\r\n6.\r\n\r\n7.\r\n8.\r\n\r\nRegistro fotografico Apertura Exposici6n de la Enmienda 02 del Plan Regulador Comunal de\r\nCauquenes, de fecha 02 de febrero de 2026, en el acceso principal del edificio Consistorial y en\r\nel acceso por Calle Victoria del Mercado Municipal de Cauquenes.\r\nActa de fecha 13 de f"
+ }
+]

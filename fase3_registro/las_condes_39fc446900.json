@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_39fc446900",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_3193_25_jul2007.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_3193_25_jul2007.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:56:08",
+  "fin": "2026-07-14T16:03:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        4
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 3193 (25-07-2007) Las Condes. Normas EN PROSA (sin cuadros): p2-3 agrega al art.38, area E-e1, uso Culto con agrupamiento AISLADO y COS/constructibilidad equivalentes al area E-Ab3; p3 incorpora al cuadro de la zona UV1 el uso Equipamiento clase Social (sedes de juntas de vecinos); p3-4 parvularios/jardines infantiles en zona U-V con TERRENO MINIMO 1.000 m2; p4 zona U-M, servicios condicionados a conjunto de mas de 5.000 m2 edificados. p4 (591 chars) NO es trampa: es el cierre natural del documento. Confianza MEDIA: valores dispersos en prosa, no cuadro."
+  }
+}

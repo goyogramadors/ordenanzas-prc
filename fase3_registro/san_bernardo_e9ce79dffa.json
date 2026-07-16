@@ -1,0 +1,20 @@
+{
+  "id": "san_bernardo_e9ce79dffa",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\san_bernardo_decreto_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_locali__ORDENANZAN34.pdf",
+  "nombre": "san_bernardo_decreto_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_locali__ORDENANZAN34.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:17:01",
+  "fin": "2026-07-15T12:18:18",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "TRAMPA documento equivocado: nombre archivo dice 'aprueba enmienda N1 al Plan Regulador' pero contenido real es Decreto Alcaldicio Exento N4790 (11-jul-2016) que aprueba Ordenanza Municipal N34 sobre Extremos de Ferias Libres (comercio ambulante: patentes, puestos, rubros permitidos/prohibidos, sanciones). No es PRC ni tiene tabla de normas urbanisticas. Muestreadas pag1,3,5,7,9,11,12 de 12, contenido uniforme sobre ferias libres."
+  }
+}

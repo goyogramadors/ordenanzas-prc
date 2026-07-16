@@ -1,0 +1,20 @@
+{
+  "id": "huechuraba_1c4420a1f9",
+  "comuna": "huechuraba",
+  "ruta": "Ordenanzas ordenadas\\huechuraba_2450_promulga_aprobacion_de_modificacion_n_4_al_plan_regulador_decreto_exento_n___11.pdf",
+  "nombre": "huechuraba_2450_promulga_aprobacion_de_modificacion_n_4_al_plan_regulador_decreto_exento_n___11.pdf",
+  "veredicto": "VACIO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Verificado por render (veredicto VACIO era correcto: 0 chars de texto). El documento SOLO reclasifica 3 tramos de vialidad (Av. del Condor, Av. del Valle, Av. Los Jardines) de 'Via de Servicio Existente' a 'Via Colectora' en la columna de observaciones del Cuadro N3 Vialidad Estructurante Comunal (art.72 Ordenanza Local). No modifica coeficientes, usos ni ninguna norma urbanistica de zona. Confirma que sirve=SI de Fase 1 es correcto (es una modificacion real del PRC) pero no aporta tabla de normas.",
+    "paginas_utiles": 0
+  }
+}

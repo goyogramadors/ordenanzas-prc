@@ -1,0 +1,25 @@
+{
+  "id": "lo_barnechea_925c4ed7a3",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1021_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lo_barnechea_1021_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:02:41",
+  "fin": "2026-07-14T21:04:17",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LO BARNECHEA: Decreto 1021 (2006, BCN LeyChile, 3p), modificacion MPRC-LB-04, usos de suelo equipamiento en Circunvalacion Vial, Zona J La Dehesa. Norma en p2-3, EN TEXTO PLANO (sin trampa): reemplaza tramos de vias en el punto a.2.2 de la Zona J, fija superficie minima de sitio 10.000 m2 para equipamientos que enfrentan la Circunvalacion Vial, e incorpora una TABLA de clases de equipamiento permitido por tramo (Educacion, Culto y Cultura, Social, Seguridad, Deportes, Comercio, Servicios) antes del cuadro de equipamientos permitidos existente, mas una nota que prohibe actividades complementarias de equipamiento en suelo residencial exclusivo."
+  }
+}

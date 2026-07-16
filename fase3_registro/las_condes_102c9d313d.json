@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_102c9d313d",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.1132.24abr2015.pdf",
+  "nombre": "las_condes_decreto.1132.24abr2015.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:27:23",
+  "fin": "2026-07-15T08:30:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alc Secc 1a N1132/2015 (Las Condes): elimina afectaciones a utilidad publica en varias calles y rectifica clasificacion de Av. Las Condes de Troncal a Expresa. Contiene tablas de VIALIDAD (ancho minimo L.O., N pistas, distancia eje) paginas 3-5, excluidas del alcance de esta fase (solo normas de zona/edificacion). No contiene cuadro de normas urbanisticas de uso de suelo/edificacion."
+  }
+}

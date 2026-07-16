@@ -1,0 +1,351 @@
+[
+ {
+  "id": "d1287",
+  "comuna": "santiago",
+  "nombre_documento": "1640_modificacion_al_plan_regulador_comunal_de_santiago_aprobado_por_resolucion",
+  "archivo": "santiago_1640_modificacion_al_plan_regulador_comunal_de_santiago_aprobado_por_resolucion___1640.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 36,
+  "paginas_escaneadas": 36,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1288",
+  "comuna": "santiago",
+  "nombre_documento": "17_dcto_secc_2da_n_c2_b03104",
+  "archivo": "santiago_17.-Dcto-Secc-2da-N_C2_B03104.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1289",
+  "comuna": "santiago",
+  "nombre_documento": "18_dcto_secc_2da_n_c2_b05074",
+  "archivo": "santiago_18.-Dcto-Secc-2da-N_C2_B05074.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1290",
+  "comuna": "santiago",
+  "nombre_documento": "20_acuerdo_n_c2_b0339",
+  "archivo": "santiago_20.-Acuerdo-N_C2_B0339.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1291",
+  "comuna": "santiago",
+  "nombre_documento": "2450_establece_normas_urbanisticas_mediante_asignacion_de_zonas_del_plan_regulad",
+  "archivo": "santiago_2450_establece_normas_urbanisticas_mediante_asignacion_de_zonas_del_plan_regulad__2450.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 34,
+  "paginas_escaneadas": 34,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1292",
+  "comuna": "santiago",
+  "nombre_documento": "2721_establece_normas_urbanisticas_mediante_la_asignacion_de_zonas_del_plan_regu",
+  "archivo": "santiago_2721_establece_normas_urbanisticas_mediante_la_asignacion_de_zonas_del_plan_regu__DEC SECC 2da. 2721.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1293",
+  "comuna": "santiago",
+  "nombre_documento": "3202_modifica_el_plan_regulador_comunal_de_santiago",
+  "archivo": "santiago_3202_modifica_el_plan_regulador_comunal_de_santiago__3202.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1294",
+  "comuna": "santiago",
+  "nombre_documento": "3344_decreto_alcaldicio_numero_3344_secc_2a_de_2018_promulga_modificacion_del_pl",
+  "archivo": "santiago_3344_decreto_alcaldicio_numero_3344_secc_2a_de_2018_promulga_modificacion_del_pl__3344.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1295",
+  "comuna": "santiago",
+  "nombre_documento": "3345_promulgase_modificacion_plan_regulador",
+  "archivo": "santiago_3345_promulgase_modificacion_plan_regulador__3345.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1296",
+  "comuna": "santiago",
+  "nombre_documento": "4491_decreto_alcaldicio_numero_4491_secc_2a_de_2018_promulga_modificacion_del_pl",
+  "archivo": "santiago_4491_decreto_alcaldicio_numero_4491_secc_2a_de_2018_promulga_modificacion_del_pl__4491.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 35,
+  "paginas_escaneadas": 35,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1297",
+  "comuna": "santiago",
+  "nombre_documento": "4_promulga_modificacion_al_plan_regulador_comunal_de_santiago",
+  "archivo": "santiago_4_promulga_modificacion_al_plan_regulador_comunal_de_santiago__Diario Oficial 14 enero 2014 v2.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 19,
+  "paginas_escaneadas": 19,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1298",
+  "comuna": "santiago",
+  "nombre_documento": "decreto_promulgacion_n_c2_b0_6847",
+  "archivo": "santiago_Decreto-Promulgacion-N_C2_B0-6847.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1299",
+  "comuna": "santiago",
+  "nombre_documento": "ord_n091_ministerio_de_medio_ambiente",
+  "archivo": "santiago_Ord-N091-Ministerio-de-Medio-Ambiente.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

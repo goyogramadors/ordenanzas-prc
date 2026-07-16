@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_54c26a43fb",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_decreto_419_fonfo_fijo_para_modificacion_plano_regulador__2016-2-D-419.pdf",
+  "nombre": "rancagua_decreto_419_fonfo_fijo_para_modificacion_plano_regulador__2016-2-D-419.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:13:04",
+  "fin": "2026-07-15T12:14:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto de Pago 419 (08-feb-2016, 1p): pago de $500.000 por 'Fondo Fijo para Modificación Plano Regulador'. Comprobante contable, no contiene norma urbanística."
+  }
+}

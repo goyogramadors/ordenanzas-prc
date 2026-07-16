@@ -1,0 +1,28 @@
+{
+  "id": "valdivia_bde4b49d2d",
+  "comuna": "valdivia",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\valdivia_4151_aprueba_el_acuerdo_n229_de_fecha_23_de_mayo_de_2017_del_concejo_municipal_d__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "VALDIVIA: Decreto 4151 exento (2017, BCN LeyChile, 2p), aprueba el Acuerdo 229 del Concejo, Enmienda del PRC. Norma en texto plano completo: incorpora Equipamiento clase Salud para la ZONA ZB-5 (Terreno Municipal Barrios Bajos, delimitado por calles Guillermo Frick al norte, Domeyko al sur, Clemente Escobar al oriente y Goycolea al poniente). Es una asignacion de USO a una zona especifica (no transcribe COS-CC-altura, remite a los existentes de ZB-5), mismo mecanismo que los casos ya registrados de Puerto Montt-Concepcion-Conchali. Documento completo en 2 paginas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:13:22",
+  "fin": "2026-07-15T18:16:40",
+  "resultado": {
+    "archivo": "extraccion_normas\\valdivia\\valdivia_4151_zb5_equipamiento_salud_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZB-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION A NOTA_FASE3: si existe cuadro propio completo de ZB-5 (no es mera remision): predial indivisible, aislado, altura 3 pisos, antejardin 3m, estacionamientos art.11. Agrega uso Salud a deportes/cultura/organizaciones comunitarias ya vigentes. Documento completo 2p, texto plano."
+  }
+}

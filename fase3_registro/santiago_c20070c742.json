@@ -1,0 +1,25 @@
+{
+  "id": "santiago_c20070c742",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_3202_modifica_el_plan_regulador_comunal_de_santiago__3202.pdf",
+  "nombre": "santiago_3202_modifica_el_plan_regulador_comunal_de_santiago__3202.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:56:08",
+  "fin": "2026-07-15T12:58:23",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Secc.2da N3202 (15-oct-2015): Modificación PRC Santiago sector Bio Bio-Lira-Línea FFCC-Santa Rosa/Purén Indómito. Cuadro completo p.2-3 Art.30 Zona B Sector Especial B15 (b15a/b15b1/b15c): superficie predial mínima 500m2, COS (0.7 vivienda, 0.7-1.0 otros usos según subsector), coef. ocupación pisos superiores, CC (4.8/7.0/2.0/3.1 según uso y subsector), densidad máxima 2.740hab/ha (B15a), sistema de agrupamiento (aislado/pareado/continuo), altura máxima 30.5m (B15a/b1) y 14m (B15c). p.3 además agrega nuevo SECTOR ESPECIAL E14-Purén Indómito con cuadro propio: predial mínimo 300m2, COS 0.7, CC 2.1, densidad máxima 865hab/ha, agrupamiento continuo, altura máxima 7.5m, distanciamiento 5m deslinde posterior. Excluida p.1 (vistos administrativos) y p.4 (tabla de anchos de vía Costanera Norte, vialidad)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "san_clemente_037c096a59",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_clemente_decreto_exento_2429_autorizase_contratar_directamente_con_el_proveedor_camilo_er__2429%20S.M.%202018.pdf",
+  "nombre": "san_clemente_decreto_exento_2429_autorizase_contratar_directamente_con_el_proveedor_camilo_er__2429%20S.M.%202018.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:19:22",
+  "fin": "2026-07-15T12:52:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 2429 (22-oct-2018, 3p): autoriza contratar arquitecto revisor para corregir observaciones de Contraloría al PRC de San Clemente. Acto administrativo de contratación, no contiene tabla de normas urbanísticas."
+  }
+}

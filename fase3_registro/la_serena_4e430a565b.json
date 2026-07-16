@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_4e430a565b",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3097_rectificase_el_articulo_20_de_la_ordenanza_local_del_plan_regulador_comunal__doc_34_3097_27112024124955.pdf",
+  "nombre": "la_serena_3097_rectificase_el_articulo_20_de_la_ordenanza_local_del_plan_regulador_comunal__doc_34_3097_27112024124955.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:22:41",
+  "fin": "2026-07-15T08:24:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.3097/2024 RECTIFICA art.20 Ordenanza Local PRC La Serena, Cuadro 9 fila 20 (Av. Pacifico): corrige columnas 'Ancho existente entre L.O.' y 'Observaciones'. ES tabla real pero de VIALIDAD (ancho de calles/ensanche), no parametro de zona (COS/CC/altura/usos/predial) - excluida por criterio consistente del proyecto (las tablas de vialidad no cuentan como norma urbanistica de zona)."
+  }
+}

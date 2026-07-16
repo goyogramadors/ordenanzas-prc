@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e5a5ab52b8",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.4498.19dic2025.pdf",
+  "nombre": "las_condes_decreto.4498.19dic2025.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:34:11",
+  "fin": "2026-07-15T08:36:48",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio Secc.1a N4498 (19dic2025): prorroga vigencia PLADECO 2022-2025 hasta 31dic2026. Decreto administrativo de planificacion comunal (PLADECO), no del PRC. 2p: p1 vistos/decreto, p2 firma alcaldesa."
+  }
+}

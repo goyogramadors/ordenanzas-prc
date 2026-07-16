@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_67ea594019",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2022-Ord.-N706-del-25.3.22.pdf",
+  "nombre": "las_condes_2022-Ord.-N706-del-25.3.22.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:59:02",
+  "fin": "2026-07-14T16:00:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "NO ES ORDENANZA: es un OFICIO (Ord. N.706 de 25.03.2022) de la SEREMI Minvu Metropolitana al Alcalde de Las Condes, aclarando un oficio anterior sobre el art.4 LGUC y la tramitacion de la Modificacion N.11 del PRC. Correspondencia administrativa, sin norma alguna."
+  }
+}

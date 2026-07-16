@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_8c24f38620",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_n_8_30MAY1995_ORD.PLAN_REG.pdf",
+  "nombre": "las_condes_n_8_30MAY1995_ORD.PLAN_REG.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 64,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:55:06",
+  "fin": "2026-07-15T07:58:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        21,
+        54
+      ]
+    ],
+    "paginas_utiles": 34,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza del Plan Regulador de Las Condes (oct.1994/ord.1995), escaneo nitido y legible, 100% visual (sin texto OCR). Cap. Condiciones de Edificacion por Areas Art.38 arranca pag21: tablas por zona (Densidad Maxima, Subdivision Minima, Frente Predial, Coef.Constructibilidad, Ocupacion Suelo, Area Libre, Rasantes, Altura Maxima, Antejardin, Separacion Medianero, Adosamiento) para ~21 areas (E-Ab1,E-Ab2,E-Aa1+cb,E-Aa1+cm,E-Ab4,E-Ab4',E-e3,E-e4,E-e5,etc.), hasta pag38-39. Pag39-41 Art.39 listado no tabular vialidad/factibilidad. Art.40 Usos del Suelo Permitidos por Zonas pag42-51 (formato apaisado, zonas U-M,U-V1/2/3,U-C1/2/3,etc.) continua hasta pag54 (UEe1-UEe5) donde empieza Art.41 sin tablas. Desde pag55 otros anexos (vialidad estructurante) excluidos. Cierra con firmas pag64."
+  }
+}

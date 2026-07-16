@@ -1,0 +1,28 @@
+{
+  "id": "puchuncavi_afb2c41256",
+  "comuna": "puchuncavi",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puchuncavi_1455_diario_oficial_07092011_decreto_alcaldicio_n_1455_de_22082011_aprueba_proye__enmienda.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Dec.1455/2011 Enmienda PRC Puchuncavi, localidad de Puchuncavi (modifica zona Z2 a Z2a, +30% ocupacion). Crea ZONA Z2a con tabla completa en TEXTO: usos permitidos (residencial, equipamiento cientifico/comercio/culto/deporte/educacion/esparcimiento/salud/seguridad/servicios/social, actividades productivas industria impacto similar inofensivo), usos prohibidos (discotecas, carceles, cementerios), condiciones de edificacion: predial min 350m2, COS 0,39, CC 1,5, aislado/pareado, altura 21m, antejardin 3m, densidad 400 hab/ha.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:30:43",
+  "fin": "2026-07-15T14:32:10",
+  "resultado": {
+    "archivo": "extraccion_normas\\puchuncavi\\puchuncavi_1455_enmienda_z2a_pag1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Z2a"
+    ],
+    "confianza": "ALTA",
+    "nota": "Crea zona Z2a (modifica Z2 +30% ocupacion): predial 350m2, COS 0,39, CC 1,5, aislado/pareado, altura 21m, antejardin 3m, densidad 400 hab/ha. Usos y prohibidos completos. Texto limpio. Coincide con nota_fase3."
+  }
+}

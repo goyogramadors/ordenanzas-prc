@@ -1,0 +1,20 @@
+{
+  "id": "puerto_montt_6fb26e8e41",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\puerto_montt_decreto_exento_se_promulga_la_modificacion_n1_del_plan_comunal_de_inversiones_en__DECRETO EXENTO 6389.pdf",
+  "nombre": "puerto_montt_decreto_exento_se_promulga_la_modificacion_n1_del_plan_comunal_de_inversiones_en__DECRETO EXENTO 6389.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:11:21",
+  "fin": "2026-07-15T12:13:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento N6389 (14-may-2025), 6p: promulga Modificacion N1 del PLAN COMUNAL DE INVERSIONES EN INFRAESTRUCTURA DE MOVILIDAD Y ESPACIO PUBLICO (PIIMEP), instrumento distinto del PRC (confirmado explicito en VISTOS). Tablas pag2-6 listan cartera de macroproyectos/obras de movilidad y espacio publico (ciclovias, escaleras, mejoramiento calles, plazas) con columnas Macroproyecto/ID/Tipo/Proyecto/Categoria -sin usos de suelo/COS/coef.constructibilidad/altura/densidad."
+  }
+}

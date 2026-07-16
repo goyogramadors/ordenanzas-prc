@@ -1,0 +1,20 @@
+{
+  "id": "santiago_858af8e588",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_20.-Acuerdo-N_C2_B0339.pdf",
+  "nombre": "santiago_20.-Acuerdo-N_C2_B0339.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:55:06",
+  "fin": "2026-07-15T12:56:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Acuerdo N339 Concejo de Santiago (14-Ago-2024), 4p: autoriza INICIO proceso de enmienda PRC 'Ajuste de Normas Urbanisticas en Sectores Barrios Republica y Corte Suprema' (reducir altura max y coef.constructibilidad). Memorandum y firmas votacion concejo. Sin tabla de normas, solo autoriza iniciar estudio."
+  }
+}

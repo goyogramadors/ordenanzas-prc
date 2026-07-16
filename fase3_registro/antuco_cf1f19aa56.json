@@ -1,0 +1,20 @@
+{
+  "id": "antuco_cf1f19aa56",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_ordenanza_municipal_sobre_subvenciones_municipales__Decreto_1_2026.pdf",
+  "nombre": "antuco_decreto_ordenanza_municipal_sobre_subvenciones_municipales__Decreto_1_2026.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:08:53",
+  "fin": "2026-07-15T08:10:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza N000001 municipal sobre subvenciones municipales (Antuco, ene2026, 12pp), modifica ordenanza previa N000001 de 11.09.2025. Texto corrido articulado (comision evaluacion, postulacion/seleccion, rendicion cuentas). Sin cuadros de zonas/usos de suelo/coeficientes. Confirmado pag1,6-7,10."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_30ad8eb5b0",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1859_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_1859_25102019090113.pdf",
+  "nombre": "la_serena_1859_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_1859_25102019090113.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 30,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:20:50",
+  "fin": "2026-07-15T08:22:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.1859/2019 aprueba Ordenanza sobre DERECHOS MUNICIPALES por Permisos, Concesiones y Servicios de La Serena (liquidacion y pago de derechos, devoluciones). Busqueda de 'urbanizacion/construccion/edificacion/uso de suelo/coeficiente/predial' en el OCR: sin coincidencias. Ajena al PRC."
+  }
+}

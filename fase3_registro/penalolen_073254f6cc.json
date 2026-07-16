@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_073254f6cc",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_2007.pdf",
+  "nombre": "penalolen_MPRC_2007.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:10:35",
+  "fin": "2026-07-14T21:14:12",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Texto Aprobatorio, Modificacion PRC Penalolen sector Av. Las Perdices (Antupiran/Los Presidentes), Diario Oficial 01-06-2007 (edicion completa que mezcla contenido ajeno: tipos de cambio Banco Central en p1, avisos judiciales de El Tabo y decretos de circulacion vehicular en p3 -- EXCLUIR p3, no es de Penalolen). p1-2: crea la ZONA E1a. Cuadro USOS DE SUELO en texto (vivienda + equipamiento por tipo: salud, educacion, seguridad, culto-cultura, social, deporte, esparcimiento-turismo, comercio, servicios + areas verdes). CONDICIONES DE SUBDIVISION PREDIAL Y EDIFICACION: Normas especificas VIVIENDA (predial 800 m2, aislado, sin adosamiento, COS 0,3, CC 0,8, altura 9 m, densidad 50 hab/ha, antejardin 3/5 m) y EQUIPAMIENTO (predial 800 m2, aislado, COS 0,4, CC 2,0, altura 15 m, antejardin 3/25 m). Poligono cambia de Zona R4 a E1a."
+  }
+}

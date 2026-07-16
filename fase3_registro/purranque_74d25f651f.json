@@ -1,0 +1,25 @@
+{
+  "id": "purranque_74d25f651f",
+  "comuna": "purranque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\purranque_ordenanza_aprueba_modificacion_al_plan_regulador_de_purranque_sector_la_colmena__ORDENANZA 2001-LA COLMENA.pdf",
+  "nombre": "purranque_ordenanza_aprueba_modificacion_al_plan_regulador_de_purranque_sector_la_colmena__ORDENANZA 2001-LA COLMENA.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:17:01",
+  "fin": "2026-07-14T21:18:13",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        5
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "TRAMPA DO comuna ajena: edición completa Diario Oficial 29-oct-2001 con VARIOS actos no relacionados (Valdivia pág1, Providencia y Ministerio Defensa/acuicultura pág5). Contenido relevante Purranque Sector La Colmena en pág3-5: Art.10 Zonificación con tablas completas Normas Específicas de Edificación y Subdivisión Predial para zonas ZH1/ZH1-A, ZH2, ZM1, ZC, ZE1/ZE1-A, ZE2, AV, AV-1, ZR-Le, ZE3 (densidad, sup.predial mín, frente predial, COS, CC, agrupamiento, antejardín, altura, cierros). Pág2 tiene cuadro Vialidad Estructurante (anchos de vías, no normas de zona)"
+  }
+}

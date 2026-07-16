@@ -1,0 +1,25 @@
+{
+  "id": "zapallar_252e07dc8e",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_decreto_ordenanza_local_del_plan_regulador_comunal_de_zapallar__14.pdf",
+  "nombre": "zapallar_decreto_ordenanza_local_del_plan_regulador_comunal_de_zapallar__14.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:41:29",
+  "fin": "2026-07-15T07:54:15",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        23
+      ]
+    ],
+    "paginas_utiles": 18,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ZAPALLAR: Ordenanza Local del PRC (Sector Borde Costero, 48p). Cap 5 Normas Tecnicas, Art 12, p6-23: tablas de usos de suelo y condiciones de subdivision-edificacion por zona: ZH-1A, ZH-1B, ZH-2A, ZH-4A, ZH-6, ZE-1, ZE-2, ZR-1, ZR-1E, ZR-2 a ZR-5, ZAV, con COS, coeficiente de constructibilidad, densidad, agrupamiento, altura maxima, antejardin. ZR-1E y ZR-3 (MN monumento nacional) no traen cuadro propio, remiten al Plan Intercomunal de Valparaiso o a la Ley 17.288 (normativa por remision, igual parte del tramo). Cierra en p23 al empezar Art 13 en texto corrido. *** TRAMPA: pdftotext -layout entremezcla las columnas caracter por caracter (falso patron de texto corrupto/bajo), pero al RENDERIZAR se ve una tabla de texto real y completa, no imagen ***. La fase siguiente DEBE usar el render visual, no el texto plano. Excluidas: p34-43 perfiles viales ruta F-30E (Cap 6 Vialidad), p47 estandares de estacionamiento (Art 54-55, Cap 7), p48 plano PR-Z-BC-01 (grafico). 14 pags verificadas visualmente, repartidas por todo el documento."
+  }
+}

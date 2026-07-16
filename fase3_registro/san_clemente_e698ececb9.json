@@ -1,0 +1,20 @@
+{
+  "id": "san_clemente_e698ececb9",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas ordenadas\\san_clemente_decreto_exento_3515_apruebese_el_catastro_de_pavimentos_realizado_por_la_oficina__3515_20S.M._202024.pdf",
+  "nombre": "san_clemente_decreto_exento_3515_apruebese_el_catastro_de_pavimentos_realizado_por_la_oficina__3515_20S.M._202024.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:19:22",
+  "fin": "2026-07-15T12:52:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 3515 (18-oct-2024, 1p): aprueba catastro de pavimentos (aceras y calzadas) realizado por la Dirección de Obras. Acto administrativo de gestión vial, no contiene tabla de normas urbanísticas."
+  }
+}

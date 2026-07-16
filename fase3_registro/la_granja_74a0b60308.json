@@ -1,0 +1,25 @@
+{
+  "id": "la_granja_74a0b60308",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_granja_01_plano_regulador_comunal_de_1951__d70c648f-fcff-40ac-959d-201d4b183dfb.pdf",
+  "nombre": "la_granja_01_plano_regulador_comunal_de_1951__d70c648f-fcff-40ac-959d-201d4b183dfb.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:19:11",
+  "fin": "2026-07-15T08:24:58",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "visual",
+    "nota": "Plano Regulador Comunal de La Granja 1951 (Estudio de Carlos Trupp W.), Plano Oficial de Urbanizacion escala 1:5.000. Archivo de 1 pagina (mapa). Leyenda 'Zonificacion' (esquina inferior derecha, requirio zoom/crop para legibilidad) contiene tabla real de SUPERFICIE PREDIAL MINIMA por zona: Zona 1 Centros Vecinales (sin dato), 2 Especial 250m2, 3 Residencial 400m2, 4 Residencial Economica 200m2, 5 Huertos Familiares 500m2, 6 Quintas Residenciales 800m2, 7 Parcelas 2000m2, 8 Agricolas 10.000m2, 9 Industrial Mixta (Industria 800m2/Habitacion 200m2), 10 Areas Verdes (sin dato). ALERTA: documento historico de 1951, anterior a la nomenclatura moderna de PRC (sin COS/CC/altura/agrupamiento/antejardin, solo predial minimo por zona); confianza MEDIA por ser un plano antiguo cuya vigencia legal actual debe verificarse."
+  }
+}

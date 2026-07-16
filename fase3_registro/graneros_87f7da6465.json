@@ -1,0 +1,20 @@
+{
+  "id": "graneros_87f7da6465",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_41498_plan_regulador_comunal_la_compania__bde7553e-e6b2-4d41-b8fa-310bb8afdb15.pdf",
+  "nombre": "graneros_41498_plan_regulador_comunal_la_compania__bde7553e-e6b2-4d41-b8fa-310bb8afdb15.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:16:18",
+  "fin": "2026-07-15T08:22:01",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Plano PRCLC-GRA-06106, zonificacion Localidad La Compania (1:5.000). Solo mapa con leyenda de simbologia de zonas (ZH5,ZH6,ZH7,AV,ICH,ZCH3,ZM3,ZERD) y areas de riesgo/vialidad; no incluye cuadro de normas urbanisticas (COS,CC,altura,etc)."
+  }
+}

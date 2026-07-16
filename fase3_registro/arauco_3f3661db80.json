@@ -1,0 +1,25 @@
+{
+  "id": "arauco_3f3661db80",
+  "comuna": "arauco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arauco_110_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regula__resolucion110modificaplanregulador.pdf",
+  "nombre": "arauco_110_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regula__resolucion110modificaplanregulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Trampa 'deja sin efecto' correctamente identificada por Fase 1: el mismo acto tambien promulga la modificacion (area urbana Horcones). p3: usos permitidos/prohibidos por zona (ZH-1,ZH-2,ZE-3,ZE-4,ZI-1,ZI-2,ZPC,ZNE). p4: tabla completa de normas urbanisticas (art.19) con COS, CC, altura, sistema de agrupamiento, superficie predial minima, adosamiento. Documento es 1 pagina de una edicion completa del Diario Oficial (contiene tambien una noticia de partido politico intercalada).",
+    "paginas_utiles": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_0c0c0c8587",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_202_promulga_modificacion_n_28_zona_j_la_dehesa_al_plan_regulador_comunal_de_lo___DO_13_MARZO_2019_PLANO_REGULADOR.pdf",
+  "nombre": "lo_barnechea_202_promulga_modificacion_n_28_zona_j_la_dehesa_al_plan_regulador_comunal_de_lo___DO_13_MARZO_2019_PLANO_REGULADOR.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:01:23",
+  "fin": "2026-07-14T21:02:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DO + decreto escaneado duplicado: solo suprime puntos a.2/a.2.1 (equipamiento menor) de zona J, sin cuadro normativo; doc es edición completa DO 13-mar-2019 + copia escaneada del decreto municipal"
+  }
+}

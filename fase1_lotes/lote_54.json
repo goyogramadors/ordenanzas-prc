@@ -1,0 +1,794 @@
+[
+ {
+  "id": "d0984",
+  "comuna": "santo_domingo",
+  "nombre_documento": "decreto_alcaldicio_ordenanza_plan_regulador",
+  "archivo": "santo_domingo_decreto_alcaldicio_ordenanza_plan_regulador__descarga-12-ordenanza-PRC-Sto.-Dgo.ACTUALIZADA.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 54,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "rasante": 1,
+   "adosamiento": 2,
+   "distanciamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 22,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ORDENANZA DEL PLAN REGULADOR\r\nDE LA COMUNA DE SANTO DOMINGO\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\nARTICULO 1\r\nLas disposiciones de la siguiente ordenanza contienen las normas\r\nreferentes a límite urbano, zonificación usos de suelo, condiciones de\r\nsubdivisión predial, de edificación, de urbanización y vialidad, las que\r\nregirán dentro del área territorial del Plan Regulador graficada en los\r\nplanos PRCSD-01 ZONIFICACION, PRCSD-02 VIALIDAD.\r\nARTICULO 2\r\nEl área de aplicación del Plan Regulador Comunal de Santo Domingo\r\ncorresponde al área urbana comprendida y delimitada por la poligonal\r\ncerrada cuya descripción se encuentra en el Artículo N° 6 de esta\r\nOrdenanza y que constituye el límite urbano.\r\nARTICULO 3\r\nTodas aquellas materias atingentes al desarrollo urbano que no se\r\nencontraren normadas por esta Ordenanza, se regirán por las\r\ndisposiciones de la Ley General de Urbanismo y Construcciones\r\nD.F.L. N°458/75 y por la Ordenanza General de Urbanismo y\r\nConstrucciones D.S. (V. y U.) N° 47/92 y demás cuerpos legales,\r\ndisposiciones técnicas, administrativas y reglamentarias vigentes sobre\r\nla materia.\r\nARTICULO 4\r\nDe conformidad a la Ley General de Urbanismo y Construcciones,\r\ncorresponde a la Dirección de Obras Municipales de la Comuna de\r\nSanto Domingo la responsabilidad en la aplicación y observancia de las\r\nnormas de la presente Ordenanza, sin perjuicio de las facultades legales\r\nque le competen respecto de su cumplimiento e interpretación técnica a\r\nla Secretaria Regiona"
+ },
+ {
+  "id": "d0292",
+  "comuna": "sierra_gorda",
+  "nombre_documento": "acuerdo_171_modificacion_plano_regulador_de_la_comuna_de_sierra_gorda",
+  "archivo": "sierra_gorda_acuerdo_171_modificacion_plano_regulador_de_la_comuna_de_sierra_gorda__ACUERDO%20171-2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0985",
+  "comuna": "sierra_gorda",
+  "nombre_documento": "3_aprueba_modificacion_del_plan_regulador_comunal_de_sierra_gorda",
+  "archivo": "sierra_gorda_3_aprueba_modificacion_del_plan_regulador_comunal_de_sierra_gorda__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 46,
+  "paginas_escaneadas": 20,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 1,
+   "articulado": 8,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolución 3, INTERIOR (2021)\r\n\r\nResolución 3\r\nAPRUEBA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE SIERRA\r\nGORDA\r\nMINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA; GOBIERNO REGIONAL\r\nREGIÓN DE ANTOFAGASTA\r\nFecha Publicación: 19-JUN-2021 | Fecha Promulgación: 03-FEB-2021\r\nTipo Versión: Última Versión De : 24-JUN-2021\r\nUltima Modificación: 24-JUN-2021 Resolución 334 EXENTA\r\nUrl Corta: https://bcn.cl/3dbxc\r\n\r\nAPRUEBA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE SIERRA\r\nGORDA\r\nNúm. 3.- Antofagasta, 3 de febrero de 2021.\r\nVistos:\r\nLo dispuesto en: (i) La Constitución Política de la\r\nRepública; (ii) La Ley Nº 18.575 sobre Bases Generales de\r\nla Administración del Estado; en su texto refundido\r\nmediante DFL Nº1/19.653 de 2000; (iii) La Ley Nº 19.175\r\nsobre Gobierno y Administración Regional; (iv) El decreto\r\ncon fuerza de ley Nº 458 de 1975, del Ministerio de\r\nVivienda y Urbanismo, que contiene la Ley General de\r\nUrbanismo y Construcciones; (v) el decreto Nº 47 del\r\nMinisterio de Vivienda y Urbanismo, de 1992, que fija nuevo\r\ntexto de la Ordenanza General de la Ley General de Urbanismo\r\ny Construcciones; (vi) Ley Nº 19.300, de 1994, sobre Bases\r\nGenerales del medio ambiente; (vii) El decreto supremo Nº\r\n32, del 4 de noviembre de 2015, que aprueba Reglamento para\r\nla Evaluación Ambiental Estratégica, y alcances\r\nconsignados en el inciso segundo del artículo transitorio\r\nque acompaña al decreto antes señalado;\r\nConsiderando:\r\n1. Que, la resolución Nº 9 de fecha 9 de marzo de\r\n2001 del Gobiern"
+ },
+ {
+  "id": "d0986",
+  "comuna": "sierra_gorda",
+  "nombre_documento": "ordenanza_ordenanza_del_plan_regulador_de_la_comuna_de_sierra_gorda",
+  "archivo": "sierra_gorda_ordenanza_ordenanza_del_plan_regulador_de_la_comuna_de_sierra_gorda__Ordenanza_Plan_Regulador_Sierra_Gorda_2001.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 55,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 9,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ORDENANZA LOCAL DEL PLAN REGULADOR COMUNA\r\nDE SIERRA GORDA\r\n\r\n\fI. MUNICIPALIDAD DE SIERRA GORDA – SEREMI MINVU II REGION\r\n}\r\n2\r\nORDENANZA LOCAL DEL PLAN REGULADOR COMUNA DE SIERRA GORDA\r\n\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\nARTICULO 1\r\nLa presente Ordenanza establece las normas de zonificación, usos del suelo y condiciones de\r\nedificación, urbanización, subdivisión predial y vialidad que regirán en la Comuna de Sierra\r\nGorda; específicamente en las localidades de Baquedano, Sierra Gorda y en las Areas\r\nEspeciales Comunales establecidas por esta normativa, cuyos límites aparecen graficados en\r\nlos planos PRC-1, PRB-1 y PRSG-1.\r\nDe acuerdo al Artículo N° 42 de la Ley General de Urbanismo y Construcciones, la presente\r\nOrdenanza Local, junto con los planos PRC-1, PRB-1 y PRSG-1, la Memoria Explicativa y el\r\nEstudio de Factibilidad de los Servicios Públicos de Agua y Alcantarillado, conforman un solo\r\ncuerpo legal, siendo la Ordenanza un cuerpo normativo que complementa las disposiciones\r\ngráficas de los planos y prevalece sobre ellos.\r\nARTICULO 2\r\nEl área territorial de aplicación de la presente Ordenanza es el Area Urbana de las localidades\r\nde Baquedano y Sierra Gorda. Dicha área se inscribe en las poligonales cerradas\r\ndeterminadas por los puntos siguientes:\r\nLocalidad de Baquedano: 1 - 2 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 -18 -19 20 -21 -1\r\nLocalidad de Sierra Gorda: 1 - 2 - 3 - 4 -5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 18 - "
+ },
+ {
+  "id": "d0987",
+  "comuna": "talagante",
+  "nombre_documento": "1146_aprueba_modificacion_n_3_al_plan_regulador_comunal_de_talagante",
+  "archivo": "talagante_1146_aprueba_modificacion_n_3_al_plan_regulador_comunal_de_talagante__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS",
+   "ZUS - 01",
+   "ZVN"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1146, TALAGANTE (2025)\r\n\r\nDecreto 1146\r\nAPRUEBA MODIFICACIÓN N° 3, AL PLAN REGULADOR COMUNAL DE\r\nTALAGANTE\r\nMUNICIPALIDAD DE TALAGANTE\r\nFecha Publicación: 13-MAY-2025 | Fecha Promulgación: 04-ABR-2025\r\nTipo Versión: Única De : 13-MAY-2025\r\nUrl Corta: https://bcn.cl/xyJ39H\r\n\r\nAPRUEBA MODIFICACIÓN N° 3, AL PLAN REGULADOR COMUNAL DE TALAGANTE\r\nNúm. 1.146.- Talagante, 4 de abril de 2025.\r\nVistos:\r\n1.- El Plan Regulador Comunal de Talagante, aprobado por decreto alcaldicio N°\r\n3.226, de fecha 26 de julio de 2011 y publicado en el Diario Oficial de fecha 4 de\r\nagosto de 2011, y los ajustes al mismo, en conformidad a lo dispuesto en el dictamen\r\nN° 67.919, de fecha 2 de septiembre de 2014, de la Contraloría General de la\r\nRepública, aprobado por decreto exento N° 3.991, de fecha 1 de octubre de 2014,\r\npublicado en el Diario Oficial de 20 de enero de 2016.\r\n2.- La Enmienda N° 1 del Plan Regulador Comunal de Talagante, aprobado por\r\ndecreto alcaldicio N° 2.225, de fecha 8 de mayo de 2017, y publicada en el Diario\r\nOficial de fecha 24 de mayo de 2017.\r\n3.- Lo dispuesto en los artículos 43° y 45° de la Ley General de Urbanismo y\r\nConstrucciones, y lo dispuesto en el artículo 2.1.13 de la Ordenanza General de\r\nUrbanismo y Construcciones, referente a las Enmiendas a los Planes Reguladores\r\nComunales.\r\n4.- El acuerdo del Honorable Concejo Municipal N° 329, de fecha 19 de junio de\r\n2024, donde se aprueba la propuesta formulada por la Asesoría Urbana, Modificación\r\nN° 3, Plan Regulad"
+ },
+ {
+  "id": "d0988",
+  "comuna": "talagante",
+  "nombre_documento": "3226_promulga_aprobacion_del_plan_regulador_comunal_de_talagante",
+  "archivo": "talagante_3226_promulga_aprobacion_del_plan_regulador_comunal_de_talagante__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 31,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "zonificacion": 7,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 6,
+   "articulado": 20,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS",
+   "ZUS - 01",
+   "ZUS 01"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (agrupamiento, antejardin, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 3226 EXENTO, TALAGANTE (2011)\r\n\r\nDecreto 3226 EXENTO\r\nPROMULGA APROBACIÓN DEL PLAN REGULADOR COMUNAL DE TALAGANTE\r\nMUNICIPALIDAD DE TALAGANTE\r\nPublicación: 04-AGO-2011 | Promulgación: 26-JUL-2011\r\nVersión: Única De : 04-AGO-2011\r\nUrl Corta: https://bcn.cl/3oj26\r\n\r\nPROMULGA APROBACIÓN DEL PLAN REGULADOR COMUNAL DE TALAGANTE\r\nNúm. 3.226 exento.- Talagante, 26 de julio de 2011.- Vistos:\r\n1.- La necesidad de aprobar el Plan Regulador Comunal que actualice el Plan\r\nOficial de Urbanización de Talagante, aprobado por DS Nº 271, de fecha 23 de enero\r\nde 1946, del Ministerio de Obras Públicas, y sus modificaciones y seccionales\r\nposteriores.\r\n2.- Lo dispuesto en los art. 41º, 42º y 43º de la Ley General de Urbanismo y\r\nConstrucciones, modificado por ley Nº 19.939, publicada en Diario Oficial de fecha\r\n13 de febrero de 2004.\r\n3.- Lo señalado en los art. 2.1.10 y 2.1.11 de la Ordenanza General de\r\nUrbanismo y Construcciones.\r\n4.- Lo dispuesto en el art. 3º letra c) de la ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades.\r\n5.- El Acta de Sesión Ordinaria Nº 125 del H. Concejo Municipal, celebrada con\r\nfecha 07 de agosto de 2008, en la cual se acuerda dar inicio al proceso de\r\naprobación del Plan Regulador, conforme a lo dispuesto en el art. 43º de la Ley\r\nGeneral de Urbanismo y Construcciones y en el art. 2.1.11 de la Ordenanza General de\r\nUrbanismo y Construcciones.\r\n6. - El ord. Nº 1157, de fecha 14 de agosto de 2008, de Municipalidad de\r\nTalagante, que remite las cart"
+ },
+ {
+  "id": "d0989",
+  "comuna": "talagante",
+  "nombre_documento": "3991_transcribe_texto_ajustado_de_ordenanza_local_del_plan_regulador_comunal_de",
+  "archivo": "talagante_3991_transcribe_texto_ajustado_de_ordenanza_local_del_plan_regulador_comunal_de___Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 5,
+   "articulado": 12,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS\r\n01",
+   "ZUS - 01"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3991 EXENTO, TALAGANTE (2014)\r\n\r\nDecreto 3991 EXENTO\r\nTRANSCRIBE TEXTO AJUSTADO DE\r\nREGULADOR COMUNAL DE TALAGANTE\r\n\r\nORDENANZA\r\n\r\nLOCAL\r\n\r\nDEL\r\n\r\nPLAN\r\n\r\nMUNICIPALIDAD DE TALAGANTE\r\nFecha Publicación: 20-ENE-2016 | Fecha Promulgación: 01-OCT-2014\r\nTipo Versión: Última Versión De : 13-MAY-2025\r\nUltima Modificación: 13-MAY-2025 Decreto 1146\r\nUrl Corta: https://bcn.cl/zv4GVH\r\n\r\nTRANSCRIBE TEXTO AJUSTADO DE ORDENANZA LOCAL DEL PLAN\r\nREGULADOR COMUNAL DE TALAGANTE\r\nNúm. 3.991 exento.- Talagante, 1 de octubre de 2014.\r\nVistos y considerando:\r\n1.- La necesidad de dar cumplimiento al Dictamen Nº\r\n67.919, de fecha 2 de septiembre de 2014, de Contraloría\r\nGeneral de la República, que se pronuncia sobre los ajustes\r\nefectuados al Plan Regulador Comunal de Talagante, con la\r\ndictación del decreto alcaldicio Nº 1.597, de fecha 8 de\r\nabril de 2014, que transcribe el nuevo texto de su Ordenanza\r\nLocal;\r\n2.- El oficio Ord. Nº 899, de fecha 4 de marzo de\r\n2014, de la Secretaría Ministerial Metropolitana de\r\nVivienda y Urbanismo al Sr. Alcalde de la Municipalidad de\r\nTalagante, mediante el cual se pronuncia respecto de la\r\nversión ajustada del expediente técnico del Plan Regulador\r\nComunal (PRC) de Talagante, indicando que considera que se\r\nencuentran resueltos todos los aspectos observados en el\r\nDictamen Nº 18.674, de fecha 27 de marzo de 2013, de\r\nContraloría General de la República;\r\n3.- La Sentencia de Proclamación del Primer Tribunal\r\nElectoral de la Región Metropolitana, de fec"
+ },
+ {
+  "id": "d1300",
+  "comuna": "talagante",
+  "nombre_documento": "decreto_dicta_ordenanza_local_del_plan_regulador_comunal_de_talagante",
+  "archivo": "talagante_decreto_dicta_ordenanza_local_del_plan_regulador_comunal_de_talagante__Dec. Ex. nº 3991 Plan Regulador.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 29,
+  "paginas_escaneadas": 29,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0293",
+  "comuna": "talca",
+  "nombre_documento": "1822_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan",
+  "archivo": "talca_1822_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "seccional"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 2,
+   "agrupamiento": 11,
+   "antejardin": 2,
+   "rasante": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-6",
+   "ZONA"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1822, TALCA (2004)\r\n\r\nDecreto 1822\r\nAPRUEBA PROYECTO PLAN SECCIONAL, MODIFICACION PARTE DE LA ZONA\r\nZ-6 DEL PLAN REGULADOR DE LA COMUNA DE TALCA\r\nMUNICIPALIDAD DE TALCA\r\nPublicación: 24-JUN-2004 | Promulgación: 21-JUN-2004\r\nVersión: Única De : 24-JUN-2004\r\nUrl Corta: https://bcn.cl/3lju6\r\n\r\nAPRUEBA PROYECTO PLAN SECCIONAL, MODIFICACION PARTE DE LA ZONA Z-6 DEL PLAN REGULADOR\r\nDE LA COMUNA DE TALCA\r\nNúm. 1.822.- Talca, 21 de junio de 2004.- Vistos: El Art. 2.1.14 de la\r\nOrdenanza General de Urbanismo y Construcciones, el oficio de la Dirección de Obras\r\nOrd.\r\nNº 272 del 02/04/2003, el decreto alcaldicio Nº 1.732 del 01/07/2003, decreto\r\nalcaldicio Nº 2.640 del 07/10/2003, decreto alcaldicio Nº 782 del 23.03.2004,\r\ninforme favorable Ord. Corema Nº 266/2004 del 02/06/2004 y el acuerdo del Concejo\r\nadoptado en sesión extraordinaria de fecha 17.06.2004 y conforme a las facultades\r\nque me confiere la Ley Nº 18.695 de 1988 refundida,\r\nD e c r e t o:\r\nApruébase el proyecto \"Plan Seccional, Modificación Parte de la Zona Z-6 del\r\nPlan Regulador de la Comuna de Talca\" normado actualmente por decreto alcaldicio Nº\r\n3.010 del 11.12.1989.\r\nSolo cambia los Usos de Suelos y Condiciones de Subdivisión Predial de estas\r\nnuevas SubZonas denominadas \"Z-6H2 y Z-6H3\" cuya ubicación y superficie se detallan\r\na continuación y se expresan en el Plano Oficial adjunto.\r\nUbicación: Polígono conformado por calles 8 Sur-21 Oriente deslindes: Sur con el\r\nConjunto habitacional Santa Rosa Oriente: co"
+ },
+ {
+  "id": "d0294",
+  "comuna": "talca",
+  "nombre_documento": "2081_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan",
+  "archivo": "talca_2081_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "seccional"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 2,
+   "agrupamiento": 11,
+   "antejardin": 2,
+   "rasante": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-6",
+   "ZONA"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 2081, TALCA (2004)\r\n\r\nDecreto 2081\r\nAPRUEBA PROYECTO PLAN SECCIONAL, MODIFICACION PARTE DE LA ZONA\r\nZ-6 DEL PLAN REGULADOR DE LA COMUNA DE TALCA\r\nMUNICIPALIDAD DE TALCA\r\nPublicación: 05-AGO-2004 | Promulgación: 21-JUL-2004\r\nVersión: Única De : 05-AGO-2004\r\nUrl Corta: https://bcn.cl/3qpk4\r\n\r\nAPRUEBA PROYECTO \"PLAN SECCIONAL, MODIFICACION PARTE DE LA ZONA Z-6 DEL PLAN\r\nREGULADOR DE LA COMUNA DE TALCA\"\r\nNúm. 2.081.- Talca, 21 de julio de 2004.- Vistos: El Art. 2.1.14 de la\r\nOrdenanza General de Urbanismo y Construcciones, el oficio de la Dirección de Obras\r\nOrd.\r\nNº 272 del 2/4/2003, el decreto alcaldicio Nº 1.732 del 1/7/2003, decreto\r\nalcaldicio Nº 2.640 del 7/10/2003, decreto alcaldicio Nº 782 del 23.3.2004, informe\r\nfavorable Ord. Corema Nº 260/2004 del 1/6/2004 y el Acuerdo del Concejo adoptado en\r\nsesión extraordinaria de fecha 17.6.2004 y conforme a las facultades que me confiere\r\nla ley Nº 18.695 de 1988 refundida.\r\nDecreto:\r\nApruébase el proyecto \"Plan Seccional, Modificación Parte de la Zona Z-6 del\r\nPlan Regulador de la Comuna de Talca\" normado actualmente por decreto alcaldicio Nº\r\n3.010 del 11.12.1989.\r\nSólo cambia los Usos de Suelos y Condiciones de Subdivisión Predial de esta\r\nnueva subzona denominada \"Z-6H1\", cuya ubicación y superficie se detallan a\r\ncontinuación y se expresan en el Plano Oficial adjunto.\r\nUbicación\r\n\r\n: Polígono conformado por las calles 7 y\r\n17 Nte. entre 17 y 18 Ote.\r\nSur-Club Deportivo,\r\nOriente-Parque Industrial,\r\nNorte-Sitio Partic"
+ },
+ {
+  "id": "d0295",
+  "comuna": "talca",
+  "nombre_documento": "decreto_alcaldicio_10167_aprueba_bases_administrativas_del_llamado_a_propuesta_p",
+  "archivo": "talca_decreto_alcaldicio_10167_aprueba_bases_administrativas_del_llamado_a_propuesta_p__10167.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0296",
+  "comuna": "talca",
+  "nombre_documento": "decreto_alcaldicio_3045_el_concejo_acuerda_aprobar_el_inicio_del_procso_de_la_se",
+  "archivo": "talca_decreto_alcaldicio_3045_el_concejo_acuerda_aprobar_el_inicio_del_procso_de_la_se__3045.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0990",
+  "comuna": "talca",
+  "nombre_documento": "3_aprueba_modificacion_a_ordenanza_local_del_plan_regulador_de_talca_en_el_senti",
+  "archivo": "talca_3_aprueba_modificacion_a_ordenanza_local_del_plan_regulador_de_talca_en_el_senti__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "densidad": 2,
+   "agrupamiento": 23,
+   "antejardin": 17,
+   "adosamiento": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 8,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-1",
+   "Z-2",
+   "Z-3",
+   "Z-4",
+   "Z-5",
+   "Z-6",
+   "ZE",
+   "ZE-1",
+   "ZE-3"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 3, TALCA (1993)\r\n\r\nResolución 3\r\nAPRUEBA MODIFICACION A ORDENANZA LOCAL DEL PLAN REGULADOR DE\r\nTALCA EN EL SENTIDO QUE INDICA\r\nMUNICIPALIDAD DE TALCA\r\nPublicación: 28-DIC-1993 | Promulgación: 11-NOV-1993\r\nVersión: Única De : 28-DIC-1993\r\nUrl Corta: https://bcn.cl/3mqag\r\n\r\nAPRUEBA MODIFICACION A ORDENANZA LOCAL DEL PLAN REGULADOR DE TALCA EN EL SENTIDO\r\nQUE INDICA\r\nNúm. 3.- Talca, 11 de Noviembre de 1993.Vistos y considerando:\r\na) Acuerdo s/n de fecha 10 de Marzo de 1993, del Concejo Municipal de Talca, que\r\naprobó las modificaciones a la Ordenanza Local del Plan Regulador Comunal de Talca,\r\nen el sentido que en él se indica.\r\nb) Decreto Alcaldicio N° 1199 de fecha 27 de Julio de 1993 de la I. Municipalidad\r\nde Talca que sanciona el acuerdo indicado en la letra anterior.\r\nc) Ord. N° 0911 de fecha 27 de Agosto de 1993, de la Secretaría Regional\r\nMinisterial de la Vivienda y Urbanismo Región del Maule.\r\nd) Lo prescrito en el Artículo 36, letra c) de la Ley N° 19.175, Orgánica\r\nConstitucional sobre Gobierno y Administración Regional.\r\ne) Lo acordado en sesión ordinaria N° 12 de fecha 20 de Octubre de 1993, por el\r\nConsejo Regional VII Región del Maule.\r\nf) Resolución N° 55 de fecha 24 de Enero de 1992, de la Contraloría General de\r\nla República.\r\nResuelvo:\r\n1) Apruébanse las siguientes modificaciones a la\r\nOrdenanza Local del Plan Regulador Comunal de Talca, en\r\nlos artículos que se indican:\r\nArtículo 11°:\r\nAgrégase el siguiente inciso:\r\n\"En los Predios de destino no h"
+ },
+ {
+  "id": "d0991",
+  "comuna": "talca",
+  "nombre_documento": "44273_aprueba_modificaciones_via_enmienda_a_la_ordenanza_local_del_plan_regulado",
+  "archivo": "talca_44273_aprueba_modificaciones_via_enmienda_a_la_ordenanza_local_del_plan_regulado__Modificación Via Enmienda Ordenanza Plan Regulador Comunal Talca.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 4,
+   "predial_minima": 4,
+   "altura_maxima": 2,
+   "agrupamiento": 8,
+   "antejardin": 4,
+   "rasante": 2,
+   "adosamiento": 2,
+   "distanciamiento": 4,
+   "normas_urbanisticas": 4,
+   "zonificacion": 1,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 4,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.273\r\n\r\n|\r\n\r\nLunes 13 de Octubre de 2025\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2708386\r\n\r\nMUNICIPALIDAD DE TALCA\r\n\r\nAPRUEBA MODIFICACIONES VÍA ENMIENDA A LA ORDENANZA LOCAL DEL\r\nPLAN REGULADOR COMUNAL DE TALCA\r\nNúm. 5.267.- Talca, 1 de agosto de 2025.\r\nVistos:\r\nEl oficio (O) Nº 445, de fecha 9 de julio de 2025, de la Directora de la Secretaría Comunal\r\nde Planificación, la exposición del Arquitecto Asesor Urbanista Sr. Alejandro de la Puente\r\nAcuña, ante el honorable Concejo Municipal, en sesión ordinaria de fecha 15 de abril de 2025,\r\nmediante el cual se da a conocer la necesidad de realizar la Segunda Enmienda del Plan\r\nRegulador, el acuerdo unánime del honorable Concejo, establecido en la sesión ordinaria,\r\nseñalado y plasmado en el decreto alcaldicio Nº 3.047, de fecha 22 de abril de 2025, mediante el\r\ncual se da inicio al proceso Segunda Enmienda del Plan Regulador, primera exposición al\r\nConsejo de la Sociedad Civil, “Cosoc”, en sesión realizada el 28 de abril de 2025, aviso\r\npublicitado en la página web municipal, en forma permanente a partir del día 19 de mayo de\r\n2025 hasta el 18 de junio de 2025, la exposición pública de los antecedentes y de la propuesta de\r\nla Segunda Enmienda, en el hall de la Dirección de Obras, desde el día 19 de mayo de 2025 hasta\r\nel 18 de junio de 2025, la primera Audiencia Públ"
+ },
+ {
+  "id": "d0992",
+  "comuna": "talca",
+  "nombre_documento": "decreto_ordenanza_local_plan_regulador_de_talca_abril_2011",
+  "archivo": "talca_decreto_ordenanza_local_plan_regulador_de_talca_abril_2011__ORDENANZA LOCAL 2016.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 89,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 3,
+   "agrupamiento": 6,
+   "antejardin": 6,
+   "adosamiento": 3,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 6,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "PL AN R E GU L AD O R C O M UNA L D E T A LC A: O RD E NA N ZA LO CA L\r\n\r\nPLAN REGULADOR COMUNAL DE TALCA\r\n\r\nORDENANZA LOCAL\r\nVERSIÓN CONCORDANTE CON DIARIO OFICIAL\r\nDE FECHA 26/10/2011.\r\nINCLUYE ENMIENDA APROBADA MEDIANTE DECRETO\r\nALCALDICIO N°3920 DE FECHA 24 AGOSTO 2016\r\n\r\nSECRETARIA COMUNAL DE PLANIFICACION\r\n\r\nMAYO DE 2017\r\n\r\nI. MUNICIPALIDAD DE TALCA\r\n\r\n\fPL AN R E GU L AD O R C O M UNA L D E T A LC A: O RD E NA N ZA LO CA L\r\n\r\nCAPÍTULO I\r\nDISPOSICIONES GENERALES\r\nARTÍCULO 1º\r\nGENERALIDADES\r\nEl Plan Regulador Comunal de Talca, en adelante el PRCT, es el instrumento de planificación territorial que orienta\r\ny regula el desarrollo del área urbana de Talca, de acuerdo a lo dispuesto por la Ley General de Urbanismo y\r\nConstrucciones (LGUC) y la Ordenanza General de Urbanismo y Construcciones (OGUC).\r\nSe compone de los siguientes documentos: Memoria Explicativa, Estudio de Factibilidad, Ordenanza Local y Plano\r\nde Zonificación y Vialidad, en adelante el Plano.\r\nLa presente Ordenanza Local contiene las disposiciones que deberán observarse dentro del área urbana del PRCT.\r\nARTÍCULO 2º\r\nLÍMITE URBANO\r\nEl Límite Urbano del PRCT se encuentra definido por una línea poligonal cerrada, identificada por los puntos 1, 2,\r\n3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 y 1. Lo anterior, de acuerdo a la\r\ndescripción de puntos y tramos contenida en la tabla siguiente y su graficación en el Plano.\r\n\r\nI. MUNICIPALIDAD DE TALCA\r\n\r\n2\r\n\r\n\fPL AN R E G"
+ },
+ {
+  "id": "d1301",
+  "comuna": "talca",
+  "nombre_documento": "3920_apruebase_en_forma_definitiva_via_enmienda_a_la_ordenanza_local_del_plan_re",
+  "archivo": "talca_3920_apruebase_en_forma_definitiva_via_enmienda_a_la_ordenanza_local_del_plan_re__3920.pdf_1496170476650.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1302",
+  "comuna": "talca",
+  "nombre_documento": "decreto_alcaldicio_365_concejo_acuerda_la_calendarizacion_expuesta_por_la_consul",
+  "archivo": "talca_decreto_alcaldicio_365_concejo_acuerda_la_calendarizacion_expuesta_por_la_consul__365.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1303",
+  "comuna": "talca",
+  "nombre_documento": "decreto_alcaldicio_5228_ordena_el_retiro_de_todos_los_soportes_publicitarios_ins",
+  "archivo": "talca_decreto_alcaldicio_5228_ordena_el_retiro_de_todos_los_soportes_publicitarios_ins__5228.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1304",
+  "comuna": "talca",
+  "nombre_documento": "decreto_alcaldicio_5372_dispone_el_inicio_y_aprueba_plan_de_trabajo_para_el_proc",
+  "archivo": "talca_decreto_alcaldicio_5372_dispone_el_inicio_y_aprueba_plan_de_trabajo_para_el_proc__5372.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1305",
+  "comuna": "talca",
+  "nombre_documento": "decreto_alcaldicio_modifiquese_los_vistos_del_decreto_alcaldicio_no_5267_de_fech",
+  "archivo": "talca_decreto_alcaldicio_modifiquese_los_vistos_del_decreto_alcaldicio_no_5267_de_fech__5678.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1306",
+  "comuna": "talca",
+  "nombre_documento": "decreto_apruebase_en_forma_definitiva_las_siguientes_modificaciones_via_enmienda",
+  "archivo": "talca_decreto_apruebase_en_forma_definitiva_las_siguientes_modificaciones_via_enmienda__2359.pdf_1506351486367.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1307",
+  "comuna": "talca",
+  "nombre_documento": "decreto_dejase_establecido_que_el_concejo_municipal_ha_acordado_aprobar_iniciaci",
+  "archivo": "talca_decreto_dejase_establecido_que_el_concejo_municipal_ha_acordado_aprobar_iniciaci__2583.pdf_1507129981955.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1308",
+  "comuna": "talca",
+  "nombre_documento": "decreto_dejese_sin_efecto_decreto_alcaldicio_no_0851_de_fecha_2005_de_conformida",
+  "archivo": "talca_decreto_dejese_sin_efecto_decreto_alcaldicio_no_0851_de_fecha_2005_de_conformida__2251.pdf_1506351574384.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1309",
+  "comuna": "talca",
+  "nombre_documento": "decreto_modificaciones_via_enmienda_ordenanza_local_plan_regulador_comunal_de_ta",
+  "archivo": "talca_decreto_modificaciones_via_enmienda_ordenanza_local_plan_regulador_comunal_de_ta__3920.pdf_1506351298822.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

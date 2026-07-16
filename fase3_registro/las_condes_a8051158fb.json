@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_a8051158fb",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.1755.06may2016.pdf",
+  "nombre": "las_condes_decreto.1755.06may2016.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:31:10",
+  "fin": "2026-07-15T08:32:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alc.Secc.1a N1755 (06.05.2016), Municipalidad de Las Condes. Rectifica Decreto 1132/2015 (modificaciones al PRC): corrige distancia eje a linea oficial de Calle/Camino Fray Jorge de 5m a 7.5m (ambos lados), resultando ancho minimo L.O. de 15m. Contiene tablas de VIALIDAD (Nombre de Via/Desde/Hasta/Clasificacion/Ancho Min L.O./N Pistas/Distancia Eje a L.O.), consistente con el criterio ya aplicado en el corpus de excluir tablas de vialidad/nomina de vias del alcance de 'tablas de normas urbanisticas' (que se centra en COS/CC/altura/agrupamiento/antejardin/predial/densidad por zona edificatoria)."
+  }
+}

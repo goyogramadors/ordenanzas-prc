@@ -1,0 +1,20 @@
+{
+  "id": "quilleco_314b401e84",
+  "comuna": "quilleco",
+  "ruta": "Ordenanzas ordenadas\\quilleco_decreto_aprueba_ordenanza_municipal_sobre_derechos_por_concesiones_permisos_serv__20101026.pdf",
+  "nombre": "quilleco_decreto_aprueba_ordenanza_municipal_sobre_derechos_por_concesiones_permisos_serv__20101026.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 72,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:01:56",
+  "fin": "2026-07-15T08:04:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "PDF es edicion completa del Diario Oficial (72p). Decreto Quilleco N179 (Ordenanza Municipal sobre Derechos por Concesiones, Permisos, Servicios) ocupa solo pag3-5, Art.1-15: tarifas municipales (Administracion/Finanzas, Propaganda, Comercio Ambulante, Transito, DOM -cobros % UTM/presupuesto-, Cementerio, Biblioteca, Exenciones), sin usos de suelo/COS/coef.constructibilidad/altura/superficie predial. Muestreo visual pag3,4,5,15,25,35: pag3-5 decreto Quilleco (solo tarifas), resto del documento es otras secciones del DO no relacionadas (hidrogeologia, telecomunicaciones, avisos legales)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "calle_larga_4102b5a1b9",
+  "comuna": "calle_larga",
+  "ruta": "Ordenanzas Descargadas\\1-600\\calle_larga_necesito_el_plano_regulador_vigente_de_la_comuna__2db55979-ceff-45b9-85ac-cef3fb2a3dc9.pdf",
+  "nombre": "calle_larga_necesito_el_plano_regulador_vigente_de_la_comuna__2db55979-ceff-45b9-85ac-cef3fb2a3dc9.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:02:31",
+  "fin": "2026-07-14T13:04:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CALLE LARGA: NO ES UN DOCUMENTO PRC. Es un oficio 126/2025 de respuesta a solicitud de Ley de Transparencia (MU023T0001500, 'necesito el plano regulador vigente'): la municipalidad responde que el PRC esta permanentemente a disposicion en su sitio web y le indica la ruta de navegacion. 1 pagina, texto completo leido."
+  }
+}

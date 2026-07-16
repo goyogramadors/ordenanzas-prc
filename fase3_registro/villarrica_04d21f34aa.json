@@ -1,0 +1,25 @@
+{
+  "id": "villarrica_04d21f34aa",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_resolucion_18_plan_regulador_de_la_localidad_de_lican_ray__plan_regulador_lican_ray_1992.pdf",
+  "nombre": "villarrica_resolucion_18_plan_regulador_de_la_localidad_de_lican_ray__plan_regulador_lican_ray_1992.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 19,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:35:11",
+  "fin": "2026-07-14T21:36:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        17
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PRC Licán Ray 1992: pág13-17 tablas por zona con usos permitidos/prohibidos, superficie y frente predial mínimo, % ocupación suelo, sistema agrupamiento, altura máxima, coeficiente constructibilidad; texto nativo completo"
+  }
+}

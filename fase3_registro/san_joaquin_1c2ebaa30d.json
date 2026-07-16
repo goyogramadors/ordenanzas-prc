@@ -1,0 +1,25 @@
+{
+  "id": "san_joaquin_1c2ebaa30d",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_452_promulgese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_san__DECRETO_452.pdf",
+  "nombre": "san_joaquin_452_promulgese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_san__DECRETO_452.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:52:38",
+  "fin": "2026-07-15T12:54:26",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N39.961, 16-may-2011, 2 pags. Pag1: Decreto Seccion 1a N452, 24-mar-2011, San Joaquin, PROMULGA APROBACION DE MODIFICACION AL PLAN REGULADOR COMUNAL -- Articulo unico: modifica el uso de suelo permitido en la Zona Z11 Residencial Mixta, eliminando de los usos permitidos para actividades productivas inofensivas la frase 'existentes de productos lacteos'. Cambio normativo puntual de uso de suelo. Pag2: contenido AJENO -- es la primera pagina de OTRA edicion del Diario Oficial (N39.983, 11-jun-2011) con noticias nacionales sin relacion, se excluye del rango. Verificado visualmente paginas 1-2 de 2."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "machali_11adf79898",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_524_apruebese_la_modificacion_al_plan_regulador_comunal_de_machali_tramitacion_n__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Modificacion N7 PRC Machali (calle Arturo Prat esq. calle Existente N1). p2: modifica el Plano PRC-MACH-1/5000, reduce la superficie de la ZONA ZAV e incorpora una COTA DE DISTANCIAMIENTO DE 10 M como limite de la zonificacion. Es principalmente un cambio de deslinde/geometria de zona, pero fija un valor de distanciamiento (norma listada). Confianza MEDIA por ser mayormente geometrico.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:22:09",
+  "fin": "2026-07-15T14:23:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\machali\\machali_524_modificacion7_zav.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZAV"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Cambio mayormente geometrico de deslinde de la Zona ZAV; unico valor normativo es cota de distanciamiento de 10m. Confianza MEDIA por nota_fase3 (geometrico, no cuadro de normas)."
+  }
+}

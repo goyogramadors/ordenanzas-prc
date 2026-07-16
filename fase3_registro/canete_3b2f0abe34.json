@@ -1,0 +1,25 @@
+{
+  "id": "canete_3b2f0abe34",
+  "comuna": "canete",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\canete_doc_009_140219010216.PDF",
+  "nombre": "canete_doc_009_140219010216.PDF",
+  "veredicto": "MIXTO",
+  "paginas": 40,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:45:52",
+  "fin": "2026-07-15T07:49:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        39
+      ]
+    ],
+    "paginas_utiles": 37,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Presentacion tipo diapositivas del PRC Canete. TEXTO real (no imagen pese a que la metadata marca 30 paginas con imagen: son mapas divisorios sin tabla). Patron repetido de 3 paginas por zona: divisoria (mapa) -> 'CONDICIONES DE EDIFICACION ZONA X' (predial min, COS, CC, altura max, agrupamiento, distanciamiento, antejardin, densidad) -> 'USOS DE SUELO ZONA X' (permitido/prohibido). Verificado p6 ZA-1 (predial 200m2, COS 1,0, CC 2,0, altura 14m), p25 ZBCD-1 usos, p35 ZCH inmuebles de conservacion historica, p37-38 ZA-4. p39 restriccion laderas/pendientes (sin cuadro de zona) y p40 conclusion narrativa incluidas por continuidad, sin norma nueva."
+  }
+}

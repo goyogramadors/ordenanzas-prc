@@ -1,0 +1,15 @@
+{
+  "id": "san_joaquin_a428c728a0",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_joaquin_914_apruebese_y_promulgese_la_modificacion_al_plan_regulador_comunal_de_san_joaq__DECRETO_914.pdf",
+  "nombre": "san_joaquin_914_apruebese_y_promulgese_la_modificacion_al_plan_regulador_comunal_de_san_joaq__DECRETO_914.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:28:57",
+  "fin": "2026-07-14T21:30:33",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto 914/2013 (DO 40.583, edicion completa que mezcla Banco Central, SAG, etc.) solo APRUEBA Y PROMULGA la modificacion 'Modificacion Zona Z2A' al PRC San Joaquin, y remite 'copia del texto aprobatorio, que son parte de esta modificacion' a las entidades correspondientes, pero el TEXTO APROBATORIO CON LAS NORMAS no esta incluido en este PDF de 2 paginas (solo vistos/considerandos/decreto administrativo). Requiere ubicar el Texto Aprobatorio de la Modificacion Zona Z2A."
+  }
+}

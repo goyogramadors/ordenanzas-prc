@@ -1,0 +1,20 @@
+{
+  "id": "requinoa_77ae579c4d",
+  "comuna": "requinoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\requinoa_decreto_alcaldicio_3411_derroguese_el_plan_regulador_comunal_de_requinoa_aprobad__DA3411.pdf",
+  "nombre": "requinoa_decreto_alcaldicio_3411_derroguese_el_plan_regulador_comunal_de_requinoa_aprobad__DA3411.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:26:20",
+  "fin": "2026-07-14T21:28:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 3411: deroga PRC 1987 (Res.110) y su modificacion (Res.14/2000), APRUEBA/PROMULGA nuevo PRC 2024, pero NO transcribe la tabla de normas: solo referencia 'Ordenanza Local', 'Planos', 'Memoria Explicativa' como documentos adjuntos no incluidos en este archivo. Cuerpo visible = procedimiento EAE (objetivos ambientales, criterios sustentabilidad/seguimiento), sin COS/CC/altura/superficie predial por zona. Posible vacio en el corpus: la Ordenanza Local del nuevo PRC 2024 de Requinoa puede estar en otro archivo no localizado aun."
+  }
+}

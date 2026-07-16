@@ -1,0 +1,25 @@
+{
+  "id": "mejillones_1e247d4e55",
+  "comuna": "mejillones",
+  "ruta": "Ordenanzas ordenadas\\mejillones_2150_enmiendase_el_plan_regulador_comunal_de_mejillones_publicado_en_el_diario_o__OREDENANZA-PLAN-REGULADOR-COMUNAL-11.11.2000.pdf",
+  "nombre": "mejillones_2150_enmiendase_el_plan_regulador_comunal_de_mejillones_publicado_en_el_diario_o__OREDENANZA-PLAN-REGULADOR-COMUNAL-11.11.2000.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:37:42",
+  "fin": "2026-07-15T08:40:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        9
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial N36.810 (11.11.2000), Ordenanza PRC del Puerto y Bahia de Mejillones. Tablas Condiciones de Uso de Suelo/Subdivision y Edificacion por zona pp.3-9: C1 (sin subdivision nueva, ocup 40%, aislado, distanciamiento 3m, altura 7m), C2 (ocup 40%, rasante 45, distanciamiento 10m, antejardin 5m), C3 (predial 360m2, ocup 60%, altura 7m), C4 (predial 200m2, ocup 60%, altura 12m continuo/7m aislado), C5 (predial 2500m2), U1-U8 (predial 100-10000m2, ocup 40-80%, altura 6-18m variable segun cuadra), EU1-EU4 (frente al mar, ocup 40-60%, altura 6-18m por cuadra), EU5/ER1-4/E1-3/AP (uso restringido/portuario). Excluidas: pp.1-2 (limite urbano, sin norma) y p.10 (cuadros de vialidad estructural). Sin comuna ajena, todo confirmado Mejillones."
+  }
+}

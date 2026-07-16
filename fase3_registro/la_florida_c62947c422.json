@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_c62947c422",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_393_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "la_florida_393_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:46:20",
+  "fin": "2026-07-14T15:50:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        5
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 393, enmiendas al PRC La Florida. Normas 100% EN PROSA (formato 'reemplazar X por Y' columna por columna), sin cuadros: p2 Tablas 1-2 (areas E-AB1, E-AB2); p3 Tablas 3-6 (E-AB3, E-AB4, E-AM1); p4 Tablas 7-9 (E-AM2, E-AM3, E-AM4); p5 Tablas 10-12 y 16 (E-AA1, E-AA2, E-AA3, E-Ai1). Parametros tocados: subdivision predial minima, COS, coef. constructibilidad, altura, rasante, separacion a medianero. p1 solo vistos. OJO transcriptor: hay que leer frase por frase, no hay tabla visual."
+  }
+}

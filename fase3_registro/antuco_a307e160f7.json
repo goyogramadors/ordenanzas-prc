@@ -1,0 +1,20 @@
+{
+  "id": "antuco_a307e160f7",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_aprueba_ordenanza_n22026_municipal_sobretenencia_responsable_de_mascotas__Decreto_2_2026.pdf",
+  "nombre": "antuco_decreto_aprueba_ordenanza_n22026_municipal_sobretenencia_responsable_de_mascotas__Decreto_2_2026.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 35,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:59:39",
+  "fin": "2026-07-14T13:00:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Ordenanza 2/2026 tenencia responsable de mascotas y animales de compania. Texto completo 35/35 pags: 0 hits urbanisticos."
+  }
+}

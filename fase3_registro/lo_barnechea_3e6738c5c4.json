@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_3e6738c5c4",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_2285_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__DO_06-05-2011_PROMULGA_MODIFICACION_AL_PLAN_REGULADOR_CUMUNAL_DE_LO_BARNECHEA.pdf",
+  "nombre": "lo_barnechea_2285_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__DO_06-05-2011_PROMULGA_MODIFICACION_AL_PLAN_REGULADOR_CUMUNAL_DE_LO_BARNECHEA.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:55:18",
+  "fin": "2026-07-15T07:58:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "TRAMPA comuna ajena + tabla faltante: página combina 2 decretos Lo Barnechea (asigna normas ya existentes de zona adyacente a predios ex-declaratoria calle El Olivar - tabla referida no está en el PDF, verificado que imagen p1 es solo publicidad de radio; y MPRC-LB-14 Cerros Isla que solo suprime clase 'Comercio' de equipamiento, sin tabla) + aviso Viña del Mar + resolución Superintendencia de Quiebras (totalmente ajenos)"
+  }
+}

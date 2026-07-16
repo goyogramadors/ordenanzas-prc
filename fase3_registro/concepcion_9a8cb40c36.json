@@ -1,0 +1,20 @@
+{
+  "id": "concepcion_9a8cb40c36",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\concepcion_1280_da_1280_24_promulga_enmienda_n16_plan_regulador_comunal__2795910 DIARIO OFICIAL 1BRIL 2026.pdf",
+  "nombre": "concepcion_1280_da_1280_24_promulga_enmienda_n16_plan_regulador_comunal__2795910 DIARIO OFICIAL 1BRIL 2026.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:32:46",
+  "fin": "2026-07-14T15:36:52",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CONCEPCION: Diario Oficial 21-abr-2026, AVISO de 1 pagina que solo pone en conocimiento del publico que el decreto 1280-2024 (Enmienda N16 al PRC), su ordenanza y sus planos estan disponibles en el sitio web municipal (concepcion.cl-plan-regulador), vigente desde el 25-nov-2024. NO contiene la enmienda ni normas. La imagen de la pagina es solo el logo municipal (verificado en el render). El contenido real de la Enmienda N16 hay que buscarlo en otro documento."
+  }
+}

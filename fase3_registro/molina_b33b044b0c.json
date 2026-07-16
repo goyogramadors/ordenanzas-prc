@@ -1,0 +1,25 @@
+{
+  "id": "molina_b33b044b0c",
+  "comuna": "molina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\molina_52_promulga_plan_regulador_comunal_de_molina_y_deja_sin_efecto_resoluciones_afec__Publicacion-del-Miercoles-7-de-Diciembre-de-2022-DIARIO-OFICIAL.pdf",
+  "nombre": "molina_52_promulga_plan_regulador_comunal_de_molina_y_deja_sin_efecto_resoluciones_afec__Publicacion-del-Miercoles-7-de-Diciembre-de-2022-DIARIO-OFICIAL.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 30,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        21
+      ]
+    ],
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA NUEVA (no es la trampa LeyChile/Caldera): el veredicto de pagina es TEXTO en promedio, pero las tablas de normas por zona estan insertadas como IMAGEN dentro de un PDF nativo del Diario Oficial digital (2022); el texto solo extrae encabezados de zona (ZU-1, ZU-2...), no los valores. Verificado por render: p15 Art.4.2 lista de zonas (ZU-1 a ZU-7, ZE-1 a ZE-6, ZAP, ZAV) + p16-21 tablas completas por zona (usos de suelo, COS, CC, altura, agrupamiento, antejardin, densidad) terminando en ZAV/ZPL/ICH patrimonial. p22 ya es Titulo 5 Vialidad (fuera de rango). Revisar TODOS los PDFs de Diario Oficial digital 2020+ con este patron -- el veredicto TEXTO no garantiza que las tablas sean texto.",
+    "paginas_utiles": 7
+  }
+}

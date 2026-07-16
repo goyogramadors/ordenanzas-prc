@@ -1,0 +1,807 @@
+[
+ {
+  "id": "d0060",
+  "comuna": "colina",
+  "nombre_documento": "37dfd51_ef9c",
+  "archivo": "colina_37dfd51-ef9c.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0061",
+  "comuna": "colina",
+  "nombre_documento": "e_6202014_promulga_acuerdo_n_29_de_2014_y_aprueba_enmiendas_al_plan_regulador_de",
+  "archivo": "colina_e_6202014_promulga_acuerdo_n_29_de_2014_y_aprueba_enmiendas_al_plan_regulador_de__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 620, COLINA (2014)\r\n\r\nDecreto 620; Decreto E-620\r\nPROMULGA ACUERDO Nº 29, DE 2014, Y APRUEBA ENMIENDAS AL PLAN\r\nREGULADOR DE COLINA SECTOR 3 EL COLORADO ZONA A13a\r\nMUNICIPALIDAD DE COLINA\r\nPublicación: 03-MAY-2014 | Promulgación: 20-MAR-2014\r\nVersión: Única De : 03-MAY-2014\r\nUrl Corta: https://bcn.cl/3ndqa\r\n\r\nPROMULGA ACUERDO Nº 29, DE 2014, Y APRUEBA ENMIENDAS AL PLAN REGULADOR DE COLINA\r\nSECTOR 3 EL COLORADO ZONA A13a\r\nNúm. E-620.- Colina, 20 de marzo de 2014.- Vistos: Acuerdo Nº 29 (período\r\n2012-2016), adoptado por el H. Concejo Municipal en sesión ordinaria Nº 9 de fecha\r\n20 de marzo de 2014; 1) Memorándum Nº 6/2014 de fecha 17 de marzo de 2014, del\r\nAsesor Urbano, solicitando autorización del H. Concejo Municipal para aprobar\r\nEnmiendas al Plan Regulador de Colina en el Sector El Colorado. 2) Certificado del\r\nSecretario Municipal de fecha 7 de marzo de 2014, mediante el cual certifica que el\r\nConsejo de Organizaciones de la Sociedad Civil de Colina, en sesión ordinaria Nº 2\r\nde fecha 07.03.14, se pronunció favorablemente sobre la enmienda del Plano Regulador\r\nde Colina Sector 3 El Colorado Zona A13a, los sitios ubicados en costado norte del\r\ncamino El Colorado entre las calles Los Aromos por el oriente y el camino Colorado\r\nInterior por el poniente; y, las atribuciones que me confiere la ley Nº 18.695,\r\nOrgánica Constitucional de Municipalidades, ley Nº 20.285, sobre acceso a la\r\ninformación pública y su reglamento, ley Nº 19.880, sobre base de los\r\nprocedimient"
+ },
+ {
+  "id": "d0062",
+  "comuna": "colina",
+  "nombre_documento": "e_62114_promulga_acuerdo_n_30_de_2014_y_aprueba_enmiendas_al_plan_regulador_de_c",
+  "archivo": "colina_e_62114_promulga_acuerdo_n_30_de_2014_y_aprueba_enmiendas_al_plan_regulador_de_c__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 621, COLINA (2014)\r\n\r\nDecreto 621; Decreto E-621\r\nPROMULGA ACUERDO Nº 30, DE 2014, Y APRUEBA ENMIENDAS AL PLAN\r\nREGULADOR DE COLINA ZONA A2\r\nMUNICIPALIDAD DE COLINA\r\nPublicación: 03-MAY-2014 | Promulgación: 20-MAR-2014\r\nVersión: Única De : 03-MAY-2014\r\nUrl Corta: https://bcn.cl/3osmh\r\n\r\nPROMULGA ACUERDO Nº 30, DE 2014, Y APRUEBA ENMIENDAS AL PLAN REGULADOR DE COLINA\r\nZONA A2\r\nNúm. E-621.- Colina, 20 de marzo de 2014.- Vistos: Acuerdo Nº 30 (período\r\n2012-2016), adoptado por el H. Concejo Municipal en sesión ordinaria Nº 9 de fecha\r\n20 de marzo de 2014; 1) Memorándum Nº 6/2014 de fecha 17 de marzo de 2014, del\r\nAsesor Urbano, solicitando autorización del H. Concejo Municipal para aprobar\r\nEnmiendas al Plan Regulador de Colina en el Sector Alpatacal con Pedro Aguirre Cerda.\r\n2) Certificado del Secretario Municipal de fecha 7 de marzo de 2014, mediante el cual\r\ncertifica que el Consejo de Organizaciones de la Sociedad Civil de Colina, en Sesión\r\nOrdinaria Nº 2 de fecha 07.03.14, se pronunció favorablemente sobre la enmienda del\r\nPlano Regulador de Colina Zona A2 por el norte frente a calle Alpatacal, entre calle\r\nPedro Aguirre Cerda por el poniente, Pasaje Oriente por el oriente y Pasaje 1 Sur por\r\nel sur; y, las atribuciones que me confiere la ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades, ley Nº 20.285, sobre acceso a la información\r\npública y su reglamento, ley Nº 19.880, sobre base de los procedimientos\r\nadministrativos que rigen los actos de los órganos"
+ },
+ {
+  "id": "d0063",
+  "comuna": "colina",
+  "nombre_documento": "sn_extracto_explicativa_de_la_memoria_explicativa_enmienda_al_plan_regulador_zon",
+  "archivo": "colina_sn_extracto_explicativa_de_la_memoria_explicativa_enmienda_al_plan_regulador_zon__Extracto Explicativa Enmienda zona A2 Barrio Los Robles 19-11-2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.936\r\n\r\n|\r\n\r\nMartes 19 de Diciembre de 2017\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1320266\r\n\r\nMUNICIPALIDAD DE COLINA\r\n\r\nEXTRACTO EXPLICATIVA DE LA MEMORIA EXPLICATIVA\r\nENMIENDA AL PLAN REGULADOR COMUNAL DE COLINA\r\nZONA A2 BARRIO LOS ROBLES\r\nConsiderando:\r\nI.- Que la zona propuesta para la Enmienda al Plan Regulador de Colina se encuentra al sur\r\ndel \"Área Urbana Consolidada Colina Esmeralda\", zona que de acuerdo a la Memoria del Plan\r\nRegulador Comunal Vigente tiene \"un marcado rol de cabecera comunal, emplazado en el centro\r\nde la comuna, área a la cual convergen prácticamente todos los ejes viales estructurantes del\r\nterritorio comunal.\". Además, la citada Memoria señala que esta área urbana \"Se caracteriza por\r\nconcentrar los equipamientos y servicios de la comuna, además de un alto porcentaje de la\r\npoblación comunal\". Que en particular la Enmienda al Plan Regulador Comunal de Colina\r\nmodificará algunas condiciones urbanísticas al sur de \"Colina Esmeralda\" para la Zona A2 al\r\ncostado oriente de la Carretera General San Martín (antigua) E19N, al norte de la Zona B2, con\r\nel objeto de mejorar la calidad de vida de los habitantes de la comuna;\r\nFigura 2. Área de propuesta de Enmienda sobre Imagen del PRC de Colina\r\n\r\nII.- Que, en cumplimiento de lo anterior, el Asesor Urbanista de la Municipa"
+ },
+ {
+  "id": "d0064",
+  "comuna": "colina",
+  "nombre_documento": "sn_inicio_proceso_de_evaluacion_ambiental_estrategica_actualizacion_plan_regulad",
+  "archivo": "colina_sn_inicio_proceso_de_evaluacion_ambiental_estrategica_actualizacion_plan_regulad__716a8de-39ce.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZDUC"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 43.822\r\n\r\n|\r\n\r\nMiércoles 10 de Abril de 2024\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nAvisos\r\nCVE 2475325\r\n\r\nMUNICIPALIDAD DE COLINA\r\n\r\nMunicipalidad de Colina\r\nINICIO PROCESO DE EVALUACIÓN AMBIENTAL ESTRATÉGICA\r\nACTUALIZACIÓN PLAN REGULADOR COMUNAL DE COLINA\r\nEn consideración a la siguiente normativa:\r\n1. El DFL Nº 458, de 1975, Ley General de Urbanismo y Construcciones.\r\n2. El DS (V. y U.) Nº 47, de 1992, Ordenanza General de Urbanismo y Construcciones.\r\n3. Ley Nº 18.695, Orgánica Constitucional de Municipalidades.\r\n4. Ley 19.300, de 1994, Ley sobre Bases Generales del Medio Ambiente, y sus\r\nmodificaciones posteriores, particularmente las relativas al procedimiento de Evaluación\r\nAmbiental Estratégica introducidas mediante la ley 20.417, de 2010.\r\nY mediante decreto alcaldicio Nº E-467/2024, de fecha 8 de marzo de 2024, la\r\nMunicipalidad de Colina ha dado inicio al proceso de Evaluación Ambiental Estratégica\r\nde la Actualización de su Plan Regulador Comunal.\r\nÓRGANO RESPONSABLE DEL PROCESO: Municipalidad de Colina.\r\nRESUMEN ANTECEDENTES: La comuna de Colina requiere modificar el\r\ninstrumento de planificación comunal vigente debido a que la dinámica sociodemográfica\r\ny de desarrollo urbano de la comuna de Colina ha cambiado relevantemente en los\r\núltimos 15 años. Por una parte, la población de las ZDUCs, AUDPs y condo"
+ },
+ {
+  "id": "d0590",
+  "comuna": "colina",
+  "nombre_documento": "e_62911_plan_regulador_comunal_de_colina",
+  "archivo": "colina_e_62911_plan_regulador_comunal_de_colina__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 63,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 4,
+   "zonificacion": 7,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 21,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z1",
+   "Z2a",
+   "Z2b",
+   "Z3"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 8 senales normativas (antejardin, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 629 EXENTO, COLINA (2010)\r\n\r\nDecreto 629 EXENTO\r\nPROMULGA PLAN REGULADOR COMUNAL DE COLINA\r\nMUNICIPALIDAD DE COLINA\r\nFecha Publicación: 26-MAR-2010 | Fecha Promulgación: 08-MAR-2010\r\nTipo Versión: Última Versión De : 19-DIC-2017\r\nUltima Modificación: 19-DIC-2017 Decreto S/N\r\nUrl Corta: https://bcn.cl/3nefr\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE COLINA\r\nNº E-629/2010.- Colina, 8 de marzo de 2010.- Visto: 1)\r\nOrd. Nº 836 de fecha 15 de febrero de 2010, del Sr. Carlos\r\nEstévez Valencia, Secretario Ministerial de Vivienda y\r\nUrbanismo del Gobierno de Chile, a través del cual emite\r\ninforme técnico favorable y remite antecedentes\r\nadministrativos y técnicos del Proyecto Plan Regulador\r\nComunal de Colina; 2) Decreto Alcaldicio Nº E-1433/2009 de\r\nfecha 09 de septiembre de 2009, que promulga Acuerdo Nº\r\n109, adoptado por el H. Concejo Municipal en Sesión\r\nOrdinaria Nº 26 de fecha 09 de septiembre de 2009, que\r\naprueba el Plan Regulador Comunal de Colina; 3) Plan\r\nRegulador de Colina; y, en virtud a las atribuciones que me\r\nconfiere la Ley General de Urbanismo y Construcciones (LGUC)\r\ny su Ordenanza General (OGUC) respectivamente; la Ley Nº\r\n18.695, Orgánica Constitucional de Municipalidades,\r\nDecreto:\r\n1.- Promúlgase, a contar del 15 de febrero del 2010,\r\nla aprobación del Plan Regulador Comunal de Colina, en\r\nadelante el PRCC.\r\n2.- Déjase establecido que el expediente PRCC se\r\nencuentra a disposición de la comunidad en la Asesoría\r\nUrbana Municipal, ubicada en Av. Colina Nº 7"
+ },
+ {
+  "id": "d0591",
+  "comuna": "colina",
+  "nombre_documento": "f3fb6c0_0ed2",
+  "archivo": "colina_f3fb6c0-0ed2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Modificaciones al Plan Regulador Comunal\r\nFecha\r\n\r\nTipo de Acto\r\n\r\nN° Decreto\r\nAlcaldicio\r\n\r\n28/12/2012\r\n\r\nDecreto Alcaldicio\r\nExento\r\n\r\nE-3093/2012\r\n\r\n29/11/2012\r\n\r\nDecreto Alcaldicio\r\nExento\r\n\r\nE-2853/2012\r\n\r\n20/03/2014\r\n\r\nDecreto Alcaldicio\r\nExento\r\n\r\n20/03/2014\r\n\r\nN° Acuerdo H.\r\nConcejo Municipal\r\n\r\nTexto Modificación\r\n\r\nEnlace a texto\r\n\r\nAsigna nuevas normas urbanísticas a terrenos cuyas declaratorias de\r\nutilidad pública caducaron\r\n\r\nEnlace\r\n\r\n156/2012\r\n\r\nAprobar el proyecto Plano Seccional Deportivo del Valle\r\n\r\nEnlace\r\n\r\nE-620/2014\r\n\r\n29/2014\r\n\r\nAprobar Enmiendas al Plan Regulador de Colina Sector 3 El Colorado Zona\r\nA13a, los sitios ubicados en costado norte del camino El Colorado entre las\r\ncalles Los Aromos por el oriente y el camino Colorado Interior por el\r\nponiente\r\n\r\nEnlace\r\n\r\nDecreto Alcaldicio\r\nExento\r\n\r\nE-621/2014\r\n\r\n30/2014\r\n\r\nAprobar Enmiendas al Plan Regulador de Colina Zona A2 por el Norte frente\r\na calle Alpatacal, entre calle Pedro Aguirre Cerda por el poniente, Pasaje\r\nOriente por el Oriente y Pasaje 1 Sur por el Sur\r\n\r\nEnlace\r\n\r\n07/08/2014\r\n\r\nDecreto Alcaldicio\r\nExento\r\n\r\nE-1861/2014\r\n\r\n85/2014\r\n\r\nDar inicio al proceso de la Enmienda al Plan Regulador de Colina Zona A2\r\nfrente a Carretera General San Martín\r\n\r\nEnlace\r\n\r\n17/11/2014\r\n\r\nDecreto Alcaldicio\r\nExento\r\n\r\nE-2530/2016\r\n\r\n155/2016\r\n\r\nDar inicio al proceso de la Enmienda al Plan Regulador de Colina Zona A2\r\nBarrio Los Robles, costado oriente de la Carretera General San Martín\r\n(antigua) E19N\r\n\r\n"
+ },
+ {
+  "id": "d1041",
+  "comuna": "colina",
+  "nombre_documento": "6b83a47_5c3b",
+  "archivo": "colina_6b83a47-5c3b.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 51,
+  "paginas_escaneadas": 51,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0065",
+  "comuna": "collipulli",
+  "nombre_documento": "941_publicacion_diario_oficial_de_fecha_02_de_julio_de_2009_pag_4_a_16_de_plano",
+  "archivo": "collipulli_941_publicacion_diario_oficial_de_fecha_02_de_julio_de_2009_pag_4_a_16_de_plano___941Prc.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1042",
+  "comuna": "coltauco",
+  "nombre_documento": "decreto_exento_266_aprobacion_y_modificaciones_de_plan_regulador",
+  "archivo": "coltauco_decreto_exento_266_aprobacion_y_modificaciones_de_plan_regulador__Plan_20Regulador_20Comunal.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 44,
+  "paginas_escaneadas": 44,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0592",
+  "comuna": "combarbala",
+  "nombre_documento": "n_532_plan_regulador_de_la_comuna_de_combarbala",
+  "archivo": "combarbala_n_532_plan_regulador_de_la_comuna_de_combarbala__1755933.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 27,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "normas_urbanisticas": 1,
+   "zonificacion": 4,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 3,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.644\r\n\r\n|\r\n\r\nJueves 30 de Abril de 2020\r\n\r\n|\r\n\r\nPágina 1 de 27\r\n\r\nNormas Generales\r\nCVE 1755933\r\n\r\nMUNICIPALIDAD DE COMBARBALÁ\r\n\r\nPROMULGA EL PLAN REGULADOR COMUNAL DE COMBARBALÁ\r\nNúm. 532.- Combarbalá, 24 de marzo de 2020.\r\nVistos:\r\n- La Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del\r\nEstado y sus modificaciones;\r\n- La Ley N° 18.695, Orgánica Constitucional de Municipalidades.\r\n- Lo dispuesto en los artículos 41 al 46 de la Ley General de Urbanismo y Construcciones;\r\n- La Ley N° 19.300, sobre Bases General del Medio Ambiente y sus modificaciones;\r\n- La Ley 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la\r\nSuperintendencia del Medio Ambiente;\r\n- Lo dispuesto en los artículos 2.1.10 y 2.1.11, del DS N° 47 del año 1992 y sus\r\nmodificaciones, Ordenanza General de Urbanismo y Construcciones;\r\n- El Decreto Alcaldicio N° 2.587, del 6 de diciembre de 2016, que aprueba la asunción de\r\nAlcalde y Concejales, periodo 2016-2020;\r\n- La resolución N° 1.600 de 2008 de la Contraloría General de la República;\r\n- Certificado N° 1.446 de fecha 21 de agosto de 2017, de Secretario Municipal (Ministro de\r\nFe) de Combarbalá, informando sobre Sesión Ordinaria N° 27 de fecha 17/08/2017, en la cual se\r\ntomó Acuerdo N°268, a través del cual el Concejo Municipal de Comba"
+ },
+ {
+  "id": "d0066",
+  "comuna": "concepcion",
+  "nombre_documento": "139_decreto_alcaldicio_n139_del_28012026_promulga_memoria_explicativa_ordenanza",
+  "archivo": "concepcion_139_decreto_alcaldicio_n139_del_28012026_promulga_memoria_explicativa_ordenanza___PUBLICACIÓN ENMIENDA 17 DO (9).pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.418\r\n\r\n|\r\n\r\nMartes 7 de Abril de 2026\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2788347\r\n\r\nMUNICIPALIDAD DE CONCEPCIÓN\r\n\r\nMunicipalidad de Concepción\r\nLa Municipalidad de Concepción pone en conocimiento del público, la\r\ndisponibilidad, en el sitio electrónico del municipio https://concepcion.cl/planregulador/,\r\nde la Memoria Explicativa, Ordenanza y Planos de la Enmienda N° 17 del Plan\r\nRegulador Comunal de Concepción. Dicha Enmienda fue promulgada por decreto\r\nalcaldicio N° 139, del 28.01.2026, y los antecedentes señalados, fueron publicados en el\r\nsitio electrónico del Municipio el día de hoy, fecha que constituye la de su entrada en\r\nvigencia.\r\nHÉCTOR MUÑOZ URIBE\r\nAlcalde\r\nMunicipalidad de Concepción\r\n\r\nGiovanni Calderón Bassi\r\nCVE 2788347 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl"
+ },
+ {
+  "id": "d0067",
+  "comuna": "concepcion",
+  "nombre_documento": "decreto_alcaldicio_268_posterga_selectivamente_el_otorgamiento_de_permisos_de_ed",
+  "archivo": "concepcion_decreto_alcaldicio_268_posterga_selectivamente_el_otorgamiento_de_permisos_de_ed__effdfef0-e557-497b-aa0a-d68df1cb0a00.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "postergacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "postergacion de permisos: acto temporal, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0068",
+  "comuna": "concepcion",
+  "nombre_documento": "solicita_copia_de_ordenanza_y_copia_del_plan_regulador_comunal_de_concepcion_amb",
+  "archivo": "concepcion_solicita_copia_de_ordenanza_y_copia_del_plan_regulador_comunal_de_concepcion_amb__2f6b40c9-2953-44fd-ad4f-a04f02f7c42b.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0593",
+  "comuna": "concepcion",
+  "nombre_documento": "1088_modifica_ordenanza_local_del_plan_regulador_comunal_de_concepcion",
+  "archivo": "concepcion_1088_modifica_ordenanza_local_del_plan_regulador_comunal_de_concepcion__DTO-1088_07-OCT-2009.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 1088\r\n:07-10-2009\r\n:23-09-2009\r\n:MUNICIPALIDAD DE CONCEPCIÓN\r\n:MODIFICA ORDENANZA LOCAL DEL PLAN REGULADOR COMUNAL DE\r\nCONCEPCIÓN\r\n:Unica\r\nDe : 07-10-2009\r\n:07-10-2009\r\n:1006975\r\n:https://www.leychile.cl/N?i=1006975&f=2009-10-07&p=\r\n\r\nMODIFICA ORDENANZA LOCAL DEL PLAN REGULADOR COMUNAL DE CONCEPCIÓN\r\nNúm. 1.088.- Concepción, 23 de septiembre de 2009.- Vistos: el Acuerdo Nº\r\n46-16-2000 (Extraord.), de 1 de diciembre de 2000, del Concejo Municipal de\r\nConcepción, que aprueba el Plan Regulador Comunal de Concepción; el Decreto\r\nAlcaldicio Nº 298, de 22 de abril de 2003, que aprueba el Plan Regulador Comunal de\r\nConcepción, que consta de la Ordenanza Local, Memoria Explicativa, Planos y Estudio\r\nde Factibilidad de Servicios de Agua Potable y Alcantarillado; el Decreto Alcaldicio\r\nNº 148, de 5 de marzo de 2004, que dispone la publicación del texto íntegro de la\r\nOrdenanza Local del Plan Regulador Comunal de Concepción; el Acuerdo Nº\r\n1151-91-2004, de 6 de septiembre de 2004, del Concejo Municipal de Concepción, que\r\naprueba se inicie el proceso de enmiendas y modificaciones al Plan Regulador Comunal\r\nde Concepción modificando, en lo pertinente, el Acuerdo Nº 46-16-2000 (Extraord.),\r\nde 1 de diciembre de 2000; la Resolución Exenta Nº 299/2004, de 22 de diciembre de\r\n2004, de la Comisión Regional del Medio Ambiente Región del Bío Bío, que califica\r\nambiental"
+ },
+ {
+  "id": "d0594",
+  "comuna": "concepcion",
+  "nombre_documento": "1280_da_1280_24_promulga_enmienda_n16_plan_regulador_comunal",
+  "archivo": "concepcion_1280_da_1280_24_promulga_enmienda_n16_plan_regulador_comunal__2795910 DIARIO OFICIAL 1BRIL 2026.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.430\r\n\r\n|\r\n\r\nMartes 21 de Abril de 2026\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2795910\r\n\r\nMUNICIPALIDAD DE CONCEPCIÓN\r\n\r\nMunicipalidad de Concepción\r\nLa Municipalidad de Concepción pone en conocimiento del público la\r\ndisponibilidad en el sitio electrónico del municipio https://concepcion.cl/plan-regulador/,\r\ndel decreto alcaldicio Nº 1.280, de 2024, que promulga la Enmienda Nº16 del Plan\r\nRegulador Comunal, así como la ordenanza y planos que la conforman. La fecha de\r\nentrada en vigencia de dicha enmienda fue el 25 de noviembre de 2024.\r\nLos antecedentes señalados fueron publicados en el sitio electrónico de la\r\nMunicipalidad de Concepción el 25 de noviembre de 2024.\r\nHÉCTOR MUÑOZ URIBE\r\nAlcalde\r\n\r\nGiovanni Calderón Bassi\r\nCVE 2795910 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl"
+ },
+ {
+  "id": "d0595",
+  "comuna": "concepcion",
+  "nombre_documento": "192_fija_normas_urbanisticas_en_el_plan_regulador_comunal_de_concepcion_cuyas_de",
+  "archivo": "concepcion_192_fija_normas_urbanisticas_en_el_plan_regulador_comunal_de_concepcion_cuyas_de__DTO-192_29-MAY-2015.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 6,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\n\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 192\r\n:29-05-2015\r\n:13-05-2015\r\n:MUNICIPALIDAD DE CONCEPCIÓN\r\n:FIJA NORMAS URBANÍSTICAS EN EL PLAN REGULADOR COMUNAL DE\r\nCONCEPCIÓN CUYAS DECLARATORIAS DE UTILIDAD PÚBLICA\r\nCADUCARON\r\n:Unica\r\nDe : 29-05-2015\r\n:29-05-2015\r\n:1077968\r\n:https://www.leychile.cl/N?i=1077968&f=2015-05-29&p=\r\n\r\nFIJA NORMAS URBANÍSTICAS EN EL PLAN REGULADOR COMUNAL DE CONCEPCIÓN CUYAS\r\nDECLARATORIAS DE UTILIDAD PÚBLICA CADUCARON\r\nNúm. 192.- Concepción, 13 de mayo de 2015.\r\nVistos:\r\nEl decreto alcaldicio Nº 148, de fecha 5 de marzo de 2004, que aprobó el nuevo\r\nPlan Regulador Comunal de Concepción, publicado en el Diario Oficial con fecha 22 de\r\nabril de 2004 y sus modificaciones posteriores: D.A. Nº78 publicado en el Diario\r\nOficial con fecha 23 de marzo de 2005 (primera modificación), D.A. Nº 463 publicado\r\nen el Diario Oficial con fecha 5 de agosto de 2006 (segunda modificación), D.A. Nº\r\n78 publicado en el Diario Oficial con fecha 9 de febrero de 2009 (tercera\r\nmodificación) y D.A. Nº 1.088 publicado en el Diario Oficial con fecha 7 de octubre\r\nde 2009 (cuarta modificación); circular DDU Nº 229 de fecha 15 de marzo de 2004 del\r\nMinisterio de Vivienda y Urbanismo, relativo a la aplicación del inciso primero del\r\nartículo 59 de la Ley General de Urbanismo y Construcciones sobre el procedimiento\r\npara establecer nuevas normas urbanísticas aplicables a terrenos cuyas declarato"
+ },
+ {
+  "id": "d0596",
+  "comuna": "concepcion",
+  "nombre_documento": "208_modifica_plan_regulador_comunal_de_concepcion",
+  "archivo": "concepcion_208_modifica_plan_regulador_comunal_de_concepcion__13-MODIFICACION-PRCC-DIARIO-OFICIAL2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "articulado": 25
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.321\r\n\r\n|\r\n\r\nMiércoles 3 de Abril de 2019\r\n\r\n|\r\n\r\nPágina 1 de 10\r\n\r\nNormas Generales\r\nCVE 1569257\r\n\r\nMUNICIPALIDAD DE CONCEPCIÓN\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE CONCEPCIÓN\r\nNúm. 208.- Concepción, 19 de febrero de 2019.\r\nVistos:\r\nEl decreto alcaldicio Nº 148, de fecha 05.03.2004, que aprobó el nuevo Plan Regulador\r\nComunal de Concepción, publicado en el Diario Oficial con fecha 22.04.2004 y sus\r\nmodificaciones posteriores; el oficio Ord. N° 66, de 27 de marzo de 2017, de la Asesora\r\nUrbanista por el que remite Proyecto 13ª Modificación Plan Regulador Comunal de Concepción;\r\nel Acuerdo Nº 252-13-2017, de 6 de abril de 2017, del Concejo Municipal, que aprueba el Inicio\r\ndel Trámite de Aprobación de la 13ª Modificación al Plan Regulador de Concepción; el decreto\r\nalcaldicio Nº 290, de 6 de abril de 2017, que promulga este Acuerdo; las publicaciones\r\nefectuadas en el Diario \"El Sur\", con fecha 2 y 10 de mayo de 2017, sobre Primera y Segunda\r\nAudiencia Pública, periodo de exposición del proyecto 13ª Modificación al Plan Regulador y\r\nrecepción de observaciones (22 cartas); oficio Nº 627, de 24 de abril de 2017, del Alcalde, por el\r\nque se informa a las Organizaciones Territoriales sobre proceso de modificación del Plan\r\nRegulador las audiencias públicas efectuadas los días 11 de mayo y 13 de julio de 20"
+ },
+ {
+  "id": "d0597",
+  "comuna": "concepcion",
+  "nombre_documento": "756_14_modificacion_plan_regulador_comunal_de_concepcion",
+  "archivo": "concepcion_756_14_modificacion_plan_regulador_comunal_de_concepcion__PUBLICACION DIARIO OFICIAL 14 MODIFICACION.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 4,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.787\r\n\r\n|\r\n\r\nViernes 23 de Octubre de 2020\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1834746\r\n\r\nMUNICIPALIDAD DE CONCEPCIÓN\r\n\r\nAPRUEBA LA 14ª MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE\r\nCONCEPCIÓN\r\nNúm. 756.- Concepción, 19 de octubre de 2020.\r\nVistos:\r\nEl oficio ordinario 96 de la Asesor Urbanista de fecha 19 de octubre de 2020, mediante el\r\ncual informa al Sr. Alcalde sobre el informe técnico favorable de la 14º modificación del Plan\r\nRegulador de Concepción de fecha 19 de octubre de 2020; el oficio ordinario Nº 2091 de 19 de\r\noctubre de 2020, del Secretario Regional Ministerial de Vivienda y Urbanismo (S) Región del\r\nBiobío, mediante el cual remite al Sr. Alcalde de la comuna de Concepción el Informe Técnico\r\nFavorable ''14 modificación del Plan Regulador Comunal de Concepción\"; el decreto alcaldicio\r\nNº 148, de fecha 05.03.2004, que aprobó el nuevo Plan Regulador Comunal de Concepción,\r\npublicado en el Diario Oficial con fecha 22.04.2004 y sus modificaciones posteriores; el\r\ncertificado Nº 250 del Secretario Municipal de fecha 30 de septiembre de 2020; el oficio Ord. Nº\r\n29 de la Asesor Urbanista por el cual remite Memoria Explicativa que da cuenta de todos los\r\nfundamentos técnicos y administrativos que fundan el proyecto de modificación de fecha 27 de\r\nfebrero de 2018; el Acuerdo Nº 920-46-2"
+ },
+ {
+  "id": "d1043",
+  "comuna": "concepcion",
+  "nombre_documento": "135_aprueba_nuevo_plan_regulador_comunal_de_concepcion",
+  "archivo": "concepcion_135_aprueba_nuevo_plan_regulador_comunal_de_concepcion__DEC. 135 MODIF. PLAN REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1044",
+  "comuna": "concepcion",
+  "nombre_documento": "548_fijense_normas_urbanisticas_en_el_plan_regulador_comunal_de_concepcion_publi",
+  "archivo": "concepcion_548_fijense_normas_urbanisticas_en_el_plan_regulador_comunal_de_concepcion_publi__DEC. 548 PLAN REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0598",
+  "comuna": "conchali",
+  "nombre_documento": "292_municipalidad_de_conchali_aprueba_plan_regulador_comunal",
+  "archivo": "conchali_292_municipalidad_de_conchali_aprueba_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 27,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "agrupamiento": 10,
+   "antejardin": 4,
+   "rasante": 2,
+   "distanciamiento": 2,
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 3,
+   "articulado": 20,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM1",
+   "ZM2",
+   "ZM3",
+   "ZM4",
+   "ZM5",
+   "ZM6",
+   "ZM7",
+   "ZR-1"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 292 EXENTO, CONCHALÍ (2013)\r\n\r\nDecreto 292 EXENTO\r\nAPRUEBA PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE CONCHALÍ\r\nFecha Publicación: 04-MAY-2013 | Fecha Promulgación: 12-FEB-2013\r\nTipo Versión: Única De : 04-MAY-2013\r\nUrl Corta: https://bcn.cl/3ldzq\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL\r\nConchalí, 12 de febrero de 2013.- La Alcaldía decretó hoy:\r\nNúm. 292 exento.- Vistos: Ord. N° 1700/262/11, de fecha 13.12.2011 RM. Remite\r\nexpediente del proyecto Actualización del Plan Regulador Comunal de Conchalí; ord.\r\nN° 260, Seremi Minvu RM, de fecha 26.01.2012, a Alcalde de Conchalí. Acusa recibo e\r\ninforma documentos faltantes del proyecto; ord. N° 1700/94/12, de fecha 13.04.2012.\r\nRemite documentos faltantes del proyecto; ord. N° 2330, Seremi Minvu RM, de fecha\r\n11.06.2012, a Alcalde de Conchalí. Emite observaciones al proyecto e informa\r\ndocumentación faltante. Aún no da inicio a proceso de aprobación oficial; ord. N°\r\n1700/219/12, de fecha 12.09.2012. Responde observaciones al proyecto y envía\r\ndocumentación faltante; la exposición de la Asesora Urbanista de la Municipalidad\r\nde Conchalí en sesión ordinaria el 05.04.2012; el acuerdo N°30 adoptado por el\r\nConcejo respecto a cada una de las materias impugnadas; decreto alcaldicio exento N°\r\n602, de fecha 11.04.2012, que ratifica el acuerdo N° 30 de fecha 05.04.2012, del\r\nConcejo Municipal de Conchalí, que aprobó el Plan Regulador Comunal de Conchalí;\r\nord. 5272 de fecha 30.11.2012, Secretaría Ministerial Metropolitana de Vivienda y\r\n"
+ },
+ {
+  "id": "d0599",
+  "comuna": "conchali",
+  "nombre_documento": "302_municipalidad_de_conchali_establece_normas_urbanisticas_mediante_la_asignaci",
+  "archivo": "conchali_302_municipalidad_de_conchali_establece_normas_urbanisticas_mediante_la_asignaci__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 4,
+   "zonificacion": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 302 EXENTO, CONCHALÍ (2011)\r\n\r\nDecreto 302 EXENTO\r\nESTABLECE NORMAS URBANÍSTICAS, MEDIANTE LA ASIGNACIÓN DE ZONAS\r\nDEL PLAN REGULADOR COMUNAL, A PREDIOS AFECTOS A DECLARATORIA\r\nDE UTILIDAD PÚBLICA\r\nMUNICIPALIDAD DE CONCHALÍ\r\nFecha Publicación: 02-MAR-2011 | Fecha Promulgación: 11-FEB-2011\r\nTipo Versión: Única De : 02-MAR-2011\r\nUrl Corta: https://bcn.cl/3pxsm\r\n\r\nESTABLECE NORMAS URBANÍSTICAS, MEDIANTE LA ASIGNACIÓN DE ZONAS DEL PLAN REGULADOR\r\nCOMUNAL, A PREDIOS AFECTOS A DECLARATORIA DE UTILIDAD PÚBLICA\r\nConchalí, 11 de febrero de 2011.- La Alcaldía decretó hoy:\r\nNúm. 302 exento.- Vistos: Memorándum Nº 92 del 07.02.2011, del Director de\r\nSecpla; artículo 59 de la Ley General de Urbanismo y Construcción; y teniendo\r\npresente las facultades y atribuciones que me confiere la Ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades,\r\nConsiderando:\r\n1. El artículo 59 de la Ley General de Urbanismo y Construcciones, relativo a\r\nla caducidad de la declaratoria de utilidad pública los terrenos localizados en\r\nárea urbana y de extensión urbana consultados en los planes reguladores comunales e\r\nintercomunales.\r\n2. El Plan Regulador Comunal, aprobado por la Ilustre Municipalidad de\r\nConchalí, mediante Decreto Alcaldicio Nº 73 del 30 de mayo de 1983 y publicado en\r\nel Diario Oficial el 2 de julio de 1983.\r\n3. La circular Ord. Nº 12 del 21 de junio de 2010, de la Secretaría\r\nMinisterial de Vivienda y Urbanismo, acerca de los procedimientos de la aplicación\r\ndel artículo 59 de la"
+ },
+ {
+  "id": "d0600",
+  "comuna": "copiapo",
+  "nombre_documento": "14092_introduce_enmienda_al_plan_regulador_comunal_de_copiapo_sector_rio_copiapo",
+  "archivo": "copiapo_14092_introduce_enmienda_al_plan_regulador_comunal_de_copiapo_sector_rio_copiapo__2533976.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "agrupamiento": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.931\r\n\r\n|\r\n\r\nJueves 22 de Agosto de 2024\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2533976\r\n\r\nMUNICIPALIDAD DE COPIAPÓ\r\n\r\nINTRODUCE ENMIENDA AL PLAN REGULADOR COMUNAL DE COPIAPÓ,\r\nSECTOR RÍO COPIAPÓ, \"ENTRE PUENTES Y TORNINI\"\r\nNúm. 14.092.- Copiapó, 8 de julio de 2024.\r\nVistos:\r\nLa ley 18.575; la ley N° 19.880; la ley N° 21.640, que aprueba el presupuesto del Sector\r\nPúblico para el año 2024; el DL 1.263, Orgánico de la Administración Financiera del Estado; el\r\ndecreto alcaldicio N° 22.728 de 19 de diciembre de 2023, que aprueba el Presupuesto Municipal\r\npara el año 2024; las resoluciones N° 7 de 2019 y N° 14 de 2022, ambas de la Contraloría\r\nGeneral de la República; Ley General de Urbanismo y Construcciones; la Ordenanza General de\r\nUrbanismo y Construcciones; La ley N° 21.450, sobre integración social en la planificación\r\nurbana, gestión de suelo y plan de emergencia habitacional y las facultades que me confiere el\r\nDFL N° 1 de 2006, del Ministerio del Interior, que aprueba el texto refundido, coordinado y\r\nsistematizado de la Ley 18.695, Orgánica Constitucional de Municipales y sus modificaciones\r\nposteriores; Acta de Proclamación de fecha 1 de julio de 2021, dictada en autos Rol 100-21-A\r\ndel Tribunal Electoral Regional de Atacama.\r\nConsiderando:\r\n1.- Que el Plan Regulador Comunal de Copiapó v"
+ },
+ {
+  "id": "d0601",
+  "comuna": "copiapo",
+  "nombre_documento": "3381_aprueba_actualizacion_plan_regulador_de_la_comuna_de_copiapo",
+  "archivo": "copiapo_3381_aprueba_actualizacion_plan_regulador_de_la_comuna_de_copiapo__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 55,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 11,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 3381, COPIAPO (2002)\r\n\r\nDecreto 3381\r\nAPRUEBA ACTUALIZACION PLAN REGULADOR COMUNAL DE COPIAPO\r\nMUNICIPALIDAD DE COPIAPO\r\nFecha Publicación: 17-DIC-2002 | Fecha Promulgación: 06-DIC-2002\r\nTipo Versión: Última Versión De : 08-AGO-2011\r\nUltima Modificación: 12-SEP-2012 3598\r\nUrl Corta: https://bcn.cl/3mx1n\r\n\r\nAPRUEBA ACTUALIZACION PLAN REGULADOR COMUNAL DE COPIAPO\r\nNúm. 3.381.- Copiapó, 6 de diciembre de 2002.Vistos: La sesión ordinaria Nº 3 de fecha 22 de marzo de\r\n2002 del Honorable Concejo Municipal que aprueba el\r\ncalendario de exposición del Plan Regulador de Copiapó; lo\r\ndispuesto en el decreto alcaldicio Nº 732 de fecha 26 de\r\nmarzo de 2002, el cual fija fecha de exposición para el\r\nPlan Regulador de Copiapó; el certificado Nº 41 del\r\nSecretario Municipal, el que certifica que el Honorable\r\nConcejo Municipal, en sesión extraordinaria Nº 11 de fecha\r\n4 de julio de 2002, aprobó el tenor de las respuestas, que\r\npropuso la Secretaría Comunal de Planificación, a las\r\nobservaciones que hizo la comunidad al Plan Regulador\r\nComunal de Copiapó; la resolución exenta Nº 95 de fecha\r\n25 de septiembre de 2002 de la Comisión Regional del Medio\r\nAmbiente; el certificado Nº 68 del Secretario Municipal, el\r\nque certifica que el Honorable Concejo Municipal, en sesión\r\nextraordinaria Nº 19 de fecha 18 de octubre de 2002,\r\naprobó las modificaciones al Proyecto \"Actualización Plan\r\nRegulador Comunal de Copiapó\", incorporados a instancias de\r\nla Comisión Regional del Medio Ambiente; Or"
+ },
+ {
+  "id": "d0069",
+  "comuna": "coquimbo",
+  "nombre_documento": "plan_regulador_comunal",
+  "archivo": "coquimbo_plan_regulador_comunal__361c44fd-f33b-43da-814c-8181506894d2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Actualización Plan Regulador Comunal de Coquimbo D.O. 24/12/2025 ( fecha de entrada\r\nen vigencia 05/01/2026)\r\nARCHIVOS PLAN REGULADOR COMUNAL\r\n\r\nVINCULOS\r\n\r\nInforme Ambiental Octubre 2025\r\n\r\nEnlace\r\n\r\nMemoria Explicativa\r\n\r\nEnlace\r\n\r\nOrdenanza Local\r\n\r\nEnlace\r\n\r\nDecreto Exento 3155 Promulga PRC Coquimbo\r\n\r\nEnlace\r\n\r\nDecreto Exento 031 aclara y rectifica Decreto Exento 3155\r\n\r\nEnlace\r\n\r\nResumen Ejecutivo\r\n\r\nEnlace\r\n\r\nEstudio Factibilidad Sanitaria\r\n\r\nEnlace\r\n\r\nPRC - OTROS ANTECEDENTES\r\nDecreto Exento 495_Inicio Procedimiento EAE _13.04.2022.\r\n\r\nEnlace\r\n\r\nDecreto 2548_09.02.23_Aprueba Imagen Objetvo para consulta pública.\r\n\r\nEnlace\r\n\r\nDecreto 311_09.02.2023_ Ac. Ses. Extr. N° 25_Arpueba I.O_ Términos elaboración ATP\r\n\r\nEnlace\r\n\r\nDecreto Exento 3465 Acuerdos Ses. Ord. N° 120_ inicio consulta pública Anteproyecto.\r\n\r\nEnlace\r\n\r\nORD N°840_ Remite ATPR e Informe de Síntesis Observaciones.\r\n\r\nEnlace\r\n\r\nDecreto Exento 1077 Acuerdos Plan Regulador_ ses ext 05.\r\n\r\nEnlace\r\n\r\nOficio Ord.N°1695_01.12.2025_Informe Tecnico Favorable _Minvu.\r\n\r\nEnlace\r\n\r\nORD N° 122_ 07.01.2026_ Informa PRC al SII.\r\n\r\nEnlace\r\n\r\nCertificado 01_CGR.\r\n\r\nEnlace\r\n\r\nPublicación aviso Diario Oficial.\r\n\r\nEnlace\r\n\r\nPublicación Diario El día.\r\nPRC - PLANOS RIESGOS\r\n\r\nEnlace\r\nVINCULOS\r\n\r\nARDU Coquimbo riesgo lam1\r\n\r\nEnlace\r\n\r\nARDU Coquimbo riesgo lam2\r\n\r\nEnlace\r\n\r\nARDU Guanaqueros riesgo lam1\r\n\r\nEnlace\r\n\r\nARDU Tongoy riesgo lam1\r\n\r\nEnlace\r\n\r\nMRG Coquimbo riesgo lam1\r\n\r\nEnlace\r\n\r\nMRG Coquimbo riesgo lam2\r\n\r\nEnlace\r\n\r\nMRG "
+ }
+]

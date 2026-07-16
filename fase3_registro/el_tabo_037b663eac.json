@@ -1,0 +1,25 @@
+{
+  "id": "el_tabo_037b663eac",
+  "comuna": "el_tabo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_tabo_438_aprueba_modificacion_parcial_del_plan_regulador_comunal_de_el_tabo__DO_modificacion_09_02_2024.pdf",
+  "nombre": "el_tabo_438_aprueba_modificacion_parcial_del_plan_regulador_comunal_de_el_tabo__DO_modificacion_09_02_2024.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:38:44",
+  "fin": "2026-07-14T15:39:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion parcial PRC El Tabo (DO 43.772, 09-02-2024). p3: cuadro IMAGEN 'NORMAS URBANISTICAS DE LA ZONA ZE5 Area Verde ex Fundo Chepica' = tabla de USOS DE SUELO (permitidos/prohibidos por tipo: residencial, equipamiento, actividades productivas, infraestructura, espacio publico, areas verdes). La zona ZE5 pasa de 'Cementerio' a 'Area Verde' (art.34 y 41); las condiciones de edificacion se remiten al art.2.1.31 OGUC, por eso NO hay cuadro de COS/CC/altura. En la misma p3 hay un cuadro de VIALIDAD (via local 11 m), que no es norma de zona. p4 solo cierre y firmas (verificado en render)."
+  }
+}

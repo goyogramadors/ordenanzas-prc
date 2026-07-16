@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_dc8c063325",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_dec-N8494-12-12-2017.pdf",
+  "nombre": "las_condes_dec-N8494-12-12-2017.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:32:44",
+  "fin": "2026-07-15T08:35:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.Secc.1.8494/2017: solo INICIA el procedimiento administrativo de la Modificacion N.10 PRC Las Condes (poligono Av.Paul Harris/Santa Zita/Incahuasi/Punitaqui, para proyecto de vivienda social SERVIU). Menciona QUE normas se modificaran (antejardin, CC, altura, densidad) pero NO fija ningun valor: solo convoca audiencias publicas y expone el proyecto por 30 dias. Puro tramite de inicio."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "santiago_a532be0459",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_03.-Ord-N_C2_B03016.pdf",
+  "nombre": "santiago_03.-Ord-N_C2_B03016.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:29:23",
+  "fin": "2026-07-14T21:32:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio SEREMI MINVU N3016, observaciones tecnicas al mismo proyecto. Comenta puntualmente cuadros de OTRO documento no incluido aqui (ej. 'En pagina 7 cuadro CUS1', 'En pagina 29 cuadro Normas de subdivision y edificacion' referidos al Texto Aprobatorio externo); este PDF solo trae observaciones/criticas, no las tablas mismas."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "huechuraba_2e3808ea71",
+  "comuna": "huechuraba",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\huechuraba_2362_asigna_nuevas_normas_urbanisticas_a_los_terrenos_que_forman_parte_de_la_faj__2362.pdf",
+  "nombre": "huechuraba_2362_asigna_nuevas_normas_urbanisticas_a_los_terrenos_que_forman_parte_de_la_faj__2362.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:41:45",
+  "fin": "2026-07-14T15:45:11",
+  "resultado": {
+    "motivo": "PDF TRUNCADO: el archivo tiene 1 sola pagina del Diario Oficial 41.227 (Cuerpo I-29, 07-08-2015) que mezcla avisos ajenos y solo alcanza a mostrar el ENCABEZADO del aviso de Huechuraba ('ASIGNA NUEVAS NORMAS URBANISTICAS A LOS TERRENOS DE LA FAJA...'), cortando a mitad de los Vistos. Las normas reales estan en las paginas siguientes del mismo ejemplar, que NO estan en el archivo. NO es sin-tablas: es documento incompleto. Requiere re-descarga del aviso completo (IdDO/CVE 931343). Verificado por texto y render."
+  }
+}

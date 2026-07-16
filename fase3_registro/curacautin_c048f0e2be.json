@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_c048f0e2be",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curacautin__ordenanza_municipal_fijacion_de_precios_farmacia_popular__ORDENANZA MUNICIPAL FARMACIA POPULAR.pdf",
+  "nombre": "curacautin__ordenanza_municipal_fijacion_de_precios_farmacia_popular__ORDENANZA MUNICIPAL FARMACIA POPULAR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:13:26",
+  "fin": "2026-07-15T08:15:03",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DOCUMENTO NO RELACIONADO: ordenanza municipal de fijación de precios de Farmacia Popular (Depto. Salud), sin relación con PRC/normas urbanísticas - verificado con render"
+  }
+}

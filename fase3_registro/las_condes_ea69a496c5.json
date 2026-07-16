@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_ea69a496c5",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_PLAN.SALUD.2010.pdf",
+  "nombre": "las_condes_PLAN.SALUD.2010.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 82,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:55:11",
+  "fin": "2026-07-15T07:55:39",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: NO ES UN DOCUMENTO PRC. Es el 'Plan de Salud de Las Condes 2010' (82p), instrumento de salud publica comunal (diagnostico poblacional, nivel de pobreza, etc), totalmente ajeno a planificacion territorial. Cero señales urbanisticas en todo el documento."
+  }
+}

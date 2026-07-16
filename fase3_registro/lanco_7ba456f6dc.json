@@ -1,0 +1,25 @@
+{
+  "id": "lanco_7ba456f6dc",
+  "comuna": "lanco",
+  "ruta": "Ordenanzas ordenadas\\lanco_5674_aprueba_plan_regulador_comuna_de_lanco__Diario oficial - Plan regulador.pdf",
+  "nombre": "lanco_5674_aprueba_plan_regulador_comuna_de_lanco__Diario oficial - Plan regulador.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:27:07",
+  "fin": "2026-07-15T08:28:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        7
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Art.27 y 30 (Cap.IV Parrafo3) tablas normativas completas por zona: ZU-1 a ZU-6 (urbanas consolidadas), ZEX-1/ZEX-2 (extension urbana), ZE-D (complejo deportivo), ZR-1 a ZR-6 (especiales/restriccion): superficie predial minima, frente predial minimo, COS, coef.constructibilidad, agrupamiento, altura max, adosamientos, antejardin minimo. TRAMPA comuna ajena: pag8 (pag impresa14 del DO) ya es OTRO decreto (modificacion PRC Valdivia sector Las Mulatas-Angachilla), excluida, no es de Lanco."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vitacura_a8a8310f4d",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_191825_promulga_modificacion_n_35_al_plan_regulador_comunal_de_vitacura__Promulga modificación plano regulador 02.08.18.pdf",
+  "nombre": "vitacura_191825_promulga_modificacion_n_35_al_plan_regulador_comunal_de_vitacura__Promulga modificación plano regulador 02.08.18.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:38:03",
+  "fin": "2026-07-14T21:39:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        11
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "ADVERTENCIA nombre de archivo: filename dice 'modificacion_n_35' pero el contenido real del decreto es 'PROMULGA MODIFICACIÓN N°33' (Actualización del Artículo 43, DO 02-ago-2018, Nº42.122) - posible error de nomenclatura en el corpus. TRAMPA imagen: Art.43 rehace 'Usos de Suelo por Zonas y Subzonas', cada Cuadro (8, 48-56) por zona U-V,U-PVEV,U-PVO,U-PVOsz,U-POC,U-POCsz,U-PC,U-PCsz,U-Ee1-4,U-AVPC está embebido como imagen JPEG grande (confirmado con pdfimages+extracción, ej. pág4 tabla completa Uso Vivienda con Residencial/Equipamiento por clase permitido/prohibido). Pág4-11 cubren todas las zonas. Solo usos de suelo (sin COS/CC/altura, esos no se tocan en esta modificación)"
+  }
+}

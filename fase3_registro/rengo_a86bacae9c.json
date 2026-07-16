@@ -1,0 +1,25 @@
+{
+  "id": "rengo_a86bacae9c",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\rengo_881_md_enmienda_no1_al_plan_regulador_comunal_de_rengo_localidad_de_esmeralda__do-20090414.pdf",
+  "nombre": "rengo_881_md_enmienda_no1_al_plan_regulador_comunal_de_rengo_localidad_de_esmeralda__do-20090414.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 88,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:15:18",
+  "fin": "2026-07-15T12:20:46",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        16,
+        21
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Ordenanza Local del PRC Rengo (incluye localidades Rengo, Rosario y Esmeralda). Capitulo 4 'Zonificacion y Normas Especificas', Titulo 2 'Usos de Suelo y Normas de Edificacion por Zona' (Arts. 33 a 84). Pag16: Art34 ZC1, Art35 ZH1-A, Art36 ZH1-B, Art37 ZH2 (Rengo). Pag17: Art38 ZH3, Art39 ZH4, Art40 ZH5, Art41 ZH6 (Rengo). Pag18: Art42 ZI1, Art43 ZI2, Art44 ZI3, Art45 ZE, Art46 ZE2, Art47 ZE4, Art48 ZE6, Art49 ZE10 (Rengo). Pag19: Art50 ZAV, Art51 ZAV1, Art52-58 ZR1-ZR7, Art59 ZCH (Rengo); inicia Rosario Art60-63 (ZC2, ZH7, ZH8). Pag20: Art64-73 zonas Rosario (ZI4,ZI5,ZI6,ZE3,ZE4,ZE6,ZR3,ZR6,ZCH,ZAV); inicia Esmeralda Art74-76 (listado zonas, ZC3, ZH9). Pag21: Art77-84 zonas Esmeralda (ZH10,ZI7,ZE,ZE3,AV,ZR5 x2,ZCB); termina justo antes del Capitulo 5 Vialidad. Cada articulo trae cuadro numerico de Condiciones de edificacion: superficie predial minima, coeficiente maximo de constructibilidad, coeficiente maximo de ocupacion de suelo (COS), sistema de agrupamiento, altura maxima, antejardin, distanciamiento, densidad maxima. EXCLUIDO pag13 (tablas de deslindes/vertices de limite urbano Rengo/Rosario/Esmeralda, no son normas urbanisticas), pag15 (tabla de estandares de estacionamiento -no por zona-, y Art31 solo lista nombres de zonas sin cuadro numerico). Verificado que las 3 localidades corresponden a la comuna de Rengo (confirmado por oficio de Contraloria Regional O'Higgins en pag25 sobre Reformulacion Plan Regulador de Rengo, localidades Rengo, Rosario y Esmeralda). Resto del documento (pag26-88) es contenido ajeno de la misma edicion del Diario Oficial: anexos de Convenio Complementario Acceso Nor-Oriente a Santiago (MOP), extractos notariales/sociedades, avisos judiciales de quiebras -no PRC-."
+  }
+}

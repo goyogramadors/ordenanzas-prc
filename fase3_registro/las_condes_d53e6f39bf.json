@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_d53e6f39bf",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.3218.04dic2003.pdf",
+  "nombre": "las_condes_decreto.3218.04dic2003.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:55:06",
+  "fin": "2026-07-15T07:56:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio N3218 (04dic2003) PROMULGA Modificacion N2 PRC Las Condes. Pag1 (renderizada) VISTOS Y TENIENDO PRESENTE: listado narrativo de oficios/acuerdos, sin tabla. Pag2 parte dispositiva: PROMULGASE Texto Resolutivo, REEMPLACENSE laminas de plano, PUBLIQUESE -remite a Texto Resolutivo aparte no incluido en este PDF. Sin cuadro de normas en ninguna pagina."
+  }
+}

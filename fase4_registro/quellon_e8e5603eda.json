@@ -1,0 +1,28 @@
+{
+  "id": "quellon_e8e5603eda",
+  "comuna": "quellon",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quellon_2226_aprueba_enmienda_al_plan_regulador_comunal_de_quellon__enmienda plano regulador.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda PRC Quellon (Decreto 637 exento/2018, DO 42.017). Norma en prosa: permite el uso de suelo 'Equipamiento, clase Deporte: Solo Rodeo' categoria Menor en la Zona de Extension Especial N4 (ZEx-4); incorpora esa zona al art.12 (clase equipamiento deportivo) y especifica estacionamientos: 1 cada 20 asientos.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:31:24",
+  "fin": "2026-07-15T14:32:38",
+  "resultado": {
+    "archivo": "extraccion_normas\\quellon\\quellon_2226_enmienda_zex4_rodeo.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZEx-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Norma puntual: permite equipamiento deportivo Solo Rodeo (categoria Menor) en ZEx-4, estacionamientos 1 cada 20 asientos. Verificado contra nota_fase3: coincide."
+  }
+}

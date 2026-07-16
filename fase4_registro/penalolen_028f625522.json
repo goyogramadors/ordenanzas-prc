@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_028f625522",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_21005247_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto 2100/2005 Penalolen: modificacion sector Av. Jose Arrieta/Sanchez Fontecilla, crea la ZONA PE Parque Comunal (incorporada al parrafo 3, art.31 Usos de Suelo y Normas Especificas). p2: cuadro de USOS DE SUELO PERMITIDOS de la Zona PE (cientifico, educacion, culto-cultura, deporte-recreacion, con actividades detalladas: estadio, gimnasio, canchas, salas multiuso). Confianza MEDIA: el decreto NO incluye condiciones de edificacion (COS/CC/altura) para esta zona, solo usos permitidos -- verificar si se remite implicitamente a otra zona base. p3-4: cambios de poligono (Zona R1/AR1 -> PE) y vialidad estructurante (Av. Jorge Alessandri, Sanchez Fontecilla, Volcan Antuco), EXCLUIDO por ser vialidad/deslinde.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T17:53:19",
+  "fin": "2026-07-15T17:56:35",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_2100_2005_zona_pe_parque_comunal_pag1-3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "PE"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Confirmado: falta tabla de condiciones de edificacion (COS/CC/altura) para zona PE, solo usos de suelo. Se peek p3 (fuera de rango) para completar lista de usos que estaba cortada a mitad en p2; confirmado que tras la lista viene directo el punto 3 sobre poligonos, sin cuadro de condiciones. p1 confirmada correctamente excluida (solo cierre administrativo, sin contenido ajeno en el rango real)."
+  }
+}

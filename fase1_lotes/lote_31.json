@@ -1,0 +1,870 @@
+[
+ {
+  "id": "d0403",
+  "comuna": "machali",
+  "nombre_documento": "informe_memoria_explicativa_plan_regulador_comunal_de_machali",
+  "archivo": "machali_informe_memoria_explicativa_plan_regulador_comunal_de_machali__MEMORIA%20EXPLICATIVA%20PLAN%20REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 107,
+  "paginas_escaneadas": 107,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0404",
+  "comuna": "machali",
+  "nombre_documento": "informe_plan_regulador_comunal_machali_lamina_1",
+  "archivo": "machali_informe_plan_regulador_comunal_machali_lamina_1__LAM%201%20PRC%20MACHAL%E2%95%93.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0405",
+  "comuna": "machali",
+  "nombre_documento": "informe_plan_regulador_comunal_machali_lamina_2",
+  "archivo": "machali_informe_plan_regulador_comunal_machali_lamina_2__LAM%202%20PRC%20MACHAL%E2%95%93.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0789",
+  "comuna": "machali",
+  "nombre_documento": "1101_aprueba_modificacion_del_plan_regulador_comunal_de_machali_especificamente",
+  "archivo": "machali_1101_aprueba_modificacion_del_plan_regulador_comunal_de_machali_especificamente___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU-8"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1101, MACHALÍ (2019)\r\n\r\nDecreto 1101\r\nAPRUÉBASE MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE MACHALÍ,\r\nESPECÍFICAMENTE EN SU ENMIENDA N° 03, MODIFICACIÓN N° 012 RELATIVO\r\nAL PROYECTO \"ZONA ZU-8, AUMENTO DE DENSIDAD LOTEO EL ÁLAMO LOCALIDAD DE COYA\"\r\nMUNICIPALIDAD DE MACHALÍ\r\nPublicación: 12-JUN-2019 | Promulgación: 30-MAY-2019\r\nVersión: Única De : 12-JUN-2019\r\nUrl Corta: https://bcn.cl/3mwim\r\n\r\nAPRUÉBASE MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE MACHALÍ, ESPECÍFICAMENTE EN\r\nSU ENMIENDA N° 03, MODIFICACIÓN N° 012 RELATIVO AL PROYECTO \"ZONA ZU-8, AUMENTO DE\r\nDENSIDAD LOTEO EL ÁLAMO - LOCALIDAD DE COYA\"\r\nNúm. 1.101.- Machalí, 30 de mayo de 2019.\r\nVistos:\r\n1. Las atribuciones que me confiere la ley N° 18.695, \"Orgánica Constitucional\r\nde Municipalidades\".\r\n2. Lo dispuesto en la Ley General de Urbanismo y Construcciones, DFL N° 458, de\r\n1975, Ley General de Urbanismo y Construcciones, actualizada por ley N° 21.074 D.O.\r\n15/02/2018.\r\n3. Lo dispuesto en el artículo 168 del DFL N° 458 (V. y U.), de 1975, Ley\r\nGeneral de Urbanismo y Construcciones; el DL N° 1.305, de 1975.\r\n4. El artículo 2° de la ley N° 16.391, que crea al Ministerio de Vivienda y\r\nUrbanismo.\r\n5. Lo establecido artículo 45 LGUC Nº 3, de la Ley General de Urbanismo y\r\nConstrucciones.\r\nConsiderandos:\r\n1. El cumplimiento a las disposiciones y procedimiento establecido en el\r\nartículo 2.1.13 de la Ordenanza General de Urbanismo y Construcción para la\r\ntramitación de la Enmienda N° 03, Modificación N° 012 del PRC d"
+ },
+ {
+  "id": "d0790",
+  "comuna": "machali",
+  "nombre_documento": "1220_aprueba_modificacion_al_plan_regulador_comunal_de_machali_en_su_tramitacion",
+  "archivo": "machali_1220_aprueba_modificacion_al_plan_regulador_comunal_de_machali_en_su_tramitacion__1.220.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 6,
+   "antejardin": 2,
+   "ordenanza_local_txt": 9,
+   "articulado": 12
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZCH",
+   "ZE-1",
+   "ZU-1",
+   "ZU-6",
+   "ZU-7",
+   "ZU1"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Version\r\nTítulo Ciudadano\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 1220\r\n:11-01-2011\r\n:20-12-2010\r\n:MUNICIPALIDAD DE MACHALÍ\r\n:APRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE MACHALÍ\r\nEN SU TRAMITACIÓN Nº 1\r\n:Unica\r\nDe : 11-01-2011\r\n:\r\n:11-01-2011\r\n:1021948\r\n:http://www.leychile.cl/N?i=1021948&f=2011-01-11&p=\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE MACHALÍ EN SU TRAMITACIÓN Nº 1\r\nNúm. 1.220.- Machalí, 20 de diciembre de 2010.- Vistos:\r\n1.-Ley General de Urbanismo y Construcciones D.F.L. Nº 458, MINVU. \"D.O.\"\r\n13-4-76.\r\n2.- Lo dispuesto en el artículo 168 del D.F.L. Nº 458 (V. y U.), de 1975; el\r\nartículo 2º de la Ley General de Urbanismo y Construcciones; el D.L. Nº 1.305, de\r\n1975; el artículo 2º de la Ley Nº 16.391, y las facultades que me confiere el\r\nartículo 32 número 8 de la Constitución Política del Estado.\r\n3.- Las atribuciones que me confiere la Ley Nº 18.695, \"Orgánica\r\nConstitucional de Municipalidades\".\r\nConsiderando:\r\n1.- El procedimiento establecido en el artículo 2.1.11 de la Ordenanza General\r\nde Urbanismo y Construcciones, informe técnico Nº03/2010, emitido por la Seremi\r\nMINVU VI Región con fecha 22 de noviembre de 2010.\r\nDecreto:\r\n1.- Apruébese la Modificación al Plan Regulador Comunal de Machalí en su\r\nTramitación Nº 1, en conformidad a lo indicado en:\r\nA)\r\nInforme Técnico Nº 03/2010, emitido por Seremi MINVU con fecha 22 de noviembre\r\nde 2010.\r\nB)\r\n\r\nExpediente Mo"
+ },
+ {
+  "id": "d0791",
+  "comuna": "machali",
+  "nombre_documento": "1279_aprueba_modificacion_n_06_al_prc_de_machali_modificacion_al_plan_regulador",
+  "archivo": "machali_1279_aprueba_modificacion_n_06_al_prc_de_machali_modificacion_al_plan_regulador___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1279, MACHALÍ (2014)\r\n\r\nDecreto 1279\r\nAPRUEBA MODIFICACIÓN Nº5 AL PRC DE MACHALÍ MODIFICACIÓN AL PLAN\r\nREGULADOR COMUNAL DE MACHALI - COYA\r\nMUNICIPALIDAD DE MACHALÍ\r\nFecha Publicación: 05-NOV-2014 | Fecha Promulgación: 27-OCT-2014\r\nTipo Versión: Única De : 05-NOV-2014\r\nUrl Corta: https://bcn.cl/3tvpl\r\n\r\nAPRUEBA MODIFICACIÓN Nº5 AL PRC DE MACHALÍ MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nDE MACHALI - COYA\r\nNúm. 1.279.- Machalí, 27 de octubre de 2014.- Vistos:\r\n1. Las atribuciones que me confiere la Ley Nº 18.695, \"Orgánica Constitucional\r\nde Municipalidades\".\r\n2. Lo dispuesto en la Ley General de Urbanismo y Construcciones, DFL Nº458 de\r\n1975 Ley General de Urbanismo y Construcciones, Actualizada por ley Nº20.772\r\npublicada en el Diario Oficial el 5 de septiembre de 2014.\r\n3. Lo dispuesto en el artículo 168 del DFL Nº 458 (V. y U.) de 1975, Ley\r\nGeneral de Urbanismo y Construcciones; el DL Nº 1.305, de 1975, el artículo 2º de\r\nla ley Nº 16.391 y las facultades que me confiere el artículo 32 número 8 de la\r\nConstitución Política de la República de Chile.\r\nConsiderando:\r\n1. El cumplimiento a las disposiciones y procedimiento establecido en el\r\nartículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones para la\r\ntramitación de la Modificación Nº 5 al PRC de Coya \"Modifica el Trazado Vial de\r\nCamino Existente Nº7 para dar lugar a emplazamiento de Planta de Tratamiento de\r\nAguas Servidas en la Localidad de Coya\".\r\n2. El pronunciamiento favorable del Concejo Municipa"
+ },
+ {
+  "id": "d0792",
+  "comuna": "machali",
+  "nombre_documento": "1343_modificase_la_ordenanza_del_plan_regulador_comunal_de_machali",
+  "archivo": "machali_1343_modificase_la_ordenanza_del_plan_regulador_comunal_de_machali__1343  2012.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 1343\r\n:05-12-2012\r\n:04-12-2012\r\n:MUNICIPALIDAD DE MACHALÍ\r\n:MODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\n:Unica\r\nDe : 05-12-2012\r\n:05-12-2012\r\n:1046516\r\n:http://www.leychile.cl/N?i=1046516&f=2012-12-05&p=\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nNúm. 1.343.- Machalí, 4 de diciembre de 2012.- Vistos:\r\n1. Las atribuciones que me confiere la Ley 18.695 \"Orgánica Constitucional de\r\nMunicipalidades\".\r\n2. Lo establecido en el artículo 59 de la Ley General de Urbanismo y\r\nConstrucciones y el artículo 2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n3. El decreto alcaldicio Nº 616, publicado en el Diario Oficial el 5 de\r\ndiciembre de 2007, que aprueba el Plan Regulador de la comuna de Machalí.\r\nConsiderando:\r\n1. Considerando el procedimiento establecido en el Art. 2.1.11, inciso 13, de la\r\nOrdenanza General de Urbanismo y Construcciones y el Informe Técnico emitido por la\r\nSeremi Minvu Sexta Región, con fecha 4 de diciembre de 2012.\r\n2. La necesidad de prorrogar por un nuevo período de 5 años la declaratoria de\r\nutilidad pública de los terrenos destinados a las vías colectores calle Padre\r\nHurtado, camino Comunidad Bravo, camino El Recreo y camino La Hacienda, desde el 5 de\r\ndiciembre de 2012 al 5 de diciembre de 2017.\r\n3. El cumplimiento del procedimiento establecido en el Art. 2.1.11 de la\r\nOrdenanza General de Urbanismo y Construc"
+ },
+ {
+  "id": "d0793",
+  "comuna": "machali",
+  "nombre_documento": "1684_aprueba_modificacion_no_13_del_plan_regulador_comunal_de_machali_y_coya",
+  "archivo": "machali_1684_aprueba_modificacion_no_13_del_plan_regulador_comunal_de_machali_y_coya__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1684, MACHALÍ (2021)\r\n\r\nDecreto 1684\r\nAPRUEBA MODIFICACIÓN Nº 13 DEL PLAN REGULADOR COMUNAL DE\r\nMACHALÍ Y COYA\r\nMUNICIPALIDAD DE MACHALÍ\r\nPublicación: 09-DIC-2021 | Promulgación: 02-DIC-2021\r\nVersión: Única De : 09-DIC-2021\r\nUrl Corta: https://bcn.cl/3lgxq\r\n\r\nAPRUEBA MODIFICACIÓN Nº 13 DEL PLAN REGULADOR COMUNAL DE MACHALÍ Y COYA\r\nNúm. 1.684.- Machalí, 2 de diciembre de 2021.\r\nVistos:\r\n1. La Constitución Política de la República de Chile.\r\n2. El decreto con fuerza de ley Nº 458 de 1975, del Ministerio de Vivienda y\r\nUrbanismo que dicta la Ley General de Urbanismo y Construcciones.\r\n3. El decreto supremo Nº 47 de 1992 del Ministerio de Vivienda y Urbanismo, que\r\ndicta la Ordenanza General de la Ley General de Urbanismo y Construcciones.\r\n4. Lo dispuesto en el artículo 43 de la Ley General de Urbanismo y\r\nConstrucciones, DFL Nº 458 / 1975; y el artículo 2.1.11, del decreto Nº 47/1992\r\nOrdenanza General de Urbanismo y Construcciones; indican el procedimiento para la\r\naprobación de los instrumentos de planificación territorial a nivel urbano.\r\n5. La resolución Nº 1.600 del 30 de octubre de 2008 de la Contraloría General\r\nde la República que fijó normas sobre exención del Trámite de toma de razón\r\n6. El decreto con fuerza de ley Nº 1 de fecha 9 de mayo de 2006, que fija el\r\ntexto refundido, coordinado y sistematizado de la Ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades.\r\nConsiderando:\r\n1. Que el Plan Regulador Comunal de Machalí y Coya, que considera los centro"
+ },
+ {
+  "id": "d0794",
+  "comuna": "machali",
+  "nombre_documento": "482_fijense_las_nuevas_normas_urbanisticas_a_las_vialidades_caducadas_del_plan_r",
+  "archivo": "machali_482_fijense_las_nuevas_normas_urbanisticas_a_las_vialidades_caducadas_del_plan_r__482   2013.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 5,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 482\r\n:18-04-2013\r\n:04-04-2013\r\n:MUNICIPALIDAD DE MACHALÍ\r\n:FIJA NUEVAS NORMAS URBANÍSTICAS A VIALIDADES CADUCADAS DEL\r\nPLAN REGULADOR COMUNAL\r\n:Unica\r\nDe : 18-04-2013\r\n:18-04-2013\r\n:1050228\r\n:http://www.leychile.cl/N?i=1050228&f=2013-04-18&p=\r\n\r\nFIJA NUEVAS NORMAS URBANÍSTICAS A VIALIDADES CADUCADAS DEL PLAN REGULADOR COMUNAL\r\nNúm. 482.- Machalí, 4 de abril de 2013.- Visto:\r\n1.\r\nLas atribuciones que me confiere la ley Nº 18.695, \"Orgánica Constitucional de\r\nMunicipalidades\".\r\n2.\r\nLo dispuesto en el artículo 59º del DFL 458 de 1975, Ley General de Urbanismo\r\ny Construcciones. Actualizada por la ley 20.599, publicada en el Diario Oficial del\r\n11 de junio de 2012.\r\n3.\r\nEl DS Nº 47 de 1992, Ordenanza General de Urbanismo y Construcciones.\r\nActualizada al 21 de noviembre de 2012.\r\nConsiderando:\r\n1.\r\nLa Circular Ord. Nº 136 de fecha 15.02.2012 de Jefe de División de Desarrollo\r\nUrbano, Seremi Minvu. Circular General DDU Nº 229; la cual imparte procedimiento\r\npara establecer nuevas normas urbanísticas aplicables a terrenos cuya declaratoria\r\nde utilidad pública hubiere caducado.\r\n2.\r\nEl Ord. Nº 789 de fecha 24 de julio de 2012, de Alcalde de Machalí a Sr.\r\nWladimir Román Miquel, Secretario Regional Ministerial de Vivienda y Urbanismo,\r\nRegión del Libertador General Bernardo O'Higgins, en el cual requiere \"informe\" para\r\nproceder a dictar decreto alcaldicio e"
+ },
+ {
+  "id": "d0795",
+  "comuna": "machali",
+  "nombre_documento": "524_apruebese_la_modificacion_al_plan_regulador_comunal_de_machali_tramitacion_n",
+  "archivo": "machali_524_apruebese_la_modificacion_al_plan_regulador_comunal_de_machali_tramitacion_n__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 6,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 524, MACHALÍ (2014)\r\n\r\nDecreto 524\r\nAPRUEBA MODIFICACIÓN Nº 007 AL PLAN REGULADOR COMUNAL OTORGA\r\nCONDICIONES DE EDIFICACIÓN Y USO DE SUELO, Y RECTIFICA EL USO DE\r\nSUELO ÁREA VERDE DE LA PROPIEDAD UBICADA EN CALLE ARTURO PRAT\r\nCON CALLE EXISTENTE Nº1\r\nMUNICIPALIDAD DE MACHALÍ\r\nFecha Publicación: 17-MAY-2014 | Fecha Promulgación: 08-MAY-2014\r\nTipo Versión: Única De : 17-MAY-2014\r\nUrl Corta: https://bcn.cl/3mfet\r\n\r\nAPRUEBA MODIFICACIÓN Nº 007 AL PLAN REGULADOR COMUNAL\r\nOTORGA CONDICIONES DE EDIFICACIÓN Y USO DE SUELO, Y RECTIFICA EL USO DE SUELO ÁREA\r\nVERDE DE LA PROPIEDAD UBICADA EN CALLE ARTURO PRAT CON CALLE EXISTENTE Nº1\r\nNúm. 524.- Machalí, 8 de mayo de 2014.- Vistos:\r\n1.\r\nLey General de Urbanismo y Construcciones. DFL 458, Minvu. \"D.O.\" 13-4-76.\r\n2.\r\nLo dispuesto en el artículo 168 del DFL Nº 458 (V. y U.) de 1975, Ley General\r\nde Urbanismo y Construcciones; el DL Nº 1.305, de 1975, el artículo 2º de la ley\r\nNº 16.391 y las facultades que me confiere el artículo 32 número 8 de la\r\nConstitución Política de la República de Chile.\r\n3.\r\nLas atribuciones que me confiere la ley Nº 18.695, \"Orgánica Constitucional de\r\nMunicipalidades\".\r\nConsiderando:\r\n1.\r\nEl procedimiento establecido en el artículo 2.1.11 de la Ordenanza General de\r\nUrbanismo y Construcciones.\r\n2.\r\nEl expediente de la modificación al Plan Regulador Comunal de Machalí /\r\nTramitación Nº 007.\r\n3.\r\nEl certificado de fecha 25 de junio de 2013, del Director de Obras Municipales\r\n(S) de la Municipalidad de Mach"
+ },
+ {
+  "id": "d0796",
+  "comuna": "machali",
+  "nombre_documento": "616_aprueba_plan_regulador_comunal_de_machali_y_coya",
+  "archivo": "machali_616_aprueba_plan_regulador_comunal_de_machali_y_coya__616.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 26,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "antejardin": 2,
+   "adosamiento": 1,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 3,
+   "articulado": 39,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Version\r\nInicio Vigencia\r\nURL\r\n\r\n:Decreto 616\r\n:05-12-2007\r\n:23-08-2007\r\n:MUNICIPALIDAD DE MACHALI\r\n:APRUEBA PLAN REGULADOR COMUNAL DE MACHALÍ Y COYA\r\n:Unica\r\nDe : 05-12-2007\r\n:05-12-2007\r\n:http://www.leychile.cl/Navegar/?idNorma=267208&idVersion=200\r\n7-12-05&idParte\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE MACHALÍ Y COYA\r\nNúm. 616.- Machalí, 23 de agosto de 2007.- Vistos:\r\n1.-\r\n\r\nLey General de Urbanismo y Construcciones D.F.L.\r\n458, MINVU-\"D.O.\" 13-4-76.\r\n2.- Lo dispuesto en el artículo 168 del D.F.L. Nº 458 (V. y U.), de 1975, Ley General\r\nde Urbanismo y Construcciones; el D.L. Nº 1.305, de 1975, el artículo 2º de la ley Nº\r\n16.391 y las facultades que me confiere el artículo 32 número 8 de la Constitución\r\nPolítica del Estado.\r\n3.- Las atribuciones que me confiere la ley Nº 18.695, \"Orgánica Constitucional de\r\nMunicipalidades\".\r\nConsiderando:\r\n1.- El procedimiento establecido en el artículo 2.1.11 de la Ordenanza General de\r\nUrbanismo y Construcciones inciso 13, informe técnico Nº 04/2007, emitido por la Seremi\r\nMinvu VI Región, con fecha 23 de julio de 2007.\r\nDecreto:\r\n1.- Apruébase el Plan Regulador Comunal de Machalí y Coya, en conformidad a lo\r\nindicado en la Memoria Explicativa, el Estudio de Factibilidad de agua y alcantarillado,\r\nla Ordenanza Local, planos PRC-MACH-1/5000 y PRC-COY-1/5000, resolución de calificación\r\nambiental (RCA) y respuestas del Concejo Municipal a las observaciones formulad"
+ },
+ {
+  "id": "d0797",
+  "comuna": "machali",
+  "nombre_documento": "788_aprueba_modificacion_n010_prc_de_machali_relativo_al_proyecto_enmienda_n002",
+  "archivo": "machali_788_aprueba_modificacion_n010_prc_de_machali_relativo_al_proyecto_enmienda_n002___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-1"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 788, MACHALÍ (2018)\r\n\r\nDecreto 788\r\nAPRUÉBASE MODIFICACIÓN N° 010 P.R.C. DE MACHALÍ RELATIVO AL\r\nPROYECTO \"ENMIENDA N° 002 AL PLAN REGULADOR COMUNAL DE MACHALÍ\"\r\nMUNICIPALIDAD DE MACHALÍ\r\nFecha Publicación: 20-JUN-2018 | Fecha Promulgación: 12-JUN-2018\r\nTipo Versión: Única De : 20-JUN-2018\r\nUrl Corta: https://bcn.cl/3nyl1\r\n\r\nAPRUÉBASE MODIFICACIÓN N° 010 P.R.C. DE MACHALÍ RELATIVO AL PROYECTO \"ENMIENDA\r\nN° 002 AL PLAN REGULADOR COMUNAL DE MACHALÍ\"\r\nNúm. 788.- Machalí, 12 de junio de 2018.\r\nVistos:\r\n1. Las atribuciones que me confiere la ley Nº 18.695, \"Orgánica Constitucional\r\nde Municipalidades\".\r\n2. Lo dispuesto en la Ley General de Urbanismo y Construcciones; DFL Nº 458, de\r\n1975, Ley General de Urbanismo y Construcciones, actualizada por ley Nº 21.074 D.O.\r\n15/02/2018.\r\n3. Lo dispuesto en el artículo 168 del DFL Nº 458 (V. y U.), de 1975, Ley\r\nGeneral de Urbanismo y Construcciones; el DL Nº 1.305, de 1975.\r\n4. El artículo 2º de la ley Nº 16.391, que crea el Ministerio de Vivienda y\r\nUrbanismo.\r\n5. Lo establecido en el artículo 45 LGUC Nº 3, de la Ley General de Urbanismo\r\ny Construcciones.\r\nConsiderando:\r\n1. El cumplimiento a las disposiciones y procedimiento establecido en el\r\nartículo 2.1.13 de la Ordenanza General de Urbanismo y Construcción para la\r\ntramitación de la Modificación Nº 010 P.R.C. de Machalí relativo al proyecto\r\n\"Enmienda Nº 002 al Plan Regulador Comunal de Machalí\".\r\n2. El proceso de tramitación por parte de la Municipalidad de Machalí de\r\nenmen"
+ },
+ {
+  "id": "d0798",
+  "comuna": "machali",
+  "nombre_documento": "95_apruebese_la_modificacion_al_plan_regulador_comunal_de_machali_en_su_tramitac",
+  "archivo": "machali_95_apruebese_la_modificacion_al_plan_regulador_comunal_de_machali_en_su_tramitac__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-1",
+   "ZU-1",
+   "ZU-10",
+   "ZU-2",
+   "ZU-3",
+   "ZU-4",
+   "ZU-7",
+   "ZU-8"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 95, MACHALÍ (2013)\r\n\r\nDecreto 95\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE MACHALÍ\r\nPublicación: 01-FEB-2013 | Promulgación: 25-ENE-2013\r\nVersión: Única De : 01-FEB-2013\r\nUrl Corta: https://bcn.cl/3lh5p\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nNúm. 95.- Machalí, 25 de enero de 2013.- Visto:\r\n1.\r\n2.\r\n\r\n3.\r\n\r\nLas atribuciones que me confieren la Ley Nº 18.695, \"Orgánica Constitucional\r\nde Municipalidades\".\r\nLo dispuesto en el DFL 458 de 1975, Ley General de Urbanismo y\r\nConstrucciones, actualizada por la Ley 20.599, publicada en el Diario\r\nOficial del 11 de junio de 2012.\r\nConsiderando el DS Nº 47, de 1992, Ordenanza General de Urbanismo y\r\nConstrucciones, actualizada al 21 de noviembre de 2012.\r\nConsiderando:\r\n\r\n1.\r\n2.\r\n\r\n3.\r\n\r\nEl procedimiento establecido en el artículo 2.1.13 de la Ordenanza General\r\nde Urbanismo y Construcciones.\r\nLa tramitación por parte de la Municipalidad de Machalí de enmendar su Plan\r\nRegulador relativo al proyecto denominado \"Enmiendas Nº 001 al PRC de\r\nMachalí\".\r\nEl certificado Nº 36 del Secretario Municipal de Machalí, en el cual se\r\ncertifica que en reunión ordinaria Nº 143 del Concejo Municipal de Machalí\r\nde fecha 26 de noviembre del año 2012, se aprobó la Modificación al Plan\r\nRegulador Comunal de Machalí en su tramitación Nº 003, relativo al proyecto\r\n\"Enmiendas Nº 001 al Plan Regulador Comunal de Machalí\".\r\nDecreto:\r\n\r\n1.\r\n\r\n2.\r\n\r\nApruébese la Modificación al Plan Regulador Comunal de Machalí en su\r\ntr"
+ },
+ {
+  "id": "d0799",
+  "comuna": "machali",
+  "nombre_documento": "informe_modificaciones_al_plan_regulador_comunal_de_machali_actualizado",
+  "archivo": "machali_informe_modificaciones_al_plan_regulador_comunal_de_machali_actualizado__MODIFICACIONES_20AL_20PLAN_20REGULADOR_20actualizado_202019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MODIFICACIONES AL P.R.C. DE MACHALÍ\r\n\r\nLISTA DE ANTECEDENTES\r\n1.- PLAN REGULADOR COMUNAL DE MACHALÍ\r\n1.1 DECRETO ALCALDICIO N°616\r\n\r\nFECHA DE DECRETO 23 DE AGOSTO DE 2007\r\n\r\n1.2 PUBLICACIÓN DIARIO OFICIAL\r\n\r\nFECHA DE PUBLICACIÓN 05 DE DICIEMBRE DE 2007\r\n\r\n2.- MODIFICACIÓN N°001 P.R.C. DE MACHALÍ REPLANTEO Y ACLARACIONES DE PERFIL\r\nVIALIDAD ESTRUCTURANTE. MODIFICACIÓN ORDENANZA LOCAL PARA ÁREAS HABITACIONALES\r\nY DE EQUIPAMIENTO.\r\n2.1 DECRETO ALCALDICIO N° 1220\r\n\r\nFECHA DE DECRETO 20 DE DICIEMBRE DE 2010\r\n\r\n2.2 PUBLICACIÓN DIARIO OFICIAL\r\n\r\nFECHA DE PUBLICACIÓN 11 DE ENERO DE 2011\r\n\r\n3.- MODIFICACIÓN N°002 P.R.C. DE MACHALÍ PRORROGA DE VIALIDAD ESTRUCTURANTE\r\nCOMUNAL.\r\n3.1 DECRETO ALCALDICIO N° 1343\r\n\r\nFECHA DE DECRETO 04 DE DICIEMBRE DE 2012\r\n\r\n3.2 PUBLICACIÓN DIARIO OFICIAL\r\n\r\nFECHA DE PUBLICACIÓN 05 DE DICIEMBRE DE 2012\r\n\r\n4.- MODIFICACIÓN N°003 P.R.C. DE MACHALÍ CADUCIDAD DE VÍAS.\r\n4.1 DECRETO ALCALDICIO N° 95\r\n4.2 PUBLICACIÓN DIARIO OFICIAL\r\n\r\nFECHA DE DECRETO D 25 DE ENERO DE 2013\r\nFECHA DE PUBLICACIÓN 01 DE FEBRERO DE 2013\r\n\r\n5.- ASIGNACIÓN DE NORMAS URBANÍSTICAS P.R.C. DE MACHALÍ.\r\n5.1 DECRETO ALCALDICIO N° 482\r\n5.2 PUBLICACIÓN DIARIO OFICIAL\r\n\r\nFECHA DE DECRETO 04 DE ABRIL DE 2013\r\nFECHA DE PUBLICACIÓN 18 DE ABRIL DE 2013\r\n\r\n6.- MODIFICACIÓN N°004 P.R.C. DE MACHALÍ DELIMITA AREAS DE RIESGOS GEOLÓGICOS E\r\nINCORPORA Y REZONIFICA USOS DE SUELO.\r\n6.1 DECRETO ALCALDICIO N° 1376\r\n\r\nFECHA DE DECRETO 26 DE NOVIEMBRE DE 2013\r\n\r\n6.2 PUBLICACIÓN DIARIO OFICIAL\r\n\r\nFECHA DE PUBLICA"
+ },
+ {
+  "id": "d0800",
+  "comuna": "machali",
+  "nombre_documento": "informe_ordenanza_local_plan_regulador_comunal_de_machali",
+  "archivo": "machali_informe_ordenanza_local_plan_regulador_comunal_de_machali__Ordenanza_20PRC_20Machali_20Modificada_20actualizaci_D0_B2n_202019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 64,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 8,
+   "articulado": 8,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR COMUNAL DE MACHALÍ – ORDENANZA LOCAL\r\n\r\nORDENANZA LOCAL\r\nPLAN REGULADOR COMUNAL DE MACHALÍ\r\n\r\nSecretaría Regional Ministerial de Vivienda Y Urbanismo Sexta Región\r\nIlustre Municipalidad de Machalí\r\n\r\n\fPLAN REGULADOR COMUNAL DE MACHALÍ – ORDENANZA LOCAL\r\n\r\nÍNDICE\r\nTITULO 1\r\n\r\nDISPOSICIONES GENERALES ..................................................................................................... 2\r\n\r\nCAPITULO 1\r\nCAPITULO 2\r\n\r\nMARCO DE REFERENCIA ...................................................................................................... 2\r\nÁMBITO TERRITORIAL DEL PLAN ........................................................................................ 4\r\n\r\nTITULO 2\r\n\r\nDESCRIPCIÓN DE LIMITES DE AREAS URBANAS ..................................................................... 5\r\n\r\nTITULO 3\r\n\r\nDEFINICIONES Y NORMAS GENERALES .................................................................................. 11\r\n\r\nCAPITULO 1\r\nDEFINICIONES GENERALES ............................................................................................... 11\r\nCAPITULO 2\r\nDISPOSICIONES GENERALES .......................................... ¡ERROR! MARCADOR NO DEFINIDO.\r\nCAPITULO 3\r\nÁREAS DE RESTRICCIÓN O RESGUARDO ...................................................................... 15\r\nPARRAFO 3.1\r\nDEFINICIONES GENERALES.................................................................................15\r\nPARRAFO 3.2\r\nRIESGO DE ORIGEN NATURAL ....................."
+ },
+ {
+  "id": "d0801",
+  "comuna": "machali",
+  "nombre_documento": "ordenanza_modifica_ordenanza_del_plan_regulador_comunal",
+  "archivo": "machali_ordenanza_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1343, MACHALÍ (2012)\r\n\r\nDecreto 1343\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE MACHALÍ\r\nPublicación: 05-DIC-2012 | Promulgación: 04-DIC-2012\r\nVersión: Única De : 05-DIC-2012\r\nUrl Corta: https://bcn.cl/3ogi4\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nNúm. 1.343.- Machalí, 4 de diciembre de 2012.- Vistos:\r\n1. Las atribuciones que me confiere la Ley 18.695 \"Orgánica Constitucional de\r\nMunicipalidades\".\r\n2. Lo establecido en el artículo 59 de la Ley General de Urbanismo y\r\nConstrucciones y el artículo 2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n3. El decreto alcaldicio Nº 616, publicado en el Diario Oficial el 5 de\r\ndiciembre de 2007, que aprueba el Plan Regulador de la comuna de Machalí.\r\nConsiderando:\r\n1. Considerando el procedimiento establecido en el Art. 2.1.11, inciso 13, de la\r\nOrdenanza General de Urbanismo y Construcciones y el Informe Técnico emitido por la\r\nSeremi Minvu Sexta Región, con fecha 4 de diciembre de 2012.\r\n2. La necesidad de prorrogar por un nuevo período de 5 años la declaratoria de\r\nutilidad pública de los terrenos destinados a las vías colectores calle Padre\r\nHurtado, camino Comunidad Bravo, camino El Recreo y camino La Hacienda, desde el 5 de\r\ndiciembre de 2012 al 5 de diciembre de 2017.\r\n3. El cumplimiento del procedimiento establecido en el Art. 2.1.11 de la\r\nOrdenanza General de Urbanismo y Construcciones.\r\nDecreto:\r\n1º. Modifícase la ordenanza del Plan Regulador Comunal de Machalí de la\r\nsigu"
+ },
+ {
+  "id": "d0406",
+  "comuna": "maipu",
+  "nombre_documento": "5069_aprueba_modificacion_plan_regulador_comunal_de_maipu",
+  "archivo": "maipu_5069_aprueba_modificacion_plan_regulador_comunal_de_maipu__Publ_plano_regulador_11_20091.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0407",
+  "comuna": "maipu",
+  "nombre_documento": "5069_modificacion_al_plan_regulador_comunal_2004_prorrogas_afectaciones_a_utilid",
+  "archivo": "maipu_5069_modificacion_al_plan_regulador_comunal_2004_prorrogas_afectaciones_a_utilid__Publ_diario_decreto_5069_11_2009.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0408",
+  "comuna": "maipu",
+  "nombre_documento": "6971_modificacion_al_plan_regulador_comunal_2004_rectificaciones_normativas",
+  "archivo": "maipu_6971_modificacion_al_plan_regulador_comunal_2004_rectificaciones_normativas__Publ_diario_decreto_6971_11_2012.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 2,
+   "altura_maxima": 3,
+   "agrupamiento": 22,
+   "antejardin": 5,
+   "rasante": 1,
+   "adosamiento": 3,
+   "normas_urbanisticas": 1,
+   "zonificacion": 7,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 3,
+   "articulado": 63
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC",
+   "ZC-1",
+   "ZC-3",
+   "ZC1",
+   "ZC4",
+   "ZE-2",
+   "ZE-3",
+   "ZE-4",
+   "ZE-5",
+   "ZE-6",
+   "ZE-8",
+   "ZE-9"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 10 de Noviembre de 2012\r\n\r\nNº 40.406\r\n\r\nDE LA REPUBLICA DE CHILE\r\n\r\nEdición de 24 páginas\r\n\r\nSantiago, Sábado 10 de Noviembre de 2012\r\nEdición de 2 Cuerpos\r\n\r\nNúm. 40.406.Año CXXXV - Nº 320.108 (M.R.)\r\nEjemplar del día\r\nAtrasado\r\n\r\n$375.- (IVA incluido)\r\n$785.- (IVA incluido)\r\n\r\nSUMARIO\r\nNormas Generales\r\nPODER EJECUTIVO\r\nMINISTERIO DE\r\nDEFENSA NACIONAL\r\nSubsecretaría para las\r\nFuerzas Armadas\r\nDecreto número 857.- Aprueba Reglamento Orgánico y de\r\nFunciones de los Centros de Reservistas ............................. P.1\r\nMINISTERIO DE\r\nHACIENDA\r\nDecreto número 958 exento.Declara Internacional la Feria\r\nInternacional XXXI World Congress of Internal Medicine ...P.4\r\nTesorería General de la\r\nRepública\r\nResolución número 3.204.Designa a funcionarios que indica para desempeñar cargo de Tesorero Provincial ............... P.4\r\n\r\nMINISTERIO DE\r\nECONOMÍA, FOMENTO\r\nY TURISMO\r\nSubsecretaría de Economía y\r\nEmpresas de Menor Tamaño\r\nResolución número 2.660 exenta.- Delega facultad de firma que\r\nindica .................................... P.4\r\nSubsecretaría de Pesca\r\ny Acuicultura\r\nExtracto de resolución número\r\n2.917 exenta, de 2012 .......... P.5\r\nMINISTERIO DE\r\nVIVIENDA Y\r\nURBANISMO\r\nDecreto número 48.- Mantiene\r\nen forma provisoria y transitoria,\r\nen conformidad a lo dispuesto en\r\nel artículo quincuagésimo noveno\r\nde la ley Nº 19.882, a don Daniel\r\nSchmidt Mc Lachlan, en cargo que\r\nseñala ................................"
+ },
+ {
+  "id": "d0409",
+  "comuna": "maipu",
+  "nombre_documento": "informacion_sobre_actualizacion_de_plano_regulador_vigente_en_la_comuna_informac",
+  "archivo": "maipu_informacion_sobre_actualizacion_de_plano_regulador_vigente_en_la_comuna_informac__res-160-reg-1167_16.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 7,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0410",
+  "comuna": "maipu",
+  "nombre_documento": "informacion_sobre_cambios_en_el_plan_regulador_comunal",
+  "archivo": "maipu_informacion_sobre_cambios_en_el_plan_regulador_comunal__Res-541-Reg-856_15.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1163",
+  "comuna": "maipu",
+  "nombre_documento": "1984_primera_modificacion_al_plan_regulador_comunal_2004_sector_el_almendral",
+  "archivo": "maipu_1984_primera_modificacion_al_plan_regulador_comunal_2004_sector_el_almendral__Publ_diario_decreto_1984_05_2007.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 1,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 38.780\r\n\r\nDIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 5 de Junio de 2007\r\n\r\n(7977)\r\n\r\nPágina\r\n\r\nDE LA REPUBLICA DE CHILE\r\nSantiago, Martes 5 de Junio de 2007\r\nEdición de 64 Páginas\r\n\r\nNúm. 38.780.Año CXXX - Nº 320.108 (M.R.)\r\n\r\nEjemplar del día\r\nAtrasado\r\n\r\nliza en relación con materias de competencia de este Instituto respecto\r\nde normas sobre salud ocupacional\r\n................................................. P.19\r\n\r\nMINISTERIO DE HACIENDA\r\n\r\nM\r\n\r\nServicio de Impuestos\r\nInternos\r\n\r\nPODER LEGISLATIVO\r\n\r\nMINISTERIO DE\r\nTRANSPORTES Y\r\nTELECOMUNICACIONES\r\n\r\nXV Dirección Regional\r\nMetropolitana\r\nSantiago Oriente\r\n\r\nMaderas Imperial Concepción S.A.\r\n/ Maderas Imperial La Florida S.A. /\r\nMaderas Imperial Maipú S.A. / Maderas Imperial Mapocho S.A. / Maderas\r\nImperial S.A. y Maderas Imperial\r\nValparaíso S.A. ........................ P.34\r\n\r\nMINISTERIO DE HACIENDA\r\n\r\nSubsecretaría de\r\nTransportes\r\n\r\nSUMARIO\r\nNormas Generales\r\n\r\nLey número 20.190.- Introduce\r\nadecuaciones tributarias e institucionales para el fomento de la industria de capital de riesgo y continúa el\r\nproceso de modernización del mercado de capitales ...................... P.3\r\nTribunal Constitucional\r\nProyecto de ley que introduce\r\nadecuaciones de índole tributaria e\r\ninstitucional para el fomento de la\r\nindustria de capital de riesgo y continúa con la modernización del mercado de capitales (Boletín Nº 327805) ............................................ P.18\r\nPODER EJECUTIVO\r\n\r\nSecretaría Reg"
+ },
+ {
+  "id": "d0411",
+  "comuna": "maria_pinto",
+  "nombre_documento": "acuerdo_108_aprueba_las_observaciones_de_la_comunidad_al_plan_regulador_comunal",
+  "archivo": "maria_pinto_acuerdo_108_aprueba_las_observaciones_de_la_comunidad_al_plan_regulador_comunal__cecde4fd-8aec-4ade-b39c-c9292fc2392e.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0412",
+  "comuna": "maria_pinto",
+  "nombre_documento": "acuerdo_133_terminos_como_se_elaborara_anteproyecto_plan_regulador",
+  "archivo": "maria_pinto_acuerdo_133_terminos_como_se_elaborara_anteproyecto_plan_regulador__b5b3c618-1b39-49a4-a507-5d77dddba278.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0413",
+  "comuna": "maria_pinto",
+  "nombre_documento": "decreto_205_pone_termono_actualizacion_plan_regulador_comunal",
+  "archivo": "maria_pinto_decreto_205_pone_termono_actualizacion_plan_regulador_comunal__a1814fc2-4c2b-447a-81c5-e55e9c89137c.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 52,
+  "paginas_escaneadas": 52,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0414",
+  "comuna": "maria_pinto",
+  "nombre_documento": "decreto_alcaldicio_340_aprueba_bases_administrativas_y_tecnicas_actualizacion_pl",
+  "archivo": "maria_pinto_decreto_alcaldicio_340_aprueba_bases_administrativas_y_tecnicas_actualizacion_pl__9a5a468e-7572-4503-928d-0a935a3e3a22.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0802",
+  "comuna": "maullin",
+  "nombre_documento": "43305_aprueba_plan_regulador_comunal_de_la_comuna_de_maullin",
+  "archivo": "maullin_43305_aprueba_plan_regulador_comunal_de_la_comuna_de_maullin__diariooficial_maullin.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 21,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.305\r\n\r\n|\r\n\r\nMartes 19 de Julio de 2022\r\n\r\n|\r\n\r\nPágina 1 de 28\r\n\r\nNormas Generales\r\nCVE 2157644\r\n\r\nGOBIERNO REGIONAL DE LOS LAGOS\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE MAULLÍN\r\n(Resolución)\r\nNúm. 1.- Puerto Montt, 17 de enero de 2022.\r\nVistos:\r\n1. Los artículos 6, 7, 110 y siguientes de la Constitución Política de la República;\r\n2. Los artículos 24 letra o) y 36 letra c), junto a los demás artículos pertinentes del DFL Nº\r\n1, de 2005, del Ministerio del Interior, Subsecretaría de Desarrollo Regional y Administrativo,\r\nque fija el Texto Refundido, Coordinado, Sistematizado y Actualizado de la Ley Nº 19.175,\r\nOrgánica Constitucional sobre Gobierno y Administración Regional;\r\n3. El DFL Nº 1, de 2006, del Ministerio del Interior, Subsecretaría de Desarrollo Regional y\r\nAdministrativo, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.695,\r\nOrgánica Constitucional de Municipalidades;\r\n4. El DFL Nº 458, de 1975, del Ministerio de Vivienda y Urbanismo, que aprueba Nueva\r\nLey General de Urbanismo y Construcciones;\r\n5. El decreto Nº 47, de 1992, del Ministerio de Vivienda y Urbanismo, que fija Nuevo Texto\r\nde la Ordenanza General de la Ley General de Urbanismo y Construcciones;\r\n6. La resolución Nº 7, de 2019, de la Contraloría General de la República que fija Normas\r\nsobre Exención de Trá"
+ }
+]

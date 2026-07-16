@@ -1,0 +1,25 @@
+{
+  "id": "puerto_montt_ffa35e0711",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_8187_aprueba_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "puerto_montt_8187_aprueba_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:16:38",
+  "fin": "2026-07-14T21:18:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PUERTO MONTT: Decreto 8187 exento (2007, BCN LeyChile, 3p), Modificacion al PRC sector Fresia-Tepual. Normas en p1-2, EN TEXTO PLANO COMPLETO (transcribe integro el Art 26 de la Ordenanza Local): asimila un predio de 5 ha a la ZONA H-2, con A) usos de suelo permitidos (vivienda, equipamiento por tipo, actividades productivas inofensivas), B) usos prohibidos, C) normas especificas (predial minima 180 m2 vivienda / 250 m2 otros usos, ocupacion maxima 70 por ciento, CC 1,4 frente a vias no estructurantes y 2,8 frente a estructurantes, agrupamiento aislado-pareado-continuo con 70 por ciento de profundidad maxima, altura por rasantes o 10,50 m en continua, antejardin 2 m vivienda y 4 m otros usos, adosamiento) y D) normas especiales. Documento rico y completo, sin trampa."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "vitacura_89535ceb7c",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_191032_promulga_modificacion_n_34_al_plan_regulador_comunal_de_vitacura__1587362.pdf",
+  "nombre": "vitacura_191032_promulga_modificacion_n_34_al_plan_regulador_comunal_de_vitacura__1587362.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:38:03",
+  "fin": "2026-07-14T21:40:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "modificación N34 'Normalización Vialidad y Rectificación Usos de Suelo': modifica arts 27,35,44,45,46,47 - todo relativo a vialidad estructurante y estándares de estacionamiento (no COS/CC/altura por zona); cuadros de vialidad/estacionamientos embebidos como imagen pero no son normas urbanísticas de zona"
+  }
+}

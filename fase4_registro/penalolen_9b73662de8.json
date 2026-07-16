@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_9b73662de8",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_28003041_promulga_modificacion_al_plan_regulador_comunal_sector_av_las_perdices___Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Modificacion PRC sector Av.Las Perdices: pag3 usos de suelo Zona E1a (tabla TIPO/ACTIVIDAD equipamiento); pag4 tablas NORMAS ESPECIFICAS VIVIENDA y EQUIPAMIENTO (superficie predial min, agrupamiento, COS, coef.constructibilidad, altura max, densidad bruta max, distanciamiento, antejardin). Pag5 solo texto administrativo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T17:56:50",
+  "fin": "2026-07-15T17:59:46",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_2800_zona_e1a_las_perdices_pag3-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E1a"
+    ],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO CONFIRMADO de penalolen_073254f6cc (mismo Decreto 2.800/3041, misma Zona E1a, mismos valores exactos verificados linea por linea) -- copia via Ley Chile/BCN en vez de Diario Oficial. No es error, es la misma norma con 2 fuentes distintas en la cola. Markdown referencia al archivo ya completo en vez de duplicar contenido."
+  }
+}

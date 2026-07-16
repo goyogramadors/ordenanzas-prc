@@ -1,0 +1,20 @@
+{
+  "id": "linares_dbe7ec5ce3",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\linares_1228_anula_declaratorias_de_utilidad_publica_contenidas_en_el_plan_regulador_de___do-20150429.pdf",
+  "nombre": "linares_1228_anula_declaratorias_de_utilidad_publica_contenidas_en_el_plan_regulador_de___do-20150429.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 64,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:55:11",
+  "fin": "2026-07-15T07:59:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LINARES: decreto 1228 exento (15-abr-2015, DO 64p, contaminado con otras comunas incluido Parral en p39), ANULA DECLARATORIAS DE UTILIDAD PUBLICA del PRC vigente y Seccionales 2 y 3. Todo el contenido de Linares cabe en la PAGINA 38 (verificado por grep en las 64 pags). Trae un cuadro 'PRC Vigente-Seccional N2-Seccional N3' (Nombre Via, Tramo, Elimina) pero SOLO anula calles y ensanches, no fija usos de suelo ni parametros de edificacion. *** PATRON NUEVO: el decreto DIFIERE explicitamente la fijacion de normas a un decreto FUTURO ***: 'Fijense las nuevas normas urbanisticas aplicables a los terrenos desafectados, dentro del plazo de tres meses contados desde la publicacion del presente decreto' -- a diferencia de Concepcion-Conchali-Machali (que asignan zona en el mismo acto), aqui la norma NO existe todavia en este documento. Sin tablas de normas urbanisticas por zona."
+  }
+}

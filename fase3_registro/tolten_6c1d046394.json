@@ -1,0 +1,25 @@
+{
+  "id": "tolten_6c1d046394",
+  "comuna": "tolten",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tolten_ordenanza_la_presente_ordenanza_local_contiene_las_normas_referentes_a_limite_ur__download.aspx.pdf",
+  "nombre": "tolten_ordenanza_la_presente_ordenanza_local_contiene_las_normas_referentes_a_limite_ur__download.aspx.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:32:39",
+  "fin": "2026-07-14T21:34:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        11
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ordenanza Local PRC Tolten independiente (mismo contenido normativo que tolten_3f8d1ae78d pero archivo separado sin el decreto de promulgación): pág6-11 zonas ZMC, ZM2, ZM3, ZM4, ZE, ZAV con usos permitidos/prohibidos y condiciones edificación/subdivisión completas; texto nativo"
+  }
+}

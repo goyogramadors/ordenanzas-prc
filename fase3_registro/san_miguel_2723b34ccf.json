@@ -1,0 +1,25 @@
+{
+  "id": "san_miguel_2723b34ccf",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_3162_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.162.pdf",
+  "nombre": "san_miguel_3162_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.162.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:28:57",
+  "fin": "2026-07-14T21:30:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        5
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "SAN MIGUEL: *** CONTAMINACION: edicion completa del DO (5p) *** con material ajeno (Hacienda, Aduanas, capacitacion). Decreto exento 3.162, Modifica la Ordenanza Local del PRC, concentrado en p2-5. Contenido real confirmado: 'graficadas en el plano PRSM-I, lo siguiente: Coeficiente Ocupacion de 0.7' - el valor SI esta en el texto, pero el layout a 2 columnas del DO lo descoloca (parece punto solitario a primera vista, pero no es tabla-imagen, es reordenamiento de columnas, igual al patron ya documentado en Linares). Texto NATIVO denso. CONFIANZA MEDIA: la fase siguiente debe verificar visualmente el reemparejamiento de columnas antes de extraer valores."
+  }
+}

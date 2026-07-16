@@ -1,0 +1,31 @@
+{
+  "id": "concepcion_8f4fa6462c",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\concepcion_192_fija_normas_urbanisticas_en_el_plan_regulador_comunal_de_concepcion_cuyas_de__DTO-192_29-MAY-2015.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "CONCEPCION: Decreto 192 (may-2015, LeyChile-BCN) que FIJA NORMAS URBANISTICAS a terrenos cuyas declaratorias de utilidad publica CADUCARON (art 59 LGUC), asimilandolos a la zona predominante adyacente. *** TRAMPA LEYCHILE CONFIRMADA ***: el texto termina en 'de acuerdo a lo senalado en la siguiente tabla:' seguido de UN PUNTO SOLITARIO. La tabla es IMAGEN, esta en la pagina 2, y pdftotext no devuelve ni un caracter de ella. Al renderizar aparece el cuadro con columnas CATEGORIA, NOMBRE, DESDE, HASTA, AFECTACION y ZONAS A LAS QUE SE ASIMILAN, con 3 vias colectoras (Los Naranjos, Camino Los Espanoles, Alto Caracol) asimiladas a las zonas HE3, HE2, PP y PE. Confirmado visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:42:18",
+  "fin": "2026-07-15T14:43:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\concepcion\\concepcion_192_vialidades_caducadas_pag1-2.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "HE2",
+      "HE3",
+      "PP",
+      "PE"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa LeyChile confirmada. Tabla de asimilacion de 3 vias colectoras caducadas a zonas EXISTENTES (HE2,HE3,PP,PE), no define parametros nuevos. Mismo mecanismo que Conchali/Machali/Puerto Montt. Coincide con nota_fase3."
+  }
+}

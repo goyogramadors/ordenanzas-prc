@@ -1,0 +1,25 @@
+{
+  "id": "villa_alemana_0e1c2e25c6",
+  "comuna": "villa_alemana",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villa_alemana_7_aprueba_enmienda_no_9_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "villa_alemana_7_aprueba_enmienda_no_9_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:35:11",
+  "fin": "2026-07-14T21:35:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "enmienda N9: modifica valores específicos en zonas existentes - antejardín EX-I1 reducido a 3.00m, antejardín V1 reducido a 2.25m, coef. constructibilidad zona E1a +30% (remite a Tabla 1 art.9); valores narrados en texto nativo, no cuadro completo"
+  }
+}

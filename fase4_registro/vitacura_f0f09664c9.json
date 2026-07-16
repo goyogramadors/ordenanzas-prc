@@ -1,0 +1,28 @@
+{
+  "id": "vitacura_f0f09664c9",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_33235_promulga_modificacion_no26_al_plan_regulador_comunal__DIARIO_OFICIAL_14_DICIEMBRE_.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto 3/2126 (05-08-2011), Modificacion N26 PRC Vitacura 'Equipamiento Especial N1 Comunal', modifica arts.8, 35 y 43 de la Ordenanza Local. p2: art.8 (loteamiento/urbanizacion, antejardines segun cuadros del art.41); art.35 (estacionamientos: recintos educacionales pre-escolar/basica/media >100 alumnos requieren estacionamiento adicional para transporte escolar); art.43 Zonificacion y Normas Especificas, Zona U-Ee1 Equipamiento Especial N1: agrega/elimina direcciones especificas en Cuadro 54 (Culto y Cultura: NOTA agrega COS 0,65 para actividades de culto/religion, y altura maxima especial solo para templos), Cuadro 55 (Educacion) y Cuadro 56 (Salud, queda con 5 equipamientos).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:36:00",
+  "fin": "2026-07-15T14:38:27",
+  "resultado": {
+    "archivo": "extraccion_normas\\vitacura\\vitacura_33235_modificacion26_zona_uee1_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-Ee1"
+    ],
+    "confianza": "ALTA",
+    "nota": "2 normas generales (art.8 antejardines, art.35 estacionamiento escolar) + 3 cuadros de zona U-Ee1 transcritos (Cuadro54 Culto/Cultura +nota COS0,65, Cuadro55 Educacion -2 filas=21 total, Cuadro56 Salud +1 fila=5 total). Cuadro maestro completo de condiciones edificacion U-Ee1 no esta en esta pagina."
+  }
+}

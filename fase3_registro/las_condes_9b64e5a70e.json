@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_9b64e5a70e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_4.-51-2021-Certi.complementario-174-30ENE21.pdf",
+  "nombre": "las_condes_4.-51-2021-Certi.complementario-174-30ENE21.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:02:42",
+  "fin": "2026-07-14T20:58:00",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: es un Certificado de Factibilidad de agua potable y alcantarillado (empresa Aguas Cordillera) para un terreno en Santa Zita 9402, Las Condes. Especificaciones tecnicas de conexion sanitaria (diametro caneria, presion, norma NCh 691/2485), nada de zonificacion ni normas urbanisticas. 3 pags verificadas. Candidato a descarte."
+  }
+}

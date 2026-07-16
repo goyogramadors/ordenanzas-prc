@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_225883ed48",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Mem.Explicativa_dec.966-2014.pdf",
+  "nombre": "las_condes_Mem.Explicativa_dec.966-2014.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:27:26",
+  "fin": "2026-07-15T08:30:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        11
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Memoria Explicativa, Rectificacion al Proyecto de Modificacion N8 al PRC de Las Condes (ene-2014). Pagina 6: tabla completa de rectificacion de ANTEJARDINES por via (Nombre de la Via, Desde, Hasta, Incremento en metros, Costado). Pagina 10: tabla de VIALIDAD INTERCOMUNAL Y COMUNAL (Clasificacion, Ancho Minimo Linea Oficial, N Pistas, Distancia Eje a L.O. Norte/Sur/Oriente/Poniente, Afectacion a Utilidad Publica). Pagina 9 texto menciona que existen tablas de coeficiente de ocupacion de suelo, coeficiente de constructibilidad y altura maxima de edificacion 'por las distintas areas de edificacion' pero esas tablas NO estan transcritas en este documento (se citan por referencia). Verificado visualmente paginas 1-3, 6, 9, 10, 14 de 14."
+  }
+}

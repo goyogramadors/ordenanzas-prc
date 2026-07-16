@@ -1,0 +1,29 @@
+{
+  "id": "carahue_e140c061fe",
+  "comuna": "carahue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\carahue_8_aprueba_plan_regulador_comunal_de_carahue_y_de_la_localidad_de_trovolhue__Exportar.pdf",
+  "nombre": "carahue_8_aprueba_plan_regulador_comunal_de_carahue_y_de_la_localidad_de_trovolhue__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 33,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:02:31",
+  "fin": "2026-07-14T15:25:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        10,
+        18
+      ],
+      [
+        30,
+        33
+      ]
+    ],
+    "paginas_utiles": 13,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CARAHUE: decreto con DOS ordenanzas (PRC Carahue + PR Trovolhue). *** CASO MIXTO REAL CONFIRMADO ***: dentro del mismo documento alternan tablas en texto nativo y TABLAS-IMAGEN invisibles a pdftotext. CARAHUE pags 10-18: Z-1/Z-2/ZE-1 (p10-12) en texto plano; Z-3 (p13) y Z-4 (p14) son TABLAS-IMAGEN (pdftotext solo saca 177 chars de p13); ZR-1..ZR-5 (p14-15) solo prosa de usos sin cuadro; ZR-6 (p16), ZR-7+ZR-8 (p17), ZR-9+ZR-10 (p18) son TABLAS-IMAGEN. TROVOLHUE pags 30-31: Z-1, ZE-1, ZR-1(a,b), ZR-2, todo texto plano. Rango extendido a 33 por precaucion (cola del documento). p19-20 = vialidad estructurante (mirada, excluida). LA FASE SIGUIENTE DEBE RENDERIZAR: pdftotext no ve las tablas de p13,14,16,17,18. 9 pags confirmadas visualmente."
+  }
+}

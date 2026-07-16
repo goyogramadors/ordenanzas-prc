@@ -1,0 +1,522 @@
+[
+ {
+  "id": "d0825",
+  "comuna": "paillaco",
+  "nombre_documento": "68_modificacion_plan_regulador_comunal",
+  "archivo": "paillaco_68_modificacion_plan_regulador_comunal__1042-Publicacion-Diario-Oficial_compressed.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 48,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 2,
+   "articulado": 19,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.378\r\n\r\nLunes 17 de Octubre de 2022\r\n\r\nPágina 1 de 48\r\n\r\nNormas Generales\r\nCVE 2200729\r\nGOBIERNO REGIONAL DE LOS RÍOS\r\nPROMULGA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE PAILLACO,\r\nREGIÓN DE LOS RÍOS\r\n(Resolución)\r\nNúm. 68.- Valdivia, 19 de julio de 2022.\r\nVistos:\r\nEl Párrafo 4°, del Capítulo II, del Título II de la Ley General de Urbanismo y Construcciones,\r\ncontenido en el Decreto con Fuerza de Ley N° 458 del año 1975 del Ministerio de Vivienda y\r\nUrbanismo, Párrafo denominado “De la Planificación Urbana Comunal”; Las normas contenidas en\r\nla Ordenanza General de la Ley General de Urbanismo y Construcciones, aprobada por Decreto N°\r\n47 del año 1992 del Ministerio de Vivienda y Urbanismo, especialmente los Artículos 2.1.10. , 2.1.11.,\r\ny demás pertinentes; La Ley N°19.300 sobre Bases Generales del Medio Ambiente; Lo dispuesto en\r\nlos Artículos 16 letra H), 20 letra f) y 36 letra c), de la Ley N°19.175 Orgánica Constitucional sobre\r\nGobierno y Administración Regional, cuyo texto refundido, coordinado y sistematizado se encuentra\r\nen el DFL N° 1-19175 del año 2005 del Ministerio del Interior; La atribución que me confiere la letra\r\no) del Artículo 24 de la Ley mencionada en el Visto precedente; La Ley N°19.880, que establece Bases\r\nde los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del\r\nEstado; La Resolución N°7, del año 2019, de la Contraloría General"
+ },
+ {
+  "id": "d0826",
+  "comuna": "paine",
+  "nombre_documento": "1661_declara_la_desafectacion_de_utilidad_publica_los_terrenos_que_hubieran_sido",
+  "archivo": "paine_1661_declara_la_desafectacion_de_utilidad_publica_los_terrenos_que_hubieran_sido__Public_Diario_Oficial_Declara_Desafectacion_de_Terrenos.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Cuerpo I - 24\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 29 de Abril de 2015\r\n\r\nNº 41.144\r\n\r\n2. Publíquese el presente decreto en el Diario Oficial.\r\nAnótese, comuníquese, publíquese y archívese.- Luis Felipe Guevara Stephens,\r\nAlcalde.- Vivian Barra Peñaloza, Secretario Municipal.\r\n\r\nMunicipalidad de Paine\r\n(IdDO 900019)\r\n\r\nDECLARA LA DESAFECTACIÓN DE UTILIDAD PÚBLICA LOS TERRENOS\r\nQUE HUBIEREN SIDO DESTINADOS POR UN PLAN REGULADOR O\r\nSECCIONAL A CIRCULACIONES, PLAZAS Y PARQUES, INCLUIDOS\r\nSUS ENSANCHES, CON ANTERIORIDAD A LAS DISPOSICIONES DE\r\nLAS LEYES Nos 19.939 Y 20.331\r\nNúm. 1.661.- Paine, 27 de abril de 2015.\r\nVistos:\r\nCarlos Cuadrado Prats, Alcalde.\r\n\r\nMunicipalidad de Lo Barnechea\r\n\r\n(IdDO 900012)\r\n\r\nDEJA SIN EFECTO DECLARATORIAS DE UTILIDAD PÚBLICA QUE\r\nFUERON REESTABLECIDAS POR LEY 20.791\r\nNúm. 2.523.- Lo Barnechea, 24 de abril de 2015.\r\nVistos:\r\nLo dispuesto en el Artículo Transitorio de la ley 20.791 y en uso de las facultades\r\nque me confieren los artículos 56 y 63, letra i) de la Ley N°18.695, Orgánica\r\nConstitucional de Municipalidades,\r\nTeniendo presente:\r\na) Que el 29 de octubre de 2014 entró en vigencia la ley N° 20.791, cuyo artículo\r\ntransitorio declara de utilidad pública todos aquellos terrenos que fueron destinados\r\npor un plan regulador o seccional a circulaciones, plazas y parques, incluidos sus\r\nensanches, con anterioridad a las leyes Nos 19.939 y 20.331.\r\nb) Que el inciso segundo del artículo transitorio de la ley N° 20.791 señala\r\nque l"
+ },
+ {
+  "id": "d0827",
+  "comuna": "paine",
+  "nombre_documento": "256_aprobacion_del_plan_regulador_comunal_de_paine",
+  "archivo": "paine_256_aprobacion_del_plan_regulador_comunal_de_paine__Public_Diario_Oficial_Aprueba_Plan_Regulador_Comunal.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 23,
+   "ordenanza_local_txt": 1,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAP",
+   "ZU-1",
+   "ZU-2",
+   "ZU-3",
+   "ZU-4",
+   "ZU-5"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.288\r\n\r\n|\r\n\r\nSábado 23 de Febrero de 2019\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 1551061\r\n\r\nMUNICIPALIDAD DE PAINE\r\n\r\nAPRUEBA LA ENMIENDA DEL PLAN REGULADOR COMUNAL DE PAINE\r\nNúm. 555.- Paine, 29 de enero de 2019.\r\nVistos y teniendo presente:\r\n- Decreto ex. N° 256 de fecha 7 de septiembre de 1992, que Sancionó la Aprobación del\r\nPlan Regulador Comunal de Paine por parte del Consejo de Desarrollo Comunal de la I.\r\nMunicipalidad de Paine y los documentos que lo conforman.\r\n- Resolución N° 11 de fecha 15 de febrero de 1993, de la Secretaria Ministerial\r\nMetropolitana del Ministerio de Vivienda y Urbanismo, aprobando el Plan Regulador Comunal\r\nde Paine.\r\n- Decreto ex. N° 823 de fecha 4 de abril de 2014, que promulgó la aprobación del proyecto\r\nde modificación al Plan Regulador Comunal de Paine, sancionado por decreto ex. N° 256/1992,\r\njunto con todos los instrumentos que lo complementan.\r\n- Publicación en el Diario Oficial de fecha 12 de febrero de 2015, del proyecto de\r\nmodificación al Plan Regulador Comunal de Paine.\r\n- Tabla de la Sesión de Trabajo N° 18 de fecha 25 de enero de 2018, del H. Concejo\r\nMunicipal.\r\n- Acta de la Sesión de Trabajo N° 18, de fecha 29 de enero de 2018, del H. Concejo\r\nMunicipal, sobre la presentación de los procedimientos de enmiendas al Plan Regulador\r\nComunal y sus ef"
+ },
+ {
+  "id": "d0828",
+  "comuna": "paine",
+  "nombre_documento": "823_aprobacion_del_proyecto_de_modificacion_del_plan_regulador_comunal_de_paine",
+  "archivo": "paine_823_aprobacion_del_proyecto_de_modificacion_del_plan_regulador_comunal_de_paine__Public_Diario_Oficial_Plan_Regulador_Comunal_2015.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 18,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 2,
+   "articulado": 10,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM-1",
+   "ZM-2",
+   "ZM-3",
+   "ZM-4",
+   "ZM-5",
+   "ZUS - 01"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.081\r\n\r\nDIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 12 de Febrero de 2015\r\n\r\nCuerpo I - 1\r\n\r\nI\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.081.Año CXXXVII - Nº 815.596 (M.R.)\r\n\r\nSUMARIO\r\nNormas Generales\r\nPODER EJECUTIVO\r\nMINISTERIO DE\r\nRELACIONES EXTERIORES\r\nDecreto número 254.- Promulga el\r\nAcuerdo con el Gobierno de San Vicente y\r\nlas Granadinas sobre Cooperación Técnica\r\ny Científica.........................................P.2\r\nDecreto número 256.- Promulga la\r\nDecisión Nº 30 adoptada por la Comisión\r\nde Libre Comercio del Tratado de Libre\r\nComercio con Centroamérica constituida\r\nentre Chile y Guatemala. ...................P.4\r\nDecreto número 267.- Promulga el\r\nAcuerdo con el Programa de las Naciones\r\nUnidas para el Desarrollo sobre el\r\nProyecto: “Fortalecimiento de la Política\r\nIndígena en Chile 2015”....................P.4\r\n\r\nEjemplar del día..................$200.- (IVA incluido)\r\nAtrasado..............................$400.- (IVA incluido)\r\n\r\nel procedimiento para la confección y\r\npresentación de planes de emergencia para\r\ncombatir la contaminación ante derrames\r\nde hidrocarburos y material mínimo de\r\nrespuesta, para naves que enarbolen el\r\npabellón chileno................................... P.5\r\nExtracto de resolución número 12600/47\r\nVrs, de 2015, que dispone y establece\r\nel procedimiento para la confección y\r\npresentación de planes de contingencia de\r\nrespuesta contra la contaminación de las\r\naguas por hidrocarburos u "
+ },
+ {
+  "id": "d0454",
+  "comuna": "palmilla",
+  "nombre_documento": "estimados_junto_con_saludarlos_quiero_que_nos_envie_el_plan_regulador_de_la_comu",
+  "archivo": "palmilla_estimados_junto_con_saludarlos_quiero_que_nos_envie_el_plan_regulador_de_la_comu__7fa60311-c0e9-4c5d-9a4e-299b091dcfcb.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0455",
+  "comuna": "palmilla",
+  "nombre_documento": "la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador_c",
+  "archivo": "palmilla_la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador_c__48489e8a-f4b1-4039-aa59-5c058b48a686.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0456",
+  "comuna": "palmilla",
+  "nombre_documento": "ordenanza_que_aprueba_el_plan_regulador_de_la_comuna_de_palmilla_vigente",
+  "archivo": "palmilla_ordenanza_que_aprueba_el_plan_regulador_de_la_comuna_de_palmilla_vigente__b253d327-de0c-4865-8cae-9b373e841ebd.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0457",
+  "comuna": "palmilla",
+  "nombre_documento": "plan_regulador_comunal_planos_memoria_y_ordenanza",
+  "archivo": "palmilla_plan_regulador_comunal_planos_memoria_y_ordenanza__2f873a29-dee9-48ee-af36-194de963c53c.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0458",
+  "comuna": "palmilla",
+  "nombre_documento": "solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y",
+  "archivo": "palmilla_solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y___853f8a0a-670a-480c-8966-0ee494913e68.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad de Palmilla\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU199T0000857\r\nFecha: 11/04/2022\r\n\r\nHora: 12:19:22\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\n\r\nMartín\r\n\r\nPrimer Apellido\r\n\r\nSalinas\r\n\r\nSegundo Apellido\r\n\r\nÁvila\r\n\r\nTeléfono de contacto\r\n\r\n936287972\r\n\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\nmsalinas@arquigestion.cl\r\n\r\nCorreo electrónico\r\nnotificaciones\r\n\r\nmsalinas@arquigestion.cl\r\n\r\nRegión Metropolitana de Santiago, ÑUÑOA,\r\n\r\nNombre de\r\nRepresentante:\r\nPrimer Apellido\r\nRepresentante:\r\nSegundo Apellido\r\nRepresentante:\r\nSolicitud realizada:\r\n\r\nSolicito copia de el o los Instrumentos de Planificación Territorial vigentes y aplicables a su comuna. Por lo anterior, debe\r\nentenderse tanto el Plan Regulador Comunal como el Plan Seccional, de existir; y también, de ser aplicables, el Plan\r\nRegulador Metropolitano o Intercomunal.\r\nHe de recordar que, de acuerdo con lo dispuesto en los artículos 2.1.8. y 2.1.10. de la Ordenanza General de Urbanismo\r\ny Construcciones, el Plan Regulador Intercomunal y el Plan Regulador Comunal, estarán conformados por la Memoria\r\nExplicativa, la Ordenanza y los Planos, documentos todos los cuales son requeridos por medio de la presente solicitud.\r\nGracias de antemano.\r\n\r\nObservaciones:\r\nArchivos adjuntos:\r\nMedio de envío o retiro\r\nde la información:\r\n\r\nCorreo electrónico\r\n\r\nDirección de envío de la\r\ninformación\r\n\r\n,,,\r\n\r\nFormato de entrega de\r\nla información:\r\n\r\nE"
+ },
+ {
+  "id": "d0829",
+  "comuna": "panguipulli",
+  "nombre_documento": "5_aprueba_plan_regulador_comunal_de_panguipulli",
+  "archivo": "panguipulli_5_aprueba_plan_regulador_comunal_de_panguipulli__7 Publicación Diario Oficial PLAN REGULADOR COMUNAL.pdf_1704210845882.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 5,
+   "ocupacion_suelo": 1,
+   "predial_minima": 11,
+   "altura_maxima": 5,
+   "agrupamiento": 34,
+   "antejardin": 7,
+   "rasante": 4,
+   "adosamiento": 10,
+   "distanciamiento": 4,
+   "zonificacion": 3,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 9,
+   "articulado": 43,
+   "limite_urbano": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z1",
+   "Z2",
+   "Z3",
+   "Z4",
+   "ZO"
+  ],
+  "puntaje_normativo": 16,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 27 de Julio de 1990\r\n\r\n(5426)\r\n\r\n1g. seis\r\n\r\nMinisterio de Vivienda y Urbanismo\r\n\r\nPunto Descripción del Punto\r\n2.\r\n\r\nSecretaría Regional Ministerial\r\nX' Región \"Los Lagos\"\r\n(Resolución)\r\n\r\nIntersección de linea equidistante a\r\nCamino Vecinal trazada a 260 m. al\r\nSur Este de su eje y de su prolongación imaginaria hacia el Nor Este,\r\ncon eje de la linea férrea.\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE PANGUIPULLI\r\nPuerto Montt, 1° de Marzo de 1990.— Con esta fecha se ha dictado la siguiente:\r\nNúm. 05.-- Vistos:\r\nLo dispuesto en los Decretos Leyes N° 575 de 1974 y 1.305 de 1975;\r\na)\r\nEl D.S. N° 48 (V. y U.) del 21.04.85, que nombra al suscrito Secretario Reb)\r\ngional para la Décima Región:\r\nLo dispuesto en los Artículos 4, 42, 43, 44, 53 y 54 del D.F.L. N° 458 (V. y U.)\r\nc)\r\n\"Ley General de Urbanismo y Construcciones\" modificado por la Ley\r\nN° 18.738 de 1988; y el artículo 550 de la Ordenanza General de Construcciones y Urbanización modificada por el D.S. N° 224 del 14 de Diciembre de\r\n1988;\r\nEl Ord. N° 0674 del 29 de Diciembre de 1989, del Sr. Alcalde de Panguipulli,\r\nd)\r\nadjuntando el expediente del Plan Regulador Comunal de Panguipulli;\r\nEl Informe Técnico favorable N° 01 del 4 de Octubre de 1989 del Director de\r\ne)\r\nObras Municipales;\r\nEl Acta de la reunión ordinaria del Consejo de Desarrollo'Comunal, celebrada\r\nel día 4 de Octubre de 1989, que aprueba el Plan Regulador Comunal de Panguipulli;\r\nEl Decreto Alcaldicio N° 0281 del 1"
+ },
+ {
+  "id": "d0459",
+  "comuna": "papudo",
+  "nombre_documento": "31_aprueba_modificacion_al_plan_regulador_comunal_de_papudo_seccional_punta_puya",
+  "archivo": "papudo_31_aprueba_modificacion_al_plan_regulador_comunal_de_papudo_seccional_punta_puya__punta_puyai.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 5,
+   "predial_minima": 12,
+   "agrupamiento": 11,
+   "antejardin": 6,
+   "rasante": 2,
+   "zonificacion": 4,
+   "usos_de_suelo": 13,
+   "ordenanza_local_txt": 1,
+   "articulado": 21,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\n,DE LJL .SEEHBLICA DE CHILE\r\n,.\"^--^f -\"\"^\r\n\r\nNdm. 35.410.Año CXD£ - N\" 320.108 (M.R.)\r\n\r\nSUMARIO\r\n\r\nEjemplar del día\r\nAtrasado\r\n\r\nSantiago, MiércoJp^^jyarTO de 1996\r\n* i ^ » * W 5 ^ ' d e 24 Páginas\r\nal Plan Regulador Comunal\r\nde Papudo, Seccional Punta\r\nPuyai\r\nP.3\r\n\r\nNormas Generales\r\nNormas Particulares\r\n\r\nSolicitudes de\r\nPatentes de Invención\r\nBayer Aktiengesellschaft (2),\r\nPfizer Inc. (2), United States\r\nGypsum Company y Zamora\r\nOlguín Alberto Rufo\r\nP.7\r\n\r\nOshe Consultores Organizacionales S.A., Sociedad Comercializadora de Productos del Mar\r\nSociedad Anónima, Sociedad\r\nDistribuidora Jormi S.A. y Taller de Tejidos y Confecciones\r\nBarrikaS.A\r\nP.1I\r\n\r\nPODER EJECUTIVO\r\nMINISTERIO\r\nDEL INTERIOR\r\nMINISTERIO\r\nDE HACIENDA\r\nSuperintendencia de Bancos\r\ne Instituciones Financieras\r\n\r\nSUBSECRETARÍA\r\nDEL INTERIOR\r\n\r\nCertificado N° 1996/3.- Determina Interés Corriente por el\r\nlapso que indica\r\nP.2\r\n\r\nDecreto número 36 exento.-Autoriza a \"Corporación\r\nde Ayuda al Niño QuemadoCOANIQUEM\" para efectuar\r\ncolecta pública\r\nP.5\r\n\r\nMINISTERIO\r\nDE JUSTICIA\r\n\r\nMINISTERIO DE\r\nDEFENSA NACIONAL\r\n\r\nServicio Nacional\r\nde Menores\r\nResolución número 114\r\nexenta.- Delega en Director Regional que indica las facultades\r\na que alude el artículo 42 de ia\r\nLey N°l 8.703\r\nP.2\r\nMINISTERIO\r\nDE AGRICULTURA\r\n\r\nSUBSECRETARÍA\r\nDE MARINA\r\nExtracto de resolución número 1.499, de 1995, que otorga\r\nal señor Elio Hernán Barrientos\r\nCifuentes, concesión de\r\nacuicultura de playa, en Puerto\r\nMontt\r\nP.5\r\nM"
+ },
+ {
+  "id": "d0830",
+  "comuna": "papudo",
+  "nombre_documento": "405_promulga_actualizacion_del_plan_regulador_comunal_de_papudo",
+  "archivo": "papudo_405_promulga_actualizacion_del_plan_regulador_comunal_de_papudo__promulga PRC D.O.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 33,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 32,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.509\r\n\r\n|\r\n\r\nJueves 23 de Marzo de 2023\r\n\r\n|\r\n\r\nPágina 1 de 33\r\n\r\nNormas Generales\r\nCVE 2288120\r\n\r\nMUNICIPALIDAD DE PAPUDO\r\n\r\nPROMULGA ACTUALIZACIÓN DEL PLAN REGULADOR COMUNAL DE PAPUDO\r\nNúm. 405.- Papudo, 6 de marzo de 2023.\r\nVistos:\r\nLa Sentencia Ejecutoriada del Tribunal Regional de Valparaíso de fecha 29 de junio de\r\n2021, y pronunciada en autos 299-2021, que me proclama Alcaldesa de la Ilustre Municipalidad\r\nde Papudo; Acta de Instalación del Concejo Municipal de fecha 30 de junio de 2021; decreto\r\nalcaldicio N° 372 de 28 de febrero de 2023, que establece suplencia del cargo de Secretario\r\nMunicipal; decreto con fuerza de ley N° l, de 2006 del Ministerio del Interior, que fija Texto\r\nRefundido, coordinado y sistematizado de la Ley N°l8.695, \"Orgánica Constitucional de\r\nMunicipalidades\"; La ley 19.880, que establece las Bases de los Procedimientos Administrativos\r\nque rigen los actos de los Órganos de la Administración del Estado; Ley N° 18.695, \"Orgánica\r\nConstitucional de Municipalidades\"; decreto con fuerza de ley N° 458, de 1975, Ley General de\r\nUrbanismo y Construcciones; El decreto supremo (V. y U.) N° 47, de 1992, Ordenanza General\r\nde Urbanismo y Construcciones.\r\nConsiderando:\r\nl. Que, conforme a lo dispuesto en el inciso segundo del artículo 7° bis de la Ley 19.300,\r\nsobre Bases Generales "
+ },
+ {
+  "id": "d0831",
+  "comuna": "paredones",
+  "nombre_documento": "3593_aprueba_plan_regulador_y_ordenanza_local_del_plan_regulador_de_la_comuna_de",
+  "archivo": "paredones_3593_aprueba_plan_regulador_y_ordenanza_local_del_plan_regulador_de_la_comuna_de__do-20141217.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 44,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.034.Año CXXXVII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día..................$200.- (IVA incluido)\r\nAtrasado..............................$400.- (IVA incluido)\r\n\r\nMINISTERIO DE\r\nECONOMÍA, FOMENTO\r\nY TURISMO\r\n\r\nSUMARIO\r\nNormas Generales\r\n\r\nSubsecretaría de\r\nPesca y Acuicultura\r\n\r\nPODER EJECUTIVO\r\n\r\nExtracto de resolución\r\nnúmero 3.287 exenta, de\r\n2014, que modifica resolución\r\nNº3.788 exenta, de 2013....P.3\r\n\r\nMINISTERIO DE\r\nHACIENDA\r\nDecreto número 367\r\nexento.- Aprueba Reglamento\r\npara la aplicación del artículo\r\n4° de la ley N°20.773......P.1\r\nDecreto número 379\r\nexento.- D e t e r m i n a e l\r\ncomponente variable para\r\nel cálculo del impuesto\r\nespecífico establecido en\r\nla ley 18.502...................P.2\r\n\r\nMINISTERIO DE MINERÍA\r\nD e c r e t o n ú m e r o 9 8 .Delega el ejercicio de\r\natribuciones y facultades de\r\nacuerdo a lo dispuesto en la ley\r\nN° 20.790, en los Ministros\r\nde Hacienda y de Minería,\r\nconjuntamente...................P.3\r\nMINISTERIO DE ENERGÍA\r\nDecreto número 494\r\nexento.- Determina precios de\r\n\r\nDecreto número 496\r\nexento. - F ija precios de\r\nparidad para combustibles\r\nderivados del petróleo. .......P.4\r\nMINISTERIO DEL\r\nMEDIO AMBIENTE\r\nServicio de Evaluación\r\nAmbiental\r\nIII Región de Atacama\r\nExtracto de Estudio de\r\nImpacto Ambiental “Planta\r\ndesalinizadora de agua de mar\r\npara la Región de Atacama,\r\nprovincias de Copiapó y\r\nChañaral”...........................P.4\r\n\r\nExtracto de resolución\r\n"
+ },
+ {
+  "id": "d0832",
+  "comuna": "parral",
+  "nombre_documento": "3048_aprueba_proyecto_de_modificacion_del_plan_regulador_comunal",
+  "archivo": "parral_3048_aprueba_proyecto_de_modificacion_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3048 EXENTO, PARRAL (2003)\r\n\r\nDecreto 3048 EXENTO\r\nAPRUEBA PROYECTO DE MODIFICACION DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE PARRAL\r\nFecha Publicación: 08-ABR-2004 | Fecha Promulgación: 28-NOV-2003\r\nTipo Versión: Única De : 08-ABR-2004\r\nUrl Corta: https://bcn.cl/3no4b\r\n\r\nAPRUEBA PROYECTO DE MODIFICACION DEL PLAN REGULADOR COMUNAL\r\nNúm. 3.048 exento.- Parral, 28 de noviembre de 2003.- Vistos:\r\n1) Los antecedentes del proyecto de Enmienda del Plan Regulador Comunal de\r\nParral, en sus condiciones de edificación.\r\n2) El decreto exento Nº 2.609 de fecha 14 de octubre de 2003.\r\n3) El Acuerdo del Concejo Municipal de fecha 13 de octubre de 2003.\r\n4) Lo dispuesto en los artículos 43 y 45 de la Ley General de Urbanismo y\r\nConstrucciones, y el artículo 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n5) El Certificado del Secretario Municipal, de fecha 28.11.03 en el que consta\r\nque no hubo observaciones por parte del público al Proyecto de Enmienda.\r\n6) Las facultades que me confiere la ley Nº 18.695, de 1988, Orgánica\r\nConstitucional de Municipalidades y sus modificaciones posteriores,\r\nDecreto:\r\n1º.- Apruébese el Proyecto de Modificación del Plan Regulador Comunal de\r\nParral, en lo referente a condiciones de Edificación para todas las zonas del citado\r\nPlan, según el siguiente detalle:\r\n- Coeficiente de Constructibilidad y de Ocupación de Suelo, se aumentan en un 20%.\r\nAnótese, comuníquese y publíquese.- Joaquín Caroca Tapia, Alcalde (S).- Juan\r\nCarlos Alv"
+ },
+ {
+  "id": "d0833",
+  "comuna": "parral",
+  "nombre_documento": "decreto_5139_ordenese_el_inicio_de_la_etapa_de_preparacion_del_proceso_del_plan",
+  "archivo": "parral_decreto_5139_ordenese_el_inicio_de_la_etapa_de_preparacion_del_proceso_del_plan___Exento_5139.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 8,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1,
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [
+   "ZBC"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, normas_urbanisticas)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ORDÉNESE EL INICIO DE LA ETAPA DE PREPARACIÓN DEL\r\nPROCESO DEL PLAN REGULADOR COMUNAL DE PARRAL.\r\n\r\nRepública de Chile\r\nProvincia de Linares\r\nSecretaria comunal de planificacion\r\n\r\nDECRETO EXENTO Nº 05139/2025 /\r\nPARRAL, 23 de Octubre de 2025\r\n\r\nVISTO:\r\n1. Las atribuciones que me conﬁere la Ley N.º 18.695, Orgánica Constitucional de Municipalidades, y sus\r\nmodificaciones.\r\n2. Los artículos N°8, 14 y 40 de la Ley N.º 19.880, que establece las Bases de los Procedimientos Administrativos\r\nque rigen los actos de los órganos de la Administración del Estado.\r\n3. Lo dispuesto en la Ley General de Urbanismo y Construcciones, en lo referido a planificación urbana.\r\n4. Lo establecido en la Ordenanza General de Urbanismo y Construcciones, en materia de planificación urbana.\r\n5. Lo señalado en la Ley N.º 21.078, sobre Transparencia del Mercado del Suelo e Impuesto al Aumento de Valor\r\npor Ampliación del Límite Urbano, particularmente en su artículo 28 sexies.\r\n6. Lo dispuesto en la Ley N.º 20.417, que modiﬁca la Ley N.º 19.300, de Bases Generales del Medio Ambiente, en\r\nlo relativo a la Evaluación Ambiental Estratégica de los instrumentos de planificación territorial.\r\n7. El Decreto N°32, de fecha 17 de agosto de 2015, que aprueba el Reglamento de Evaluación Ambiental\r\nEstratégica (EAE) del Ministerio del Medio Ambiente.\r\n8. La publicación en el Diario Oﬁcial de fecha 03 de julio de 1990, mediante la cual se promulga el Plan Regulador\r\nComunal de Parral.\r\n9. El Decreto Afecto N° 2378 de "
+ }
+]

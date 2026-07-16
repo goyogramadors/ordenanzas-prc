@@ -1,0 +1,28 @@
+{
+  "id": "romeral_0699cde51f",
+  "comuna": "romeral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\romeral_2782_aprueba_modificaciones_via_enmienda_a_ordenanza_local_del_plan_regulador_co__1721133.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda N1 PRC Romeral (Decreto 2782/2019). TRAMPA: el texto dice 'los parametros que se indican por los siguientes valores:' y el cuadro es IMAGEN (verificado en render). p2: Zona ZU-1 Mixta 1, NORMAS DE SUBDIVISION Y EDIFICACION: predial min 500 m2, COS 0,78, CC 1,56, agrupamiento continuo, altura 9,6 m, densidad bruta 75 hab/ha. Aplica SOLO a 2 poligonos municipales especificos (donde se emplaza la Municipalidad y otro colindante a Surfrut); el resto de ZU-1 mantiene los parametros del texto original del PRC.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:33:01",
+  "fin": "2026-07-15T14:34:36",
+  "resultado": {
+    "archivo": "extraccion_normas\\romeral\\romeral_2782_enmienda1_zu1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Tabla transcrita desde el render (imagen pese a anuncio en texto). Aplica solo a 2 poligonos municipales especificos (Municipalidad y colindante Surfrut); resto de ZU-1 mantiene norma original. Verificado contra nota_fase3: coincide."
+  }
+}

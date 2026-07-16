@@ -1,0 +1,30 @@
+{
+  "id": "curico_15db84f200",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_1370_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_cumunal_d__1370.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Enmienda N2 PRC Curico. TRAMPA: pdftotext solo devuelve los titulos de zona sueltos; los cuadros son IMAGEN (verificado en render 150dpi). p2: cuadro NORMAS DE SUBDIVISION Y EDIFICACION POR USOS zona ZU-4a (predial 210/420/700 m2, COS 0,78/0,52, altura 25,2/13,2 m, densidad 768 hab/ha, antejardin 7 m). p3: mismos cuadros para ZU-6a (densidad 780 hab/ha) y ZU-10a (altura 13,2/8,4 m, antejardin 15 m, densidad 120 hab/ha). p4 solo cierre administrativo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:43:12",
+  "fin": "2026-07-15T14:45:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\curico\\curico_1370_enmienda2_zu4a_zu6a_zu10a_pag2-3.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "ZU-4a",
+      "ZU-6a",
+      "ZU-10a"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa de imagen confirmada. 3 cuadros completos transcritos con mucho mas detalle que nota_fase3 (incluye Equipamiento/Actividades productivas/Infraestructura, no solo Residencial). Antejardin exento 100% solo para Residencial/Equipamiento/Act.productivas, Infraestructura mantiene 7/7/15m. Poligonos de aplicacion delimitados y transcritos."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "peralillo_6d88d27652",
+  "comuna": "peralillo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\peralillo_688_aprueba_plan_regulador_comunal_localidades_de_peralillo_y_poblacion__Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "PRC completo 1991 (Peralillo y Población): pág3-4 art.19 zonificación con usos permitidos/prohibidos y condiciones de subdivisión predial y edificación (superficie predial mín, frente predial mín, % ocupación suelo, coef. constructibilidad, sistema agrupamiento, antejardín) para zonas ZC, ZE, ZVb, ZVa, ZRa; pág4-5 zonas ZRb-ZRg son solo descriptivas de restricción sin cuadro de valores",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:59:49",
+  "fin": "2026-07-15T18:03:15",
+  "resultado": {
+    "archivo": "extraccion_normas\\peralillo\\peralillo_688_ordenanza_zonas.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "ZC",
+      "ZE",
+      "ZVb",
+      "ZVa",
+      "ZRa"
+    ],
+    "confianza": "ALTA",
+    "nota": "4 zonas urbanas (ZC,ZE,ZVb,ZVa) con cuadro completo art.19, MAS Zona ZRa (art.20, resguardo patrimonio) que tambien trae cuadro completo de valores en p4 -- nota_fase3 solo menciono ZRb-ZRg como descriptivas sin cuadro, pero ZRa si tiene cuadro y se incluyo. Resto de zonas restriccion (ZRb+) sin valores, excluidas. Verificado contra nota_fase3: coincide y amplia cobertura con ZRa."
+  }
+}

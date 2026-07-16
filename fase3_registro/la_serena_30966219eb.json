@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_30966219eb",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_16_ordenanza_sobre_derechos_municipales_por_permisos_y_servicios_ano_2026__doc_34_16_12112025071525.pdf",
+  "nombre": "la_serena_16_ordenanza_sobre_derechos_municipales_por_permisos_y_servicios_ano_2026__doc_34_16_12112025071525.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 35,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:20:05",
+  "fin": "2026-07-15T08:23:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza 16/2025: FIJASE EL TEXTO DE LA ORDENANZA SOBRE DERECHOS MUNICIPALES POR PERMISOS Y SERVICIOS VIGENTE PARA EL ANO 2026. Regula cobro y monto de derechos municipales por concesiones, permisos y servicios (liquidacion y pago en Tesoreria). Ordenanza de derechos/tarifas municipales, no PRC. Verificado visualmente pagina 1 de 35."
+  }
+}

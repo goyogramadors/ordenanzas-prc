@@ -1,0 +1,25 @@
+{
+  "id": "san_carlos_c6a4e1b97f",
+  "comuna": "san_carlos",
+  "ruta": "Ordenanzas ordenadas\\san_carlos_39577_plan_regulador_comunal_de_san_carlos_ordenanza_local__OrdenanzaDiarioOficial.pdf",
+  "nombre": "san_carlos_39577_plan_regulador_comunal_de_san_carlos_ordenanza_local__OrdenanzaDiarioOficial.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:18:38",
+  "fin": "2026-07-15T12:52:12",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        11
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DO 03-02-2010, 'Promulga Plan Regulador Comunal de San Carlos' — Ordenanza Local completa (11p). P1-5: Titulo I-III (disposiciones generales, limite urbano por coordenadas UTM, cuadros de vialidad estructurante) sin normas de zona. P6-7: Titulo IV Cap.I condiciones generales de edificacion (adosamiento, rasantes, antejardin, estacionamientos) y Cap.II usos de suelo generales. P8-11 (paginas DO 29-32): TITULO V zonificacion completa con tabla USOS DE SUELO + tabla EDIFICACION (superficie predial minima, coef ocupacion, coef constructibilidad, altura maxima, sistema agrupamiento, altura maxima continuidad, adosamiento, antejardin, densidad habitacional) para 13 zonas: ZHMC, ZH-1, ZH-2, ZH-3, ZE, ZED, ZES, ZP1, ZP2, ZEH-1, ZEH-2, ZET, ZPD. Documento de alta calidad y completo."
+  }
+}

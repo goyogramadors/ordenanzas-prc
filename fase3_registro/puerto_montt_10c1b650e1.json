@@ -1,0 +1,25 @@
+{
+  "id": "puerto_montt_10c1b650e1",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_124_apruebese_la_actualizacion_al_plan_regulador_comunal_de_puerto_montt_comuna___Exportar.pdf",
+  "nombre": "puerto_montt_124_apruebese_la_actualizacion_al_plan_regulador_comunal_de_puerto_montt_comuna___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 25,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:15:28",
+  "fin": "2026-07-14T21:19:28",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        6
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Texto consolidado LeyChile/BCN Res.124/2009 aprueba PRC Puerto Montt. Titulo VI Art.35-38 pag16-24 lista catalogo de zonas (C,CB,R1-R4,AP,ZEUC,BC,ZOIT,ZCH,RE,AV,L,AI,RI,IE) pero la tabla numerica por zona (COS,coef.constructibilidad,altura,densidad,agrupamiento,superficie predial) NO esta en el PDF: cada zona remite a 'VER DIARIO OFICIAL 12.11.2009 PAGINA X' (~15 veces, norma inalcanzable, verificado pdfimages -list sin tablas escaneadas ocultas, solo logo repetido). SI hay normas puntuales reales para usos especiales en pag5-6: Art.11 centros servicio automotor y Art.11.2 talleres/bodegas, con COS, superficie predial y agrupamiento -no es tabla por zona pero trae parametros normativos reales, se registra por generosidad."
+  }
+}

@@ -1,0 +1,414 @@
+[
+ {
+  "id": "d1049",
+  "comuna": "curico",
+  "nombre_documento": "solicito_mapa_del_nuevo_plan_regulador_en_tramitacion",
+  "ruta": "Ordenanzas ordenadas\\curico_solicito_mapa_del_nuevo_plan_regulador_en_tramitacion__1839.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Solicitud ciudadana de transparencia pidiendo un mapa del plan regulador en tramitacion; no es acto normativo",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1050",
+  "comuna": "dalcahue",
+  "nombre_documento": "decreto_alcaldicio_1748_ordena_publicacion_medio_comunicacional_local_plan_regul",
+  "ruta": "Ordenanzas ordenadas\\dalcahue_decreto_alcaldicio_1748_ordena_publicacion_medio_comunicacional_local_plan_regul__1748.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Decreto que solo ordena la publicacion en medio comunicacional local, paso de difusion, no aprueba normas",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0093",
+  "comuna": "diego_de_almagro",
+  "nombre_documento": "memoria_actualizacion_plan_regulador_comunal_diego_de_almagro_2017_incluido_todo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\diego_de_almagro_memoria_actualizacion_plan_regulador_comunal_diego_de_almagro_2017_incluido_todo__28e42979-3e93-4b15-b47a-370a7bac8ad3.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es un decreto que deniega una solicitud de acceso a información (Ley de Transparencia) sobre la Memoria de Actualización del PRC; el propio texto indica que esa actualización 'aun no se encuentra aprobada ni promulgada'. No aprueba ni contiene normas urbanísticas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0094",
+  "comuna": "donihue",
+  "nombre_documento": "consulta_publica_que_deben_someterse_los_procesos_de_elaboracion_de_planos_regul",
+  "ruta": "Ordenanzas Descargadas\\1-600\\donihue_consulta_publica_que_deben_someterse_los_procesos_de_elaboracion_de_planos_regul__1122019105756_LEY-21078_15-FEB-2018_(1).pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "agrupamiento": 10,
+   "normas_urbanisticas": 3,
+   "articulado": 42,
+   "limite_urbano": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "El contenido es el texto de la Ley 21.078 (transparencia del mercado del suelo), ley nacional de contexto para consultas publicas, no normas propias del PRC de Donihue",
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Ley 21078\r\n:15-02-2018\r\n:02-02-2018\r\n:MINISTERIO DE VIVIENDA Y URBANISMO\r\n:SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL\r\nAUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO\r\n:Única\r\nDe : 16-08-2018\r\n:16-08-2018\r\n:1115067\r\n:https://www.leychile.cl/N?i=1115067&f=2018-08-16&p=\r\n\r\nLEY NÚM. 21.078\r\nSOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR\r\nAMPLIACIÓN DEL LÍMITE URBANO\r\nTeniendo presente que el H. Congreso Nacional ha dado su aprobación al\r\nsiguiente\r\nProyecto de ley:\r\n\"Artículo primero.- Modifícase el decreto con fuerza de ley N° 458, de 1975,\r\ndel Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, de\r\nla siguiente forma:\r\n1. Modifícase el artículo 3 en el siguiente sentido:\r\na) Derógase su inciso cuarto, pasando los actuales incisos quinto y sexto a ser\r\ncuarto y quinto, respectivamente.\r\nb) Reemplázase en su inciso quinto, que pasa a ser cuarto, la frase \"y los\r\nReglamentos de Instalaciones Sanitarias de Agua Potable y Alcantarillado, y de\r\nPavimentación\" por la frase \"y las normas sobre pavimentación\".\r\nc) Reemplázanse en su inciso sexto, que pasa a ser quinto, las expresiones \"Los\r\ndecretos supremos mencionados en los dos últimos incisos precedentes, se dictarán\",\r\npor la frase \"El decreto "
+ },
+ {
+  "id": "d0095",
+  "comuna": "donihue",
+  "nombre_documento": "plan_regulador_comunal_planos_memoria_y_ordenanza",
+  "ruta": "Ordenanzas Descargadas\\1-600\\donihue_plan_regulador_comunal_planos_memoria_y_ordenanza__40792f6f-33cf-4f9d-8b48-b46259a49a77.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es un acuse de recibo de solicitud de transparencia pidiendo planos/memoria/ordenanza, no el documento mismo",
+  "texto_primeras_paginas": "Municipalidad de Doñihue\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU081T0000131\r\nFecha: 12/08/2015\r\n\r\nHora: 18:02:31\r\n\r\n1. Contenido de la Solicitud\r\nNombre y apellidos o\r\nrazón social:\r\n\r\nalejandra fuentes burotto\r\n\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\nalfuentes@minvu.cl\r\n- Sin especificar -, - Sin especificar -,\r\n\r\nNombre de apoderado\r\n(si corresponde):\r\nSolicitud realizada:\r\n\r\nplan regulador comunal, planos memoria y ordenanza\r\n\r\nObservaciones:\r\nArchivos adjuntos:\r\nMedio de envío o retiro\r\nde la información:\r\n\r\nCorreo electrónico\r\n\r\nFormato de entrega de\r\nla información:\r\n\r\nPDF\r\n\r\nSesión iniciada en\r\nPortal:\r\n\r\nSI\r\n\r\nVía de ingreso en el\r\norganismo:\r\n\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 de la Ley de Transparencia.\r\n\r\n2. Fecha de entrega vence el: 09/09/2015\r\nEl plazo máximo para responder una solicitud de información es de veinte (20) días hábiles. De acuerdo a su presentación la fecha\r\nmáxima de entrega de la respuesta es el día 09/09/2015. Se informa además que excepcionalmente el plazo referido podrá ser\r\npror"
+ },
+ {
+  "id": "d0096",
+  "comuna": "donihue",
+  "nombre_documento": "sn_plano_regulador_comunal_de_donihue_inicio_del_proceso_evaluacion_ambiental_es",
+  "ruta": "Ordenanzas Descargadas\\1-600\\donihue_sn_plano_regulador_comunal_de_donihue_inicio_del_proceso_evaluacion_ambiental_es__1258464.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Extracto de difusion del inicio del proceso de Evaluacion Ambiental Estrategica del PRC de Donihue, mero tramite",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 41.840\r\n\r\n|\r\n\r\nMartes 22 de Agosto de 2017\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1258464\r\n\r\nMUNICIPALIDAD DE DOÑIHUE\r\n\r\nPLAN REGULADOR COMUNAL DE DOÑIHUE, REGIÓN DE O’HIGGINS DIFUSIÓN DEL INICIO DEL PROCESO EVALUACIÓN AMBIENTAL\r\nESTRATÉGICA. EXTRACTO DEL INICIO DEL PROCEDIMIENTO\r\nÓRGANO RESPONSABLE:\r\nBernardo O’Higgins.\r\n\r\nMunicipalidad de Doñihue, Región del Libertador\r\n\r\nRESUMEN DE ANTECEDENTES:\r\nEl instrumento a ser evaluado ambientalmente corresponde al Plan Regulador Comunal\r\nde Doñihue. La necesidad de actualizar el Plan Regulador Comunal de Doñihue,\r\nlocalidades de Doñihue y Lo Miranda, radica que en la actualidad el territorio comunal\r\ncuenta con un plan regulador que data del año 1988 (29 años), desactualizado a la\r\ndinámica de crecimiento productivo, a la demanda habitacional y de equipamientos de\r\ncada localidad.\r\nLa ciudad de Doñihue, capital comunal, conectada por Ruta H 30 con Lo Miranda y\r\nRancagua, a una distancia de 25 km de Rancagua. Su contexto urbano - rural y su\r\ncercanía a Rancagua potencian la demanda habitacional tanto de Lo Miranda como de\r\nDoñihue.\r\nSu población comunal ha aumentado de 16.916 en el año 2002 a 20.318, según\r\nproyección INE 2015 aumentando su población en un 20% en "
+ },
+ {
+  "id": "d0097",
+  "comuna": "donihue",
+  "nombre_documento": "solicito_plano_regulador_comunal_situacion_actualizada_a_2020",
+  "ruta": "Ordenanzas Descargadas\\1-600\\donihue_solicito_plano_regulador_comunal_situacion_actualizada_a_2020__a3d2db38-b98d-4a7b-9d07-b7c2ea30739f.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio de respuesta a solicitud ciudadana que solo entrega enlaces a los PDF del PRC, no contiene el articulado",
+  "texto_primeras_paginas": "OF. ORD. N° ____778______/\r\nANT.: Solicitud MU081T0000820.\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nMAT.: Da respuesta.\r\n\r\n_________________________________\r\nDoñihue, 03/12/2020\r\n\r\nDE: SEÑOR RICARDO BORIS ACUÑA GONZALEZ.\r\nALCALDE DE LA I. MUNICIPALIDAD DE DOÑIHUE.\r\nA : SEÑOR(A)(ITA) RODRIGO SOTO CÉSPEDES.\r\n__________________________________________________________________\r\nJunto con saludar a Ud., vengo a informar en el marco de la Solicitud de Información\r\nCódigo MU081T0000820 de fecha 09/11/2020, y que en lo medular dice lo siguiente:\r\n“Solicito plano regulador comunal, situación actualizada a 2020.”\r\n1.En relación a lo solicitado, informo a usted que el Plan de Desarrollo Comunal vigente de la\r\ncomuna, se haya publicado en la Página de Transparencia de este Organismo, documento al que\r\nse puede acceder través de las siguientes direcciones:\r\nhttp://transparencia.mdonihue.cl/v3/upload/622014134148_Plan_Regulador_Comunal_Vigent\r\ne_Completo.pdf\r\nhttp://transparencia.mdonihue.cl/v3/upload/2552012101251_2452012173519_PRC_LO_MDA_\r\nVIGENTE.pdf\r\nhttp://transparencia.mdonihue.cl/v3/upload/2552012101207_2452012173313_PRC_DONIHUE_\r\nVIGENTE.pdf\r\n2.Se adjunta Memorándum Nº 278/2020 de fecha 30 de Noviembre del año en curso,\r\ndocumento mediante el cual, el Director de Obras de la I. Municipalidad de Doñihue complementa\r\nla respuesta a la Solicitud de Información MU081T0000820.\r\n3.Sin perjuicio a lo ant"
+ },
+ {
+  "id": "d0098",
+  "comuna": "donihue",
+  "nombre_documento": "solicitud_plan_regulador_comunal_vigente_para_usos_academicos",
+  "ruta": "Ordenanzas Descargadas\\1-600\\donihue_solicitud_plan_regulador_comunal_vigente_para_usos_academicos__415e56c4-0d24-44e0-95c6-c752f12c8927.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Acuse de recibo de solicitud de transparencia de una estudiante pidiendo el PRC vigente, no es el documento normativo",
+  "texto_primeras_paginas": "Municipalidad de Doñihue\r\n\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\nMU081T0002385\r\nFecha: 21/03/2024 Hora: 14:54:36\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\nPrimer Apellido\r\nSegundo Apellido\r\nTeléfono de contacto\r\nTipo de persona\r\nDirección postal y/o correo\r\nelectrónico\r\nCorreo electrónico\r\nnotificaciones\r\nNombre de Representante\r\nPrimer Apellido\r\nRepresentante\r\nSegundo Apellido\r\nRepresentante\r\nSolicitud realizada\r\nObservaciones\r\nArchivos adjuntos\r\nMedio de envío o retiro de la\r\ninformación\r\nDirección de envío de la\r\ninformación\r\nFormato de entrega de la\r\ninformación\r\nSesión iniciada en Portal\r\nVía de ingreso en el\r\norganismo\r\n\r\nFrancesca\r\nQuintana\r\nAlarcón\r\n954194805\r\nNatural\r\nfrancesca12.fq@gmail.com\r\nfrancesca12.fq@gmail.com\r\n\r\nSolicitud Plan Regulador Comunal Vigente, para usos académicos\r\nSoy estudiante de arquitectura y estoy haciendo un estudio urbano para la\r\nuniversidad, el único plan completo disponible en línea es el de 1988, quería solicitar\r\nel actual por favor\r\nCorreo electrónico\r\n,,,\r\nElectrónico/PDF\r\nNO\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 d"
+ },
+ {
+  "id": "d0101",
+  "comuna": "el_monte",
+  "nombre_documento": "decreto_alcaldicio_11_contratacion_directa_proveedor_erick_poblete_meza_arriendo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_monte_decreto_alcaldicio_11_contratacion_directa_proveedor_erick_poblete_meza_arriendo__a5c55dc5-55a2-485d-8768-ceb90b3f9108.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "Decreto de contratacion directa de un proveedor para arriendo, sin relacion alguna con el PRC",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0613",
+  "comuna": "el_quisco",
+  "nombre_documento": "43577_los_ordinarios_alcaldicios_que_contienen_las_respuestas_a_las_observacione",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_quisco_43577_los_ordinarios_alcaldicios_que_contienen_las_respuestas_a_las_observacione__PUBLICACION DIARIO OFICIAL.pdf_1688583989908.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Aviso de disponibilidad de respuestas a observaciones del proceso de consulta publica de la actualizacion del PRC, sin normas.",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 43.577\r\n\r\n|\r\n\r\nMiércoles 14 de Junio de 2023\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2329208\r\n\r\nMUNICIPALIDAD DE EL QUISCO\r\n\r\nLa Ilustre Municipalidad de El Quisco informa a la comunidad:\r\nLos ordinarios alcaldicios que contienen las respuestas a las observaciones\r\nrealizadas sin identificación y/o datos de contacto en el proceso de consulta pública de la\r\nActualización del Plan Regulador Comunal de El Quisco, el cual se llevó a cabo entre\r\n14.10.2022 y el 09.12.2022, estarán disponibles en la Oficina de Partes de la\r\nMunicipalidad de El Quisco, ubicada en avenida Francia N° 011, El Quisco, a contar del\r\n14.06.2023, en el siguiente horario: de lunes a viernes entre las 09:00 y las 14:00 horas.\r\nJOSÉ JOFRÉ BUSTOS\r\nAlcalde\r\n\r\nFelipe Andrés Peroti Díaz\r\nCVE 2329208 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl"
+ },
+ {
+  "id": "d0102",
+  "comuna": "el_quisco",
+  "nombre_documento": "cual_es_el_progreso_de_cambio_plano_regulador_de_el_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_cual_es_el_progreso_de_cambio_plano_regulador_de_el_quisco__343ed58e-c2ad-4290-be91-cf739c11c8f1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 36,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Respuesta de transparencia sobre el progreso del cambio de PRC; solo adjunta memorando informativo sobre licitacion del estudio, sin normas.",
+  "texto_primeras_paginas": "ORO . NQ 327/2018.Página 1 de 1\r\n\r\nMunicipalidad de El Quisco,\r\nChile\r\nUnidad de Transparencia\r\n\r\nA\r\n\r\n: Sr. Johnny Yenes.\r\n\r\nDE\r\n\r\n:Sra. María Eugenia Flores Cid .\r\n\r\n.ORD.\r\n\r\nw 327/2018\r\n\r\nANT.\r\n\r\nS.A.I. MU085T0001096\r\n\r\nMAT.\r\n\r\nRespuesta a lo solicitado .\r\n\r\nEL QUISCO,\r\n\r\nDiciembre OS de 2018 .\r\n\r\nEncargada de Transparencia Activa.\r\nEstimado junto con saludar y en base a su solicitud mencionada en el ANT., cumplo con informarle\r\nque se ha dado respuesta a su Solicitud de Acceso a la Información como sigue:\r\n1.\r\n\r\nSolicitud : Secretaria Comunal de Planificación (Secpla)\r\n\"Junto con saludar por medio del presente y en relación a la Solicitud de acceso a la\r\ninformación de fecha 29.11.2018 presentada por Ud., quien solicita lo siguiente:\r\nCuál es el progreso de cambio plano regulador de el Quisco.\"\r\n\r\n2.\r\n\r\nRespuesta:\r\nRespecto a la Información Solicitada se entrega a Ud.\r\n•\r\n\r\nMemorando W1175 de fecha 04.12 .2018 de Secretaria Comunal de Planificación .\r\n\r\n3.\r\n\r\nQue según su sol icitud, la documentación será entregado a través de Correo Electrónico\r\njbyenes@gmail.com\r\n\r\n4.\r\n\r\nEn caso que su solicitud de información no sea respondida, o su respuesta sea incompleta\r\no no corresponda a lo solicitado, en aquellos casos que la ley lo permite usted podrá\r\ninterponer un reclamo por denegación de información ante el Consejo para la\r\nTransparencia www.consejotransparencia.cl dentro del"
+ },
+ {
+  "id": "d0103",
+  "comuna": "el_quisco",
+  "nombre_documento": "informacion_de_cambio_plano_regulador_de_la_minicipalidad_del_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_informacion_de_cambio_plano_regulador_de_la_minicipalidad_del_quisco__28be9a5b-696f-4c9f-b6ec-af93caf5566e.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Respuesta de transparencia; adjunta convenio y decreto sobre la licitacion del estudio de modificacion del PRC, sin normas.",
+  "texto_primeras_paginas": "ORD. N2 199/2017.-\r\n\r\nPágina 1 de 1\r\nIlustre Municipalidad de El Quisco,\r\nChile\r\nUnidad de Transparéncia\r\n\r\nA\r\n\r\n: Sr. Johnny Yenes.\r\n\r\nDE\r\n\r\n: Sr. Osear Campos Burgos.\r\n\r\nORD .\r\n\r\nw 199/2017\r\n\r\nANT.\r\n\r\nS.A.I. MU085T000681\r\n\r\nMAT.\r\n\r\nRespuesta a lo solicitado\r\n\r\nEL QUISCO,\r\n\r\nOctubre 31 de 2017\r\n\r\nEncargado de Transparencia.\r\n\r\nEstimado junto con saludar y en base a su solicitud mencionada en el ANT., cumplo con informarle\r\nque se ha dado respuesta a su Solicitud de Acceso a la Información como sigue:\r\n1.\r\n\r\nSolicitud: Secretaria de Planificación (SECPLA)\r\n\"Junto con saludar por medio del presente y en relación a la Solicitud de Acceso a la\r\ninformación de fecha 20.10.2017 presentado por el Sr. Johnny Yenes. Quien solicita lo\r\nsiguiente:\r\nInformación de cambio plano regulador de la Municipalidad del Quisco.\"\r\n\r\n2.\r\n\r\nRespuesta: Secretaria de Planificación (SECPLA)\r\nRespecto a la Información Solicitada se entrega a Ud. Memorando N•810 de la Secretaria\r\nde Planificación y además se adjunta el D.A W3122 de fecha 30 Septiembre de 2016.\r\n\r\n3.\r\n\r\nQue según su solicitud, la documentación será enviado a través por correo electrónico\r\njbyenes@gmail.com\r\n\r\n4.\r\n\r\nEn caso que su solicitud de información no sea respondida, o su respuesta sea incompleta\r\no no corresponda él lo solicitado, en aquellos casos que la ley lo permite usted podrá\r\ninterponer un reclamo por denegación de información"
+ },
+ {
+  "id": "d0104",
+  "comuna": "el_quisco",
+  "nombre_documento": "informacion_del_cambio_de_plano_regulador",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_informacion_del_cambio_de_plano_regulador__f2141d2b-1950-4a77-aa4b-608c55f094a4.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 162,
+  "paginas_escaneadas": 38,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "162 paginas de respuesta de transparencia; verificado (pag. 60-120) que el grueso son bases de licitacion del estudio de modificacion del PRC, no la ordenanza.",
+  "texto_primeras_paginas": "ORO . NQ068/2019.Página 1 de 1\r\n\r\nMunicipalidad de El Quisco,\r\nChile\r\nUnidad de Transparencia\r\n\\!: ':' W.\\1 ({1\\ll\r\nIH 11 PI¡,( l )\r\nft .. l•!-Vfr\"<·r+·, t,._.l,..>¡\r\n\r\nA\r\n\r\n: Sr. Johnny Yenes .\r\n\r\nDE\r\n\r\n:Sra. María Eugenia Flores Cid .\r\n\r\n.ORD.\r\n\r\nw 068/2019\r\n\r\nANT.\r\n\r\nS.A.I. MU085T0001174\r\n\r\nMAT.\r\n\r\nRespuesta a lo solicitado .\r\n\r\nEL QUISCO,\r\n\r\nMarzo 20 de 2019.\r\n\r\nEncargada de Transp<Jrencia Activa .\r\nEstimado junto con saludar y en base a su solicitud mencionada en el ANT., cumplo con informarle\r\nque se ha dado respuesta a su Solicitud de Acceso a la Información como sigue:\r\n1.\r\n\r\nSolicitud : Secretaria Comunal de Planificación(Secpla)\r\n\"Junto con saludar por medio del presente y en relación a la Solicitud de acceso a la\r\ninformación de fecha 13.03 .2019 presentado por Ud., quien solicita lo siguiente:\r\nInformación del cambio de plano regulador.\"\r\n\r\n2.\r\n\r\nRespuesta:\r\nRespecto a la Información Solicitada se entrega a Ud.\r\n•\r\n\r\nMemorando W415 de fecha 19.03 .2019 de Secretaria Comunal de Planificación.\r\n\r\n3.\r\n\r\nQue según su solicitud, la documentación será entregado a través de Correo Electrónico\r\nmartingonza lolO @gmail.com\r\n\r\n4.\r\n\r\nEn caso que su solicitud de información no sea respondida, o su respuesta sea incompleta\r\no no corresponda a lo solicitado, en aquellos casos que la ley lo permite usted podrá\r\ninterponer un reclamo por denegación de información ante el Consejo pa"
+ },
+ {
+  "id": "d0105",
+  "comuna": "el_quisco",
+  "nombre_documento": "plano_regulador",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_plano_regulador__96571321-276d-4946-a33f-1f9b8d55fbd8.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 48,
+  "paginas_escaneadas": 16,
+  "senales_normativas": {
+   "articulado": 41
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "Pese al nombre 'plano_regulador', el contenido integro (verificado en varias paginas) es la Ordenanza Municipal de Participacion Ciudadana, ajena a normas urbanisticas.",
+  "texto_primeras_paginas": "1 1UNJCirAUOAfl\r\n1)[ l'L QUISCO\r\n\r\n1¡. '\r\n\r\nORDENANZA No\r\n\r\n001\r\n\r\nMAT.: Desígnese No 001\r\nOrdenanza municipal sobre Participación Ciudadana\r\nMunicipalidad de El Quisco, aprobada por D.A. No\r\n1712 de fecha 16.08.2011.\r\nEl Quisco,\r\n\r\n2 OJUN 2019\r\n\r\nVistos:\r\n1.\r\n\r\nD.A. W3.851 de 06.12.2016, rectificado por D.A. N°3.920 de 14.12.2016 mediante el\r\ncual asume funciones como alcaldesa titular de la Municipalidad de El Quisco la Sra.\r\nNatalia Carrasco Pizarra y en virtud de las facultades que le confiere la Ley N°18.695\r\nOrgánica Constitucional de Municipalidades y sus modificaciones posteriores;\r\n\r\n/ 2.\r\n\r\nD.E. W 852, de fecha 14.02.2019, que designa subrogancia en ausencia de la Sra.\r\nAlcaldesa;\r\n\r\n3. La resolución Na 1600 de 2008 de Contraloría General de la República, que fUa\r\nnormas de exención del trámite de Toma de Razón;\r\n4.\r\n\r\nLo dispuesto en el artículo 12°, de la Ley W 18.695, Orgánica Constitucional de\r\nMunicipalidades;\r\n\r\nS.\r\n\r\nLo señalado en la Ley W20.500, sobre Asociación y participación Ciudadana en la\r\nGestión Pública, del Ministerio Secretaría General de Gobierno, publicada en el Diario\r\nOficial de fecha 16 de febrero de 2011;\r\n\r\n6. Acuerdo N°131, adoptado por el H. Concejo Municipal, en sesión ordinaria de fecha\r\n16 de agosto de 2011.\r\n\r\n1 7.\r\n\r\nD.A N°1712 de fecha 16.08.2011, Aprueba Ordenanza Municipal sobre Participación\r\nCiudadana Municipalidad de El Quisco.\r\n\r"
+ },
+ {
+  "id": "d0106",
+  "comuna": "el_quisco",
+  "nombre_documento": "planos_reguladores_planos_sectorial_predial_topografico_hidrograficoloteo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_planos_reguladores_planos_sectorial_predial_topografico_hidrograficoloteo__4d49b237-1d52-4fd4-9a84-75714358769e.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Respuesta de transparencia; el municipio pidio precisar la solicitud amplia y no consta que se haya adjuntado documentacion normativa.",
+  "texto_primeras_paginas": "ORD. N9 108/2019.-\r\n\r\nPágina 1 de 1\r\nMunicipalidad de El Quisco,\r\nChile\r\nUnidad de Transparencia\r\n'. 1! '!1 H'\\1 10\\ U\r\njl¡\r\n\r\nll t,tll\\( o\r\n\r\n~, .. l,, ._ .. 1\"\"'' ' \"'' l (l,+ l i>\"'.;,\r\n\r\nA\r\n\r\n: Sra. Bárbara Campos.\r\n\r\nDE\r\n\r\n: Sra. María Eugenia Flores Cid .\r\n\r\n.ORO.\r\n\r\nw 108/2019\r\n\r\nANT.\r\n\r\nS.A.I. MU085T0001195\r\n\r\nMAT.\r\n\r\nRespuesta a lo solicitado .\r\n\r\nEL QUISCO,\r\n\r\nMayo 13 de 2019.\r\n\r\nEncargada de Transparencia Activa.\r\nEstimada ju nto con saludar y en base a su solicitud mencionada en el ANT., cumplo con informarle\r\nque se ha dado respuesta a su Solicitud de Acceso a la Información como sigue :\r\n1.\r\n\r\nSolicitud: Secretaria Comunal de Planificación\r\n\"Junto con saludar por medio del presente y en relación a la Solicitud de acceso a la\r\ninformación de fecha ::!..1.04.2019 presentado por Ud., quien solicita lo siguiente:\r\nPlanos Reguladores, Planos Sectorial, Predial, Topográfico, Hidrográfico, Loteo .\"\r\n\r\n2.\r\n\r\nRespuesta:\r\nRespecto a la Información Solicitada se entrega a Ud.\r\n•\r\n\r\n3.\r\n\r\nMemorando W656 de fecha 13.05.2019 de Secretaria Comunal de Planificación .\r\n\r\nQue según su solicitud, la documentación será entregado a través de Correo Electrónico\r\nbarbara.campos@alum nos.ucentral .cl\r\n\r\nMEFC/miam\r\n• ;,\r\n\r\nDistribución\r\n\r\nDestinatario/ Archivo Interno\r\n\r\n\fO RO. N2 108/2019 ·\r\n\r\nPágina 2 de 1\r\nMunicipalidad de El Quisco,\r\nChile\r\nUnidad de Transparencia\r\n\r\n\\111:\\lt ll't\\ UO"
+ },
+ {
+  "id": "d0107",
+  "comuna": "el_quisco",
+  "nombre_documento": "solicito_plano_regulador_de_la_comuna_de_el_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_solicito_plano_regulador_de_la_comuna_de_el_quisco__54347734-aa9b-43a8-9020-aa588d5f7486.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Solicitud ciudadana de transparencia; la carta de 3 paginas solo lista documentos enviados por correo electronico, no incluye su texto.",
+  "texto_primeras_paginas": "Página 1 de 1\r\nMunicipalidad de El Quisco,\r\nChile\r\nUnidad de Transparencia\r\n\r\nOrdinario N° 426/2022\r\nEl Quisco, 26/10/2022\r\n\r\nDE\r\n\r\n: Sr. Julio Andrés Escobar Cisternas.\r\nUnidad de Transparencia.\r\n\r\nA\r\n\r\n: Sr. Francisco Quinteros.\r\n\r\nANT.\r\n\r\nS.A.I. MU085T0002364.\r\n\r\nMAT.\r\n\r\nRespuesta a lo solicitado.\r\n\r\nEstimado junto con saludar y en base a su solicitud mencionada en el ANT., cumplo con\r\ninformarle que se ha dado respuesta a su Solicitud de Acceso a la Información como sigue:\r\n1.\r\n\r\nSolicitud:\r\n“Junto con saludar por medio del presente y en relación con la Solicitud de acceso a la\r\n\r\ninformación de fecha 26.10.2022 presentado por Ud., quien solicita lo siguiente:\r\nSolicito plano regulador de la comuna de El quisco.”\r\n2.\r\n\r\nRespuesta:\r\nRespecto a la Información Solicitada se entrega a Ud.\r\n\r\n\r\n\r\n\r\n\r\n3.\r\n\r\nPlano Regulador Comunal del 1994.\r\nOrdenanza Plan Seccional de Isla Negra.\r\nOrdenanza Local Plan Regulador El Quisco.\r\nPlano Seccional.\r\n\r\nQue, según su solicitud, la documentación será entregado a través de Correo Electrónico\r\nfrancisco.quinteros@grupozener.es.\r\n\r\nJEC/miam\r\n\r\n\r\n\r\nOrdinario\r\nN° 426/2022\r\n\r\nDistribución.\r\nDestinatario/Archivo Interno\r\n\r\n\fPágina 2 de 1\r\nMunicipalidad de El Quisco,\r\nChile\r\nUnidad de Transparencia\r\n\r\n4.\r\n\r\nEn caso que su solicitud de información no sea respondida, o su respuesta sea incompleta\r\no no corresponda a lo solicitado, en aquellos c"
+ },
+ {
+  "id": "d0108",
+  "comuna": "el_tabo",
+  "nombre_documento": "44302_aviso_debido_un_error_involuntario_se_corregi_certificado_de_informaciones",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_tabo_44302_aviso_debido_un_error_involuntario_se_corregi_certificado_de_informaciones__18.11.2025.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "zonificacion": 1
+  },
+  "codigos_zona": [
+   "ZE2"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "Corrige un Certificado de Informaciones Previas de un predio especifico; documento de un tramite puntual, no la ordenanza del PRC.",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.302\r\n\r\n|\r\n\r\nMartes 18 de Noviembre de 2025\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2727014\r\n\r\nMUNICIPALIDAD DE EL TABO\r\n\r\nMunicipalidad de El Tabo\r\nAVISO\r\nSe informa que debido a un error involuntario se corrige Certificado de\r\nInformaciones Previas (CIP) Nº 116 de fecha 12.03.2025, por el CIP Nº 326 de fecha\r\n15.07.2025, asociado al Rol 680-483, al cual le corresponde zonificación ZE2 (Zona\r\nespecial 2), según Plano Regulador Vigente.\r\nPara mayores detalles en página web municipal, Plan Regulador Comunal (PRC) y/o\r\nen Oficina DOM.\r\nSin otro particular, le saluda atentamente,\r\nDIRECCIÓN DE OBRAS (DOM)\r\nI. Municipalidad de El Tabo\r\n\r\nFelipe Andrés Peroti Díaz\r\nCVE 2727014 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl"
+ },
+ {
+  "id": "d0615",
+  "comuna": "estacion_central",
+  "nombre_documento": "44201_aprobacion_actualizacion_plan_regulador_comunal_de_estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_44201_aprobacion_actualizacion_plan_regulador_comunal_de_estacion_central__Informa aprobación de Actualización del Plan Regulador Comunal.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Aviso en Diario Oficial que informa la entrada en vigencia del PRC actualizado y remite a la pagina web municipal; no contiene el texto de la ordenanza.",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.201\r\n\r\n|\r\n\r\nViernes 18 de Julio de 2025\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2673487\r\n\r\nMUNICIPALIDAD DE ESTACIÓN CENTRAL\r\n\r\nMunicipalidad de Estación Central\r\nAPROBACIÓN ACTUALIZACIÓN\r\nPLAN REGULADOR COMUNAL DE ESTACIÓN CENTRAL\r\nDe acuerdo a lo establecido en el artículo 28 septies de la Ley General de Urbanismo\r\ny Construcciones y lo indicado en el ordinario N° 1864, de 14 julio de 2025, de la\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo de la Región Metropolitana, el\r\ncual emite el Informe Técnico Favorable sobre los antecedentes administrativos y\r\ntécnicos que conforman la Actualización del Plan Regulador Comunal de Estación\r\nCentral, promulgado mediante decreto alcaldicio N° 709, de fecha 15 de julio de 2025, se\r\ninforma que la Ordenanza Local, Memoria Explicativa, los planos, el Estudio de\r\nFactibilidad Sanitaria, los estudios complementarios del referido plan, el Informe\r\nAmbiental y el decreto N° 1.357, de fecha 9 de diciembre de 2024, que pone término de\r\nla evaluación ambiental estratégica, junto con un resumen ejecutivo, han sido publicados\r\ncon\r\nfecha\r\n15\r\nde\r\njulio\r\n2025,\r\nen\r\nla\r\npágina\r\nweb\r\nmunicipal:\r\nhttps://www.municipalidaddeestacioncentral.cl, entrando en vigencia PRC Estación\r\nCentral, en"
+ },
+ {
+  "id": "d0617",
+  "comuna": "estacion_central",
+  "nombre_documento": "91249ff4d291909bb640c5cb62766ea4",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_91249ff4d291909bb640c5cb62766ea4.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 8
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Decreto 710 que solo aclara antecedentes tecnicos de planimetria del decreto 709; no agrega normas nuevas.",
+  "texto_primeras_paginas": "DECRETO ALCALDICIO Nº: 00710/2025\r\n\r\nEN ESTACIÓN CENTRAL, 15 DE JULIO DE 2025\r\nMATERIA: Aclara antecedentes técnicos contenidos en\r\nplanimetría del Proyecto de Actualización del Plan Regulador\r\nComunal de Estación Central.\r\nVISTO:\r\nLas facultades que conﬁere al alcalde la Ley N.º 18.695, Orgánica Constitucional de\r\nMunicipalidades, en especial su artículo 63, letra i); la Ley N.º 18.575, Orgánica Constitucional de\r\nBases Generales de la Administración del Estado; la Ley N.º 19.880, que Establece Bases de los\r\nProcedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del\r\nEstado; la Ley General de Urbanismo y Construcciones y su Ordenanza General; el Decreto\r\nAlcaldicio N.º 00709/2025, de fecha 15 de julio de 2025, que promulga la Actualización del Plan\r\nRegulador Comunal de Estación Central; y el Memorándum N.º ADMUN-01488/2025, de la\r\nAdministración Municipal, de igual fecha.\r\nCONSIDERANDO:\r\n1. Que, mediante Oﬁcio Ord. SEREMI N.º 1864, de fecha 14 de julio de 2025, la Secretaría\r\nRegional Ministerial Metropolitana de Vivienda y Urbanismo emitió informe técnico favorable\r\nrespecto del Proyecto de Actualización del Plan Regulador Comunal de Estación Central,\r\nconforme al artículo 43 de la Ley General de Urbanismo y Construcciones y al artículo\r\n2.1.11. de su Ordenanza General.\r\n2. Que, en virtud de dicho pronunciamiento técnico favorable, se dictó el"
+ },
+ {
+  "id": "d0110",
+  "comuna": "estacion_central",
+  "nombre_documento": "acuerdo_86_aprueba_compromiso_de_aporte_para_el_estudio_del_plan_regulador_comun",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_acuerdo_86_aprueba_compromiso_de_aporte_para_el_estudio_del_plan_regulador_comun__acuerdo_86.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Acuerdo que aprueba un aporte de financiamiento para el ESTUDIO del PRC; etapa preparatoria sin normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0111",
+  "comuna": "estacion_central",
+  "nombre_documento": "acuerdo_98_aprueba_presidencia_de_la_comision_plano_regulador",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_acuerdo_98_aprueba_presidencia_de_la_comision_plano_regulador__acuerdo_98.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Acuerdo que designa la presidencia de la comision municipal de plano regulador; acto administrativo interno (confirmado por el texto del decreto 708 del mismo lote).",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0618",
+  "comuna": "estacion_central",
+  "nombre_documento": "d08b32958cfdf3ae644e73323d6134eb",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_d08b32958cfdf3ae644e73323d6134eb.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 19
+  },
+  "codigos_zona": [
+   "Z-01"
+  ],
+  "puntaje_normativo": 3,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio de la SEREMI MINVU con informe tecnico favorable; es un listado del expediente administrativo del proceso, no incluye el texto de la Ordenanza Local.",
+  "texto_primeras_paginas": "OFICIO ELECTRÓNICO\r\n\r\nORD. N° : 1864\r\nANT.\r\n: 1- Oficio N° SECPLA -01685/2024 de\r\nfecha 09.12.2024 de Alcalde de la\r\ncomuna de Estación Central, que remite\r\nproyecto aprobado de Plan Regulador\r\nComunal de Estación Central. 2- Oficio N°\r\n394 de fecha 07.02.2025 de SEREMI\r\nMINVU RM, que acusa recibo y solicita\r\ndocumentos faltantes del proyecto Plan\r\nRegulador Comunal de Estación Central.\r\n3- Oficio N° ADMUN-00587/2025 de\r\nfecha 14.03.2025 de Alcalde de la\r\ncomuna de Estación Central, que remite\r\nDocumentos solicitados del expediente\r\nadministrativo del proyecto de Plan\r\nRegulador Comunal Estación Central. 4Oficio N° 1388 de fecha 26.05.2025 de\r\nSEREMI MINVU RM, Acusa recibo de\r\nantecedentes e inicia revisión oficial del\r\nexpediente y emite observaciones del\r\nproyecto Plan Regulador Comunal de\r\nEstación Central. 5- Oficio N° ADMUN01494/2025 de fecha 13.06.2025 de\r\nAlcalde de la comuna de Estación Central,\r\nque remite expediente técnico corregido\r\ndel proyecto Plan Regulador Comunal de\r\nEstación Central.\r\nMAT.\r\n\r\n: (DDUI) (EPL) (CST) ESTACIÓN CENTRAL\r\nArt. 43° LGUC y Art. 2.1.11. OGUC.\r\nEmite Informe Técnico Favorable al\r\nProyecto Actualización Plan Regulador\r\nComunal de Estación Central. Ingreso\r\nN°0102803 de fecha 10.12.2024 /\r\nIngreso N°0100541 de fecha 17.03.2025\r\n/\r\nIngreso\r\nN°0101290\r\nde\r\nfecha\r\n19.06.2025\r\n\r\nADJ.\r\n\r\n: Un\r\nejemplar\r\noriginal\r\nde\r\nlos\r\ndocumentos técnicos ind"
+ },
+ {
+  "id": "d1054",
+  "comuna": "estacion_central",
+  "nombre_documento": "decreto_alcaldicio_41_apruebase_la_actualizacion_del_plan_regulador_comunal_de_s",
+  "ruta": "Ordenanzas ordenadas\\estacion_central_decreto_alcaldicio_41_apruebase_la_actualizacion_del_plan_regulador_comunal_de_s__Decreto_41.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "El nombre del archivo menciona 'plan regulador comunal' pero el contenido real del decreto es la aprobación de un Plan Comunal de Seguridad Pública (prevención del delito), sin relación alguna con normas urbanísticas del PRC.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1055",
+  "comuna": "estacion_central",
+  "nombre_documento": "decreto_alcaldicio_526_aprueba_las_proposiciones_que_contiene_el_anteproyecto_de",
+  "ruta": "Ordenanzas ordenadas\\estacion_central_decreto_alcaldicio_526_aprueba_las_proposiciones_que_contiene_el_anteproyecto_de__Decreto_526.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Decreto 526/2024 que aprueba las propuestas del ANTEPROYECTO del PRC; confirmado como paso preliminar del proceso por el oficio SEREMI (d0618) del mismo lote.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0112",
+  "comuna": "estacion_central",
+  "nombre_documento": "decreto_alcaldicio_603_promulguese_el_acuerdo_n56_del_concejo_municipal_el_cual",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_decreto_alcaldicio_603_promulguese_el_acuerdo_n56_del_concejo_municipal_el_cual___Decreto_603.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "El decreto promulga el Acuerdo N.56 del Concejo y aprueba el 'Resumen ejecutivo y planos de propuesta de IMAGEN OBJETIVO' del PRC conforme al articulo 28 octies de la LGUC, que es una etapa participativa preliminar en la elaboracion de un nuevo PRC, no la aprobacion final de normas urbanisticas (no fija coeficientes, alturas ni zonas normativas).",
+  "texto_primeras_paginas": ""
+ }
+]

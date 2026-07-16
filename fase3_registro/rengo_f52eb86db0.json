@@ -1,0 +1,25 @@
+{
+  "id": "rengo_f52eb86db0",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_557_md_modificacion_n5_plan_regulador_comunal_varios_temas__DIARIO OFICIAL 10 05 2017-MODIFICACION Nº5PRC-RENGO.pdf",
+  "nombre": "rengo_557_md_modificacion_n5_plan_regulador_comunal_varios_temas__DIARIO OFICIAL 10 05 2017-MODIFICACION Nº5PRC-RENGO.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:26:20",
+  "fin": "2026-07-14T21:28:38",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        6
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion N5 PRC Rengo 'varios temas', 10 temas modificados. Pag2-3 tablas con imagen son solo vialidad estructurante (excluidas). Pag2 Tema1: agrega usos Culto/Cultura en ZE,ZE2,ZE4,ZE6,ZE10 (texto). Pag3-4 Tema4 Art.34 ZC1: usos permitidos/condicionados/prohibidos completos. Pag4-5 Tema8: crea zona ZE11 (Art.59 Bis A) tabla completa: superficie predial min 2.34, coef.constructibilidad 0.78, agrupamiento Continuo/Pareado/Aislado, altura max 12.6m, distanciamiento/antejardin segun OGUC. Pag5 Tema10: superficie predial min ZH7=160m2. Pag6 Tema14: superficie predial min ZH9=200m2, ZH10=300m2."
+  }
+}

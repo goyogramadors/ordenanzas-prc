@@ -1,0 +1,37 @@
+{
+  "id": "valparaiso_3f525da144",
+  "comuna": "valparaiso",
+  "ruta": "Ordenanzas ordenadas\\valparaiso_418_aprueba_modificacion_plan_regulador_comunal_declaratoria_de_zonas_de_conserv__do-20100421.pdf",
+  "nombre": "valparaiso_418_aprueba_modificacion_plan_regulador_comunal_declaratoria_de_zonas_de_conserv__do-20100421.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 56,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T13:00:03",
+  "fin": "2026-07-15T13:08:44",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        17,
+        20
+      ],
+      [
+        25,
+        25
+      ],
+      [
+        28,
+        28
+      ],
+      [
+        30,
+        30
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto Alcaldicio 418/2010 (DO 21-04-2010): aprueba modificación PRC Valparaíso Sector Playa Ancha Fase 2 (declara Zonas de Conservación Historica ZCHI/ZCHP/ZCHA) y ademas publica el texto completo de la Ordenanza Local Refundida del PRC (todas las zonas de la comuna, 56p). P17-19: normas completas de ZM (Zona de la Meseta), SZPP/SZPF (Sub Zonas Pendiente), ZCU, ZEE — superficie predial 160-25000 m2, ocupacion 20-100%, densidad hasta 1600 hab/ha, coef. constructibilidad hasta 3, agrupamiento, alturas 3-7 pisos. P20: modifica alturas de Zona ZOHI/ZOHFP (5-7 pisos) y Zona C1 (11.90m). P25: Cuadro de Alturas Maximas por Areas V-1 a V-14 (21-36m, rasantes 20-50°). P28: Zona B1 (altura 21m) y Zona C1 (predial 300m2, ocupacion 75%). P30: las zonas ZCH propiamente dichas — ZCHI (predial 480m2, frente 15m, ocupacion 100%, altura continuidad 11.90m), ZCHP, ZCHA (retranqueos, alturas segun art.16, distanciamiento 3m). Excluidas: p16 (coordenadas limite urbano), p20(inf)-24 y 37-38 (listados de fichas de inmuebles ICH sin parametros + descripcion de limites poligonales de zona por calles, ambos sin valores de edificacion), p35-37 (vialidad estructurante, no cuenta como norma de zona)."
+  }
+}

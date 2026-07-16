@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_168ff95a90",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_1301_enmienda_al_plan_regulador_comunal_zona_esp_2_terreno_hospital_de_la_florid__Exportar.pdf",
+  "nombre": "la_florida_1301_enmienda_al_plan_regulador_comunal_zona_esp_2_terreno_hospital_de_la_florid__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:43:20",
+  "fin": "2026-07-14T15:47:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 1301/2010, enmienda ZONA ESP-2 (Terreno Hospital de La Florida). p3: norma en PROSA (no cuadro), reemplaza en la tabla de Condiciones de Edificacion del numeral 3.2 los parametros de ZONA ESP-2 -> Coeficiente de Constructibilidad 3,29 y Altura Maxima 18,14 m. Tambien renombra la zona. Solo esos 2 parametros; el cuadro completo de la zona no esta aqui."
+  }
+}

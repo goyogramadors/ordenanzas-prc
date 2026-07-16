@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_99c5d6bd65",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curacautin__ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_munic__Ordenanza General de Derechos 2022.pdf",
+  "nombre": "curacautin__ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_munic__Ordenanza General de Derechos 2022.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 29,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:36:29",
+  "fin": "2026-07-14T15:39:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza de DERECHOS MUNICIPALES de Curacautin (aranceles en UTM y % del presupuesto). Su Titulo XII 'materias relativas a urbanizaciones y construcciones' (p25, art.167) fija solo TARIFAS de tramites DOM (subdivisiones 2% del avaluo, obras nuevas 1,5% del presupuesto) segun art.130 LGUC: NO son normas urbanisticas de zona. Ajena al PRC."
+  }
+}

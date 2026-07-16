@@ -1,0 +1,25 @@
+{
+  "id": "chillan_viejo_e563089c9c",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_viejo_174_promulga_actualizacion_del_plan_regulador_intercomunal_de_chillan_y_chillan___2452079.pdf",
+  "nombre": "chillan_viejo_174_promulga_actualizacion_del_plan_regulador_intercomunal_de_chillan_y_chillan___2452079.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:30:50",
+  "fin": "2026-07-14T15:32:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        31
+      ]
+    ],
+    "paginas_utiles": 28,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA MIXTO CONFIRMADA. Actualizacion PLAN REGULADOR INTERCOMUNAL Chillan-Chillan Viejo (PRICH), publicado en Diario Oficial 14-02-2024. Delator textual: 'Las normas urbanisticas que se deberan cumplir en esta zona son las siguientes:' seguido de NADA - todas las tablas son IMAGEN. Verificado visualmente p8 (ZAP3/ZAP4: predial 5.000m2, COS 0,5, CC 1, distanciamiento 8m, aislado, altura 30m, antejardin 10m, adosamiento prohibido). Zonas: ZAP1-4 (actividades productivas), ZIS1-2, ZIT1-3 (infraestructura), ZEU1-3 (extension urbana). p4-13 zonas principales; p22-27 usos y densidad; p28-30 ARTICULOS TRANSITORIOS con normas supletorias por zona (ZEU-1/2/3, ZAP-2/4) + incentivo densidad 200 hab/ha para ZEU2/ZEU3. p31 cierra con promulgacion y Contraloria. OJO: es INTERCOMUNAL (aplica a Chillan y Chillan Viejo)."
+  }
+}

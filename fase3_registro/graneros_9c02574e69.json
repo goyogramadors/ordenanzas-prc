@@ -1,0 +1,20 @@
+{
+  "id": "graneros_9c02574e69",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_alcaldicio_172_dispongase_inicio_al_procedimiento_de_enmienda_no1_al_pla__1ed85ad7-0f70-4956-bdc3-dd2d4ea5215f.pdf",
+  "nombre": "graneros_decreto_alcaldicio_172_dispongase_inicio_al_procedimiento_de_enmienda_no1_al_pla__1ed85ad7-0f70-4956-bdc3-dd2d4ea5215f.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:16:18",
+  "fin": "2026-07-15T08:22:01",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 172/2024 (11-mar-2024): DISPONGASE inicio al procedimiento de Enmienda N1 al PRC de Graneros, que modifica antejardin en calle Gabriela Mistral de 5.0mts a 3.0mts (Jardin Infantil Nuevo Amanecer). Es el decreto que INICIA el tramite (sin cuadro de normas); el resultado final con cuadro completo quedo en graneros_4b7251a8ac (Decreto 494)."
+  }
+}

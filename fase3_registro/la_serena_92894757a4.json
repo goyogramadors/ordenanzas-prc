@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_92894757a4",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_14_ordenanza_sobre_instalacion_y_tendido_de_lineas_de_distribucion_de_energia_el__doc_34_14_16052025083355.pdf",
+  "nombre": "la_serena_14_ordenanza_sobre_instalacion_y_tendido_de_lineas_de_distribucion_de_energia_el__doc_34_14_16052025083355.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:24:20",
+  "fin": "2026-07-15T08:25:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza N.14/2025 sobre INSTALACION Y TENDIDO DE LINEAS DE DISTRIBUCION DE ENERGIA ELECTRICA, TELECOMUNICACIONES en bien nacional de uso publico de La Serena (definiciones tecnicas: acometida, armario, etc.). Ajena al PRC (regula infraestructura de servicios, no zonificacion)."
+  }
+}

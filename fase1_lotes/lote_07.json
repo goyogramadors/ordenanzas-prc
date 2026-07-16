@@ -1,0 +1,734 @@
+[
+ {
+  "id": "d0048",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "informe_a_esta_camara_sobre_el_plan_regulador_comunal_especificando_su_antigueda",
+  "archivo": "chillan_viejo_informe_a_esta_camara_sobre_el_plan_regulador_comunal_especificando_su_antigueda__c37074b9-ccdd-4df8-b664-db346d2d3008.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Chillán Viejo\r\n\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\nMU043T0001771\r\nFecha: 16/10/2023 Hora: 18:15:59\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\nPrimer Apellido\r\nSegundo Apellido\r\nTeléfono de contacto\r\nTipo de persona\r\nDirección postal y/o correo\r\nelectrónico\r\nCorreo electrónico\r\nnotificaciones\r\nNombre de Representante\r\nPrimer Apellido\r\nRepresentante\r\nSegundo Apellido\r\nRepresentante\r\nSolicitud realizada\r\nObservaciones\r\nArchivos adjuntos\r\nMedio de envío o retiro de la\r\ninformación\r\nDirección de envío de la\r\ninformación\r\nFormato de entrega de la\r\ninformación\r\nSesión iniciada en Portal\r\nVía de ingreso en el\r\norganismo\r\n\r\nFelipe\r\nCamaño\r\nCárdenas\r\nNatural\r\nofiscalizacion@congreso.cl\r\nofiscalizacion@congreso.cl\r\n\r\nInforme a esta Cámara sobre el plan regulador comunal, especificando su antigüedad\r\ny las modificaciones que ha recibido.\r\nOFICIO N° 53219 Cámara de Diputados\r\nCorreo electrónico\r\n,,,\r\nElectrónico/PDF\r\nNO\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 de la Ley de Transparencia.\r\n\r\n2. Fecha de entrega vence el: 15/11/2023\r\nEl plazo máximo para responder una solicitud de información es de veinte (20) días hábiles. De acuerdo a su presentación l"
+ },
+ {
+  "id": "d0049",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "necesito_el_plan_regulador_vigente_de_chillan_viejo",
+  "archivo": "chillan_viejo_necesito_el_plan_regulador_vigente_de_chillan_viejo__43696376-35ec-4ec1-8fc4-0cfe3d76c19e.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Chillán Viejo\r\n\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\nMU043T0001762\r\nFecha: 05/10/2023 Hora: 16:45:35\r\n\r\n1. Contenido de la Solicitud\r\nRazón social\r\nTipo de persona\r\nRut razón social\r\nTeléfono de contacto\r\nDirección postal y/o correo\r\nelectrónico:\r\nCorreo electrónico\r\nnotificaciones\r\nNombre de Representante\r\nPrimer Apellido\r\nRepresentante\r\nSegundo Apellido\r\nRepresentante\r\nSolicitud realizada\r\nObservaciones\r\n\r\nArchivos adjuntos\r\nMedio de envío o retiro de la\r\ninformación\r\nDirección de envío de la\r\ninformación\r\nFormato de entrega de la\r\ninformación\r\nSesión iniciada en Portal\r\nVía de ingreso en el\r\norganismo\r\n\r\nUrban Group SPA\r\nJurídica\r\n76192802-3\r\n966785614\r\npatriciovidela@urbangroup.cl\r\npatriciovidela@urbangroup.cl\r\n\r\nNecesito el plan regulador vigente de Chillan viejo\r\n1 Plano de Zonas de edificación\r\n2 Plano de Zonas de Usos de Suelo\r\n3 Normativa vigente.\r\n4 Planchetas o planos de los lotes\r\nCorreo electrónico\r\n,,,\r\nElectrónico/PDF\r\nNO\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 de la Ley de Transparencia.\r\n\r\n2. Fecha de entrega vence el:07/11/2023\r\nEl plazo máximo para responder una solicitud de información es de veinte (20) días hábiles. D"
+ },
+ {
+  "id": "d0050",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "plano_regulador_chillan_viejo",
+  "archivo": "chillan_viejo_plano_regulador_chillan_viejo__95fd11c1-e117-4bb1-bcd2-f8f481b42254.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0051",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "requiero_la_siguiente_informacion_1_plano_regulador_de_la_comuna_2_actas_del_con",
+  "archivo": "chillan_viejo_requiero_la_siguiente_informacion_1_plano_regulador_de_la_comuna_2_actas_del_con__9e0e604a-e6b2-4b39-ac69-b9e570e949e1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 6
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Chillán Viejo\r\n\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\nMU043T0001913\r\nFecha: 13/03/2024 Hora: 14:23:09\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\nPrimer Apellido\r\nSegundo Apellido\r\nTeléfono de contacto\r\nTipo de persona\r\nDirección postal y/o correo\r\nelectrónico\r\nCorreo electrónico\r\nnotificaciones\r\nNombre de Representante\r\nPrimer Apellido\r\nRepresentante\r\nSegundo Apellido\r\nRepresentante\r\nSolicitud realizada\r\n\r\nObservaciones\r\nArchivos adjuntos\r\nMedio de envío o retiro de la\r\ninformación\r\nDirección de envío de la\r\ninformación\r\nFormato de entrega de la\r\ninformación\r\nSesión iniciada en Portal\r\nVía de ingreso en el\r\norganismo\r\n\r\nRodrigo Andres\r\nCastro\r\nGalaz\r\n978793714\r\nNatural\r\nrdgcastrogalaz@gmail.com\r\nRegión de Ñuble, CHILLÁN, CHILE\r\nrdgcastrogalaz@gmail.com\r\n\r\nRequiero la siguiente informacion:\r\n1.- Plano regulador de la comuna\r\n2.- Actas del consejo si existe en caso de que su actualizacion este en proceso\r\n3.- Fecha y año de vigencia del Plano regulador\r\n\r\nCorreo electrónico\r\n,,,\r\nElectrónico/PDF\r\nSI\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 de la Ley de Transparencia.\r\n\r\n2. Fecha de entrega vence el: 11/04/2024\r\nEl plazo máximo para responder un"
+ },
+ {
+  "id": "d0052",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y",
+  "archivo": "chillan_viejo_solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y___036ed1f7-62eb-44af-9c36-b1e06cd2ea88.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad de Chillán Viejo\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU043T0001357\r\nFecha: 12/04/2022\r\n\r\nHora: 13:43:53\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\n\r\nMartín\r\n\r\nPrimer Apellido\r\n\r\nSalinas\r\n\r\nSegundo Apellido\r\n\r\nÁvila\r\n\r\nTeléfono de contacto\r\n\r\n936287972\r\n\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\nmsalinas@arquigestion.cl\r\n\r\nCorreo electrónico\r\nnotificaciones\r\n\r\nmsalinas@arquigestion.cl\r\n\r\nRegión Metropolitana de Santiago, ÑUÑOA,\r\n\r\nNombre de\r\nRepresentante:\r\nPrimer Apellido\r\nRepresentante:\r\nSegundo Apellido\r\nRepresentante:\r\nSolicitud realizada:\r\n\r\nSolicito copia de el o los Instrumentos de Planificación Territorial vigentes y aplicables a su comuna. Por lo anterior, debe\r\nentenderse tanto el Plan Regulador Comunal como el Plan Seccional, de existir; y también, de ser aplicables, el Plan\r\nRegulador Metropolitano o Intercomunal.\r\nHe de recordar que, de acuerdo con lo dispuesto en los artículos 2.1.8. y 2.1.10. de la Ordenanza General de Urbanismo\r\ny Construcciones, el Plan Regulador Intercomunal y el Plan Regulador Comunal, estarán conformados por la Memoria\r\nExplicativa, la Ordenanza y los Planos, documentos todos los cuales son requeridos por medio de la presente solicitud.\r\nGracias de antemano.\r\n\r\nObservaciones:\r\nArchivos adjuntos:\r\nMedio de envío o retiro\r\nde la información:\r\n\r\nCorreo electrónico\r\n\r\nDirección de envío de la\r\ninformación\r\n\r\n,,,\r\n\r\nFormato de entrega de\r\nla información:"
+ },
+ {
+  "id": "d0053",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "solicito_los_siguientes_documentos_mapa_yplano_del_plan_regulador_intercomunal_c",
+  "archivo": "chillan_viejo_solicito_los_siguientes_documentos_mapa_yplano_del_plan_regulador_intercomunal_c__95fbf11d-e49f-4c33-aad7-77a6c4d84a52.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara pri intercomunal; convive con patron de tramite 'solicitud_ciudadana' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad de Chillán Viejo\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU043T0001287\r\nFecha: 27/11/2021\r\n\r\nHora: 02:48:07\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\n\r\nBenjamín\r\n\r\nApellido Paterno\r\n\r\nPastene\r\n\r\nApellido Materno\r\n\r\nPastén\r\n\r\nTeléfono de contacto\r\n\r\n962624970\r\n\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\npbenjaminalexis@gmail.com\r\n\r\nCorreo electrónico\r\nnotificaciones\r\n\r\npbenjaminalexis@gmail.com\r\n\r\nNombre de\r\nRepresentante:\r\nApellido Paterno\r\nRepresentante:\r\nApellido Materno\r\nRepresentante:\r\nSolicitud realizada:\r\n\r\nSolicito los siguientes documentos:\r\n-mapa y/plano del Plan Regulador Intercomunal Chillán-Chillán Viejo\r\n-ordenanza o resolución similar que aprueba el Plan Regulador Intercomunal Chillán-Chillán Viejo\r\n\r\nObservaciones:\r\n\r\nSolicito documentos por este medio, ya que el Plan Regulador Intercomunal Chillán-Chillán Viejo no se encuentra en la\r\npágina de la municipalidad\r\n\r\nArchivos adjuntos:\r\nMedio de envío o retiro\r\nde la información:\r\n\r\nCorreo electrónico\r\n\r\nDirección de envío de la\r\ninformación\r\n\r\n,,,\r\n\r\nFormato de entrega de\r\nla información:\r\n\r\nElectrónico / PDF\r\n\r\nSesión iniciada en\r\nPortal:\r\n\r\nNO\r\n\r\nVía de ingreso en el\r\norganismo:\r\n\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc)\r\nSi su so"
+ },
+ {
+  "id": "d0579",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "174_promulga_actualizacion_del_plan_regulador_intercomunal_de_chillan_y_chillan",
+  "archivo": "chillan_viejo_174_promulga_actualizacion_del_plan_regulador_intercomunal_de_chillan_y_chillan___2452079.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 32,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "intercomunal",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 2,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAP2",
+   "ZAP4",
+   "ZEU1",
+   "ZEU2",
+   "ZEU3",
+   "ZIS2",
+   "ZIT3"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.776\r\n\r\n|\r\n\r\nMiércoles 14 de Febrero de 2024\r\n\r\n|\r\n\r\nPágina 1 de 32\r\n\r\nNormas Generales\r\nCVE 2452079\r\n\r\nGOBIERNO REGIONAL DE ÑUBLE\r\n\r\nPROMULGA “ACTUALIZACIÓN DEL PLAN REGULADOR INTERCOMUNAL DE\r\nCHILLÁN Y CHILLÁN VIEJO (PRICH)” Y DEJA SIN EFECTO LAS\r\nRESOLUCIONES: Nº 120, DE 2020 DEL INTENDENTE DE LA REGIÓN DE ÑUBLE;\r\nNº 66 DE 2021 Y Nº 122 DE 2022; AMBAS DEL GOBIERNO REGIONAL DE ÑUBLE\r\n(Resolución)\r\nNúm. 174.- Chillán, 13 de diciembre de 2023.\r\nVistos:\r\n1.- Lo dispuesto en el DFL Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y\r\nConstrucciones;\r\n2.- En el DS Nº 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones;\r\n3.- En la Ley Nº 19.175, Orgánica Constitucional sobre Gobierno y Administración\r\nRegional;\r\n4.- En la Ley Nº21.033 de 2017 del Ministerio del Interior y Seguridad Pública que crea la\r\nRegión de Ñuble y las Provincias de Diguillín, Punilla e Itata;\r\n5.- En la Ley 21.074 del Ministerio del Interior y Seguridad Pública sobre Fortalecimiento\r\nde la Regionalización del País;\r\n6.- En la Ley Nº 19.880, que establece las Bases de los procedimientos administrativos que\r\nrigen los actos de los órganos de la Administración del Estado y sus modificaciones;\r\n7.- En el DFL Nº 1-19.653 (Minsegpres), de 2001, que fija texto refundido, coordinado y\r\nsistematizado de la ley Nº 18.575, "
+ },
+ {
+  "id": "d0580",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "4219_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo",
+  "archivo": "chillan_viejo_4219_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo__1334250.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.955\r\n\r\n|\r\n\r\nViernes 12 de Enero de 2018\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1334250\r\n\r\nMUNICIPALIDAD DE CHILLÁN VIEJO\r\n\r\nAPRUEBA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE CHILLÁN\r\nVIEJO, PUBLICADO EN D.O. CON FECHA 20.08.2012\r\nNúm. 4.219.- Chillán Viejo, 19 de diciembre de 2017.\r\nVistos:\r\n- Las facultades que confiere la Ley N° 18.695, Orgánica Constitucional de\r\nMunicipalidades refundida con todos sus textos modificatorios.\r\n- DFL N° 458, de 1975, Ley General de Urbanismo y Construcciones.\r\n- DS N° 47, de 1992, Ordenanza General de Urbanismo y Construcciones.\r\n- Plan Regulador Comunal de Chillán Viejo, publicado en el D.O. con fecha 20.08.2012.\r\nConsiderando:\r\na) Acuerdo N° 123/17, del H. Concejo Municipal, el cual señala que en sesión ordinaria N°\r\n25 de 5 septiembre de 2017, el H. Concejo Municipal acordó, por la unanimidad de sus\r\nmiembros, aprobar la modificación al Plan Regulador Comunal de Chillán Viejo.\r\nb) La necesidad de modificar el Plan Regulador Comunal de Chillán Viejo.\r\nc) Ord. N° 2737, de 27 de noviembre de 2017, del Secretario Regional Ministerial de\r\nVivienda y Urbanismo, el cual informa el cumplimiento del marco jurídico vigente, en lo que se\r\nrefiere a su concordancia con la OGUC y con el Plan Regulador Intercomunal de Chillán y\r\nChillán Viejo.\r\nd) Informe técnico favor"
+ },
+ {
+  "id": "d0581",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "4505_aprueba_plan_regulador_comunal_de_chillan_viejo",
+  "archivo": "chillan_viejo_4505_aprueba_plan_regulador_comunal_de_chillan_viejo__publicacion_do_40341_20_08_2012_pag_3_a_9.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "normas_urbanisticas": 19,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 16,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-1",
+   "ZE-2",
+   "ZE-3",
+   "ZH-1",
+   "ZH-2",
+   "ZH-3",
+   "ZH-4",
+   "ZH-5",
+   "ZH-6",
+   "ZI",
+   "ZIS",
+   "ZM-1"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 20 de Agosto de 2012\r\n\r\nNº 40.341\r\n\r\nOTRAS ENTIDADES\r\n\r\nDecreto:\r\n\r\nBanco Central de Chile\r\nTIPOS DE CAMBIO Y PARIDADES DE MONEDAS EXTRANJERAS\r\nPARA EFECTOS DEL NÚMERO 6 DEL CAPÍTULO I DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES Y CAPÍTULO\r\nII.B.3. DEL COMPENDIO DE NORMAS FINANCIERAS AL 20 DE\r\nAGOSTO DE 2012\r\nTipo de Cambio $\r\n(Nº6 del C.N.C.I.)\r\nDOLAR EE.UU.\r\nDOLAR CANADA\r\nDOLAR AUSTRALIA\r\nDOLAR NEOZELANDES\r\nLIBRA ESTERLINA\r\nYEN JAPONES\r\nFRANCO SUIZO\r\nCORONA DANESA\r\nCORONA NORUEGA\r\nCORONA SUECA\r\nYUAN\r\nEURO\r\nDEG\r\n*\r\n\r\n484,17\r\n489,60\r\n504,40\r\n390,62\r\n759,36\r\n6,09\r\n496,69\r\n80,11\r\n81,69\r\n72,48\r\n76,15\r\n596,42\r\n730,86\r\n\r\nCuerpo I - 3\r\n\r\nParidad Respecto\r\nUS$\r\n1,000000\r\n0,988900\r\n0,959900\r\n1,239500\r\n0,637600\r\n79,550000\r\n0,974800\r\n6,043700\r\n5,926700\r\n6,679700\r\n6,358200\r\n0,811800\r\n0,662462\r\n\r\nTipo de cambio que rige para efectos del Capítulo II.B.3. Sistemas de\r\nreajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº0507-900105) del Compendio de Normas Financieras.\r\nSantiago, 17 de agosto de 2012.- Miguel Ángel Nacrur Gazali, Ministro de Fe.\r\n\r\nTIPO DE CAMBIO PARA EFECTOS DEL NÚMERO 7 DEL CAPÍTULO\r\nI DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES\r\nEl tipo de cambio “dólar acuerdo” a que se refiere el inciso primero del Nº7\r\ndel Capítulo I del Compendio de Normas de Cambios Internacionales fue de\r\n$695,21 por dólar, moneda de los Estados Unidos de América, para el día 17 de\r\nagosto de 2012.\r\nSantiago, 17 de agosto"
+ },
+ {
+  "id": "d0582",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "4539_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo",
+  "archivo": "chillan_viejo_4539_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo__publicacion_do_41240_24_08_2015_pag_11.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM-1"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.240\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 24 de Agosto de 2015\r\n\r\nEl plan de medidas de mitigación, reparación y compensación incluido en el\r\nEIA para atenuar o compensar los impactos ambientales identificados consiste: para\r\nla componente Flora y Vegetación, en realizar rescate y relocalización de cactáceas\r\ny bulbos, colecta y viverización de germoplasma y capacitación al personal; para\r\nla componente Arqueología, realizar el cercado de sitios arqueológicos, instalación\r\nde señaléticas, contar con un arqueólogo en faenas y realizar charlas ambientales,\r\ny para la componente Fauna, se realizará el rescate y relocalización de reptiles en\r\ncategoría de conservación, la habilitación de paso de fauna, ejecución de monitoreos\r\nde guanacos, instalación de señalética y charlas ambientales.\r\nEl Estudio de Impacto Ambiental del Proyecto se encuentra a disposición de los\r\ninteresados, para su consulta, en las oficinas del Servicio de Evaluación Ambiental\r\nde la Región de Atacama, ubicada en calle Yerbas Buenas Nº295, Copiapó, horario\r\nde atención de lunes a viernes de 08:45 a 16:30 horas, en la Gobernación Provincial\r\ndel Huasco, ubicada en Plaza A. O’Higgins S/N, Vallenar, horario de atención de\r\nlunes a jueves de 08:30 a 17:30 horas y viernes de 08:30 a 16:30 horas, y en la Ilustre\r\nMunicipalidad de Vallenar ubicada en Plaza O’Higgins Nº 25, Edificio Consistorial,\r\nVallenar, horario de atención de lunes a viernes de 08:45 a 13:45 horas. Asimismo,\r\nse puede acceder "
+ },
+ {
+  "id": "d0583",
+  "comuna": "chillan_viejo",
+  "nombre_documento": "decreto_alcaldicio_el_inciso_quinto_del_articulo_26_del_decreto_ley_n_3063_sobre",
+  "archivo": "chillan_viejo_decreto_alcaldicio_el_inciso_quinto_del_articulo_26_del_decreto_ley_n_3063_sobre__D.A. N° 10164.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, zonificacion, usos_de_suelo, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ffi\r\n\r\nfl'l,i:fJ,i*E *irxg:'il:i§-\"\r\nAPRUEBA ORDENANZA SOBRE OTORGAMIENTO\r\nDE PATENTES MUNICIPALES PROVISORIAS EN\r\nLA COMUNA DE CHILLAN VIEJO\r\n\r\nDEcREro ALCALDTcTo No '1 0 i c 4\r\nCHILLAN VlEJo,\r\n\r\n1 5 N¡V 2¡ltr\r\n\r\nVISTOS:\r\nDecreto ley No 3.063, de 1979, de Rentas Municipales\r\nLey N' 18.575, Orgánica Constitucional de Bases Generales de la Administración\r\n\r\ndel Estado\r\n\r\nLey N\" 19.880, que estableee las Bases de los Procedimientos Administrativos\r\nque rigen los Actos de los Órganos de la Administración del Estado.\r\nLas facultades que me confiere Ia Ley No 18.695, Orgánica Constitucional de\r\nMunicipalidades, cuyo texto refundido, coordinado y sistematizado se encuentra contenido en\r\nel DFL No 1, de 2006, del Ministerio del lnterior.\r\n\r\nCONSIDERANDO:\r\nl.- Que el inciso quinto del artículo 26 del Decreto Ley N' 3.063, sobre Rentas\r\nMunicipales, introducido por la Ley N'20.494 que agiliza trámites para el inicio de Actividades\r\nde Nuevas Empresas, establece que la \"municipalidad deberá otorgar patente provisoria en\r\n\r\nforma inmediata al contribuyente cuando se cumplan los siguientes requisitos: a)\r\n\r\nEmplazamiento según las normas sobre zonificación del Plano Regulador; b) Se acompañe\r\nautorización sanitaria, en aquellos casos en que ésta sea exigida en forma expresa por el\r\nDecreto con Fuerza de Ley N\" I , del Ministerio de Salud, de 1989; c) En el caso de\r\nactividades que requieran autorización sanitaria de aquellas que no se encuentren señaladas\r\nen el citado Decreto con Fuerza"
+ },
+ {
+  "id": "d0054",
+  "comuna": "cobquecura",
+  "nombre_documento": "sin_numero_plan_regulador_comunal",
+  "archivo": "cobquecura_sin_numero_plan_regulador_comunal__cfc2e81f-91fc-4b6a-9ac5-6ddff0f28775.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0055",
+  "comuna": "codegua",
+  "nombre_documento": "decreto_12_aprueba_plan_regulador_comunal_de_codegua_tras_acuerdo_del_honorable",
+  "archivo": "codegua_decreto_12_aprueba_plan_regulador_comunal_de_codegua_tras_acuerdo_del_honorable___Decreto%2012%20DOM%202018.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0584",
+  "comuna": "codegua",
+  "nombre_documento": "19_establece_dejar_sin_efecto_restitucion_de_declaratorias_de_utilidad_publica_p",
+  "archivo": "codegua_19_establece_dejar_sin_efecto_restitucion_de_declaratorias_de_utilidad_publica_p__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 19 (2015)\r\n\r\nDecreto 19\r\nESTABLECE DEJAR SIN EFECTO RESTITUCIÓN DE \"DECLARATORIAS DE\r\nUTILIDAD PÚBLICA\" PRODUCTO DE LA PROMULGACIÓN Y PUBLICACIÓN DE\r\nLA LEY 20.791, SOBRE ALGUNAS VÍAS DE CIRCULACIÓN DECLARADAS EN EL\r\nPLAN REGULADOR DE CODEGUA (DO 19.10.1990)\r\nMUNICIPALIDAD CODEGUA\r\nFecha Publicación: 28-ABR-2015 | Fecha Promulgación: 24-ABR-2015\r\nTipo Versión: Única De : 28-ABR-2015\r\nUrl Corta: https://bcn.cl/3q7dn\r\n\r\nESTABLECE DEJAR SIN EFECTO RESTITUCIÓN DE \"DECLARATORIAS DE UTILIDAD PÚBLICA\"\r\nPRODUCTO DE LA PROMULGACIÓN Y PUBLICACIÓN DE LA LEY 20.791, SOBRE ALGUNAS VÍAS DE\r\nCIRCULACIÓN DECLARADAS EN EL PLAN REGULADOR DE CODEGUA (DO 19.10.1990)\r\nCodegua, 24 de abril de 2015.- Esta Alcaldía decretó hoy lo que sigue:\r\nNúm. 19.\r\nVistos:\r\n1º Que, las facultades conferidas por la ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades y sus modificaciones;\r\n2º Que, lo dispuesto en el artículo 59º de la Ley General de Urbanismo y\r\nConstrucciones (DFL Nº 458 V. y U. de fecha 18.12.1975) respecto de Declaratorias de\r\nUtilidad Pública;\r\n3º Que, lo dispuesto por el artículo transitorio de la ley 20.791(DO\r\n29.10.2014), que modifica la Ley General de Urbanismo y Construcciones en relación a\r\nDeclaratorias de Utilidad Pública de los planes reguladores;\r\n4º Que, lo señalado en la circular Ord. Nº 575, de fecha 29 de octubre de\r\n2014, DDU 277, de la División de Desarrollo Urbano del Ministerio de Vivienda y\r\nUrbanismo.\r\n5º Que, lo señalado en la circular Ord. Nº 654 DDU 279 fe"
+ },
+ {
+  "id": "d0585",
+  "comuna": "codegua",
+  "nombre_documento": "decreto_28_reemplaza_decreto_alcaldicio_n_122018_dom_de_fecha_26_de_febrero_del",
+  "archivo": "codegua_decreto_28_reemplaza_decreto_alcaldicio_n_122018_dom_de_fecha_26_de_febrero_del___Decreto_2028_20DOM_202018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 26,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": ".0.m\r\n\r\nCOPIA\r\nDEJASINEFECTODECRETOALCALDICION°12/2018(DOM)DEFECHA26\r\nDEFEBRERODE2O18,YAPRUEBAPLANREGULADORYORDENANZA\r\nLOCALDELPLANREGULADORCOMUNAL DECODEGUAY\r\nLA COMPANiA.\r\nCODEGUA18DEJUNIODE2018\r\nESTAALCALDIADECRETOHOYLOQUESIGUE\r\n\r\nVISTOS:\r\n\r\nLa Constitucion Politica de la Republica de Chile; la Ley N° 18.575, Organica Constitucional sobre Bases\r\nGenerales de la Administracion del Estado; la Ley N° 19.880, que Establece Bases de los Procedimientos\r\nAdministrativos que rigen los actos de los organos de la Administracion del Estado; los Decretos con Fuerza\r\nde Ley N 458 de 1975, Ley General de Urbanismo y Construcciones; el Decreto Supremo N° 47 de 1992 de\r\nMinisterio de Vivienda y Urbanismo; Ordenanza General de la Ley General de Urbanismo y Construcciones;\r\nla Resolucion N°1.600 del 30 de octubre de 2008 de la Contraloria General de la Republica que fijo normas\r\nsobre exencion del Tramite de Toma de razony la demas normativa aplicable; las facultades que me\r\nconfiere la Ley N°18.695, Organica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\n\r\n1. Que, el articulo 65, letra b) de la Ley N° 18.695, Organica Constitucional de Municipalidades,\r\nPlanes Seccionales y sus planos de detalle.\r\n2.\r\n\r\ncomunico el inicio del proceso de Evaluacion Ambiental Estrategica del Plan Regulador de Codegua\r\nal Ministerio del Medio Ambiente.\r\n3.\r\n\r\nQue, mediante Ord. N°143284, de fecha 28 de agosto de 2014, la Subsecretaria del Ministerio de\r\nMedio Ambiente da respuesta al inicio del procedimie"
+ },
+ {
+  "id": "d0056",
+  "comuna": "coelemu",
+  "nombre_documento": "certificado_5_asignar_el_nombre_de_las_pataguas_al_camino_ubicado_en_el_limite_u",
+  "archivo": "coelemu_certificado_5_asignar_el_nombre_de_las_pataguas_al_camino_ubicado_en_el_limite_u__418f3277-0061-4980-a9d7-3a2a1d97e904.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0057",
+  "comuna": "coelemu",
+  "nombre_documento": "certificado_6_asignar_el_nombre_de_miraflores_al_camino_ubicado_en_el_limite_urb",
+  "archivo": "coelemu_certificado_6_asignar_el_nombre_de_miraflores_al_camino_ubicado_en_el_limite_urb__bd08657c-ce59-4fcf-90d5-7615d0fd0677.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0586",
+  "comuna": "coelemu",
+  "nombre_documento": "189_deja_sin_efecto_resolucion_n_151_de_fecha_31072013_de_intendente_regional_re",
+  "archivo": "coelemu_189_deja_sin_efecto_resolucion_n_151_de_fecha_31072013_de_intendente_regional_re__do-20160121.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 44,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "densidad": 2,
+   "agrupamiento": 7,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 26
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.362.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nMINISTERIO DE ECONOMÍA,\r\nFOMENTO Y TURISMO\r\n\r\nNormas Generales\r\n\r\nDecreto con fuerza de ley número 1, de\r\n2015.- Fija planta de personal y fecha de\r\niniciación de actividades de la Agencia de\r\nPromoción de la Inversión Extranjera. .. P.7\r\n\r\nPODER LEGISLATIVO\r\n\r\nMINISTERIO DE EDUCACIÓN\r\nMINISTERIO SECRETARÍA\r\nGENERAL DE GOBIERNO\r\nLey número 20.889.- Modifica\r\nrégimen de probidad aplicable al Consejo\r\nNacional de Televisión.......................P.2\r\nTribunal Constitucional\r\nProyecto de ley que modifica el régimen\r\nde probidad aplicable al Consejo Nacional\r\nde Televisión, correspondiente al boletín\r\nNº 9398-04...........................................P.3\r\n\r\nPODER EJECUTIVO\r\nMINISTERIO DEL INTERIOR\r\nY SEGURIDAD PÚBLICA\r\nGobierno Regional\r\nVIII Región del Biobío\r\nResolución número 189, de 2015.Deja sin efecto resolución N° 151, de\r\n2013, de Intendente Regional Región del\r\nBiobío, y promulga “Modificación del Plan\r\nRegulador Comunal de Coelemu, Zona\r\nResidencial S2A”.................................P.3\r\nMINISTERIO DE HACIENDA\r\nDecreto número 1.762, de 2015.Renueva nombramiento de Director de la\r\nUnidad de Análisis Financiero.............P.4\r\nSuperintendencia de\r\nBancos e Instituciones Financieras\r\nResolución número 8, de 201"
+ },
+ {
+  "id": "d0058",
+  "comuna": "coinco",
+  "nombre_documento": "estimadas_y_estimados_junto_con_saludar_solicito_la_siguiente_informacion_actual",
+  "archivo": "coinco_estimadas_y_estimados_junto_con_saludar_solicito_la_siguiente_informacion_actual__1e92060b-783c-48da-855e-4f0db00865fd.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad de Coinco\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU054T0000813\r\nFecha: 03/05/2022\r\n\r\nHora: 09:39:51\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\n\r\nKarina\r\n\r\nPrimer Apellido\r\n\r\nToledo\r\n\r\nSegundo Apellido\r\nTeléfono de contacto\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\nktoledogattoni@gmail.com\r\n\r\nCorreo electrónico\r\nnotificaciones\r\n\r\nktoledogattoni@gmail.com\r\n\r\nRegión Metropolitana de Santiago, ÑUÑOA, CHILE\r\n\r\nNombre de\r\nRepresentante:\r\nPrimer Apellido\r\nRepresentante:\r\nSegundo Apellido\r\nRepresentante:\r\nSolicitud realizada:\r\n\r\nEstimadas y estimados.\r\nJunto con saludar, solicito la siguiente información actualizada sobre los Instrumentos de Planificación Territorial que\r\nregulan el territorio de la comuna:\r\nPARTE 1: ESTADO PLAN REGULADOR COMUNAL ACTUAL\r\n1. ¿Existe un plan regulador comunal vigente en la comuna?\r\n2. ¿Cuándo inició su vigencia el Plan Regulador Comunal?\r\n3. ¿Cuál es el estado del Plan Regulador en la actualidad? ¿Está vigente? ¿Se encuentra en formulación? ¿Se\r\nencuentra en proceso de modificación o actualización?\r\n4. En caso de contar con Plan Regulador Comunal vigente ¿Cuál es la fecha de la más reciente actualización o\r\nmodificación?\r\nPARTE 2: PROCESOS DE MODIFICACIÓN, ACTUALIZACIÓN O FORMULACIÓN DEL PLAN REGULADOR\r\nCOMUNAL\r\n1. Si se encuentra en proceso de modificación, actualización o formulación ¿En qué etapa se encuentra actualmente?\r\n2. Si se encuentra en proceso de modif"
+ },
+ {
+  "id": "d0059",
+  "comuna": "coinco",
+  "nombre_documento": "solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y",
+  "archivo": "coinco_solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y___dcba7bb1-521d-4ca7-8763-123a101c3a15.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad de Coinco\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU054T0000798\r\nFecha: 13/04/2022\r\n\r\nHora: 10:16:25\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\n\r\nMartín\r\n\r\nPrimer Apellido\r\n\r\nSalinas\r\n\r\nSegundo Apellido\r\n\r\nÁvila\r\n\r\nTeléfono de contacto\r\n\r\n936287972\r\n\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\nmsalinas@arquigestion.cl\r\n\r\nCorreo electrónico\r\nnotificaciones\r\n\r\nmsalinas@arquigestion.cl\r\n\r\nRegión Metropolitana de Santiago, ÑUÑOA,\r\n\r\nNombre de\r\nRepresentante:\r\nPrimer Apellido\r\nRepresentante:\r\nSegundo Apellido\r\nRepresentante:\r\nSolicitud realizada:\r\n\r\nSolicito copia de el o los Instrumentos de Planificación Territorial vigentes y aplicables a su comuna. Por lo anterior, debe\r\nentenderse tanto el Plan Regulador Comunal como el Plan Seccional, de existir; y también, de ser aplicables, el Plan\r\nRegulador Metropolitano o Intercomunal.\r\nHe de recordar que, de acuerdo con lo dispuesto en los artículos 2.1.8. y 2.1.10. de la Ordenanza General de Urbanismo\r\ny Construcciones, el Plan Regulador Intercomunal y el Plan Regulador Comunal, estarán conformados por la Memoria\r\nExplicativa, la Ordenanza y los Planos, documentos todos los cuales son requeridos por medio de la presente solicitud.\r\nGracias de antemano.\r\n\r\nObservaciones:\r\nArchivos adjuntos:\r\nMedio de envío o retiro\r\nde la información:\r\n\r\nCorreo electrónico\r\n\r\nDirección de envío de la\r\ninformación\r\n\r\n,,,\r\n\r\nFormato de entrega de\r\nla información:\r\n\r\nEle"
+ },
+ {
+  "id": "d0587",
+  "comuna": "coinco",
+  "nombre_documento": "123_aprueba_re_formulacion_del_plan_regulador_comunal_de_coinco_localidades_de_c",
+  "archivo": "coinco_123_aprueba_re_formulacion_del_plan_regulador_comunal_de_coinco_localidades_de_c__RES-123 AFECTA_28-AGO-2008.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 26,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "densidad": 3,
+   "agrupamiento": 1,
+   "antejardin": 5,
+   "rasante": 3,
+   "adosamiento": 4,
+   "distanciamiento": 2,
+   "zonificacion": 3,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 20,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (altura_maxima, densidad, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\n\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Resolución 123 AFECTA\r\n:28-08-2008\r\n:04-12-2007\r\n:GOBIERNO REGIONAL VI REGIÓN DEL LIBERTADOR GENERAL BERNARDO\r\nO\\u2019HIGGINS\r\n:APRUEBA REFORMULACIÓN DEL PLAN REGULADOR COMUNAL DE\r\nCOÍNCO, LOCALIDADES DE COÍNCO - CRUZ DE CHILLEHUE Y\r\nCOPEQUÉN\r\n:Única\r\nDe : 28-08-2008\r\n:28-08-2008\r\n:277741\r\n:https://www.leychile.cl/N?i=277741&f=2008-08-28&p=\r\n\r\nAPRUEBA REFORMULACIÓN DEL PLAN REGULADOR COMUNAL DE COÍNCO, LOCALIDADES DE COÍNCO\r\n- CRUZ DE CHILLEHUE Y COPEQUÉN\r\nNúm. 123 afecta.- Rancagua, 4 de diciembre de 2007.- Vistos:\r\n1. Ordinario Nº 942 de fecha 4 de octubre de 2007, mediante el cual la\r\nSecretaría Ministerial de Vivienda y Urbanismo Región del Libertador Bernardo\r\nO'Higgins, remite al Secretario Ejecutivo del Consejo Regional antecedentes del Plan\r\nRegulador Comunal de Coínco, Localidades de Coínco-Cruz de Chillehue y Copequén,\r\nde acuerdo a lo establecido en el art.\r\n2.1.11. de la Ordenanza General de Urbanismo y Construcciones.\r\n2. Informe Técnico Nº 03/2007 de fecha 3 de julio de 2007, de la Secretaría\r\nRegional Ministerial de Vivienda y Urbanismo Región del Libertador Bernardo\r\nO'Higgins, que informa favorablemente el Plan Regulador Comunal de Coínco,\r\nLocalidades de Coínco-Cruz de Chillehue y Copequén.\r\n3. Memoria Explicativa del Plan Regulador Comunal de Coínco, Localidades de\r\nCoínco-Cruz de Chillehue y Copequén.\r\n4. Estudio de factibilidad Sanitari"
+ },
+ {
+  "id": "d0588",
+  "comuna": "colbun",
+  "nombre_documento": "decreto_aprueba_ordenanza_plan_regulador_de_la_comuna_de_colbun",
+  "archivo": "colbun_decreto_aprueba_ordenanza_plan_regulador_de_la_comuna_de_colbun__dc-19981230-1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ademas debera\r\n\r\naprobacionde\r\n\r\nMiercoles 30 dediciembrede 1998\r\n\r\nELCENTRO\r\n\r\nSUT\r\n\r\nfijarles plazo de vigencia\r\n\r\nArticulo12.-Elotorgamientodel\r\n\r\nC)DELASSANCIONES\r\nf)Porrenunciadel pemisionario.\r\n\r\nel Registrode Comercio.\r\n\r\npales.\r\n\r\nOrdenanza.\r\n\r\naridos,elfijadasorl.OFdeRVMdeacuerdlaoicitudtiporeparadaaraessfin\r\ncual sera\r\n\r\ndebidamente certificados.\r\n\r\nte a una licitacion publica.\r\n\r\nquen el plazode Concesicn.\r\n\r\nsion.\r\n\r\nnaturaleza misma del rio o estero,sea\r\n\r\nSECCION RENTAS\r\n\r\nOrdenanzacomo\r\n\r\nmisosyConcesiones\r\n\r\nREPUBLICA DE CHILE\r\n\r\nPROVINCIA DE LINARES\r\n\r\nlicoodesdepozoslastrerosde\r\n\r\nI.MUNICIPALIDAD DECOLBUN\r\n\r\nCONSIDERANDO:\r\n\r\nCOLBUN,22DIC.1998\r\nORDENANZAN 00001\r\n\r\nPAG.30\r\n\r\nVISTOS\r\n\r\nTITULO\r\n\r\nNORMAS ADMINISTRATIVAS\r\n\r\nA)DISPOSICIONESCOMUNES\r\n\r\ncanitaviiciaumlimnoyan\r\n\r\ncomo porel transportede losmismos.\r\n\r\nplazo.\r\n\r\nB)DELOSPERMISOS\r\ntiblecon la actividadartesanal preferentemente.\r\n\r\ntes."
+ },
+ {
+  "id": "d0589",
+  "comuna": "colbun",
+  "nombre_documento": "decreto_ordenanza_plan_regulador_intercomunal_embalses_colbun_machicura",
+  "archivo": "colbun_decreto_ordenanza_plan_regulador_intercomunal_embalses_colbun_machicura__dc-19981230-2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "WI0%9 7%U.T.M.\r\n\r\n10%U.TM\r\n\r\n10%U.T.M.\r\n\r\n5%U.T.M.\r\n\r\n10%U.T.M\r\n15%U.T.M.\r\n\r\n10%U.T.M.\r\n\r\n15%U.T.M.\r\n20% U.T.M.\r\n\r\n10% U.T.M.\r\n10%U.T.M.\r\n10%U.T.M.\r\n10%U.T.M.\r\n10%U.T.M.\r\n10%U.T.M.\r\n15%U.T.M.\r\n25%U.T.M.\r\n10%U.T.M.\r\n\r\n20%\r\n\r\n1% U.T.M.\r\n\r\n1% U.T.M.\r\n\r\n50% U.T.M.\r\n\r\n15%U.T.M.\r\n\r\n5% U.T.M.\r\n20% U.T.M.\r\n\r\n20% U.T.M.\r\n\r\n1% U.T.M.\r\n\r\n5% U.T.M.\r\n\r\n1% U.T.M.\r\n\r\n10%U.T.M.\r\n20% U.T.M.\r\n\r\n20%U.T.M.\r\n10%U.T.M.\r\n\r\n.50%U.T.M.\r\n\r\n20%U.T.M.\r\n200% U.T.M.\r\n\r\n..100%U.T.\r\n\r\nU.T.M.\r\n\r\nPAG.33\r\n\r\n5%U.T.M\r\n\r\n.5%U.T.M.\r\n\r\n15%U.T.M.\r\n30%U.T.M\r\n\r\n20%U.T.M.\r\n\r\n.100%U.T.M.\r\n\r\n.10%\r\n\r\n25%U.T.M.\r\n20%U.T.M.\r\n\r\n5%U.T.M.\r\n20%U.T.M.\r\n10%UT.M.\r\n1a5U.T.M.\r\n15%U.T.M.10%U.T.M.\r\n\r\n25%U.T.M.\r\n\r\n1a5U.T.M.\r\n\r\n1/2a7U.T.M.\r\n\r\nJORGE PINTO ESPINOSA\r\n\r\nuotrossimilaresdecaracter\r\n\r\npormetro cuadrado.ANUAL\r\n\r\npormetrocubico extraido.\r\n\r\nDuplicadodePermisode Circulacion\r\n\r\npagaran los siguientes Derechos:\r\n\r\nPuestosdeventadecarbon,\r\n\r\n6.-\r\n\r\nReunionessociales,carrerasytoneos\r\n\r\n7.-\r\n\r\nrealicenenlaComuna:\r\n\r\n10.-Actividadescomerciales\r\n\r\nTITULOV\r\n\r\npor metro cuadrado, ALANO...\r\n\r\nLescamnoorunidadNUA\r\n\r\n1-6\r\n\r\nMunicipal.\r\n\r\nTITULO VI\r\n\r\n(Derechos relativos a la Propaganda)\r\n\r\nClubes Deportivos Asociados.\r\n\r\nClubes Deportivos Asociados\r\n\r\nindican en el inciso siguiente.\r\n\r\n-8\r\n\r\n(Derechos Varios)\r\n\r\ncuadrado diario ocupado.\r\n\r\n3.-Copia autorizada de Plano Regulador...\r\n\r\nCopiadel\r\n\r\nClubes Deportivos Asociados.\r\nEstampillasMunicipales,poranimal..\r\nArriendoGimnasio,parashow....\r\nGuias de Libre transito ..\r\n\r\nSecretario Municipal\r\n"
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "mejillones_88d337571c",
+  "comuna": "mejillones",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\mejillones_2792_aprueba_modificacion_al_plan_regulador_comunal_de_mejillones_zona_urbana_co__Exportar.pdf",
+  "nombre": "mejillones_2792_aprueba_modificacion_al_plan_regulador_comunal_de_mejillones_zona_urbana_co__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 69,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:58:27",
+  "fin": "2026-07-15T08:01:44",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        18,
+        65
+      ]
+    ],
+    "paginas_utiles": 48,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa BCN confirmada (delator punto solitario). Art.14 pag18 Usos de Suelo y Normas de Edificacion: 19 zonas (ZA1-ZA5,ZB1-ZB5/ZB3a,ZAP,ZPI,ZP1/ZP2/ZP2a/ZP2b,ZAV1-ZAV2,ZE1-ZE4), cada una media pag texto descriptivo + pag con tabla escaneada Uso de Suelo Zona X + Normas Urbanisticas de Edificacion Zona X (superficie predial minima, COS, coef.constructibilidad, altura max, densidad, rasante, agrupamiento, distanciamiento, adosamiento, antejardin). Confirmado visual pag20(ZA1) y pag41(ZAP). Pag60-63 Art.15 Areas Restringidas, tabla Normas Urbanisticas AR-1 (confirmada pag63) para zonas bajo estudio de riesgo. Pag64-65 Art.16 patrimonial (ICH/ZCH) texto plano sin tabla adicional. Desde pag66 Titulo III Vialidad: pag67-68 Tabla Vialidad Estructurante (anchos calles), excluida por no ser norma de zona."
+  }
+}

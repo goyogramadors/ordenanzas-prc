@@ -1,0 +1,20 @@
+{
+  "id": "la_ligua_0e7a13d457",
+  "comuna": "la_ligua",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_ligua_decreto_alcaldicio_norma_el_sistema_de_transito_que_rige_en_la_ciudad_de_la_ligu__DA2299-25102012.pdf",
+  "nombre": "la_ligua_decreto_alcaldicio_norma_el_sistema_de_transito_que_rige_en_la_ciudad_de_la_ligu__DA2299-25102012.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:19:11",
+  "fin": "2026-07-15T08:45:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Ordenanza Local de Tránsito de La Ligua (18p): regula circulación, estacionamiento, zonas de carga/descarga y rutas alternativas de transporte de carga. No contiene normas urbanísticas de zonificación (COS, CC, altura, etc.)."
+  }
+}

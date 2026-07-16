@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_8ed3857a7e",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_2017.pdf",
+  "nombre": "penalolen_MPRC_2017.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:12:10",
+  "fin": "2026-07-14T21:15:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        12
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "MPRC Extension Limite Urbano Penalolen Nuevo (ago-2017), DO. Pag4-9 (texto bajo) NO es tabla de normas: es descripcion limite urbano (Punto/Tramo/Descripcion, coordenadas). Pag10 modifica art.28-31, incorpora zonas R4,R11,EQ-2 a EQ-5 (narrativo). Tabla real pag11-12: Zona R4/R11 cuadro Condiciones subdivision y edificacion (densidad bruta max, superficie minima predial, %ocupacion suelo, coef.constructibilidad, altura max) Residencial/Equipamiento; Zona EQ-2 mismo cuadro; EQ-3/EQ-4 usos narrativos; EQ-5 tabla pozo/uso/superficie/%ocupacion/coef.constructibilidad."
+  }
+}

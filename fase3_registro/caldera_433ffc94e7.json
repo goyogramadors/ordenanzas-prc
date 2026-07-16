@@ -1,0 +1,25 @@
+{
+  "id": "caldera_433ffc94e7",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_718_aprueba_modificacion_a_los_planes_reguladores_de_caldera_y_copiapo_sector_ba__Exportar.pdf",
+  "nombre": "caldera_718_aprueba_modificacion_a_los_planes_reguladores_de_caldera_y_copiapo_sector_ba__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 29,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:01:17",
+  "fin": "2026-07-14T13:06:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        25
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modif. PRC intercomunal Caldera-Copiapo, sector Bahia Salado. Cap.IV Normas Especificas de las Zonas (art.28-46). NO es la trampa JPEG: las tablas estan en TEXTO PLANO tabulado, pdftotext las saca enteras (verificado con render de p11,13,16,25,28). 11 zonas urbanas con norma completa (UBS-1U/1T/1B/1V/1E/1M/1P/1AI/1CP, UBS-2, UBS-RS): usos permitidos-no permitidos + intensidad de ocupacion (densidad, coef constructibilidad, % ocupacion, predio minimo, agrupamiento). p25: RBS-1 solo cuadro de usos. p26-28 descriptivas sin cuadro. OJO: los FIGURA/VER DIARIO OFICIAL tras cada zona son el PLANO, no la tabla."
+  }
+}

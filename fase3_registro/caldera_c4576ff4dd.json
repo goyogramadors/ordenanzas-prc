@@ -1,0 +1,25 @@
+{
+  "id": "caldera_c4576ff4dd",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_756_rectifica_errores_de_la_ordenanza_del_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "nombre": "caldera_756_rectifica_errores_de_la_ordenanza_del_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:01:35",
+  "fin": "2026-07-14T13:06:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        4
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Dec.756 rectifica errores art.18 PRC Caldera. OJO: las tablas son IMAGEN (pdftotext solo deja un punto). Contenido = cuadro catastral de 15 areas verdes desafectadas (CODIGO/UBICACION/SUPERFICIE ha, filas AVD1-AVD15) en formato 'donde dice / debe decir'. NO son parametros de edificacion por zona (sin COS/CC/altura/usos): se marca con tablas por generosidad, pero la fase siguiente puede descartarlo si solo busca normas por zona."
+  }
+}

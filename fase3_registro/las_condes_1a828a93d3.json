@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_1a828a93d3",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4486.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4486.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:53:54",
+  "fin": "2026-07-14T15:59:02",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto 4486 (28-12-2004), gemelo del 4475: solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Vivienda 3 (PS-U-V3) con sus anexos (texto resolutivo, memoria, plano), que NO estan en el archivo de 1 pagina. Requiere ubicar el texto resolutivo del seccional PS-U-V3. Las Condes tiene varios decretos de este tipo: revisar todos los 'aprueba plano seccional' de dic-2004."
+  }
+}

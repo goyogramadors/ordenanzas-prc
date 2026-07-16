@@ -1,0 +1,20 @@
+{
+  "id": "valdivia_d9ce2da366",
+  "comuna": "valdivia",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valdivia_10692_aplicacion_articulo_n117_ley_general_de_urbanismo_y_construcciones_en_virt__Decreto-10692-EXENTO_24-DIC-2019.pdf",
+  "nombre": "valdivia_10692_aplicacion_articulo_n117_ley_general_de_urbanismo_y_construcciones_en_virt__Decreto-10692-EXENTO_24-DIC-2019.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:05:16",
+  "fin": "2026-07-15T08:07:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto aplica Art.117 LGUC: define poligono Sector Parque Krahmer y posterga permisos de subdivision/urbanizacion/construccion 3 meses (prorrogado a 9). Pag4 (verificada visual) es tabla de coordenadas UTM (ID/ESTE/NORTE/tramo) del poligono, NO tabla de normas (sin usos suelo/COS/constructibilidad/altura/densidad). Solo congela permisos, no asigna norma."
+  }
+}

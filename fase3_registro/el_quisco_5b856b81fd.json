@@ -1,0 +1,20 @@
+{
+  "id": "el_quisco_5b856b81fd",
+  "comuna": "el_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_informacion_del_cambio_de_plano_regulador__f2141d2b-1950-4a77-aa4b-608c55f094a4.pdf",
+  "nombre": "el_quisco_informacion_del_cambio_de_plano_regulador__f2141d2b-1950-4a77-aa4b-608c55f094a4.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 162,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:51:29",
+  "fin": "2026-07-15T07:54:48",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Expediente completo (162p) de Transparencia sobre ESTADO DEL PROCESO de modificacion del PRC de El Quisco, no la ordenanza vigente. Pag1-40 carta respuesta + Convenio Ad Referendum D.A.N3122/2016 + Resolucion Exenta N35/2018 autoriza licitacion. Pag41-161 Bases Administrativas y Tecnicas de licitacion ID 632-2-LQ18 para CONTRATAR estudio futuro de modificacion PRC (formularios, Resolucion N2243 adjudica licitacion, Modificacion N1 a bases). Pag108-110/159-162 copias escaneadas del mismo Convenio/Resolucion. Grep exhaustivo: solo 2 menciones (pag84,95) en descripcion de lo que el FUTURO consultor debe producir (que normas debe fijar el plan a modificar), no tabla real con valores por zona. Verificado visualmente pag8,15,22,30,38,159,161: resoluciones administrativas, sin cuadros de zonificacion."
+  }
+}

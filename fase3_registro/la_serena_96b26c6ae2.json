@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_96b26c6ae2",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1064_apruebese_ordenanza_que_regula_la_extraccion_de_aridos_desde_un_bien_nacion__1364316975-919753457.pdf",
+  "nombre": "la_serena_1064_apruebese_ordenanza_que_regula_la_extraccion_de_aridos_desde_un_bien_nacion__1364316975-919753457.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:24:20",
+  "fin": "2026-07-15T08:25:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.1064/2013: version ORIGINAL de la Ordenanza que regula la Extraccion de Aridos del rio Elqui de La Serena (posteriormente actualizada por Ordenanza N.4/2022, ya registrada como la_serena_213826cf9c). Ajena al PRC."
+  }
+}

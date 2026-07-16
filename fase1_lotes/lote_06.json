@@ -1,0 +1,912 @@
+[
+ {
+  "id": "d0557",
+  "comuna": "chiguayante",
+  "nombre_documento": "1364_promulga_enmienda_al_plan_regulador_comunal_de_chiguayante_2004",
+  "archivo": "chiguayante_1364_promulga_enmienda_al_plan_regulador_comunal_de_chiguayante_2004__DECRETO 1364 2004 .pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO CFCIAL DE LA REPUBLICA DE CHILE\r\n\r\nN38.029\r\n\r\nLanes 6 de Dlciembre de 200d\r\n\r\nMinisterioSecretariaGeneral\r\ndelaPresidencia\r\n\r\nComision Regional del Medio Ambiente\r\nRegion de Atacama\r\nEVALUACIONDEIMPACTO AMBIENTALPRO-\r\n\r\nIVETAPA\"\r\n\r\n(Extracto)\r\nSe comunica a la opinion publica que con fecha 19 de\r\n\r\nnoviembrede2004,CodelcoChileDivision Salvadot,repre\r\nsentada por don Juan Aguilera Espinoza,ha somelido el\r\nEstudiodeImpactoAmbiental(EIA.)desuproyectodenominado\"Ampliacion Tranque Pampa Austral iV Etapa,al\r\nSistemadeEvaluacionde ImpactoAmbiental,deacuerdoa lo\r\nestablecidoen la ley N19.300,yque se encuentra reglamen-\r\n\r\ntadaporelD.S.N°30modificadoporeldecretosupremoN95\r\nde20oldel Ministero Secretana Generaldela Presidencia.\r\n\r\nElobjetivoprincipaldelproyectoesampliarlacapacidad\r\nactualdeltranquederelaves PampaAustral.paradarcontinuidad operacionalal procesometalurgicoque realiza Division\r\nSalvadordesdeaproximadamente40 anos.Lacuartaetapade\r\nampliacionpermitira disponerlosrelavesdesdediciembredel\r\nano2005,hastadiciembredelano2010,aumentandola capa\r\ncidad deembalse en 51 Mm derelaves.\r\nLaspartes,obrasyaccionesrelevantesqueconstituyenel\r\nproyecto se localizarian en la Ill Region de Atacama, en la\r\ncomunadeDiegodeAlmagro,enlanacientede laquebrada del\r\nestero Saladito,la cual seune conlaquebradasecadenominada\r\n\r\nEl Salado.El Trangue Pampa Austral se ubica a 60 Km al\r\nPoniente delaciudaddeEl Salvadorya 1Okilomelros alNNW\r\nde la ciudad de Diego de Almagro,\r\nParafines delanio2005 se "
+ },
+ {
+  "id": "d0558",
+  "comuna": "chiguayante",
+  "nombre_documento": "1391_aprueba_modificaciones_de_plan_regulador_comunal_y_ordenanza_local_de_plan",
+  "archivo": "chiguayante_1391_aprueba_modificaciones_de_plan_regulador_comunal_y_ordenanza_local_de_plan___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU5",
+   "ZU8"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1391, CHIGUAYANTE (2007)\r\n\r\nDecreto 1391\r\nAPRUEBA MODIFICACIONES DE PLAN REGULADOR COMUNAL Y ORDENANZA\r\nLOCAL DE PLAN REGULADOR\r\nMUNICIPALIDAD DE CHIGUAYANTE\r\nFecha Publicación: 21-NOV-2007 | Fecha Promulgación: 12-NOV-2007\r\nTipo Versión: Única De : 21-NOV-2007\r\nUrl Corta: https://bcn.cl/7t0S6C\r\n\r\nAPRUEBA MODIFICACIONES DE PLAN REGULADOR COMUNAL Y ORDENANZA LOCAL DE PLAN REGULADOR\r\nNúm. 1.391.- Chiguayante, 12 de noviembre de 2007.- Vistos: Estos antecedentes;\r\ndecreto alcaldicio Nº 637, de fecha 20.06.2003; acuerdo Nº 57-20-2006, de fecha\r\n6.07.2006 que aprueba el inicio del proceso de modificación del Plan Regulador\r\nComunal; decreto alcaldicio Nº 1.136 de fecha 6.10.2006 que sanciona el acuerdo\r\nanterior; oficio ordinario Nº 329 de fecha 6.06.2007 de la Comisión Regional del\r\nMedio Ambiente Región del Bío Bío; el Acuerdo Municipal Nº 61-29-2007 del\r\n2.08.2007, el cual aprueba las modificaciones al Plan Regulador Comunal vigente;\r\ndecreto alcaldicio Nº 938 de fecha 7.08.2007 que sanciona el acuerdo anterior;\r\noficio ordinario Nº 2259, D.D.U.I. Nº 794 de fecha 17.10.2007 del Secretario\r\nRegional Ministerial de Vivienda y Urbanismo Región del Bío Bío por el cual\r\ninforma favorablemente el proyecto de Modificación al Plan Regulador Comunal de\r\nChiguayante, Modificación Zona ZU8-3, 2007, de conformidad a la Memoria Explicativa,\r\nModelo de Decreto Alcaldicio y Plano PRCH-3 firmado y timbrado por esa Secretaría\r\nMinisterial, y en el uso de las facultades que me confieren "
+ },
+ {
+  "id": "d0559",
+  "comuna": "chiguayante",
+  "nombre_documento": "1495_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2008",
+  "archivo": "chiguayante_1495_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2008__DECRETO 1495 2008.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DAREO OEICIAL, DE, LA REPEIRLICA DE, CHILE\r\n\r\n(18774)\r\n\r\nFhgima 10\r\n\r\nEncargado dk Sala, perterecierte a la Cuarta Categoria del\r\n\r\nEscalafon de Eripleados del Fodet Judieial, Gtado XJI,\r\nvacante por proriocicm de dom Luis Carlos Campos Yillarrcel.\r\n\r\nDebe decir. Llamase. a concurso exterp. En lo ikimas, se.\r\nmantien inalterable la pubicacion aludida.\r\n\r\nPrimer Juzgado (Ciyll de Valdivia. Lian ase aconrurso\r\npiblico por diez dias a comtar de su publicacion, pa a proveer\r\nelcargo de Oficial Cuai to Titular, pot renuncia de dona Nancy\r\nDfaz Dfaz. Secretaria Subrogante.\r\n\r\nMEROG DEL CAPITUEOEDEL CONIPENDIO DE\r\nNORMAS DE CAMBIOS INTERNACIONALES Y\r\nCAPTUOE.B..DEL COMPENDD DE NORMAS\r\n\r\nFINANCIERAS AL. I2 DE DICIEMRE OE: 2US\r\nTipu de Carnbio $ Paridad Respecto\r\n(N' deI C.N.C.B,)\r\n\r\nFRANCO SUIZO\r\n\r\nCORONA DANESA\r\nCORONA NORUEGA\r\nCORONASUECA\r\n\r\nEURO\r\n\r\nDEG\r\n\r\n1. Aprltebese la enmienda al Plan Regulador Comunal\r\nYigente de Chiguay ante, en el sentido de agregar el siguiente\r\n\r\nparrafo tinal al art(euio 17. Estacionarniemos, Vivienda, del\r\nPian Reguiador Comunal de Chiguay ante:\r\n\"Fara los proyectos de conjuntos de vivienda, imipulsa\r\n\r\n1,000000\r\n1,224500\r\n1,478900\r\n1,806200\r\n\r\n0,66100\r\n\r\n91530000\r\n\r\n1,1$0500\r\n5,571000\r\n6,845600\r\n7.923200\r\n6,851300\r\n0,748100\r\n0,663293\r\n\r\nTipode cambio quz ri ge paraefectos cel Capltulo 1.B.3.\r\n\r\nSistemas ce ieajustabilidad autorizacos por ei Banco\r\nC'entral de (Chile (Acuerdo N 05 07 $00105) del Com\r\npendio de Normas Financieras.\r\n\r\nSantiag0. 11 de dici"
+ },
+ {
+  "id": "d0560",
+  "comuna": "chiguayante",
+  "nombre_documento": "1512_aprueba_de_plan_regulador_de_chiguayante_modificacion_2009",
+  "archivo": "chiguayante_1512_aprueba_de_plan_regulador_de_chiguayante_modificacion_2009__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "predial_minima": 2,
+   "altura_maxima": 6,
+   "densidad": 3,
+   "agrupamiento": 17,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 10,
+   "distanciamiento": 15,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 17
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU1",
+   "ZU2",
+   "ZU3",
+   "ZU4",
+   "ZU5",
+   "ZU6"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 14 senales normativas (constructibilidad, predial_minima, altura_maxima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1512, CHIGUAYANTE (2009)\r\n\r\nDecreto 1512\r\nAPRUEBA PLAN REGULADOR DE CHIGUAYANTE, MODIFICACIÓN 2009\r\nMUNICIPALIDAD DE CHIGUAYANTE\r\nPublicación: 18-NOV-2009 | Promulgación: 09-NOV-2009\r\nVersión: Única De : 18-NOV-2009\r\nUrl Corta: https://bcn.cl/3r45l\r\n\r\nAPRUEBA PLAN REGULADOR DE CHIGUAYANTE, MODIFICACIÓN 2009\r\nNúm. 1.512.- Chiguayante, 9 de noviembre de 2009.- Vistos: Estos antecedentes:\r\ndecreto alcaldicio Nº 637 de fecha 20.06.03 y publicado en el Diario Oficial del\r\n04.07.03; modificado el año 2006, según publicación en el Diario Oficial del día\r\n28 de julio de 2006; modificado en el año 2007, según publicación en el Diario\r\nOficial del día 21 de noviembre de 2007; acuerdo Nº 01-01-2009 de fecha 08.01.2009,\r\nque aprueba dar curso al proceso de modificación al Plan Regulador Comunal,\r\nordinario Nº 294 de fecha 07.06.2009 de la Comisión Regional del Medio Ambiente\r\nRegión del Bío-Bío; acuerdo Nº 61-22-2009 de fecha 20.07.2009 que aprueba el Plan\r\nRegulador Comunal, modificación 2009, en todas y cada una de sus partes, oficio\r\nordinario Nº 2.584, D.D.U.I. Nº 720, de fecha 4 de noviembre de 2009, del\r\nSecretario Regional Ministerial de Vivienda y Urbanismo Región del Bío-Bío, por el\r\ncual informa favorablemente el proyecto de Plan Regulador Comunal, modificación\r\n2009, de conformidad a la Memoria Explicativa, Modelo de decreto alcaldicio y Plano\r\nPRCH-4 firmado y timbrado por esa Secretaría Ministerial y en uso de las facultades\r\nque me confieren los artículos 12 y 63 de"
+ },
+ {
+  "id": "d0561",
+  "comuna": "chiguayante",
+  "nombre_documento": "179_aprueba_modificacion_al_plan_regulador_comunal_2010",
+  "archivo": "chiguayante_179_aprueba_modificacion_al_plan_regulador_comunal_2010__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZPR"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 179, CHIGUAYANTE (2010)\r\n\r\nDecreto 179\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE CHIGUAYANTE\r\nFecha Publicación: 04-FEB-2010 | Fecha Promulgación: 25-ENE-2010\r\nTipo Versión: Única De : 04-FEB-2010\r\nUrl Corta: https://bcn.cl/3rm5h\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nNúm. 179.- Chiguayante, 25 de enero de 2010.- Vistos: estos antecedentes:\r\nDecreto Alcaldicio Nº637 de fecha 20.06.03 y publicado en el Diario Oficial del\r\n04.07.03; modificado el año 2006, según publicación en el Diario Oficial del día\r\n28 de julio de 2006; modificado en el año 2007, según publicación en el Diario\r\nOficial del día 21 de noviembre de 2007; modificado en el año 2009, según\r\npublicación en el Diario Oficial del día 18 de noviembre de 2009; acuerdo\r\nNº110-35-2008 de fecha 20.11.2008, que aprueba dar curso al proceso de modificación\r\nal Plan Regulador Comunal; ordinario Nº801 de fecha 18.12.2009 de la Comisión\r\nRegional del Medio Ambiente Región del Bío-Bío; acuerdo Nº09-04-2010 de fecha\r\n14.01.2010 que aprueba el Plan Regulador Comunal, sobre la Vialidad Urbana y sus\r\nDeclaratorias de Utilidad Pública; oficio ordinario Nº166, D.D.U.I. Nº53, de fecha\r\n22.01.2010, del Secretario Regional Ministerial de Vivienda y Urbanismo Región del\r\nBío- Bío, por el cual informa favorablemente el proyecto de Plan Regulador Comunal\r\nsobre la Vialidad Urbana y sus Declaratorias de Utilidad Pública, de conformidad a\r\nla Memoria Explicativa, Modelo de Decreto Alcaldicio y Pla"
+ },
+ {
+  "id": "d0562",
+  "comuna": "chiguayante",
+  "nombre_documento": "2482_aprueba_plan_regulador_comunal_de_chiguayante_zona_zrd_2014",
+  "archivo": "chiguayante_2482_aprueba_plan_regulador_comunal_de_chiguayante_zona_zrd_2014__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZRD",
+   "ZRE",
+   "ZU8"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2482, CHIGUAYANTE (2014)\r\n\r\nDecreto 2482\r\nAPRUEBA PLAN REGULADOR COMUNAL DE CHIGUAYANTE, ZONA ZRD, 2014.\r\nMUNICIPALIDAD DE CHIGUAYANTE\r\nFecha Publicación: 19-ENE-2015 | Fecha Promulgación: 24-DIC-2014\r\nTipo Versión: Única De : 19-ENE-2015\r\nUrl Corta: https://bcn.cl/3lgp6\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE CHIGUAYANTE, ZONA ZRD, 2014\r\nNúm. 2.482.- Chiguayante, 24 de diciembre de 2014.- Vistos: estos antecedentes:\r\ndecreto alcaldicio Nº 637 de fecha 20.06.03 y publicado en el Diario Oficial del\r\n04.07.03; modificado el año 2006, según publicación en el Diario Oficial del día\r\n28 de julio de 2006; modificado en el año 2007, según publicación en el Diario\r\nOficial del día 21 de noviembre de 2007; modificado en el año 2009, según\r\npublicación en el Diario Oficial del día 18 de noviembre de 2009; modificado en el\r\naño 2010, según publicación en el Diario Oficial del día 4 de febrero de 2010;\r\nacuerdo Nº 128-28-2014 de fecha 11.09.2014, que aprueba el proyecto de modificación\r\nal Plan Regulador Comunal de Chiguayante, zona ZRD; decreto Nº 1.845 de fecha 30 de\r\nseptiembre de 2014 que sanciona el acuerdo Nº 128-28-2014; oficio ordinario Nº\r\n2912, D.D.U.I. Nº 799, de fecha 11 de diciembre de 2014, del Secretario Regional\r\nMinisterial de Vivienda y Urbanismo Región del Biobío, por el cual informa\r\nfavorablemente el proyecto de Plan Regulador Comunal de Chiguayante, zona ZRD, de\r\nconformidad a la Memoria Explicativa y Plano PRCH-6 firmado y timbrado por esa\r\nSecretaría Minister"
+ },
+ {
+  "id": "d0563",
+  "comuna": "chiguayante",
+  "nombre_documento": "637_promulgacion_plan_regulador_comunal_de_chiguayante",
+  "archivo": "chiguayante_637_promulgacion_plan_regulador_comunal_de_chiguayante__637.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 13,
+   "predial_minima": 7,
+   "altura_maxima": 1,
+   "agrupamiento": 36,
+   "antejardin": 2,
+   "distanciamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 18,
+   "ordenanza_local_txt": 2,
+   "articulado": 19
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [
+   "ZEU1",
+   "ZEU2",
+   "ZONA",
+   "ZU1",
+   "ZU2",
+   "ZU7"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 13 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIOOFICIALDELAREPUBLICADE CHILE\r\nMUNICIPALIDADDECHIGUAYANTE\r\n\r\nPROMULGAPLANREGULADORCOMUNALDECHIGUAYANTE\r\nNirn.637. Chiguayanle,20 de junio de 2003. Vislos: eslos anlecedenles; el decrelo\r\nalcaldicioN°990 de fecha 31de diciernbre de1998,gue adjudico a la Consullora CEC Lida.\r\nlaelaboracion del proyeclo\"Plan Regul ador deChiguayanle\";el Acuzrdo 52 14 200 defecha\r\n27 de junio de 2000.del Concejo Municipal de Chiguayanle,gue aprueba el Plan Regulador\r\nComunaldeChiguayanle;el decrelo alcaldicioN°1.162defecha29dediciembrede2000gu2\r\nsanciona el Acuerdo anlerior; el oficio ordinario N°4 de fecha 4 de enero de 2001, por el cual\r\nse remile a la Cormnision Regional del Medio Ambienle Vill Region el proyeclo del Plan\r\nRegulador Cormnunal de Chiguayanle; la resolucion exenla de Calificacion Ambienlal\r\nNo313/2001de fecha1de oclubre de 2001,gue califica favorablernenle el proyeclo Plan\r\nRegulador Comunal de Chiguayanle; el oficio ordinario N382 de fecha 4 de diciembre de\r\n2001 del Alcalde de Chiguayanle.gue rermile proyeclo Plan Regulador Comunal de Chigua\r\nyanle a la Secrelara Regional Minislerial de Vivienda y Urbanismo Region del Bfo Bfo; el\r\n\r\nordinario N°678 D.D.U..No 336 de fecha 11 de abril de 2003 del Secrelario Regional\r\n\r\nMinislerial de Vivienday Urbanisno Region del Bfo Bfo,porel cual informa favorablermenle\r\nel Plan ReguladorCon mal de Chiguayanle;loprevisloenelarifculo43del decrelo con fuerza\r\nde ley N°458 de 1975, Ley General de Urbarismo y Consrucciores; lo dispueslo en e"
+ },
+ {
+  "id": "d0564",
+  "comuna": "chiguayante",
+  "nombre_documento": "749_aprueba_modificacion_al_plan_regulador_comunal_chiguayante_2006",
+  "archivo": "chiguayante_749_aprueba_modificacion_al_plan_regulador_comunal_chiguayante_2006__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 47,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 9,
+   "antejardin": 5,
+   "adosamiento": 2,
+   "distanciamiento": 2,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 22
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZR2",
+   "ZU1",
+   "ZU3"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 749, CHIGUAYANTE (2006)\r\n\r\nDecreto 749\r\nAPRUEBA MODIFICACION AL PLAN REGULADOR COMUNAL DE CHIGUAYANTE\r\nMUNICIPALIDAD DE CHIGUAYANTE\r\nFecha Publicación: 28-JUL-2006 | Fecha Promulgación: 13-JUL-2006\r\nTipo Versión: Última Versión De : 14-ABR-2015\r\nUltima Modificación: 14-ABR-2015 Decreto 864\r\nUrl Corta: https://bcn.cl/3rlcg\r\n\r\nAPRUEBA MODIFICACION AL PLAN REGULADOR COMUNAL DE\r\nCHIGUAYANTE\r\nNúm. 749.- Chiguayante, 13 de julio de 2006.- Vistos:\r\nestos antecedentes: Decreto Alcaldicio Nº 637, de fecha\r\n20.06.2003; acuerdo Nº 46-14-2004, de fecha 08.07.2004 que\r\naprueba el inicio del proceso de modificación del Plan\r\nRegulador Comunal; Resolución exenta Nº 086 de la\r\nComisión Regional del Medio Ambiente Región del Bío Bío de fecha 20.03.2006; Oficio Ordinario Nº 257 de fecha\r\n03.05.2006 y 268 de fecha 08.05.2006 de la Comisión\r\nRegional del Medio Ambiente Región del Bío - Bío; el\r\nAcuerdo Municipal Nº 44-15-2006 del 18.05.2006, el cual\r\naprueba en general las modificaciones al Plan Regulador\r\nComunal vigente; Acuerdo Municipal Nº 45-15-2006 del\r\n18.05.2006, el cual aprueba todas y cada una de las\r\nmodificaciones introducidas al Plan Regulador Comunal\r\nvigente; el Decreto Alcaldicio Nº 572 de fecha 26.05.2006\r\nque sanciona los Acuerdos anteriores; Oficio Ordinario Nº\r\n1206, D.D.U.I. Nº 541 de fecha 05.07.2006 del Secretario\r\nRegional Ministerial de Vivienda y Urbanismo Región del\r\nBío- Bío por el cual informa favorablemente el proyecto de\r\nModificación al Plan Regulador Comu"
+ },
+ {
+  "id": "d0565",
+  "comuna": "chiguayante",
+  "nombre_documento": "854_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2012",
+  "archivo": "chiguayante_854_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2012__DECRETO 854 2012.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "densidad": 1,
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DLARIO OFICIAL DE LA REPUBLICA DE CHILE\r\n\r\nN°40271\r\n\r\nCuerpo I-3\r\n\r\nSabado 26 de Mayo de 2012\r\n\r\nPortuguesa, promul gado por el decreto supremo No 936, de 5 de junio de 2000, del\r\nMini sterio de Relaciones Exteriores, enlos articulos 2 y 4 del Acuerdo Administrativo parala aplicacion del Convenio de Seguridad Social mencionado, promul gado\r\n\r\nDacretr Sugrene\r\n\r\nCanvenio\r\n\r\nnisteroREE!\r\nN' 262\r\n\r\npor el decreto supremo No 1.225, de 19 de julio de 2000, del Ministerio de\r\n\r\nReing de Espana\r\n\r\npromulgado por el decreto supremo N° 1.865, de 5 de noviembre de 1999, del\r\n\r\n13Rapkbaca de Finiandis\r\n\r\nN' 204\r\n\r\n2002 7.8\r\n\r\ntRepihuhaFrancess\r\n\r\nN430\r\n\r\n2001\r\n\r\n16Gran Dueecnce axemsurco\r\n\r\nN°B12\r\n\r\neRgna cle Noruega\r\n\r\nN' 242\r\n\r\n17 Reptblina del per\r\n\r\nN'a?\r\n\r\n2004\r\n\r\n18Regedlica Poruguwse\r\n\r\nN535\r\n\r\n20\r\n\r\n20 Repblica Gacs\r\n\r\nN 285\r\n\r\nRelaciones Exteriores,lo dispuesto enlos articulos 1 No1,8 y 11 del Convenio sobre\r\nSeguridad Social suscrito entre la Republica de Chile y el Gobierno de Quebec,\r\n\r\nMini sterio de Relaciones Exteriores, en los articulos2 y 4 del Acuerdo Administrativo parala aplicacion del Convenio de Seguridad Social mencionado, promul gado\r\npor el decreto supremo No 580, de 13 de abril de 2000, del Ministerio de Relaciones\r\n\r\nExteriores; lo dispuesto en los articulos 1 No 1 letra d y 8 del Convenio sobre\r\nSeguridad Social suscrito entre la Republica de Chile y la Republica Checa\r\npromulgado por el decreto supremo No 285, de 4 de noviembre de 2003, del\r\n\r\nMini sterio de"
+ },
+ {
+  "id": "d0566",
+  "comuna": "chiguayante",
+  "nombre_documento": "898_aprueba_enmienda_al_plan_regulador_comunal_vigente_de_chiguayante_ajuste_zon",
+  "archivo": "chiguayante_898_aprueba_enmienda_al_plan_regulador_comunal_vigente_de_chiguayante_ajuste_zon__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "antejardin": 4,
+   "distanciamiento": 1,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZR1"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 898, CHIGUAYANTE (2024)\r\n\r\nDecreto 898\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL VIGENTE DE\r\nCHIGUAYANTE:\r\n\"AJUSTE\r\nZONA\r\nESPECIAL\r\nPOR\r\nLADERAS\r\nZR1,\r\nESTACIONAMIENTOS Y VOLÚMENES SOBRE ANTEJARDINES\"\r\nMUNICIPALIDAD DE CHIGUAYANTE\r\nFecha Publicación: 09-MAY-2024 | Fecha Promulgación: 30-ABR-2024\r\nTipo Versión: Última Versión De : 29-MAY-2024\r\nUltima Modificación: 29-MAY-2024 Decreto 1033\r\nUrl Corta: https://bcn.cl/3n72d\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL VIGENTE DE\r\nCHIGUAYANTE: \"AJUSTE ZONA ESPECIAL POR LADERAS ZR1,\r\nESTACIONAMIENTOS Y VOLÚMENES SOBRE ANTEJARDINES\"\r\nNúm. 898.- Chiguayante, 30 de abril de 2024.\r\nVistos:\r\nEstos antecedentes: Decreto alcaldicio Nº 637 de fecha\r\n20 de junio de 2003 y publicado en el Diario Oficial del 4\r\nde julio de 2003; modificado el año 2006, según\r\npublicación en el Diario Oficial del día 28 de julio de\r\n2006; modificado en el año 2007, según publicación en el\r\nDiario Oficial del día 21 de noviembre de 2007; modificado\r\nen el año 2009, según publicación en el Diario Oficial\r\ndel día 18 de noviembre de 2009; modificado en el año\r\n2010, según publicación en el Diario Oficial del día 4 de\r\nfebrero de 2010; modificado en el año 2015, según\r\npublicación en el Diario Oficial del día 19 de enero de\r\n2015; modificación en el año 2018, según publicación en\r\nel Diario Oficial del día 16 de febrero de 2018; Acuerdo\r\nNº 33-01-2024 de fecha 22.03.2024; decreto de ratificación\r\nNº 802, de fecha 16.04.2024 y en uso de las facultades qu"
+ },
+ {
+  "id": "d0567",
+  "comuna": "chiguayante",
+  "nombre_documento": "decreto_alcaldicio_637_promulga_plan_regulador_comunal_de_chiguayante",
+  "archivo": "chiguayante_decreto_alcaldicio_637_promulga_plan_regulador_comunal_de_chiguayante__ENMIENDAS_20Y_20MODIFICACIONES_20PLAN_20REGULADOR.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ASESORÍA URBANA\r\n\r\nAntecedentes año de publicación y registro de\r\nmodificaciones y enmiendas PRC.\r\nPromulgación del Plan Regulador Comunal : Decreto Nº 637, del 20 de junio de 2003.\r\nPublicación en el Diario Oficial\r\n\r\n: 04 de julio de 2003.\r\n\r\nModificación año 2006 (Actualización, Ajustes, Mejoras) : Decreto N° 749, del 13 de julio de 2006.\r\nPublicación en el Diario Oficial\r\n\r\n: 28 julio de 2006.\r\n\r\nModificación año 2007 (Actualización, Ajustes, Mejoras) : Decreto N° 1391, del 12 de noviembre de 2007.\r\nPublicación en el Diario Oficial\r\n\r\n: 21 de noviembre de 2007.\r\n\r\nModificación año 2009 (Actualización, Ajustes, Mejoras) : Decreto N°1512, del 09 de noviembre de 2009.\r\nPublicación en el Diario Oficial\r\n\r\n: 18 de noviembre de 2009.\r\n\r\nModificación año 2010 (Declaratorias)\r\n\r\n: Decreto N°179, del 25 de enero de 2010.\r\n\r\nPublicación en el Diario Oficial\r\n\r\n: 04 de febrero de 2010.\r\n\r\nModificación año 2015 (Actualización)\r\n\r\n: Decreto N° 2482, del 24 de diciembre de 2014.\r\n\r\nPublicación e el Diario Oficial\r\n\r\n: 19 de enero de 2015.\r\n\r\nModificación año 2015 (Declaratorias)\r\n\r\n: Decreto N° 864, del 06 de abril de 2015.\r\n\r\nPublicación en el Diario Oficial\r\n\r\n: 14 de abril de 2015.\r\n\r\nModificación año 2018 (Actualización, Ajustes, Mejoras) : Decreto N° 333, del 09 de febrero de 2018.\r\nPublicado en el Diario Oficial\r\n\r\n: 16 de febrero de 2018.\r\n\r\n\fASESORÍA URBANA\r\n\r\nAntecedentes año de publicación y registro de\r\nmodificaciones y enmiendas P.R.C.\r\n\r\nProcesos de enmiendas :\r\nPromulgada"
+ },
+ {
+  "id": "d0568",
+  "comuna": "chiguayante",
+  "nombre_documento": "decreto_alcaldicio_promulga_plan_regulador_comunal_de_chiguayante",
+  "archivo": "chiguayante_decreto_alcaldicio_promulga_plan_regulador_comunal_de_chiguayante__MOD PLAN REGULADOR 2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 96,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 6,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU1",
+   "ZU2",
+   "ZU3",
+   "ZU4",
+   "ZU5",
+   "ZU6",
+   "ZU7",
+   "ZU8"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 333\r\n:16-02-2018\r\n:09-02-2018\r\n:MUNICIPALIDAD DE CHIGUAYANTE\r\n:APRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL VIGENTE DE\r\nCHIGUAYANTE: \"ADECUACIÓN NORMATIVA DE LA ORDENANZA LOCAL\"\r\n:Única\r\nDe : 16-02-2018\r\n:16-02-2018\r\n:1115251\r\n:https://www.leychile.cl/N?i=1115251&f=2018-02-16&p=\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL VIGENTE DE CHIGUAYANTE: \"ADECUACIÓN\r\nNORMATIVA DE LA ORDENANZA LOCAL\"\r\nNúm. 333.- Chiguayante, 9 de febrero de 2018.\r\nVistos:\r\nEstos antecedentes: Decreto alcaldicio Nº 637, de fecha 20 de junio de 2003, y\r\npublicado en el Diario Oficial del 4 de julio de 2003; modificado el año 2006,\r\nsegún publicación en el Diario Oficial del día 28 de julio de 2006; modificado en\r\nel año 2007, según publicación en el Diario Oficial del día 21 de noviembre de\r\n2007; modificado en el año 2009, según publicación en el Diario Oficial del día\r\n18 de noviembre de 2009; modificado en el año 2010, según publicación en el Diario\r\nOficial del día 4 de febrero de 2010; modificado en el año 2015, según\r\npublicación en el Diario Oficial del día 19 de enero de 2015; Acuerdo Nº\r\n204-34-2017 de fecha 07.12.2017, que aprueba el proyecto de modificación al Plan\r\nRegulador Comunal Vigente de Chiguayante: Adecuación Normativa de la Ordenanza\r\nLocal; decreto Nº 2.411, de fecha 12 de diciembre de 2017, que sanciona el Acuerdo\r\nNº 204-34-2017; oficio ordinario N"
+ },
+ {
+  "id": "d0047",
+  "comuna": "chillan",
+  "nombre_documento": "9789_complementa_decreto_n_7458_de_fecha_07_de_julio_de_2016_que_promulga_modifi",
+  "archivo": "chillan_9789_complementa_decreto_n_7458_de_fecha_07_de_julio_de_2016_que_promulga_modifi__Decreto 9789 - Promulga Modificacion.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0569",
+  "comuna": "chillan",
+  "nombre_documento": "2023292_modificacion_n1_2009_plan_regulador_comunal_de_chillan_art_23_zona_ze_3",
+  "archivo": "chillan_2023292_modificacion_n1_2009_plan_regulador_comunal_de_chillan_art_23_zona_ze_3___Decreto 3292 - Mod Plan Regulador 1, Diario Oficial.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "agrupamiento": 1,
+   "rasante": 1,
+   "usos_de_suelo": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE",
+   "ZE 3",
+   "ZE 4",
+   "ZE3"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DARO OEICIAL DE, LA REPEIBLICA DE. CHLE\r\nJueves 27 de Agosto de 2019\r\n\r\nNo 39447\r\n\r\nTIPODECANBIO PARA EFECTOS DEL NUNERO\r\n\r\nD'TRAS ENTTDADES\r\n\r\nTDELCAEITELDDEL CMPENDODENORMAS\r\nDE CAMBEOSINTEANACIONALES\r\n\r\nBaco Centrai de Chile\r\nTIPOSDE CAMBIO YPARDADESDE MCNEOAS\r\nEXTRANIERAS PAR4 EFE:CTS DEL NUME:RR 动\r\nDELCAPTIOELEOMPENCODENORMASDE\r\n\r\nCAMBIOS INTERNACIONALES Y CAPITULO I.B.3.\r\n\r\nDELCOMPENDIO DE NORNMAS FINANCIERASAL\r\n2TDE4G0STODE2009\r\n\r\nEl tipo ik rambio dolar aruerin\" a gue se refiere el\r\nimciso primero del N7 del Capftulo I del Compenkio de\r\nNormas de Camibios rteinacionales fue de S629,40 por\r\ndbiar, niomedade los Estados Unidos de Arnsrica, parael dfa\r\n26 de agosto de 2009.\r\n\r\nSaniago, 26 de agosto de 2009. Migpel Angel Nacrur\r\nGazali, Ministro de Fe.\r\n\r\nMunicipalidades\r\n\r\nTipo de Ca mbins Faridad Respecto\r\n(Nof deI .N.E.!.]\r\n\r\nDOLAR EE.UU. *\r\n\r\n548,57\r\nDOLAR CANADA\r\n499,65\r\nDOLARAJSTRALIA\r\n454,04\r\nDOLAR NEOZELANDES 373,35\r\nLIERA EETERLINA\r\n890.97\r\nYENJAPONES\r\n5,183\r\nFRANCO SUIZO\r\n513,55\r\nCCRONA DANESA\r\n105,00\r\nCORONA NORUEGA\r\n90,40\r\nCORCNA SUECA\r\n76,90\r\nYUan\r\n80,31\r\nEURO\r\n781,33\r\n856,17\r\n\r\nMLINICTPALIDAD DELA FLORIDA\r\n\r\n1,000000\r\n1,09 7900\r\n\r\n1,208200\r\n\r\n1469300\r\n0.615700\r\n\r\n94,15000\r\n\r\n1,068200\r\n5,224300\r\n6,068100\r\n7.134000\r\n6,831000\r\n0.702100\r\n\r\nQ,64722\r\n\r\nTipo de cambio qpe rige para efectos del Capiuio\r\n\r\nT1.B.3. Sistemas de reajustabilidad autorizados por el\r\nBaixcn C21tral de Chile (Acuerdo Ng(15 07 9G105)\r\n\r\ndei compendic deNomas Financieras.\r\n\r\nSantiago, 26 de a"
+ },
+ {
+  "id": "d0570",
+  "comuna": "chillan",
+  "nombre_documento": "2024637_modificacion_n2_2009_plan_regulador_comunal_de_chillan_renovacion_de_dec",
+  "archivo": "chillan_2024637_modificacion_n2_2009_plan_regulador_comunal_de_chillan_renovacion_de_dec__Decreto 4637 - Mod Plan Regulador 2, Diario Oficial.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [
+   "Z00"
+  ],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DAR CeICIAL. DE, LA REPEIBLICA DE, CHLE\r\n\r\nNo 39.527\r\n\r\n(19401)\r\n\r\nJueves 3 sie Diciembre de 2ik19\r\n\r\nO de der ecn comprench do en el proceso, incluyenco, cuando\r\n\r\nproceda, la mvitaclon areferr se a fundamenios constitucionales distintos a aquelios invocados por las partes en ia litis.\r\nEsta inmtacicur no obstara a ia ueriad del abogado para el\r\ndesatr ullo de su exposiciun ptr el tiempo que cotesponde.\r\n\r\nViGEsiMo.Mirutas. Aitermmodelaaudenca,ios\r\n\r\nabogados podran dejar a t sposicion del Tnbunal una minuta\r\nde: ss alegatos.\r\n\r\nVGESIMPRNE'O.-Cost.arias:Cclu(la\r\n\r\nvista,elrelatordejaraconstancaenelprocesoacercadesilos\r\n\r\nabogados que se anunciaron para alegar efectivamerie lo\r\nhicieton. Hara constar, asmi smo, s se acompann minuta de\r\nalegatos.\r\n\r\nVGESMOSEGLNDO.-Crr正 iruaiEmce a ris ta.La\r\n\r\nvista de ias causas que, excepcionalmente, daca su extenson\r\n\r\nY cotripiegird, o haye pudido setr conchuce en la audienca\r\niespectiva y guede conrelacaon u alegatns petidhentes, dchera\r\n\r\nprusegurse enla auiecla tmasptoxme que senale ei Pres-\r\n\r\ndente del Tribunal o de ia Baia, segun corresponda.\r\n\r\nViGESMoT ERCERO.-Lecieiores cue pocra acbptarel Trihural cluica ia vista celacasa. Tenincala\r\nvista, el Trbumal podra proiunclarse sobre las siguientes\r\nmaleras.\r\nLecreter ineth ras pata mejot tesoiver.\r\n\r\nSt cualguer [Mitu sto solict tuetrpo para im trayor\r\n\r\nestidio, se estara a lc ch spuesto en el articuio 82 dd\r\nCodigo Organ co de Tibunai es, en reiaaon ai aiticulo\r\n1? de la Ley Cr gatuco"
+ },
+ {
+  "id": "d0571",
+  "comuna": "chillan",
+  "nombre_documento": "2453_deja_sin_efecto_declaratorias_de_uitlidad_publica_de_las_siguientes_vias_co",
+  "archivo": "chillan_2453_deja_sin_efecto_declaratorias_de_uitlidad_publica_de_las_siguientes_vias_co__Decreto 2453 - Deja Sin Efecto Declaratorias.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.178\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 9 de Junio de 2015\r\n(IdDO 913174)\r\n\r\nFIJA VALOR DE LA UNIDAD DE FOMENTO, DEL ÍNDICE VALOR\r\nPROMEDIO Y CANASTA REFERENCIAL DE MONEDAS PARA LOS DÍAS\r\nCOMPRENDIDOS ENTRE EL 10 DE JUNIO DE 2015 Y 9 DE JULIO DE 2015\r\nEl Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3\r\n“Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº\r\n05-07-900105)” del Compendio de Normas Financieras, fija el valor de la “Unidad\r\nde Fomento” y del “Índice Valor Promedio” para los días comprendidos entre el\r\n10 de junio de 2015 y 9 de julio de 2015, en las cantidades que a continuación\r\nse indican.\r\nAsimismo, de conformidad con lo dispuesto en el Anexo Nº 1 del Capítulo I\r\ndel Compendio de Normas de Cambios Internacionales, fija el valor de la “Canasta\r\nReferencial de Monedas” (CRM) para los días comprendidos entre el 10 de junio\r\nde 2015 y 9 de julio de 2015, en las siguientes cantidades:\r\nValores de U.F., I.V.P. Y CANASTA\r\nPERÍODO DEL 10 DE JUNIO 2015 AL 9 DE JULIO 2015\r\n\t\t\t\r\n\t\t\tCANASTA\r\nFECHA\r\nU.F.\r\nI.V.P.\r\nREFERENCIAL\r\n\t\t\t\r\nDE MONEDAS\r\n10-06-2015\r\n11-06-2015\r\n12-06-2015\r\n13-06-2015\r\n14-06-2015\r\n15-06-2015\r\n16-06-2015\r\n17-06-2015\r\n18-06-2015\r\n19-06-2015\r\n20-06-2015\r\n21-06-2015\r\n22-06-2015\r\n23-06-2015\r\n24-06-2015\r\n25-06-2015\r\n26-06-2015\r\n27-06-2015\r\n28-06-2015\r\n29-06-2015\r\n30-06-2015\r\n01-07-2015\r\n02-07-2015\r\n03-07-2015\r\n04-07-2015\r\n05-07-2015\r\n06-07-2015\r\n07-07-2015\r\n08-07-2015\r\n09-07-2015\r\n\r\n24"
+ },
+ {
+  "id": "d0572",
+  "comuna": "chillan",
+  "nombre_documento": "3123_promulga_enmienda_no_0l_2024_antejardines_al_plan_regulador_comunal_de_chil",
+  "archivo": "chillan_3123_promulga_enmienda_no_0l_2024_antejardines_al_plan_regulador_comunal_de_chil__Decreto 3123.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 1,
+   "altura_maxima": 5,
+   "densidad": 2,
+   "agrupamiento": 10,
+   "antejardin": 17,
+   "normas_urbanisticas": 6,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH-1",
+   "ZH-11",
+   "ZH-2",
+   "ZH2",
+   "ZM-2",
+   "ZONA"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.149\r\n\r\n|\r\n\r\nJueves 15 de Mayo de 2025\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 2641248\r\n\r\nMUNICIPALIDAD DE CHILLÁN\r\n\r\nPROMULGA ENMIENDA Nº 0l-2024 ANTEJARDINES AL PLAN REGULADOR\r\nCOMUNAL DE CHILLÁN\r\n(Extracto)\r\nPor decreto alcaldicio Nº 3.123, de fecha 26 de marzo de 2025, se promulgó la Enmienda Nº\r\n01-2024, relativa a los antejardines en el Plan Regulador Comunal de Chillán. Está enmienda se\r\nencuentra publicada en el sitio electrónico de la Municipalidad de Chillán\r\nwww.municipalidadchillan.cl, desde el día 15 de mayo de 2025, y entra en vigencia a partir de la\r\nmisma fecha de publicación en dicho sitio electrónico.- Camilo Benavente Jiménez, Alcalde.Mauricio Gallardo Vera, Secretario Municipal (S).\r\n\r\nFelipe Andrés Peroti Díaz\r\nCVE 2641248 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl\r\n\r\n\fDecreto N° 3123 / 2025 Chillán, 26 de Marzo del 2025\r\n\r\nPROMULGA ENMIENDA N°01-2024 ANTEJARDINES\r\nAL PLAN REGULADOR COMUNAL DE CHILL"
+ },
+ {
+  "id": "d0573",
+  "comuna": "chillan",
+  "nombre_documento": "7458_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio_bio",
+  "archivo": "chillan_7458_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio_bio__Decreto 7458 - Mod Plan Regulador, Diario Oficial.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 16,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 3,
+   "agrupamiento": 2,
+   "normas_urbanisticas": 2,
+   "zonificacion": 3,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 7,
+   "articulado": 9,
+   "limite_urbano": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZC",
+   "ZC1",
+   "ZC2",
+   "ZC3",
+   "ZE",
+   "ZE-1",
+   "ZE1",
+   "ZE2",
+   "ZE3",
+   "ZE4",
+   "ZE5"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.513\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 21 de Julio de 2016\r\n\r\nMunicipalidad de Chillán\r\n\r\n(IdDO 1043537)\r\n\r\nPROMULGA MODIFICACIÓN PLAN REGULADOR COMUNA DE\r\nCHILLÁN, REGIÓN DEL BÍO BÍO\r\n\r\nl)\r\n\r\nNúm. 7.458.- Chillán, 7 de julio de 2016.\r\nVistos:\r\nLas facultades que me confiere la Ley Nº 18.695, Orgánica Constitucional de\r\nMunicipalidades;\r\n1.- El párrafo 4º, del Capítulo II, del Título II de la Ley General de Urbanismo\r\ny Construcciones, contenido en el decreto 458, de 1975 del Ministerio de Vivienda\r\ny Urbanismo, párrafo denominado “De la Planificación Urbana Comunal”.\r\n2.- Las normas pertinentes contenidas en la Ordenanza General de Urbanismo\r\ny Construcciones, aprobada por decreto Nº 47, de 1992, del Ministerio de Vivienda\r\ny Urbanismo, especialmente los artículos 2.1.10, 2.1.11, y demás pertinentes.\r\n3.- El Párrafo 1º bis: “De la Evaluación Ambiental Estratégica”, contenido en\r\nel Título II de la Ley 19.300 de Bases Generales del Medio Ambiente.\r\n4.- El Acta Municipal Nº 1 de fecha 06.12.2012 y decreto alcaldicio Nº 46 del\r\n06.12.2012 que nombra a don Sergio Zarzar Andonie, en su calidad de alcalde de\r\nla Municipalidad de Chillán.\r\n\r\nm)\r\nn)\r\n\r\nñ)\r\n\r\no)\r\np)\r\n\r\nConsiderando:\r\na)\r\n\r\nb)\r\n\r\nc)\r\nd)\r\n\r\ne)\r\nf)\r\n\r\ng)\r\nh)\r\ni)\r\n\r\nj)\r\n\r\nk)\r\n\r\nEl acuerdo Nº 1.442/11, adoptado por el H. Concejo Municipal, según\r\nActa Nº 27, de fecha 1 de agosto de 2011, acordando por unanimidad de los\r\npresentes, dar inicio a la etapa de aprobación de la actualización del Plan\r\nRegu"
+ },
+ {
+  "id": "d0574",
+  "comuna": "chillan",
+  "nombre_documento": "decreto_municipal_7458_promulga_modificacion_plan_regulador_comuna_de_chillan_re",
+  "archivo": "chillan_decreto_municipal_7458_promulga_modificacion_plan_regulador_comuna_de_chillan_re__Decreto_207458.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 41,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 4,
+   "agrupamiento": 1,
+   "normas_urbanisticas": 3,
+   "zonificacion": 6,
+   "usos_de_suelo": 6,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZC",
+   "ZC1",
+   "ZC2",
+   "ZC3",
+   "ZE",
+   "ZE2",
+   "ZE3",
+   "ZH",
+   "ZH1",
+   "ZH2",
+   "ZH3"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DECHILLAN\r\nALCALDiA\r\nPROMULGA MODIFICACIONPLANREGULADOR\r\n\r\nCOMUNADE CHILLAN,REGIONDEL BIO BIO.\r\n\r\n7458\r\n\r\nDECRETO N..\r\n\r\nCHILLAn,\r\n\r\nde 07 JUL 2016 de\r\n\r\nVisTOs: Las facultades que me confiere la Ley\r\n\r\nN°18.695,Organica Constitucional de Municipalidades;\r\n\r\n1.-\r\n\r\nEl parrafo 4, del Capitulo ll, del Titulo Il de la Ley\r\nGeneral de Urbanismo y Construcciones, contenido en el decreto 458 de 1975 del Ministerio de Vivienda\r\ny Urbanismo,parrafodenominado“Dela Planificacion Urbana Comunal\".\r\n\r\n2.-\r\n\r\nLas normas pertinentes contenidas en la\r\n\r\nOrdenanza General de Urbanismo y Construcciones, aprobada por decreto No 47 de 1992 del Ministerio\r\nde Vivienda y Urbanismo, especialmente los articulos 2.1.10, 2.1.11, y demas pertinentes.\r\n\r\n3.-\r\n\r\nEl Parrafo 1°bis:\"De la Evaluacion Ambiental\r\n\r\nEstrategica\", contenido en el Titulo Il de la Ley 19.300 de Bases Generales del Medio Ambiente.\r\n\r\n4.-\r\n\r\nEl Acta Municipal N°1de fecha 06.12.2012y\r\n\r\nDecretode\r\nAlcaldicio\r\nNo 46 del\r\nque nombra a don Sergio Zarzar Andonie, en su calidad de\r\nalcalde\r\nla Municipalidad\r\nde 06.12.2012\r\nChillan.\r\nCONSIDERANDO:\r\n\r\na) El acuerdo No 1.442/11, adoptado por el H. Concejo\r\nMunicipal, segun Acta No 27, de fecha 01 de agosto de 2011, acordando por unanimidad de los\r\npresentes, dar inicio a la etapa de aprobacion de la actualizacion del Plan Regulador de la Comuna de\r\nChillan.\r\n\r\nb)Que mediante publicacion realizada los dias 20 de\r\n\r\nnoviembre de2011 y27de noviembre de 2011, en diario de circula"
+ },
+ {
+  "id": "d0575",
+  "comuna": "chillan",
+  "nombre_documento": "los_predios_del_plan_regulador_comunal_vigente_la_ciudad_de_chillan_y_chillan_vi",
+  "archivo": "chillan_los_predios_del_plan_regulador_comunal_vigente_la_ciudad_de_chillan_y_chillan_vi__MU042T0001341.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "r. MUNIcTPALtDAD DE cHTLLAN\r\nTRANSpARENctA - accESo A LA tNFoRMActóN PúBLlcA\r\n\r\nORD: loU 2506 / 2018\r\n\r\nANT.: Solicitud No MU042T0001341 de\r\nfecha 06 de Julio del 2018.\r\nMAT: COMUNICA LA INEXISTENCIA DE LA\r\nINFORMACIóN SOTTCTTADA.\r\nChillán, 19 de Julio de 2018.\r\n\r\nDE: TRANSPARENCIAMUNICIPAL\r\nI.MUNICIPATIDAD DE CHITLAN\r\n\r\nA:\r\n\r\nSRA. CRISTINA CÁCERES\r\n\r\nQue con fecha 06 de Julio del 2018, se recibió la solicitud de información pública No\r\nMUO42TOOO1341, mediante la cual requiere: \"Los PREDIOS del Plan Reoulador Comunal\r\nV¡aente la ciudad de Ch¡lán y Chillán Vieio.\r\nen su tabla de atr¡b utos oue contenoa el ROL de SII\".\r\nEn formato shaoefile, con un cam\r\nEl Decreto Alcaldicio No 512212015, del 21 de julio del 2015, el cual delega facultades al\r\nAdm¡n¡strador Municipal o quien lo subrogue, para firmar todos lo documentos relacionados\r\na la Ley No 20.285 \"Acceso a la Información Pública\".\r\nEn cumplimiento de lo dispuesto en el punto 2.3., de la Instrucción General No 10 del\r\nconsejo para la Transparenc¡a, que ex¡ge efectuar una búsqueda de la información\r\nrequerida, comunico a Usted que, realizada aquélla y agotados todos los medios a nuestra\r\ndisposición para encontrarla, se comprobó que en la Direcc¡on de obras Mun¡cipales no\r\ncuenta o no fue hab¡da, la información solicitada.\r\nCon la notificación de esta respuesta, se da por terminado ante este órgano el procedimiento\r\nadministrat¡vo de acceso a la ¡nformación correspond¡ente a su sol¡citud.\r\n\r\nDe no encontrarSe confOrme con la"
+ },
+ {
+  "id": "d0576",
+  "comuna": "chillan",
+  "nombre_documento": "ordenanza_ordenanza_local_plan_regulador_intercomunal_chillan_chillan_viejo",
+  "archivo": "chillan_ordenanza_ordenanza_local_plan_regulador_intercomunal_chillan_chillan_viejo__Ordenanza Plan Regulador Intercomunal.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 39,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 7,
+   "usos_de_suelo": 6,
+   "articulado": 40,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZBA",
+   "ZEC",
+   "ZEI",
+   "ZHM",
+   "ZI",
+   "ZIS",
+   "ZIT",
+   "ZONA",
+   "ZPD"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR INTERCOMUNAL CHILLAN-CHILLAN VIEJO\r\n\r\nORDENANZA\r\nPLAN REGULADOR INTERCOMUNAL\r\nCHILLAN-CHILLAN VIEJO\r\nTITULO I\r\nDISPOSICIONES GENERALES\r\nCAPITULO 1.\r\n\r\nDISPOSICIONES GENERALES.\r\n\r\nArtículo 1.1.1.\r\nEl Plan Regulador Intercomunal de Chillán-Chillán Viejo, en\r\nadelante el PRICH, está conformado por la presente Ordenanza; por la Memoria\r\nExplicativa y por los Planos PRICH-1 Zonificación General del Area Intercomunal, y\r\nPRICH-2 Vialidad Estructurante del Area Intercomunal, ambos a escala 1:35.000.\r\nTodos los documentos mencionados constituyen un solo cuerpo legal para los\r\nefectos de su aplicación.\r\nArtículo 1.1.2.\r\nLas disposiciones contenidas en esta Ordenanza se refieren a\r\nlas siguientes materias: límite de extensión urbana; zonificación general; condiciones\r\ny densidades de ocupación del suelo; equipamientos de carácter intercomunal;\r\nactividades productivas e instalaciones de alto impacto; vialidad estructurante; y otras\r\nnormas especiales de aplicación general para el área que regula. Las disposiciones\r\nde esta Ordenanza prevalecen sobre la información gráfica contenida en los planos.\r\nArtículo 1.1.3.\r\nTodas aquellas materias atingentes al desarrollo urbano y\r\nterritorial del Area de Planificación Intercomunal de las comunas de Chillán y Chillán\r\nViejo que no se encontraren normadas por las disposiciones de la presente\r\nOrdenanza, se regirán por lo establecido en la Ley General de Urbanismo y\r\nConstrucciones, en la Ordenanza General de Urbanismo y Construccio"
+ },
+ {
+  "id": "d0577",
+  "comuna": "chillan",
+  "nombre_documento": "ordenanza_promulga_enmienda_n01_2024_antejardines_al_plan_regulador_comunal_de_c",
+  "archivo": "chillan_ordenanza_promulga_enmienda_n01_2024_antejardines_al_plan_regulador_comunal_de_c__Decreto 3123.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 3,
+   "predial_minima": 2,
+   "altura_maxima": 9,
+   "densidad": 3,
+   "agrupamiento": 18,
+   "antejardin": 16,
+   "normas_urbanisticas": 7,
+   "zonificacion": 2,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH-1",
+   "ZH-11",
+   "ZH-2",
+   "ZH2",
+   "ZM-2",
+   "ZONA"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto N° 3123 / 2025 Chillán, 26 de Marzo del 2025\r\n\r\nPROMULGA ENMIENDA N°01-2024 ANTEJARDINES\r\nAL PLAN REGULADOR COMUNAL DE CHILLÁN\r\n\r\nVISTOS:\r\n1. El Decreto con Fuerza de Ley N° 1, de fecha\r\n9 de mayo de 2006 (DO 26.07.2006), del Ministerio del Interior, que fija el texto\r\nrefundido, coordinado y sistematizado de la Ley N° 18.695, Orgánica Constitucional\r\nde Municipalidades;\r\n2. El Decreto con Fuerza de Ley N° 458 de fecha\r\n18 de diciembre de 1975 (DO 13.04.1976), del Ministerio de Vivienda y Urbanismo, que\r\naprueba la Nueva Ley General de Urbanismo y Construcciones;\r\n3. El Decreto Supremo N°47 de fecha 16 de abril\r\nde 1992 (DO 19.05.1992), del Ministerio de Vivienda y Urbanismo que fija el nuevo texto\r\nde la Ordenanza General de la Ley General de Urbanismo y Construcciones;\r\n4. El Plan Regulador Comunal de Chillán\r\npromulgado por Decreto Alcaldicio N° N°1039 de fecha 02 de febrero de 2016.\r\nCONSIDERANDO:\r\na) Es necesario modificar el Plan Regulador\r\nComunal de Chillán para ajustar la normativa sobre antejardines en las nuevas\r\nsubzonas establecidas con el objeto de resolver los problemas actuales de\r\naplicación.\r\nTema\r\nArtículo 2.1.13 OGUC\r\nJustificación\r\nSectores patrimoniales d) Disminuir hasta en un Preservar la morfología de las\r\nen Santa Elvira, Wicker y 100% los antejardines\r\nedificaciones patrimoniales.\r\nMardones.\r\nRequerimiento solicitado por la\r\ncomunidad.\r\nSolicitado por Dirección de\r\nObras Municipales.\r\nModificación\r\nde d) Disminuir hasta en un Requerimiento\r\n"
+ },
+ {
+  "id": "d0578",
+  "comuna": "chillan",
+  "nombre_documento": "ordenanza_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio",
+  "archivo": "chillan_ordenanza_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio___Modificacion Plan Regulador Comunal 2016.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 41,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 2,
+   "agrupamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 6,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZC1",
+   "ZC2",
+   "ZC3",
+   "ZE",
+   "ZE-1",
+   "ZE1",
+   "ZE2t",
+   "ZE3",
+   "ZH",
+   "ZH2",
+   "ZH3t"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I. MUNICIPALIDAD DE CHILLÁN\r\n\r\nALCALDIA\r\n\r\nPROMULGA MOOIFICACIÓN PLAN REGULADOR\r\nCOMUNA DE CHILLAN, REGION DEL BIO BIO.\r\nDECRETO\r\n\r\nNO 7 458\r\n\r\ncHtLLÁN, de 0 7 JUL 2016 de\r\nVISTOS: Las facultades que me confiere la Ley\r\nN'1 8.695, Orgánica Coñstitucional de Municipalidades;\r\n\r\n-\r\n\r\n1\r\nEl párrafo 4o, del Capitulo ll, del Titulo ll de la Ley\r\nGeneral de Urbanismo y Construcciones contenido en el decreto 458 de '1975 del Ministerio de Vivienda\r\ny Urbanismo párafo denominado \"De la Planificación Urbana Comunal\".\r\n\r\n2.-\r\n\r\nLas normas pertinentes contenidas en la\r\n\r\n3.-\r\n\r\nEl Párrafo '1o b¡s: \"De Ia Evaluación Ambie¡tal\r\n\r\nordenanza Geñeral de Urbanismo y Conskucciones, aprobada por decreto No 47 de 1992 del [rinisterio\r\nde Vivienda y Urban¡smo, especialmente los artlculos 2.1.10, 2.1 1 1, y demás pertinentes.\r\nEstratégica\", contenido en elTitulo ll de la Ley 19.300 de Bases Generales del Medio Ambiente\r\n\r\n4- El Acta Municipal No '1 de fecha 06.12.2012 y\r\nque\r\n46\r\nDecreto Alcaldrcio N'\r\ndel 06.12 2012\r\nñombra a don Sergio Zar¿ar Andonie, en su calidad de\r\nalcalde de la Municipa¡idad de Chillán.\r\n\r\nCONSIDERANDO\r\n\r\na) El acuerdo No 1.442111, adoptado por el H Concejo\r\nl\\¡unicipal, según Acla No 27, de fecha 01 de agosto de 2011, acordando por unanimidad de los\r\npresentes, dar inicio a la etapa de aprobación de la actualización del Plan Regulador de Ia Comuna de\r\nChillán.\r\n\r\nb) Que mediante publicación realizada los dfas 20 de\r\nnoviembre de 2011 y 27 de noviembre de 2011, en diario de"
+ }
+]

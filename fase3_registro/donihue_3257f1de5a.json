@@ -1,0 +1,20 @@
+{
+  "id": "donihue_3257f1de5a",
+  "comuna": "donihue",
+  "ruta": "Ordenanzas Descargadas\\1-600\\donihue_solicitud_plan_regulador_comunal_vigente_para_usos_academicos__415e56c4-0d24-44e0-95c6-c752f12c8927.pdf",
+  "nombre": "donihue_solicitud_plan_regulador_comunal_vigente_para_usos_academicos__415e56c4-0d24-44e0-95c6-c752f12c8927.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:37:06",
+  "fin": "2026-07-14T15:39:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "DONIHUE: NO ES UN DOCUMENTO PRC. Es un ACUSE DE RECIBO de solicitud de Ley de Transparencia (MU081T0002385, mar-2024) que pide el PRC vigente para usos academicos. Solo el formulario con los datos de la solicitante; no adjunta el plan. 2 pags, texto completo leido."
+  }
+}

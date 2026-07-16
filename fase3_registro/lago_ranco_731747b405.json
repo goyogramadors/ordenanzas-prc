@@ -1,0 +1,20 @@
+{
+  "id": "lago_ranco_731747b405",
+  "comuna": "lago_ranco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lago_ranco_700_modifica_nombre_de_calles_de_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lago_ranco_700_modifica_nombre_de_calles_de_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:51:55",
+  "fin": "2026-07-14T15:56:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 700 Exento (1997) de Lago Ranco: solo PERMUTA NOMBRES DE CALLES (calle Santiago por Valdivia y viceversa, entre Puerto Montt y Linares). Cero parametros urbanisticos. 1 pagina verificada por texto y render. Candidato a descarte."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "valparaiso_7932735530",
+  "comuna": "valparaiso",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valparaiso_2342_modificacion_plan_regulador_comunal_de_valparaiso_sector_cerros_delicias_y___do-20150904.pdf",
+  "rangos": [
+    [
+      17,
+      19
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "TRAMPA COMUNA AJENA MASIVA: de 100 páginas, solo 17-19 pertenecen a la modificación PRC Valparaíso (Decreto 2342, zonas ZCH-DR y ZG1) con Ordenanza completa Art.1-10: usos permitidos/prohibidos, superficie predial mínima, ocupación suelo, coef. constructibilidad, sistema agrupamiento, alturas, retranqueo/distanciamientos. Págs 21-44 son 'CUERPO II' con decretos de pesca/telecomunicaciones/vivienda de OTRAS comunas (totalmente ajenos); págs 45-100 son 'SUPLEMENTO DE MARCAS, PATENTES' del INAPI (propiedad industrial, sin relación alguna con PRC). 83 de 100 páginas son contenido no relacionado de la misma edición del Diario Oficial",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:23:20",
+  "fin": "2026-07-16T08:29:12",
+  "resultado": {
+    "archivo": "extraccion_normas\\valparaiso\\valparaiso_2342_zchdr_zg1_cerros_delicias_ramaditas_pag17-19.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZCH-DR",
+      "ZG1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa comuna ajena masiva confirmada (83 de 100 paginas ajenas: pesca/telecom/vivienda otras comunas + INAPI marcas). ZCH-DR: predial 250m2, ocupacion 60%, CC 2, aislado/pareado/continuo, altura 10,5m/14m aislada. ZG1: predial 5000m2, CC 0,5, aislado, altura 7m, distanciamiento 10m. Texto nativo completo. Coincide con nota_fase3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "el_quisco_1ae610d208",
+  "comuna": "el_quisco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_quisco_43577_los_ordinarios_alcaldicios_que_contienen_las_respuestas_a_las_observacione__PUBLICACION DIARIO OFICIAL.pdf_1688583989908.pdf",
+  "nombre": "el_quisco_43577_los_ordinarios_alcaldicios_que_contienen_las_respuestas_a_las_observacione__PUBLICACION DIARIO OFICIAL.pdf_1688583989908.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:37:36",
+  "fin": "2026-07-14T15:48:43",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO AVISO (DO 43.577, 14-06-2023): la Municipalidad de El Quisco informa que las respuestas a las observaciones de la consulta publica de la Actualizacion del PRC estaran disponibles en Oficina de Partes. Sin normas. 1 pagina leida integra."
+  }
+}

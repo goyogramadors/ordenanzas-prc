@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_deb6c00c0c",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3904.13sep2007.pdf",
+  "nombre": "las_condes_decreto.3904.13sep2007.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:33:28",
+  "fin": "2026-07-15T08:34:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alc Secc 1a N3904, 13-sep-2007: APRUEBA el Plano Seccional Nueva Las Condes, que detalla la zona de uso de suelo UC2 para el area delimitada por Av. Presidente Riesco/Av. Manquehue/calle Cerro El Plomo/Av. Alonso de Cordova (poligono ABCDA, plano PS-UC2-NLC). Mismo patron que las_condes_8d49aa5d00 (decreto 2974) y las_condes_3a2d62239b (decreto 3905): decreto aprobatorio administrativo que remite a un plano grafico no incluido en este PDF de 1 pagina, sin transcribir parametros normativos. Verificado visualmente, documento de 1 pagina."
+  }
+}

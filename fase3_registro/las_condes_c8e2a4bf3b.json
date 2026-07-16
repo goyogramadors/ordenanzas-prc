@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_c8e2a4bf3b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_10.-37-2020-Ord.-Alc.-N-14-327-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "nombre": "las_condes_10.-37-2020-Ord.-Alc.-N-14-327-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:31:52",
+  "fin": "2026-07-15T08:33:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio Alc.N14/327 (7DIC20), respuesta a observacion ciudadana sobre terreno Santa Zita (Modif.N10 PRCLC). Texto corrido, sin tabla ni valores normativos."
+  }
+}

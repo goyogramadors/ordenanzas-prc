@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_ad018f3645",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_1.-46c-TEXTO-APROBATORIO-MODIFICACION-N-10-SUSCRITO-A.U.-ABR2021.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "TEXTO APROBATORIO Modificacion N10 PRC Las Condes (abr-2021, firmado por Direccion Asesoria Urbana) - FUENTE PRIMARIA. Crea el sector S-E-Ab3' (delimitado por Av. Paul Harris, calle Santa Zita, Incahuasi y Punitaqui). Tabla completa de normas especificas: densidad bruta max 840 hab/ha, subdivision predial min 1.500 m2, coef. constructibilidad 2,0, COS 0,4, rasante 70, altura max 5 pisos/17,5 m, agrupamiento aislado sin adosamiento. Tambien modifica art.9 (loteamientos) y agrega columna SECTOR al cuadro del art.34. MISMOS VALORES que decreto 3591 (las_condes_2f3a067161): ambos documentos son la misma norma, este es la fuente original. p3 solo firma.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:48:21",
+  "fin": "2026-07-15T14:50:57",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_texto_aprobatorio_mod10_seab3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "S-E-Ab3"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION a nota_fase3: la pagina 3 (excluida del rango original por describirse como 'solo firma') SI contenia la tabla numerica completa (densidad 840hab/ha, predial 1500m2, CC2.0, COS0.4, rasante70, altura 5pisos/17.5m, aislado sin adosamiento) -- se incluyo igual porque es indispensable para la norma. Fuente primaria del mismo valor que decreto 3591 (no procesado aqui)."
+  }
+}

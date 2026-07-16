@@ -1,0 +1,25 @@
+{
+  "id": "puchuncavi_afb2c41256",
+  "comuna": "puchuncavi",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puchuncavi_1455_diario_oficial_07092011_decreto_alcaldicio_n_1455_de_22082011_aprueba_proye__enmienda.pdf",
+  "nombre": "puchuncavi_1455_diario_oficial_07092011_decreto_alcaldicio_n_1455_de_22082011_aprueba_proye__enmienda.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:15:27",
+  "fin": "2026-07-14T21:17:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.1455/2011 Enmienda PRC Puchuncavi, localidad de Puchuncavi (modifica zona Z2 a Z2a, +30% ocupacion). Crea ZONA Z2a con tabla completa en TEXTO: usos permitidos (residencial, equipamiento cientifico/comercio/culto/deporte/educacion/esparcimiento/salud/seguridad/servicios/social, actividades productivas industria impacto similar inofensivo), usos prohibidos (discotecas, carceles, cementerios), condiciones de edificacion: predial min 350m2, COS 0,39, CC 1,5, aislado/pareado, altura 21m, antejardin 3m, densidad 400 hab/ha."
+  }
+}

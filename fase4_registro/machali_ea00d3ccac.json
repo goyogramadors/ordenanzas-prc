@@ -1,0 +1,28 @@
+{
+  "id": "machali_ea00d3ccac",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_1101_aprueba_modificacion_del_plan_regulador_comunal_de_machali_especificamente___Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "TRAMPA MIXTA: pág 2 es imagen (chars_por_pagina bajo) que contiene cuadro completo art. 4.1-64 Zona ZU-8 (usos permitidos/prohibidos, superficie predial mín, densidad bruta máx, COS, coef. constructibilidad, sistema agrupamiento, altura máx, antejardín) + condiciones generales y disposiciones especiales",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:22:29",
+  "fin": "2026-07-15T14:24:11",
+  "resultado": {
+    "archivo": "extraccion_normas\\machali\\machali_1101_enmienda_zu8_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-8"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa MIXTA confirmada, cuadro completo art.4.1-64 transcrito: 13 filas por tipo/clase de uso (predial 300-1250 m2, densidad hasta 48 hab/ha, COS 0,18-1,3, CC 0,4-2, agrupamiento A/P, altura 7,5-12m, antejardin 5m). Mas condiciones generales (antejardin especial 7,5m) y disposiciones especiales (altura 22m en Costanera, aumento densidad 20% solo Rol 126-54). Coincide con nota_fase3."
+  }
+}

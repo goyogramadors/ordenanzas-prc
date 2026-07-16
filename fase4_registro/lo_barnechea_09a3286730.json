@@ -1,0 +1,34 @@
+{
+  "id": "lo_barnechea_09a3286730",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_1614_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PROMULGA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_DE_LO_BARNECHEA_MPRC-LB-25_Decreto_1614_02-05-16 (1).pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "DUPLICADO EXACTO (mismo md5) de sin_comuna_a19712e153, ya procesado por esta sesion. Pagina del Diario Oficial 13-05-2016 que mezcla avisos ajenos. Modif. MPRC-LB-25: cuadro art.11 (tramos via L19) y cuadro condiciones edificacion Zonas G/I/K art.55 -> solo fija Antejardin minimo 5 mts. p2 = version DO (texto), p4-5 = copia municipal firmada (imagen). p1 y p3 sin normas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:21:00",
+  "fin": "2026-07-15T23:24:36",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_1614_mprclb25_l19_zonasgik_pag2y4-5.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "G",
+      "I",
+      "K"
+    ],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO exacto (md5) de sin_comuna_a19712e153, aun no procesado por nadie mas. Zonas G/I/K: solo agrega antejardin minimo 5m (art.55). Tambien tabla de vialidad L19 (art.11, no es norma de zona). Coincide con nota_fase3."
+  }
+}

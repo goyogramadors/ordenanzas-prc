@@ -1,0 +1,20 @@
+{
+  "id": "la_cisterna_a467db2d4c",
+  "comuna": "la_cisterna",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_cisterna_42998_modificacion_no_1_del_plan_regulador_comunal_de_la_cisterna__1973883.pdf",
+  "nombre": "la_cisterna_42998_modificacion_no_1_del_plan_regulador_comunal_de_la_cisterna__1973883.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:43:20",
+  "fin": "2026-07-14T15:47:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO AVISO: Diario Oficial informa la DISPONIBILIDAD de antecedentes de la Modificacion N1 del PRC La Cisterna (memoria explicativa, texto aprobatorio, informe de capacidad vial, factibilidad sanitaria). Sin normas ni cuadros. 1 pagina, renderizada y verificada."
+  }
+}

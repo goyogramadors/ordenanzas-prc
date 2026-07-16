@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_18f67d445a",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\LAA257~1.PDF",
+  "nombre": "LAA257~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:07:12",
+  "fin": "2026-07-15T08:09:25",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "LA FLORIDA: DUPLICADO de la_florida_ea7c117ec4 (mismo Decreto 461, 04-feb-2015, Modificacion N9 al PRC), pero esta copia es un ESCANEO PURO de 14 paginas (vs 11 del otro archivo) y aqui SI es perfectamente legible visualmente (nitido, sin necesidad de mayor resolucion), a diferencia del otro archivo BCN donde las tablas eran imagen invisible a pdftotext. Normas en p5-14: 12 zonas de edificacion E-AB1 a E-A1 (Art 30, condiciones de edificacion: predial minima, COS, CC, altura, agrupamiento, rasante, distancia a medianero, adosamiento, antejardin, estacionamientos, densidad bruta), mas p12-13 usos de suelo permitidos-prohibidos de U-Vev1, U-Vev2 y zona nueva ESP-4 Precordillera (COS 0,014, altura 8m, rasante 70 grados). Confirma y amplia el rango del duplicado ya registrado (que iba 3-10 en el otro archivo). [CORREGIDO en revision Fase4: DUPLICADO de la_florida_ea7c117ec4, ya registrado. Excluido.]"
+  }
+}

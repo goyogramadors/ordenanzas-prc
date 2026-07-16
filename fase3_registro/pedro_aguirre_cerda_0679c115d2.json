@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_0679c115d2",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_1_plan_regulador_de_la_comuna_ultima_revision_2_empresa_que_realizo_el_plan_regu__5a31315b-48bb-427a-9b81-0349a07d01e5.pdf",
+  "nombre": "pedro_aguirre_cerda_1_plan_regulador_de_la_comuna_ultima_revision_2_empresa_que_realizo_el_plan_regu__5a31315b-48bb-427a-9b81-0349a07d01e5.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:09:27",
+  "fin": "2026-07-14T21:12:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "PLANO PRC Pedro Aguirre Cerda (Alcaldesa Claudina Nuñez Jimenez), 1 lamina cartografica que INCLUYE recuadros con tablas de normas por zona: Zonas Heredadas PRC San Miguel (PAC1: agrupamiento aislado/pareado/continuo 7m, ocup 90%, constr 1,2 nivel vecinal-1,6 comunal; PAC2 y PAC3: altura 10,5m, ocup 80% vecinal/60% almacenamiento, constr 1,5%/1,2%), AR1/AR2 (proteccion subestaciones/lineas ferreas); Zonas Heredadas PRC Santiago (Zona C, D, E altura 12-14m ocup 70-80%; Zona F solo areas verdes/cultura/deportes altura seg. OGUC ocup 1%); Zona Heredada PRC La Cisterna (Zona R: altura 12m, ocup 70%). Rango de zonas numeradas 1-34 (unidades vecinales) sobre el plano. Verificado por render a alta resolucion."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "buin_339efc4426",
+  "comuna": "buin",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\buin_3269_plan_regulador_comunal_para_buin_en_sus_areas_urbanizables_y_de_desarrallo___2237138.pdf",
+  "nombre": "buin_3269_plan_regulador_comunal_para_buin_en_sus_areas_urbanizables_y_de_desarrallo___2237138.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:00:13",
+  "fin": "2026-07-14T13:02:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "BUIN: Diario Oficial 21-dic-2022, extracto que COMUNICA EL INICIO de la Evaluacion Ambiental Estrategica del estudio 'PRC para Buin en sus areas urbanizables y de desarrollo prioritario' (decreto 3269). Texto completo de las 2 pags leido: solo organo responsable, antecedentes, criterios de desarrollo sustentable, objetivos ambientales y lugares de exposicion. Menciona 'normas urbanisticas' como objetivo del futuro plan, sin ningun valor ni zona. El PRC aun no existe."
+  }
+}

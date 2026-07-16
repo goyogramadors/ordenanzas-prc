@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_a25656a60a",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_435_modifica_ordenanza_de_derechos_2009__doc_34_435_09_25042014023453.pdf",
+  "nombre": "la_serena_435_modifica_ordenanza_de_derechos_2009__doc_34_435_09_25042014023453.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:24:55",
+  "fin": "2026-07-15T08:25:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 435/09, 4-feb-2009: agrega numeral 10 al Articulo 12 de la Ordenanza Comunal de Derechos Municipales por Permisos Concesiones y Servicios (Decreto 3761/08), sobre modificaciones menores de subdivisiones/loteos con tarifa 0.2 porciento del avaluo. Es tarifa administrativa, no norma de zonificacion PRC. Verificado visualmente, documento de 1 pagina."
+  }
+}

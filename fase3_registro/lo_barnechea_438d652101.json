@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_438d652101",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_6789_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__DO_21-12-2013_PROMULGA_MOD_PLAN_REGULADOR.pdf",
+  "nombre": "lo_barnechea_6789_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__DO_21-12-2013_PROMULGA_MOD_PLAN_REGULADOR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:35:32",
+  "fin": "2026-07-15T08:38:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 6789, 17-dic-2013 (DO 21-dic-2013), PROMULGA MODIFICACION AL PRC DE LO BARNECHEA MPRC-LB-17: ajusta el LIMITE de la Zona J La Dehesa (sector Pie Andino y area colindante), incorporando el plano MPRC-LB-17 que precisa el limite de aplicacion. Es una modificacion de deslinde/limite geografico de zona, no transcribe ni modifica valores normativos (no usos de suelo, COS, CC, altura, agrupamiento, antejardin, densidad, distanciamiento ni rasantes) -- solo redefine donde empieza/termina la zona J, cuya normativa (luego ampliada por decreto 3980/2015 ya registrado con tablas) no cambia aqui. Verificado visualmente las 4 paginas (incluye version DO Cuerpo I-6/I-7 y version decreto original con membrete)."
+  }
+}

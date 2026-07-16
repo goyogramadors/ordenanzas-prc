@@ -1,0 +1,15 @@
+{
+  "id": "pitrufquen_83e661ca7d",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pitrufquen_801_aprueba_enmienda_al_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "nombre": "pitrufquen_801_aprueba_enmienda_al_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:14:30",
+  "fin": "2026-07-14T21:15:09",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto 801 exento (2017) solo APRUEBA la Enmienda N1 al PRC de Pitrufquen y dice que 'la Enmienda que se aprueba pasa a formar parte del presente decreto', pero el TEXTO de la enmienda (con las normas) NO esta adjunto a este PDF de 2 paginas (solo vistos/considerando/decreto/firmas). Requiere ubicar el texto/anexo de la Enmienda N1."
+  }
+}

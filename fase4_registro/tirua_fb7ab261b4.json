@@ -1,0 +1,29 @@
+{
+  "id": "tirua_fb7ab261b4",
+  "comuna": "tirua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tirua_661_promulga_enmienda_no_1_al_plan_regulador_comunal_de_tirua__1224168.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "TRAMPA imagen: enmienda N1 sustituye cuadros de ZONA ZH3 y ZEQ3, texto dice 'se detalla a continuación' y las tablas están embebidas como imagen JPEG grande (verificado con pdfimages+extracción). Pág2: tabla completa Usos de Suelo ZH3 + Normas Urbanísticas ZH3 (superficie subdivisión 300m2, COS 0.6, CC 2.0, altura 9m, agrupamiento aislado/pareado, densidad 70hab/ha) y tabla equivalente ZEQ3 en imagen adyacente",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:34:50",
+  "fin": "2026-07-15T14:43:18",
+  "resultado": {
+    "archivo": "extraccion_normas\\tirua\\tirua_661_enmienda1_zh3_zeq3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZH3",
+      "ZEQ3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Tablas completas ZH3 y ZEQ3 (usos de suelo + normas urbanisticas) transcritas desde imagen JPEG embebida. Ambas zonas con riesgo de tsunami (art.9). Verificado contra nota_fase3: coincide."
+  }
+}

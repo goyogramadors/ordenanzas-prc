@@ -1,0 +1,20 @@
+{
+  "id": "rengo_200ca12aa4",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_810_md_plano_seccional_no2_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20110916.pdf",
+  "nombre": "rengo_810_md_plano_seccional_no2_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20110916.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 64,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:14:18",
+  "fin": "2026-07-15T12:20:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N40.063, 16-sep-2011, 64 pags (edicion completa con mucho contenido ajeno: leyes, INAPI marcas/patentes, otras municipalidades). El decreto de Rengo relevante esta en pag14 (Cuerpo I-14): Decreto Alcaldicio 810(MD), 26-ago-2011, 'APRUEBA PLANO SECCIONAL N2' de Rengo -- fija a predios especificos (roles 207-110, 207-14, 207-15) los usos y normas urbanisticas de la zona ZH4 'Zona Prat-Condell' YA EXISTENTE en la Ordenanza del Plan Regulador (decreto 617/2008), delimitando cartograficamente su aplicacion. NO transcribe valores normativos nuevos ni incluye el Plano Seccional como imagen en este PDF -- las normas ZH4 (si existen con valores) estarian en el decreto 617/2008 base, no en este documento. Verificado visualmente paginas 1,10,14,15,20,30,40,50,64 de 64."
+  }
+}

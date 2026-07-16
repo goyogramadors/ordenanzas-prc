@@ -1,0 +1,20 @@
+{
+  "id": "santiago_dc3d9997d5",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_3344_decreto_alcaldicio_numero_3344_secc_2a_de_2018_promulga_modificacion_del_pl__3344.pdf",
+  "nombre": "santiago_3344_decreto_alcaldicio_numero_3344_secc_2a_de_2018_promulga_modificacion_del_pl__3344.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:57:10",
+  "fin": "2026-07-15T12:58:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 3344 Secc.2a/2018 (18-04-2018), 'Actualización de la Ordenanza Local - ICH 949'. Solo elimina del Art.28 (listado de Inmuebles de Conservación Histórica) la línea N°949 y actualiza el Plano PRS-02F en consecuencia. No fija ni modifica parámetros de zona (COS/CC/altura/etc)."
+  }
+}

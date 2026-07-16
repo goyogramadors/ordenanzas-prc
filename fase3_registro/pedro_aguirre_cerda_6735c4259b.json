@@ -1,0 +1,20 @@
+{
+  "id": "pedro_aguirre_cerda_6735c4259b",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_necesito_conseguir_los_planos_de_vialidad_o_perfiles_de_las_calles_respectivos_a__ccd74171-e80a-47cc-91aa-a9cb280fd438.pdf",
+  "nombre": "pedro_aguirre_cerda_necesito_conseguir_los_planos_de_vialidad_o_perfiles_de_las_calles_respectivos_a__ccd74171-e80a-47cc-91aa-a9cb280fd438.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:09:38",
+  "fin": "2026-07-14T21:12:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Respuesta de Unidad de Transparencia (Ley 20285) a solicitud de planos de vialidad/perfiles de calle zona PAC-1; no es decreto ni ordenanza. Responde que el PRC vigente no define perfiles viales."
+  }
+}

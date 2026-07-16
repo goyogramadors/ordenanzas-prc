@@ -1,0 +1,20 @@
+{
+  "id": "penalolen_9cd09683d2",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2005_02.pdf",
+  "nombre": "penalolen_MPRC_2005_02.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:45:29",
+  "fin": "2026-07-15T08:47:22",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Diario Oficial 38.220 (26-jul-2005): Decreto 2100/2374, modifica PRC Peñalolén cambiando de uso de suelo un polígono de 'Área de Resguardo de Infraestructura Sanitaria y Energética' a 'Zona R.2.'. El decreto remite a las condiciones YA establecidas para la Zona R.2 del Plan Regulador vigente (no incluidas en este archivo) y a un Estudio de Impacto sobre el Sistema de Transporte Urbano (EISTU) — no trae ninguna tabla ni valor numérico de norma urbanística propio."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "coltauco_32e3a23786",
+  "comuna": "coltauco",
+  "ruta": "Ordenanzas ordenadas\\coltauco_decreto_exento_266_aprobacion_y_modificaciones_de_plan_regulador__Plan_20Regulador_20Comunal.pdf",
+  "nombre": "coltauco_decreto_exento_266_aprobacion_y_modificaciones_de_plan_regulador__Plan_20Regulador_20Comunal.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 44,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:10:58",
+  "fin": "2026-07-15T08:16:54",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        24
+      ],
+      [
+        32,
+        37
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.Ex.266/1998 - expediente que reune (a) tramite de creacion Zonas Z-4 y ZR-3 (p1-18, sin tablas) y (b) DOS COPIAS completas de la misma edicion del DO 18-dic-1995 que promulga el PRC de Coltauco y El Almendro. Documento 100% escaneado, SIN capa OCR (texto vacio), lectura 100% visual. p19-24 (1a copia) y p32-37 (2a copia, identica) Ordenanza Local: Cap.I-IV con Art.21-22 definicion de macrozonas (Z1,Z2,Z3,ZE,ZI,ZD,ZR1,ZE1,ZR2) y Art.23 cuadro de normas por zona: Z1 predial 200m2, frente 10m, CC 1,40; Z3 predial 400m2, densidad 120 hab/ha; ZE COS 50%, CC 0,50; ZI predial 1.000m2, COS 80%; ZD predial 5.000m2; ZR1, ZE1, ZR2. TRAMPA COMUNA AJENA CONFIRMADA (patron ya documentado en memoria): a mitad de p25 y p38 el DO cambia abruptamente a 'MUNICIPALIDAD DE QUINTA DE TILCOCO - APRUEBA PLAN REGULADOR COMUNAL', contenido NO perteneciente a Coltauco (p26,29,38,44 son de Quinta de Tilcoco/Guacarhue/avisos ajenos, EXCLUIDAS)."
+  }
+}

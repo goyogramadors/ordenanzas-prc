@@ -1,0 +1,20 @@
+{
+  "id": "san_bernardo_ef60e33901",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_bernardo_decreto_448_declarese_desierta_la_propuesta_publica_denominada_actualizacion_pla__DAEX_448_2019.pdf",
+  "nombre": "san_bernardo_decreto_448_declarese_desierta_la_propuesta_publica_denominada_actualizacion_pla__DAEX_448_2019.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:17:01",
+  "fin": "2026-07-15T12:18:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "D.A.Exento N448 (25-ene-2019): declara desierta propuesta publica Actualizacion PRC de San Bernardo y Lo Herrera por falta de ofertas en licitacion. Pag1 decreto administrativo sin contenido normativo; pag2 en blanco. Sin tabla de normas urbanisticas."
+  }
+}

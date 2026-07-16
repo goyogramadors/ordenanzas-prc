@@ -1,0 +1,20 @@
+{
+  "id": "linares_d520f5c313",
+  "comuna": "linares",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\linares_plano_regulador__ORD_N_3591.pdf",
+  "nombre": "linares_plano_regulador__ORD_N_3591.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:35:11",
+  "fin": "2026-07-15T08:37:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Exento 3591 (24.08.2011), Ilustre Municipalidad de Linares: pese al nombre de archivo 'plano_regulador', el contenido real es la ORDENANZA MUNICIPAL SOBRE PARTICIPACION CIUDADANA (audiencias publicas, plebiscitos, COSOC, OIRS, cuenta publica, FONDEVE). Cap.VIII 'Plano Regulador' Art.72 (p.12) solo regula el PROCEDIMIENTO de publicacion/observaciones ciudadanas al proyecto de PRC, sin cuadro de normas de zona. No es el documento correcto para extraccion normativa."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chillan_viejo_7602b6d642",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chillan_viejo_plano_regulador_chillan_viejo__95fd11c1-e117-4bb1-bcd2-f8f481b42254.pdf",
+  "nombre": "chillan_viejo_plano_regulador_chillan_viejo__95fd11c1-e117-4bb1-bcd2-f8f481b42254.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:10:38",
+  "fin": "2026-07-15T08:11:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Archivo de 1 pagina: es el PLANO del PRC de Chillan Viejo (Rucapequen 1/2, Nebuco, Los Colihues, Quillay) con zonificacion ZH1-6/ZM1-3/ZI/ZE/AV graficada y simbologia de colores, sin tabla de normas con valores numericos de COS/CC/altura/predial por zona. Solo cartografia."
+  }
+}

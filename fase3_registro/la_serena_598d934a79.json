@@ -1,0 +1,25 @@
+{
+  "id": "la_serena_598d934a79",
+  "comuna": "la_serena",
+  "ruta": "descargas\\la_serena\\proactiva_externa\\doc_65_06122023022817.pdf",
+  "nombre": "doc_65_06122023022817.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:23:31",
+  "fin": "2026-07-15T08:25:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        9
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Plano de Detalle Avenida Francisco de Aguirre, Centro Historico La Serena (Memoria y Disposiciones Reglamentarias). Cap 3.3: cuadros completos de normas urbanisticas para Zona ZPT-1 'Zona Centro' (p.8) y Zona ZPT-4 'Zona Pedro Pablo Muñoz' (p.9): usos de suelo permitidos/prohibidos, predial minimo 800m2, COS 0.6, CC 3 y 2.4, agrupamiento, altura 14m/4 pisos, densidad 1200 hab/ha, ochavos, cuerpos salientes. Tambien listados MH/ICH (monumentos/inmuebles de conservacion historica) p.7."
+  }
+}

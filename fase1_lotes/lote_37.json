@@ -1,0 +1,912 @@
+[
+ {
+  "id": "d0475",
+  "comuna": "penalolen",
+  "nombre_documento": "12003654_asigna_nueva_norma_urbanisitica_de_acuerdo_a_plan_regulador_comunal_vig",
+  "archivo": "penalolen_12003654_asigna_nueva_norma_urbanisitica_de_acuerdo_a_plan_regulador_comunal_vig__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 5,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 3654, PEÑALOLÉN (2014)\r\n\r\nDecreto 3654; Decreto 1200/3654\r\nASIGNA NUEVA NORMA URBANÍSTICA DE ACUERDO A PLAN REGULADOR\r\nCOMUNAL VIGENTE\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 24-MAY-2014 | Promulgación: 28-ABR-2014\r\nVersión: Única De : 24-MAY-2014\r\nUrl Corta: https://bcn.cl/3qmvg\r\n\r\nASIGNA NUEVA NORMA URBANÍSTICA DE ACUERDO A PLAN REGULADOR COMUNAL VIGENTE\r\nPeñalolén, 28 de abril de 2014.- Hoy se ha decretado lo siguiente:\r\nNúm. 1.200/3.654.- Vistos: La Ley Nº 18.695, de 1988, Orgánica Constitucional\r\nde Municipalidades; el decreto Nº 1.300/9.977, de fecha 12 de diciembre de 2013, que\r\ndelega funciones en el Administrador Municipal.\r\nConsiderando:\r\n1. Lo dispuesto en el Art. 59 del DFL Nº 458, de 1975, Ley General de Urbanismo\r\ny Construcciones, respecto del procedimiento de fijar las nuevas normas urbanísticas\r\na las áreas donde hayan caducado las declaratorias de utilidad pública con fecha\r\n12.02.2010.\r\n2. La necesidad de aplicar nuevas normas urbanísticas a dichos predios de\r\nacuerdo al procedimiento dispuesto por el artículo 59 de la Ley General de Urbanismo\r\ny Construcciones.\r\n3. El Ord. Alc. Nº 1.200/31, de fecha 12.02.2014, de la Municipalidad de\r\nPeñalolén, con Informe Técnico; el Ord. Nº 1.772, de fecha 21.04.2014, de la\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo, que informa favorable los\r\nantecedentes administrativos y técnicos que conforman la \"Asignación de usos de\r\nsuelo a predios, cuya afectación de utilidad pública caducó con fecha 12 d"
+ },
+ {
+  "id": "d0476",
+  "comuna": "penalolen",
+  "nombre_documento": "13004408_aprueba_llamado_a_plebiscito_comunal_sobre_propuesta_de_modificacion_de",
+  "archivo": "penalolen_13004408_aprueba_llamado_a_plebiscito_comunal_sobre_propuesta_de_modificacion_de__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 4408, PEÑALOLÉN (2011)\r\n\r\nDecreto 4408; Decreto 1300/4408\r\nAPRUEBA LLAMADO A PLEBISCITO COMUNAL SOBRE PROPUESTA DE\r\nMODIFICACIÓN DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 08-SEP-2011 | Promulgación: 01-SEP-2011\r\nVersión: Única De : 08-SEP-2011\r\nUrl Corta: https://bcn.cl/3l3px\r\n\r\nAPRUEBA LLAMADO A PLEBISCITO COMUNAL SOBRE PROPUESTA DE MODIFICACIÓN DEL PLAN\r\nREGULADOR COMUNAL\r\nPeñalolén, 1 de septiembre de 2011.- Hoy se ha decretado lo siguiente:\r\nNúm. 1.300/4.408.- Vistos: La Sesión Ordinaria Nº 99 del H. Concejo Municipal\r\ncelebrada con fecha 1 de septiembre de 2011, que aprueba someter a plebiscito comunal\r\nla propuesta de modificación del plan regulador comunal; el dictamen Nº 46.097, de\r\nfecha 12 de octubre de 2007, de la Contraloría General de la República; la reunión\r\nde coordinación del plebiscito entre el municipio de Peñalolén y el Servicio\r\nElectoral celebrada con fecha 22 de junio de 2011; lo dispuesto en los artículos 56,\r\n63, 99 y siguientes de la ley Nº 18.965, Orgánica Constitucional de\r\nMunicipalidades, y la ley Nº 18.700 Orgánica Constitucional Sobre Votaciones\r\nPopulares y Escrutinios y la Constitución Política de la República,\r\nTeniendo presente: Las facultades que me confiere la ley Nº 18.695 Orgánica\r\nConstitucional de Municipalidades,\r\nDecreto:\r\n1. Apruébese el llamado a Plebiscito Comunal que someterá a votación de los\r\nciudadanos la siguiente pregunta:\r\n\"Por Acuerdo del Concejo Municipal de Peñalolén, se somete a votac"
+ },
+ {
+  "id": "d0477",
+  "comuna": "penalolen",
+  "nombre_documento": "28005103_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal",
+  "archivo": "penalolen_28005103_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 3,
+   "usos_de_suelo": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, normas_urbanisticas, usos_de_suelo, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 5103, PEÑALOLÉN (2010)\r\n\r\nDecreto 5103; Decreto 2800/5103\r\nASIGNA NUEVAS NORMAS\r\nREGULADOR COMUNAL\r\n\r\nURBANÍSTICAS\r\n\r\nDE\r\n\r\nACUERDO\r\n\r\nAL\r\n\r\nPLAN\r\n\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nFecha Publicación: 25-AGO-2010 | Fecha Promulgación: 12-AGO-2010\r\nTipo Versión: Única De : 25-AGO-2010\r\nUrl Corta: https://bcn.cl/3nh3z\r\n\r\nASIGNA NUEVAS NORMAS URBANÍSTICAS DE ACUERDO AL PLAN REGULADOR COMUNAL\r\nPeñalolén, 12 de agosto de 2010. Hoy se ha decretado lo siguiente:\r\nNúm. 2.800/5.103.- Vistos: La caducidad de las afectaciones a utilidad pública\r\nde los predios ocurrida con fecha 12.02.2010 y la necesidad de aplicar nuevas normas\r\nurbanísticas a dichos predios de acuerdo al procedimiento dispuesto por el artículo\r\n59 de la Ley General de Urbanismo y Construcciones; el Ord. Alc. Nº 2.800/106 de\r\nfecha 05.08.2010 de la I. Municipalidad de Peñalolén con Informe Técnico; el Ord.\r\nNº 3.558 de fecha 11 de agosto de 2010 de la Secretaría Regional Ministerial de\r\nVivienda y Urbanismo, que informa favorable los antecedentes administrativos y\r\ntécnicos que conforman la \"Asignación de usos de suelo a predios, cuya afectación\r\nde utilidad pública caducó con fecha 12 de febrero 2010 de acuerdo a la ley Nº\r\n20.331\"; lo dispuesto por esta Alcaldía, y\r\nTeniendo presente: Las facultades que me confiere la Ley Nº 18.695 Orgánica\r\nConstitucional de Municipalidades; el decreto alcaldicio Nº 15 de fecha 18 de enero\r\nde 2010; el artículo 62 de la Ley Nº 18.695 Orgánica Constitucional de\r\nMunicipalidades, q"
+ },
+ {
+  "id": "d0478",
+  "comuna": "penalolen",
+  "nombre_documento": "prc_2018",
+  "archivo": "penalolen_PRC_2018.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0838",
+  "comuna": "penalolen",
+  "nombre_documento": "12003326_apruebese_el_texto_de_la_modificacion_parcial_al_plan_regulador_comunal",
+  "archivo": "penalolen_12003326_apruebese_el_texto_de_la_modificacion_parcial_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 3326, PEÑALOLEN (2016)\r\n\r\nDecreto 3326; Decreto 1200/3326\r\nAPRUEBA MODIFICACIÓN PARCIAL AL PLAN REGULADOR COMUNAL DE\r\nPEÑALOLÉN\r\nMUNICIPALIDAD DE PEÑALOLEN\r\nFecha Publicación: 27-JUL-2016 | Fecha Promulgación: 20-JUL-2016\r\nTipo Versión: Última Versión De : 28-AGO-2018\r\nTexto derogado: 28-AGO-2018\r\nUltima Modificación: 28-AGO-2018 Decreto 3867\r\nUrl Corta: https://bcn.cl/3l0se\r\n\r\nAPRUEBA MODIFICACIÓN PARCIAL AL PLAN REGULADOR COMUNAL DE PEÑALOLÉN\r\nPeñalolén, 20 de julio de 2016.- Hoy se ha decretado lo siguiente:\r\nNúm. 1.200/3.326.\r\nVistos:\r\nLo dispuesto por la Ley Nº 18.695, Orgánica Constitucional de Municipalidades,\r\ncuyo texto refundido, coordinado y sistematizado se encuentra contenido en el DFL Nº\r\n1, de 2006, del Ministerio del Interior; el DFL Nº 458, de 1975, que aprueba la Ley\r\nGeneral de Urbanismo y Construcciones, su Ordenanza General; la Ley Nº 19.300, sobre\r\nBases Generales del Medio Ambiente; el decreto Nº 55 (Minvu), de 28.04.1989,\r\npublicado en el Diario Oficial de fecha 27 de julio de 1989; la resolución Nº 45,\r\nde 6 de agosto de 1999, publicada en el Diario Oficial de 25 de septiembre de 1999;\r\nlo dispuesto por esta Alcaldía.\r\nConsiderando:\r\na. El proyecto \"Modificación Parcial al Plan Regulador Comunal de Peñalolén,\r\ndenominado Sectores Antupirén, Las Perdices, Oriental, Cancha Tres, El Sauzal\";\r\nb. La instrucción Nº 378, de 25.07.2013, que contiene la decisión del H.\r\nConcejo Municipal de Peñalolén de dar inicio a la tramitación del señalado\r\nproyec"
+ },
+ {
+  "id": "d0839",
+  "comuna": "penalolen",
+  "nombre_documento": "12004405_reconoce_modificacion_parcial_al_plan_regulador_comunal_de_penalolen",
+  "archivo": "penalolen_12004405_reconoce_modificacion_parcial_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 2,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 2,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 4405, PEÑALOLÉN (2018)\r\n\r\nDecreto 4405; Decreto 1200/4405\r\nRECONOCE MODIFICACIÓN PARCIAL AL PLAN REGULADOR COMUNAL DE\r\nPEÑALOLÉN\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nFecha Publicación: 28-SEP-2018 | Fecha Promulgación: 13-SEP-2018\r\nTipo Versión: Única De : 28-SEP-2018\r\nUrl Corta: https://bcn.cl/3la41\r\n\r\nRECONOCE MODIFICACIÓN PARCIAL AL PLAN REGULADOR COMUNAL DE PEÑALOLÉN\r\nPeñalolén, 13 de septiembre de 2018.- Hoy se ha decretado lo siguiente:\r\nNúm. 1200/4.405.\r\nVistos:\r\nLo dispuesto por la Ley N° 18.695, Orgánica Constitucional de Municipalidades,\r\ncuyo texto refundido, coordinado y sistematizado se encuentra contenido en el DFL N°\r\n1 de 2006, del Ministerio del Interior; el DFL N° 458 de 1975. que aprueba la Ley\r\nGeneral de Urbanismo y Construcciones, y su Ordenanza General contenida en el DS N47\r\nde 1992, del Ministerio de Vivienda y Urbanismo: la Ley N° 19.300, sobre Bases\r\nGenerales del Medio Ambiente; el decreto N° 55 (Minvu), de 28 de abril de 1989,\r\npublicado en el Diario Oficial de fecha 27 de julio de 1989; la resolución N° 45,\r\nde 6 de agosto de 1999, publicada en el Diario Oficial de 25 de septiembre de 1999.\r\nConsiderando:\r\na. La Instrucción N° 378, de 25.07.2013, que contiene la decisión del H.\r\nConcejo Municipal de Peñalolén de dar inicio a la tramitación de un proyecto de\r\nModificación Parcial al Plan Regulador Comunal de Peñalolén;\r\nb. El Ord. alcaldicio N° 2100/110, de 08.05.2015, mediante el cual la alcaldesa\r\nde la Municipalidad de Peñalolén remite al Sr. S"
+ },
+ {
+  "id": "d0840",
+  "comuna": "penalolen",
+  "nombre_documento": "1200_3504_aprueba_modificacion_al_plan_regulador_comunal_de_penalolen",
+  "archivo": "penalolen_1200_3504_aprueba_modificacion_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 14,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 5,
+   "limite_urbano": 22
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3504, PEÑALOLÉN (2017)\r\n\r\nDecreto 3504; Decreto 1200/3504\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE PEÑALOLÉN\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nFecha Publicación: 25-AGO-2017 | Fecha Promulgación: 11-AGO-2017\r\nTipo Versión: Única De : 25-AGO-2017\r\nUrl Corta: https://bcn.cl/3plcs\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE PEÑALOLÉN\r\nPeñalolén, 11 de agosto de 2017.- Hoy se ha decretado lo siguiente:\r\nNúm. 1.200/3.504.\r\nVistos:\r\nLo dispuesto por la Ley N° 18.695, Orgánica Constitucional de Municipalidades,\r\ncuyo texto, refundido, coordinado y sistematizado se encuentra contenido en el DFL\r\nN° 1, de 2006, del Ministerio del Interior; el DFL N° 458 de 1975, que aprueba la\r\nLey General de Urbanismo y Construcciones, su Ordenanza General; el decreto N° 55\r\n(Minvu), de fecha 28.04.1989, publicado en el Diario Oficial de fecha 27.07.1989; el\r\nPRMS 94, aprobado por resolución del GORE N° 20 de fecha 6.10.1994, publicada en el\r\nDiario Oficial con fecha 4.11.1994, lo dispuesto por esta Alcaldía.\r\nConsiderando:\r\na. El proyecto \"Modificación al Plan Regulador Comunal de Peñalolén,\r\ndenominado: Extensión del Límite Urbano, Peñalolén Nuevo\";\r\nb. La Instrucción N° 268, de fecha 11.08.2016, en la que consta que el H.\r\nConcejo Municipal de Peñalolén tomó conocimiento del proyecto \"Modificación al\r\nPlan Regulador Comunal, Extensión Límite Urbano, Peñalolén Nuevo\", y aprueba el\r\ninicio al proceso de modificación del Plan Regulador Comunal y el desarrollo de los\r\nestudios co"
+ },
+ {
+  "id": "d0841",
+  "comuna": "penalolen",
+  "nombre_documento": "21001250_promulga_modificacion_del_plan_regulador_comunal_de_penalolen_parque_co",
+  "archivo": "penalolen_21001250_promulga_modificacion_del_plan_regulador_comunal_de_penalolen_parque_co__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "antejardin": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 3,
+   "articulado": 20
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2100, PEÑALOLÉN (2002)\r\n\r\nDecreto 2100; Decreto 2100/1250\r\nPROMULGA MODIFICACION DEL PLAN\r\nPEÑALOLEN, PARQUE COUSIÑO MACUL\r\n\r\nREGULADOR\r\n\r\nCOMUNAL\r\n\r\nDE\r\n\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 18-ABR-2002 | Promulgación: 15-MAR-2002\r\nVersión: Única De : 18-ABR-2002\r\nUrl Corta: https://bcn.cl/3mhb2\r\n\r\nPROMULGA MODIFICACION DEL PLAN REGULADOR COMUNAL DE\r\nPEÑALOLEN, PARQUE COUSIÑO MACUL\r\nPeñalolén, 15 de marzo de 2002.- Hoy se ha decretado\r\nlo siguiente:\r\nNúm. 2.100/1.250.- Vistos: El proyecto de\r\nmodificación del Plan Regulador Comunal de Peñalolén,\r\ndenominada Parque Cousiño Macul; las publicaciones que se\r\nhan efectuado sobre la materia; el memorándum Nº 361, de\r\nfecha 30 de abril de 2001, de la Dirección de Obras\r\nMunicipales, que solicita someter a la aprobación del\r\nHonorable Concejo Municipal de Peñalolén la modificación\r\nal Plan Regulador Comunal de Peñalolén antes citada; la\r\ninstrucción Nº 080, de fecha 07 de mayo de 2001, de\r\nSecretaría Municipal, que transcribe el acuerdo del\r\nHonorable Concejo Municipal de Peñalolén, adoptado en su\r\nSesión Ordinaria Nº 3, celebrada con fecha 07 de mayo de\r\n2001, en el sentido de aprobar por unanimidad la\r\nmodificación al Plan Regulador Comunal de Peñalolén\r\ndenominada Parque Cousiño Macul; el decreto alcaldicio Nº\r\n2100/2277, de fecha 16 de mayo de 2001, que ratifica el\r\ncitado acuerdo del Honorable Concejo Municipal de\r\nPeñalolén; el Ordinario Alcaldicio Nº 2100/65, de fecha\r\n18 de mayo de 2001, con el que se remiten an"
+ },
+ {
+  "id": "d0842",
+  "comuna": "penalolen",
+  "nombre_documento": "21002374_promulga_modificacion_al_plan_regulador_comunal_cambio_de_uso_de_suelo",
+  "archivo": "penalolen_21002374_promulga_modificacion_al_plan_regulador_comunal_cambio_de_uso_de_suelo___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 8,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2100, PEÑALOLÉN (2005)\r\n\r\nDecreto 2100; Decreto 2100/2374\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL, CAMBIO DE\r\nUSO DE SUELO EN TERRENO URBANO\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 26-JUL-2005 | Promulgación: 03-JUN-2005\r\nVersión: Única De : 26-JUL-2005\r\nUrl Corta: https://bcn.cl/3tg05\r\n\r\nPROMULGA \"MODIFICACION AL PLAN REGULADOR COMUNAL, CAMBIO DE USO DE SUELO EN TERRENO\r\nURBANO\"\r\nPeñalolén, 3 de Junio de 2005.- Hoy se ha decretado lo siguiente:\r\nNúm. 2.100/2374.- Vistos: El proyecto de modificación del Plan Regulador\r\nComunal de Peñalolén, denominado \"Cambio de Uso de Suelo en Terreno Urbano\"; la\r\nInstrucción Nº 128 del Secretario Municipal a Asesor Urbano de fecha 29 de Junio de\r\n2004 donde se comunica que el Concejo Municipal ha resuelto con fecha 29.06.2004, en\r\nSesión Extraordinaria Nº 72 dar inicio a la tramitación del señalado proyecto de\r\nModificación al Plan Regulador Comunal de Peñalolén; las cartas informativas\r\ndespachadas a los vecinos con fecha 06.08.2004 suscritas por el Asesor Urbano donde\r\nse les remite una síntesis de la información para su conocimiento; la primera\r\npublicación que se ha efectuado con fecha 11.08.2004 en el Diario La Tercera en el\r\nque informa a la comunidad acerca de la realización de la Primera Audiencia Pública\r\npara el día 19.08.2004 e informa Exposición Pública del referido proyecto desde el\r\n30.08.2004 al 29.09.2004; la segunda publicación que se ha efectuado con fecha\r\n18.08.2004 en el Diario La Tercera en el que in"
+ },
+ {
+  "id": "d0843",
+  "comuna": "penalolen",
+  "nombre_documento": "21005247_modificacion_al_plan_regulador_comunal",
+  "archivo": "penalolen_21005247_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 4,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2100, PEÑALOLÉN (2005)\r\n\r\nDecreto 2100; Decreto 2100/5247\r\nMODIFICACION AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 26-NOV-2005 | Promulgación: 23-NOV-2005\r\nVersión: Única De : 26-NOV-2005\r\nUrl Corta: https://bcn.cl/3rmzc\r\n\r\nMODIFICACION AL PLAN REGULADOR COMUNAL\r\nPeñalolén, 23 de noviembre de 2005.- Hoy se ha decretado lo siguiente:\r\nNúm. 2100/5247.- Vistos: El proyecto de modificación al Plan Regulador Comunal\r\nde Peñalolén, denominado \"Sector Avda. José Arrieta / Calle Sánchez Fontecilla Parque Comunal\"; la Instrucción Nº 040 del Secretario Municipal de fecha\r\n28.01.2005, donde se comunica que el Concejo Municipal ha resuelto con fecha\r\n28.01.2005, en Sesión Extraordinaria Nº 06 dar inicio a la tramitación del\r\nseñalado proyecto de Modificación al Plan Regulador Comunal de Peñalolén; las\r\npublicaciones realizadas sobre la materia; la copia certificada por el Secretario\r\nMunicipal de la Memoria Explicativa expuesta al público; la copia certificada por el\r\nSecretario Municipal del Texto Resolutivo expuesto al público; la copia certificada\r\npor el Secretario Municipal del plano expuesto al público; la Resolución Exenta Nº\r\n448/2005 de la Corema Región Metropolitana de fecha 20.10.2005, mediante la cual se\r\naprobó la Declaración de Impacto Ambiental del proyecto; la Instrucción Nº 247 de\r\nfecha 26.10.2005 de la Secretaría Municipal, que transcribe el acuerdo del Honorable\r\nConcejo Municipal de Peñalolén, adoptado en Sesión Ordinaria Nº 12 de fec"
+ },
+ {
+  "id": "d0844",
+  "comuna": "penalolen",
+  "nombre_documento": "28003041_promulga_modificacion_al_plan_regulador_comunal_sector_av_las_perdices",
+  "archivo": "penalolen_28003041_promulga_modificacion_al_plan_regulador_comunal_sector_av_las_perdices___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 2,
+   "altura_maxima": 2,
+   "densidad": 1,
+   "agrupamiento": 6,
+   "antejardin": 2,
+   "rasante": 2,
+   "adosamiento": 2,
+   "distanciamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2800, PEÑALOLÉN (2007)\r\n\r\nDecreto 2800; Decreto 2800/3041\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL , SECTOR AV.\r\nLAS PERDICES (ANTUPIREN - LOS PRESIDENTES)\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 01-JUN-2007 | Promulgación: 16-MAY-2007\r\nVersión: Única De : 01-JUN-2007\r\nUrl Corta: https://bcn.cl/3pkwg\r\n\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL , SECTOR AV. LAS PERDICES (ANTUPIREN\r\n- LOS PRESIDENTES)\r\nPeñalolén, 16 de mayo de 2007.- Hoy se ha decretado lo siguiente:\r\nNúm. 2.800/3041.- Vistos: El proyecto de modificación del Plan Regulador\r\nComunal de Peñalolén, denominado \"Sector Av. Las Perdices (Antupirén - Los\r\nPresidentes)\"; la Instrucción Municipal Nº 129 de fecha 29.06.2004, donde el\r\nSecretario Municipal informa al Depto. de Asesoría Urbana sobre la aprobación de la\r\nmodificación y da pie al inicio de los trámites correspondientes de la\r\nmodificación sector Comunidad Ecológica, Av. Las Perdices; la Instrucción\r\nMunicipal Nº 270, de fecha 01.12.2004, donde el Secretario Municipal informa a la\r\nD.O.M municipal que el Concejo Municipal ha optado por dejar pendiente la aprobación\r\nde la Modificación al P.R.C. hasta la llegada del nuevo Alcalde y Concejo; la\r\nInstrucción Municipal Nº 01, de fecha 09.12.2004, donde el Secretario Municipal\r\ninforma al Asesor Urbano del acuerdo adoptado por el Concejo Municipal en sesión\r\nordinaria Nº 01 de fecha 09.12.2004 donde se aprueba la modificación al P.R.C.\r\nSector Las Perdices (Antupirén - Los Presidentes) y l"
+ },
+ {
+  "id": "d0845",
+  "comuna": "penalolen",
+  "nombre_documento": "77_modificacion_al_plan_regulador_de_penalolen",
+  "archivo": "penalolen_77_modificacion_al_plan_regulador_de_penalolen__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "densidad": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z1"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 77, PEÑALOLÉN (1991)\r\n\r\nResolución 77\r\nMODIFICACION AL PLAN REGULADOR DE PEÑALOLEN\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\nPublicación: 11-FEB-1992 | Promulgación: 24-DIC-1991\r\nVersión: Única De : 11-FEB-1992\r\nUrl Corta: https://bcn.cl/3nkqi\r\n\r\nMODIFICACION AL PLAN REGULADOR DE PEÑALOLEN\r\nLa I. Municipalidad de Peñalolén informa que por Resolución No. 77 del 24.12.91,\r\nla Secretaría Ministerial Metropolitana de Vivienda y Urbanismo aprobó la\r\nModificación al Plan Regulador Comunal de Peñalolén y su Ordenanza (Plano\r\nRM-PÑ-MOD-01-91 Láminas 1 y 2) en el sentido de aumentar la ocupación de suelo a\r\n60% en la Zona R1, aumentar la densidad a 450 hab/há en la Zona R2, reemplazar las\r\ncondiciones de suelo subdivisión y edificación en las Zonas R2 y EQ por las de las\r\nZonas SM1 y R1 y la de la Zona Z1 por la de la Zona R1, suprimir trazado vial Av. Las\r\nTorres (entre Tobalaba y Consistorial), establecer perfil 20,00 mts. para calle\r\nQuebrada de Macul y definir vocablo densidad bruta.\r\n- Carlos Alarcón Castro, Alcalde.\r\n\r\nBiblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Jul-2026\r\n\r\npágina 1 de 1"
+ },
+ {
+  "id": "d0846",
+  "comuna": "penalolen",
+  "nombre_documento": "mprc_1999",
+  "archivo": "penalolen_MPRC_1999.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 7,
+   "ocupacion_suelo": 7,
+   "predial_minima": 12,
+   "altura_maxima": 5,
+   "densidad": 6,
+   "agrupamiento": 21,
+   "antejardin": 6,
+   "rasante": 6,
+   "adosamiento": 2,
+   "distanciamiento": 3,
+   "zonificacion": 3,
+   "usos_de_suelo": 28,
+   "articulado": 21,
+   "limite_urbano": 15
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 14 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "f.\r\n\r\nanfitrión LA BASE DE DATOS QUE TRABAJA PARA USTED\r\nDIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nSábado 25 de Septiembre de 1999\r\n\r\nN° 36.473\r\nNombre vía\r\n\r\nTramo\r\n\r\nAvda. luán Soler Manfredini\r\n\r\nAvda. D. Portales-Avda.\r\nEspaña.\r\n\r\nAvda. España\r\n\r\nNueva Via aPelluco-Camino Chamiza.\r\n\r\nEgaña\r\n\r\n(9587)\r\n\r\nPágina\r\n\r\n3\r\n\r\nLos Zorros\r\n\r\nLo s Leo nes -L os Zo nos.\r\n\r\nAugusto Goecke\r\n\r\nC ho rril lo s-Eben spe rg er.\r\n\r\nEbensperger\r\n\r\nAugusto Goecke-Crucero.\r\n\r\nToda su extensión.\r\n\r\nSierra Nevada\r\n\r\nLosSauces-LosNotros.\r\n\r\nDiagonal Germánia\r\n\r\nToda su extensión.\r\n\r\nLos Sauces\r\n\r\nSi erra Nevad a-Las Quemas.\r\n\r\nRegimiento\r\n\r\nToda su extensión.\r\n\r\nVicente Pérez Rosales\r\n\r\nCrucero-Las Quemas.\r\n\r\nLas Quemas\r\n\r\nV. Pérez Rosal es-Pdte.\r\nIbáñez.\r\n\r\nlanequeo\r\n\r\nLas Quemas-Avda. Pdte.\r\nIbáñez.\r\n\r\nTRONCALES\r\nAvda. Pdte. Iban es\r\n\r\nToda su extensión.\r\n\r\nCamino a localidad Alerce\r\n\r\nAvda. Pdte. Ibáñez-Limite\r\nurbano porel Oriente.\r\n\r\nAvda. Pdte. Salvador Allende\r\n\r\nToda su extensión.\r\n\r\nCamino viejo a Chamiza\r\n\r\nRegirni ento- conexi ón Ruta 7.\r\nAvda. Maratón\r\n\r\nToda su extensión.\r\n\r\nRuta?\r\n\r\nCamino costero a CoihuínLi mit e urbano p or e 10 ri ent e.\r\n\r\nLago Vidal Gorrnaz\r\n\r\nToda su extensión.\r\n\r\nAvda. Monseñor RamónMunita\r\n\r\nToda su extensión.\r\n\r\nGeneral Merino Benitez\r\n\r\nLagoPuyehue-Rio Puelche.\r\n\r\nAvda. Cardonal\r\n\r\nAvda. Pdte. Ibáñez-Limite\r\nurbano porelNorte.\r\n\r\nLagoPuyehue\r\n\r\nLago Vidal Gorrnaz-Gral.\r\nMerino Benitez.\r\n\r\nVolcán Os orno\r\n\r\nVo le án Punti agudo -Vo le án\r\nApagado.\r\n\r\nRuta 226"
+ },
+ {
+  "id": "d0847",
+  "comuna": "penalolen",
+  "nombre_documento": "mprc_2007",
+  "archivo": "penalolen_MPRC_2007.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 2,
+   "altura_maxima": 2,
+   "densidad": 1,
+   "agrupamiento": 6,
+   "antejardin": 2,
+   "rasante": 2,
+   "adosamiento": 2,
+   "distanciamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 1,
+   "articulado": 11
+  },
+  "senales_tramite": {
+   "txt_licitacion": 4
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 14 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 1 de Junio de 2007\r\n\r\nPrimer Cuerpo Página 18\r\n\r\nNº 38.777\r\n\r\nCategoría, Grado XVII de la Escala de Sueldos del Personal de Empleados del Poder Judicial,\r\npor promoción de don Daniel Leonardo Cuevas Zúñiga.\r\n\r\nTIPO DE CAMBIO PARA EFECTOS DEL NUMERO 7 DEL CAPITULO I DEL\r\nCOMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES\r\n\r\n1 Cargo de Auxiliar - Auxiliar de Notificaciones\r\n\r\nEl tipo de cambio “dólar acuerdo” a que se refiere el inciso primero del Nº 7 del Capítulo\r\nI del Compendio de Normas de Cambios Internacionales, fue de $602,85 por dólar, moneda\r\nde los Estados Unidos de América, para el día 31 de mayo de 2007.\r\nSantiago, 31 de mayo de 2007.- Miguel Angel Nacrur Gazali, Ministro de Fe.\r\n\r\nInformación sobre requisitos para postular, documentos a presentar, renta, asignaciones,\r\nlugar y horario de recepción de antecedentes en: www.poderjudicial.cl.- Administrador de\r\nTribunal.\r\nCorte de Apelaciones de Santiago.- 13º Juzgado de Garantía de Santiago.- Llámese a\r\nconcurso público externo de oposición y antecedentes por el lapso de diez días a contar de su\r\npublicación, para proveer en propiedad el siguiente cargo correspondiente a la Tercera\r\nCategoría, de la Tercera Serie del Escalafón Secundario, Grado IX de la Escala de Sueldos del\r\nPersonal Superior del Poder Judicial, por promoción de don Sergio Enrique Quijano Cáceres.\r\n1 Cargo de Jefe de Unidad de Administración de Causas y Sala\r\nInformación sobre requisitos para postular, "
+ },
+ {
+  "id": "d0848",
+  "comuna": "penalolen",
+  "nombre_documento": "mprc_2017",
+  "archivo": "penalolen_MPRC_2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 5,
+   "limite_urbano": 22
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (agrupamiento, normas_urbanisticas, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.843\r\n\r\n|\r\n\r\nViernes 25 de Agosto de 2017\r\n\r\n|\r\n\r\nPágina 1 de 13\r\n\r\nNormas Generales\r\nCVE 1261560\r\n\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE PEÑALOLÉN\r\nPeñalolén, 11 de agosto de 2017.- Hoy se ha decretado lo siguiente:\r\nNúm. 1.200/3.504.\r\nVistos:\r\nLo dispuesto por la Ley N° 18.695, Orgánica Constitucional de Municipalidades, cuyo\r\ntexto, refundido, coordinado y sistematizado se encuentra contenido en el DFL N° 1, de 2006,\r\ndel Ministerio del Interior; el DFL N° 458 de 1975, que aprueba la Ley General de Urbanismo y\r\nConstrucciones, su Ordenanza General; el decreto N° 55 (Minvu), de fecha 28.04.1989,\r\npublicado en el Diario Oficial de fecha 27.07.1989; el PRMS 94, aprobado por resolución del\r\nGORE N° 20 de fecha 6.10.1994, publicada en el Diario Oficial con fecha 4.11.1994, lo\r\ndispuesto por esta Alcaldía.\r\nConsiderando:\r\na. El proyecto \"Modificación al Plan Regulador Comunal de Peñalolén, denominado:\r\nExtensión del Límite Urbano, Peñalolén Nuevo\";\r\nb. La Instrucción N° 268, de fecha 11.08.2016, en la que consta que el H. Concejo\r\nMunicipal de Peñalolén tomó conocimiento del proyecto \"Modificación al Plan Regulador\r\nComunal, Extensión Límite Urbano, Peñalolén Nuevo\", y aprueba el inicio al proceso de\r\nmodificación del Plan Regulador Comunal y el desarrollo de los"
+ },
+ {
+  "id": "d0849",
+  "comuna": "penalolen",
+  "nombre_documento": "mprc_2018_01",
+  "archivo": "penalolen_MPRC_2018_01.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.143\r\n\r\n|\r\n\r\nMartes 28 de Agosto de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1454091\r\n\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\n\r\nDEJA SIN EFECTO DECRETO N° 1200/3.326, DE 2016\r\nPeñalolén, 20 de agosto de 2018.- Hoy se ha decretado lo siguiente:\r\nNúm. 1200/3.867.\r\nVistos:\r\nLas facultades que me confiere la LOC N° 18.695, de Municipalidades, cuyo texto\r\nrefundido, coordinado y sistematizado se encuentra contenido en el DFL N° 1, de 2006, del\r\nMinisterio del Interior; el DFL N° 458, de 1975, que aprueba la Ley General de Urbanismo y\r\nConstrucciones y su Ordenanza General contenida en el DS N° 47, de 1992, del Ministerio de\r\nVivienda y Urbanismo; la ley N° 19.300, sobre Bases Generales del Medio Ambiente; el decreto\r\nN° 55 (Minvu), de 28.04.1989, publicado en el Diario Oficial de fecha 27 de julio de 1989; la\r\nresolución N° 45, de 6 de agosto de 1999, publicada en el Diario Oficial de 25 de septiembre de\r\n1999, y, el decreto alcaldicio N° 1300/5.775, de 21 de diciembre de 2017, que establece el orden\r\nde subrogancias.\r\nConsiderando:\r\na. Que, mediante decreto alcaldicio N° 1200/3.326, de fecha 20 de julio de 2016, se aprobó\r\nel texto de la Modificación Parcial al Plan Regulador Comunal de Peñalolén, denominado\r\nsectores Antupirén, Las Perdices, Oriental, Cancha Tres, El Sauzal, en el sentido de reemplazar\r\n"
+ },
+ {
+  "id": "d0850",
+  "comuna": "penalolen",
+  "nombre_documento": "mprc_2018_02",
+  "archivo": "penalolen_MPRC_2018_02.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 3,
+   "usos_de_suelo": 8,
+   "ordenanza_local_txt": 2,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.167\r\n\r\n|\r\n\r\nViernes 28 de Septiembre de 2018\r\n\r\n|\r\n\r\nPágina 1 de 7\r\n\r\nNormas Generales\r\nCVE 1469739\r\n\r\nMUNICIPALIDAD DE PEÑALOLÉN\r\n\r\nRECONOCE MODIFICACIÓN PARCIAL AL PLAN REGULADOR\r\nCOMUNAL DE PEÑALOLÉN\r\nPeñalolén, 13 de septiembre de 2018.- Hoy se ha decretado lo siguiente:\r\nNúm. 1200/4.405.\r\nVistos:\r\nLo dispuesto por la Ley N° 18.695, Orgánica Constitucional de Municipalidades, cuyo texto\r\nrefundido, coordinado y sistematizado se encuentra contenido en el DFL N° 1 de 2006, del\r\nMinisterio del Interior; el DFL N° 458 de 1975. que aprueba la Ley General de Urbanismo y\r\nConstrucciones, y su Ordenanza General contenida en el DS N47 de 1992, del Ministerio de\r\nVivienda y Urbanismo: la Ley N° 19.300, sobre Bases Generales del Medio Ambiente; el decreto\r\nN° 55 (Minvu), de 28 de abril de 1989, publicado en el Diario Oficial de fecha 27 de julio de\r\n1989; la resolución N° 45, de 6 de agosto de 1999, publicada en el Diario Oficial de 25 de\r\nseptiembre de 1999.\r\nConsiderando:\r\na. La Instrucción N° 378, de 25.07.2013, que contiene la decisión del H. Concejo Municipal\r\nde Peñalolén de dar inicio a la tramitación de un proyecto de Modificación Parcial al Plan\r\nRegulador Comunal de Peñalolén;\r\nb. El Ord. alcaldicio N° 2100/110, de 08.05.2015, mediante el cual la alcaldesa de la\r\nMunicipalidad de Peñalolén remite a"
+ },
+ {
+  "id": "d0851",
+  "comuna": "penalolen",
+  "nombre_documento": "ordenanza_plan_regulador_comunal",
+  "archivo": "penalolen_Ordenanza_Plan_Regulador_Comunal.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 32,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 2,
+   "articulado": 11,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ORDENANZA\r\nPLAN REGULADOR COMUNAL DE PEÑALOLEN\r\nDecreto N° 55, de 1989, del Ministerio de Vivienda y Urbanismo,\r\npublicado en el Diario Oficial de 27 de julio de 1989\r\n\r\n\fINDICE\r\nCAPÍTULO I\r\n\r\nDISPOSICIONES GENERALES\r\n\r\nArtículo\r\n\r\nContenido de la presente Ordenanza\r\nÁrea territorial de aplicación\r\nContexto legal\r\nAplicación de la Ordenanza corresponde a Director de Obras\r\nSanciones\r\n\r\n1°\r\n2°\r\n3°\r\n4°\r\n5°\r\n\r\nCAPÍTULO II\r\n\r\nDESCRIPCIÓN DEL LÍMITE URBANO\r\n\r\nArtículo\r\n\r\nDescripción del polígono\r\n\r\n6°\r\n\r\nCAPÍTULO III\r\n\r\nDEFINICIONES Y NORMAS GENERALES\r\n\r\nArtículo\r\n\r\nCaso predios de menor superficie\r\nDefiniciones\r\nFormas de agrupamiento de las edificaciones\r\nAdosamientos según Ordenanza General\r\nReglas para edificaciones continuas\r\nCierros exteriores\r\nAntejardines\r\nDistanciamiento edificaciones industriales\r\nAncho mínimo de vías para terminales de transporte\r\nUbicación bombas bencineras\r\nEstacionamientos según Plan Intercomunal de Santiago\r\nCesiones gratuitas de terrenos\r\nAutorizaciones de patentes municipales\r\nConstrucciones en áreas de uso público\r\nClasificación de equipamiento según Política Nacional\r\nAnchos mínimos de vías para equipamiento\r\nAnchos mínimos de vías para talleres molestos e industrias\r\nNiveles de ruido admisibles\r\nDefinición de instalaciones molestas insalubres\r\nInforme de Impacto Ambiental\r\nObras de Urbanización según Ley y Ordenanza General\r\n\r\n7°\r\n8°\r\n9°\r\n10°\r\n11°\r\n12°\r\n13°\r\n14°\r\n15°\r\n16°\r\n17°\r\n18°\r\n19°\r\n20°\r\n21°\r\n22°\r\n23°\r\n24°\r\n25°\r\n26°\r\n27°\r\n\r\nCAPÍTULO IV\r\n\r\n"
+ },
+ {
+  "id": "d0852",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_eq_1",
+  "archivo": "penalolen_Zona_EQ-1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 4,
+   "antejardin": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Zona EQ-1\r\nUSOS PERMITIDOS\r\nEQUIPAMIENTO, con la excepción de las actividades expresamente prohibidas.\r\nESPACIO PÚBLICO\r\nAREA VERDE\r\nUSOS PROHIBIDOS\r\n\r\nUSOS PROHIBIDOS\r\n\r\nCLASE\r\n\r\nVivienda.\r\nEdificaciones destinadas al hospedaje.\r\n\r\nRESIDENCIAL\r\n\r\nComercio\r\n\r\nEQUIPAMIENTO\r\n\r\nEsparcimiento\r\n\r\nSalud\r\n\r\nSeguridad\r\n\r\nServicios\r\n\r\nTransporte\r\nINFRAESTRUCTURA\r\nSanitaria\r\n\r\nACTIVIDADES\r\nPRODUCTIVAS\r\n\r\nACTIVIDAD\r\n\r\nVenta de repuestos y accesorios de vehículos\r\nmotorizados, nuevos o reciclados.\r\nDiscotecas o similar.\r\nCompra, venta de materiales de reciclaje.\r\nEstaciones de servicio, servicentros o centros de servicio\r\nAutomotor.\r\nTerminales y depósitos de vehículos, y los asimilados a los\r\nartículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nTerminales de distribución.\r\nEstacionamientos.\r\nHipódromos.\r\nZoológicos.\r\nCasinos.\r\nJuegos electrónicos o mecánicos.\r\nCementerios.\r\nCrematorios.\r\n\r\nBases militares.\r\nCárceles.\r\nCentros de detención.\r\nCentros de internación provisoria.\r\nCentros de privación de libertad.\r\nTerminales y depósitos de vehículos, y los asimilados a los\r\nartículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nGaraje, talleres de servicios de vehículos y talleres\r\nmecánicos, talleres molestos.\r\nTerminales y/o depósito de transporte terrestre.\r\nEstaciones de intercambio modal.\r\nTerminales y depósitos de vehículos, y los asimilados a los\r\nartículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nVertedero y/o botadero de basura, rellenos sanitarios\r\ny estaciones de transferencia de residuos.\r\nTaller, taller art"
+ },
+ {
+  "id": "d0853",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_eq_2",
+  "archivo": "penalolen_Zona_EQ-2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "densidad": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Asesoría Urbana-SECPLA\r\n\r\nZona EQ-2\r\nUSOS PERMITIDOS\r\n\r\nEquipamiento regional e intercomunal y comunal de: áreas verdes, deportes, culto, cultura, educación,\r\nsalud, comercio, servicios públicos y/o profesionales, seguridad, organizaciones comunitarias y\r\nesparcimiento – turismo a excepción de moteles.\r\nCONDICIONES DE SUBDIVISION Y DE EDIFICACION:\r\nUSO\r\nEQUIPAMIENTO\r\n\r\nCONDICIONES DE EDIFICACIÓN\r\n\r\nDensidad bruta máxima\r\n\r\nHab/Há\r\n\r\nNo Aplica\r\n\r\nSuperficie mínima predial (m2)\r\n\r\nm2\r\n\r\n10.000\r\n\r\nPorcentaje máximo de ocupación de suelo\r\n\r\n25\r\n\r\nCoeficiente máximo de constructibilidad\r\n\r\n0,25"
+ },
+ {
+  "id": "d0854",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_eq_3",
+  "archivo": "penalolen_Zona_EQ-3.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0855",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_eq_4",
+  "archivo": "penalolen_Zona_EQ-4.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Asesoría Urbana-SECPLA\r\n\r\nZona EQ-4\r\nUSOS PERMITIDOS\r\n\r\nSon áreas existentes o proyectadas de propiedad fiscal, municipal o privada, de uso controlado o\r\nrestringido, destinadas a acoger actividades deportivas y/o espectáculos de concurrencia masiva de público.\r\nLas instalaciones y construcciones propias de su uso específico y las complementarias para su\r\nfuncionamiento, incluidos los estacionamiento necesarios, serán los establecidos en el Art. 7.1.2. de la\r\nOrdenanza del PRMS y en el capítulo 8 del Título 4 de la Ordenanza General de Urbanismo y\r\nConstrucciones. La superficie máxima de ocupación del suelo con estas construcciones no podrá sobrepasar\r\nel 20% de la superficie total del predio."
+ },
+ {
+  "id": "d0856",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_eq_5",
+  "archivo": "penalolen_Zona_EQ-5.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "usos_de_suelo": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Asesoría Urbana-SECPLA\r\n\r\nZona EQ-5\r\nUSOS PERMITIDOS\r\n\r\nCorresponden a áreas que presentan inestabilidad estructural por estar constituidas por rellenos artificiales\r\no por corresponder a pozos originados por actividades extractivas de materiales pétreos, áridos, arcillas y\r\npuzolanas.\r\nPara los efectos del presente Plan, se reconoce la siguiente área, con sus respectivas normas técnicourbanísticas:\r\nCONDICIONES DE SUBDIVISION Y DE EDIFICACION:\r\nNOMBRE DEL\r\nPOZO\r\n\r\nUSO DE SUELO\r\nPERMITIDOS\r\n\r\nSUPERFICIE\r\nPREDIAL\r\nMÌNIMA HÁ\r\n\r\nQuebrada De Macul/\r\nCanal las Perdices\r\n\r\n(1) (4)\r\nEquipamiento de:\r\n- Áreas Verdes\r\n- Culto\r\n- Cultura\r\nRecreacional/\r\nDeportivo\r\n-Esparcimiento/\r\nTurismo\r\n(2)\r\nDisposición Final de:\r\n-Residuos\r\nde\r\nla 3.00\r\nConstrucción\r\ny/o\r\nDemoliciones\r\n(3) (4)\r\nEstaciones de:\r\n-Transferencia\r\nExclusiva\r\n\r\n% MAXIMO\r\nOCUPACIÓN\r\nSUELO\r\n\r\nCOEFICIENTE\r\nMÁXIMO\r\nCONSTRUCTIBILIDA\r\nD\r\n\r\n10%\r\n\r\n0.1\r\n\r\n(1) Los equipamientos permitidos, sólo considerarán las instalaciones mínimas complementarias a\r\nactividades al aire libre.\r\n(2) Se deberá dar cumplimiento a lo establecido en el Artículo 7.2.3.4. de la Ordenanza del PRMS.\r\n(3) Se deberá dar cumplimiento a lo establecido en el Artículo 8.4.1.4. de Peligro Aviario de la\r\nOrdenanza del PRMS.\r\n(4) Se deberá dar cumplimiento a lo establecido en el Artículo 7.2.3.1. de la Ordenanza del PRMS.\r\nLa autorización municipal, para intervenir estas áreas con algunos de los usos de suelos permitidos, estará\r\ncondicionada, además, al cumplimi"
+ },
+ {
+  "id": "d0857",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_r10",
+  "archivo": "penalolen_Zona_R10.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 8,
+   "antejardin": 1,
+   "distanciamiento": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Zona R 10\r\nUSOS PERMITIDOS\r\nRESIDENCIAL, con la excepción de las actividades expresamente prohibidas.\r\nEQUIPAMIENTO, con la excepción de las actividades expresamente prohibidas.\r\nACTIVIDADES PRODUCTIVAS, con la excepción de las actividades expresamente prohibidas.\r\nESPACIO PÚBLICO\r\nAREA VERDE\r\nUSOS PHOHIBIDOS\r\n\r\nUSOS EXCLUIDOS\r\nRESIDENCIAL\r\n\r\nEQUIPAMIENTO\r\n\r\nCLASE\r\n\r\nMoteles.\r\nVenta de repuestos y accesorios de vehículos motorizados,\r\nnuevos o reciclados.\r\nDiscotecas o similar.\r\nCompra, venta de materiales de reciclaje.\r\nEstaciones de servicio, servicentros o centros de servicio\r\nComercio\r\nAutomotor.\r\nTerminales y depósitos de vehículos, y los asimilados a los\r\nartículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nTerminales de distribución.\r\nEstacionamientos.\r\nHipódromos.\r\nZoológicos.\r\nEsparcimiento\r\nCasinos.\r\nJuegos electrónicos o mecánicos.\r\nCementerios.\r\nSalud\r\nCrematorios.\r\n\r\nSeguridad\r\n\r\nServicios\r\n\r\nTransporte\r\nINFRAESTRUCTURA\r\nSanitaria\r\nACTIVIDADES\r\nPRODUCTIVAS\r\n\r\nACTIVIDAD\r\n\r\nBases militares.\r\nCárceles.\r\nCentros de detención.\r\nCentros de internación provisoria.\r\nCentros de privación de libertad.\r\nTerminales y depósitos de vehículos, y los asimilados a los\r\nartículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nGaraje, talleres de servicios de vehículos y talleres\r\nmecánicos, talleres molestos.\r\nTerminales y/o depósito de transporte terrestre.\r\nEstaciones de intercambio modal.\r\nTerminales y depósitos de vehículos, y los asimilados a los\r\nartículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nVertedero"
+ },
+ {
+  "id": "d0858",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_r11",
+  "archivo": "penalolen_Zona_R11.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "densidad": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (constructibilidad, ocupacion_suelo, altura_maxima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Asesoría Urbana-SECPLA\r\n\r\nZONA R11\r\nUSOS PERMITIDOS\r\n\r\nVivienda.\r\nEquipamiento de escala comunal regional e Intercomunal de todo tipo.\r\nCONDICIONES DE SUBDIVISION Y DE EDIFICACION:\r\nCONDICIONES DE EDIFICACIÓN\r\n\r\nUSO\r\nResidencial\r\n\r\nUSO\r\nEquipamiento\r\n\r\nDensidad bruta máxima\r\n\r\nHab/Há\r\n\r\n200\r\n\r\nNo Aplica\r\n\r\nSuperficie mínima predial\r\n\r\nm2\r\n\r\n4.000\r\n\r\n4.000\r\n\r\n15\r\n\r\n40\r\n\r\n0.15\r\n4 p.\r\n14 m.\r\n\r\n0.40\r\n4 p.\r\n14 m.\r\n\r\nPorcentaje máximo de ocupación de suelo\r\nCoeficiente máximo de constructibilidad\r\nAltura máxima de edificación\r\n\r\nN° de pisos\r\nmetros"
+ },
+ {
+  "id": "d0859",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_r4",
+  "archivo": "penalolen_Zona_R4.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "densidad": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (constructibilidad, ocupacion_suelo, altura_maxima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Asesoría Urbana-SECPLA\r\n\r\nZona R4\r\nUSOS PERMITIDOS\r\nVivienda.\r\nEquipamiento de escala comunal regional e Intercomunal de todo tipo a excepción de equipamiento de:\r\nEsparcimiento y Turismo destinados a Discotecas, Quintas de Recreo, Moteles, Hospederías,\r\nResidenciales.\r\n\r\nCONDICIONES DE SUBDIVISION Y DE EDIFICACION:\r\nCONDICIONES DE EDIFICACIÓN\r\n\r\nUSO\r\nResidencial\r\n\r\nUSO\r\nEquipamiento\r\n\r\nDensidad bruta máxima\r\n\r\nHab/Há\r\n\r\n300\r\n\r\nNo Aplica\r\n\r\nSuperficie mínima predial\r\n\r\nm2\r\n\r\n2.000\r\n\r\n2.000\r\n\r\nPorcentaje máximo de ocupación de suelo\r\n\r\n20\r\n\r\n50\r\n\r\nCoeficiente máximo de constructibilidad\r\n\r\n0.2\r\n4 p.\r\n14 m.\r\n\r\n0.5\r\n4 p.\r\n14 m.\r\n\r\nAltura máxima de edificación\r\n\r\nN° de pisos\r\nmetros"
+ },
+ {
+  "id": "d0860",
+  "comuna": "penalolen",
+  "nombre_documento": "zona_r2",
+  "archivo": "penalolen_Zona_r2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "densidad": 1,
+   "agrupamiento": 10,
+   "antejardin": 1,
+   "rasante": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 4,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Zona R2\r\nUSOS PERMITIDOS\r\nRESIDENCIAL\r\nEQUIPAMIENTO, con la excepción de las actividades expresamente prohibidas.\r\nTRANSPORTE, con la excepción de las actividades indicadas en usos prohibidos.\r\nACTIVIDADES PRODUCTIVAS, con la excepción de las actividades indicadas en usos\r\nprohibidos.\r\nESPACIO PÚBLICO\r\nAREA VERDE\r\n\r\nUSOS PROHIBIDOS\r\nUSOS\r\nPROHIBIDOS\r\n\r\nCLASE\r\n\r\nRESIDENCIAL\r\n\r\nMoteles\r\nSalud\r\nCultura\r\nEsparcimiento\r\ny Cultura\r\nComercio\r\n\r\nEQUIPAMIENTO\r\n\r\nServicios\r\nIndustria y\r\nAlmacenamiento\r\nTransporte\r\nINFRAESTRUCTURA\r\nSanitaria\r\n\r\nACTIVIDADES\r\nPRODUCTIVAS\r\n\r\nACTIVIDAD\r\n\r\nCementerios, plantas y botaderos de basura.\r\nZoológicos.\r\nHipódromos.\r\nTerminales de distribución.\r\nTerminales y depósitos de vehículos, y los asimilados a\r\nlos artículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nDiscotecas.\r\nTerminales y depósitos de vehículos, y los asimilados a\r\nlos artículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nGaraje, talleres de servicios de vehículos y talleres\r\nmecánicos, talleres molestos.\r\nInofensivos, molestos, insalubres.\r\nTerminales y/o depósito de transporte terrestre.\r\nEstaciones de intercambio modal.\r\nTerminales y depósitos de vehículos, y los asimilados a\r\nlos artículos 4.13.7 y 4.13.12 de la O.G.U.C.\r\nVertedero y/o botadero de basura, rellenos sanitarios\r\ny estaciones de transferencia de residuos.\r\nIndustria.\r\nPlantas de revisión técnica.\r\nActividades de servicio de carácter similar al industrial.\r\nTerminales y depósitos de vehículos, y los asimilados a\r\nlos artículos 4.13.7 y 4.13.12"
+ },
+ {
+  "id": "d1177",
+  "comuna": "penalolen",
+  "nombre_documento": "mprc_1989",
+  "archivo": "penalolen_MPRC_1989.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

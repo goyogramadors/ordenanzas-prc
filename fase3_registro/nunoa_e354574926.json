@@ -1,0 +1,25 @@
+{
+  "id": "nunoa_e354574926",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_1167_promulga_aprobacion_de_la_modificacion_no_18_del_plan_regulador_de_nunoa__PUBLICACION_30_DE_AGOSTO_2019.pdf",
+  "nombre": "nunoa_1167_promulga_aprobacion_de_la_modificacion_no_18_del_plan_regulador_de_nunoa__PUBLICACION_30_DE_AGOSTO_2019.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 59,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:07:26",
+  "fin": "2026-07-14T21:15:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        25
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "modificación N18: Art.26 Normas de edificación y subdivisión reemplaza cuadros normativos por zona (Z-1,Z-1A,Z-1B,Z-2,Z-3,Z-3A,Z-4,Z-4m,Z-4C,Z-5,Z-6,ZI-1) como imágenes incrustadas grandes, verificado con pdfimages+render: pág19 Z-1 completa, pág22 Z-1B+Z-2, pág24 Z-4/Z-4m/Z-5, pág25 ediciones Z-6/ZI-1"
+  }
+}

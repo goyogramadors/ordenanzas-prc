@@ -1,0 +1,25 @@
+{
+  "id": "caldera_628fd5cd2b",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_225_promulga_actualizacion_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "nombre": "caldera_225_promulga_actualizacion_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:45:33",
+  "fin": "2026-07-15T07:49:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        9,
+        19
+      ]
+    ],
+    "paginas_utiles": 11,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa MIXTO Caldera clasica confirmada. Art.21 Normas Urbanisticas por Zona pag9 (ZONA U-1 Centro Historico) hasta pag19 (ZONA U-23 Cultural Paleontologico), ~23 zonas U-1 a U-23, todas tabla-imagen (texto solo encabezado ~120-345 chars/pag). Cuadros completos: usos permitidos/prohibidos, superficie predial minima, COS, coef.constructibilidad, agrupamiento, distanciamiento, altura maxima, antejardin, densidad maxima, + condiciones especiales area riesgo tsunami/quebradas. Pag19 transiciona a b) Areas Restringidas al Desarrollo Urbano (zonas A,T,Q,C,R pag20-21) que SI es texto en prosa, excluida. Pag31 Art.37 tabla estacionamientos por uso -tambien imagen pero no es norma de zona (COS/constructibilidad/altura), excluida."
+  }
+}

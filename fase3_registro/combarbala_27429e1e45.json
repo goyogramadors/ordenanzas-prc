@@ -1,0 +1,25 @@
+{
+  "id": "combarbala_27429e1e45",
+  "comuna": "combarbala",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\combarbala_n_532_plan_regulador_de_la_comuna_de_combarbala__1755933.pdf",
+  "nombre": "combarbala_n_532_plan_regulador_de_la_comuna_de_combarbala__1755933.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 27,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:32:38",
+  "fin": "2026-07-14T15:34:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        25
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ORDENANZA COMPLETA PRC Combarbala (Diario Oficial 30-04-2020, 27 pags). Tablas EN TEXTO (pdftotext las saca). p11-12: art.5 Estacionamientos + cuadro ESTANDARES MINIMOS DE ESTACIONAMIENTO. p13: zonificacion (ZU-1..ZU-12, ZAV-1, EP). p14-24: art.8 Zonificacion, Usos de Suelo y Normas Especificas, una seccion por zona (usos + Normas Urbanisticas: subdivision predial min, COS, CC, altura, agrupamiento, estacionamientos, antejardin). p25: art.9 cuadro INMUEBLES DE CONSERVACION HISTORICA (A-1 Iglesia Parroquial, A-2 Estacion FFCC) CON normas: uso, agrupamiento, altura 10/7 m, antejardin. p26: cuadro de VIALIDAD estructurante (imagen), fuera del rango."
+  }
+}

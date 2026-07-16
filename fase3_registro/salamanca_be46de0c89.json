@@ -1,0 +1,25 @@
+{
+  "id": "salamanca_be46de0c89",
+  "comuna": "salamanca",
+  "ruta": "Ordenanzas ordenadas\\salamanca_plan_regulador__Plan_Regulador_22.08.1988.pdf",
+  "nombre": "salamanca_plan_regulador__Plan_Regulador_22.08.1988.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 23,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:17:01",
+  "fin": "2026-07-15T12:18:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        19
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Cap.IV Definicion de macro-areas, zonificacion, uso del suelo y normas especificas (Art.18-19). Tabla normativa por zona pag13 (Art.19, ZONA ZU-1) hasta pag19 (ZE-2, ZR-1 a ZR-6, cierre Art.20): usos permitidos/prohibidos, superficie predial minima, frente predial minimo, %ocupacion suelo, coef.constructibilidad, agrupamiento, altura maxima, densidad. Pag11-12 Art.14 equipamiento (servicentros/garages/terminales) como margen previo. Pag20-23 Cap.V Vialidad (anchos de vias) y cierre, excluidos."
+  }
+}

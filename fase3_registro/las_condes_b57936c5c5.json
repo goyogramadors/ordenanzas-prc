@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_b57936c5c5",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4483.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4483.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:04:27",
+  "fin": "2026-07-14T20:53:59",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (misma plantilla): Decreto 4483 (28-12-2004) solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Vivienda (PS-U-V), anexos no incluidos en el PDF de 1 pagina. Buscar si existe una version D.O.4483 (Diario Oficial) que probablemente SI trae el cuadro, como paso con 4474 y 4484."
+  }
+}

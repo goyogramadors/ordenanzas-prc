@@ -1,0 +1,20 @@
+{
+  "id": "antuco_b5c79e7916",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_ordenanza_sobre_otorgamiento_de_beca_municipal_de_ensenanza_superior_de___Decreto_3_2023.pdf",
+  "nombre": "antuco_decreto_ordenanza_sobre_otorgamiento_de_beca_municipal_de_ensenanza_superior_de___Decreto_3_2023.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:08:18",
+  "fin": "2026-07-15T08:10:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 3/2023, modifica Ordenanza N01/23 Otorgamiento Beca Municipal Ensenanza Superior. Confirmado visual pag1,6,10-11 (arts.21-24, firmas cierre): solo becas, sin tablas de normas urbanisticas."
+  }
+}

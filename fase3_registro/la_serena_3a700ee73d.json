@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_3a700ee73d",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_4516_graffitis_rayados_pinturas_y_otros_danos_semejantes_en_muros_y_paredes_fach__doc_34_4516_05032015122020.pdf",
+  "nombre": "la_serena_4516_graffitis_rayados_pinturas_y_otros_danos_semejantes_en_muros_y_paredes_fach__doc_34_4516_05032015122020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:22:03",
+  "fin": "2026-07-15T08:23:35",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto4516/09, Ordenanza local sobre graffitis, rayados, pinturas y otros danos en muros/fachadas. Confirmado pag1-2/2: articulado normativo (sanciones penales, procedimiento), sin tablas."
+  }
+}

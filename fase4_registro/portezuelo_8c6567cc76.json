@@ -1,0 +1,39 @@
+{
+  "id": "portezuelo_8c6567cc76",
+  "comuna": "portezuelo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\portezuelo_38802_ordenanza_local_plan_regulador_comunal_de_portezuelo__DO PLAN REGULADOR 2007.pdf",
+  "rangos": [
+    [
+      4,
+      5
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ordenanza Local PRC Portezuelo (Diario Oficial 30-06-2007, N38.802, OCR de mala calidad pero TEXTO REAL, no imagen). p4-5: TODAS las zonas con usos permitidos/prohibidos + condiciones de subdivision/urbanizacion/construccion (predial min, COS, CC, agrupamiento, altura, densidad, antejardin): ZHM (Habitacional Mixta), ZHMC (Habitacional Mixta Comercial), ZPI (Productiva Industrial), zona de extension urbana (sin sigla propia), ZE (Equipamiento), ZEXH-1 (Extension Habitacional, aparece duplicada en el texto), ZEI (Equip. Salud/Cementerio), ZE2 (Equip. Deportivo), ZEXHMP (Extension Habitacional Mixta Productiva), ZPU (Parcelas Urbanas), ZP (Proteccion Drenajes), ZR (Restriccion Incendios Forestales, remite a zona contigua). A mitad de p5 arranca Cap.V Vialidad (art.30-32, cuadro Centro Urbano de Portezuelo), EXCLUIDO. Tras el cuadro vial, la misma pagina 5 sigue con contenido AJENO (Ministerio del Interior autoriza colecta publica, Subsecretaria de Marina transferencias de acuicultura en la X Region): no es de Portezuelo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:00:11",
+  "fin": "2026-07-15T18:04:08",
+  "resultado": {
+    "archivo": "extraccion_normas\\portezuelo\\portezuelo_38802_prc_zonas_completas_pag4-5.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "ZHM",
+      "ZHMC",
+      "ZE",
+      "ZE1",
+      "ZE2",
+      "ZPI",
+      "ZEXH-1",
+      "ZEXH-2",
+      "ZEXHMP",
+      "ZPU",
+      "ZP",
+      "ZR"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: 12 zonas completas pese a OCR de mala calidad (texto real, no imagen). ZP y ZR sin valores numericos propios (remiten a zona contigua/curso de agua). Vialidad (Cap.V, cuadro Centro Urbano) y contenido ajeno (Interior, Marina) correctamente excluidos."
+  }
+}

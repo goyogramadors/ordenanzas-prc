@@ -1,0 +1,25 @@
+{
+  "id": "talca_1a0e5fb2f5",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talca_3_aprueba_modificacion_a_ordenanza_local_del_plan_regulador_de_talca_en_el_senti__Exportar.pdf",
+  "nombre": "talca_3_aprueba_modificacion_a_ordenanza_local_del_plan_regulador_de_talca_en_el_senti__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:32:26",
+  "fin": "2026-07-14T21:33:42",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        3
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Resolucion 3/1993 Talca, modificacion a la Ordenanza Local: normas EN PROSA (sin cuadro), afecta varios articulos y zonas. art.11: casetas de porteria en antejardin permitidas en Z-5, Z-6, ZE-I. art.14: estacionamiento supermercados/centros comerciales 1 cada 40 m2. art.21: cuerpos salientes hasta 1,80 m sobre 3 m altura en vias >15 m. art.24: predial minimo 2.500 m2 para viviendas economicas en Area Consolidada y ZE-1. Zona Z-1 (sistema agrupamiento por colindancia), Z-2 (agrupamiento y antejardin condicionados), Z-3 (agrupamiento continuo hasta 40% deslinde, antejardin), Z-4 (agrupamiento, antejardin obligatorio/optativo segun predio), ZE-3 (sin densidad neta maxima determinada). art.27: ancho Avda. Colon 50 m (vialidad, no cuenta)."
+  }
+}

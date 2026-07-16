@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_a0617355aa",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\RE6C2C~1.PDF",
+  "nombre": "RE6C2C~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T12:54:02",
+  "fin": "2026-07-14T12:56:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "RENGO: decreto alcaldicio 2p (jun-2018) que solo INICIA el procedimiento de actualizacion del PRC. Puro tramite: pag1 vistos/considerandos, pag2 el decreto (iniciese el procedimiento, designa a Secplan y asesora urbanista). Sin normas."
+  }
+}

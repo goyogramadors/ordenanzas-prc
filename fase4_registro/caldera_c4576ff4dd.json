@@ -1,0 +1,37 @@
+{
+  "id": "caldera_c4576ff4dd",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_756_rectifica_errores_de_la_ordenanza_del_plan_regulador_comunal_de_caldera__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.756 rectifica errores art.18 PRC Caldera. OJO: las tablas son IMAGEN (pdftotext solo deja un punto). Contenido = cuadro catastral de 15 areas verdes desafectadas (CODIGO/UBICACION/SUPERFICIE ha, filas AVD1-AVD15) en formato 'donde dice / debe decir'. NO son parametros de edificacion por zona (sin COS/CC/altura/usos): se marca con tablas por generosidad, pero la fase siguiente puede descartarlo si solo busca normas por zona.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:18:30",
+  "fin": "2026-07-15T23:10:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\caldera\\caldera_756_rectifica_avd_areas_verdes.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "AVD1",
+      "AVD2",
+      "AVD3",
+      "AVD4",
+      "AVD5",
+      "AVD6",
+      "AVD7",
+      "AVD8",
+      "AVD9",
+      "AVD10"
+    ],
+    "confianza": "MEDIA",
+    "nota": "NO es norma de zona (sin COS/CC/altura/usos): cuadro catastral Donde dice/Debe decir de 15 areas verdes desafectadas, solo AVD1-10 reciben correccion formal (AVD11-15 resultan ser parques comunales, sin redaccion nueva). Transcrito por generosidad segun nota_fase3; confianza MEDIA y aviso explicito de que la fase siguiente puede descartarlo."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "chillan_viejo_c7dd45b1a5",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_viejo_4219_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo__1334250.pdf",
+  "nombre": "chillan_viejo_4219_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo__1334250.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:30:45",
+  "fin": "2026-07-14T15:35:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 4219/2017 (DO 41.955): modifica el art.4 de la Ordenanza pero en el CUADRO DE VIALIDAD ESTRUCTURANTE (elimina via proyectada Nueva Sur entre Serrano y Mariano Egana). Es vialidad, NO norma urbanistica por zona (no toca usos, COS, CC, altura). Render de p1 confirma que no hay cuadro oculto."
+  }
+}

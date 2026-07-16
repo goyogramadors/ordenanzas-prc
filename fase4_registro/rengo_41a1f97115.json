@@ -1,0 +1,46 @@
+{
+  "id": "rengo_41a1f97115",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\rengo_1088_md_enmienda_no5_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20121020.pdf",
+  "rangos": [
+    [
+      14,
+      15
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Diario Oficial N40.390, 20-oct-2012, 24 pags. Decreto Alcaldicio 1088(MD), 27-sep-2012, Rengo, 'APRUEBA ENMIENDA N5 AL PLAN REGULADOR DE RENGO' -- decreto completo en pags14-15 (Cuerpo I-14 a I-15). Modificaciones numericas concretas a multiples zonas urbanas de Rengo/Rosario/Esmeralda: ZH1-A, ZH2, ZH3, ZH4 Prat-Condell, ZH6, ZH8, ZH9, ZE, ZE2, ZE4, ZE10, ZR7, ZC3, ZAV, ZAV1, AV -- agrega/modifica usos de suelo condicionados y fija valores de antejardin minimo (3-6m) y distanciamiento minimo (5m) por zona. Verificado visualmente paginas 1,10,14,15,16,20,24 de 24.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:05:20",
+  "fin": "2026-07-15T18:09:45",
+  "resultado": {
+    "archivo": "extraccion_normas\\rengo\\rengo_1088_enmienda_n5_18zonas_pag14-15.md",
+    "zonas": 19,
+    "zonas_codigos": [
+      "ZH1-A",
+      "ZH1-B",
+      "ZH2",
+      "ZH3",
+      "ZH4",
+      "ZH6",
+      "ZE(Rengo)",
+      "ZE2",
+      "ZE4",
+      "ZE10",
+      "ZAV(Rengo)",
+      "ZAV1",
+      "ZR7",
+      "ZH8",
+      "ZAV(Rosario)",
+      "ZC3",
+      "ZH9",
+      "ZE(Esmeralda)",
+      "AV"
+    ],
+    "confianza": "ALTA",
+    "nota": "19 modificaciones en 3 localidades (Rengo/Rosario/Esmeralda), mayormente restriccion de equipamiento (comercio/cultura/deporte/esparcimiento) a escalas Menor/Basica, mas antejardin en varias zonas (3-6m) y distanciamiento 5m en ZAV. No es tabla numerica completa COS/CC/altura por zona, son modificaciones puntuales de usos condicionados. Algunos codigos de zona se repiten entre localidades distintas (ZE, ZAV) -- etiquetados por localidad. Verificado visualmente. Coincide con nota_fase3."
+  }
+}

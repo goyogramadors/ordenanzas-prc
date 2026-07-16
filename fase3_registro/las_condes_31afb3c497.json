@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_31afb3c497",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.8676.18dic2017.pdf",
+  "nombre": "las_condes_decreto.8676.18dic2017.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:27:26",
+  "fin": "2026-07-15T08:30:39",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alc. Secc 1a N8676, 18-dic-2017: modifica Decreto 1132/2015, elimina del Art 45 (cuadro Vialidad Comunal) la afectacion a utilidad publica de 8 vias clasificadas como colectoras de servicio/locales. Deroga tambien referencia a incremento de antejardines del Art 38 para esas vias especificas, pero no transcribe valores de antejardin ni otros parametros normativos, solo deroga/elimina afectaciones. No trae tabla de normas urbanisticas. Verificado visualmente 2 de 2 paginas."
+  }
+}

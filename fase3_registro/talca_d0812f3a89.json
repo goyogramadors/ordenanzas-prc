@@ -1,0 +1,20 @@
+{
+  "id": "talca_d0812f3a89",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_dejese_sin_efecto_decreto_alcaldicio_no_0851_de_fecha_2005_de_conformida__2251.pdf_1506351574384.pdf",
+  "nombre": "talca_decreto_dejese_sin_efecto_decreto_alcaldicio_no_0851_de_fecha_2005_de_conformida__2251.pdf_1506351574384.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:58:14",
+  "fin": "2026-07-15T13:00:08",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 2251/2016: deja sin efecto Decreto 0851/2005 (fijaba tarifas/permisos para sitio eriazo Av. Lircay bajo Plan Regulador anterior), por estar basado en un plan ya derogado. Solo menciona clasificacion Zona U-5 sin reproducir cifras de norma; documento tributario/administrativo."
+  }
+}

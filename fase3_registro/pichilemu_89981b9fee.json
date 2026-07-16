@@ -1,0 +1,37 @@
+{
+  "id": "pichilemu_89981b9fee",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pichilemu_2421_aprueba_modificacion_del_plan_regulador_comunal_de_pichilemuzona_a5__publicacion_mod_zonaA4.1.pdf",
+  "nombre": "pichilemu_2421_aprueba_modificacion_del_plan_regulador_comunal_de_pichilemuzona_a5__publicacion_mod_zonaA4.1.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:12:40",
+  "fin": "2026-07-14T21:20:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        8
+      ],
+      [
+        29,
+        30
+      ],
+      [
+        38,
+        39
+      ],
+      [
+        45,
+        46
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "modificación Zona A5: pág8 tabla NORMAS DE EDIFICACIÓN vigente (antes de modificar); pág29-30 (memoria 4.2 Zonificación) tabla PROPUESTA completa Zona A5A+Zona E+Zona E3 en texto OCR legible; pág38-39 (ordenanza/texto aprobatorio) mismas normas repetidas en texto legal; pág45-46 (reproducción DO) mismas tablas por tercera vez pero SOLO como imagen escaneada (verificado con render). Excluidas p.28/40/47 (perfiles viales) y p.41/48 (planimetría), no son normas de zona"
+  }
+}

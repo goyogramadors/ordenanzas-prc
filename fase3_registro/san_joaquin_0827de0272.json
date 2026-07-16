@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_0827de0272",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_352_apruebese_y_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joa__DO19-02-2016.pdf",
+  "nombre": "san_joaquin_352_apruebese_y_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joa__DO19-02-2016.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:52:26",
+  "fin": "2026-07-15T12:53:35",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 352/2016 (DO 19-02-2016), 'Aprueba y Promulga Modificación al PRC Vías de Acceso a Centro Cultural San Joaquín'. Modifica exclusivamente la organización de la vialidad y espacios públicos del entorno (según Texto Aprobatorio/Plano PRSJ 6, no incluidos en este PDF). No fija parámetros de zona."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_a0d57a57a7",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3421_aprueba_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_ser__1381855744-1525962872.pdf",
+  "nombre": "la_serena_3421_aprueba_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_ser__1381855744-1525962872.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 21,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:24:55",
+  "fin": "2026-07-15T08:25:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 3421/13, 11-oct-2013: APRUEBA ORDENANZA SOBRE DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS. Tabla de cobros/tarifas municipales, define sectores centro/subcentro solo para efectos de tarifa, no zonificacion PRC. Verificado visualmente pagina 1 de 21."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "donihue_4cd663b29b",
+  "comuna": "donihue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\donihue_56_aprueba_plan_regulador_comunal_de_las_localidades_de_donihue_y_lo_miranda_amb__Exportar.pdf",
+  "nombre": "donihue_56_aprueba_plan_regulador_comunal_de_las_localidades_de_donihue_y_lo_miranda_amb__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:37:06",
+  "fin": "2026-07-14T15:39:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        9
+      ],
+      [
+        21,
+        23
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DONIHUE: Ordenanza Local del PRC (Decreto 56, 1988), cubre DOS localidades con DOS bloques de normas. DONIHUE (Cap IV, Art 17-18): pags 8-9, zonas ZU-1, ZU-2, ZE-1, ZE-2, ZTE (tratamiento especial), ZR-1 (proteccion camino H-30), ZR-2 (proteccion estero Maule). LO MIRANDA (Cap IV, Art 18-19): pags 21-23, zonas ZU-1, ZU-2, ZU-3, ZE-1, ZE-2, ZR. Formato 'un articulo por zona en prosa' (atributo dos puntos valor), NO cuadro apaisado. Texto nativo nitido, sin tablas-imagen. AVISO PARA LA EXTRACCION: en el texto de pdftotext la zona ZU-2 de Lo Miranda sale corrupta como 'ZU-a' (glifo mal mapeado); en el render se confirma que es ZU-2. 5 pags verificadas visualmente."
+  }
+}

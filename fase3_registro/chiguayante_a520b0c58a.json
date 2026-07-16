@@ -1,0 +1,29 @@
+{
+  "id": "chiguayante_a520b0c58a",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_decreto_alcaldicio_promulga_plan_regulador_comunal_de_chiguayante__MOD PLAN REGULADOR 2018.pdf",
+  "nombre": "chiguayante_decreto_alcaldicio_promulga_plan_regulador_comunal_de_chiguayante__MOD PLAN REGULADOR 2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 96,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:07:00",
+  "fin": "2026-07-14T15:26:51",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        24
+      ],
+      [
+        37,
+        96
+      ]
+    ],
+    "paginas_utiles": 83,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "COMPILADO: el PDF concatena varios decretos LeyChile. p2-24 Dec.333/2018 'adecuacion normativa' (modifica usos y condiciones por zona con valores: 'donde dice 250 m2 debe decir 200 m2'); p25-36 Dec.864/2015 deja sin efecto declaratorias de utilidad publica -> tablas IMAGEN pero son de VIALIDAD (nombre/tramo/ancho de vias), EXCLUIDAS por no ser norma de edificacion; p37-54 Dec.1512/2009 DUPLICADO (p37-45 y p46-54 son el mismo texto repetido) con cambios de predial, densidad, constructibilidad 0,4->0,6; p55-96 ORDENANZA LOCAL completa, una seccion por zona (ZU1-ZU8, ZEU1-ZEU5, ZR1-ZR6) con Condiciones de Subdivision, Urbanizacion y Edificacion en TEXTO extraible (predial min, densidad por tipo VU/VCE/VCA/VECA, constructibilidad, ocupacion, altura, agrupamiento, antejardin) hasta Cap.VII inmuebles de conservacion historica."
+  }
+}

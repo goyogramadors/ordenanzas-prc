@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_34a4ac85cc",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1639_ordenanza_sobre_suvenciones_y_aportes_de_la_ilustre_municipalidad_de_la_ser__doc_34_1639_26022015013941.pdf",
+  "nombre": "la_serena_1639_ordenanza_sobre_suvenciones_y_aportes_de_la_ilustre_municipalidad_de_la_ser__doc_34_1639_26022015013941.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:20:50",
+  "fin": "2026-07-15T08:22:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.1639/2009 aprueba Ordenanza sobre SUBVENCIONES Y APORTES de La Serena (requisitos para que instituciones sin fines de lucro reciban aportes municipales). Ajena al PRC."
+  }
+}

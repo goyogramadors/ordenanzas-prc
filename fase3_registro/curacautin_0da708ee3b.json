@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_0da708ee3b",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas ordenadas\\curacautin__ordenanza_reguladora_de_los_kioskos_de_propiedad_municipal_modificacion__DECRETO EX. N°473 MODIFICA ORDENANZA KIOSKOS MUNICIPALES.pdf",
+  "nombre": "curacautin__ordenanza_reguladora_de_los_kioskos_de_propiedad_municipal_modificacion__DECRETO EX. N°473 MODIFICA ORDENANZA KIOSKOS MUNICIPALES.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:13:11",
+  "fin": "2026-07-15T08:13:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Ex 473 (14.04.2021), Municipalidad de Curacautin. Modifica Ordenanza Reguladora de Kioscos de Propiedad Municipal (valores en UTM por modulo chico/mediano/grande). No es instrumento de planificacion territorial: sin zonificacion ni normas urbanisticas."
+  }
+}

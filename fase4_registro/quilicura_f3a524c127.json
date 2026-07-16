@@ -1,0 +1,34 @@
+{
+  "id": "quilicura_f3a524c127",
+  "comuna": "quilicura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quilicura_acta_8_1_enmienda_plan_regulador_comunal__6c0771cf-886a-49df-b466-aa25d929d0c7.pdf",
+  "rangos": [
+    [
+      14,
+      14
+    ],
+    [
+      16,
+      16
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Acta Sesión Extraordinaria N°08 Concejo Quilicura (28-06-2017): Audiencia Pública de presentación de la Enmienda N°1 al PRC (exposición técnica, sin votación ni acuerdo formal — cierra sin Acuerdo N°). P14: prosa con valores propuestos de altura máxima por zona (H1 15m→18m, H2 7m→9m). P16: prosa con antejardín mínimo por vía/tramo reducido a 0m (Manuel A. Matta, El Parque-Ruta 5, José Fco. Vergara, San Martín). CONFIANZA MEDIA porque son valores en etapa de propuesta/consulta ciudadana, no aprobados aún en esta acta (la misma enmienda se aprueba formalmente después en Acta 16, id quilicura_6c1e0ca4f2, con los mismos valores en tabla).",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:03:23",
+  "fin": "2026-07-15T18:07:22",
+  "resultado": {
+    "archivo": "extraccion_normas\\quilicura\\quilicura_acta8_enmienda1_propuesta.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "H1",
+      "H2",
+      "I3"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Valores en etapa de PROPUESTA (audiencia publica, sin acuerdo formal en esta acta): H1 15->18m, H2 7->9m, I3 solo actualizacion de referencia normativa sin valor nuevo. Antejardin de varias vias reducido a 0m (propuesta). Misma enmienda se aprueba despues en Acta 16 (quilicura_6c1e0ca4f2). Confianza MEDIA por nota_fase3."
+  }
+}

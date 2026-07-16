@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_825cca4e09",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_E1.pdf",
+  "nombre": "penalolen_Zona_E1.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:44:36",
+  "fin": "2026-07-15T08:46:17",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ficha 'Zona E1 - Zona de Equipamiento Intercomunal' Peñalolen, 2 pags escaneadas. Pag1: tabla de usos de suelo permitidos por escala intercomunal/comunal/vecinal (salud, educacion, seguridad, culto, cultura, areas verdes, deporte, esparcimiento, comercio, servicios). Pag2: 'Normas Especificas' completas para vivienda y equipamiento: superficie predial minima 800m2, frente predial 20m, sistema de agrupamiento aislado, coeficiente ocupacion suelo, coeficiente constructibilidad, altura maxima, densidad bruta maxima, rasante, distanciamiento, antejardin. Verificado visualmente paginas 1-2 de 2."
+  }
+}

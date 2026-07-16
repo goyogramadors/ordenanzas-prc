@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_f6d0710aef",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_116_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__116.pdf",
+  "nombre": "zapallar_acuerdo_116_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__116.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T13:01:45",
+  "fin": "2026-07-15T13:02:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Certificado Acuerdo 116/2015 (22-may-2015, 1p): Concejo Municipal de Zapallar ACUERDA NO ACOGER la observación N11 (solicitaba reducir la subdivisión predial mínima de zona ZH-5 a 2.500m2 en sector Alta Vista/loteo Parcela 71). Rechazo de observación ciudadana — se mantiene la norma vigente sin cambios."
+  }
+}

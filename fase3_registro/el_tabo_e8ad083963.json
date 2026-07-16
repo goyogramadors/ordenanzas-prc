@@ -1,0 +1,20 @@
+{
+  "id": "el_tabo_e8ad083963",
+  "comuna": "el_tabo",
+  "ruta": "Ordenanzas ordenadas\\el_tabo_1402_apruebese_enmienda_equipamiento_vecinal_al_plan_regulador_comunal_sector_ce__1402.pdf",
+  "nombre": "el_tabo_1402_apruebese_enmienda_equipamiento_vecinal_al_plan_regulador_comunal_sector_ce__1402.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:15:32",
+  "fin": "2026-07-15T08:16:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "EL TABO: Decreto Alcaldicio 1402 (13-may-2019, 1p, escaneado sin OCR): APRUEBA la Enmienda Equipamiento Vecinal al PRC sector Centro El Tabo, en conformidad al art 45 LGUC y art 2.1.13 OGUC. Es acto de aprobacion pura: dice que el plano de detalle sera parte integrante del PRC y su Ordenanza, pero NO transcribe ningun valor normativo (usos, COS, CC, altura). La norma real esta en el plano y ordenanza anexos, no en este decreto. Verificado visualmente."
+  }
+}

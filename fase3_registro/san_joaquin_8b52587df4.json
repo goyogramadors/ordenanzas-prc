@@ -1,0 +1,25 @@
+{
+  "id": "san_joaquin_8b52587df4",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_1648_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_san_joaquin__DO04-09-2015.pdf",
+  "nombre": "san_joaquin_1648_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_san_joaquin__DO04-09-2015.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:52:38",
+  "fin": "2026-07-15T12:54:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N41.250, 4-sep-2015, 3 pags. Decreto Secc 1a N1648, 21-ago-2015, San Joaquin, APRUEBA Y PROMULGA ENMIENDA AL PLAN REGULADOR COMUNAL 'Eliminacion de exigencia de antejardin para equipamientos en zonas Z-7 y Z-8, frente a Av. Las Industrias'. Modifica el articulo 12 de la Ordenanza agregando: 'En las zonas Z-7 y Z-8, no seran exigibles los antejardines para las edificaciones que enfrenten Av. Las Industrias con uso de suelo de equipamiento.' Cambio normativo puntual de antejardin. Verificado visualmente paginas 1-3 de 3."
+  }
+}

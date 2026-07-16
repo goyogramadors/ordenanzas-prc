@@ -1,0 +1,20 @@
+{
+  "id": "antofagasta_479dea836f",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antofagasta_decreto_alcaldicio_1080_disponese_el_llamado_a_propuesta_publica_denominada_actu__61372b59-a19a-4979-8636-6077cbdfe17a.pdf",
+  "nombre": "antofagasta_decreto_alcaldicio_1080_disponese_el_llamado_a_propuesta_publica_denominada_actu__61372b59-a19a-4979-8636-6077cbdfe17a.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:07:34",
+  "fin": "2026-07-15T08:09:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 1080/2016 (18.07.2016), I.Municipalidad de Antofagasta. Dispone llamado a Propuesta Publica 'Actualizacion Plano Regulador Comuna de Antofagasta' ID 2430-50-LR16 (licitacion de estudio, calendario de bases/ofertas/apertura). Puramente administrativo-presupuestario, sin ningun valor de norma urbanistica."
+  }
+}

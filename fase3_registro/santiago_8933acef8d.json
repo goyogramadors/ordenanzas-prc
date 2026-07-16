@@ -1,0 +1,20 @@
+{
+  "id": "santiago_8933acef8d",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_17.-Dcto-Secc-2da-N_C2_B03104.pdf",
+  "nombre": "santiago_17.-Dcto-Secc-2da-N_C2_B03104.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:55:06",
+  "fin": "2026-07-15T12:56:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Secc.2da N3104 (2-Abr-2019), 2p: autoriza inicio Modificacion al PRC para Correccion de Zonificacion Especial, actualizacion Inmuebles Conservacion Historica. Menciona referencias puntuales (Art.30 Zona A letras h,f,l; Art.13) pero no reproduce tabla de normas, solo decreto de autorizacion de inicio de estudio."
+  }
+}

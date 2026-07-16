@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_1a289c938f",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2976_ordenanza_municipal_de_medio_ambiente_la_serena__doc_34_2976_23082016011602.pdf",
+  "nombre": "la_serena_2976_ordenanza_municipal_de_medio_ambiente_la_serena__doc_34_2976_23082016011602.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:19:34",
+  "fin": "2026-07-15T08:20:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.2976/2016 aprueba la Ordenanza Municipal de MEDIO AMBIENTE de La Serena: limpieza y proteccion de bienes nacionales de uso publico y fuentes de agua (basura, aguas servidas, quemas). Ajena al PRC."
+  }
+}

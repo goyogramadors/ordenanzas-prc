@@ -1,0 +1,20 @@
+{
+  "id": "san_felipe_45d47390a2",
+  "comuna": "san_felipe",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_felipe_decreto_alcaldicio_otorga_patentes_municipales_provisorias_para_habilitacion_de___N-60.pdf",
+  "nombre": "san_felipe_decreto_alcaldicio_otorga_patentes_municipales_provisorias_para_habilitacion_de___N-60.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:19:27",
+  "fin": "2026-07-15T12:54:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento N000482 (19-ENE-2018), Ordenanza Municipal N60 sobre otorgamiento de patentes municipales provisorias para playas de estacionamiento en sitios eriazos. 4p con articulado (Art.1-27) pero son normas de transito/seguridad de estacionamientos provisorios, no tabla usos suelo/COS/CC/altura por zona; solo referencia de paso a Zonas ZC1/ZC2 del PRC vigente sin detallar parametros."
+  }
+}

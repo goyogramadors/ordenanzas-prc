@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_84afeef139",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_1989.pdf",
+  "nombre": "penalolen_MPRC_1989.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:44:36",
+  "fin": "2026-07-15T08:46:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        9
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 55, 28-abr-1989 (DO N33.433, 27-jul-1989), Ordenanza Local Plan Regulador Peñalolen, texto refundido, 10 pags. Pags 3: Art.28-30 macroareas y listado de zonas (R1,R2,R3,CC,SH1,SH2,IE,EQ / Z1,Z2 / AR,AR1,AR2,AR3). Pags 4-9: Art.31 tablas completas por zona (R.1, R.2, R.3, C.C., S.H., E.Q., Z.1, A.R., A.R.2, A.R.3, etc.) con usos permitidos/excluidos y condiciones de subdivision predial y edificacion (superficie predial minima, frente predial, ocupacion suelo, coef. constructibilidad, densidad, sistema agrupamiento, rasantes, distanciamiento, altura, antejardin, estacionamientos) para vivienda/equipamiento/industria por escala. Pag10 en adelante es solo Capitulo V Vialidad (anchos de vias, sin normas de uso de suelo) -> excluida del rango. Verificado visualmente paginas 1,2,4,7,9,10 de 10."
+  }
+}

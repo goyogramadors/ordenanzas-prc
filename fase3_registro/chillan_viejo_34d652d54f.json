@@ -1,0 +1,25 @@
+{
+  "id": "chillan_viejo_34d652d54f",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_viejo_4505_aprueba_plan_regulador_comunal_de_chillan_viejo__publicacion_do_40341_20_08_2012_pag_3_a_9.pdf",
+  "nombre": "chillan_viejo_4505_aprueba_plan_regulador_comunal_de_chillan_viejo__publicacion_do_40341_20_08_2012_pag_3_a_9.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:30:37",
+  "fin": "2026-07-14T15:34:44",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        6
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CHILLAN VIEJO: Decreto 4505, PRC completo (Diario Oficial 40.341, 20-ago-2012). *** TODAS LAS TABLAS SON IMAGENES *** invisibles a pdftotext (solo extrae el titulo del cuadro, cero celdas). Normas por zona en p4-6: p4 ZM-1, ZM-2, ZM-3 y ZH-1; p5 ZH-2..ZH-6 y ZI; p6 ZE-1..ZE-3, ZIS, ZRID, ZNE. Cada cuadro trae USOS DE SUELO (permitido/prohibido por tipo) y NORMAS DE SUBDIVISION, URBANIZACION Y EDIFICACION (predial minima, COS, CC, altura, agrupamiento, altura de continuidad, pareo, adosamiento, antejardin, densidad bruta). 13 zonas confirmadas visualmente. Excluidas p1-3 (limite urbano, vialidad, estacionamientos, tambien tablas-imagen). *** OJO CONTAMINACION: la p7 termina la ordenanza y arranca OTRO decreto sin relacion (Municipalidad de Los Angeles, tenencia responsable de animales): no mezclar. *** Las 7 pags fueron miradas."
+  }
+}

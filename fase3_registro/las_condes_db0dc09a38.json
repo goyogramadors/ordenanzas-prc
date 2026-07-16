@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_db0dc09a38",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PL_lamina-02_PLANO-REGULADOR.pdf",
+  "nombre": "las_condes_PL_lamina-02_PLANO-REGULADOR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:32:44",
+  "fin": "2026-07-15T08:35:01",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA: Plano de Uso de Suelo completo (MPRCLC-2020, Modificacion N.11, Lamina 2). Zonificacion grafica de toda la comuna por color con simbologia de zonas (UV, UC1-UC3, UEe1-UEe6, etc.), sin cuadro de parametros normativos. Verificado por render."
+  }
+}

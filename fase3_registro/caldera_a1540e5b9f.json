@@ -1,0 +1,25 @@
+{
+  "id": "caldera_a1540e5b9f",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_297_aprueba_modificacion_y_publicacion_al_proyecto_plan_regulador_comunal_de_cal__Exportar.pdf",
+  "nombre": "caldera_297_aprueba_modificacion_y_publicacion_al_proyecto_plan_regulador_comunal_de_cal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:01:35",
+  "fin": "2026-07-14T13:05:30",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        13
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.297/2002 Ordenanza Local Especial Plan Seccional Punta Pescadores (Bahia Inglesa). Zonas R22A, R21A-E, R21B-E1/E2, ZE3. p8 usos permitidos/prohibidos; p9 condiciones edificacion R21B-E1/E2 (predial 3.000m2, frente 20m, ocup 80%, aislado, altura fachada 3m/cumbrera 5m, antejardin 5m); p10 condiciones especiales por cota sobre nivel del mar; p11 zona ZE3 (3.000m2, ocup 30%); p12 cuadro de superficies por zona. Tablas en TEXTO."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "molina_e65282a908",
+  "comuna": "molina",
+  "ruta": "Ordenanzas ordenadas\\molina_plan_regulador__Ordenanza-N5-Participacion-Ciudadana.pdf",
+  "nombre": "molina_plan_regulador__Ordenanza-N5-Participacion-Ciudadana.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:39:06",
+  "fin": "2026-07-15T08:45:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Ordenanza Municipal N5 de Participación Ciudadana en la Comuna de Molina (02-dic-2019, 16p): regula mecanismos de participación (Consejo Comunal de OSC, audiencias públicas, plebiscitos comunales). No es una ordenanza de zonificación/PRC ni contiene tablas de normas urbanísticas."
+  }
+}

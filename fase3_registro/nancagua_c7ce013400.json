@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_c7ce013400",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_2441_apruebense_informe_ambiental_del_estudio_plan_regulador___2441.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_2441_apruebense_informe_ambiental_del_estudio_plan_regulador___2441.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:40:15",
+  "fin": "2026-07-15T08:41:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 2441/2018 (10p): aprueba Informe Ambiental (Evaluación Ambiental Estratégica) del estudio PRC Nancagua. Contiene objetivos ambientales, indicadores de seguimiento (áreas verdes, consolidación residencial ZU1-4/ZAV) y listas de asistentes a talleres EAE — no transcribe tabla de parámetros urbanísticos (COS/CC/altura/predial) por zona."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_06b2974aef",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_d08b32958cfdf3ae644e73323d6134eb.pdf",
+  "nombre": "estacion_central_d08b32958cfdf3ae644e73323d6134eb.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:38:44",
+  "fin": "2026-07-14T15:40:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO CONTIENE NORMAS: es el OFICIO ORD. 1864 de la SEREMI MINVU RM (firmado por Carolina Casanova) que informa favorablemente el proyecto de Actualizacion del PRC de Estacion Central y ENUMERA los documentos del expediente (memoria explicativa 110 pags, anexos, planos, estudio de riesgos, estudio de densidad, fichas de zonas de conservacion historica). Es un indice/oficio de tramitacion, la ordenanza en si NO viene aqui. Texto 12/12 pags. OJO: el PRC de Estacion Central quedaria sin normas si no aparece otro documento con la Ordenanza."
+  }
+}

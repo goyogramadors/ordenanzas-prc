@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_4ea74c3227",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_4248_ratifiquese_contratacion_de_un_servicio_de_coctel_jornad__4248.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_4248_ratifiquese_contratacion_de_un_servicio_de_coctel_jornad__4248.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:39:16",
+  "fin": "2026-07-15T08:41:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 4248, 12-dic-2019: RATIFIQUESE la contratacion de un servicio de coctel para una Jornada de Audiencia del Plan Regulador (trato directo, proveedor Constanza Arias Perez, 92.700). Decreto de compra/contratacion de catering, tramite administrativo/presupuestario, no contiene tabla de normas urbanisticas. Verificado visualmente, documento de 1 pagina."
+  }
+}

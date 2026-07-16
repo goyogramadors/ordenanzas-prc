@@ -1,0 +1,20 @@
+{
+  "id": "mostazal_36109f9930",
+  "comuna": "mostazal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\mostazal_elaboracion_de_los_planes_reguladores__LEY-21078_15-FEB-2018.pdf",
+  "nombre": "mostazal_elaboracion_de_los_planes_reguladores__LEY-21078_15-FEB-2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:04:49",
+  "fin": "2026-07-14T21:07:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Texto integro de la Ley 21.078 (Transparencia Mercado del Suelo), norma nacional que modifica LGUC. No es ordenanza local: no menciona Mostazal ni fija normas de zona."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "zapallar_b72b605253",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_126_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__126.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Acuerdo126: acoge obs.18-2 letras B,C,D, modificando anchos/franjas de proteccion de quebradas ZEP-3: Q12.B.2 de 60m a franja 50m; Q13.B y Q13.B.1 de 60m a franja 35m; ajuste Q13.B.2.1 (mas de 17.5m desde eje hacia el sur). Cifras normativas concretas de distanciamiento/proteccion.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:38:50",
+  "fin": "2026-07-15T14:40:36",
+  "resultado": {
+    "archivo": "extraccion_normas\\zapallar\\zapallar_acuerdo126_zep3_quebradas_acoge_pag1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZEP-3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Acuerdo de ACOGIDA de observacion: corrige franjas de proteccion de 3 quebradas especificas en ZEP-3 (Q12.B.2 60->50m, Q13.B/Q13.B.1 60->35m, Q13.B.2.1 ajuste grafico a maximo 17,5m). Cifras concretas confirmadas."
+  }
+}

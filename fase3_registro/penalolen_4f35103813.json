@@ -1,0 +1,41 @@
+{
+  "id": "penalolen_4f35103813",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_12003326_apruebese_el_texto_de_la_modificacion_parcial_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "penalolen_12003326_apruebese_el_texto_de_la_modificacion_parcial_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:59:13",
+  "fin": "2026-07-15T08:01:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        11,
+        11
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA imagen: modificación parcial 5 sectores (Antupirán, Las Perdices, Oriental, Cancha Tres, El Sauzal). Texto dice 'junto a sus normativas asociadas quedando como sigue:' y tablas embebidas como imagen (confirmado pdfimages): pág4 vías nuevas art.35 (pequeña), pág5 Zona R8/R9 normativas completas (imagen grande 541x2419), pág7 Zona R2 (Las Perdices/Oriental), pág9 Zona EQ-1 (Cancha Tres), pág11 Zona R10 (El Sauzal)"
+  }
+}

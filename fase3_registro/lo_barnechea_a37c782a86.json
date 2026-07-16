@@ -1,0 +1,29 @@
+{
+  "id": "lo_barnechea_a37c782a86",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1295_promulga_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "nombre": "lo_barnechea_1295_promulga_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 70,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:02:50",
+  "fin": "2026-07-14T21:09:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        21,
+        25
+      ],
+      [
+        35,
+        67
+      ]
+    ],
+    "paginas_utiles": 38,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PRC completo 2002: pág21-25 cuadros Condiciones de Edificación áreas verdes (Parque Río Mapocho, Estero El Arrayán, Cerros Islas, etc. con COS y coef. constructibilidad); pág35-67 Título IX Zonificación/Usos de Suelo/Normas Específicas (art.54-55) con tabla Condiciones de Subdivisión y Edificación para cada zona A-O (superficie predial, COS, CC, altura, agrupamiento, densidad, distanciamiento); pág58 y 60 escaneadas verificadas = tablas equipamiento zona L"
+  }
+}

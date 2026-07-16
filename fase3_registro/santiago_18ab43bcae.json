@@ -1,0 +1,20 @@
+{
+  "id": "santiago_18ab43bcae",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_02.-Ord-N_C2_B010.pdf",
+  "nombre": "santiago_02.-Ord-N_C2_B010.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:54:55",
+  "fin": "2026-07-15T12:56:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord. N10 (23-dic-2024) del Asesor Urbanista de Santiago a SEREMI MINVU RM, 3 pags (incluye comprobante de ingreso Oficina de Partes). Correspondencia sobre tramitacion de la Modificacion al Plan Regulador Comunal de Santiago: solicita aclaracion sobre si los plazos de aprobacion son fatales, citando dictamen de Contraloria N96.251/2015. Puramente procedimental/juridico sobre plazos administrativos, no transcribe norma urbanistica alguna. Verificado visualmente paginas 1-3 de 3."
+  }
+}

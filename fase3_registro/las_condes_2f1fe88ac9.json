@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_2f1fe88ac9",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicoi_n_3905_13sep2007.pdf",
+  "nombre": "las_condes_dec.alcaldicoi_n_3905_13sep2007.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:56:08",
+  "fin": "2026-07-14T16:03:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 3905 (13-09-2007) Las Condes. p3: modifica USOS DE SUELO en prosa para el poligono A-B-C-D-A de la zona UC2 -> habilita equipamiento de ESCALA MAYOR aunque las vias que enfrenta sean de menor categoria, con 4 condiciones (accesos por Av. Padre Hurtado, franja perimetral de distanciamiento a terceros, estacionamientos en subterraneo, fachadas armonicas). Sin valores cuantitativos clasicos (COS/CC/altura/predial). Confianza MEDIA: cuenta por ser cambio de usos permitidos; si el criterio exige valores numericos, reclasificar a sin-tablas. p1-2 solo vistos."
+  }
+}

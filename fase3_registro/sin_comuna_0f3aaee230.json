@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_0f3aaee230",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\CUAE0A~1.PDF",
+  "nombre": "CUAE0A~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:07:06",
+  "fin": "2026-07-15T08:10:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DOCUMENTO MAL CLASIFICADO EN EL CORPUS: es Decreto Ex.673/2021 de Municipalidad de CURACAUTÍN sobre 'Ordenanza para funcionamiento y derechos municipales por contraprestación de módulos Feria de Abastos' - no tiene NINGUNA relación con Plan Regulador Comunal ni normas urbanísticas (es sobre tarifas de un mercado municipal)"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tucapel_47dc923ffb",
+  "comuna": "tucapel",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\tucapel_decreto_904_autoriza_trato_directo_servicio_de_publicacion_en_diario_local_proce__1683304638.pdf",
+  "nombre": "tucapel_decreto_904_autoriza_trato_directo_servicio_de_publicacion_en_diario_local_proce__1683304638.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:59:19",
+  "fin": "2026-07-15T13:00:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 904/2023, 21-mar-2023, Tucapel, 1 pag. Autoriza trato directo con Empresa Periodistica Bio Bio Ltda. (85.520) para publicacion en diario local del procedimiento EAE del Plan Regulador Comuna de Tucapel (dias 22 y 29 de marzo 2023). Decreto administrativo de compra/publicidad, no transcribe norma urbanistica alguna. Verificado visualmente pagina unica."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "requinoa_f0bca46b3f",
+  "comuna": "requinoa",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\requinoa_decreto_alcaldicio_2422_designa_incorporacion_contraparte_tecnica_seremi_viviend__DA2422.pdf",
+  "nombre": "requinoa_decreto_alcaldicio_2422_designa_incorporacion_contraparte_tecnica_seremi_viviend__DA2422.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:26:34",
+  "fin": "2026-07-14T21:27:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Decreto 2422, mismo tema que el 3056 (designa contraparte tecnica/interlocutores validos ante SEREMI Vivienda para la elaboracion del PRC Requinoa). OCR muy degradado (palabras pegadas) pero el contenido es solo nombramientos, sin normas."
+  }
+}

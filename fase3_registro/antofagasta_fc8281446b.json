@@ -1,0 +1,29 @@
+{
+  "id": "antofagasta_fc8281446b",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antofagasta_816_promulga_el_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal___Exportar.pdf",
+  "nombre": "antofagasta_816_promulga_el_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 52,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:58:23",
+  "fin": "2026-07-14T13:01:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        16,
+        46
+      ],
+      [
+        51,
+        52
+      ]
+    ],
+    "paginas_utiles": 33,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA MIXTO CONFIRMADA (tipo Caldera). Modificacion PRC Sector Norte 2012, 12 zonas (ZEC-1/2/3, ZH-1/2/3, ZM-1/2/3, ZET-1/2/3, ZE-2). El texto de cada zona SOLO trae usos de suelo permitidos y termina en 'los tipos que se indican a continuacion:' + un punto: la tabla de usos PROHIBIDOS y TODA la tabla 'Normas de Urbanizacion y Edificacion' (predial min, densidad, agrupamiento, antejardin, distanciamiento, altura, rasante, coef. constructibilidad, coef. ocupacion) son IMAGEN. Verificado visualmente p20 (ZEC-3: predial 150m2, dens 500 hab/ha, constr 2, ocup 0,7) y p45. La tabla de cada zona cae en la pagina SIGUIENTE a su texto. p45 trae ademas 2 'Tablas Sintesis de Condiciones de Edificacion por Zonas' (resumen de todas las zonas). Vialidad estructurante p46-50 EXCLUIDA (anchos de via, no norma de edificacion). p51-52 Fe de Erratas: RENOMBRA zonas (ZM-1 'mixta residencial y servicios', ZM-2 'mixta residencial y de actividades productivas PYME') - usar esos nombres."
+  }
+}

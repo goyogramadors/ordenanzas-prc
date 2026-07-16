@@ -1,0 +1,25 @@
+{
+  "id": "talca_dcaf16a427",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_modificaciones_via_enmienda_ordenanza_local_plan_regulador_comunal_de_ta__3920.pdf_1506351298822.pdf",
+  "nombre": "talca_decreto_modificaciones_via_enmienda_ordenanza_local_plan_regulador_comunal_de_ta__3920.pdf_1506351298822.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:58:32",
+  "fin": "2026-07-15T13:00:26",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        11
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 3920 (24-ago-2016): Enmienda N1 a la Ordenanza Local del PRC de Talca. Cuadros completos de Normas de Subdivisión y Edificación por zona, pp.5-11: ZONA U-1 Centro Comercial (predial 500m2, densidad 1200hab/ha), U-2 Centro Institucional, U-3 Densificación Residencial, U-4 Mixta Residencial (CC 1.95, densidad 540hab/ha), U-5 Residencial Densidad Media, U-6 Industria Inofensiva (CC 1.8, predial 260m2, densidad 360hab/ha), U-7 Equipamiento Deportivo Recreacional (COS 0.3, CC 1.0), U-8 Equipamiento y Densificación Residencial (COS 0.75, CC 5.20), y siguientes hasta U-22 Agricultura y Agroindustria (predial 2000m2, COS/CC 0.065) — cada zona además con tabla de Normas Urbanísticas para Actividades del Uso Infraestructura (distanciamiento y antejardín mínimo por Transporte/Sanitaria/Energía). Excluidas pp.1-2 (vistos/considerandos) y pp.3-4 (Modificaciones N1-N3: cuerpos salientes, altura de cierros, tabla de estacionamientos — normas generales, no cuadro por zona)."
+  }
+}

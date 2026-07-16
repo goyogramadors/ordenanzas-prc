@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_073254f6cc",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_2007.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Texto Aprobatorio, Modificacion PRC Penalolen sector Av. Las Perdices (Antupiran/Los Presidentes), Diario Oficial 01-06-2007 (edicion completa que mezcla contenido ajeno: tipos de cambio Banco Central en p1, avisos judiciales de El Tabo y decretos de circulacion vehicular en p3 -- EXCLUIR p3, no es de Penalolen). p1-2: crea la ZONA E1a. Cuadro USOS DE SUELO en texto (vivienda + equipamiento por tipo: salud, educacion, seguridad, culto-cultura, social, deporte, esparcimiento-turismo, comercio, servicios + areas verdes). CONDICIONES DE SUBDIVISION PREDIAL Y EDIFICACION: Normas especificas VIVIENDA (predial 800 m2, aislado, sin adosamiento, COS 0,3, CC 0,8, altura 9 m, densidad 50 hab/ha, antejardin 3/5 m) y EQUIPAMIENTO (predial 800 m2, aislado, COS 0,4, CC 2,0, altura 15 m, antejardin 3/25 m). Poligono cambia de Zona R4 a E1a.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T17:53:19",
+  "fin": "2026-07-15T17:56:35",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_mprc2007_zona_e1a_las_perdices_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E1a"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmada trampa comuna ajena en p1 (Banco Central, TV, Poder Judicial) correctamente excluida. Nueva zona E1a completa: usos de suelo extensos + 2 tablas de condiciones (Vivienda: COS0,3/CC0,8/9m/50hab-ha/antejardin5m; Equipamiento: COS0,4/CC2,0/15m/antejardin25m). Cambios de poligono R4->E1a, R6->R5, E1yR6->R.1 documentados como referencia."
+  }
+}

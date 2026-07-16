@@ -1,0 +1,20 @@
+{
+  "id": "vina_del_mar_c6815a6f9c",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vina_del_mar_11932_modificacion_al_plan_regulador_sector_renaca_norte_costa__2709025.pdf",
+  "nombre": "vina_del_mar_11932_modificacion_al_plan_regulador_sector_renaca_norte_costa__2709025.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:37:31",
+  "fin": "2026-07-14T21:38:50",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.11932/2025 promulga Modificacion PRC Vina del Mar Sector Renaca Norte Costa POR REFERENCIA: el decreto solo dice que la Ordenanza Local, Plano MRNC, Memoria Explicativa y Anexos 'se encuentran disponibles' en https://prc.munivina.cl/actos-y-resoluciones/, NO estan incluidos en este PDF de 3 paginas (solo vistos/considerandos + articulado de promulgacion, sin ningun parametro). Norma inalcanzable desde este archivo, habria que descargarla del sitio municipal."
+  }
+}

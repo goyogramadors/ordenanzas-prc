@@ -1,0 +1,20 @@
+{
+  "id": "quillota_03b92dfd95",
+  "comuna": "quillota",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quillota_certificado_129_f_certificado_n129_avance_exposicion_publica_plan_regulador__f-CERTIFICADO_N__129_AVANCE_EXPOSICI__N_PUBLICA_PLAN_REGULADOR.pdf",
+  "nombre": "quillota_certificado_129_f_certificado_n129_avance_exposicion_publica_plan_regulador__f-CERTIFICADO_N__129_AVANCE_EXPOSICI__N_PUBLICA_PLAN_REGULADOR.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:17:21",
+  "fin": "2026-07-14T21:18:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Certificado 129/2026, el Concejo Municipal de Quillota toma conocimiento del informe de avance de la Exposicion Publica del PRC (proceso de Actualizacion). Sin normas. Candidato a descarte."
+  }
+}

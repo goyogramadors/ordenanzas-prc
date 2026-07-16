@@ -1,0 +1,40 @@
+{
+  "id": "la_estrella_56a175f510",
+  "comuna": "la_estrella",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_estrella_243_aprueba_plan_regulador_y_ordenanza_local_del_plan_regulador_de_la_comuna_de___Exportar.pdf",
+  "rangos": [
+    [
+      10,
+      10
+    ],
+    [
+      12,
+      13
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "TRAMPA imagen: PRC completo La Estrella. Pág10 imagen ÚNICA GIGANTE (537x4846px) con TODAS las tablas Cap.IV: 9 zonas completas ZE-1 a ZE-6 (comercial, mixta, residencial, industrial, expansión, baja densidad), ZD (deportivas), AV (áreas verdes), ISAN (infraestructura sanitaria) - usos de suelo + normas urbanísticas (superficie predial, altura, agrupamiento, COS, CC, densidad, antejardín) - verificado con render completo. Pág12-13: normas Inmuebles Conservación Histórica (Cap.VI Art.20) también como imagen. Pág11 cuadro vialidad estructurante (excluido, no es norma de zona)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T23:11:04",
+  "fin": "2026-07-15T23:23:03",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_estrella\\la_estrella_243_ordenanza_zonas.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZE-6",
+      "ZD",
+      "AV",
+      "ISAN"
+    ],
+    "confianza": "ALTA",
+    "nota": "Imagen unica gigante (p10) transcrita mediante 5 recortes ampliados en 4x. 9 zonas completas (usos permitidos/prohibidos + normas urbanisticas). p12-13 (conservacion historica) y p11 (vialidad) excluidas. Verificado contra nota_fase3: coincide."
+  }
+}

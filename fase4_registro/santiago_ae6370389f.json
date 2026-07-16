@@ -1,0 +1,32 @@
+{
+  "id": "santiago_ae6370389f",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_Memoria-Explicativa.pdf",
+  "rangos": [
+    [
+      37,
+      37
+    ],
+    [
+      40,
+      40
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Memoria Explicativa modificacion PRC Santiago 'Ajuste de Normas Urbanisticas Poblacion Centenario'. Aunque es doc de fundamentacion/diagnostico, SI incluye la propuesta normativa final: modifica art.30 Ordenanza Local creando el Sector Especial D11. p37 (Cap.V Anteproyecto, propuesta) y p40 (Cap.VI Proyecto, version final) traen la MISMA tabla en TEXTO real (bordes nativos, no imagen): predial min 150m2, COS 1,0, CC 2,0, densidad max 895 hab/ha, agrupamiento continuo, altura max 5,5m; usos de suelo remiten a los del Sector Especial D5. Resto del documento (43p) es diagnostico/consulta vecinal/planos sin otras tablas normativas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:09:59",
+  "fin": "2026-07-15T18:13:05",
+  "resultado": {
+    "archivo": "extraccion_normas\\santiago\\santiago_memoria_d11_centenario_pag37y40.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "D11"
+    ],
+    "confianza": "ALTA",
+    "nota": "Memoria Explicativa con la misma tabla D11 (p37 anteproyecto, p40 proyecto final, valores identicos): predial 150m2, COS 1,0, CC 2,0, densidad 895 hab/ha, continuo, altura 5,5m. Documento distinto del decreto 6847 (mismo contenido normativo). Coincide con nota_fase3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gorbea_f8913919da",
+  "comuna": "gorbea",
+  "ruta": "Ordenanzas ordenadas\\gorbea_decreto_1013_aprueba_enmienda_plan_regulador_comunal_de_gorbea__1013.pdf",
+  "nombre": "gorbea_decreto_1013_aprueba_enmienda_plan_regulador_comunal_de_gorbea__1013.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:16:18",
+  "fin": "2026-07-15T08:16:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DOCUMENTO MAL CLASIFICADO: es Decreto Exento 1013/2017 sobre EXENCIÓN DE DERECHOS DE SEPULTACIÓN (fallecido), no tiene relación alguna con el Plan Regulador Comunal de Gorbea pese al nombre de archivo - verificado con render"
+  }
+}

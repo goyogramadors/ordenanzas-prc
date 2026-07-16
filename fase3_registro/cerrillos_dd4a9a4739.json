@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_dd4a9a4739",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_858_actualizacion_plan_regulador_comunal_cerrillos__202-0858-2023.pdf",
+  "nombre": "cerrillos_decreto_exento_858_actualizacion_plan_regulador_comunal_cerrillos__202-0858-2023.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:47:37",
+  "fin": "2026-07-15T07:48:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "autoriza modificación de contrato (extensión de plazo) para estudio de actualización PRC, trámite administrativo sin contenido normativo. Nota: el PRC de Cerrillos aún estaba en tramitación (etapa 5) a la fecha de este decreto (2023), no hay ordenanza aprobada todavía en esta serie de documentos"
+  }
+}

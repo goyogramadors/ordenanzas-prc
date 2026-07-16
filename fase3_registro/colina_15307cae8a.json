@@ -1,0 +1,20 @@
+{
+  "id": "colina_15307cae8a",
+  "comuna": "colina",
+  "ruta": "Ordenanzas Descargadas\\1-600\\colina_e_6202014_promulga_acuerdo_n_29_de_2014_y_aprueba_enmiendas_al_plan_regulador_de__Exportar.pdf",
+  "nombre": "colina_e_6202014_promulga_acuerdo_n_29_de_2014_y_aprueba_enmiendas_al_plan_regulador_de__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:31:29",
+  "fin": "2026-07-14T15:35:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto E-620/2014 (acuerdo 29): aprueba enmienda al PRC Colina Sector 3 El Colorado ZONA A13a, pero solo INCORPORA SITIOS/LIMITES geograficos a la zona existente (costado norte camino El Colorado, entre Los Aromos y Colorado Interior). No modifica ningun parametro (COS/CC/altura). Render p2 confirma: solo parrafo de cierre. Enmienda de deslinde, no de norma."
+  }
+}

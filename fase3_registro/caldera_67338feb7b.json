@@ -1,0 +1,25 @@
+{
+  "id": "caldera_67338feb7b",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_296_aprueba_modificacion_y_publicacion_al_proyecto_modificacion_plan_regulador_d__Exportar.pdf",
+  "nombre": "caldera_296_aprueba_modificacion_y_publicacion_al_proyecto_modificacion_plan_regulador_d__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:01:17",
+  "fin": "2026-07-14T13:06:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        9
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modif. PRC Caldera, sector Playa Ramada. Mismo formato narrativo por zona en texto plano (verificado con render p3,4,8,9,10). Zonas con cuadro completo: U3ACB-1 a U3ACB-7 y R21B-a. p3 termina en el encabezado sin tabla; p9 cierra la ultima tabla y abre Cap.IV Vialidad. p7-8: ZP-1, ZP-2, R22a, A.V. son de restriccion sin cuadro numerico (no confundir con sin-tablas). p10 = tabla de VIALIDAD, fuera del rango."
+  }
+}

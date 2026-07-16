@@ -1,0 +1,20 @@
+{
+  "id": "colbun_324d650b5c",
+  "comuna": "colbun",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\colbun_decreto_ordenanza_plan_regulador_intercomunal_embalses_colbun_machicura__dc-19981230-2.pdf",
+  "nombre": "colbun_decreto_ordenanza_plan_regulador_intercomunal_embalses_colbun_machicura__dc-19981230-2.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:30:50",
+  "fin": "2026-07-14T15:36:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "ARCHIVO MAL CATALOGADO: el nombre dice 'ordenanza plan regulador intercomunal embalses Colbun-Machicura', pero la unica pagina (escaneada, OCR basura) es en realidad la ORDENANZA N.00002 de la Muni de Colbun sobre DERECHOS MUNICIPALES por servicios, permisos y concesiones (aranceles en UTM, dic 1998). Verificado renderizando la pagina a 300dpi en dos mitades: cero zonas, usos, COS/CC, alturas. El PRC Intercomunal de Colbun NO esta en este archivo: si se necesita, hay que buscarlo aparte."
+  }
+}

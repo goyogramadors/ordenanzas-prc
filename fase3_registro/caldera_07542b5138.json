@@ -1,0 +1,29 @@
+{
+  "id": "caldera_07542b5138",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_2827_aprueba_plano_seccional_y_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "caldera_2827_aprueba_plano_seccional_y_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 51,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:45:33",
+  "fin": "2026-07-15T07:51:15",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        34
+      ],
+      [
+        41,
+        42
+      ]
+    ],
+    "paginas_utiles": 24,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa MIXTO Caldera confirmada (texto pag14-32 solo encabezado/footer LeyChile). Render pag13,14,17,20,23,26,29,32,33,34,41,42: tablas de zona (usos permitidos + condiciones subdivision/edificacion: COS, coef.constructibilidad, altura max, agrupamiento, antejardin, densidad) cubriendo U-2 a U-23 (22 zonas) entre pag14-33; pag34 cola de U-23 antes de prosa real (areas restringidas/riesgo). Pag13 encabezado Art.21 ZONA U-1 remite a Cap.V sin tabla propia. Tabla adicional: Art.25 pag41-42 ZONA ZCH (Conservacion Historica Guillermo Wheelwright), confirmada visualmente pag42. Paginas 37,38,44,47,48,50 revisadas: prosa real zonas proteccion costera (R-1 a R-4,S-1,P-1), listado inmuebles patrimoniales no tabular, tablas vialidad/estacionamiento excluidas (no son normas de zona). NOTA: mismo PRC de caldera_628fd5cd2b (otra version/vigencia), tablas de zona se solapan en contenido."
+  }
+}

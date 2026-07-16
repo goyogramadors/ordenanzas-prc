@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_ccb3baae42",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_117_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__117.pdf",
+  "nombre": "zapallar_acuerdo_117_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__117.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T13:01:44",
+  "fin": "2026-07-15T13:08:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Acuerdo117: no acoge obs.12-1, solicitud de permitir todos usos residenciales (incl.hospedaje) en zona ZH-5 citando art.2.1.25/2.1.26 OGUC en terminos genericos; no cita valores de tabla normativa del PRC."
+  }
+}

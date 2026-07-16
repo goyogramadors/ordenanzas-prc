@@ -1,0 +1,20 @@
+{
+  "id": "graneros_3c4770939b",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_113_dispongase_realizar_el_estudio_de_actualizacion_del_plan_regulador_c__4936bd95-cdbf-4c07-a5ca-70d140a49210.pdf",
+  "nombre": "graneros_decreto_113_dispongase_realizar_el_estudio_de_actualizacion_del_plan_regulador_c__4936bd95-cdbf-4c07-a5ca-70d140a49210.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:16:18",
+  "fin": "2026-07-15T08:17:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "solo dispone realizar el estudio de actualización del PRC (trámite de inicio), sin contenido normativo"
+  }
+}

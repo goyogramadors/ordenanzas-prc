@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_d14fade8a0",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_3667_para_formalizar_la_prorroga_del_congelamiento_del_area_de_estudio_del_proye__2017-10-D-3667.pdf",
+  "nombre": "rancagua_3667_para_formalizar_la_prorroga_del_congelamiento_del_area_de_estudio_del_proye__2017-10-D-3667.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:13:50",
+  "fin": "2026-07-15T12:16:50",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento3667/2017 (11p, muestreadas 1,3,5,7,9,11): declara congelamiento permisos 3 meses en 5 poligonos sector oriente (Modificacion PRC N21). Tablas de Roles de Avaluo de predios afectados y planos de deslinde con zonas rotuladas (R2,R3,R5,EQS,BR-M1,BR-M3,EX5), pero sin cuadro de parametros normativos por zona. Confianza MEDIA, solo 6 de 11 paginas muestreadas."
+  }
+}

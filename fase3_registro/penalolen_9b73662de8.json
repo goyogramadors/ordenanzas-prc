@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_9b73662de8",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_28003041_promulga_modificacion_al_plan_regulador_comunal_sector_av_las_perdices___Exportar.pdf",
+  "nombre": "penalolen_28003041_promulga_modificacion_al_plan_regulador_comunal_sector_av_las_perdices___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:12:10",
+  "fin": "2026-07-14T21:14:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Modificacion PRC sector Av.Las Perdices: pag3 usos de suelo Zona E1a (tabla TIPO/ACTIVIDAD equipamiento); pag4 tablas NORMAS ESPECIFICAS VIVIENDA y EQUIPAMIENTO (superficie predial min, agrupamiento, COS, coef.constructibilidad, altura max, densidad bruta max, distanciamiento, antejardin). Pag5 solo texto administrativo."
+  }
+}

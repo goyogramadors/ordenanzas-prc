@@ -1,0 +1,20 @@
+{
+  "id": "santiago_2bbe046d61",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_01.Dcto-Secc-2da-N_C2_B05073.pdf",
+  "nombre": "santiago_01.Dcto-Secc-2da-N_C2_B05073.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:54:55",
+  "fin": "2026-07-15T12:56:24",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Secc.2da N5073, 2-jul-2025, Santiago, 4 pags. PONE TERMINO al procedimiento de modificacion al PRC de Santiago 'Correccion de la Zonificacion Especial, actualizacion de Inmuebles de Conservacion Historica y otras modificaciones y actualizaciones del texto de la O.L.' (iniciado 2019), por razones de economia procedimental ante la proxima actualizacion integral obligatoria al 2028. NO aprueba ninguna modificacion ni transcribe valores normativos -- es un decreto que cierra sin efecto el tramite. Verificado visualmente paginas 1-4 de 4."
+  }
+}

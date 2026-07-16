@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_22d78fe7d4",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_3166_autoricese_publicacion_1_aviso_publicitario_1_audiencia___3166.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_3166_autoricese_publicacion_1_aviso_publicitario_1_audiencia___3166.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:39:16",
+  "fin": "2026-07-15T08:41:08",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 3166, 27-sep-2019: AUTORICESE la publicacion de 1 aviso publicitario para la 1ra Audiencia del Plan Regulador de Nancagua, via Convenio Marco Mercado Publico. Es un decreto de compra/contratacion de servicio de publicidad (orden de compra a Sociedad Periodistica Portales Ltda, 61.800), tramite administrativo/presupuestario, no contiene texto ni tabla de normas urbanisticas. Verificado visualmente, documento de 1 pagina."
+  }
+}

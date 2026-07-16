@@ -1,0 +1,20 @@
+{
+  "id": "melipilla_565c3a4f44",
+  "comuna": "melipilla",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\melipilla_decreto_promulga_modificacion_del_plan_regulador_comunal_de_melipilla_prorroga_d__index.php.pdf",
+  "nombre": "melipilla_decreto_promulga_modificacion_del_plan_regulador_comunal_de_melipilla_prorroga_d__index.php.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:37:42",
+  "fin": "2026-07-15T08:39:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial N40.202 (02.03.2012), Decreto Ex.597, Municipalidad de Melipilla: Promulga 'Modificacion del PRC de Melipilla, Prorroga de Declaratorias de Utilidad Publica de Terrenos Urbanos... Destinados a Vialidad Estructurante'. p.2 trae tablas de VIAS Norte-Sur y Oriente-Poniente (Nombre de Via/Tramo/Ancho entre Lineas Oficiales Existente-Proyectado/Observaciones) -- son tablas de VIALIDAD (declaratoria utilidad publica de ensanches viales), no de normas de zona edificatoria (COS/CC/altura/agrupamiento/antejardin/predial), consistente con el criterio ya aplicado de excluir vialidad del alcance de esta fase."
+  }
+}

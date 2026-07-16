@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_a216d5dc6a",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4477.28dic2004.pdf",
+  "nombre": "las_condes_D.O.4477.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:00:34",
+  "fin": "2026-07-14T20:57:07",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        5
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "DO 4477 (28-12-2004, publicacion Diario Oficial, 5 pags) - version CON el cuadro (igual patron que 4474 y 4484). p1: aprueba Plano Seccional PS-U-Ee1 (Especial 1). p2-4: CUADRO DE USOS DE SUELO ZONA U-Ee1 completo (aparece 2 veces). p5: cierre del texto resolutivo."
+  }
+}

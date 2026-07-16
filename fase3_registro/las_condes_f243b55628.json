@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_f243b55628",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4481.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4481.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:57:36",
+  "fin": "2026-07-14T20:59:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Escaneo (copia informativa) del decreto alcaldicio 4481/2004 que aprueba el Plano Seccional PS-V-01. 1 pagina: solo vistos y firmas, sin texto resolutivo ni cuadro (mismo patron que los decretos.44xx de esta serie)."
+  }
+}

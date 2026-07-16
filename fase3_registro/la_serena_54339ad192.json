@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_54339ad192",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_932_fija_horario_de_expendio__doc_34_20092020114625.pdf",
+  "nombre": "la_serena_932_fija_horario_de_expendio__doc_34_20092020114625.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:23:31",
+  "fin": "2026-07-15T08:24:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 932/2020 modifica ordenanza que fija horario de expendio transitorio de establecimientos con patentes de alcoholes (art.3 ley 19.925) durante pandemia Covid-19. No relacionado a PRC."
+  }
+}

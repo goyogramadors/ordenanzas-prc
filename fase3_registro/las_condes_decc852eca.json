@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_decc852eca",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.Oficial-3084.03may2018.pdf",
+  "nombre": "las_condes_D.Oficial-3084.03may2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:54:45",
+  "fin": "2026-07-14T20:55:34",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: Diario Oficial 15-may-2018, decreto 3084 (1p) que solo CORRIGE el decreto alcaldicio 8676-2017 (que a su vez eliminaba afectaciones a utilidad publica del cuadro Vialidad Comunal, art 45). Es correccion de un tramite de vialidad, no normas por zona. Texto completo leido."
+  }
+}

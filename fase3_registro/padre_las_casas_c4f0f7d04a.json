@@ -1,0 +1,15 @@
+{
+  "id": "padre_las_casas_c4f0f7d04a",
+  "comuna": "padre_las_casas",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\padre_las_casas_decreto_2105_apruebase_actualizacion_estudio_plan_regulador_comunal_de_padre_las__DGM_2105%20%281%29.pdf",
+  "nombre": "padre_las_casas_decreto_2105_apruebase_actualizacion_estudio_plan_regulador_comunal_de_padre_las__DGM_2105%20%281%29.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:07:59",
+  "fin": "2026-07-14T21:08:37",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto 2105/2023 solo APRUEBA el estudio del Plan Regulador Comunal ('compuesto por la Ordenanza, Planimetria, Memoria Explicativa') y lo REMITE a la SEREMI Vivienda y Urbanismo para su proceso de aprobacion (Art.2.1.11 OGUC). Es un acto administrativo de tramite; la Ordenanza con las normas NO esta adjunta a este PDF de 2 paginas. Requiere ubicar la Ordenanza/Planimetria/Memoria Explicativa del estudio PRC de Padre Las Casas."
+  }
+}

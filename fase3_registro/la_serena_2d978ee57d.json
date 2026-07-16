@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_2d978ee57d",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1879_modifica_ordenanza_de_comercio_en_la_via_publica__doc_34_1879_18122017045033.pdf",
+  "nombre": "la_serena_1879_modifica_ordenanza_de_comercio_en_la_via_publica__doc_34_1879_18122017045033.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:20:05",
+  "fin": "2026-07-15T08:23:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 1879, 13-dic-2017: MODIFICA LA ORDENANZA DE COMERCIO EN LA VIA PUBLICA (Decreto Alcaldicio 2/1993). Reemplaza el Articulo 20 sobre multas por infracciones (UTM minimas, comiso de mercaderias, perdida de derecho a permiso). Ordenanza de comercio ambulante/via publica, no PRC. Verificado visualmente pagina 1 de 2."
+  }
+}

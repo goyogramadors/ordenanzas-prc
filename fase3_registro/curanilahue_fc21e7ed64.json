@@ -1,0 +1,20 @@
+{
+  "id": "curanilahue_fc21e7ed64",
+  "comuna": "curanilahue",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curanilahue_aviso_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_r__e4fb5691-2db5-430d-8736-9350ac1ca166.pdf",
+  "nombre": "curanilahue_aviso_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_r__e4fb5691-2db5-430d-8736-9350ac1ca166.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:36:44",
+  "fin": "2026-07-14T15:40:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: extracto de INICIO del procedimiento de Evaluacion Ambiental Estrategica de la actualizacion del PRC de Curanilahue (2019). Objetivos, criterios de sustentabilidad, plazo de 30 dias habiles para observaciones. Sin normas. Texto 2/2 pags."
+  }
+}

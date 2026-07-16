@@ -1,0 +1,25 @@
+{
+  "id": "iquique_0ec63a4dcd",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_184_decreto_alcaldicio_numero_184_de_2025_deroga_plan_regulador_comunal_de_iquiq__plan regulador iquique diario oficial.pdf",
+  "nombre": "iquique_184_decreto_alcaldicio_numero_184_de_2025_deroga_plan_regulador_comunal_de_iquiq__plan regulador iquique diario oficial.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 102,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:41:45",
+  "fin": "2026-07-14T15:47:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        20,
+        80
+      ]
+    ],
+    "paginas_utiles": 61,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ORDENANZA COMPLETA PRC Iquique (102 pags, Diario Oficial 2025). Tablas en TEXTO VECTORIAL real (no imagen; verificado con render de p20,25,50,65,80,81). p20-24: art.1.2.11 dotacion minima de estacionamientos (autos y bicicletas). p24-80: Cap.2.1-2.3 zonificacion y normas, ~45 zonas/subzonas (A-1, A-2, AM, BM-1/2/3, B-1, B-2, EQ1-3, ZP-I, ZEI, ZI-PM/PC/TA/TP, ZAV, ZDP, ZBC, ZRI, MH, ZT, ZCH-S/P/M/E/T, ZVN-1/2, ZPC-1/2...). Formato uniforme por zona: cuadro USOS DE SUELO + cuadro NORMAS URBANISTICAS DE SUBDIVISION Y/O EDIFICACION (densidad, predial min, COS, CC, altura, antejardin, distanciamiento, ochavo, cierros) y en varias un tercer cuadro de INCENTIVOS NORMATIVOS. Ultima zona con norma: ZPC-2 Playa Blanca en p80. Desde la mitad de p80 hasta p102 = VIALIDAD e intercomunal, excluido. p14-15 solo leyenda de codigos de zona."
+  }
+}

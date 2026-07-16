@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_3bb7b4877b",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_5_ordenanza_municipal_n_5__doc_34_5_13122022045743.pdf",
+  "nombre": "la_serena_5_ordenanza_municipal_n_5__doc_34_5_13122022045743.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:22:03",
+  "fin": "2026-07-15T08:23:35",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza Municipal N5 (2022): cierre/implementacion de medidas de control de acceso en calles/pasajes/conjuntos habitacionales por seguridad (rejas/portones comunitarios, no PRC). Confirmado pag1,3,5,7 de 7: articulado sobre requisitos de cierres, procedimiento autorizacion y firmas; sin tablas de zonas/usos de suelo/coeficientes."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "san_clemente_8c48d8d2e4",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_clemente_ordenanza_3075_apruebese_enmienda_n1_compuesta_por_memoraria_explicativa_plano_y__Decreto%20Alcaldicio%20N%C2%B0%203075.pdf",
+  "nombre": "san_clemente_ordenanza_3075_apruebese_enmienda_n1_compuesta_por_memoraria_explicativa_plano_y__Decreto%20Alcaldicio%20N%C2%B0%203075.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:19:22",
+  "fin": "2026-07-15T12:55:26",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        6
+      ],
+      [
+        16,
+        26
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio N3075 (Enmienda N1, 17-abr-2026): p.3-6 = cuadros ACTUAL vs PROPUESTO de la enmienda (ZU-1A nueva zona p.3-4, ZU-7 p.4-5, ZU-8 p.5-6, todas de San Clemente); p.16-26 = Ordenanza Local completa anexada (PRC San Clemente, oct-2018) con cuadros numericos de TODAS las zonas: ZCV p.16, ZU-1 p.17, ZU-2 p.18, ZU-3 p.19, ZU-4 p.20, ZU-5 p.21, ZU-6 p.22, ZU-7 p.23, ZU-8+ZE-1 p.24, ZE-2+ZE-3+ZAV p.25, ZAP p.26. Distinto del doc san_clemente_2444d0f4c8 (Decreto 1212, ZU-1A/ZU-7/ZU-8 con otros valores): este decreto 3075 es una Enmienda N1 ANTERIOR (abr-2026) sobre las mismas 3 zonas pero con cifras propuestas diferentes -- posible superposicion/version previa, requiere cotejo cronologico entre ambos decretos. EXCLUIDO: portada y firmas (p.1-2,6-9), coordenadas limite urbano (p.9-11), capitulos generales sin cuadro numerico por zona -estacionamientos p.12-13, clases de equipamiento p.14-15-, ZNE sin cuadro numerico (p.26, solo texto de faja de proteccion), Titulo 3 vialidad y cuadros de calles/anchos (p.27-31), normas transitorias vialidad y firmas (p.32)."
+  }
+}

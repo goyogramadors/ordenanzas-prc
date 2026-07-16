@@ -1,0 +1,25 @@
+{
+  "id": "lo_barnechea_0bc31f2094",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1651_promulga_aprobacion_de_modificacion_no2_al_plan_regulador_comunal_de_lo_bar__Exportar.pdf",
+  "nombre": "lo_barnechea_1651_promulga_aprobacion_de_modificacion_no2_al_plan_regulador_comunal_de_lo_bar__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:01:23",
+  "fin": "2026-07-14T21:02:44",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        5
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "modificación N2: pág3 tabla estacionamiento equipamiento (art 19-20), pág4 cuadro Condiciones Subdivisión y Edificación zonas F y H, pág5 cuadro completo zona J La Dehesa (a.2.2)"
+  }
+}

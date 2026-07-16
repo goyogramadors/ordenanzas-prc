@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_df13989372",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3517_ordenanza_tenencia_responsable_de_animales__doc_34_03082020105347.pdf",
+  "nombre": "la_serena_3517_ordenanza_tenencia_responsable_de_animales__doc_34_03082020105347.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:25:59",
+  "fin": "2026-07-15T08:27:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.3517/2016 aprueba Ordenanza Municipal sobre Proteccion y TENENCIA RESPONSABLE DE ANIMALES DE COMPAÑIA de La Serena. Ajena al PRC."
+  }
+}

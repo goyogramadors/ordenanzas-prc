@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_1b9857812d",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_ZHM-1.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ficha completa Zona Habitacional Mixta N1 (ZHM-1). Pag1 tabla usos de suelo permitidos (equipamiento por escala) + usos prohibidos (vivienda unifamiliar no permitida). Pag2 tabla normas urbanisticas completa (densidad, agrupamiento, subdivision, frente, %ocupacion, %area libre, coef.construccion, altura maxima, distanciamiento, rasante, adosamiento, cierros, antejardin) para 4 usos de suelo, mas restricciones.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:54:26",
+  "fin": "2026-07-15T17:56:38",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_zhm1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZHM-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa ZHM-1: usos de suelo (vivienda unifamiliar NO permitida) + tabla completa normas urbanisticas para 4 usos de suelo + restricciones. Verificado contra nota_fase3: coincide."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "caldera_9c31cb5965",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_525_aprueba_aprobacion_y_publicacion_del_proyecto_denominado_modificacion_al_pla__Exportar.pdf",
+  "nombre": "caldera_525_aprueba_aprobacion_y_publicacion_del_proyecto_denominado_modificacion_al_pla__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:01:35",
+  "fin": "2026-07-14T13:05:30",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        12
+      ]
+    ],
+    "paginas_utiles": 10,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.525/2004 modificacion PRC Caldera. p3-5 cuadro de equipamientos por escala (regional/comunal/vecinal); p6-11 una seccion por zona con condiciones de subdivision y edificacion: CD (predial 2.500m2, ocup 50%, constr 0,5), U1D (2.500m2, 25%, 0,25), U2D (700m2, 40%, 0,4, aislado), R3, R21E (2.500m2, 50%, 0,5), R21F (cierres), R22, R12 sector industrial norte. Tablas en TEXTO extraible."
+  }
+}

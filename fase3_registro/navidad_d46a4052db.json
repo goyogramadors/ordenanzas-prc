@@ -1,0 +1,20 @@
+{
+  "id": "navidad_d46a4052db",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_decreto_alcaldicio_1017_rectifica_plazo_total_del_estudio_reformulacion_plan_reg__c90b2d7c-3292-48f6-978e-e6212ba5f9e5.pdf",
+  "nombre": "navidad_decreto_alcaldicio_1017_rectifica_plazo_total_del_estudio_reformulacion_plan_reg__c90b2d7c-3292-48f6-978e-e6212ba5f9e5.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:06:23",
+  "fin": "2026-07-14T21:06:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "trámite administrativo: rectifica plazo total del estudio de reformulación PRC (720->817 días), sin contenido normativo"
+  }
+}

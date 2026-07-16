@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_240c092a0d",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4476.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4476.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:54:35",
+  "fin": "2026-07-14T16:01:27",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (misma plantilla que los decretos 4475/4486, ya fallidos): el Decreto 4476 (28-12-2004) de 1 pagina solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Comercial 3 (PS-U-C3) 'conformado por su texto resolutivo, memoria y plano, cuyos ejemplares se adjuntan'. Los anexos con las normas NO estan en el archivo (verificado por texto y render; la imagen de p1 son solo timbres/logo). Requiere el texto resolutivo del seccional PS-U-C3."
+  }
+}

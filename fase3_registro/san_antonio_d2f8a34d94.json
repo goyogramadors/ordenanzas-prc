@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_d2f8a34d94",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_2025_N_C2_B04.047_APRUEBA_20PLAN_20ANUAL_20MUNICIPAL_20A_C3_91O_202026,_20FONDO_20CONCURSABLE_20DE....pdf",
+  "nombre": "san_antonio_2025_N_C2_B04.047_APRUEBA_20PLAN_20ANUAL_20MUNICIPAL_20A_C3_91O_202026,_20FONDO_20CONCURSABLE_20DE....pdf",
+  "veredicto": "TEXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:27:10",
+  "fin": "2026-07-14T21:28:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SAN ANTONIO: NO ES UN DOCUMENTO PRC. Decreto alcaldicio exento 4047 (dic-2025) que APRUEBA EL PLAN ANUAL MUNICIPAL AÑO 2026 y su Fondo Concursable. Es un instrumento de gestion municipal, no de planificacion territorial. Cero señales urbanisticas en 8 paginas."
+  }
+}

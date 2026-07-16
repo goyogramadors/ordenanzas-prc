@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_b7e6fd8c7c",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_6_LAM._USO_DE_SUELO_COLEGO_SAN_PATRICIO.pdf",
+  "nombre": "las_condes_6_LAM._USO_DE_SUELO_COLEGO_SAN_PATRICIO.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:54:27",
+  "fin": "2026-07-14T20:56:01",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA (plano) PRC Las Condes - Rectificacion Modificacion N.8, Plano de Uso de Suelo lamina 2: rectifica el deslinde sur del Colegio San Patricio (zona UEe1). Situacion anterior/actual + simbologia. Sin cuadro de parametros. Verificado por render."
+  }
+}

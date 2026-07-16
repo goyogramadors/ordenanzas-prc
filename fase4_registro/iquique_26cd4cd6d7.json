@@ -1,0 +1,28 @@
+{
+  "id": "iquique_26cd4cd6d7",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_11_promulgase_la_modificacion_al_plan_regulador_de_la_comuna_de_iquique_secciona__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "IQUIQUE: Resolucion 11 (1997, BCN LeyChile, 3p) que promulga la modificacion al PRC, Ordenanza del PLAN SECCIONAL SUR (zona M-6 Costanera). *** NORMA PARCIALMENTE INALCANZABLE ***: la pag 2 SI trae en texto los usos de suelo de la nueva Sub Zona M-6.1 Costanera (permitidos: restoranes, equipamientos turisticos complementarios, areas verdes y paseos peatonales; prohibidos: todos los demas), sus limites geograficos, y normas genericas de estacionamientos (Art 1). PERO los CUADROS del Art 33 (Normas Especificas) NO ESTAN EN EL PDF: el documento dice DOS VECES 'NOTA: Ver Cuadros en Diario Oficial N 35.792, pag. 28 del martes 17 de junio de 1997'. Ademas el Art 5 queda cortado a mitad de frase en la p3 ('...el siguiente.') y sigue la firma. Rango = pag 2 (lo unico transcrito). Para completar las normas especificas de M-6.1 hay que ir al Diario Oficial 35.792 p28, que no forma parte del corpus. Verificado visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:12:10",
+  "fin": "2026-07-15T14:13:31",
+  "resultado": {
+    "archivo": "extraccion_normas\\iquique\\iquique_11_m6_1_costanera.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "M-6.1"
+    ],
+    "confianza": "MEDIA",
+    "nota": "NORMA PARCIALMENTE INALCANZABLE: cuadros de normas especificas (Art.33) de M-6.1 remiten a Diario Oficial N 35.792 pag.28 (17-06-1997), fuera del corpus. Solo se transcribieron usos de suelo y limites geograficos. Confianza MEDIA por informacion incompleta, no por duda en lo transcrito. Coincide con nota_fase3."
+  }
+}

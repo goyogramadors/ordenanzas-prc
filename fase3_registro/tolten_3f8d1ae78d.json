@@ -1,0 +1,25 @@
+{
+  "id": "tolten_3f8d1ae78d",
+  "comuna": "tolten",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tolten_44444_promulgase_el_plan_regulador_comunal_de_tolten_localidades_de_nueva_tolten__download.aspx.pdf",
+  "nombre": "tolten_44444_promulgase_el_plan_regulador_comunal_de_tolten_localidades_de_nueva_tolten__download.aspx.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 20,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:32:39",
+  "fin": "2026-07-14T21:34:12",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        16
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PRC completo Tolten (Nueva Tolten y Villa Los Boldos): Capítulo IV pág12-16, zonas ZMC, ZM2, ZM3, ZM4, ZE, ZAV con usos permitidos/prohibidos + condiciones edificación y subdivisión completas (superficie predial, COS, CC, altura, agrupamiento, antejardín, densidad bruta); texto nativo completo"
+  }
+}

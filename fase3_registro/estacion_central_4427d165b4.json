@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_4427d165b4",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_acuerdo_98_aprueba_presidencia_de_la_comision_plano_regulador__acuerdo_98.pdf",
+  "nombre": "estacion_central_acuerdo_98_aprueba_presidencia_de_la_comision_plano_regulador__acuerdo_98.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:15:32",
+  "fin": "2026-07-15T08:16:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "ESTACION CENTRAL: Acuerdo 98 (3-ago-2021, 1p, escaneado sin OCR): aprueba la Presidencia de la Comision de Plano Regulador (nombra Presidenta y Vicepresidente concejales). Es tramite de designacion de personal, sin normas. Verificado visualmente."
+  }
+}

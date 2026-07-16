@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_8cdacdf14b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_9_LAM.2_ART.41_GRAF._VEREDA_ORIENTE_H.DE_MAGALLANES.pdf",
+  "nombre": "las_condes_9_LAM.2_ART.41_GRAF._VEREDA_ORIENTE_H.DE_MAGALLANES.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:59:22",
+  "fin": "2026-07-14T16:02:25",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "ES UNA LAMINA GRAFICA, no un cuadro: Plano N2 de Uso de Suelo, Modificacion N8 rectificacion (MPRCLC-2010), grafica de la vereda oriente de Hernando de Magallanes entre Martin de Zamora y Los Pozos (art.41). Muestra 'Situacion Anterior' y 'Situacion Actual' con las zonas Uv2, UEe1, UC1 rotuladas sobre el plano y una simbologia de linea gruesa. Ningun parametro (COS/CC/altura). Verificado en render."
+  }
+}

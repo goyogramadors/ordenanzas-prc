@@ -1,0 +1,28 @@
+{
+  "id": "la_florida_3b18b17a28",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_florida_112_complementa_decreto_exento_2514_de_fecha_20_de_enero_de_2016_que_promulga_la__PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_112.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto 112 complementa el 3.514/2016 (La Florida). p1: enmienda en prosa 'Donde dice/Debe decir' -> altura maxima 12,6 m y agrega Densidad Bruta Maxima 156 viv/ha. p2: cuadro completo del AREA E-AM2 (Aislada Media densidad N2): predial min 500, COS 0,52 (0,60 vivienda existente), CC 1,56/10,5, altura 10,5, agrupamiento aislado, rasante 70, distancia medianeros 4, antejardin 5/5/3, estacionamientos art.15, densidad bruta max 130 y min 10, por filas Residencial/Equipamiento/Equipamiento Basico. Notas al pie fijan CC 2.028, altura 12,6, densidad 156, antejardin 0. Norma disponible en texto Y en imagen.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:45:45",
+  "fin": "2026-07-15T14:48:10",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_florida\\la_florida_112_complementa_e_am2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E-AM2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 112 complementa/corrige Decreto 3514 (ya transcrito como la_florida_da57349e45): agrega Densidad Bruta Maxima 156 viv/ha a la nota ** que ya traia altura 12,6m. Se referencia cruzada al documento hermano para evitar duplicacion. Verificado contra nota_fase3: coincide."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pichilemu_628b77f503",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_3778_aprueba_correccion_a_ordenanza_de_la_enmienda_al_plan_regulador_comunal_de___correccion_enmienda2023.pdf",
+  "nombre": "pichilemu_3778_aprueba_correccion_a_ordenanza_de_la_enmienda_al_plan_regulador_comunal_de___correccion_enmienda2023.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:59:37",
+  "fin": "2026-07-15T08:06:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PICHILEMU: Decreto 3778, aprueba Correccion a la Ordenanza de la Enmienda al PRC, Sector Centro. Norma minima pero real en p3 (escaneada, verificada visualmente) y p5 (texto, version Diario Oficial, identica): en el parrafo 7 de la Ordenanza, subtitulo NORMAS DE EDIFICACION, 'donde dice: Antejardin Minimo 2,5; debe decir: Antejardin Minimo NO SE EXIGE'. No identifica la zona por nombre en este decreto (solo Sector Centro parrafo 7); cruzar con decreto 3442 (que si nombra zonas) para identificar a cual zona corresponde."
+  }
+}

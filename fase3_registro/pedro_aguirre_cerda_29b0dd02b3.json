@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_29b0dd02b3",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_1_plan_regulador__1e432ca4-bebb-4da9-9251-32906450e2d1.pdf",
+  "nombre": "pedro_aguirre_cerda_1_plan_regulador__1e432ca4-bebb-4da9-9251-32906450e2d1.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:09:27",
+  "fin": "2026-07-14T21:12:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "DUPLICADO aparente de pedro_aguirre_cerda_0679c115d2 (mismo plano PRC Pedro Aguirre Cerda, identico contenido visual, mismas tablas por zona PAC1/PAC2/PAC3/Zona C-F/Zona R). Verificado por render: pixeles identicos a simple vista. Ver nota del documento hermano para el detalle de valores."
+  }
+}

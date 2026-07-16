@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_58c83721b1",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_DEC.DO-1132-24abr2016.pdf",
+  "nombre": "las_condes_DEC.DO-1132-24abr2016.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:57:42",
+  "fin": "2026-07-14T15:59:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: decreto 1132 (Diario Oficial, abr-2016, 3p) que ELIMINA en el art 45 de la Ordenanza Local, cuadro 'Vialidad Comunal', la afectacion a utilidad publica de una larga nomina de vias y tramos. Es VIALIDAD y declaratorias, NO normas por zona: 31 menciones de vialidad, calles y anchos frente a 1 sola de parametros. *** OJO CONTAMINACION: el PDF es pagina del Diario Oficial y menciona tambien a la Municipalidad de Penalolen; no atribuirle a Las Condes contenido vecino. *** Ver tambien las_condes_10c90a6703 (decreto 8676), que modifica justamente este decreto 1132."
+  }
+}

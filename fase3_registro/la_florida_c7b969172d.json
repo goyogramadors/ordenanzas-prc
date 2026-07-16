@@ -1,0 +1,29 @@
+{
+  "id": "la_florida_c7b969172d",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_ordenanza_decreto_exento_que_promulga_la_modificacion_n9_del_plan_regulador_comu__Ordenanza-Refundido-Marzo2013.pdf",
+  "nombre": "la_florida_ordenanza_decreto_exento_que_promulga_la_modificacion_n9_del_plan_regulador_comu__Ordenanza-Refundido-Marzo2013.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 87,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:46:20",
+  "fin": "2026-07-14T15:50:23",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        28,
+        34
+      ],
+      [
+        44,
+        85
+      ]
+    ],
+    "paginas_utiles": 49,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ORDENANZA REFUNDIDA PRC La Florida (Marzo 2013, 87 pags). TODO EN TEXTO REAL (verificado cruzando texto contra render de p66). p28-34: art.15 cuadro suelto de ESTACIONAMIENTOS minimos por tipo de uso (lo citan las tablas de zona: necesario). p44-50: art.39 Condiciones de Edificacion, 12 'Areas de Edificacion' E-AB1..E-A1 (predial min, COS, CC, altura, agrupamiento, rasante, distancia a medianero, adosamiento, antejardin, estacionamientos, densidad bruta max/min). p51-57: art.40 Usos de Suelo Permitidos y Actividades Prohibidas. p58-85: art.41 Zonas con Normas Conjuntas (~20 zonas: AV1-AV6, ED, ESP-1/2/3, RI-1/2, R-1..R-6, ICH, PL, Z-S, Z-AA1, Z-AA2, Z-AM). EXCLUIDOS: p2 y p14 estan EN BLANCO (0 chars, no son tablas); p41-43 son solo indice SIGLA/TIPO DE AREA/NORMATIVA sin parametros; p86-87 publicidad y vialidad."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "panguipulli_67f243ca29",
+  "comuna": "panguipulli",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\panguipulli_5_aprueba_plan_regulador_comunal_de_panguipulli__7 Publicación Diario Oficial PLAN REGULADOR COMUNAL.pdf_1704210845882.pdf",
+  "nombre": "panguipulli_5_aprueba_plan_regulador_comunal_de_panguipulli__7 Publicación Diario Oficial PLAN REGULADOR COMUNAL.pdf_1704210845882.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:08:02",
+  "fin": "2026-07-14T21:11:02",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Pag4: Cap.IV completo Art.18-21, tabla normas por zona Z0-Z4 y restricciones R1-R6 (superficie predial minima, coef.constructibilidad, %ocupacion suelo, agrupamiento, adosamiento, antejardin, altura). Confirmado visual render 120dpi: texto real, no tabla-imagen. Pag3 contexto (equipamiento por escala, estandares estacionamiento Art.11-17). Pag5 vialidad (calles/anchos), excluida."
+  }
+}

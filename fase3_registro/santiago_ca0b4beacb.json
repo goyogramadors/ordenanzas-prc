@@ -1,0 +1,20 @@
+{
+  "id": "santiago_ca0b4beacb",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\santiago_1370_promulga_acuerdo_no_235_de_2011_que_aprueba_enmienda_a_plan_regulador_comun__1370.pdf",
+  "nombre": "santiago_1370_promulga_acuerdo_no_235_de_2011_que_aprueba_enmienda_a_plan_regulador_comun__1370.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:56:41",
+  "fin": "2026-07-15T12:58:48",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Secc.2da N1370, 28-jul-2011, Santiago, 1 pag. PROMULGA Acuerdo N235/2011 del Concejo de Santiago que aprueba una enmienda al PRC referida al 'Sector Barrio Civico - Eje Bulnes'. No transcribe el texto de la enmienda ni valores normativos, solo promulga formalmente y ordena a Asesoria Urbana efectuar tramites de rigor. Norma inalcanzable desde este PDF. Verificado visualmente pagina unica."
+  }
+}

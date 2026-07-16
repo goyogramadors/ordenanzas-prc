@@ -1,0 +1,28 @@
+{
+  "id": "lebu_5a385b35b7",
+  "comuna": "lebu",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lebu_109_modificacion_del_plan_regulador_comunal_de_lebu__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      4
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "modificación PRC: pág 4 tiene tabla NORMAS DE SUBDIVISION Y EDIFICACION completa para nueva zona B7 (superficie predial min, agrupamiento, altura, coef. constructibilidad, coef. ocupación, antejardín)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:20:04",
+  "fin": "2026-07-15T14:22:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\lebu\\lebu_109_modificacion_zona_b7.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "B7"
+    ],
+    "confianza": "ALTA",
+    "nota": "Tabla completa de usos de suelo y normas de subdivision/edificacion para nueva Zona B7 (ex ZP2), texto plano. Verificado contra nota_fase3: coincide."
+  }
+}

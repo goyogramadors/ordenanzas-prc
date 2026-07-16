@@ -1,0 +1,30 @@
+{
+  "id": "nunoa_c703268b35",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_720_promulga_aprobacion_de_modificacion_no_15_del_plan_regulador_comunal_de_nuno__1217657.pdf",
+  "rangos": [
+    [
+      4,
+      5
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "modificación N15: pág4-5 tabla completa nuevas zonas Z-4C, Z-7A, Z-7B (uso residencial y equipamiento) con superficie predial mínima, COS, coef. constructibilidad, sistema agrupamiento, altura máxima, rasante, antejardín, densidad bruta - texto nativo completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:52:56",
+  "fin": "2026-07-15T17:50:39",
+  "resultado": {
+    "archivo": "extraccion_normas\\nunoa\\nunoa_720_modificacion15_z4c_z7a_z7b_pag4-5.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "Z-4C",
+      "Z-7A",
+      "Z-7B"
+    ],
+    "confianza": "ALTA",
+    "nota": "3 zonas nuevas insertadas, cuadros completos residencial+equipamiento (Z-7A/B) transcritos integros: predial 300-500m2, COS 0,4-0,6, CC 1,5, aislado/pareado, altura 3pisos/9m, rasante 60, antejardin 5m, densidad 500-1000 hab/ha. Z-4C remite a condiciones generales de Z-4 (no transcritas, fuera de este acto). Texto nativo, sin trampa. Coincide con nota_fase3."
+  }
+}

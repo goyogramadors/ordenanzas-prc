@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_bded7687e9",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_Z-E.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Extracto 'Zona de Equipamiento Intercomunal Z-E' (d=700 hab/há). P1: tabla usos de suelo permitidos por escala (mayor/mediana/menor). P2: tabla completa de condiciones (por uso: vivienda unifamiliar no permitida, vivienda colectiva, equip. intercomunal/comunal/vecinal): densidad bruta 450-700 h/h, sistema agrupamiento, subdivisión mínima 600-2500 m2, frente, %ocup. suelo, %área libre, coef. constructibilidad 1.5-3.0, altura máxima (4-15 pisos), distanciamiento, rasante, adosamiento, cierros, antejardín 5-10m.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T17:57:34",
+  "fin": "2026-07-15T18:00:59",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_ze_equipamiento_intercomunal.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Z-E"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: usos por escala mayor/mediana/menor + 5 columnas condiciones (vivienda unifamiliar no permitida/colectiva/equip intercomunal/comunal/vecinal): densidad 450-700hab/ha, predial 600-2500m2, CC 1,5-3,0, altura 4-15 pisos, antejardin 5-10m, restricciones especiales (sin 1er piso residencial, sin zocalo). Coincide con nota_fase3."
+  }
+}

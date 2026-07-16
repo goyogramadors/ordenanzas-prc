@@ -1,0 +1,25 @@
+{
+  "id": "angol_e76a35ae24",
+  "comuna": "angol",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\angol_40_gobierno_regional_de_la_araucania_promulga_actualizacion_del_plan_regulador_c__40.pdf",
+  "nombre": "angol_40_gobierno_regional_de_la_araucania_promulga_actualizacion_del_plan_regulador_c__40.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 20,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:54:40",
+  "fin": "2026-07-14T12:59:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        13
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Actualizacion PRC Angol (Diario Oficial 14-10-2022). TRAMPA MIXTO: pdftotext solo devuelve el TITULO de cada zona; las tablas son imagen. p7=cuadro estacionamientos minimos (art.5). p8-13=art.7 Normas Urbanisticas, UNA TABLA POR ZONA (usos de suelo permitidos/prohibidos + normas subdivision y edificacion): p8 Z-1 Centro Historico, p9 Z-2, p10 Z-3, p11 Z-4, p12 Z-5, p13 Z-AV Area Verde. Traen densidad, predial minima, ocupacion, constructibilidad, altura, agrupamiento, antejardin. OJO: p15-18 son tablas de VIALIDAD (art.8-9), no normas de zona. paginas_con_imagen de la cola NO lista 8-13: no es confiable."
+  }
+}

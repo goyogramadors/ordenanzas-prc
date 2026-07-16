@@ -1,0 +1,25 @@
+{
+  "id": "quinta_normal_55e161ef13",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_529_aprueba_enmienda_al_plan_regulador__Exportar.pdf",
+  "nombre": "quinta_normal_529_aprueba_enmienda_al_plan_regulador__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:19:20",
+  "fin": "2026-07-14T21:21:50",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 529/2001, enmienda PRC Quinta Normal: crea zona ZEC (calles Juan de Barros/Mapocho/Nicolas Palacios/Villasana) dentro de zona E, agregando uso permitido 'equipamiento de nivel vecinal'. Norma en PROSA: a la zona ZEC se le aplican las MISMAS normativas de la zona E (superficie predial, frente predial minimo, % ocupacion, agrupamiento, altura, distanciamiento) -- por remision, no valores propios."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "graneros_2731059469",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\graneros_494_aprueba_enmienda_n_1_al_plan_regulador_comunal__2704892.pdf",
+  "nombre": "graneros_494_aprueba_enmienda_n_1_al_plan_regulador_comunal__2704892.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:41:25",
+  "fin": "2026-07-14T15:44:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.494 Enmienda N.1 PRC Graneros: crea la subzona ZH2-A (Habitacional Densidad Media A) y transcribe su cuadro completo en TEXTO (verificado por render): predial min 250m2, densidad 160 hab/ha, COS 0,5 (equip. 0,6), CC 1 (equip. 1,5), altura 9m, aislado/pareado, antejardin 3m, distanciamiento y adosamiento segun OGUC. Ademas cuadro de usos permitidos/prohibidos por clase. Tabla en p3."
+  }
+}

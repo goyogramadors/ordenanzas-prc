@@ -1,0 +1,22 @@
+{
+  "id": "cerrillos_e56e58b506",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cerrillos_9462019_plan_regulador_comunal_postergace_la_zona_c_del_plan_regulador_comunal_b__Mod. 946 2019.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Diario Oficial 13-11-2019. Decreto 202/1240 CORRIGE el decreto 202/946/2019 (postergacion de permisos zona C): el umbral de estacionamientos pasa de 'inferior a 2 por cada vivienda' a 'inferior a 1 por cada 2 viviendas'. Es un criterio de POSTERGACION, no un cuadro de normas por zona; se incluye la p1 por precaucion (toca estandar de estacionamientos). El cuadro de normas de la zona C NO esta en este documento.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "FALLIDO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:08:51",
+  "fin": "2026-07-15T14:10:05",
+  "resultado": {
+    "motivo": "Documento no contiene tabla de normas por zona: es una correccion del umbral de estacionamientos (de <2 por vivienda a <1 por cada 2 viviendas) aplicable a la Zona C ya postergada por el decreto 202/946/2019. No hay COS/altura/coef. constructibilidad que transcribir. Confirma nota_fase3."
+  }
+}

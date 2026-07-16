@@ -1,0 +1,15 @@
+{
+  "id": "maria_pinto_bf737f1433",
+  "comuna": "maria_pinto",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maria_pinto_decreto_205_pone_termono_actualizacion_plan_regulador_comunal__a1814fc2-4c2b-447a-81c5-e55e9c89137c.pdf",
+  "nombre": "maria_pinto_decreto_205_pone_termono_actualizacion_plan_regulador_comunal__a1814fc2-4c2b-447a-81c5-e55e9c89137c.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 52,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:37:42",
+  "fin": "2026-07-15T08:45:05",
+  "resultado": {
+    "motivo": "Decreto 205 (23-may-2022) que da TÉRMINO al proceso de Evaluación Ambiental Estratégica del PRC de María Pinto (52p) — no es la Ordenanza Local. Contiene Informe Ambiental EAE, tabla de zonas solo con Denominación/Fundamentación (p.15, sin parámetros), superficies por zona sin normas (p.18-19), y respuestas a observaciones ciudadanas (p.21-51) con valores dispersos en prosa (predial 500m2, altura 10,5m, CC~0,4). El propio texto (p.16) remite: 'esta información se presenta en cuadros que se incorporan a la Ordenanza Local' — documento distinto no incluido en este PDF. Buscar Ordenanza Local de María Pinto por separado."
+  }
+}

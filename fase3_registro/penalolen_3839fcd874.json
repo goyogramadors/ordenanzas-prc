@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_3839fcd874",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_Z1.pdf",
+  "nombre": "penalolen_Zona_Z1.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:43:33",
+  "fin": "2026-07-15T08:44:35",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Extracto 'Zona Z.1' (Áreas de Extensión Urbana, Primera Prioridad). Tabla completa usos permitidos/excluidos + 'Condiciones de Subdivisión Predial y de Edificación' por destino (Vivienda / Equipamiento Regional-Interurbana / Equipamiento Comunal-Vecinal): superficie predial mínima 480-600 m2, frente predial 8-20m, ocupación máxima suelo 40-70%, coef. constructibilidad 0.40-1.20, densidad 150 hab/há, sistema de agrupamiento, rasantes, altura máxima, antejardín, estacionamientos."
+  }
+}

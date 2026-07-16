@@ -1,0 +1,29 @@
+{
+  "id": "la_union_a8f3c7c994",
+  "comuna": "la_union",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_union_9_plan_regulador_de_la_comuna_de_la_union_aprobado_a_traves_de_resolucion_afecta__358b4fPRC-La_20Uni_C3_B3n.pdf",
+  "nombre": "la_union_9_plan_regulador_de_la_comuna_de_la_union_aprobado_a_traves_de_resolucion_afecta__358b4fPRC-La_20Uni_C3_B3n.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 43,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:51:39",
+  "fin": "2026-07-14T15:56:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        20
+      ],
+      [
+        28,
+        40
+      ]
+    ],
+    "paginas_utiles": 19,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA UNION: Ordenanza Local del PRC (Resolucion Afecta N9, ene-2003, 43p). NUCLEO p28-40: Art 27 'Usos de suelo y normas especificas', un articulo por zona en PROSA (no grilla), 16 zonas: ZU-1..ZU-6, ZU-I, ZE-1, ZE-2, ZR-1..ZR-8, ZEx-1, ZEx-2. Cada zona trae A) usos permitidos, B) usos prohibidos, C) normas especificas (predial minima, frente predial, COS, CC, agrupamiento, altura, adosamientos, antejardin, densidad). Las ZR (restriccion) en su mayoria dicen 'No se consultan' o remiten a otra zona. Cierra en p40; p41 empieza el Cap V Vialidad. ANADIDAS p15-20: tabla de calculo de estacionamientos por uso y zona (Art 13) y norma especial de discotecas y boites (Art 22: predial minima, COS, agrupamiento, distanciamiento; aplica a cualquier zona que permita el uso). Texto NATIVO limpio, SIN trampa (verificado en renders de p16 y p33). Las paginas 1-4 son papeleria escaneada (memo del GORE, publicacion en el DO y la Resolucion Afecta), no tablas. Una sola localidad."
+  }
+}

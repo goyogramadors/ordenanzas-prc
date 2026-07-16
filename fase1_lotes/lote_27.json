@@ -1,0 +1,787 @@
+[
+ {
+  "id": "d0372",
+  "comuna": "lautaro",
+  "nombre_documento": "decreto_5515_autoriza_la_regularizacion_del_pago_de_los_servicios_por_concepto_d",
+  "archivo": "lautaro_decreto_5515_autoriza_la_regularizacion_del_pago_de_los_servicios_por_concepto_d__5515.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1150",
+  "comuna": "lautaro",
+  "nombre_documento": "decreto_1266_instruye_dar_inicio_a_la_tramitacion_del_proyecto_enmienda_plan_reg",
+  "archivo": "lautaro_decreto_1266_instruye_dar_inicio_a_la_tramitacion_del_proyecto_enmienda_plan_reg__1266.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'inicio_proceso' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1151",
+  "comuna": "lautaro",
+  "nombre_documento": "decreto_3385_promulga_aprobacion_de_enmienda_al_plan_regulador_de_la_comuna_de_l",
+  "archivo": "lautaro_decreto_3385_promulga_aprobacion_de_enmienda_al_plan_regulador_de_la_comuna_de_l__3385.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0373",
+  "comuna": "lebu",
+  "nombre_documento": "estimados_junto_con_saludarlos_quiero_que_nos_envie_el_plan_regulador_de_la_comu",
+  "archivo": "lebu_estimados_junto_con_saludarlos_quiero_que_nos_envie_el_plan_regulador_de_la_comu__Plano%20Regulador%20Comunal.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana",
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0757",
+  "comuna": "lebu",
+  "nombre_documento": "109_modificacion_del_plan_regulador_comunal_de_lebu",
+  "archivo": "lebu_109_modificacion_del_plan_regulador_comunal_de_lebu__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 16
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZB7",
+   "ZP2",
+   "ZRA"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolución 109, INTERIOR (2019)\r\n\r\nResolución 109\r\nDEJA SIN EFECTO RESOLUCIONES Nº 89 DE 13 DE JUNIO DE 2018, Y 92 DE 27\r\nDE SEPTIEMBRE DE 2019, Y APRUEBA Y PROMULGA \"MODIFICACIÓN DEL\r\nPLAN REGULADOR COMUNAL DE LEBU\"\r\nMINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA; GOBIERNO REGIONAL\r\nVIII REGIÓN DEL BIOBÍO\r\nFecha Publicación: 26-SEP-2020 | Fecha Promulgación: 04-DIC-2019\r\nTipo Versión: Única De : 26-SEP-2020\r\nUrl Corta: https://bcn.cl/3rpxs\r\n\r\nDEJA SIN EFECTO RESOLUCIONES Nº 89 DE 13 DE JUNIO DE 2018, Y 92 DE 27 DE SEPTIEMBRE\r\nDE 2019, Y APRUEBA Y PROMULGA \"MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE LEBU\"\r\nNúm. 109.- Concepción, 4 de diciembre de 2019.\r\nConsiderando:\r\n1) La resolución Nº 139 de 17 de noviembre de 2008 del Gobierno Regional de la\r\nRegión Biobío, que aprobó el Plan Regulador Comunal de Lebu, publicado en el\r\nDiario Oficial con fecha 24 de abril de 2009.\r\n2) El Proyecto de Modificación del Plan Regulador Comunal de Lebu que consta en\r\nla Memoria Explicativa, el Estudio Especial de Equipamiento, el Estudio Fundado de\r\nRiesgos, la Factibilidad Sanitaria y el Plano MPRCLB-01, confeccionado por la\r\nMunicipalidad de Lebu.\r\n3) El Acta de Reunión de Concejo Municipal Nº 87 de 2 de septiembre de 2014,\r\nen la cual consta el requerimiento del Director de Obras Municipales, quien solicita\r\nla aprobación del Concejo para dar inicio al proceso de modificación del Plan\r\nRegulador Comunal de Lebu.\r\n4) El certificado Nº 108 suscrito por el Secretario Municipal y del Concejo, en\r\ne"
+ },
+ {
+  "id": "d0758",
+  "comuna": "lebu",
+  "nombre_documento": "4614_aprueba_enmienda_al_plan_regulador_comunal_de_lebu",
+  "archivo": "lebu_4614_aprueba_enmienda_al_plan_regulador_comunal_de_lebu___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 4614, LEBU (2008)\r\n\r\nDecreto 4614\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE LEBU\r\nMUNICIPALIDAD DE LEBU\r\nPublicación: 26-SEP-2008 | Promulgación: 15-SEP-2008\r\nVersión: Única De : 26-SEP-2008\r\nUrl Corta: https://bcn.cl/3lhmx\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE LEBU\r\nNúm. 4.614.- Lebu, 15 de septiembre de 2008.- Vistos:\r\na)\r\nLa necesidad de redefinir la localización de equipamiento vecinal, para\r\npermitir emplazar el Centro de Formación Técnica de Lebu, modificando el uso de\r\nsuelo de la Zona S-4 colindante con el Hospital de Lebu, por una Zona S-1 del Plan\r\nRegulador Comunal vigente.\r\nDicha modificación se acoge al artículo 45º de la Ley General de Urbanismo y\r\nConstrucciones y artículo 2.1.13 de su Ordenanza General, aprobándose mediante\r\nenmienda.\r\nb)\r\nEl certificado de fecha 18.06.2008 del Ministro de Fe de la Municipalidad de\r\nLebu, en el cual consta que en sesión de fecha 18.06.2008 el Honorable Concejo\r\nMunicipal acuerda dar inicio a la aprobación de la enmienda del Plan Regulador\r\nComunal de Lebu.\r\nc)\r\nEl plano de zonificación que identifica al Lote Nº 12, donde se emplazará el\r\nCentro de Formación Técnica de Lebu, realizado por el arquitecto don Christian\r\nGutiérrez Sandoval.\r\nd)\r\nEl ord. Nº 485, de fecha 10.06.2008, emitido por la Municipalidad de Lebu al\r\nGerente General de Carvile S.A., mediante el cual consulta si existen o han existido\r\nfaenas mineras bajo los terrenos donde se emplazará el Centro de Formación Técnica\r\nde Lebu.\r\ne)\r\nCerti"
+ },
+ {
+  "id": "d0759",
+  "comuna": "lebu",
+  "nombre_documento": "6533_decreta_enmienda_n_1_plan_regulador_comunal_de_lebu",
+  "archivo": "lebu_6533_decreta_enmienda_n_1_plan_regulador_comunal_de_lebu___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "usos_de_suelo": 5,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6533, LEBU (2016)\r\n\r\nDecreto 6533\r\nDECRETA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE LEBU\r\nMUNICIPALIDAD DE LEBU\r\nFecha Publicación: 14-OCT-2016 | Fecha Promulgación: 07-OCT-2016\r\nTipo Versión: Única De : 14-OCT-2016\r\nUrl Corta: https://bcn.cl/3l9qm\r\n\r\nDECRETA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE LEBU\r\nNúm. 6.533.- Lebu, 7 de octubre de 2016.\r\nVistos:\r\na) El Plan Regulador Comunal de Lebu, aprobado mediante resolución N° 139 de\r\n17.11.2008 del Gobierno Regional de la Región del Biobío y publicado en Diario\r\nOficial con fecha 24 de abril de 2009;\r\nb) Lo dispuesto en artículo 45° inciso 2° punto 1 de la Ley General de\r\nUrbanismo y Construcciones, que faculta a las municipalidades para realizar enmiendas\r\na los Planes Reguladores Comunales en las materias que se reglamentan en su ordenanza\r\ngeneral;\r\nc) Lo dispuesto en el artículo 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones;\r\nd) La Memoria Explicativa sobre Aplicación de enmienda al Plan Regulador\r\nComunal de Lebu;\r\ne) La Circular Ordinaria N° 132/03 -DDU 129- de la División de Desarrollo\r\nUrbano del Ministerio de Vivienda y Urbanismo, instruye respecto al procedimiento de\r\naprobación de enmiendas;\r\nf) La Circular Ordinaria N° 472/09 -DDU 223- de la División de Desarrollo\r\nUrbano del Ministerio de Vivienda y Urbanismo, sobre Escalas de Equipamiento;\r\ng) La Circular Ordinaria N° 147/10 -DDU Específica N° 02/2010- de la\r\nDivisión de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, sobre\r\nA"
+ },
+ {
+  "id": "d0760",
+  "comuna": "lebu",
+  "nombre_documento": "6704_aprueba_enmienda_n_2_al_plan_regulador_comunal_de_lebu",
+  "archivo": "lebu_6704_aprueba_enmienda_n_2_al_plan_regulador_comunal_de_lebu___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6704, LEBU (2018)\r\n\r\nDecreto 6704\r\nAPRUEBA ENMIENDA Nº 2 AL PLAN REGULADOR COMUNAL DE LEBU\r\nMUNICIPALIDAD DE LEBU\r\nFecha Publicación: 23-OCT-2018 | Fecha Promulgación: 11-OCT-2018\r\nTipo Versión: Única De : 23-OCT-2018\r\nUrl Corta: https://bcn.cl/3odst\r\n\r\nAPRUEBA ENMIENDA Nº 2 AL PLAN REGULADOR COMUNAL DE LEBU\r\nNúm. 6.704.- Lebu, 11 de octubre de 2018.\r\nVistos:\r\n1. El Acuerdo del H. Concejo Municipal Nº 643, de fecha 15 de junio del 2018,\r\nque aprueba iniciar el proceso de Enmienda.\r\n2. Las publicaciones en el diario La Estrella con fechas 25 de junio de 2018 y 2\r\nde julio de 2018 anunciando las Audiencias Públicas informativas de 9 de julio de\r\n2018 a las 15:00 hrs, el período de la exposición pública del proyecto programado\r\ndesde fecha 10 de julio de 2018 hasta el 9 de agosto de 2018, la segunda audiencia\r\npública con fecha 14 de agosto de 2018 a las 15:00 hrs, y el plazo de recepción de\r\nlas observaciones desde el 14 de agosto de 2018 hasta el 29 de agosto de 2018.\r\n3. Las cartas certificadas informativas dirigidas a las 74 juntas de vecinos con\r\nfecha 22 de junio de 2018.\r\n4. La Sesión extraordinaria con el Consejo Comunal de Organizaciones de la\r\nSociedad Civil (Cosoc) de fecha 20.08.2018.\r\n5. El inicio de la Exposición Pública del proyecto con fecha 10 de julio de\r\n2018 a la comunidad en hall central edificio de la Municipalidad de Lebu, Andrés\r\nBello Nº 233, 1º piso.\r\n6. Certificado Nº 65 de fecha 16 de agosto de 2018 que suscribe y certifica que\r\nefectivamente "
+ },
+ {
+  "id": "d0374",
+  "comuna": "limache",
+  "nombre_documento": "decreto_alcaldicio_2398_autoriza_la_contratacion_de_los_servicios_bajo_la_modali",
+  "archivo": "limache_decreto_alcaldicio_2398_autoriza_la_contratacion_de_los_servicios_bajo_la_modali__da2397.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD\r\nLIMACHE\r\n\r\nDECRET0 N°2.397.+\r\nLIMACHE, 31 de Agosto del 2020.-\r\n\r\nVISTOS;\r\n1.- EI Ord. N°468/202o de fret .o82020, de la Unidad de Adquisiciones, visado por el Director de\r\nFinanzas;\r\n2.- EI Decreto AIcaldicio N°3.225 de f/06.12.2016, modificado per Decretos Alcaldicios N°3.652 de\r\nfre4.10.2018 y N°879 de f/11.03.2020, que autoriza firma por \"Orden del Alcalde\", de las\r\nResoluciones refericlas a Adquisiciones hasta per 10 UTM y las que concedan Ayudas Sociales;\r\n\r\n3.-\r\n\r\n4.-\r\n\r\nLo establecido en el Art. 52 de la Ley 19.880, que sefiala en lo pertinente: \"Los actos\r\nadministrativos no tendrat efecto retroactivo, salvo ouando produecan consecuencias\r\nfa\\/orables para los interesados y no lesionen derechos de terceros\";\r\nEI Acuerdo adoptado en fa Sesi6n Ordinaria N°1.390 de i/09.12.2019, que aprob6 el Presupuesto\r\nMunicipal para el afio 2020;\r\n\r\n5.-\r\n\r\n6.-\r\n\r\nLo dispuesto en le Ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y\r\nPrestacich de Servicios;\r\nLas atribuciones que me confiere la Ley N°18.695 de 1988, Orgatica Constitucional de\r\nMunicipalidades, cuyo texto refundido, coordinado y sistematizado fue fijado par el DFL: N°1, del\r\nMinisterio del Interior, publicado en el D.O. de i/26.07.2006,\r\n\r\nCONSIDERANDO;\r\na)\r\nLa necesidad de regularizar la adquisici6n de colaciones, las cuales seran utilizadas por personal\r\n\r\nb)\r\n\r\nc)\r\na)\r\n\r\nque realLzo tra.bajos en P6rtico de Sanitizacl6n, ubicado en el estadio Angel Navarrete Candia,\r\nper emergenc"
+ },
+ {
+  "id": "d0761",
+  "comuna": "limache",
+  "nombre_documento": "44143_publica_promulgacionde_plan_regulador_comunal_de_limache",
+  "archivo": "limache_44143_publica_promulgacionde_plan_regulador_comunal_de_limache__Promulgacion-Actualizacion-PRC-Limache-Diario-Oficial.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 32,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "zonificacion": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 64,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAP",
+   "ZAV",
+   "ZC0",
+   "ZC0a",
+   "ZC1",
+   "ZC1a",
+   "ZC1b",
+   "ZC2",
+   "ZC2a",
+   "ZCEM",
+   "ZCS",
+   "ZE-1"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (agrupamiento, zonificacion, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.143\r\n\r\nJueves 8 de Mayo de 2025\r\n\r\nPágina 1 de 32\r\n\r\nNormas Generales\r\nCVE 2640683\r\nGOBIERNO REGIONAL DE VALPARAÍSO\r\nPROMULGA ACTUALIZACIÓN DE PLAN REGULADOR COMUNAL DE LIMACHE\r\n(Resolución)\r\nNúm. 31/4/117.- Valparaíso, 8 de noviembre de 2024.\r\nVistos:\r\n1. Lo dispuesto en los artículos 111 de la Constitución Política de la República; 16 letras a), b) y\r\nm), 20 letras e), f) g) y k) 24 letras c) m) ñ) o) y w), 27, de la Ley 19.175, Orgánica Constitucional sobre\r\nGobierno y Administración Regional, cuyo texto refundido, coordinado, sistematizado y actualizado\r\nfue fijado mediante DFL N°1-19.175 del 8 de agosto de 2005; el acta de proclamación de 31 de mayo\r\nde 2021, del Tribunal Calificador de Elecciones, y la resolución exenta número 31/4/616, de 23 de\r\njulio de 2021 del Gobierno Regional de Valparaíso, mediante la cual asumo en calidad de Gobernador\r\nRegional de Valparaíso.\r\n2. Lo dispuesto en el DFL N° 458, del Ministerio de Vivienda y Urbanismo promulgado el 18 de\r\ndiciembre 1975, y publicado en el Diario Oficial de fecha 13 de abril de 1976, que aprueba la nueva\r\nLey General de Urbanismo y Construcciones y sus modificaciones, en especial el artículo 43.\r\n3. El decreto N° 47, del Ministerio de Vivienda y Urbanismo, publicado el 05 de junio de 1992,\r\nque fija el nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones,\r\nen especial lo establecido en el artículo 2.1."
+ },
+ {
+  "id": "d0762",
+  "comuna": "limache",
+  "nombre_documento": "potestades_competencias_responsabilidades_funciones_atribuciones_yo_tareas",
+  "archivo": "limache_potestades_competencias_responsabilidades_funciones_atribuciones_yo_tareas__LEY18695.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 98,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "atribuciones"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 20
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "respuesta tipo sobre atribuciones/potestades municipales, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nFin Vigencia\r\nId Norma\r\nUltima Modificación\r\nURL\r\n\r\n:Decreto con Fuerza de Ley 1\r\n:26-07-2006\r\n:09-05-2006\r\n:MINISTERIO DEL INTERIOR; SUBSECRETARÍA DE DESARROLLO\r\nREGIONAL Y ADMINISTRATIVO\r\n:FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA\r\nLEY Nº 18.695, ORGANICA CONSTITUCIONAL DE MUNICIPALIDADES\r\n:Última Versión\r\nDe : 01-03-2018\r\n:01-03-2018\r\n:26-07-2020\r\n:251693\r\n:22-FEB-2018 Ley 21073\r\n:https://www.leychile.cl/N?i=251693&f=2018-03-01&p=\r\n\r\nFIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA\r\nLEY Nº 18.695, ORGANICA CONSTITUCIONAL DE MUNICIPALIDADES\r\nD.F.L. Núm. 1.- Santiago, 9 de Mayo de 2006.- Visto:\r\nLo dispuesto en el inciso 5º y siguientes del artículo 64\r\nde la Constitución Política de la República, cuyo texto\r\nrefundido, coordinado y sistematizado se fijó por Decreto\r\nSupremo Nº 100, de 2005, del Ministerio Secretaría General\r\nde la Presidencia.\r\nDecreto con fuerza de ley:\r\nFíjase el siguiente texto refundido, coordinado y\r\nsistematizado de la Ley Nº 18.695, Orgánica Constitucional\r\nde Municipalidades:\r\n\r\nTITULO I\r\nDE LA MUNICIPALIDAD\r\n\r\nPárrafo 1º\r\nNaturaleza y constitución\r\n\r\nArtículo 1º.- La administración\r\nlocal de cada comuna o agrupación\r\nde comunas que determine la ley\r\nreside en una municipalidad.\r\n\r\nD.F.L 1-19.704\r\nART. 1º\r\nD.O. 03.05.2002\r\n\r\nLas municipalidades son\r\ncorporaciones autónomas de\r\nderecho público, con personalidad\r\njurídica y pat"
+ },
+ {
+  "id": "d0375",
+  "comuna": "linares",
+  "nombre_documento": "2788_iniciese_el_estudio_de_expropiacion_con_el_objeto_de_analizar_y_continuar_e",
+  "archivo": "linares_2788_iniciese_el_estudio_de_expropiacion_con_el_objeto_de_analizar_y_continuar_e__Diario_of_2788.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "LINARES\r\nCORPORACIÓN MUNICIPAL\r\nS,((!t.tT�COMUNALOE PVJ(!llC.Aam\r\n\r\nLINARES, 23 DE MAYO 2023.\r\nDECRETO EXENTO N º\r\n\r\n_?-_1___S---'<o�- _,/\r\n\r\nVI ST OS:\r\nEl Memorándum N º 29 de fecha 26 de abril de 2023 del Alcalde de la Comuna de\r\nLinares dirigido a la Secretaría Comunal de Planificación, mediante el cual solicita\r\nevaluar la factibilidad de expropiar la prolongación de Calle Rengo hasta Avda.\r\nCircunvalación;\r\nEl Memorándum N º 169 de fecha 26 de abril de 2023 del Secretario Comunal de\r\nPlanificación dirigido a la Directora de Asesoría Jurídica mediante el cual solicita el\r\npronunciamiento respecto a la procedencia de dar inicio al proceso de expropiación\r\nrespecto a la calle mencionada;\r\nEl Memorándum N º 171 de fecha 02 de mayo de 2023 del Secretario Comunal de\r\nPlanificación dirigido a la Directora de Obras Municipales, mediante el cual solicita el\r\nCertificado de Informaciones Previas de la propiedad por la que se proyecta la\r\nprolongación de calle Rengo;\r\nEl Memorándum 62/2023 de fecha 03 de mayo de 2023 de la Directora de\r\nAsesoría Jurídica dirigido al Secretario Comunal de Planificación en el que indica, entre\r\notros, que la Municipalidad en virtud del artículo 33 de la Ley Orgánica Constitucional\r\nde Municipalidades está plenamente facultada para iniciar un proceso de expropiación a\r\nfin de dar cumplimiento al Plan Regulador Comunal;\r\nEl Memorándum N º 178 de fecha 04 de mayo de 2023 del Secretario Comunal de\r\nPlanificación dirigido al Alcalde de Linares, mediante e"
+ },
+ {
+  "id": "d0376",
+  "comuna": "linares",
+  "nombre_documento": "plano_regulador",
+  "archivo": "linares_plano_regulador__ORD_N_3591.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 13,
+  "paginas_escaneadas": 13,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0763",
+  "comuna": "linares",
+  "nombre_documento": "1228_anula_declaratorias_de_utilidad_publica_contenidas_en_el_plan_regulador_de",
+  "archivo": "linares_1228_anula_declaratorias_de_utilidad_publica_contenidas_en_el_plan_regulador_de___do-20150429.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 64,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_postergacion": 1
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.144.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nEdición de 40 páginas\r\nSantiago, Miércoles 29 de Abril de 2015\r\n\r\nSUMARIO\r\n\r\nMINISTERIO SECRETARÍA\r\nGENERAL DE GOBIERNO\r\n\r\nMINISTERIO DE VIVIENDA\r\nY URBANISMO\r\n\r\nMINISTERIO DEL\r\nMEDIO AMBIENTE\r\n\r\nNormas Generales\r\n\r\nSubsecretaría General de Gobierno\r\n\r\nSecretaría Regional Ministerial\r\nRegión Metropolitana\r\n\r\nServicio de Evaluación Ambiental\r\nRegión Metropolitana\r\n\r\nResolución número 1.204 exenta,\r\nde 2015.- Prorroga, por término que\r\nindica, postergación de permisos de\r\nsubdivisión, loteo o urbanización\r\npredial y de construcciones dispuesta\r\npor decreto Ord. Alc. N° 3/253 de\r\n2015, de la Ilustre Municipalidad de\r\nVitacura.......................................P.15\r\n\r\nExtracto de Estudio de Impacto\r\nAmbiental Proyecto “Centro de\r\nDistribución El Peñón”...............P.22\r\n\r\nPODER LEGISLATIVO\r\nMINISTERIO DE HACIENDA\r\nLey número 20.833.- Otorga\r\nfinanciamiento a la reconstrucción\r\nde la zona norte afectada por el\r\nsistema frontal de mal tiempo\r\nacaecido a partir del 25 de marzo\r\ndel año 2015..............................P.2\r\nPODER EJECUTIVO\r\nMINISTERIO DE\r\nDEFENSA NACIONAL\r\nDirección General de\r\nAeronáutica Civil\r\nResolución número 104 exenta, de\r\n2015.- Aprueba Segunda Edición del\r\nDAP 03 05 procedimiento a seguir por\r\nlas oficinas meteorológicas"
+ },
+ {
+  "id": "d0764",
+  "comuna": "linares",
+  "nombre_documento": "34_aprueba_plan_regulador_linares",
+  "archivo": "linares_34_aprueba_plan_regulador_linares__plan_regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 7,
+   "ocupacion_suelo": 9,
+   "predial_minima": 18,
+   "altura_maxima": 9,
+   "agrupamiento": 49,
+   "antejardin": 9,
+   "rasante": 11,
+   "distanciamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 26,
+   "ordenanza_local_txt": 4,
+   "articulado": 38,
+   "limite_urbano": 15
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z 1",
+   "Z 2",
+   "Z 3",
+   "Z 5",
+   "Z2",
+   "Z3",
+   "Z4",
+   "Z5",
+   "ZE",
+   "ZE-2",
+   "ZI",
+   "ZI-2"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nMiércoles 6 de Junio de 1990\r\n\r\nN° 33.688\r\n\r\nc) El Oficio Ord. N° 463, de 26 de Marzo de 1990, del Departamento de Desarrollo Urbano de esta Secretaría Ministerial, por el cual se solicita aprobar el Seccional en referencia;\r\nd) El D.S, N° 335, (V. y U.), de 30 de Diciembre de 1981, que se refiere a la\r\naplicabilidad de las normas en las áreas territoriales traspasadas desde una Comuna a\r\notra, en virtud de lo dispuesto en el D.F.L. N° 1-3260, de 1981;\r\ne) El nuevo Plan Regulador de Santiago, aprobado por Resolución N° 26, de 7\r\nde Diciembre de 1989, de esta Secretaría Ministerial, el cual queda circunscrito sólo\r\nal territorio de esa Comuna, quedando marginado de éste el territorio cedido a la Comuna de Estación Central.\r\nf) El Art. 46, inciso 2 o de la Ley General de Urbanismo y Construcciones, que\r\nautoriza estudiar y aprobar Planos Seccionales aun cuando no exista Plan Regulador\r\nComunal:\r\ng) Lo dispuesto en los Arts. 43, 44 y 46 de la Ley General de Urbanismo y Construcciones; y el Art. 550 de la Ordenanza General de Construcciones y Urbanización;\r\nh) Lo prescrito en la Ley N° 16.391, en el D.L N° 1.305 y las facultades que me\r\nconfieren los D.S. N° 397, de. 1976 y N° 34, de 1990, ambos de Vivienda y Urbanismo, dicto la siguiente,\r\nResolución:\r\nI o .— Apruébase el \"Plano Seccional Unidad Vecinal Portales\", de la Comuna\r\nde Estación Central, que destina a Jardín Infantil el área delimitada en el polígono\r\nA-B-C-D-A y establece usos"
+ },
+ {
+  "id": "d0765",
+  "comuna": "linares",
+  "nombre_documento": "92_aprueba_nuevo_plan_regulador_para_la_comuna_de_linares",
+  "archivo": "linares_92_aprueba_nuevo_plan_regulador_para_la_comuna_de_linares__plan_regulador_2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZM"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.924\r\n\r\n|\r\n\r\nLunes 4 de Diciembre de 2017\r\n\r\n|\r\n\r\nPágina 1 de 24\r\n\r\nNormas Generales\r\nCVE 1313016\r\n\r\nMINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA\r\nGobierno Regional VII Región del Maule\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE LINARES Y DEJA SIN\r\nEFECTO RESOLUCIONES QUE INDICA\r\n(Resolución)\r\nNúm. 92.- Talca, 25 de agosto de 2017.\r\nVistos:\r\n1. El artículo 111 de la Constitución Política del Estado, texto refundido, coordinado y\r\nsistematizado fijado por DS N° 100, de 17 de septiembre de 2005, Ministerio Secretaría General\r\nde la Presidencia;\r\n2. La ley Nº 19.175, de 1992, Orgánica Constitucional sobre Gobierno y Administración\r\nRegional, texto refundido, coordinado, sistematizado y actualizado fijado por DFL 1/19.175, de\r\n2005, Ministerio del Interior, Subsecretaría de Desarrollo Regional y Administrativo y sus\r\nmodificaciones;\r\n3. El DFL N° 458 del Ministerio de Vivienda y Urbanismo, publicado el 13 de abril de\r\n1976, que aprueba nueva Ley General de Urbanismo y Construcciones, y sus modificaciones, en\r\nespecial, lo establecido en su artículo 43;\r\n4. El decreto N° 47 del Ministerio de Vivienda y Urbanismo, publicado el 5 de junio de\r\n1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y\r\nConstrucciones, y sus modificaciones; en especial, lo establecido en su artículo 2.1.11;\r\n"
+ },
+ {
+  "id": "d0766",
+  "comuna": "linares",
+  "nombre_documento": "decreto_modificacion_ordenanza_local_plan_regulador_comunal_de_linares",
+  "archivo": "linares_decreto_modificacion_ordenanza_local_plan_regulador_comunal_de_linares__ORD_4_MODIF.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 22,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 2,
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 8,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "2019\r\nTEXTO REFUNDIDO\r\nORDENANZA LOCAL\r\n\r\nPLAN REGULADOR COMUNAL DE LINARES\r\n\r\nSECRETARIA COMUNAL DE PLANIFICACION\r\nILUSTRE MUNICIPALIDAD DE LINARES\r\n\r\n\fILUSTRE MUNICIPALIDAD DE LINARES\r\n\r\nCAPÍTULO I\r\nDISPOSICIONES GENERALES Y DEFINICIÓN DEL LÍMITE URBANO\r\nARTICULO 1.\r\n\r\nGENERALIDADES\r\n\r\nLa presente Ordenanza Local (OL), contiene las normas referentes al límite urbano, zonificación y usos de\r\nsuelo; normas urbanísticas de subdivisión predial, urbanización y edificación; y vialidad estructurante, que\r\nregirán dentro del área urbana del Plan Regulador Comunal de Linares, en adelante el Plan, de acuerdo a\r\nlo graficado en Plano PRCL, en adelante el Plano.\r\nARTICULO 2.\r\n\r\nAMBITO TERRITORIAL\r\n\r\nEl área urbana reglamentada por el presente Plan Regulador Comunal está definida por el límite urbano\r\nque corresponde a la línea poligonal cerrada identificada por los puntos A, B, C, D, E, F, G, H, I, J, K, L, M, N,\r\nO, P, Q y A; cuya descripción de puntos y tramos se describen en el Artículo 3 de esta OL.\r\nARTICULO 3.\r\n\r\nLÍMITE URBANO\r\n\r\nPUNTO\r\n\r\nDESCRIPCIÓN DEL PUNTO\r\n\r\nA\r\n\r\nIntersección de la paralela trazada a 250 m al\r\nponiente del eje de la Ruta 5 Sur, con el eje del\r\nCamino Los Leones.\r\n\r\nE: 261213,29\r\n\r\nTRAMO\r\n\r\nDESCRIPCIÓN DEL TRAMO\r\n\r\nN: 6033050.14\r\n\r\nB\r\nE: 261725.88\r\n\r\nIntersección del eje del Camino Los Leones, con la\r\nparalela trazada a 315 m al oriente del eje de la\r\nRuta 5 Sur.\r\n\r\nA-B\r\n\r\nLínea recta, que une los puntos A y B.\r\n\r\nIntersección de la paralela trazada a 315 m a"
+ },
+ {
+  "id": "d1152",
+  "comuna": "linares",
+  "nombre_documento": "71_modificacion_al_plan_regulador_linares",
+  "archivo": "linares_71_modificacion_al_plan_regulador_linares__mod_rengo.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1153",
+  "comuna": "linares",
+  "nombre_documento": "784_modifiquese_el_plan_regulador_comunal_de_linares_prcl_aprobado_por_resolucio",
+  "archivo": "linares_784_modifiquese_el_plan_regulador_comunal_de_linares_prcl_aprobado_por_resolucio__DIario_of_784.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1154",
+  "comuna": "linares",
+  "nombre_documento": "decreto_modifiquese_la_ordenanza_del_plan_regulador_comunal_de_linares",
+  "archivo": "linares_decreto_modifiquese_la_ordenanza_del_plan_regulador_comunal_de_linares__ORD_N_1962-2024.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1155",
+  "comuna": "linares",
+  "nombre_documento": "decreto_ordenanza_municipal_del_plan_regulador_comunal_de_linares",
+  "archivo": "linares_decreto_ordenanza_municipal_del_plan_regulador_comunal_de_linares__ORD_N_4.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 20,
+  "paginas_escaneadas": 20,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0377",
+  "comuna": "llanquihue",
+  "nombre_documento": "acta_0_reunion_solicitada_a_traves_de_la_plataforma_de_la_ley_del_lobby_plan_reg",
+  "archivo": "llanquihue_acta_0_reunion_solicitada_a_traves_de_la_plataforma_de_la_ley_del_lobby_plan_reg__5ec543b2-f4ab-4fc4-8c48-982a1deed5b2.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0378",
+  "comuna": "llanquihue",
+  "nombre_documento": "acta_17_seremia_de_vivienda_y_urbanismo_plan_regulador_comunal_los_pellines",
+  "archivo": "llanquihue_acta_17_seremia_de_vivienda_y_urbanismo_plan_regulador_comunal_los_pellines__97f1a927-bba5-49f4-9583-d3b414ce28b5.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 9,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0379",
+  "comuna": "llanquihue",
+  "nombre_documento": "acta_28_1_cuarto_taller_participativo_anteproyecto_actualizacion_plan_regulador",
+  "archivo": "llanquihue_acta_28_1_cuarto_taller_participativo_anteproyecto_actualizacion_plan_regulador___b7ab6547-e423-4217-9acd-86063fb5eb57.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 9,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0380",
+  "comuna": "llanquihue",
+  "nombre_documento": "acta_33_plan_regulador_comunal",
+  "archivo": "llanquihue_acta_33_plan_regulador_comunal__9ad3675b-c2f6-4aa3-92b4-c0f20ef6b1a2.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

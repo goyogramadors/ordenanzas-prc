@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_061cd79550",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2714_aprueba_plano_seccional_vial_no_2_de_varias_calles_del_plan_regulador_comun__Exportar.pdf",
+  "nombre": "la_serena_2714_aprueba_plano_seccional_vial_no_2_de_varias_calles_del_plan_regulador_comun__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:48:56",
+  "fin": "2026-07-14T15:51:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "SOLO VIALIDAD: Plano Seccional VIAL N2 (decreto 2714). Todo el articulado modifica el cuadro de Vias Estructurantes del art.78 (anchos, tramos, ejes). Las zonas ZC-2, ZC11-5, ZEX9, ZEX-17 se citan solo como referencia geografica, nunca para fijar norma. OJO: cada cuadro de vias esta AUSENTE del PDF ('NOTA: VER D.O. 27.07.2006, PAGINA 8/9'), pero como es vialidad no se pierde norma urbanistica. p4 solo cierre protocolar."
+  }
+}

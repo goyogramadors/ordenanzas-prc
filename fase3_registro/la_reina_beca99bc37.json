@@ -1,0 +1,37 @@
+{
+  "id": "la_reina_beca99bc37",
+  "comuna": "la_reina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_reina_1857_aprueba_enmiendas_al_plan_regulador_vigente__Exportar.pdf",
+  "nombre": "la_reina_1857_aprueba_enmiendas_al_plan_regulador_vigente__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:52:01",
+  "fin": "2026-07-15T07:55:26",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        9,
+        9
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 1857, aprueba enmiendas al PRC vigente de La Reina. 4 tablas-imagen independientes (verificado render p2-9): p3 Zona A-1 (predial min 500 m2, COS 0,4, CC 2, altura 18 m/6 pisos, densidad 400 hab/ha, agrupamiento aislado, distanciamiento 5 m, antejardin 5/3 m). p5 Zona B (predial 2.500 m2, COS 0,8, CC 6, altura 56 m, densidad 1.200 hab/ha). p7 Zona C1 (columnas Residencia/Equipamiento). p9 Zona C2 (COS 0,3/0,4, CC 2,4/2, altura 30/30 m). Cada tabla es independiente, no un rango continuo. p2,4,6,8 solo texto que anuncia la tabla (sin cuadro); p1 vistos; p10 firma."
+  }
+}

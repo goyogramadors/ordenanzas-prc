@@ -1,0 +1,20 @@
+{
+  "id": "rengo_f8a0e5768b",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_123_md_plano_seccional_no3_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20120218.pdf",
+  "nombre": "rengo_123_md_plano_seccional_no3_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20120218.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:15:58",
+  "fin": "2026-07-15T12:17:35",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 123/2012 (DO 18-02-2012), 'Aprueba Plan Regulador de la Comuna de Rengo' — en realidad solo aprueba el Plano Seccional N°3 que fija con exactitud el trazado de la Calle Nueva S (15m) sobre terrenos del Complejo Educacional Parque Oriente. Es exclusivamente una precisión de trazado vial, no fija parámetros de zona (COS/CC/altura/etc)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_10c90a6703",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.OFICIAL-DEC.8676-18DIC2017.pdf",
+  "nombre": "las_condes_D.OFICIAL-DEC.8676-18DIC2017.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:53:27",
+  "fin": "2026-07-14T15:55:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: Diario Oficial 27-dic-2017, decreto 8676 que modifica el decreto 1132-2015 DEROGANDO la afectacion a utilidad publica de una nomina de vias y tramos (colectoras de servicio y locales: Alcantara, Bocaccio, Fray Leon, Fray Jorge, Juan de Austria, La Piedad, Pdte Errazuriz, Valle Alegre) en el cuadro 'Vialidad Comunal' del art 45 de la Ordenanza Local. Es VIALIDAD y declaratorias de utilidad publica, NO normas urbanisticas por zona (no toca usos, COS, CC, altura ni predial minima). Texto completo leido."
+  }
+}

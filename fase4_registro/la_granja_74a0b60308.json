@@ -1,0 +1,37 @@
+{
+  "id": "la_granja_74a0b60308",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_granja_01_plano_regulador_comunal_de_1951__d70c648f-fcff-40ac-959d-201d4b183dfb.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Plano Regulador Comunal de La Granja 1951 (Estudio de Carlos Trupp W.), Plano Oficial de Urbanizacion escala 1:5.000. Archivo de 1 pagina (mapa). Leyenda 'Zonificacion' (esquina inferior derecha, requirio zoom/crop para legibilidad) contiene tabla real de SUPERFICIE PREDIAL MINIMA por zona: Zona 1 Centros Vecinales (sin dato), 2 Especial 250m2, 3 Residencial 400m2, 4 Residencial Economica 200m2, 5 Huertos Familiares 500m2, 6 Quintas Residenciales 800m2, 7 Parcelas 2000m2, 8 Agricolas 10.000m2, 9 Industrial Mixta (Industria 800m2/Habitacion 200m2), 10 Areas Verdes (sin dato). ALERTA: documento historico de 1951, anterior a la nomenclatura moderna de PRC (sin COS/CC/altura/agrupamiento/antejardin, solo predial minimo por zona); confianza MEDIA por ser un plano antiguo cuya vigencia legal actual debe verificarse.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:13:40",
+  "fin": "2026-07-15T14:19:56",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_granja\\la_granja_01_plano_1951_zonificacion.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Plano historico 1951, leyenda Zonificacion con superficie predial minima por zona (10 zonas), sin otros parametros (documento anterior a nomenclatura PRC moderna). Requirio crop+zoom a 300dpi porque la pagina es un mapa de 7790x3205pt (render completo a alta res agota memoria). Confianza MEDIA por antiguedad/vigencia a verificar, no por legibilidad (leyenda quedo nitida tras el crop). Verificado contra nota_fase3: coincide exactamente."
+  }
+}

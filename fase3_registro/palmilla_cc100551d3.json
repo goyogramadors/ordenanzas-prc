@@ -1,0 +1,20 @@
+{
+  "id": "palmilla_cc100551d3",
+  "comuna": "palmilla",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\palmilla_la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador_c__48489e8a-f4b1-4039-aa59-5c058b48a686.pdf",
+  "nombre": "palmilla_la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador_c__48489e8a-f4b1-4039-aa59-5c058b48a686.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:41:34",
+  "fin": "2026-07-15T08:44:22",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Oficio 220/2017, Palmilla, 2 pags. Carta respuesta a solicitud de transparencia (Ley 20.285) sobre estado del PRC; remite a Memorandum 1068/2017 no adjunto en este PDF para la respuesta sustantiva. No es documento del PRC ni transcribe normas. Verificado visualmente paginas 1-2 de 2."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "santiago_853d0f98bd",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_2450_establece_normas_urbanisticas_mediante_asignacion_de_zonas_del_plan_regulad__2450.pdf",
+  "nombre": "santiago_2450_establece_normas_urbanisticas_mediante_asignacion_de_zonas_del_plan_regulad__2450.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 34,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:55:06",
+  "fin": "2026-07-15T12:56:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto asigna zonas PRC existentes (ZONA A,B,C,D,E,F y subsectores) a predios/fajas cuya declaratoria de utilidad publica (calles, plazas, parques) quedo sin efecto 27/04/2015. Las 34 paginas son tabla continua de 4 columnas (Calle/Tramo-Predio/Lamina/Zona PRCS) que solo mapea direcciones a codigos de zona ya definidos en OTRO instrumento -NO contiene tabla de parametros urbanisticos (COS,CC,altura,densidad) por zona. Muestreadas pag1,4,7,10,13,16,19,22,25,28,31,34, mismo formato en todas."
+  }
+}

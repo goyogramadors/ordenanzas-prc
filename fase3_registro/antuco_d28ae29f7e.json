@@ -1,0 +1,20 @@
+{
+  "id": "antuco_d28ae29f7e",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_ordenanza_sobre_subvenciones_municipalies__Decreto_2_2023.pdf",
+  "nombre": "antuco_decreto_ordenanza_sobre_subvenciones_municipalies__Decreto_2_2023.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:08:53",
+  "fin": "2026-07-15T08:10:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza N02/23 sobre subvenciones municipales Antuco (30.01.2023, 5pp), deja sin efecto Decreto N201 de 2004. Texto corrido articulado (disposiciones generales, otorgamiento, convenios, rendicion cuentas). Sin cuadros de zonas/usos de suelo/coeficientes. Confirmado pag1,3,5."
+  }
+}

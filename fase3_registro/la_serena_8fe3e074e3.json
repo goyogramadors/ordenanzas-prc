@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_8fe3e074e3",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_89_ordenanza_municipal_sobre_proteccion_y_tenencia_responsable_de_animales_de_co__doc_34_89_21012020110241.pdf",
+  "nombre": "la_serena_89_ordenanza_municipal_sobre_proteccion_y_tenencia_responsable_de_animales_de_co__doc_34_89_21012020110241.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:23:59",
+  "fin": "2026-07-15T08:26:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto N89, Ordenanza Municipal sobre Proteccion y Tenencia Responsable de Animales de Compania. Confirmado pag1,4,7,10: capitulos sobre obligaciones tenedores, Centro Tenencia Responsable, educacion y fiscalizacion. Sin tablas de zonificacion."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "maullin_bedb10aa02",
+  "comuna": "maullin",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\maullin_43305_aprueba_plan_regulador_comunal_de_la_comuna_de_maullin__diariooficial_maullin.pdf",
+  "nombre": "maullin_43305_aprueba_plan_regulador_comunal_de_la_comuna_de_maullin__diariooficial_maullin.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:04:35",
+  "fin": "2026-07-14T21:08:35",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        10,
+        21
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "MAULLIN: Diario Oficial 43.305, promulga y transcribe el PRC completo (28p). TABLA-IMAGEN CONFIRMADA: pdftotext extrae casi nada de p10-21 (solo encabezados), pero al renderizar se ve texto nitido tipo tabla vectorial. p10 = leyenda de 15 zonas (Z1-Z7, ZAP, ZAV, ZE1, ZE2, ZPL de la macrozona urbana; AR1-AR3 de la macrozona restringida). p11-21 = cuadros completos por zona 'USOS DE SUELO PERMITIDOS-NO PERMITIDOS' + 'OTRAS NORMAS URBANISTICAS' (agrupamiento, COS, CC, altura, adosamiento, distanciamiento, antejardin, rasante, predial minima) para Z1(11-12), Z2(12), Z3(13-14), Z4(14), Z5(15), Z6(16), Z7(16-17), ZAP(17-18), ZAV(18-19), ZE1(19-20), ZE2(20), ZPL(21). Las zonas AR1-AR3 NO tienen norma propia: toman la de la zona base donde se emplazan (Art 9). Excluidas: p7-9 coordenadas del limite urbano, p22-23 inventario de inmuebles patrimoniales, p26-27 estandares de estacionamiento. OJO: una zona puede empezar al final de una pagina y su bloque de coeficientes caer en la siguiente ('Continua de pagina anterior'). 19 pags verificadas visualmente."
+  }
+}

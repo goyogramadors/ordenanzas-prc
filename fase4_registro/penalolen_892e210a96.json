@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_892e210a96",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-2.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Ficha 1 pagina Zona EQ-2: usos permitidos, densidad bruta max, superficie minima predial, %ocupacion suelo, coef.constructibilidad.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:26:07",
+  "fin": "2026-07-15T14:27:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_eq2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "EQ-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: solo uso Equipamiento, predial 10000m2, ocupacion 25%, CC 0,25. Sin altura maxima en esta ficha. Coincide con nota_fase3."
+  }
+}

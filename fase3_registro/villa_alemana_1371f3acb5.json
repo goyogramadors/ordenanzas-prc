@@ -1,0 +1,20 @@
+{
+  "id": "villa_alemana_1371f3acb5",
+  "comuna": "villa_alemana",
+  "ruta": "Ordenanzas ordenadas\\villa_alemana_946_actualiza_capitulo_v_de_la_ordenanza_local_del_plan_regulador__2017da946.pdf",
+  "nombre": "villa_alemana_946_actualiza_capitulo_v_de_la_ordenanza_local_del_plan_regulador__2017da946.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T13:00:17",
+  "fin": "2026-07-15T13:03:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 946/2017: ACTUALIZA Capitulo V Vialidad, Art.21 de la Ordenanza Local PRC Villa Alemana. Las 16 paginas son integramente 'Tabla Situacion Actualizada Vialidad Estructurante Comuna de Villa Alemana' (listado de vias: categoria, ancho entre lineas oficiales, tramos, observaciones). Tabla de vialidad, fuera de alcance por regla de exclusion (no es norma de zona: COS/CC/altura/densidad)."
+  }
+}

@@ -1,0 +1,904 @@
+[
+ {
+  "id": "d0297",
+  "comuna": "talcahuano",
+  "nombre_documento": "27372007_enmienda_plano_regulador_comunal_de_talcahuano_aprobado_por_da_2472006",
+  "archivo": "talcahuano_27372007_enmienda_plano_regulador_comunal_de_talcahuano_aprobado_por_da_2472006__do-20071204.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 36,
+  "paginas_escaneadas": 36,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0298",
+  "comuna": "talcahuano",
+  "nombre_documento": "acuerdo_516_se_aprueba_el_plano_de_detalle_del_plan_regulador_comunal_de_talcahu",
+  "archivo": "talcahuano_acuerdo_516_se_aprueba_el_plano_de_detalle_del_plan_regulador_comunal_de_talcahu__42c435b4-8aa8-4603-b073-191f62da5465.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0993",
+  "comuna": "talcahuano",
+  "nombre_documento": "247_promulga_plan_regulador_comunal_de_talcahuano",
+  "archivo": "talcahuano_247_promulga_plan_regulador_comunal_de_talcahuano__do-20060131.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 64,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 6,
+   "zonificacion": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 7,
+   "articulado": 17,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {
+   "txt_licitacion": 14
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 38.377\r\n\r\nDIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 31 de Enero de 2006\r\n\r\n(1641)\r\n\r\nPágina\r\n\r\nDE LA REPUBLICA DE CHILE\r\nSantiago, Martes 31 de Enero de 2006\r\nEdición de 64 Páginas\r\n\r\nNúm. 38.377.Año CXXVIII - Nº 320.108 (M.R.)\r\n\r\nSUMARIO\r\n\r\nMunicipalidad de\r\nTalcahuano\r\n\r\nNormas Generales\r\n\r\nDecreto alcaldicio número 247.Promúlgase el Plan Regulador Comunal de Talcahuano ............... P.6\r\n\r\nPODER EJECUTIVO\r\n\r\nMINISTERIO DE\r\nTRANSPORTES Y\r\nTELECOMUNICACIONES\r\n\r\nSubsecretaría de\r\nTransportes\r\nResolución número 151 exenta.Aprueba modificación a contratos\r\nde concesión de uso de vías de la\r\nciudad de Rancagua para la prestación de servicios urbanos de transporte público remunerado de pasajeros prestados con buses ........ P.3\r\n\r\nSecretaría Regional\r\nMinisterial\r\nRegión de Los Lagos\r\nResolución número 36 exenta.Autoriza calle San Martín a un uso\r\ndistinto al tránsito de vehículos comuna Puerto Montt .............. P.3\r\n\r\nOTRAS ENTIDADES\r\n\r\nBanco Central de Chile\r\nTipos de cambio y paridades de\r\nmonedas extranjeras para efectos\r\nque señala ................................. P.3\r\nCertificado ........................... P.3\r\nMUNICIPALIDADES\r\n\r\nMunicipalidad de\r\nLo Prado\r\nDecreto alcaldicio número 147.Aprueba bases y llama a Propuesta\r\nPública ‘‘Adquisición Uniformes\r\nFemeninos (Temporada Otoño-Invierno)’’ .................................... P.4\r\nDecreto alcaldicio número 149.Aprueba bases y llama a Propuesta\r\nPública ‘‘Instalación de Medidas de\r\nSeguridad"
+ },
+ {
+  "id": "d1310",
+  "comuna": "talcahuano",
+  "nombre_documento": "18652011_modificacion_plan_regulador_comunal_de_talcahuano",
+  "archivo": "talcahuano_18652011_modificacion_plan_regulador_comunal_de_talcahuano__do-20110708.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 72,
+  "paginas_escaneadas": 72,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1311",
+  "comuna": "talcahuano",
+  "nombre_documento": "7032010_modificacion_plan_regulador_comunal_de_talcahuano_modifica_da_n247_de_20",
+  "archivo": "talcahuano_7032010_modificacion_plan_regulador_comunal_de_talcahuano_modifica_da_n247_de_20__do-20100525.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 44,
+  "paginas_escaneadas": 43,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 25 de Mayo de 2010\r\n\r\nNº 39.668\r\n\r\nEdición de 44 páginas\r\n\r\nDE LA REPUBLICA DE CHILE\r\nSantiago, Martes 25 de Mayo de 2010\r\nEdición de 3 Cuerpos\r\n\r\nNúm. 39.668.Año CXXXIII - Nº 320.108 (M.R.)\r\nEjemplar del día\r\nAtrasado\r\n\r\n$375.- (IVA incluido)\r\n$785.- (IVA incluido)\r\n\r\nS U MAR I O\r\nNormas Generales\r\n\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nDecreto número 144.- Acepta renuncia voluntaria de don Carlos Alberto Gómez Loo al cargo de Secretario Regional Ministerial de Educación de la Región de Atacama ......P.2\r\n\r\nPODER EJECUTIVO\r\n\r\nMINISTERIO DEL\r\nINTERIOR\r\nSubsecretaría de\r\nDesarrollo Regional y\r\nAdministrativo\r\nDecreto número 172.- Acepta renuncia voluntaria de don Víctor Maldonado Roldán como Secretario de\r\nDesarrollo Regional y Administrativo\r\n................................................... P.2\r\nDecreto número 178.- Nombra\r\nSubsecretario de Desarrollo Regional\r\ny Administrativo a don Miguel Flores\r\nVargas ........................................ P.2\r\nMINISTERIO DE\r\nECONOMÍA, FOMENTO\r\nY TURISMO\r\nSubsecretaría de Economía y\r\nEmpresas de Menor Tamaño\r\nDecreto número 111.- Acepta renuncia voluntaria de don Pablo Andrés Casanueva al cargo de Secretario\r\nRegional Ministerial de Economía de\r\nla Región Metropolitana ............ P.2\r\nDecreto número 118.- Nombra\r\nSubsecretario de Economía y Empresas de Menor Tamaño a don Tomás\r\nOsvaldo Flores Jaña ................... P.2\r\n\r\nCuerpo I - 1\r\n\r\nDecreto número 146"
+ },
+ {
+  "id": "d0994",
+  "comuna": "taltal",
+  "nombre_documento": "232_deja_sin_efecto_declaratorias_publicas_del_plan_regulador_comunal_de_taltal",
+  "archivo": "taltal_232_deja_sin_efecto_declaratorias_publicas_del_plan_regulador_comunal_de_taltal___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 2,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 232 EXENTO, TALTAL (2015)\r\n\r\nDecreto 232 EXENTO\r\nDEJA SIN EFECTO DECLARATORIAS PÚBLICAS DEL PLAN REGULADOR\r\nCOMUNAL DE TALTAL DEL AÑO 2001\r\nMUNICIPALIDAD DE TALTAL\r\nPublicación: 28-ABR-2015 | Promulgación: 16-ABR-2015\r\nVersión: Única De : 28-ABR-2015\r\nUrl Corta: https://bcn.cl/3oxzf\r\n\r\nDEJA SIN EFECTO DECLARATORIAS PÚBLICAS DEL PLAN REGULADOR COMUNAL DE TALTAL DEL AÑO\r\n2001\r\nNúm. 232 exento.- Taltal, 16 de abril de 2015.\r\nVistos:\r\n1.- Las facultades legales conferidas en el D.F.L. Nº 1 de 2006, del Ministerio\r\ndel Interior, que fijó el texto refundido de la ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades, artículo 24º respecto a las funciones de la\r\nDirección de Obras Municipales.\r\n2.- Lo dispuesto en la ley Nº 19.880, sobre Bases de los Procedimientos\r\nAdministrativos.\r\n3.- El decreto con fuerza de ley 458, Ley General de Urbanismo y Construcciones,\r\npublicado en D.O. el 13 de abril de 1976.\r\n4.- La ley Nº 20.791, que modifica la Ley General de Urbanismo y Construcciones\r\nen materia de Afectaciones Públicas de los Planes Reguladores, publicada en D.O. con\r\nfecha 29 de octubre de 2014.\r\n5.- La circular DDU 279, Ord. Nº 654, Materia: Aplicación de las disposiciones\r\ncontenidas en el Artículo 59 y Transitorio de la Ley General de Urbanismo y\r\nConstrucciones en materia de Afectaciones de Utilidad Pública de los planes\r\nreguladores y seccionales. Deja sin efecto circulares DDU 143, DDU 215, DDU 229, DDU\r\n238, DDU-Específica Nº 03/2007, DDU-Específica Nº 04/2007"
+ },
+ {
+  "id": "d0995",
+  "comuna": "teno",
+  "nombre_documento": "52_promulga_plan_regulador_comunal_de_teno_y_deja_sin_efecto_resolucion_que_indi",
+  "archivo": "teno_52_promulga_plan_regulador_comunal_de_teno_y_deja_sin_efecto_resolucion_que_indi__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 34,
+  "paginas_escaneadas": 13,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolución 52 (2017)\r\n\r\nResolución 52\r\nPROMULGA PLAN REGULADOR COMUNAL DE TENO Y DEJA SIN EFECTO\r\nRESOLUCIÓN QUE INDICA\r\nGOBIERNO REGIONAL DEL MAULE\r\nFecha Publicación: 04-OCT-2017 | Fecha Promulgación: 15-MAY-2017\r\nTipo Versión: Única De : 04-OCT-2017\r\nUrl Corta: https://bcn.cl/3mwgx\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE TENO Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA\r\nNúm. 52.- Talca, 15 de mayo de 2017.\r\nVistos:\r\n1. El artículo 111 de la Constitución Política del Estado, texto refundido,\r\ncoordinado y sistematizado fijado por DS N° 100 de 17 de septiembre de 2005,\r\nMinisterio Secretaría General de la Presidencia;\r\n2. La Ley N° 19.175, de 1992, Orgánica Constitucional sobre Gobierno y\r\nAdministración Regional, texto refundido, coordinado, sistematizado y actualizado\r\nfijado por DFL 1/19.175 de 2005, Ministerio del Interior, Subsecretaría de\r\nDesarrollo Regional y Administrativo y sus modificaciones;\r\n3. El DFL N° 458 del Ministerio de Vivienda y Urbanismo, publicado el 13 de\r\nabril de 1976, que aprueba nueva Ley General de Urbanismo y Construcciones, y sus\r\nmodificaciones, en especial, lo establecido en su artículo 43;\r\n4. El decreto N° 47 del Ministerio de Vivienda y Urbanismo, publicado el 5 de\r\njunio de 1992, que fija nuevo texto de la Ordenanza General de la Ley General de\r\nUrbanismo y Construcciones, y sus modificaciones; en especial, lo establecido en su\r\nartículo 2.1.11;\r\n5. La Ley N° 19.300 de 1994 sobre Bases Generales del Medio Ambiente y sus\r\nmodificaciones, en espe"
+ },
+ {
+  "id": "d0996",
+  "comuna": "tirua",
+  "nombre_documento": "661_promulga_enmienda_no_1_al_plan_regulador_comunal_de_tirua",
+  "archivo": "tirua_661_promulga_enmienda_no_1_al_plan_regulador_comunal_de_tirua__1224168.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "normas_urbanisticas": 2,
+   "ordenanza_local_txt": 3,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZEQ 3",
+   "ZEQ3",
+   "ZH 3",
+   "ZH3",
+   "ZONA"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.777\r\n\r\n|\r\n\r\nMiércoles 7 de Junio de 2017\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1224168\r\n\r\nMUNICIPALIDAD DE TIRÚA\r\n\r\nPROMULGA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE TIRÚA\r\nNúm. 661 exento.- Tirúa, 22 de mayo de 2017.\r\nVistos:\r\n1. Las facultades que me confiere la ley Nº 18.695, de 1988, Orgánica Constitucional de\r\nMunicipalidades, y sus modificaciones posteriores; lo dispuesto en los artículos 43 y 45 del DFL\r\nNº 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, y los artículos 2.1.11 y\r\n2.1.13 del DS Nº 75 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones, y\r\nsus modificaciones posteriores.\r\nConsiderando:\r\n1. Decreto alcaldicio Nº 21, de fecha 5 de enero de 2012, que aprueba Plan Regulador\r\nComunal de Tirúa para las localidades de Tirúa y Quídico, publicado en el Diario Oficial de\r\nfecha 29 de agosto de 2012 en el contexto de la Ley de Catástrofes.\r\n2. La necesidad de enmendar el Plan Regulador Comunal de Tirúa respecto de la exigencia\r\nde antejardines según consta en Acta de Sesión Ordinaria Nº130, de 11 de noviembre de 2016,\r\ndel Concejo Municipal, en la cual se acordó iniciar los trámites para la Enmienda Nº 1 al Plan\r\nRegulador Comunal de Tirúa, según certificado sin número emitido por la Secretaria Municipal\r\n(S), Sra. Maribel Molina Obreque, con fe"
+ },
+ {
+  "id": "d0299",
+  "comuna": "tocopilla",
+  "nombre_documento": "la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador",
+  "archivo": "tocopilla__la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador___f4337ed5-4afb-4f2b-a0e7-c68ef2d77423.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0300",
+  "comuna": "tocopilla",
+  "nombre_documento": "estimados_junto_con_saludarlos_quiero_que_nos_envie_el_plan_regulador_de_la_comu",
+  "archivo": "tocopilla_estimados_junto_con_saludarlos_quiero_que_nos_envie_el_plan_regulador_de_la_comu__81a6dfc1-523c-43ef-b44b-b649b59047cf.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0301",
+  "comuna": "tocopilla",
+  "nombre_documento": "solicito_el_plan_regulador_comunal_actualizado_de_la_comuna_de_tocopilla",
+  "archivo": "tocopilla_solicito_el_plan_regulador_comunal_actualizado_de_la_comuna_de_tocopilla__7368d17a-3e2c-4dc5-a339-8e5ecf10154c.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_solicitud": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad de Tocopilla\r\n\r\nCarta / Nº 24\r\nANT. : Solicitud de acceso a la información Nº MU322T0000300 , de fecha 29/11/2016\r\nMAT. : Deriva solicitud de información y comunica al solicitante en conformidad al artículo 13\r\nde la Ley de Transparencia\r\nTOCOPILLA, 15/12/2016\r\n\r\nA : SR/A. Jose Manuel Gacitua\r\nÓRGANO DERIVADO : Subsecretaría de Vivienda y Urbanismo (MINVU)\r\n\r\nCon fecha 29/11/2016 , se ha recibido la solicitud de información pública Nº MU322T0000300, del siguiente tenor literal:\r\nSolicito el plan regulador comunal actualizado de la comuna de tocopilla, cuya copia se adjunta.\r\nDado que, de una revisión preliminar, se ha podido determinar que se trata de una materia que de acuerdo al\r\nOrdenamiento Jurídico debiese conocer vuestro servicio, debido a que , este municipio no cuenta con la información\r\nrequerida y, a través de la presente efectuamos la derivación a que alude el artículo 13 de la Ley de Transparencia de la\r\nFunción Pública y de Acceso a la información de la Administración del Estado.\r\nA su vez y por este mismo acto, procedemos a notificar la presente derivación al solicitante de información, poniendo en\r\nsu conocimiento que el encargado de transparencia del órgano derivado es Monica Zuñiga Opazo.\r\nSaluda atentamente\r\n\r\nADJ: Copia integra de la solicitud Nº MU322T0000300, de 29 de NOVIEMBRE, de 2016, efectuada por don/ña Jose\r\nManuel Gacitua\r\nDISTRIBUCIÓN:\r\n1. Sr/a. Monica Zuñiga Opazo\r\n2. Solicitante\r\n3. Enlace de Transparencia del órgano derivado\r\n4. A"
+ },
+ {
+  "id": "d0997",
+  "comuna": "tocopilla",
+  "nombre_documento": "76_aprueba_mejoramiento_acustico_del_eje_central_barrera_de_mitigacion_y_cambios",
+  "archivo": "tocopilla_76_aprueba_mejoramiento_acustico_del_eje_central_barrera_de_mitigacion_y_cambios__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 5,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 76, TOCOPILLA (2005)\r\n\r\nDecreto 76\r\nAPRUEBA MEJORAMIENTO ACUSTICO DEL EJE CENTRAL-BARRERA DE\r\nMITIGACION Y CAMBIOS DE USO DE SUELO, DEL PLAN REGULADOR\r\nMUNICIPALIDAD DE TOCOPILLA\r\nPublicación: 26-ENE-2006 | Promulgación: 23-DIC-2005\r\nVersión: Única De : 26-ENE-2006\r\nUrl Corta: https://bcn.cl/3nrat\r\n\r\nAPRUEBA \"MEJORAMIENTO ACUSTICO DEL EJE CENTRAL-BARRERA\r\nDE MITIGACION Y CAMBIOS DE USO DE SUELO\", DEL PLAN\r\nREGULADOR\r\nTocopilla, 23 de diciembre de 2005.- Esta Alcaldía decretó hoy lo siguiente:\r\nNúm. 76.- Vistos y teniendo presente:\r\na.La necesidad de formular un Plan Seccional Modificatorio del Plan Regulador de\r\nTocopilla.\r\nb.Que la I. Municipalidad de Tocopilla, en el tratamiento del denominado\r\nSeccional, \"Mejoramiento Acústico del eje Central-Barrera de Mitigación y Cambio de\r\nUso de Suelo\", ha dado estricto cumplimiento a lo dispuesto en el artículo 2.1.11,\r\nde la Ley de Urbanismo y Construcción.\r\nc.Que, mediante los oficios municipales que se señalan:\r\n.\r\nOficio Nº 550/2003, del 27/12/03\r\n.\r\nOficio Nº 332/2005, del 18/06/2005, ha sido presentada la documentación\r\npertinente, incluyendo la respectiva declaración de Impacto Ambiental, a la\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo II Región.\r\nd.Informe favorable a la aprobación, sobre \"Formulación Seccional\r\nModificatorio Plan Regulador de Tocopilla\" \"Mejoramiento Acústico del Eje\r\nCentral-Barrera de Mitigación y Cambio de Uso de Suelo\" sector Avda. Leonardo\r\nGuzmán, calle Arturo Prat y Avda. Tenient"
+ },
+ {
+  "id": "d0998",
+  "comuna": "tolten",
+  "nombre_documento": "1305_aprueba_proyecto_parcial_plan_regulador_comunal_de_tolten_localidades_de_qu",
+  "archivo": "tolten_1305_aprueba_proyecto_parcial_plan_regulador_comunal_de_tolten_localidades_de_qu__download.aspx.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "antejardin": 3,
+   "normas_urbanisticas": 7,
+   "zonificacion": 2,
+   "usos_de_suelo": 14,
+   "ordenanza_local_txt": 10,
+   "articulado": 28,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-1",
+   "Z-2",
+   "Z-3",
+   "ZAV",
+   "ZE-1",
+   "ZE-2",
+   "ZM-1",
+   "ZONA"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (agrupamiento, antejardin, normas_urbanisticas, zonificacion)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 8 de Septiembre de 2012\r\n\r\nCuerpo I - 4\r\n\r\nNº 40.358\r\n\r\nSUBSECRETARÍA DE PREVISIÓN SOCIAL\r\n\r\na escalas 1:2.500 y 1:1.000, respectivamente, documentos que por el presente\r\ndecreto se aprueban.\r\nArtículo 2º: Apruébase la Ordenanza Local del Proyecto Parcial del Plan\r\nRegulador Comunal de Toltén, localidades de Queule y Villa O’Higgins, cuyo texto\r\níntegro es el siguiente:\r\n\r\nInstituto de Previsión Social\r\n\r\nCAPÍTULO I\r\n\r\nNÓMINA DE RESOLUCIONES DE LA DIRECCIÓN NACIONAL\r\nDEL IPS CORRESPONDIENTE AL MES AGOSTO 2012\r\n\r\nDisposiciones Generales\r\n\r\nMinisterio del Trabajo y Previsión Social\r\n\r\nPara la publicación que exige la letra b) del artículo 48° de la Ley N° 19.880,\r\nsobre Bases de los Procedimientos Administrativos que rigen los Actos de los\r\nórganos de la Administración del Estado, se informa que, en el período\r\ncomprendido entre el 1 de agosto de 2012 y el 31 de agosto de 2012, la\r\nDirección Nacional del Instituto de Previsión Social ha dictado las siguientes\r\nresoluciones que interesan a un número indeterminado de personas:\r\nNÓMINA DE RESOLUCIONES DE TRABAJO PESADO\r\n\r\nArtículo 1º: El área urbana reglamentada en el presente Proyecto Parcial de\r\nPlan Regulador Comunal de Toltén, está definido por los límites urbanos que\r\ncorresponde a las líneas poligonales cerradas, G-H-I-J-K-L-M-N-O-P-Q-R-S-T-UV-W-X-Y-Z-Z’-G para la localidad de Queule y A-B-C-D-E-F-A para la localidad\r\nde Villa O’Higgins, de acuerdo a lo graficado en los planos "
+ },
+ {
+  "id": "d0999",
+  "comuna": "tolten",
+  "nombre_documento": "44444_promulgase_el_plan_regulador_comunal_de_tolten_localidades_de_nueva_tolten",
+  "archivo": "tolten_44444_promulgase_el_plan_regulador_comunal_de_tolten_localidades_de_nueva_tolten__download.aspx.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 2,
+   "predial_minima": 1,
+   "zonificacion": 5,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 2,
+   "articulado": 5,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM3",
+   "ZM4"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (ocupacion_suelo, predial_minima, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.444\r\n\r\nViernes 8 de Mayo de 2026\r\n\r\nPágina 1 de 20\r\n\r\nNormas Generales\r\nCVE 2803330\r\nGOBIERNO REGIONAL DE LA ARAUCANÍA\r\nPROMÚLGASE EL PLAN REGULADOR COMUNAL DE TOLTÉN, LOCALIDADES DE\r\nNUEVA TOLTÉN Y VILLA LOS BOLDOS\r\n(Resolución)\r\nNúm. 38.- Temuco, 29 de mayo de 2025.\r\nVistos:\r\n1. La ley N° 21.722 que aprueba el Presupuesto del Sector Público para el año 2025;\r\n2. La Memoria Explicativa Plan Regulador Comunal de Toltén, Localidades de Nueva Toltén y\r\nVilla Los Boldos;\r\n3. El Estudio de Factibilidad Sanitaria Plan Regulador Comunal de Toltén, Localidades de Nueva\r\nToltén y Villa Los Boldos;\r\n4. La Ordenanza Local Plan Regulador Comunal de Toltén, Localidades de Nueva Toltén y Villa\r\nLos Boldos;\r\n5. Los Planos Plan Regulador Comunal de Toltén, Localidades de Nueva Toltén y Villa Los Boldos;\r\n6. El oficio Ord. N° 102, de fecha 06.01.2012, de la Superintendenta de Servicios Sanitarios\r\ndirigido al Sr. Alcalde de la Municipalidad de Toltén;\r\n7. El oficio Ord. N° 3503, de fecha 26.09.2012, de la Superintendenta de Servicios Sanitarios\r\ndirigido al Sr. Alcalde de la Municipalidad de Toltén;\r\n8. El oficio Ord. N° 5288, de fecha 05.10.2012, del Secretario Regional Ministerial de Agricultura\r\ndirigido al Sr. Alcalde de la Municipalidad de Toltén;\r\n9. Los oficios N°s. 1327, 1328, 1329, 1330, 1331, 1332, 1333, 1334, 1335 y 1336, todos del 10\r\nde septiembre del año 2013, enviados por el Sr. Alcalde de la M"
+ },
+ {
+  "id": "d1000",
+  "comuna": "tolten",
+  "nombre_documento": "ordenanza_la_presente_ordenanza_local_contiene_las_normas_referentes_a_limite_ur",
+  "archivo": "tolten_ordenanza_la_presente_ordenanza_local_contiene_las_normas_referentes_a_limite_ur__download.aspx.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 14,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 5,
+   "antejardin": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 10,
+   "articulado": 10,
+   "limite_urbano": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZE",
+   "ZM2",
+   "ZM3",
+   "ZM4",
+   "ZMC",
+   "ZONA"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nPlan Regulador Comunal de Toltén. Localidades de Nueva Toltén y Villa Boldos ORDENANZA LOCAL\r\n\r\nORDENANZA LOCAL\r\nPLAN REGULADOR COMUNAL DE TOLTEN\r\nLocalidades de Nueva Toltén y Villa los Boldos.\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\nArtículo 1. Generalidades\r\nLa presente Ordenanza Local contiene las normas referentes a límite urbano, zonificación,\r\nusos de suelo, condiciones de subdivisión predial, edificación, urbanización y vialidad que regirán\r\ndentro del área urbana de la comuna de Toltén. La presente Ordenanza Local, junto con los planos\r\nNueva Toltén PRC 09-118-1, Villa los Boldos PRC 09-118-2, todos a escala 1:2.500, la Memoria\r\nExplicativa y el Estudio de Factibilidad de Agua Potable y Alcantarillado, constituyen un solo cuerpo\r\nnormativo.\r\n\r\nCAPITULO II\r\nDESCRIPCIÓN DEL LÍMITE URBANO DEL PLAN REGULADOR COMUNAL\r\nArtículo 2. Limite Urbano\r\nEl límite urbano del Plan, se define de conformidad con la descripción de puntos y tramos que\r\nse detalla a continuación:\r\nLOCALIDAD DE NUEVA TOLTEN PRC 09118-1\r\nPUNTO\r\n\r\nPunto\r\n\r\nCoord. UTM\r\nX\r\nY\r\n\r\n1\r\n\r\n657755,15\r\n\r\n5661644,60\r\n\r\n2\r\n\r\n657938,97\r\n\r\n5662287,02\r\n\r\nDescripción del Punto\r\nPunto de intersección entre la\r\nribera oriente del Río Toltén y\r\nla proyección trazada paralela\r\n139mt al sur del eje de calle\r\nWashington.\r\nPunto de intersección entre la\r\nribera oriente del Rio Toltén y\r\nla línea imaginaria\r\ntrazada\r\nparalela 15mt al poniente del\r\neje de la Ruta Costera S – 70,\r\nsituada entre limite urbano\r\nNorte y limite urbano"
+ },
+ {
+  "id": "d0302",
+  "comuna": "tucapel",
+  "nombre_documento": "decreto_1286_designa_nuevos_funcionarios_como_contraparte_tecnica_plan_regulador",
+  "archivo": "tucapel_decreto_1286_designa_nuevos_funcionarios_como_contraparte_tecnica_plan_regulador__1685640978.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0303",
+  "comuna": "tucapel",
+  "nombre_documento": "decreto_1442_designese_integrante_en_comision_para_contraparte_tecnica_plan_regu",
+  "archivo": "tucapel_decreto_1442_designese_integrante_en_comision_para_contraparte_tecnica_plan_regu__1623165537.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0304",
+  "comuna": "tucapel",
+  "nombre_documento": "decreto_2060_desgna_nueva_funcionaria_como_contraparte_tecnica_plan_regulador_co",
+  "archivo": "tucapel_decreto_2060_desgna_nueva_funcionaria_como_contraparte_tecnica_plan_regulador_co__1693490355.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0305",
+  "comuna": "tucapel",
+  "nombre_documento": "decreto_2701_designese_integrantes_para_contraparte_tecnica_estudio_plan_regulad",
+  "archivo": "tucapel_decreto_2701_designese_integrantes_para_contraparte_tecnica_estudio_plan_regulad__1640005619.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0306",
+  "comuna": "tucapel",
+  "nombre_documento": "decreto_799_autoriza_trato_directo_y_regulariza_contratacion_de_servicio_de_publ",
+  "archivo": "tucapel_decreto_799_autoriza_trato_directo_y_regulariza_contratacion_de_servicio_de_publ__1679923896.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0307",
+  "comuna": "tucapel",
+  "nombre_documento": "decreto_904_autoriza_trato_directo_servicio_de_publicacion_en_diario_local_proce",
+  "archivo": "tucapel_decreto_904_autoriza_trato_directo_servicio_de_publicacion_en_diario_local_proce__1683304638.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0308",
+  "comuna": "valdivia",
+  "nombre_documento": "1202331_inicio_procedimiento_eae_modificaciones_puntuales_al_plan_regulador_comu",
+  "archivo": "valdivia_1202331_inicio_procedimiento_eae_modificaciones_puntuales_al_plan_regulador_comu__Pub12042017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 3,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 41.733\r\n\r\n|\r\n\r\nMiércoles 12 de Abril de 2017\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1202331\r\n\r\nMUNICIPALIDAD DE VALDIVIA\r\n\r\nINICIO PROCEDIMIENTO EAE\r\nMODIFICACIONES PUNTUALES PRC DE VALDIVIA VIGENTE\r\nLa Ilustre Municipalidad de Valdivia y su Secretaría de Planificación, informan a la\r\nciudadanía interesada y público en general, que con fecha 7 de abril de este año 2017 se\r\nha dado inicio al proceso de Evaluación Ambiental Estratégica (EAE), a través de oficio\r\nconductor N° 634 a la Seremi de Medio Ambiente (MA) de la Región de Los Ríos, con el\r\nobjetivo de incorporar las consideraciones ambientales de desarrollo sustentable que\r\nfundamentan las siguientes modificaciones al PRC de Valdivia vigente.\r\ni) Modificación población Los Jazmines: Cambio de uso de suelo para permitir el uso\r\nresidencial.\r\nii) Modificación población Arturo Prat: Cambio de uso de suelo para permitir el uso\r\nresidencial.\r\nLos antecedentes que justifican las modificaciones al PRC de Valdivia y su sometimiento\r\na EAE son los siguientes:\r\nI. Memoria Explicativa:\r\n• Objetivo: \"Contribuir a reducir el déficit de vivienda en la comuna de Valdivia,\r\nhabilitando suelo residencial en zonas urbanas ya consolidadas.\".\r\n• Justificación: Regularizar viviendas asociadas a proyectos de radicación de ex\r\ncampamentos Los Jazmines y Arturo Prat.\r\n• Car"
+ },
+ {
+  "id": "d0309",
+  "comuna": "valdivia",
+  "nombre_documento": "4151_aprueba_el_acuerdo_n229_de_fecha_23_de_mayo_de_2017_del_concejo_municipal_d",
+  "archivo": "valdivia_4151_aprueba_el_acuerdo_n229_de_fecha_23_de_mayo_de_2017_del_concejo_municipal_d__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZB-5",
+   "ZONA"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 4151 EXENTO, VALDIVIA (2017)\r\n\r\nDecreto 4151 EXENTO\r\nAPRUEBA ACUERDO N° 229, DE 2017, ENMIENDA DEL PLAN REGULADOR\r\nCOMUNAL\r\nMUNICIPALIDAD DE VALDIVIA\r\nFecha Publicación: 02-NOV-2017 | Fecha Promulgación: 25-MAY-2017\r\nTipo Versión: Única De : 02-NOV-2017\r\nUrl Corta: https://bcn.cl/3mys9\r\n\r\nAPRUEBA ACUERDO N° 229, DE 2017, ENMIENDA DEL PLAN REGULADOR COMUNAL\r\nNúm. 4.151 exento.- Valdivia, 25 de mayo de 2017.\r\nVistos:\r\nAcuerdo Nº 229 de fecha 23 de mayo de 2017 del Concejo Municipal de Valdivia.\r\nMis atribuciones contenidas en la Ley 18.695, Orgánica Constitucional de\r\nMunicipalidades.\r\nDecreto:\r\n1.- Apruébase el acuerdo Nº 229 de fecha 23 de mayo de 2017 del Concejo\r\nMunicipal de Valdivia, que aprueba la Enmienda del Plan Regulador Comunal (PRC),\r\nvigente de Valdivia, Terreno Municipal Barrios Bajos que incorpora Equipamiento de la\r\nclase Salud para la Zona ZB-5, en el terreno municipal comprendido por las calles:\r\nGuillermo Frick al Norte, Domeyko al Sur, Clemente Escobar al Oriente y Goycolea al\r\nPoniente.\r\nZONA ZB-5 (EQUIPAMIENTO)\r\n\r\nLo anterior, de acuerdo a lo expuesto por el Asesor Urbanista, don Álvaro\r\nPalacios Klagges, en sesión extraordinaria del Concejo Municipal de fecha 23 de mayo\r\nde 2017.\r\n2.- Remítase copia a las unidades municipales pertinentes para los fines\r\nlegales que procedan.\r\nAnótese, comuníquese a quienes corresponda y archívense los antecedentes.Omar Sabat Guzmán, Alcalde.- Nino Bernucci Díaz, Secretario Municipal.\r\n\r\nBiblioteca del Congreso Na"
+ },
+ {
+  "id": "d1001",
+  "comuna": "valdivia",
+  "nombre_documento": "10692_aplicacion_articulo_n117_ley_general_de_urbanismo_y_construcciones_en_virt",
+  "archivo": "valdivia_10692_aplicacion_articulo_n117_ley_general_de_urbanismo_y_construcciones_en_virt__Decreto-10692-EXENTO_24-DIC-2019.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 8
+  },
+  "senales_tramite": {
+   "txt_postergacion": 2,
+   "txt_licitacion": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 10692 EXENTO, VALDIVIA (2019)\r\n\r\nDecreto 10692 EXENTO\r\nAPLICACIÓN ARTICULO Nº 117 LEY GENERAL DE URBANISMO Y\r\nCONSTRUCCIONES, EN VIRTUD DE PROCESO DE ELABORACIÓN DE\r\nMODIFICACIONES PUNTUALES PLAN REGULADOR COMUNAL DE VALDIVIA\r\nMUNICIPALIDAD DE VALDIVIA\r\nPublicación: 24-DIC-2019 | Promulgación: 25-NOV-2019\r\nVersión: Última Versión De : 18-MAR-2020\r\nUltima Modificación: 18-MAR-2020 Resolución 82 EXENTA\r\nUrl Corta: https://bcn.cl/3m9fu\r\n\r\nAPLICACIÓN ARTICULO Nº 117 LEY GENERAL DE URBANISMO Y\r\nCONSTRUCCIONES, EN VIRTUD DE PROCESO DE ELABORACIÓN DE\r\nMODIFICACIONES PUNTUALES PLAN REGULADOR COMUNAL DE VALDIVIA\r\nNúm. 10.692 exento.- Valdivia, 25 de noviembre de\r\n2019.\r\nVistos:\r\n1. Ley Orgánica Constitucional de Bases Generales de\r\nla Administración del Estado, Nº 18.575 del 13 de\r\ndiciembre de 2000.\r\n2. Ley 19.880, que estable las Bases de los\r\nProcedimientos Administrativos que rigen los Actos de los\r\nÓrganos de la Administración del Estado.\r\n3. Ley Orgánica Constitucional de Municipalidades, Nº\r\n18.695 del 26 de julio de 2006.\r\n4. Ley de Bases Generales del Medio Ambiente Nº\r\n19.300, del 9 de marzo de 1994, del Ministerio Secretaría\r\nGeneral de la Presidencia y sus modificaciones.\r\n5. Decreto Nº 32, del 17 de agosto de 2015, que\r\naprueba Reglamento para la Evaluación Ambiental\r\nEstratégica, del Ministerio del Medio Ambiente.\r\n6. DFL Nº 458, del 18 de diciembre de 1975, del\r\nMinisterio de Vivienda y Urbanismo, Ley General de Urbanismo\r\ny Construcción, en específico su artícu"
+ },
+ {
+  "id": "d1002",
+  "comuna": "valdivia",
+  "nombre_documento": "2793_enmienda_plan_regulador_vigente_de_la_comuna_de_valdivia_sector_parke_krham",
+  "archivo": "valdivia_2793_enmienda_plan_regulador_vigente_de_la_comuna_de_valdivia_sector_parke_krham__DTO-2793-EXENTO_05-JUN-2008.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "ocupacion_suelo": 2,
+   "agrupamiento": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZK"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2793 EXENTO, VALDIVIA (2008)\r\n\r\nDecreto 2793 EXENTO\r\nENMIENDA PLAN REGULADOR VIGENTE DE LA COMUNA DE VALDIVIA:\r\nSECCIONAL PARQUE KRHAMER\r\nMUNICIPALIDAD DE VALDIVIA\r\nPublicación: 05-JUN-2008 | Promulgación: 14-MAY-2008\r\nVersión: Única De : 05-JUN-2008\r\nUrl Corta: https://bcn.cl/3u8li\r\n\r\nENMIENDA PLAN REGULADOR VIGENTE DE LA COMUNA DE VALDIVIA: SECCIONAL PARQUE KRHAMER\r\nNúm. 2.793 exento.- Valdivia, 14 de mayo de 2008. Vistos:\r\n1.- El Plan Regulador Vigente de la comuna de Valdivia del año 1988 y sus\r\nmodificaciones.\r\n2.- La necesidad de mantener actualizado y complementar el Instrumento de\r\nPlanificación vigente, con el objeto de perfeccionar algunas normas de ciertos\r\nsectores de Valdivia.\r\n3.- Lo dispuesto en el Art. Nº 45 respecto al Art.\r\nNº 43 y siguientes de la Ley General de Urbanismo y Construcciones y en los\r\nArtículos 2.1.13 y 2.1.11 de la Ordenanza General de Urbanismo y Construcciones\r\ndonde se fijan los procedimientos para la tramitación y aprobación de las Enmiendas\r\nal Instrumento de Planificación Territorial.\r\n4.- Circular Ord. Nº 132, que corresponde a la DDU 129, que fija el\r\nprocedimiento de aprobación de Enmiendas: Publicación del decreto alcaldicio, el\r\nAcuerdo del Concejo Municipal y la Ordenanza Local respectiva en el Diario Oficial.\r\n5.- Los Documentos, Informes, decretos, Publicaciones, Certificados y otros que\r\ncomponen el expediente de la Enmienda al Plan Regulador Vigente Nº 1-2007 en el\r\nsector de Francia con General Montesinos respectos de"
+ },
+ {
+  "id": "d1003",
+  "comuna": "valdivia",
+  "nombre_documento": "ordenanza_179_ordenanza_plan_regulador_comunal",
+  "archivo": "valdivia_ordenanza_179_ordenanza_plan_regulador_comunal__Ord_prc88.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 20,
+   "predial_minima": 37,
+   "altura_maxima": 20,
+   "densidad": 1,
+   "agrupamiento": 50,
+   "antejardin": 16,
+   "rasante": 24,
+   "adosamiento": 4,
+   "distanciamiento": 3,
+   "normas_urbanisticas": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 52,
+   "ordenanza_local_txt": 3,
+   "articulado": 48,
+   "limite_urbano": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-1",
+   "ZONA",
+   "ZR-1",
+   "ZR-2",
+   "ZR-3",
+   "ZR-4",
+   "ZU-1",
+   "ZU-5",
+   "ZU-6",
+   "ZU-7"
+  ],
+  "puntaje_normativo": 17,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL D E LA REPÚBLICA DE CHILE\r\nJueves 3 de Noviembre de 1988\r\n\r\nN° 33.211\r\nreglamentaria contraria al presente Decreto Supremo.\r\nAnótese, tómese razón y\r\npublíquese en el Diario Oficial\r\ny en los Boletines Oficiales del\r\nEjército, Armada y Fuerza\r\nAérea.—\r\nAUGUSTO\r\nFINOCHET UGARTE, Capitán General, Presidente de la\r\nRepública.— Patricio Carvajal\r\nPrado, Ministro de Defensa Nacional.\r\nLo que se transcribe para su\r\nconocimiento.— Ricardo Miranda Garbarini, Teniente Coronel, Subsecretario de Guerra\r\nsubrogante.\r\n\r\nMinisterio de Transportes\r\ny Telecomunicaciones\r\nSUBSECRETARÍA DE\r\nTRANSPORTES\r\nEXTRACTO D E\r\nRESOLUCIÓN\r\nPor resolución\r\nexenta\r\nVo 1.259 de 17 de octubre de\r\n1988, del Ministerio de Transportes y Telecomunicaciones,\r\nSubsecretaría de Transportes,\r\nse autoriza en forma complementaria a la Empresa de origen argentino Luis Lopetegui,\r\npropietario de \"Expreso El Pingüino\", para efectuar servicio\r\ninternacional de transporte\r\nterrestre de pasajeros entre Río\r\nGallegos (Argentina) y Punta\r\nArenas (Chile), utilizando el\r\npaso fronterizo de Monte Aymond, realizando siete frecuencias semanales de ida y¡\r\nvuelta.— Manuel Gárate Meneses, Coronel, Subsecretario\r\nde Transportes.\r\n\r\nSecretaría Regional Ministerial\r\nRegión Metropolitana\r\nFIJA VÍAS QUE INDICA PARA CIRCULACIÓN SERVICIOS PÚBLICOS DE LOCOMOCIÓN COLECTIVA\r\n(Resolución)\r\nNúm. 1.279 exenta.— Santiago, 26 Octubre de 1988.—\r\nVistos: El D.S. N° 275/80 y la\r\nresolución N° 37/88, del Ministerio de Transportes y Tele"
+ },
+ {
+  "id": "d1004",
+  "comuna": "vallenar",
+  "nombre_documento": "812_aprueba_enmienda_01_al_plan_regulador_comunal",
+  "archivo": "vallenar_812_aprueba_enmienda_01_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 3,
+   "predial_minima": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZD"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 812 EXENTO, VALLENAR (2013)\r\n\r\nDecreto 812 EXENTO\r\nAPRUEBA ENMIENDA 01 AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE VALLENAR\r\nFecha Publicación: 05-MAR-2013 | Fecha Promulgación: 05-FEB-2013\r\nTipo Versión: Única De : 05-MAR-2013\r\nUrl Corta: https://bcn.cl/3pcc8\r\n\r\nAPRUEBA ENMIENDA 01 AL PLAN REGULADOR COMUNAL\r\nNúm. 812 exento.- Vallenar, 5 de febrero de 2013.- Vistos:\r\n- El decreto alcaldicio Nº324, de fecha 4 de junio de 1981, que aprobó el Plan\r\nRegulador Comunal de Vallenar con el texto de la Ordenanza Local del Plan Regulador\r\nComunal de Vallenar.\r\n- Publicación en Diario Oficial de fecha 11 de diciembre de 1981, que aprueba\r\nPlan Regulador Comunal de Vallenar; según lo dispuesto en los artículos 46º, DFL\r\nNº485 (Vivienda y Urbanismo) del año 1975, Ley General de Urbanismo y\r\nConstrucciones.\r\n- El acuerdo Nº67 del Honorable Concejo Municipal de Vallenar, de fecha 3 de\r\nabril de 2012, en que aprobó por unanimidad de los presentes la enmienda que\r\nmodifica la zona ZD del Plan Regulador vigente, con la finalidad de aumentar el\r\ncoeficiente de ocupación de suelo del 10% ampliado hasta un 13% y cambiar el uso de\r\nsuelo establecido, permitiendo el uso de equipamiento, con la finalidad de incorporar\r\notros destinos de uso de suelo de equipamiento tales como social y cultural,\r\nservicios y comercio.\r\n- El decreto alcaldicio Nº 3.784, de fecha 29 de junio de 2012, que fija\r\ncalendario y lugar de exposición a la comunidad de la enmienda 01 a la zona ZD del\r\nPlan Regulador Co"
+ },
+ {
+  "id": "d1005",
+  "comuna": "vallenar",
+  "nombre_documento": "decreto_exento_2065_aprueba_y_autoriza_continuidad_y_modificacion_calendarizacio",
+  "archivo": "vallenar_decreto_exento_2065_aprueba_y_autoriza_continuidad_y_modificacion_calendarizacio__DEX.2065.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "E-DEX02065-2026\r\nSECRETARÍA COMUNAL DE PLANIFICACIÓN\r\nDEPARTAMENTO DE PLANIFICACIÓN TERRITORIAL / ASESORÍA URBANA\r\n\r\nFecha: 04/05/2026\r\n\r\nAPRUEBA Y AUTORIZA CONTINUIDAD Y MODIFICACIÓN CALENDARIZACIÓN\r\nACTUALIZACIÓN PLAN REGULADOR COMUNAL DE VALLENAR.\r\n\r\nVISTOS:\r\n1. La Ley N° 18.575. Orgánica Constitucional de bases generales de la administración del Estado, Ley 19.800 de\r\nbases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del\r\nEstado.\r\n2. La Instrucción N.º E-INS00001-2025, de fecha 22 de agosto de 2025, que establece directrices respecto a la\r\nomisión de firma de la Secretaria Municipal como ministro de fe en actuaciones municipales suscritas con\r\nfirma electrónica avanzada.\r\n3. El Decreto Exento N.º 841, de fecha 18 de marzo de 2020, que acepta las condiciones de uso de la plataforma\r\ndispuesta por el Ministerio Secretaría General de la Presidencia para la emisión y revocación de certificados\r\nde firma electrónica avanzada;\r\n4. El Decreto Exento N.º 797, de fecha 11 de marzo de 2020, que aprueba el convenio de firma electrónica\r\navanzada para autoridades y funcionarios, suscrito entre la Ilustre Municipalidad de Vallenar y el Ministerio\r\nSecretaría General de la Presidencia;\r\n5. El Dictamen N.º 75.481, de fecha 15 de diciembre de 2010, de la Contraloría General de la República;\r\n6. La Ley N.º 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación\r\n7. Y, teniendo presente las atribuciones que me "
+ }
+]

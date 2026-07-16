@@ -1,0 +1,25 @@
+{
+  "id": "cerrillos_064f9bf9c9",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_1335_apruebase_enmienda_n1_plan_regulador_comunal_de_santiago_199__202-1335-2019.pdf",
+  "nombre": "cerrillos_decreto_exento_1335_apruebase_enmienda_n1_plan_regulador_comunal_de_santiago_199__202-1335-2019.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:04:59",
+  "fin": "2026-07-14T13:06:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        4
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CERRILLOS: Decreto exento 202/1335/2019 que aprueba ENMIENDA N1 al PRC de Santiago 1990 (vigente para Cerrillos). SI TRAE NORMAS, aunque sea corto: Art 3 sustituye en el Articulo 22 ZONA C la superficie predial minima (300 -> 250 m2), el porcentaje maximo de ocupacion de suelo (80% -> 60%) y el sistema de agrupamiento/alturas/distanciamientos (continuidad 14m -> 12m); Art 4 sustituye lineas del cuadro 'Estandares de estacionamiento vehicular segun usos de suelo' (Art 25). Formato: texto viejo + 'reemplacese por' texto nuevo. Solo afecta ZONA C. Pag 1 vistos/considerandos, pag 4 firmas. Ojo: el mismo contenido esta duplicado en la version Diario Oficial (cerrillos_33dd142194)."
+  }
+}

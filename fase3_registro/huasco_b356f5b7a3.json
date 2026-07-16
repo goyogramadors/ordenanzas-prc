@@ -1,0 +1,25 @@
+{
+  "id": "huasco_b356f5b7a3",
+  "comuna": "huasco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\huasco_1017_aprueba_actualizacion_de_plan_regulador_comuna_de_huasco__DIARIO OFICIAL PLAN REGULADOR 1893191.pdf",
+  "nombre": "huasco_1017_aprueba_actualizacion_de_plan_regulador_comuna_de_huasco__DIARIO OFICIAL PLAN REGULADOR 1893191.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 42,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:41:45",
+  "fin": "2026-07-14T15:44:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        10,
+        36
+      ]
+    ],
+    "paginas_utiles": 27,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ACTUALIZACION PRC Huasco (Diario Oficial, 42 pags). TRAMPA MASIVA CONFIRMADA: p10-36 son TABLAS-IMAGEN (pdftotext solo saca el encabezado del DO, ~487-665 chars/pagina). Verificado con render de p10,14,20,26,30,32,35,36,39,41. Practicamente UNA TABLA POR PAGINA, con dos cuadros por zona: USOS DE SUELO (destinos permitidos/prohibidos) + CONDICIONES DE EDIFICACION (subdivision predial min, densidad bruta, COS, CC, agrupamiento, altura, antejardin, distanciamiento). 27 zonas: A1-A6, B1-B8 (+B7-a), C1-C5, D1, AV1-AV3, EP1-EP2. p36 aun es tabla (cierre de EP2) y recien en su mitad inferior arranca el Cap.2 Areas Restringidas. p37-38 texto normal (riesgo, cementerios, ICH). p39-41 solo VIALIDAD, excluidas. p42 cierre."
+  }
+}

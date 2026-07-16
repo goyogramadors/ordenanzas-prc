@@ -1,0 +1,25 @@
+{
+  "id": "san_clemente_2444d0f4c8",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas ordenadas\\san_clemente_decreto_exento_1212_apruebese_la_siguiente_modificacion_via_enmienda_n_1_compues__1212_20S.M._202026.pdf",
+  "nombre": "san_clemente_decreto_exento_1212_apruebese_la_siguiente_modificacion_via_enmienda_n_1_compues__1212_20S.M._202026.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:19:22",
+  "fin": "2026-07-15T12:52:53",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        5
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Exento 1212 (14-abr-2026): aprueba Enmienda N1 a la Ordenanza del PRC de San Clemente (vigente desde 2019). Sustituye cuadros de normas urbanísticas de 3 zonas: p.3 ZU-1A Zona Urbana 1A-Central (ACTUAL como ZU-7 vs PROPUESTO: altura 14.4m, densidad 320hab/ha), p.4 ZU-7 Zona Urbana 7-Densidad Media (ACTUAL vs PROPUESTO: CC 1.95, altura 13.2m, densidad 360hab/ha), p.5 ZU-8 Zona Urbana 8-Baja Densidad (ACTUAL vs PROPUESTO: predial 560m2, CC 0.52, altura 13.2m, densidad 48hab/ha). Cada cuadro trae superficie predial mínima, COS, CC, agrupamiento, altura edificación/continua, antejardín, adosamiento, densidad bruta máxima, altura de cierros. Excluidas p.1-2 (vistos/considerandos administrativos)."
+  }
+}

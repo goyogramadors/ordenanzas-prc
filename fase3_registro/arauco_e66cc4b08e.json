@@ -1,0 +1,20 @@
+{
+  "id": "arauco_e66cc4b08e",
+  "comuna": "arauco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arauco_1377_fija_nuevas_normas_urbanisticas_a_terrenos_desafectados_de_declaratoria_de___Exportar.pdf",
+  "nombre": "arauco_1377_fija_nuevas_normas_urbanisticas_a_terrenos_desafectados_de_declaratoria_de___Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:45:33",
+  "fin": "2026-07-15T07:48:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Renderizado pag2-3. 'Cuadro' anunciado en pag1 es tabla de TRAMOS DE VIAS (Nombre calle, Tramo Desde/Hasta, Observacion) que asigna fajas desafectadas a zonas ya existentes (EXP, RM1, RE2). Sin parametros urbanisticos: solo remite a zonas cuya norma esta en la Ordenanza del PRC base (documento distinto)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "codegua_ad4e565e1c",
+  "comuna": "codegua",
+  "ruta": "Ordenanzas Descargadas\\1-600\\codegua_decreto_12_aprueba_plan_regulador_comunal_de_codegua_tras_acuerdo_del_honorable___Decreto%2012%20DOM%202018.pdf",
+  "nombre": "codegua_decreto_12_aprueba_plan_regulador_comunal_de_codegua_tras_acuerdo_del_honorable___Decreto%2012%20DOM%202018.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:10:54",
+  "fin": "2026-07-15T08:12:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "solo decreto de aprobación del PRC (1 página), remite a 'antecedentes técnicos y administrativos' sin incluirlos en este archivo; sin cuadro normativo"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lo_barnechea_581dba0722",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_1295_ordenanza_municipal__Texto_refundido_y_sistematizado_Ordenanza_PRCLB_29.mayo.2015.pdf",
+  "nombre": "lo_barnechea_1295_ordenanza_municipal__Texto_refundido_y_sistematizado_Ordenanza_PRCLB_29.mayo.2015.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 76,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:35:32",
+  "fin": "2026-07-15T08:38:50",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        76
+      ]
+    ],
+    "paginas_utiles": 76,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza N1295, Texto Refundido y Sistematizado de la Ordenanza del PRC de Lo Barnechea (PRCLB), 29-may-2015, 76 paginas -- documento MAESTRO con todas las normas urbanisticas de la comuna. Estructura confirmada: paginas 1-34 aprox = Titulo I Disposiciones Generales (limite urbano, definiciones, normas de aplicacion general: antejardines Art 32, marquesinas Art 33, altura Art 34, pendientes Art 36); paginas ~35-75 = normas especificas ZONA POR ZONA (A hasta al menos J), cada una con tabla completa 'CONDICIONES DE SUBDIVISION Y EDIFICACION' (Uso de Suelo, Superficie Subdivision Predial Minima, Antejardin, Coef. Ocupacion Suelo, Coef. Constructibilidad, Sistema de Agrupamiento, Altura Maxima, Densidad Bruta Maxima, Rasante y Distanciamiento, Adosamiento) y tabla de Condiciones de Uso de Suelo (Equipamiento por clase/actividad). Confirmado visualmente: p45 Zona C 'Pueblo San Enrique' Sector C1 (tabla equipamiento), p60 Zona J 'La Dehesa' con Sub-Zona J1 'La Dehesa Antigua' (dos tablas completas de condiciones de subdivision y edificacion, valores consistentes con decreto 3980/2015 ya registrado que crea la Subzona J2 adicional). Pagina 76 es anexo indice de decretos modificatorios y planos vigentes del PRC (utilidad de contexto, no tabla de norma en si). ADVERTENCIA: portada indica 'Documento de Trabajo - No Oficial', recomendable cruzar con version oficial si esta disponible. Verificado visualmente paginas 1, 5, 30, 45, 60 y 76 de 76."
+  }
+}

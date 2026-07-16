@@ -1,0 +1,28 @@
+{
+  "id": "pitrufquen_55ac1ed482",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pitrufquen_8_promulga_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "promulga cambio zona B a B1 (equipamiento deportivo): pág1 tiene deslindes + usos permitidos/prohibidos + condiciones edificación (% ocupación 10%, agrupamiento aislado, antejardín 3m, altura según OGUC) en texto nativo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:30:39",
+  "fin": "2026-07-15T14:32:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\pitrufquen\\pitrufquen_8_nueva_zona_b1_equipamiento_deportivo_pag1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "B1"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION a nota_fase3: no es 'cambio de zona B a B1', es creacion de NUEVA zona B1 (Manzana 119, de Area Verde a Equipamiento Deportivo), agregada tras las normas de zona B existente. Deslindes + usos + condiciones edificacion completos, texto nativo."
+  }
+}

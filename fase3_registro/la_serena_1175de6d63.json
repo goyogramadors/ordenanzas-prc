@@ -1,0 +1,25 @@
+{
+  "id": "la_serena_1175de6d63",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_4503_aprueba_plano_seccional_no_3_del_plan_regulador_comunal_de_la_serena__Exportar.pdf",
+  "nombre": "la_serena_4503_aprueba_plano_seccional_no_3_del_plan_regulador_comunal_de_la_serena__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:50:01",
+  "fin": "2026-07-14T15:56:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA SERENA: Decreto 4503-2006 (BCN, 2p), aprueba el Plano Seccional N3 del PRC. LO QUE SI ESTA, en texto plano (p1 final y p2 inicio): Nota 5 (se prohiben los supermercados solo en el area inferior de la zona ZC-1) y Nota 6 (se permiten talleres molestos en el area superior de ZC-1) = normas de uso de suelo. *** LA TABLA COMPLETA DE CONDICIONES URBANISTICAS DE ZC-1 (COS, CC, altura) NO ESTA EN EL PDF ***: dos veces aparece 'VER DIARIO OFICIAL DE 16.12.2006, PAGINA 113'. Esa remision cubre tambien el cuadro de vias estructurantes (vialidad, fuera de alcance). Verificado visualmente en ambas paginas."
+  }
+}

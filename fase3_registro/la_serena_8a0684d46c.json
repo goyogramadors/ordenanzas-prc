@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_8a0684d46c",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_873_distanciamiento_fisico_en_el_contexto_del_brote_del_coronavirus__doc_34_873_04092020103807.pdf",
+  "nombre": "la_serena_873_distanciamiento_fisico_en_el_contexto_del_brote_del_coronavirus__doc_34_873_04092020103807.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:23:59",
+  "fin": "2026-07-15T08:26:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto N873, Ordenanza Comunal sobre Prevencion, Distanciamiento Fisico y otras medidas Brote Coronavirus (ago-2020). Confirmado pag1,3,5: articulado distancia minima, uso bienes publicos, vigencia. Sin tablas."
+  }
+}

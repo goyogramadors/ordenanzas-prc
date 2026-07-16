@@ -1,0 +1,839 @@
+[
+ {
+  "id": "d0233",
+  "comuna": "rancagua",
+  "nombre_documento": "2017_prorroga_de_congelamiento_del_area_de_estudio_del_proyecto_modificacion_al",
+  "archivo": "rancagua_2017_prorroga_de_congelamiento_del_area_de_estudio_del_proyecto_modificacion_al___2013-05-D-2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0234",
+  "comuna": "rancagua",
+  "nombre_documento": "3015_inicio_del_procedimiento_de_la_evauacion_ambiental_estrategica_para_la_actu",
+  "archivo": "rancagua_3015_inicio_del_procedimiento_de_la_evauacion_ambiental_estrategica_para_la_actu__2018-06-PUB.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0235",
+  "comuna": "rancagua",
+  "nombre_documento": "3490_complementado_por_decreto_alcaldicio_4558_dispuso_expropiacion_para_efectos",
+  "archivo": "rancagua_3490_complementado_por_decreto_alcaldicio_4558_dispuso_expropiacion_para_efectos__2016-11-D-3490.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0236",
+  "comuna": "rancagua",
+  "nombre_documento": "3667_para_formalizar_la_prorroga_del_congelamiento_del_area_de_estudio_del_proye",
+  "archivo": "rancagua_3667_para_formalizar_la_prorroga_del_congelamiento_del_area_de_estudio_del_proye__2017-10-D-3667.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0237",
+  "comuna": "rancagua",
+  "nombre_documento": "559_y_764_modificacion_al_planregulador_comunal_de_rancagua_plan_seccional_n21_y",
+  "archivo": "rancagua_559_y_764_modificacion_al_planregulador_comunal_de_rancagua_plan_seccional_n21_y__2372308.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 67,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "seccional"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 8,
+   "articulado": 5,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.647\r\n\r\nJueves 7 de Septiembre de 2023\r\n\r\nPágina 1 de 67\r\n\r\nNormas Generales\r\nCVE 2372308\r\nMUNICIPALIDAD DE RANCAGUA\r\nAPRUÉBASE LA “MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE RANCAGUA,\r\nPLAN SECCIONAL Nº 21. EXP: 5668/2023”\r\nNúm. 559 exento.- Rancagua, 11 de agosto de 2023.\r\nConsiderando:\r\n1. Que, es necesario realizar una Modificación al Plan Regulador Comunal de Rancagua, que\r\ntiene como objetivo actualizar la Ordenanza Local y el Plano, específicamente en lo que dice relación\r\ncon los siguientes aspectos:\r\n• Contribuir al diseño de una ciudad a escala humana mejorando la conectividad y accesibilidad.\r\n• Distribuir de manera estratégica equipamientos y áreas verdes como soporte del uso residencial,\r\ngenerando SubCentros.\r\n• Valoración de canales de regadío como elemento ambiental.\r\n• Normar una densificación equilibrada y estratégica fomentando el desarrollo en la periferia urbana.\r\n2. Que, el Asesor Urbanista, adscrito a la Dirección de Secretaria de Planificación Comunal, en\r\ncumplimiento de sus funciones, establecidas en la Ley Orgánica Constitucional de Municipalidades,\r\ntramitó la presente Modificación al Plan Regulador Comunal de Rancagua, en relación con las materias\r\nseñaladas en el Considerando número uno anterior, bajo las instancias de la Ley General de Urbanismo\r\ny Construcciones y su Ordenanza, y que para estos efectos, se ha denominado como: “Modificación\r\nal Plan Regulador Comun"
+ },
+ {
+  "id": "d0238",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_2236_autorizase_el_inicio_del_proceso_conforme_a_lo_que_establece_la_ley",
+  "archivo": "rancagua_decreto_2236_autorizase_el_inicio_del_proceso_conforme_a_lo_que_establece_la_ley__2019-05-D-2236.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0239",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_419_fonfo_fijo_para_modificacion_plano_regulador",
+  "archivo": "rancagua_decreto_419_fonfo_fijo_para_modificacion_plano_regulador__2016-2-D-419.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0240",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_421_occh_917_laminas_de_exposicion_plan_regulador_comunal_depto_patr",
+  "archivo": "rancagua_decreto_421_occh_917_laminas_de_exposicion_plan_regulador_comunal_depto_patr__2021-02-D-421.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0241",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_744_modificacion_al_plan_regulador_comunal_seccional_centro_de_rehabilit",
+  "archivo": "rancagua_decreto_744_modificacion_al_plan_regulador_comunal_seccional_centro_de_rehabilit__2023-03-D-744.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 2,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_inicio": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "5/4/23, 9:35\r\n\r\nGestor Documental\r\n\r\nDOCUMENTO ELECTRONICO\r\n\r\nDECRETO EXENTO Nº: 744/2023\r\nIníciese el proceso de MODIFICACIÓN AL\r\nPLAN REGULADOR COMUNAL,\r\n“SECCIONAL CENTRO DE\r\nREHABILITACIÓN TELETÓN\". Expediente\r\nN°E3908/2023.\r\nRANCAGUA , 27/02/2023\r\n\r\nCONSIDERANDO:\r\n1. Que, a través de Pase N° 1230, de fecha 10 de febrero de 2023, el Departamento\r\nde Asesoría Urbana, indica textualmente: “ Visto la necesidad de contar con un\r\ncentro de rehabilitación para la Región y dada la iniciativa levantada por la\r\nFundación Teletón, junto a la voluntad de las autoridades Regionales y Comunales\r\nde apoyar el proyecto en la comuna de Rancagua\".\r\nSegún lo establecido en fundamento del proyecto “La mejor de las condiciones para\r\nla instalación de un Instituto de Teletón en la Región, se establece como principio en\r\nla comuna que concentra la mayor parte de los pacientes en la Región, la ubicación\r\ndel instituto Teletón en la Región de O’Higgins, debe ser en la Comuna de Rancagua,\r\ndel mismo modo se debe tener en cuenta la condición de capital regional, hace que\r\nla conectividad con las provincias y comunas de la región, tenga mejor condición\r\nque otra comuna en la región, esto le otorga una ventaja sustantiva.\r\nComo condición, dentro de la comuna seleccionada es la de contar con una buena\r\nconectividad, tanto dentro de la misma comuna como para pacientes que llegarán\r\nde comunas aledañas, por lo cual encontrarse cercano a rodoviarios o estaciones a\r\ntren de cercanías resulta una necesida"
+ },
+ {
+  "id": "d0242",
+  "comuna": "rancagua",
+  "nombre_documento": "no_aplica_modificacion_del_plan_regulador_plan_seccional_centro_de_rehabilitacio",
+  "archivo": "rancagua_no_aplica_modificacion_del_plan_regulador_plan_seccional_centro_de_rehabilitacio__2344834.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "normas_urbanisticas": 2,
+   "usos_de_suelo": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 43.604\r\n\r\n|\r\n\r\nMartes 18 de Julio de 2023\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 2344834\r\n\r\nMUNICIPALIDAD DE RANCAGUA\r\n\r\nMunicipalidad de Rancagua\r\n“MODIFICACIÓN DEL PLAN REGULADOR, PLAN SECCIONAL CENTRO DE\r\nREHABILITACIÓN TELETÓN”\r\nComunica Inicio del Proceso de Evaluación Ambiental Estratégica\r\na) Órgano Responsable: Ilustre Municipalidad de Rancagua\r\nb) Resumen de sus antecedentes: La Ilustre Municipalidad de Rancagua, a través del\r\ndecreto exento N° 1.467/2023, del 28 de abril de 2023, ha dado inicio al proceso de\r\nEvaluación Ambiental Estratégica de la \"Modificación del Plan Regulador, Plan\r\nSeccional Centro de Rehabilitación Teletón\". Este tiene por objetivo dar cabida a un\r\ncentro de rehabilitación para la Región, iniciativa levantada por la Fundación Teletón,\r\njunto a la voluntad de las autoridades regionales y comunales de apoyar el proyecto en la\r\ncomuna de Rancagua.\r\nSegún lo establecido en fundamento del proyecto: \"La mejor de las condiciones para la\r\ninstalación de un Instituto de Teletón en la Región, se establece como principio en la\r\ncomuna que concentra la mayor parte de los pacientes en la Región, la ubicación del\r\nInstituto Teletón en la Región de O’Higgins, debe ser en la Comuna de Rancagua, del\r\nmismo modo se debe tener en cuenta la condición de capital regional, hace que la\r\nconectiv"
+ },
+ {
+  "id": "d0910",
+  "comuna": "rancagua",
+  "nombre_documento": "2236_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua_tramitaci",
+  "archivo": "rancagua_2236_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua_tramitaci__1902268.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 11,
+   "normas_urbanisticas": 5,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA",
+   "ZA-1",
+   "ZCH",
+   "ZCH-1"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.891\r\n\r\n|\r\n\r\nViernes 26 de Febrero de 2021\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1902268\r\n\r\nMUNICIPALIDAD DE RANCAGUA\r\n\r\nFE DE ERRATAS EN MODIFICACIÓN DEL PLAN REGULADOR DE RANCAGUA\r\n\"TRAMITACIÓN N°22\"\r\n1. Mediante el decreto N°2.236 del 07.05.2019, se dio inicio al proceso de Modificación al\r\nPlan Regulador Comunal de Rancagua N°22, procediendo a la elaboración de la propuesta de\r\nImagen Objetivo, expresada en su Resumen Ejecutivo la cual contiene el capítulo de\r\n\"Fundamentos técnicos de la Imagen Objetivo\", que en su punto 2 de Coeficientes de\r\nConstructibilidad define para la ZCH: 3.00 y para la ZA: 4.00. El resumen ejecutivo antes\r\ndescrito es enviado al Honorable Consejo Comunal el día 24 de diciembre de 2019 mediante el\r\nORD: AU N°79.\r\n2. Que en presentación al H. Concejo Municipal de fecha 14.01.2020, en la cual se aprobó\r\nlas Observaciones emitidas a la Propuesta Inicial de Imagen Objetivo, donde se establece como\r\nparte de las normas urbanísticas un Coeficiente de Constructibilidad para la zona ZCH de 3,0 y\r\npara la zona ZA de 4,0 entre otros.\r\n3. Mediante decreto exento N° 228 del 16.01.2020 se aprobó la Imagen Objetivo en\r\ncumplimiento del Art. 28 Octies de la LGUC, donde se establece como parte de las normas\r\nurbanísticas un Coeficiente de Constructibilidad para la zona ZCH de 3,0 "
+ },
+ {
+  "id": "d0911",
+  "comuna": "rancagua",
+  "nombre_documento": "236_aprueba_modificiacion_del_plan_regulador_comunal_de_rancagua_tramitacion_n17",
+  "archivo": "rancagua_236_aprueba_modificiacion_del_plan_regulador_comunal_de_rancagua_tramitacion_n17__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "ordenanza_local_txt": 4,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 236 EXENTO, RANCAGUA (2010)\r\n\r\nDecreto 236 EXENTO\r\nAPRUEBA \"MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE RANCAGUA,\r\nTRAMITACIÓN Nº 17\"\r\nMUNICIPALIDAD DE RANCAGUA\r\nFecha Publicación: 06-FEB-2010 | Fecha Promulgación: 29-ENE-2010\r\nTipo Versión: Única De : 06-FEB-2010\r\nUrl Corta: https://bcn.cl/3slqu\r\n\r\nAPRUEBA \"MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE RANCAGUA, TRAMITACIÓN Nº 17\"\r\nRancagua, 29 de enero de 2010.- Con esta fecha el asesor urbanista:\r\nNúm. 263 exento.- Considerando:\r\n1.- Que es necesario efectuar una modificación al Plan Regulador Comunal de\r\nRancagua, mediante una modificación al Plano y a la Ordenanza Local de dicho\r\nInstrumento de Planificación.\r\n2.- Que, el Asesor Urbanista adscrito a la Secplac, en cumplimiento de sus\r\nfunciones, que establece la Ley Orgánica Constitucional de Municipalidades, tramitó\r\nla Modificación al Plan Regulador Comunal de Rancagua bajo las instancias que la Ley\r\ny Ordenanza General de Urbanismo y Construcciones respectivamente, determinan para\r\nestos efectos.\r\n3.- Que, mediante decreto exento N° 957 del 08 de Abril del año 2008, se\r\ninstruyó el inicio del trámite de la Modificación al Plan Regulador en su\r\ntramitación N° 17.\r\n4.- Que, en Sesión Ordinaria de Concejo N° 54 del 15 de Enero del año 2010,\r\nel Honorable Concejo Municipal aprobó el Proyecto de Modificación al Plan Regulador\r\nComunal de Rancagua, Tramitación N° 17.\r\n5.- Que, en dicha aprobación está contenido el \"Informe al Concejo/Aprobación\r\ndel Proyecto de Modificaci"
+ },
+ {
+  "id": "d0912",
+  "comuna": "rancagua",
+  "nombre_documento": "2454_expropia_franja_de_terreno_que_indica_a_compania_ccu_sa_para_dar_cumplimien",
+  "archivo": "rancagua_2454_expropia_franja_de_terreno_que_indica_a_compania_ccu_sa_para_dar_cumplimien__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 2454 EXENTO, RANCAGUA (2009)\r\n\r\nDecreto 2454 EXENTO\r\nEXPROPIA FRANJA DE TERRENO QUE INDICA A COMPAÑÍA CERVECERÍAS\r\nUNIDAS S.A. PARA DAR CUMPLIMIENTO A NORMAS DEL PLAN REGULADOR\r\nMUNICIPALIDAD DE RANCAGUA\r\nFecha Publicación: 02-NOV-2009 | Fecha Promulgación: 07-OCT-2009\r\nTipo Versión: Texto Original De : 02-NOV-2009\r\nInicio Vigencia: 02-NOV-2009\r\nFin Vigencia: 15-NOV-2009\r\nUrl Corta: https://bcn.cl/3q3f7\r\n\r\nEXPROPIA FRANJA DE TERRENO QUE INDICA A COMPAÑÍA CERVECERÍAS UNIDAS S.A. PARA DAR\r\nCUMPLIMIENTO A NORMAS DEL PLAN REGULADOR\r\nNúm. 2.454 exento.- Rancagua, 7 de octubre de 2009.- Considerando:\r\n1.\r\nQue, el Plan Regulador Comunal de Rancagua contempla la apertura de la Avenida\r\nNelson Pereira en el tramo comprendido entre la Calle 5 del ex Barrio Industrial de\r\nRancagua, por el Norte y Avenida Nelson Pereira existente, por el Sur.\r\n2.\r\nQue, para la materialización de lo señalado en el considerando precedente, se\r\nrequiere proceder a la expropiación de terrenos necesarios, a fin de, en conformidad\r\nal Plan Regulador Comunal vigente, efectuar la apertura de la referida vía.\r\n3.\r\nQue, para lo anterior se hace necesario proceder a la expropiación del inmueble\r\nsingularizado en sus títulos como Lote Nº62 del plano de Loteo del Barrio\r\nIndustrial de Rancagua, de la comuna de Rancagua, que deslinda: Norte: en 120 metros\r\ncon Lote Nº63 y en 14,89 metros con Calle Nº5; Sur: en 137,60 metros con otros\r\npropietarios; Oriente: en 125 metros con Lote Nº61-C y en 120,10 metros con "
+ },
+ {
+  "id": "d0913",
+  "comuna": "rancagua",
+  "nombre_documento": "3326_modificacion_al_plan_regulador_comunal_de_rancagua_tramitacion_n_22_eje_est",
+  "archivo": "rancagua_3326_modificacion_al_plan_regulador_comunal_de_rancagua_tramitacion_n_22_eje_est__1860825.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 4,
+   "zonificacion": 2,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 17
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZA-1",
+   "ZCH",
+   "ZCH-1",
+   "ZMN-1",
+   "ZONA",
+   "ZT-1",
+   "ZT-2",
+   "ZT-3"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.826\r\n\r\n|\r\n\r\nJueves 10 de Diciembre de 2020\r\n\r\n|\r\n\r\nPágina 1 de 10\r\n\r\nNormas Generales\r\nCVE 1860825\r\n\r\nMUNICIPALIDAD DE RANCAGUA\r\n\r\nAPRUÉBASE \"MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE\r\nRANCAGUA, TRAMITACIÓN N°22 - EJE ESTADO\", EN CONFORMIDAD A LO\r\nDISPUESTO EN EL \"PLANO OFICIAL\" Y EL \"TEXTO MODIFICATORIO DE LA\r\nORDENANZA LOCAL\" EXP. E18356/2020\r\nNúm. 3.326 exento.- Rancagua, 3 de diciembre de 2020.\r\nConsiderando:\r\n1. Que, es necesario realizar una Modificación al Plan Regulador Comunal de Rancagua,\r\nque tiene como objetivo efectuar modificaciones a la Ordenanza Local y al Plano,\r\nespecíficamente en lo que dice relación con los siguientes aspectos urbanísticos y\r\narquitectónicos:\r\n• Eliminación de la Zona EH.\r\n• Creación de Zona de Conservación Histórica en el Eje Estado y Zona de Amortiguación\r\ndel Área de Estudio.\r\n• Reconocimiento de Zonas Típicas e Inmuebles Monumentos Nacionales, protegidas\r\nmediante la Ley N°17.288, de Monumentos Nacionales y su Ordenanza. Asignación de\r\nCondiciones de Edificación y Subdivisión Predial.\r\n• Declaración de 21 Inmuebles de Conservación Histórica.\r\n• Modificaciones a la Vialidad Estructurante del Área de Estudio.\r\n2. Que, el Asesor Urbanista, adscrito a la Dirección de SECPLAC, en cumplimiento de sus\r\nfunciones, establecidas en la Ley Orgánica Constitucional de Munic"
+ },
+ {
+  "id": "d0914",
+  "comuna": "rancagua",
+  "nombre_documento": "audencias_publicas_para_la_confeccion_modificacion_o_enmiendas_del_plan_regulado",
+  "archivo": "rancagua_audencias_publicas_para_la_confeccion_modificacion_o_enmiendas_del_plan_regulado__ORDENANZA_PARTICIP-Modif_Agosto_2014.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 17,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 17
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "18.5.0.0.1\r\nORDENANZA DE PARTICIPACION\r\nDE LA I. MUNICIPALIDAD DE RANCAGUA\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\n\r\nArticulo 1º\r\n\r\nLa presente Ordenanza recoge las actuales características de\r\nla comuna, en la que se puede identificar dos grande áreas,\r\nuna urbana y una rural.\r\nDichas áreas están subdivididas en seis sectores territoriales con los\r\nsiguientes límites:\r\n1.- CDC CENTRO\r\nLimites Geográficos:\r\nNorte: Vereda Sur Alameda Av. Libertador Bernardo O”Higgins\r\nSur: Av. Millán / Carretera El Cobre Eduardo Freí Montalba\r\nEste: Av. Viña del Mar, Línea Férrea\r\nOeste: Límite Comunal Machalí\r\n2.- CDC PONIENTE\r\nLimites Geográficos:\r\nNorte: Límite Comunal Graneros\r\nSur: Río Cachapoal\r\nEste: Av. Viña del Mar, Línea Férrea\r\nOeste: Límite Comunal Estero La Cadena\r\n3.- CDC ORIENTE\r\nLimites Geográficos:\r\nNorte: Límite Comunal Graneros\r\nSur: Av. Libertador Bernardo O”Higgins y Camino a Machalí\r\nEste: Límite Comunal Machalí\r\nOeste: Carretera Panamericana 5 Sur\r\n4.- CDC SUR\r\nLimites Geográficos:\r\nNorte: Carretera El Cobre Eduardo Freí Montalba\r\nSur: Rivera Norte del Río Cachapoal\r\nEste: Camino Rabanal, Calle Torres del Paine\r\nOeste: Línea Férrea, Av. Viña del Mar\r\n5.- CDC RURAL\r\nLimites Geográficos:\r\nNorte: Límite Comunal Estero La Cadena\r\nSur: Sector Flor del Valle, San Ramón\r\nEste: Av. Salvador Allende, Línea Férrea\r\nOeste: Límite Comunal Graneros\r\n\r\n\f18.5.0.0.2\r\n\r\n6.- CDC NORTE\r\nLimites Geográficos:\r\nNorte: Límite Comuna de Graneros\r\nSur: Vereda Norte Alameda Bernardo O”Higgins\r\nEste"
+ },
+ {
+  "id": "d0915",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_3326_aprueba_plan_regulador_comunal_de_rancagua",
+  "archivo": "rancagua_decreto_3326_aprueba_plan_regulador_comunal_de_rancagua__2020-12-D-3326.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 10,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZCH"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "05-01-2021\r\n\r\nGestor Documental\r\n\r\nDOCUMENTO ELECTRONICO\r\n\r\nDECRETO EXENTO Nº: 3326/2020\r\nApruébase “Modificación al Plan Regulador Comunal\r\nde Rancagua, Tramitación Nº 22 – Eje Estado”, en\r\nconformidad a lo dispuesto en el “Plano Oficial” y el\r\n“Texto Modificatorio de la Ordenanza Local”. EXP.\r\nE18356/2020\r\nRancagua , 03/12/2020\r\n\r\nCONSIDERANDO:\r\n1. Que, es necesario realizar una Modificación al Plan Regulador Comunal de\r\nRancagua, que tiene como objetivo efectuar modificaciones a la Ordenanza Local y al\r\nPlano, específicamente en lo que dice relación con los siguientes aspectos\r\nurbanísticos y arquitectónicos:\r\nEliminación de la Zona EH.\r\nCreación de Zona de Conservación Histórica en el Eje Estado y Zona de\r\nAmortiguación del Área de Estudio.\r\nReconocimiento de Zonas Típicas e Inmuebles Monumentos Nacionales,\r\nprotegidas mediante la Ley N°17.288., de Monumentos Nacionales y su\r\nOrdenanza. Asignación de Condiciones de Edificación y Subdivisión Predial.\r\nDeclaración de 21 Inmuebles de Conservación Histórica.\r\nModificaciones a la Vialidad Estructurante del Área de Estudio.\r\n2. Que, el Asesor Urbanista, adscrito a la Dirección de SECPLAC, en cumplimiento de\r\nsus funciones, establecidas en la Ley Orgánica Constitucional de Municipalidades,\r\ntramitó la Modificación al Plan Regulador Comunal de Rancagua, en relación con las\r\nmaterias señaladas en el Considerando número uno anterior, bajo las instancias que\r\nla Ley General de Urbanismo y Construcciones y su respectiva Ordenanza, y "
+ },
+ {
+  "id": "d0916",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_559_apruebase_la_modificacion_al_plan_regulador_comunal_de_rancagua_plan",
+  "archivo": "rancagua_decreto_559_apruebase_la_modificacion_al_plan_regulador_comunal_de_rancagua_plan__2023-08-D-00559.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 6,
+   "articulado": 3,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DECRETO EXENTO Nº:\r\n\r\n00559/2023\r\n\r\nExpediente Nº:\r\n\r\n5668/2023\r\n\r\nMateria:\r\n\r\nAPRÚEBASE la \"Modificación al Plan Regulador\r\nComunal de Rancagua, Plan Seccional N° 21. EXP:\r\n5668/2023\r\n\r\nFecha:\r\n\r\nRancagua, 11 / 08 / 2023\r\n\r\nCONSIDERANDO:\r\n1. Que, es necesario realizar una Modiﬁcación al Plan Regulador Comunal de Rancagua, que tiene como objetivo actualizar la\r\nOrdenanza Local y el Plano, específicamente en lo que dice relación con los siguientes aspectos:\r\nContribuir al diseño de una ciudad a escala humana mejorando la conectividad y accesibilidad.\r\nDistribuir de manera estratégica equipamientos y áreas verdes como soporte del uso residencial, generando SubCentros.\r\nValoración de canales de regadío como elemento ambiental.\r\nNormar una densificación equilibrada y estratégica fomentando el desarrollo en la periferia urbana.\r\n\r\n2. Que, el Asesor Urbanista, adscrito a la Dirección de Secretaria de Planiﬁcación Comunal, en cumplimiento de sus funciones,\r\nestablecidas en la Ley Orgánica Constitucional de Municipalidades, tramitó la presente Modiﬁcación al Plan Regulador Comunal de\r\nRancagua, en relación con las materias señaladas en el Considerando número uno anterior, bajo las instancias de la Ley General de\r\nUrbanismo y Construcciones y su Ordenanza, y que para estos efectos, se ha denominado como: \"Modiﬁcación al Plan Regulador\r\nComunal de Rancagua, Plan Seccional N°21.\r\n\r\n3. Que, mediante Decreto Exento N° 4.123, de fecha 30 de septiembre de 2016, se reinició el proceso \"Modiﬁ"
+ },
+ {
+  "id": "d0917",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_944_aprueba_ficha_del_anteproyecto_programa_apoyo_y_control_plan_regulad",
+  "archivo": "rancagua_decreto_944_aprueba_ficha_del_anteproyecto_programa_apoyo_y_control_plan_regulad__2022-03-D-944.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DOCUMENTO ELECTRONICO\r\n\r\nDECRETO EXENTO Nº: 944/2022\r\nAprueba la Ficha del anteproyecto denominado\r\nPrograma para el Programa Apoyo y Control en la\r\nElaboración de Estudios, Diseños y Contraparte\r\nTécnica en Modificaciones al Plan Regulador.\r\n(E8072/2022)\r\nRANCAGUA , 22/03/2022\r\n\r\nCONSIDERANDO:\r\n\r\n1.- Que, en Sesión Ordinaria Nº25, de fecha 14 de diciembre de 2021, el Honorable Concejo\r\nMunicipal, aprobó por la unanimidad de sus miembros asistentes, el Presupuesto Municipal\r\naño 2022, las Orientaciones Globales, Programa Anual, Metas y Líneas de acción.\r\n\r\n2.- Que mediante Decreto Exento N°4036, de fecha 27 de diciembre de 2021, se aprueba el\r\nPresupuesto Municipal año 2022, las Orientaciones Globales, Programa Anual, Metas y\r\nLíneas de acción, documentos que acompañan el Decreto, y que pasan a ser parte del\r\nmismo.\r\n\r\n3.- Que, mediante Pase Interno N°2242/2022, de fecha 17 de marzo de 2022, el Director de\r\nla Secretaría de Planificación Comunal, solicita la verificación de Disponiblidad\r\nPresupuestaria, para el Programa Apoyo y Control en la Elaboración de Estudios, Diseños y\r\nContraparte Técnica en Modificaciones al Plan Regulador, por el monto total de\r\n$66.901.613.-, (sesenta y seis millones novecientos un mil seiscientos trece pesos).\r\nSe adjunta copia escaneada de la Ficha del Programa, que consta en 4 hojas tamaño oficio,\r\nla que se encuentra firmada en original, por el Director de la Secretaría de Planificación\r\nComunal.\r\n\r\n4.- Que, el Encargado de Presupuesto Municip"
+ },
+ {
+  "id": "d0918",
+  "comuna": "rancagua",
+  "nombre_documento": "no_aplica_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua",
+  "archivo": "rancagua_no_aplica_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Aviso S/N, RANCAGUA\r\n\r\nAviso S/N\r\nFE DE ERRATAS\r\nMUNICIPALIDAD DE RANCAGUA\r\nPublicación: 05-JUL-2010\r\nVersión: Única De : 05-JUL-2010\r\nUrl Corta: https://bcn.cl/3nyrf\r\n\r\nFE DE ERRATAS\r\nMODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE RANCAGUA\r\n\"TRAMITACIÓN Nº 16\"\r\nPUBLICADO EN EL DIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nEl día jueves 26 de febrero de 2009 (Página 8)\r\nDICE:\r\n2.5.4. ZONA EX 6 (Extensión urbana 6)\r\nZONA EX 6 (Extensión Urbana 6)\r\nUSOS DE SUELO PERMITIDOS\r\nRESIDENCIAL, con excepción de lo indicado como prohibido; COMERCIO, salvo lo\r\nindicado como prohibido; CULTO Y CULTURA; DEPORTE, salvo lo indicado como prohibido;\r\nEDUCACION, SALUD, SEGURIDAD, SERVICIOS, con excepción de lo indicado como prohibido;\r\nSOCIAL: Sedes de Juntas de Vecinos. Además de: ESPACIO PÚBLICO Y ÁREA VERDE.\r\nUSOS DE SUELO PROHIBIDOS\r\nRESIDENCIAL: Hospederías, Residenciales, Moteles. CIENTÍFICO; COMERCIO: Mercados,\r\nFerias Libres, Centros de Servicio Automotor o Servicentros, Locales de Expendio de\r\nCombustibles, Playas de Estacionamiento, Cabaret, Quintas de Recreo, Bares,\r\nDiscotecas, Depósito de Alcoholes; DEPORTES: Estadios, Centro y Clubes Deportivos;\r\nESPARCIMIENTO; SALUD: Hospitales, Cementerios y Crematorios; SEGURIDAD: Bases\r\nMilitares, Cárceles, Centros de Detención, y Otros; SERVICIOS: Talleres Mecánicos\r\nde Reparación Automotriz, Vulcanizaciones, Garajes, Carpintería Metálica, Taller\r\nde Vulcanización, Imprentas y Litografías, Tapicerías, Ebanistería, Tornería,\r\nCerrajería Artística, Amas"
+ },
+ {
+  "id": "d1235",
+  "comuna": "rancagua",
+  "nombre_documento": "5415_modificacion_no_20_al_plan_regulador_comunal_rancagua_sector_ex_ruta_5_sur",
+  "archivo": "rancagua_5415_modificacion_no_20_al_plan_regulador_comunal_rancagua_sector_ex_ruta_5_sur__2017-02-PDO-41655-2.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 30,
+  "paginas_escaneadas": 30,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1236",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_1495_expopiacion_para_efectos_de_dar_cumplimiento_a_las_normas_del_plan",
+  "archivo": "rancagua_decreto_1495_expopiacion_para_efectos_de_dar_cumplimiento_a_las_normas_del_plan___2016-04-D-1495.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1237",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_2238_asignase_las_condiciones_de_la_zona_r2_establecidas_en_el_articulo",
+  "archivo": "rancagua_decreto_2238_asignase_las_condiciones_de_la_zona_r2_establecidas_en_el_articulo___2019-05-D-2238.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1238",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_2395_espropiase_para_efecto_de_dar_cumplimiento_a_las_normas_del_plan_re",
+  "archivo": "rancagua_decreto_2395_espropiase_para_efecto_de_dar_cumplimiento_a_las_normas_del_plan_re__2016-06-D-2395.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1239",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_4333_de_n3326_public_en_diario_oficial_modificacion_al_plan_regulador",
+  "archivo": "rancagua_decreto_4333_de_n3326_public_en_diario_oficial_modificacion_al_plan_regulador__2021-11-D-4333.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1240",
+  "comuna": "rancagua",
+  "nombre_documento": "decreto_488_ex_414_planos_plan_regulador_comuna_de_rancagua",
+  "archivo": "rancagua_decreto_488_ex_414_planos_plan_regulador_comuna_de_rancagua__2017-2-D-488.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0919",
+  "comuna": "ranquil",
+  "nombre_documento": "113_apruebase_el_plan_regulador_comunal_de_ranquil",
+  "archivo": "ranquil_113_apruebase_el_plan_regulador_comunal_de_ranquil__DiarioOf-PlanRegulador.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 3,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZRI"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "; w t+?~&-:pa~~~a'ds'lb\r\nL..g=..,\r\nimteiior;.loifipdspdsdi~im~$e~80el~\r\n'de Wios m ~ i { b sj;de\r\n\r\n,\r\n\r\n::-\r\n\r\nV d e e - s e emend&\r\n\r\nsiempre permitidoe, por lo que no es n e c e s a r i ~ ~ m ~ 1 & ~ 1 h r\r\n\r\np\"M$*n ,\" \"..k\r\nvy?r)\"f:Rcada,,y~\r\n21,<<.<'?.\r\n\r\n1\r\n\r\nd'l:i\"l'\r\n\r\n~\r\n\r\n~\r\n\r\n~\r\n\r\n' \" p ~ I ~ * ~ ~?.?.dzl\r\n~ k.p?te,\"p\"\"\r\n' $ q ~ ~ ?\r\n\r\n. &3sid&des'el\r\n~, t\r\n~ ; ~,d&i$&'.in'lZi\r\n;\r\n1 t.\r\n\r\n6\r\n~ r ,. ~. , c~ r $~ d j f , ~ ~i\r\n\r\n. ,..\r\n# d c i r d 17;-~1destino'E@~tb3e:c~'a'Fp&bI&idde1r..1a~Otde~~eneral\r\n. . \". ..-.,$. ..':'.,'\r\n'>'.. . 1. \"\r\n.\r\n.\r\n\r\nI ,de Ur6rro$lii6y~m-.:\r\nSti lwahza6ih y.qqplazamiento'\r\nke e f e c t u d ~ & m ~ & ~ & tipologfa\r\nla\r\nb:lclrk\r\n.\"..'?\r\n\r\npmitidps o prohibidis .en cada una & las unas descritas en el M C u l o 29 de la presente\r\n\r\n' ~ & w G ~'.'ywTa'b@iCa&'ir\r\nb ~ ~ e ' U *la\r\nb d &la\r\nd . dtb$i&t&.*\r\n* t l l dtartimld:l:36&\r\nl l ~ i ~ 6 11 a1: c6,;\"i e1 e1d.aaO.>.\r\ner d\r\n~, ~~ '\r\n- .. .\r\n, - 1 .,\r\n., . ,,:\r\n...,,\r\n\r\n,.\r\n\r\n'\r\n\r\n\"9 i\r\n\r\nt\r\n\r\n,\r\n\r\n.\r\n\r\n2,'\r\n\r\n:\r\n\r\nr\r\n\r\n,\r\n\r\n,\r\n\r\n,\r\n\r\n)\r\n\r\n,.\r\n\r\n..\r\n\r\n\fEn las has urbanas de contactosedebed consid- ma faja de 100mew h o que\r\ncontemple la reduceih de combustible seco en has exteriores, la eliminacih de ti~entes\r\ngeneradorasde incendios forestales, y la implemenpci6n de planes vecinales de emergencia\r\n\r\nes el definido en la Ordenanza General de\r\n\r\n.\r\n\r\n.,\r\n\r\n:\r\n\r\nf.\r\n\r\nI , .\r\n\r\nI#\r\n\r\n.\r\n\r\n.,.\r\n\r\n.\r\n\r\n'\r\n\r\n'\r\n\r\n1\r\n\r\n&te destino .& encuentra hem&&mifido eh ei frrea tenitoria~nor&& uor el onsmte"
+ },
+ {
+  "id": "d0920",
+  "comuna": "ranquil",
+  "nombre_documento": "ordenanza_113_aprueba_ordenanza_de_plan_regulador",
+  "archivo": "ranquil_ordenanza_113_aprueba_ordenanza_de_plan_regulador__OrdenanzaPlanReg-Modifica.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 2,
+   "ordenanza_local_txt": 3,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE",
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "CONSIDERANDO:\r\na)\r\n\r\nQue por Resolucion No 113 de fecha'28 de Noviembre de 2005 se aprueba y\r\npromulga el Plan Regulador Comunal de Ranquil, el que se encuentra con Toma de\r\nRazon por Contraloria Regional del Bio Bio, con fecha 23 de Febrero de 2006.\r\n\r\nb)\r\n\r\nQue, posteriormente, se ha constatado que en el Resuelvo No 4, mediante el cual se\r\ntranscribe el texta integro. de, la Ordenanza Local del mencionado Plan Regulador\r\nComunal de Ranquil, en su articulo 29 se contienen errores de transcripcion y\r\nomisiones que se hace necesario corregir y complementar.\r\n\r\nc)\r\n\r\nQue en consecuencia con lo seiialado en el considerando b), es necesario efectuar\r\nlas rectificaciones y complementaciones respectivas.\r\n\r\nLo dispuesto en el articulo 43O vigente, del DFL No 458 (V, y U.) de 1976, Ley General de\r\nUrbanismo y Construcciones; en 10s articulos 2.1 . I 0 y 2.1.I\r\n1 vigentes, del D.S. No 47 (V. y\r\nU.) de 1992, que contiene la Ordenanza General de Urbanismo y Construcciones; lo\r\nprevisto en 10s articulos 20 letra f); 24 letra p) y articulo 36 letra c); de la Ley 19.175,\r\nOrganica Constitucional sobre Gobierno y Administracion Regional; Ley No 18.575 sobre\r\nBases Generates de la Administracion del Estado; lo dispuesto en la Resolucion No 520 de\r\n1996 de la Contraloria General de la Republica.\r\n\r\nRESUEL VO:\r\n1.\r\n\r\nCOMPLEMENTASE el punto 4 del Resuelvo de la Resolucion No 113 de fecha 28 de\r\nNoviembre del 2005, en lo pertinente al articulo 29 de la Ordenanza Local del PLAN\r\nREGULADOR COMUNA"
+ },
+ {
+  "id": "d0921",
+  "comuna": "ranquil",
+  "nombre_documento": "ordenanza_aprueba_ordenanza_de_plan_regulador",
+  "archivo": "ranquil_ordenanza_aprueba_ordenanza_de_plan_regulador__OrdenanzaPlanReg-Aprueba.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 7,
+   "articulado": 5,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "REGION DEL BIO,w\r\nBIO .,,\r\n,\r\n\r\n..\r\n\r\n.\r\n\r\n. -. .\r\n..\r\n..r , . .\r\n\r\n;<\r\n(\r\n\r\n. .\r\nb\r\n\r\n..\r\n\r\n.\r\n\r\n.\r\n\r\n6,.\r\n\r\nRESOLUCION\r\n\r\n.*\r\nti\r\n\r\n*.-\\ . - ..~.13p-&\r\n.*,\r\n'\r\n\r\nVrSD\r\n*\r\n\r\n9\r\n\r\n' \".\r\n\r\n-\r\n\r\n'\r\n\r\n.\r\n\r\nC ; ~ W ~ ~ C I Q W -ie.8 .\r\n.\r\n\r\n.\r\n\r\n. .\r\n\r\n-I,:,)\r\n\r\n,\r\n\r\n. L . 1 .'\r\n\r\n-?,.:\r\n\r\n-\r\n\r\nA\r\n\r\n.\r\n\r\nN w-2f05\r\n-\r\n\r\n,\r\n\r\na)\r\n\r\n- Ord. No 1.347 de fecha 10 de Junio de 2005, del sefior Secretario Regional Ministerial\r\n\r\nb)\r\n\r\nOrd. No 1.514 de fecha 21 de Junio de 2005, del senor lntendente Regional de la\r\nRegi&n.def*BioBfo, drlgido a.laComisl6n de Orderiamienlc Territorial del Consejo de\r\nGobierno RegEonal, mediant6 el cual se envia el expediente administrativo del \"Plan ('\r\nRegulador Qomunal de RBnquiP para su presentadbn al Consejo de Gobiemo -Regional;\r\n\r\nc)\r\n\r\nInfarme TQicnico de fecha 03 ds mayo de 2005, del Jefe del Departamento de\r\nDesarralla Urbano e Infmestructura de la Secretaria Regional Ministerial de Vivienda\r\ny Urbanismo de la Regi6n del Bio Bio, que informa favorablemente el pmyecto de\r\nPtan R&gubdor de Rinquil, de conformidad a lo establecido en la Memoria\r\nExpSicativla, Estudio de Factibilidad Sanitaria, Ordenanza Local y 10s Planos PRCQebidamente s o w\r\n01, PRCNA-01 y PRCSI\r\n\r\nde Vivienda y Urbanismo Rsgi6n del Bio Bio, mediante el cual se remite el )\r\nexpediente del \"Plan Regulador Comunal de Ranquil\", para aprobacibn por parte del\r\nConsejo de Gobierno Regional y pmhrior promutgaaibn;\r\n\r\n\\\r\n\r\n.\r\n\r\nx\r\n\r\nw\r\n\r\nd)\r\n\r\nOrd. No 145 de fecha 12 de ibril de 2005, del Sr"
+ }
+]

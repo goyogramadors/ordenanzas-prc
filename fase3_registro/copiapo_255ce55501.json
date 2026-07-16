@@ -1,0 +1,25 @@
+{
+  "id": "copiapo_255ce55501",
+  "comuna": "copiapo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\copiapo_14092_introduce_enmienda_al_plan_regulador_comunal_de_copiapo_sector_rio_copiapo__2533976.pdf",
+  "nombre": "copiapo_14092_introduce_enmienda_al_plan_regulador_comunal_de_copiapo_sector_rio_copiapo__2533976.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:32:46",
+  "fin": "2026-07-14T15:36:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "COPIAPO: Diario Oficial 22-ago-2024, Enmienda al art 17 de la Ordenanza 'Modificacion PRC de Copiapo', sector Rio Copiapo, zona ZU-RIO-2 'Entre Puentes y Tornini'. *** TRAMPA LEYCHILE-DO CONFIRMADA ***: el texto dice 'donde dice:' y 'debe decir:' seguidos de NADA. Los cuatro recuadros de norma son IMAGENES, todos en la PAGINA 2, y pdftotext no devuelve ni un caracter. Contienen: Altura Maxima 24,5 m pasa a 28 m; Altura Maxima 7 pisos pasa a 8 pisos; Altura Minima primer piso comercial 4,5 m pasa a 3,6 m; Coeficiente de Constructibilidad 2,25 (se mantiene). Confirmado visualmente."
+  }
+}

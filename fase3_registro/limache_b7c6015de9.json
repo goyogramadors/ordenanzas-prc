@@ -1,0 +1,25 @@
+{
+  "id": "limache_b7c6015de9",
+  "comuna": "limache",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\limache_44143_publica_promulgacionde_plan_regulador_comunal_de_limache__Promulgacion-Actualizacion-PRC-Limache-Diario-Oficial.pdf",
+  "nombre": "limache_44143_publica_promulgacionde_plan_regulador_comunal_de_limache__Promulgacion-Actualizacion-PRC-Limache-Diario-Oficial.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:00:39",
+  "fin": "2026-07-14T21:05:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        24
+      ]
+    ],
+    "paginas_utiles": 11,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Promulgacion Actualizacion PRC Limache (Diario Oficial, 32 pags). TODO EN TEXTO REAL (verificado con render p14,16,19,22,24). p14-15: Tabla 3 estandares de estacionamiento (art.12) + Tabla 4 indice de zonas (ZC0..AR-1). p16-21: Titulo 2 Cap.1 Zonificacion y Normas Especificas (art.13-36), 21 tablas de zona: ZC0/ZC0a, ZC1/ZC1a/ZC1b, ZC2/ZC2a, ZR0/ZR0a, ZR1/ZR1a, ZR2, ZR3, ZR4, ZE-1, ZE-2, ZCS, ZCS-CCU, ZCEM, ZC1bc, ZI, ZAP, AV, ZAV (predial min, densidad, COS, CC, agrupamiento, altura, antejardin). p22: Tabla 5, ZCH Zona Conservacion Historica Poblacion CCU (COS 0,5, CC 1, altura 7 m, antejardin S/A) -- ultima tabla normativa; la Tabla 6 (Inmuebles ICH, solo listado de direcciones) NO cuenta. p23-24: art.39 Areas de Riesgo, cuadro AR1-H (usos + COS 0,35 puntual, resto remite a zona base) -- atipico, verificar tratamiento en fase siguiente. p25 en adelante: Cap.5 Red Vial Estructurante, EXCLUIDO."
+  }
+}

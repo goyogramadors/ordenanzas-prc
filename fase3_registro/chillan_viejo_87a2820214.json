@@ -1,0 +1,20 @@
+{
+  "id": "chillan_viejo_87a2820214",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chillan_viejo_necesito_el_plan_regulador_vigente_de_chillan_viejo__43696376-35ec-4ec1-8fc4-0cfe3d76c19e.pdf",
+  "nombre": "chillan_viejo_necesito_el_plan_regulador_vigente_de_chillan_viejo__43696376-35ec-4ec1-8fc4-0cfe3d76c19e.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:30:45",
+  "fin": "2026-07-14T15:35:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: acuse de recibo de solicitud de transparencia (folio MU043T0001762, solicitante Urban Group SPA pidiendo el PRC vigente). Es el tramite de recepcion, no la entrega. Sin normas. Candidato a descarte."
+  }
+}

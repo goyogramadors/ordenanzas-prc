@@ -1,0 +1,31 @@
+{
+  "id": "conchali_f675d974d0",
+  "comuna": "conchali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\conchali_302_municipalidad_de_conchali_establece_normas_urbanisticas_mediante_la_asignaci__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "CONCHALI: Decreto 302 exento (2011, LeyChile-BCN) que ESTABLECE NORMAS URBANISTICAS asignando zonas del PRC a predios afectos a declaratoria de utilidad publica caducada (art 59 LGUC). *** TRAMPA LEYCHILE CONFIRMADA ***: el texto trae DOS PUNTOS SOLITARIOS (uno por epigrafe) donde deberian ir las tablas; pdftotext no devuelve ni un caracter de ellas. Ambas tablas son IMAGEN y estan en la PAGINA 2: (1) 'Nuevas Normas Urbanisticas en Calle con Declaratoria de Utilidad Publica Caduca' para Av. General Gambino, con columnas nombre, codigo PRMS, perfil, categoria, tramo, ancho minimo proyectado, ancho existente, tipo, orientacion y ZONA ASIMILABLE (Z4); (2) tabla de Parques Adyacentes a Sistemas Viales (art 5.2.2.2 PRMS) con zonificacion anterior Z2 y nuevas zonas asimilables Z1 Sur, Z4, Z1 Norte y Z3 (Parque Conchali-Ruta 5 Norte y Av. Americo Vespucio). Confirmado visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:42:18",
+  "fin": "2026-07-15T14:43:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\conchali\\conchali_302_vialidad_y_parques_caducados_pag1-2.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "Z1 Norte",
+      "Z1 Sur",
+      "Z3",
+      "Z4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa LeyChile confirmada (2 puntos solitarios, 2 tablas imagen). Tabla I: calle General Gambino asimilada a Z4. Tabla II: 2 tramos de parque asimilados a Z1Sur/Z4/Z1Norte y Z3/Z4. No define parametros nuevos. Coincide con nota_fase3."
+  }
+}

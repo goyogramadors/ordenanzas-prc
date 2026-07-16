@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_9d4d59e825",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2021-Ord.-Alc.-N14-365-Modif.-N11-al-PRC.-.pdf",
+  "nombre": "las_condes_2021-Ord.-Alc.-N14-365-Modif.-N11-al-PRC.-.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:30:59",
+  "fin": "2026-07-15T08:32:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord. Alc. N14/365, 23-dic-2021: oficio del Alcalde (S) de Las Condes a la SEREMI Metropolitana de Vivienda y Urbanismo, informando que se encuentra en etapa de exposicion publica el proyecto de Modificacion N11 al PRC y adjuntando antecedentes administrativos (memoria, texto aprobatorio, planos, texto refundido de referencia) para el Portal Unico de Informacion. Es correspondencia administrativa/procedimental, no contiene el texto normativo ni tablas de parametros. Verificado visualmente 3 de 3 paginas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "santiago_d6746bdf4e",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_06.-Ord-N_C2_B007.pdf",
+  "nombre": "santiago_06.-Ord-N_C2_B007.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:56:41",
+  "fin": "2026-07-15T12:58:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord. N07, 25-may-2023, Asesor Urbanista (S) de Santiago a SEREMI MINVU RM, 8 pags. Responde observaciones administrativas sobre la tramitacion del proyecto de Modificacion PRC 'Correccion de la Zonificacion Especial...' -- cronologia detallada de sesiones de Concejo y comisiones (2019-2022) para acreditar cumplimiento de plazos del art.28 octies LGUC. Puramente procedimental, no transcribe norma urbanistica alguna. Verificado visualmente paginas 1,4,8 de 8."
+  }
+}

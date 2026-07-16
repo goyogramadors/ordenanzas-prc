@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_4ac6eb8a8e",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_1_plan_regulador_tomo_i__690351ad-13e4-4fe2-891a-54f2fd86cbc0.pdf",
+  "nombre": "pedro_aguirre_cerda_1_plan_regulador_tomo_i__690351ad-13e4-4fe2-891a-54f2fd86cbc0.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 345,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:09:38",
+  "fin": "2026-07-14T21:13:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        40,
+        41
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Documento es en realidad Informe de Diagnostico del PLADECO 2014-2018, NO Plan Regulador, pese al nombre 'plan_regulador_tomo_i' (igual que el Tomo II, tambien PLADECO). Revisados indice + tramos 1-50,100-130,230-265,300-345. Unica tabla: pag.40-41 sec.4.1.3.1 cuadro ZONA/VIVIENDA/EQUIPAMIENTO/ACT.PRODUCTIVA/ALTURA del PRC vigente 1991 (ZC,ZD,ZE,ZF,PAC-1/2/3,AR1,AR2,R), heredado de comunas vecinas. Incompleta: falta COS, coef.constructibilidad, superficie predial minima, antejardin, distanciamientos. El verdadero articulado formal del PRC de Pedro Aguirre Cerda NO esta en ninguno de los 2 'Tomos' de esta carpeta -posible vacio en el corpus."
+  }
+}

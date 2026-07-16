@@ -1,0 +1,905 @@
+[
+ {
+  "id": "d1232",
+  "comuna": "quilleco",
+  "nombre_documento": "decreto_aprueba_ordenanza_municipal_sobre_derechos_por_concesiones_permisos_serv",
+  "archivo": "quilleco_decreto_aprueba_ordenanza_municipal_sobre_derechos_por_concesiones_permisos_serv__20101026.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 72,
+  "paginas_escaneadas": 71,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [
+   "ZU-2"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 26 de Octubre de 2010\r\n\r\nNº 39.794\r\n\r\nEdición de 72 páginas\r\n\r\nDE LA REPUBLICA DE CHILE\r\n\r\n$375.- (IVA incluido)\r\n$785.- (IVA incluido)\r\n\r\nS U MAR I O\r\nNormas Generales\r\n\r\nrechos por concesiones, permisos, servicios y otros ............ P.3\r\n\r\nNormas Particulares\r\n\r\nSubsecretaría de Pesca\r\nServicio Nacional de Pesca\r\n\r\nEntidades Religiosas de\r\nDerecho Público\r\n\r\nMINISTERIO DE\r\nECONOMÍA, FOMENTO\r\nY TURISMO\r\n\r\nIglesia Evangélica Ven a Adorar a Dios .............................. P.7\r\n\r\nSubsecretaría de Economía y\r\nEmpresas de Menor Tamaño\r\n\r\nMINISTERIO DEL\r\nTRABAJO Y\r\nPREVISIÓN SOCIAL\r\n\r\nDepartamento de\r\nCooperativas\r\n\r\nResolución número 1.739 exenta.- Complementa resolución Nº\r\n93, de 2010, que establece medidas de manejo sanitario conjunto\r\nen la Región de Magallanes y la\r\nAntártica Chilena .................. P.2\r\n\r\nCooperativa de Trabajo para el\r\nDesarrollo de la Innovación y\r\nCooperación .........................P.6\r\n\r\nMINISTERIO DE\r\nAGRICULTURA\r\n\r\nAsociación Nacional de\r\nUsuarios de la Seguridad Social ........................................ P.6\r\n\r\nServicio Agrícola y Ganadero\r\nDirección Nacional\r\n\r\nAsociaciones Gremiales\r\n\r\nMINISTERIO DE\r\nEDUCACIÓN\r\n\r\nResolución número 6.229 exenta.- Modifica resolución Nº 4.468,\r\nde 2010, en el sentido que indica\r\n.............................................. P.2\r\n\r\nExtracto de resolución número\r\n1.642 exento, de 2010 .......... P.6\r\n\r\nResolución número 6.366 exenta.- Modi"
+ },
+ {
+  "id": "d1233",
+  "comuna": "quilleco",
+  "nombre_documento": "dfl_adecua_modifica_y_establece_planta_de_personal_de_la_municipalidad_de_quille",
+  "archivo": "quilleco_dfl_adecua_modifica_y_establece_planta_de_personal_de_la_municipalidad_de_quille__19940905.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 40,
+  "paginas_escaneadas": 40,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0225",
+  "comuna": "quillon",
+  "nombre_documento": "2143_aprueba_la_enmienda_a_plano_regulador",
+  "archivo": "quillon_2143_aprueba_la_enmienda_a_plano_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE",
+   "ZE-1"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2143, QUILLÓN (2014)\r\n\r\nDecreto 2143\r\nAPRUEBA LA ENMIENDA A PLANO REGULADOR\r\nMUNICIPALIDAD DE QUILLÓN\r\nPublicación: 26-AGO-2014 | Promulgación: 07-AGO-2014\r\nVersión: Única De : 26-AGO-2014\r\nUrl Corta: https://bcn.cl/3ppi1\r\n\r\nAPRUEBA LA ENMIENDA A PLANO REGULADOR\r\nNúm. 2.143.- Quillón, 7 de agosto de 2014.- Vistos:\r\n1.- Acuerdo de concejo municipal Nº 450 según sesión ordinaria Nº 74 de\r\nfecha 14.07.2014;\r\n2.- Decreto Alcaldicio Nº 915 de fecha 25.10.2013, que nombra al Sr. Vladimir\r\nPeña Mahuzier como Administrador Municipal;\r\n3.- Decreto Alcaldicio Nº 972 de fecha 20.11.2013, que designa al\r\nAdministrador Municipal como Alcalde (S);\r\n4.- Ley Nº 18.883/89, Estatuto Administrativo para Funcionarios Municipales;\r\n5.- Ley Nº 18.575 Orgánica Constitucional sobre bases Generales de\r\nAdministración del Estado;\r\n6.- Sentencia de proclamación de Alcaldes Nº 14 de fecha 30 de noviembre de\r\n2012, del Tribunal Electoral de la Región del Biobío;\r\n7.- Ley Nº 18.695 Orgánica Constitucional de Municipalidades, de fecha 31 de\r\nmarzo de 1988 y sus posteriores modificaciones,\r\nDecreto:\r\n1.- Apruébese la enmienda al plano regulador de la actual zona ZE, ubicado en\r\nel sector sur poniente de la comuna a zona ZE-1 que permite zona de equipamiento y\r\neducacional.\r\nAnótese, comuníquese y archívese, publíquese.- Vladimir Peña Mahuzier,\r\nAlcalde (S).- Edgardo Carlos Hidalgo Varela, Secretario Municipal, Ministro de Fe.\r\n\r\nBiblioteca del Congreso Nacional de Chile - www.leychile.cl - documento"
+ },
+ {
+  "id": "d0894",
+  "comuna": "quillon",
+  "nombre_documento": "2129_deja_sin_efecto_las_declaratorias_de_utilidad_publica_de_los_terrenos_desti",
+  "archivo": "quillon_2129_deja_sin_efecto_las_declaratorias_de_utilidad_publica_de_los_terrenos_desti__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2129, QUILLÓN (2015)\r\n\r\nDecreto 2129\r\nDEJA SIN EFECTO LAS DECLARATORIAS DE UTILIDAD PÚBLICA DE LOS\r\nTERRENOS DESTINADOS A CIRCULACIONES, PLAZAS Y PARQUES,\r\nINCLUIDOS SUS ENSANCHES, DEL PLAN REGULADOR COMUNAL DE QUILLÓN\r\nMUNICIPALIDAD DE QUILLÓN\r\nFecha Publicación: 30-MAY-2015 | Fecha Promulgación: 28-ABR-2015\r\nTipo Versión: Única De : 30-MAY-2015\r\nUrl Corta: https://bcn.cl/3l05h\r\n\r\nDEJA SIN EFECTO LAS DECLARATORIAS DE UTILIDAD PÚBLICA DE LOS TERRENOS DESTINADOS A\r\nCIRCULACIONES, PLAZAS Y PARQUES, INCLUIDOS SUS ENSANCHES, DEL PLAN REGULADOR COMUNAL\r\nDE QUILLÓN\r\nNúm. 2.129.- Quillón, 28 de abril de 2015.\r\nVistos:\r\n1.- Ley Nº 20.791, que modifica la Ley General de Urbanismo y Construcciones en\r\nmateria de afectaciones de utilidad pública de los Planes Reguladores.\r\n2.- Lo dispuesto en el DFL Nº 458 (V. y U.), de 1976, Ley General de Urbanismo\r\ny Construcciones, y lo indicado en la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n3.- Lo dispuesto en la Ley Nº 18.695, Orgánica Constitucional de\r\nMunicipalidades.\r\n4.- Las facultades que me confiere la Ley Nº 18.695, Orgánica Constitucional\r\nde Municipalidades, de fecha 31 de marzo de 1988, y sus posteriores modificaciones.\r\nDecreto:\r\n1.- Déjese sin efecto las declaratorias de utilidad pública de los terrenos\r\nque fueron destinados a circulaciones, plazas y parques, incluidos sus ensanches, con\r\nanterioridad a las disposiciones de la Ley Nº 19.939, contenidas, para este caso, en\r\nel Plan Regulador Comunal de Quillón, publi"
+ },
+ {
+  "id": "d0226",
+  "comuna": "quillota",
+  "nombre_documento": "certificado_112_f_certificado_n112_exposicion_plan_regulador_a_exp_publica",
+  "archivo": "quillota_certificado_112_f_certificado_n112_exposicion_plan_regulador_a_exp_publica__f-CERTIFICADO_N__112_EXPOSICION_PLAN_REGULADOR_A_EXP._PUBLICA.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Firmado digitalmente por\r\nPatricio Encalada Ahumada.\r\nEl presente documento incorpora una\r\nfirma electrónica avanzada según lo\r\nindica la Ley N° 19.799. Su validez\r\npuede ser consultada a través del\r\ncódigo QR adjunto.\r\n\r\nACUERDO N°112/2026\r\n\r\nC E R T I F I C A D O N°112/2026\r\n\r\nPATRICIO ENCALADA AHUMADA, Secretario Municipal(s) de la Ilustre\r\nMunicipalidad de Quillota en su calidad de Ministro de Fe, certifica que en Sesión\r\nOrdinaria de 30/04/2026 Acta N°15/2026 el Concejo Municipal de Quillota adoptó el\r\nAcuerdo N°112/2026 que dice: “Por unanimidad se aprueba autorizar el inicio\r\ndel periodo de Exposición del Anteproyecto del Plan Regulador Comunal de\r\nQuillota, correspondiente al Proceso de Participación Ciudadana, según lo\r\nestipulado en el Art. 2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n\r\nQuillota, 04 de mayo de 2025.\r\n1. Alcaldía 2. Administración Municipal 3. Concejales 4. Jurídico 5. Finanzas 6. Presupuesto 7. Control Interno 8. Secretaría\r\nMunicipal 9. Secplan 10. Partes 11. Archivo.\r\n\r\nPowered by TCPDF (www.tcpdf.org)"
+ },
+ {
+  "id": "d0227",
+  "comuna": "quillota",
+  "nombre_documento": "certificado_129_f_certificado_n129_avance_exposicion_publica_plan_regulador",
+  "archivo": "quillota_certificado_129_f_certificado_n129_avance_exposicion_publica_plan_regulador__f-CERTIFICADO_N__129_AVANCE_EXPOSICI__N_PUBLICA_PLAN_REGULADOR.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Firmado digitalmente por\r\nDionisio Manzo Barboza.\r\nEl presente documento incorpora una\r\nfirma electrónica avanzada según lo\r\nindica la Ley N° 19.799. Su validez\r\npuede ser consultada a través del\r\ncódigo QR adjunto.\r\n\r\nACUERDO N°129/2026\r\n\r\nC E R T I F I C A D O N°129/2026\r\n\r\nDIONISIO MANZO BARBOZA, Secretario Municipal de la Ilustre Municipalidad\r\nde Quillota en su calidad de Ministro de Fe, certifica que en Sesión Ordinaria de\r\n19/05/2026 Acta N°17/2026 el Concejo Municipal de Quillota adoptó el Acuerdo\r\nN°129/2026 que dice: “Por unanimidad se aprueba dejar constancia de la toma\r\nde conocimiento del informe de avance de la Exposición Pública del Plan\r\nRegulador Comunal de Quillota en el marco del proceso de Actualización del\r\nPlan Regulador Comunal de Quillota”.\r\n\r\nQuillota, 20 de mayo de 2026.\r\n1. Alcaldía 2. Administración Municipal 3. Concejales 4. Jurídico 5. Finanzas 6. Presupuesto 7. Control Interno 8. Secretaría\r\nMunicipal 9.Concejales 10. Secplan 11. Partes 12. Archivo.\r\n\r\nPowered by TCPDF (www.tcpdf.org)"
+ },
+ {
+  "id": "d0228",
+  "comuna": "quillota",
+  "nombre_documento": "decreto_alcaldicio_7379_contratacion_trato_directo_ajuste_plan_regulador_comunal",
+  "archivo": "quillota_decreto_alcaldicio_7379_contratacion_trato_directo_ajuste_plan_regulador_comunal__f-id_8164_trato_directo_secplanfmw.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 2,
+   "articulado": 11
+  },
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Quillota, 01 de Septiembre de 2025.\r\nLa Alcaldía decretó hoy lo que sigue:\r\nD.A.NUM:7379\r\n\r\nDocumento firmado\r\ndigitalmente\r\nEl presente documento incorpora una\r\nfirma electrónica avanzada según lo\r\nindica la Ley N° 19.799. Su validez\r\npuede ser consultada a través del\r\ncódigo QR adjunto.\r\n\r\nVISTOS:\r\n1. Ordinario Nº306/2025 de 07.08.2025 de Director de Secretaría Comunal de\r\nPlanificación a Alcalde, con su V°B°, en que solicita autorizar solicitud de contratación\r\nbajo el mecanismo de Trato Directo para la ejecución de la Consultoría denominada\r\n“Contratación Servicio de Ajuste Anteproyecto del Plan Regulador Comunal de\r\nQuillota”.\r\nLo anterior, en cuanto se requieren los servicios especializados para el ajuste del\r\nAnteproyecto del Plan, estudio de Movilidad e Informe Ambiental del estudio, los cuales\r\nya fueron desarrollados mediante consultoría contratada por la SEREMI de Vivienda y\r\nUrbanismo de la Región de Valparaíso en el año 2014. Junto a lo anterior, se debe remitir\r\na la Seremi del Medio Ambiente de la Región de Valparaíso, el informe de respuestas de\r\nla consulta pública del Informe Ambiental mediante informe consolidado y su respectiva\r\nResolución de Termino.\r\nSe propone el mecanismo de contratación indicado en cuanto:\r\n1) Que, por la materia específica de los servicios solicitados, se requiere un\r\nConsultor con características muy concretas y especializadas, dedicada a la\r\nrealización de estudios asociados a la planificación y normativa urbana y\r\ndesarrollo de in"
+ },
+ {
+  "id": "d0229",
+  "comuna": "quillota",
+  "nombre_documento": "decreto_alcaldicio_7565_7565_apruebase_autorizar_actualizacion_plan_regulador_co",
+  "archivo": "quillota_decreto_alcaldicio_7565_7565_apruebase_autorizar_actualizacion_plan_regulador_co__7565%20APRUEBASE%20AUTORIZAR%20ACTUALIZACION%20PLAN%20REGULADOR%20(CONCEJO).PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0230",
+  "comuna": "quillota",
+  "nombre_documento": "decreto_alcaldicio_7852_modifica_da_7379_de_010925_contratacion_servicio_ajuste",
+  "archivo": "quillota_decreto_alcaldicio_7852_modifica_da_7379_de_010925_contratacion_servicio_ajuste___f-id_8606_modifica_da_7379_plan_regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 8,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Quillota, 17 de Septiembre de 2025.\r\nLa Alcaldía decretó hoy lo que sigue:\r\nD.A.NUM:7852\r\nVISTOS:\r\n\r\nDocumento firmado\r\ndigitalmente\r\nEl presente documento incorpora una\r\nfirma electrónica avanzada según lo\r\nindica la Ley N° 19.799. Su validez\r\npuede ser consultada a través del\r\ncódigo QR adjunto.\r\n\r\n1. Ordinario N°359/2025 de 05.09.2025 de Director Secretaría Comunal de\r\nPlanificación a Alcalde, con su V°B°, en que solicita dictar Decreto Alcaldicio que\r\nmodifique Numerando 2.1 Descripción del Servicio, Numerando 2.1.3 de Resolución\r\nde Término Procedimiento Ambiental y Numerando 13 del Sistema de Pago de las\r\nBases Administrativas del D.A. Nº7.379 de 01.09.2025, que aprobó el Expediente\r\nTécnico y autorizó la contratación mediante Trato Directo para la ejecución de la\r\nConsultoría\r\ndenominada\r\n“CONTRATACIÓN\r\nSERVICIO\r\nDE\r\nAJUSTE\r\nANTEPROYECTO DEL PLAN REGULADOR COMUNAL DE QUILLOTA”, debido\r\na que se debe modificar la distribución de los productos y etapas de ejecución junto\r\na los estados de pagos asociados en el siguiente sentido:\r\nDe la parte Bases Administrativas, numerando 2.1 DESCRIPCIÓN DEL SERVICIO:\r\nDONDE DICE:\r\n2.1.1. ETAPA 1 Expediente del Plan corregido:\r\na) Informe Consulta Pública.\r\n Se debe desarrollar un consolidado de las respuestas a las observaciones\r\ningresadas a la Municipalidad a raíz de la Consulta Pública del Informe\r\nAmbiental (de acuerdo con lo establecido en el Art. 24. Decreto 32/2015)\r\nllevada a cabo en el año 2020.\r\n Contempla la redacción de "
+ },
+ {
+  "id": "d0895",
+  "comuna": "quillota",
+  "nombre_documento": "decreto_alcaldicio_2338_termino_proceso_de_eval_ambl_estrat_anteproyecto_plan_re",
+  "archivo": "quillota_decreto_alcaldicio_2338_termino_proceso_de_eval_ambl_estrat_anteproyecto_plan_re__f-id-2659-termino-proceso-eval-amb-anteproyecto-plan-regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 82,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 1,
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 5,
+   "articulado": 15,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {
+   "txt_licitacion": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Quillota, 27 de Febrero de 2026.\r\nLa Alcaldía decretó hoy lo que sigue:\r\nD.A.NUM:2338\r\n\r\nDocumento firmado\r\ndigitalmente\r\nEl presente documento incorpora una\r\nfirma electrónica avanzada según lo\r\nindica la Ley N° 19.799. Su validez\r\npuede ser consultada a través del\r\ncódigo QR adjunto.\r\n\r\nVISTOS:\r\n1.\r\n\r\nOficio Ordinario N°106 de 26.02.2026 de Directora(s) de Secretaría Comunal de\r\nPlanificación a Alcalde, con su V°B°, en que solicita dictar Decreto Alcaldicio que\r\napruebe Resolución de Término del Proceso de Evaluación Ambiental Estratégica del\r\nAnteproyecto del Plan Regulador Comunal de Quillota, instrumento que ha sido\r\nelaborado por el consultor Fase Uno: Cabello y Fernández Ltda. Rut 76.765.470-7,\r\nsiendo parte de los productos esperados de la Etapa 3 del \"Servicio de Ajuste del\r\nAnteproyecto del Plan Regulador Comunal de Quillota\". Cabe destacar que la\r\nResolución de Término, finaliza el proceso de la Evaluación Ambiental Estratégica de la\r\n\"Actualización del Plan Regulador Comunal de Quillota\", el que debe concluir con la\r\ndictación del Decreto Alcaldicio respectivo;\r\n\r\n2.\r\n\r\nOrdinario Nº01146/2026 de 18.02.2026 emitido por la Secretaría Regional Ministerial de\r\nMedio Ambiente de la región de Valparaíso a la Municipalidad de Quillota, dicha\r\nsecretaría toma conocimiento de la nueva versión del Anteproyecto de la actualización\r\ndel Plan Regulador Comunal de Quillota;\r\n\r\n3.\r\n\r\nOrdinario N°95 de 09.02.2026, el cual en cumplimiento a lo prescrito en el artículo 25 del\r\nRegl"
+ },
+ {
+  "id": "d0896",
+  "comuna": "quillota",
+  "nombre_documento": "decreto_alcaldicio_55_da_55_ac_4_plan_regulador",
+  "archivo": "quillota_decreto_alcaldicio_55_da_55_ac_4_plan_regulador__DA_2055_20AC_204_20PLAN_20REGULADOR_firmado_firmado.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "QUILLOTA, 06 de enero de 2023.\r\nLa Alcaldía decretó hoy lo que sigue:\r\nD.A. NUM:\r\n\r\n55 /VISTOS:\r\n\r\n1) Acuerdo Nº04/2023 adoptado por el Honorable Concejo Municipal de Quillota en Sesión\r\nOrdinaria de 05/01/2023, Acta Nº01/2023;\r\n2) El Acuerdo Nº003-B/2021 adoptado por el Honorable Concejo Municipal de Quillota en Sesión\r\nde Instalación de Concejo Municipal periodo 2021-2024 de fecha 02/07/2021, que autoriza al\r\nSecretario Municipal la tramitación de los Acuerdos sin esperar la aprobación del Acta;\r\n\r\n3) Las facultades que me confiere la Ley Nº18.695, Orgánica Constitucional de\r\nMunicipalidades y sus posteriores modificaciones;\r\nDECRETO\r\n\r\nPRIMERO\r\nPROMÚLGASE el Acuerdo N°04/2023 adoptado por\r\nel Honorable Concejo Municipal de Quillota en Sesión Ordinaria de 05/01/2023, Acta Nº01/2023,\r\nque dice: “Por unanimidad se aprueba dejar constancia de la entrega al Honorable Concejo\r\nMunicipal de la PROPUESTA PROGRAMÁTICA DEL PLAN REGULADOR”.\r\nSEGUNDO\r\nADOPTE Secretaría\r\npertinentes para el cumplimiento de esta resolución.\r\n\r\nMunicipal\r\n\r\nlas\r\n\r\nmedidas\r\n\r\nAnótese, comuníquese, dese cuenta.\r\n\r\nDISTRIBUCION:\r\nConcejales - Alcaldía - Control – Adm. Municipal – Acuerdo N°04/2023 - Acta Nº01/2023 – DOM - Secretaría Municipal Transparencia.\r\nOCS/HCM/DMB/gdr. -"
+ },
+ {
+  "id": "d0231",
+  "comuna": "quilpue",
+  "nombre_documento": "1246_rectifica_planos_que_indica_del_plan_regulador_comunal_de_quilpue",
+  "archivo": "quilpue_1246_rectifica_planos_que_indica_del_plan_regulador_comunal_de_quilpue__1246.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 6
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [
+   "ZON-01b",
+   "ZON-01c"
+  ],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.632\r\n\r\n|\r\n\r\nJueves 16 de Abril de 2020\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1750805\r\n\r\nMUNICIPALIDAD DE QUILPUÉ\r\n\r\nRECTIFICA PLANOS QUE INDICA DEL PLAN REGULADOR COMUNAL DE\r\nQUILPUÉ\r\nNúm. 1.246.- Quilpué, 1 de abril de 2020.\r\nVistos:\r\n1. El proceso de Consulta Pública del Plan Regulador Comunal, en el cual, mediante la\r\nprovidencia Nº 4854, de fecha 3 de agosto de 2018, se solicitó eliminar la vía local 100\r\npropuesta, en consideración a que, en los terrenos donde se propone la nueva vialidad, existen\r\nPermisos de Edificación aprobados.\r\n2. El Ord. alcaldicio Nº 1001, de fecha 4 de septiembre de 2018, mediante el cual se dio\r\nrespuesta a la providencia Nº 4854, comunicando que, por aprobación unánime del Concejo\r\nMunicipal, se eliminó la vía local proyectada 100, coincidente con trazado de proyecto aprobado,\r\npor tratarse de una vía de circulación interior del condominio, por lo cual se elimina el gravamen\r\nal interior del condominio, trasladándolo al borde del mismo.\r\n3. El decreto alcaldicio Nº 2.732, de fecha 23 de julio de 2019, mediante el cual se aprobó la\r\nActualización del Plan Regulador Comunal de Quilpué, tiene error de transcripción tanto en sus\r\nplanos PRCQ-VIA-01c; PRCQ-ZON-01c; PRCQ-RIEs-01c, como en el artículo 9.2 de la\r\nOrdenanza, los que no alteran ni modifican su normativa"
+ },
+ {
+  "id": "d0897",
+  "comuna": "quilpue",
+  "nombre_documento": "1769_aprueba_fe_de_errata_del_plan_regulador_comunal",
+  "archivo": "quilpue_1769_aprueba_fe_de_errata_del_plan_regulador_comunal__1769.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [
+   "ZE1",
+   "ZM3",
+   "ZON-01a",
+   "ZON-01b",
+   "ZON-01c",
+   "ZR10",
+   "ZR4",
+   "ZR5",
+   "ZR6",
+   "ZR7",
+   "ZR9",
+   "ZRM2"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.681\r\n\r\n|\r\n\r\nLunes 15 de Junio de 2020\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 1772404\r\n\r\nMUNICIPALIDAD DE QUILPUÉ\r\n\r\nAPRUEBA FE DE ERRATA DEL PLAN REGULADOR COMUNAL\r\nNúm. 1.769.- Quilpué, 25 de mayo de 2020.\r\nVistos:\r\n1. El decreto alcaldicio Nº 2.732, de fecha 23 de julio de 2019, mediante el cual, se\r\npromulgó la aprobación de la Actualización del Plan Regulador Comunal de Quilpué.\r\n2. El correo electrónico de la Dirección de Obras Municipales a la Asesora Urbanista, de\r\nfecha 29 de octubre de 2019, en donde se informa sobre errores de transcripción en los planos del\r\nPlan Regulador Comunal de Quilpué, los que no alteran ni modifican su normativa, por tanto, la\r\nmunicipalidad se encuentra en el imperativo de subsanarlas, y\r\n3. En virtud de las consideraciones anteriores, y en uso de la facultad que confieren los\r\nartículos 13 y 62 de la ley 19.880 sobre bases de los procedimientos administrativos que rigen a\r\nlos órganos del Estado, que faculta a la autoridad administrativa que hubiere dictado una decisión\r\nque ponga término a un procedimiento, de oficio o a petición del interesado, aclarar los puntos\r\ndudosos u obscuros y rectificar los errores de copia, de referencia, de cálculos numéricos y, en\r\ngeneral, los puramente materiales o de hechos que aparecieren de manifiesto en el acto\r\nadminis"
+ },
+ {
+  "id": "d0898",
+  "comuna": "quilpue",
+  "nombre_documento": "2732_aprueba_actualizacion_al_plan_regulador_comunal_de_quilpue",
+  "archivo": "quilpue_2732_aprueba_actualizacion_al_plan_regulador_comunal_de_quilpue__2732.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 79,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 5,
+   "ordenanza_local_txt": 5,
+   "articulado": 16,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZON-01",
+   "ZON-01a",
+   "ZON-01b",
+   "ZON-01c"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 8 senales normativas (predial_minima, normas_urbanisticas, zonificacion, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.413\r\n\r\nViernes 26 de Julio de 2019\r\n\r\nPágina 1 de 79\r\n\r\nNormas Generales\r\nCVE 1626640\r\nMUNICIPALIDAD DE QUILPUÉ\r\nAPRUEBA ACTUALIZACIÓN AL PLAN REGULADOR COMUNAL DE QUILPUÉ\r\nNúm. 2.732.- Quilpué, 23 de julio de 2019.\r\nVistos:\r\n1.\r\n\r\n2.\r\n\r\n3.\r\n4.\r\n5.\r\n6.\r\n7.\r\n\r\n8.\r\n\r\n9.\r\n\r\nEl Plan Regulador Comunal de Quilpué aprobado por decreto supremo Nº 270 de fecha 30 de\r\nabril de 1971 y sus modificaciones posteriores, y la necesidad de dotar a la Comuna de Quilpué,\r\nde un instrumento de planificación actualizado que responda a las proyecciones de desarrollo\r\npresentes y futuras del territorio comunal;\r\nEl Convenio Mandato Completo e Irrevocable, de fecha 30 de enero de 2015 suscrito entre la\r\nIlustre Municipalidad de Quilpué y el Gobierno Regional de Valparaíso, para la realización\r\ndel Estudio “Actualización Plan Regulador Comunal de Quilpué”, aprobado mediante decreto\r\nalcaldicio Nº 903 de fecha 11 de febrero de 2015 y resolución Afecta Nº 31/1/2/021 de fecha 10\r\nde febrero de 2015;\r\nEl decreto alcaldicio Nº 5434 de fecha 19 de julio de 2016, mediante el cual se da inicio al proceso\r\nde la Evaluación Ambiental Estratégica (EAE) de la Actualización del Plan Regulador Comunal\r\nde Quilpué;\r\nEl “Extracto Acto Administrativo de Inicio del Proceso de Evaluación Ambiental Estratégica,\r\npara la Actualización del Plan Regulador Comunal de Quilpué”, publicado en la Sección IV del\r\nDiario Oficial de la República de"
+ },
+ {
+  "id": "d0899",
+  "comuna": "quilpue",
+  "nombre_documento": "5573_aprueba_enmienda_del_plan_regulador_comunal_de_quilpue",
+  "archivo": "quilpue_5573_aprueba_enmienda_del_plan_regulador_comunal_de_quilpue__2018-01-03-41947.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.947\r\n\r\n|\r\n\r\nMiércoles 3 de Enero de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1328703\r\n\r\nMUNICIPALIDAD DE QUILPUÉ\r\n\r\nAPRUEBA ENMIENDA DEL PLAN REGULADOR COMUNAL DE QUILPUÉ\r\nNúm. 5.573.- Quilpué, 18 de diciembre de 2017.\r\nVistos:\r\n1.- La Ley General de Urbanismo y Construcciones (LGUC), inciso segundo del artículo 45\r\nque faculta a las Municipalidades para la elaboración de una Enmienda al PRC en aspectos que\r\nincidan en materias bien definidas como: A. Localización de Equipamiento Vecinal en Barrios o\r\nSectores, B.- Vialidad interna, dentro de los nuevos proyectos cuyos trazados no alteren los\r\nconsultados en el Plano Regulador Comunal o Intercomunal, y C.- Disposiciones varias relativas\r\na las condiciones de edificación y urbanización dentro de los márgenes que establezca la\r\nOrdenanza General de esta ley. Materias que deben ser expuestas y aprobadas por el Concejo\r\nMunicipal respectivo;\r\n2.- El certificado del Secretario Municipal Nº 197/2017 de fecha 8 de agosto de 2017, que\r\ncontiene la Aprobación del Concejo Municipal, del inicio de la tramitación del proceso de\r\nEnmienda al Plan Regulador Comunal de Quilpué Sector El Belloto Centro \"El Sauce\", adoptado\r\nen sesión ordinaria número 23;\r\n3.- El D.A. Nº 3.981, de fecha 22 de agosto de 2017, que aprueba el inicio de la tramitación\r\ndel proc"
+ },
+ {
+  "id": "d0900",
+  "comuna": "quinta_de_tilcoco",
+  "nombre_documento": "24_aprueba_plan_regulador_comunal",
+  "archivo": "quinta_de_tilcoco_24_aprueba_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "agrupamiento": 10,
+   "antejardin": 1,
+   "rasante": 4,
+   "adosamiento": 2,
+   "distanciamiento": 4,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 29,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 24, QUINTA DE TILCOCO (1995)\r\n\r\nResolución 24\r\nAPRUEBA PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE QUINTA DE TILCOCO\r\nPublicación: 18-DIC-1995 | Promulgación: 30-NOV-1995\r\nVersión: Última Versión De : 29-MAR-2017\r\nUltima Modificación: 29-MAR-2017 Decreto 289 EXENTO\r\nUrl Corta: https://bcn.cl/3lwdy\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL\r\nNúm. 24.- Rancagua, 30 de Noviembre de 1989.- Visto:\r\na) Lo dispuesto en los artículos 2° y 21, de la Ley 16.391\r\ny 12° del D.L. N° 1.305; el D.S. N° 397 (V. y U.) de\r\n1976; los artículos 41, 42, 43 y 44, del D.S. N° 458 (V. y\r\nU.) de 1975, Ley General de Urbanismo y Construcciones,\r\nmodificada por la Ley N° 18.738; los artículos 447 y 550\r\nde la Ordenanza General de Construcciones y Urbanización,\r\nambas disposiciones legales modificadas por D.S. N° 224,\r\npublicado en el Diario Oficial del 14 de Enero de 1989; el\r\nDecreto Alcaldicio Exento N° 305, del 10 de Noviembre de\r\n1989, de la Ilustre Municipalidad de Quinta de Tilcoco, que\r\nratificó el Acuerdo mediante el cual el Consejo de\r\nDesarrollo Comunal -en Sesión N° 12 de fecha 8 de\r\nNoviembre de 1989- aprobó el Plan Regulador Comunal de\r\nQuinta de Tilcoco, localidades de Quinta de Tilcoco y\r\nGuacarhue, el Memorándum N° 160 de 17 de Noviembre de\r\n1989, de la Unidad de Desarrollo Urbano e Infraestructura de\r\nla Secretaría Ministerial de Vivienda y Urbanismo VI\r\nRegión, que adjunta el informe Técnico Favorable del Plan\r\nRegulador Comunal de Quinta de Tilcoco, localidades de\r\nQuinta de Tilcoco y"
+ },
+ {
+  "id": "d0901",
+  "comuna": "quinta_de_tilcoco",
+  "nombre_documento": "289_aprueba_modificacion_n_1_del_plan_regulador_comunal_de_quinta_de_tilcoco",
+  "archivo": "quinta_de_tilcoco_289_aprueba_modificacion_n_1_del_plan_regulador_comunal_de_quinta_de_tilcoco__1197991.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.721\r\n\r\n|\r\n\r\nMiércoles 29 de Marzo de 2017\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1197991\r\n\r\nMUNICIPALIDAD DE QUINTA DE TILCOCO\r\n\r\nAPRUEBA \"MODIFICACIÓN Nº 1 DEL PLAN REGULADOR COMUNAL DE QUINTA\r\nDE TILCOCO\"\r\nNúm. 289 exento.- Quinta de Tilcoco, 8 de marzo de 2017.\r\nVistos:\r\n1. El Plan Regulador.\r\n2. Ordinario N° 131, de fecha 7 de abril del año 2014.\r\n3. Ordinario N° 222, de fecha 28 de abril del año 2015.\r\n4. Ordinario N° 817, de fecha 28 de mayo del año 2015.\r\n5. Ordinario N° 494, de fecha 7 de septiembre de 2016.\r\n6. Certificado de acuerdo Concejo Municipal.\r\n7. Ordinario N° 231, de fecha 8 de febrero de 2017.\r\n8. Ordinario N° 343, de fecha 28 de febrero de 2017.\r\n9. Publicaciones en Diario El Rancagüino.\r\n10. Actas reuniones Consejo Sociedad Civil.\r\n11. Lo establecido en el DFL N° 458, de 1975, Ley General de Urbanismo y Construcción,\r\nen sus artículos 45° y 43°.\r\n12. Lo establecido en el DS N° 47, de 1992, Ordenanza General de Urbanismo y\r\nConstrucción, en su artículo 2.1.11.\r\n13. Las facultades que confiere la Ley N° 18.695, Orgánica Constitucional de\r\nMunicipalidades.\r\nConsiderando:\r\nA. El Plan Regulador Comunal vigente en la comuna de Quinta de Tilcoco.\r\nB. Que, es necesario efectuar una modificación al Plan Regulador Comunal de Quinta de\r\nTilcoco, mediante modificación a la Ordenanza "
+ },
+ {
+  "id": "d0902",
+  "comuna": "quinta_normal",
+  "nombre_documento": "1626_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal",
+  "archivo": "quinta_normal_1626_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 5,
+   "predial_minima": 5,
+   "altura_maxima": 9,
+   "densidad": 2,
+   "agrupamiento": 20,
+   "antejardin": 5,
+   "rasante": 5,
+   "distanciamiento": 5,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 15
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1626, QUINTA NORMAL (2017)\r\n\r\nDecreto 1626\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE QUINTA\r\nNORMAL\r\nMUNICIPALIDAD DE QUINTA NORMAL\r\nFecha Publicación: 02-DIC-2017 | Fecha Promulgación: 21-NOV-2017\r\nTipo Versión: Única De : 02-DIC-2017\r\nUrl Corta: https://bcn.cl/3papm\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE QUINTA NORMAL\r\nQuinta Normal, 21 de noviembre de 2017.- La Alcaldía de Quinta Normal decretó\r\nhoy lo siguiente:\r\nNúm. 1.626.Vistos:\r\n1. Acuerdos Nº 127 del Concejo Municipal tomados en Sesión Ordinaria de fecha\r\n4 de octubre de 2016, ratificado por decreto 1.491 de fecha 6 de octubre 2016.\r\n2. Certificado Nº 135, de fecha 10 de agosto de 2017, de la Secretaria\r\nMunicipal (S) dando cuenta del cumplimiento de los trámites establecidos en el\r\nartículo 2.1.11 de la OGUC: número de cartas certificadas a organizaciones\r\nterritoriales legalmente constituidas; audiencias públicas de información y de\r\nconsulta; sesiones Consejo Comunal de Organizaciones de la Sociedad Civil de Quinta\r\nNormal de información y de consulta; exposición a la comunidad y tiempo de\r\nduración; número de observaciones recibidas; oficios de respuesta a los vecinos.\r\n3. Ord. N° 680, de fecha 21 de noviembre de 2016, suscrito por la Sra.\r\nAlcaldesa Carmen Gloria Fernández Valenzuela. remitido a las organizaciones\r\nterritoriales y sociales legalmente constituidas involucradas. sobre información de\r\nAudiencias.\r\n4. Listado de 57 juntas de vecinos a las cuales se enviaron cartas po"
+ },
+ {
+  "id": "d0903",
+  "comuna": "quinta_normal",
+  "nombre_documento": "1653_promulga_la_enmienda_n_01_al_plan_regulador_comunal_de_quinta_normal",
+  "archivo": "quinta_normal_1653_promulga_la_enmienda_n_01_al_plan_regulador_comunal_de_quinta_normal__download.aspx.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.223\r\n\r\n|\r\n\r\nMartes 12 de Agosto de 2025\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2682454\r\n\r\nMUNICIPALIDAD DE QUINTA NORMAL\r\n\r\nMunicipalidad de Quinta Normal\r\nPLAN REGULADOR DE QUINTA NORMAL\r\n(Extracto)\r\nEn atención a lo indicado en el artículo 28 de septies de la Ley General de Urbanismo y\r\nConstrucción, se informa que fue promulgada la Enmienda 01 mediante decreto\r\nalcaldicio Nº 1.653, de fecha 30 de julio de 2025. La Memoria Explicativa\r\ny el decreto Nº 1.653 se encuentran publicados en la página web municipal,\r\nwww.quintanormal.cl (https://www.quintanormal.cl/secciones/5482), disponibles\r\ndesde el 1 de agosto 2025.\r\n\r\nFelipe Andrés Peroti Díaz\r\nCVE 2682454 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web www.diarioficial.cl"
+ },
+ {
+  "id": "d0904",
+  "comuna": "quinta_normal",
+  "nombre_documento": "192_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal",
+  "archivo": "quinta_normal_192_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "agrupamiento": 3,
+   "zonificacion": 3,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 24,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-01"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 192, QUINTA NORMAL (2016)\r\n\r\nDecreto 192\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE QUINTA\r\nNORMAL\r\nMUNICIPALIDAD DE QUINTA NORMAL\r\nPublicación: 10-FEB-2016 | Promulgación: 04-FEB-2016\r\nVersión: Única De : 10-FEB-2016\r\nUrl Corta: https://bcn.cl/3nuz8\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE QUINTA NORMAL\r\nQuinta Normal, 4 de febrero de 2016.- La Alcaldía de Quinta Normal decretó hoy\r\nlo siguiente:\r\nNúm. 192.\r\nVistos:\r\n1. Acuerdos Nº 104 del Concejo Municipal tomados en Sesión Ordinaria de la\r\nfecha 18 de noviembre de 2014, ratificado por decreto Nº 1.532 de fecha 28 de\r\nnoviembre 2014, que aprueba el inicio de la modificación del plan Regulador.\r\n2. Certificado Nº 10 de fecha 01.06.2015, de Secretaria Municipal dando cuenta\r\ndel cumplimiento de los trámites establecidos en el artículo 2.1.11 de la OGUC:\r\nnúmero de cartas certificadas a organizaciones territoriales legalmente\r\nconstituidas; audiencias públicas de información y de consulta; sesiones Consejo\r\nComunal de Organizaciones de la Sociedad Civil de Quinta Normal de información y de\r\nconsulta; exposición a la comunidad y tiempo de duración; número de observaciones\r\nrecibidas; oficios de respuesta a los vecinos.\r\n3. Oficio Nº 613 de fecha 26.11.2014, de Alcaldía, el cual remite el no\r\nsometimiento a Evaluación Ambiental Estratégica, debido a que no es una\r\nmodificación sustancial.\r\n4. Oficio que informan a la comunidad mediante Ord. Alc. Nº 625 de fecha\r\n02.12.2014 suscritos por la Sra. Alca"
+ },
+ {
+  "id": "d0905",
+  "comuna": "quinta_normal",
+  "nombre_documento": "36_modifica_plan_regulador_comunal_de_quinta_normal",
+  "archivo": "quinta_normal_36_modifica_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 4,
+   "agrupamiento": 16,
+   "antejardin": 4,
+   "zonificacion": 1,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 2,
+   "articulado": 12
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 36, VIVIENDA (1990)\r\n\r\nResolución 36\r\nMODIFICA PLAN REGULADOR COMUNAL DE QUINTA NORMAL\r\nMINISTERIO DE VIVIENDA Y URBANISMO; SECRETARÍA REGIONAL\r\nMINISTERIAL REGIÓN METROPOLITANA\r\nFecha Publicación: 05-MAY-1990 | Fecha Promulgación: 08-MAR-1990\r\nTipo Versión: Única De : 05-MAY-1990\r\nUrl Corta: https://bcn.cl/3mvt4\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE QUINTA NORMAL (Resolución)\r\nNúm. 36.- Santiago, 08 de Marzo de 1990.- Teniendo presente:\r\na) El Acuerdo de fecha 22 de Noviembre de 1989, por el cual el Consejo de Desarrollo\r\nComunal de Quinta Normal acordó aprobar tres Planos Seccionales que modifican el\r\nPlan Regulador de dicha Comuna, como asimismo, la Ordenanza Local de dicho Plan\r\nRegulador, para cuyo efecto se efectuaron las dos publicaciones en la forma\r\nestablecida en el inciso 2° del Art. 550 de la Ordenanza General de Construcciones y\r\nUrbanización;\r\nb) Que esta Secretaría Ministerial, al estudiar los antecedentes relativos a las\r\nmodificaciones antes referidas estimó que no procedía aprobar como Plano Seccional\r\nel contenido en el Plano PS-QN 03/89, denominado \"Alberti-calle 10 Población\r\nCatamarca\", por lo cual el Consejo de Desarrollo Comunal, en sesión de fecha 17 de\r\nEnero de 1990, acordó modificar el Acuerdo de 22 de Noviembre de 1989, a que se\r\nrefiere el considerando a);\r\nc) El Decreto Alcaldicio No. 940, de 19 de Diciembre de 1989, modificado por el\r\nDecreto No. 53 de 23 de Enero de 1990, por los cuales se aprueban las modificaciones\r\na que se ha he"
+ },
+ {
+  "id": "d0906",
+  "comuna": "quinta_normal",
+  "nombre_documento": "529_aprueba_enmienda_al_plan_regulador",
+  "archivo": "quinta_normal_529_aprueba_enmienda_al_plan_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "agrupamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 529, QUINTA NORMAL (2001)\r\n\r\nDecreto 529\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR\r\nMUNICIPALIDAD DE QUINTA NORMAL\r\nFecha Publicación: 06-JUN-2001 | Fecha Promulgación: 04-JUN-2001\r\nTipo Versión: Única De : 06-JUN-2001\r\nUrl Corta: https://bcn.cl/3mijw\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR\r\nQuinta Normal, 4 de junio de 2001.- La Alcaldía de Quinta Normal decretó hoy\r\nlo siguiente:\r\nNúm. 529.- Vistos:\r\n1. Lo dispuesto en el DFL 3/1.875, de 1989 del Ministerio del Interior, en el\r\ncual se precisan los límites de la comuna de Quinta Normal.\r\n2. El decreto Nº 6, del 04-01-1995, donde ratifica el convenio de traspaso de\r\nestablecimientos educacionales de la I. Municipalidad de Santiago a la I.\r\nMunicipalidad de Quinta Normal.\r\n3. Lo establecido en la Ley General de Urbanismo y Construcciones, artículos 43\r\ny 45.\r\n4. Lo establecido en la Ordenanza General de Urbanismo y Construcciones,\r\nartículo 2.1.8.\r\n5. Las publicaciones realizadas en el diario El Mercurio, los días 8 y 15 de\r\nabril de 2001.\r\n6. La enmienda al Plan Regulador de Quinta Normal, su Memoria Explicativa.\r\n7. La enmienda Propuesta al Plan Regulador de Quinta Normal.\r\n8. El plano PRQN Nº 1, en donde se grafica el sector afectado por esta\r\nenmienda.\r\n9. El acuerdo Nº 72 del Concejo Municipal, de fecha 29-05-2001, en el que se\r\naprueba la enmienda al Plan Regulador de Quinta Normal.\r\n10. El memorándum Nº 262, de 31-05-2001, de Secpla a Secretaría Municipal que\r\nsolicita dictación de decreto alcaldicio.\r\nTeniendo present"
+ },
+ {
+  "id": "d0907",
+  "comuna": "quinta_normal",
+  "nombre_documento": "649_modifica_ordenanza_del_plan_regulador_comunal",
+  "archivo": "quinta_normal_649_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 7,
+   "altura_maxima": 4,
+   "agrupamiento": 18,
+   "antejardin": 3,
+   "rasante": 4,
+   "adosamiento": 1,
+   "distanciamiento": 5,
+   "zonificacion": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 35,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE - 1",
+   "ZE 1",
+   "ZE-1",
+   "ZONA"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 649, QUINTA NORMAL (2002)\r\n\r\nDecreto 649\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE QUINTA NORMAL\r\nPublicación: 22-JUL-2002 | Promulgación: 15-JUL-2002\r\nVersión: Única De : 22-JUL-2002\r\nUrl Corta: https://bcn.cl/3lect\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nQuinta Normal, 15 de julio de 2002.- La Alcaldía de Quinta Normal decretó hoy\r\nlo siguiente:\r\nNúm.- 649.- Vistos:\r\n\r\n1.\r\nOrd. Nº 2.072 de 1º de julio de 2002, de Secretario Ministerial Metropolitano\r\nde Vivienda y Urbanismo a Alcalde I. Municipalidad de Quinta Normal.\r\n2.\r\nOrd. Nº 136 de 17 de abril de 2002, de Alcalde de Quinta Normal a Secretario\r\nMinisterial Metropolitano de Vivienda y Urbanismo.\r\n3.\r\nDecreto Nº 87 de 30-01-2002, ratificando la modificación al PRC de Quinta\r\nNormal.\r\n4.\r\nDecreto Nº 870 de 24-08-2001, que aprueba la modificación al PRC de Quinta\r\nNormal.\r\n5.\r\nAcuerdo Nº 95 del H. Concejo, de fecha 07-08-01, en que aprueba la\r\nmodificación al Plan Regulador de Quinta Normal, Zona \"E\".\r\n6.\r\nAcuerdo Nº 60 del H. Concejo, de fecha 17-04-01, que modifica Acuerdo Nº 4.\r\n7.\r\nAcuerdo de Concejo Nº 4 del 12-01-1998, que acordó la modificación de la\r\nordenanza del PRC de Quinta Normal, en la Zona \"E\".\r\n8.\r\nAcuerdo Nº 93 del 02-08-01.\r\n9.\r\nCertificado Nº 10 del 16-08-01, de Secretaría Municipal y Concejo.\r\n10. Certificado S/Nº del 06-03-2002 de Secretaría Municipal y Concejo.\r\n11. Avisos de publicaciones, de fechas 29 de abril de 2001 y 6 de mayo 2001, en\r\ndiario El Mercurio."
+ },
+ {
+  "id": "d0908",
+  "comuna": "quinta_normal",
+  "nombre_documento": "70_aprueba_plan_regulador_comunal_de_quinta_normal",
+  "archivo": "quinta_normal_70_aprueba_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 4,
+   "altura_maxima": 2,
+   "agrupamiento": 11,
+   "antejardin": 3,
+   "rasante": 2,
+   "adosamiento": 3,
+   "distanciamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 23,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 70, VIVIENDA (1987)\r\n\r\nDecreto 70\r\nAPRUEBA PLAN REGULADOR COMUNAL DE QUINTA NORMAL\r\nMINISTERIO DE VIVIENDA Y URBANISMO; SUBSECRETARIA DE VIVIENDA Y\r\nURBANISMO\r\nPublicación: 04-JUL-1987 | Promulgación: 20-MAY-1987\r\nVersión: Última Versión De : 02-DIC-2017\r\nUltima Modificación: 02-DIC-2017 Decreto 1626\r\nUrl Corta: https://bcn.cl/3lej7\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE QUINTA NORMAL\r\nSantiago, 20 de Mayo de 1987.- Hoy se decretó lo\r\nsiguiente:\r\nNúm. 70.- Visto: Lo dispuesto en los artículos 2° y\r\n9° de la Ley No. 16.391 y 12° letra i) del DL No. 1.305,\r\nde 1976; los artículos 41° al 44° y 54° del DFL No. 458,\r\n(V. y U.), de 1075, Ley General de Urbanismo y\r\nConstrucciones; el artículo 550 de la Ordenanza General de\r\nConstrucCiones y Urbanización; el Decreto Alcaldicio No.\r\n642, de 10 de Julio de 1986, de la I. Municipalidad de\r\nQuinta Normal; y, los antecedentes que se acompañan,\r\nD e c r e t o:\r\nArtículo 1°.- Apruébase el Plan Regulador Comunal de\r\nNormal, de Quinta conformidad a lo indicado en la Memoria\r\nExplicativa, el Estudio de Factibilidad de Agua Potable y\r\nAlcantarillado, la Ordenanza Local y el Plano PRC-QN-1,\r\ndenominado \"Plano Regulador Comunal de Quinta Normal\",\r\nconfeccionado a escala 1:5.000, por la I. Municipalidad de\r\nQuinta Normal, documentos que por el presentedecreto se\r\naprueban.\r\nArtículo 2°.- El texto de la Ordenanza Local del Plan\r\nRegulador Comunal de Quinta Normal, que por el presente\r\ndecreto se aprueba, es el siguiente:\r\n\r\nCAPITULO I\r\nDispo"
+ },
+ {
+  "id": "d1234",
+  "comuna": "quinta_normal",
+  "nombre_documento": "1381_aprobacion_de_plan_regulador_de_quinta_normal",
+  "archivo": "quinta_normal_1381_aprobacion_de_plan_regulador_de_quinta_normal__2019 DECRETO Nº1381.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 43,
+  "paginas_escaneadas": 43,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0232",
+  "comuna": "quintero",
+  "nombre_documento": "decreto_alcaldicio_n3880_apruebase_la_modificacion_de_con_el_gobierno_regional_d",
+  "archivo": "quintero_decreto_alcaldicio_n3880_apruebase_la_modificacion_de_con_el_gobierno_regional_d__Decreto%20Alcaldicio%20N%203880%20de%20fecha%2018-07-2024%20Depto-%20%20Secplan..pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 7,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0909",
+  "comuna": "quintero",
+  "nombre_documento": "1191_desafecta_la_declaratoria_de_utilidad_publica_contemplada_en_el_plan_regula",
+  "archivo": "quintero_1191_desafecta_la_declaratoria_de_utilidad_publica_contemplada_en_el_plan_regula__do-20151003.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.273.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nBarlaro función de Tesorero Provincial\r\nSubrogante . . ..................................... P.2\r\n\r\nNormas Generales\r\n\r\nMINISTERIO DE ECONOMÍA,\r\nFOMENTO Y TURISMO\r\n\r\nPODER EJECUTIVO\r\n\r\nCorporación de Fomento de la\r\nProducción\r\n\r\nMINISTERIO DEL INTERIOR Y\r\nSEGURIDAD PÚBLICA\r\n\r\nResolución número 1.655 exenta, de 2015.Pone en ejecución acuerdo Comité de\r\nAsignación de Fondos -CAF- y aprueba\r\nnuevo Reglamento del Programa de Apoyo a\r\nProyectos Estratégicos en Etapa de Preinversión\r\n-PRAP-.. ....................................................P.3\r\n\r\nDecreto número 1.102, de 2015.Acepta renuncia al cargo de Intendente de\r\nla Región de Valparaíso.......................... P.1\r\nDecreto número 1.128, de 2015.Nombra Intendenta de la Región de Arica y\r\nParinacota. .............................................. P.1\r\nMINISTERIO DE RELACIONES\r\nEXTERIORES\r\n\r\nMINISTERIO DE EDUCACIÓN\r\nDecreto número 200, de 2015.- Reglamenta\r\nla ejecución de la asignación presupuestaria\r\n“Internacionalización de Universidades”......P.7\r\nMINISTERIO DE JUSTICIA\r\n\r\nMINISTERIO DE HACIENDA\r\n\r\nDecreto número 3.262 exento, de 2015.Modifica fecha de entrada en vigencia de\r\nnuevos montos de valores adicionales para\r\ndocumentos de identidad y viaje electrónicos\r\nq"
+ }
+]

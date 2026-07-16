@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_3a2d62239b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3905.13sep2007.pdf",
+  "nombre": "las_condes_decreto.3905.13sep2007.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:27:26",
+  "fin": "2026-07-15T08:30:43",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alc. Secc 1a N3905, 13-sep-2007: APRUEBA el Plano Seccional Portal La Reina para poligono ABCDA (zona UC-2, sector delimitado por Manuel Claro Vial/Padre Hurtado/Francisco Bilbao/Enrique Bunster), autorizando equipamiento mayor. El decreto es solo el acto administrativo aprobatorio; remite al plano grafico PS-UC2-PLR (no incluido en este PDF de 1 pagina) para el detalle de uso de suelo. No transcribe parametros normativos (usos de suelo, COS, CC, altura) en el texto. Norma referenciada pero no transcrita en este documento -- similar a patron de norma inalcanzable. Verificado visualmente, documento de 1 pagina."
+  }
+}

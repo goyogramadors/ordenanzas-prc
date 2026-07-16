@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_6a0ae20f5f",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\LO9BAB~1.PDF",
+  "nombre": "LO9BAB~1.PDF",
+  "veredicto": "MIXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:43:30",
+  "fin": "2026-07-15T07:49:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Pagina de DO 41.273 (03-10-2015, Cuerpo I 17-18) que mezcla varias comunas: (1) Superintendencia de Electricidad (ajeno). (2) Lo Barnechea, Decreto 5794/2015 MPRC-LB-22: SOLO modifica el POLIGONO (lista de puntos deslinde) del establecimiento N8 Zona E Equipamiento Educacional (art.55): 'donde dice 36-37-38-39-40-41-42-43-44-45-46-39 debe decir 36-37-38-39-40-41-42-43-36' -- es correccion geometrica de deslinde, SIN valor de norma (COS/CC/altura/etc). (3) Quintero, Decreto 1191/2015: DESAFECTA declaratoria de utilidad publica (ensanche 4 m Av. Norman... via), es vialidad/tramite, no norma de zona. (4) Doñihue, ordenanza de derechos y concesiones (otro tema, ajeno). Ninguna de las 4 entradas fija norma urbanistica de zona."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_1af8657bae",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_decreto_3112_apruebase_en_todas_sus_partes_el_inicio_del_proyecto_modificaciones__decreto3113_septiembre2022.pdf",
+  "nombre": "pichilemu_decreto_3112_apruebase_en_todas_sus_partes_el_inicio_del_proyecto_modificaciones__decreto3113_septiembre2022.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:46:53",
+  "fin": "2026-07-15T12:53:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento 3113/2022 (nombre archivo referencia 3112/3113): Aprueba inicio del proyecto 'Modificaciones No Sustanciales PRC Pichilemu, Diversos Sectores' (8 sectores: Cahuil-Villa Esperanza, ZE-2 PRI Borde Costero, desafectacion area verde, Comite El Diamante, etc). Es la etapa de inicio/imagen objetivo: describe conceptualmente los cambios pero no reproduce cuadro de normas urbanisticas (COS/CC/altura) con valores."
+  }
+}

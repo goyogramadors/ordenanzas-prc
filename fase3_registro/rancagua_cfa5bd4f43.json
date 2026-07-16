@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_cfa5bd4f43",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_audencias_publicas_para_la_confeccion_modificacion_o_enmiendas_del_plan_regulado__ORDENANZA_PARTICIP-Modif_Agosto_2014.pdf",
+  "nombre": "rancagua_audencias_publicas_para_la_confeccion_modificacion_o_enmiendas_del_plan_regulado__ORDENANZA_PARTICIP-Modif_Agosto_2014.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 17,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:22:08",
+  "fin": "2026-07-14T21:23:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES NORMATIVO DE ZONA: es la ORDENANZA DE PARTICIPACION CIUDADANA de Rancagua (17 pags): procedimientos de audiencias publicas para la confeccion, modificacion o enmiendas del PRC, division de la comuna en 6 sectores territoriales (CDC Centro, Poniente, etc.) con limites geograficos. Grep de las 4 senales urbanisticas principales: 0 hits. Regula el PROCESO, no fija normas de zona. Candidato a descarte."
+  }
+}

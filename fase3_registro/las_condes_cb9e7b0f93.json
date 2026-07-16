@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_cb9e7b0f93",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_14.-46a-2021-Plano-Modif.-N-10-de-octubre-de-2017.pdf",
+  "nombre": "las_condes_14.-46a-2021-Plano-Modif.-N-10-de-octubre-de-2017.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:31:52",
+  "fin": "2026-07-15T08:33:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Plano de Detalle Area EAb3 Modificacion N10/2017 - Plano de Edificacion. Cartografia con poligonos situacion anterior/actual y codigos de zona (EAb3,EAm2,Ee1) y simbologia, sin cuadro de valores numericos de normas."
+  }
+}

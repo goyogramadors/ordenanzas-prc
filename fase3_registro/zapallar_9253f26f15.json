@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_9253f26f15",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_85_aprueba_dejar_sin_efecto_de_la_rasante_plan_regulador_comunal__85.pdf",
+  "nombre": "zapallar_acuerdo_85_aprueba_dejar_sin_efecto_de_la_rasante_plan_regulador_comunal__85.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:41:29",
+  "fin": "2026-07-15T07:47:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ZAPALLAR: Certificado Acuerdo 85-2014 (1p), Concejo Municipal deja SIN EFECTO la aplicacion de la rasante de menos 15 grados del parrafo 4 del art 23 del PRC, pero SOLO PARA UN PROYECTO ESPECIFICO (casa en Lote 17-A3, Ruta E-30-F 7480, Parcelacion San Carlos, rol de avaluo 52-81). Es una excepcion puntual a un predio determinado, no una modificacion general de la norma de rasantes."
+  }
+}

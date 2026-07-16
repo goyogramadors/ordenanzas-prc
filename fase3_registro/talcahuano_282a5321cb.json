@@ -1,0 +1,20 @@
+{
+  "id": "talcahuano_282a5321cb",
+  "comuna": "talcahuano",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\talcahuano_acuerdo_516_se_aprueba_el_plano_de_detalle_del_plan_regulador_comunal_de_talcahu__42c435b4-8aa8-4603-b073-191f62da5465.pdf",
+  "nombre": "talcahuano_acuerdo_516_se_aprueba_el_plano_de_detalle_del_plan_regulador_comunal_de_talcahu__42c435b4-8aa8-4603-b073-191f62da5465.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:58:32",
+  "fin": "2026-07-15T13:00:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Acuerdo 516 (18-dic-2019, 1p): aprueba el Plano de Detalle del PRC de Talcahuano correspondiente a la calle Germán Riesco entre Av. Colón y Desiderio García. Acuerdo administrativo de aprobación de un plano de detalle vial, no contiene cuadro de normas urbanísticas."
+  }
+}

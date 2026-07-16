@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_924b3af8b7",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_785_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_eae__PUBLICACION_DIARIO_OFICIAL_11-10-19_Decreto_DAL_785_ 27-9-2019.pdf",
+  "nombre": "lo_barnechea_785_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_eae__PUBLICACION_DIARIO_OFICIAL_11-10-19_Decreto_DAL_785_ 27-9-2019.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:02:41",
+  "fin": "2026-07-14T21:03:57",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LO BARNECHEA: DUPLICADO de sin_comuna_8b2b630897 (mismo decreto DAL 785-2019, Diario Oficial 11-oct-2019, 18p, mismo conteo de caracteres por pagina). Es el INICIO de la Evaluacion Ambiental Estrategica para actualizar el PRC: pag 10 (repetida en 17) solo lista en VINETAS las materias que a futuro regulara el PRC (usos de suelo, agrupamiento, CC, COS, alturas) sin valores ni zonas; pags 15-16 carta Gantt del estudio; pag 12 objetivos ambientales EAE. Sin normas. Ver la nota completa en sin_comuna_8b2b630897."
+  }
+}

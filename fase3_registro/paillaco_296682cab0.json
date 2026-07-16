@@ -1,0 +1,25 @@
+{
+  "id": "paillaco_296682cab0",
+  "comuna": "paillaco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\paillaco_68_modificacion_plan_regulador_comunal__1042-Publicacion-Diario-Oficial_compressed.pdf",
+  "nombre": "paillaco_68_modificacion_plan_regulador_comunal__1042-Publicacion-Diario-Oficial_compressed.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:08:02",
+  "fin": "2026-07-14T21:11:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        18,
+        34
+      ]
+    ],
+    "paginas_utiles": 17,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa BCN confirmada. Art.4 'Fijacion de Normas Urbanisticas' p18-31: TODAS las zonas (ZMC-1/2, ZM-1 a ZM-7 con subzonas, ZH-1 a ZH-6, ZEQ-1/2, ZAP-1/1A, ZI, ZEP-1 a ZEP-6), titulo en texto pero tabla completa (usos, superficie predial min, densidad, agrupamiento, antejardin/ochavo, altura max, coef.constructibilidad, coef.ocupacion) es IMAGEN, confirmado render p18,20,26,30,31. Art.5.4 ICH y 5.5 MH p32-34: tablas por inmueble patrimonial individual, tambien imagen. Desde p34 Art.7 Red Vial (p34-46) y Art.8 estacionamientos (p47-48) son tablas-imagen de vialidad/estacionamiento, excluidas por no ser normas de zona."
+  }
+}

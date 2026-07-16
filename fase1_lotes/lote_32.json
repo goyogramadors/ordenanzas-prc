@@ -1,0 +1,660 @@
+[
+ {
+  "id": "d0803",
+  "comuna": "mejillones",
+  "nombre_documento": "2792_aprueba_modificacion_al_plan_regulador_comunal_de_mejillones_zona_urbana_co",
+  "archivo": "mejillones_2792_aprueba_modificacion_al_plan_regulador_comunal_de_mejillones_zona_urbana_co__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 69,
+  "paginas_escaneadas": 27,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "agrupamiento": 2,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 6,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 3,
+   "articulado": 21
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-3",
+   "ZONA",
+   "ZR",
+   "ZR-2",
+   "ZR-3a",
+   "ZR-3b",
+   "ZT-1",
+   "ZT-2",
+   "ZT-3",
+   "ZT-4"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2792 EXENTO, MEJILLONES (2013)\r\n\r\nDecreto 2792 EXENTO\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE MEJILLONES,\r\nZONA URBANA CONSOLIDADA Y PORTUARIA\r\nMUNICIPALIDAD DE MEJILLONES\r\nPublicación: 03-OCT-2013 | Promulgación: 12-SEP-2013\r\nVersión: Última Versión De : 16-OCT-2013\r\nUltima Modificación: 04-ENE-2017 Decreto 2819\r\nUrl Corta: https://bcn.cl/3olc3\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE\r\nMEJILLONES, ZONA URBANA CONSOLIDADA Y PORTUARIA\r\nNúm. 2.792 exento.- Mejillones, 12 de septiembre\r\n2013.- Vistos:\r\n1.\r\nEl acta de proclamación del Tribunal Electoral\r\nRegional de Antofagasta, de fecha 06.12.2012. Lo resuelto en\r\nla Sentencia de Escrutinios y Calificación de la Elección\r\nMunicipal de Alcalde, efectuada en la comuna de Mejillones\r\nel día 28 de octubre de 2012, Rol Electoral Nº57 de 2012.\r\n2.\r\nEl convenio de colaboración técnica con la\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo\r\nRegión de Antofagasta, de fecha 12.08.2009, para la\r\nelaboración del estudio básico \"Modificación Plan\r\nRegulador Comunal de Mejillones, Zona Urbana Consolidada y\r\nPortuaria\".\r\n3.\r\nEl Ord Nº 634/2011, de fecha 21.06.2011, del Seremi\r\nMinvu Región de Antofagasta, que remite al Jefe de la\r\nUnidad de Evaluación Ambiental Estratégica del Ministerio\r\ndel Medio Ambiente, que solicita pronunciamiento sobre el\r\nInforme de Evaluación Ambiental Estratégica.\r\n4.\r\nEl Ord Nº 112546/2011, de fecha 22.08.2011, del\r\nSubsecretario del Ministerio del Medio Ambiente, que remite\r\n"
+ },
+ {
+  "id": "d0804",
+  "comuna": "mejillones",
+  "nombre_documento": "33_ordenanza_plan_regulador_comunal_del_puerto_y_bahia_de_mejillones",
+  "archivo": "mejillones_33_ordenanza_plan_regulador_comunal_del_puerto_y_bahia_de_mejillones__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 35,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 8,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Ordenanza 33, MEJILLONES (2000)\r\n\r\nOrdenanza 33\r\nORDENANZA PLAN REGULADOR COMUNAL DEL PUERTO Y BAHIA DE\r\nMEJILLONES\r\nMUNICIPALIDAD DE MEJILLONES\r\nPublicación: 11-NOV-2000 | Promulgación: 08-JUN-2000\r\nVersión: Única De : 11-NOV-2000\r\nUltima Modificación: 14-JUL-2017 Decreto 2150\r\nUrl Corta: https://bcn.cl/3l5xf\r\n\r\nORDENANZA PLAN REGULADOR COMUNAL DEL PUERTO Y BAHIA DE\r\nMEJILLONES\r\nNúm. 33.- Mejillones, 8 de Junio de 2000.- Vistos: Lo\r\ndispuesto en el Decreto con Fuerza de Ley N° 458, Ley\r\nGeneral de Urbanismo y Construcciones y su Ordenanza;\r\nartículos 20 y 30 de la Ley N° 19.175, Orgánica\r\nConstitucional sobre Gobierno y Administración Regional y\r\nla Resolución N°522/96 de la Contraloría General de la\r\nRepública y sus modificaciones.\r\nConsiderando:\r\na. Que el Concejo Municipal de Mejillones, en Sesión\r\nOrdinaria N°174/99 del 04 de agosto de 1999, dio su\r\naprobación al Proyecto \"Plan Regulador Comunal del Puerto y\r\nBahía de Mejillones\".\r\nb. Que, por Decreto N° 683/99, de fecha 29 de septiembre de\r\n1999 de la I. Municipalidad de Mejillones, se aprobó el\r\nProyecto \"Plan Regulador Comunal del Puerto y Bahía de\r\nMejillones\" y su Ordenanza.\r\nc. Que por medio del Informe del 14 de marzo de 2000, la\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo II\r\nRegión, Departamento de Desarrollo Urbano, encuentra\r\nadecuado aprobar el Plan Regulador Comunal.\r\nd. Que, por Resolución Exenta N°0133 del 02 de Octubre de\r\n1999 de la Comisión Regional del Medio Ambiente, se\r\ncalificó favorabl"
+ },
+ {
+  "id": "d1164",
+  "comuna": "mejillones",
+  "nombre_documento": "2150_enmiendase_el_plan_regulador_comunal_de_mejillones_publicado_en_el_diario_o",
+  "archivo": "mejillones_2150_enmiendase_el_plan_regulador_comunal_de_mejillones_publicado_en_el_diario_o__OREDENANZA-PLAN-REGULADOR-COMUNAL-11.11.2000.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0415",
+  "comuna": "melipilla",
+  "nombre_documento": "decreto_promulga_modificacion_del_plan_regulador_comunal_de_melipilla_prorroga_d",
+  "archivo": "melipilla_decreto_promulga_modificacion_del_plan_regulador_comunal_de_melipilla_prorroga_d__index.php.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0805",
+  "comuna": "molina",
+  "nombre_documento": "2922_aprueba_modificacion_a_la_ordenanza_del_plan_regulador_comunal_de_molina",
+  "archivo": "molina_2922_aprueba_modificacion_a_la_ordenanza_del_plan_regulador_comunal_de_molina__Publicacion-del-Viernes-20-de-Octubre-de-2023-DIARIO-OFICIAL.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAP",
+   "ZONA",
+   "ZU-1",
+   "ZU-2",
+   "ZU-2b",
+   "ZU-3",
+   "ZU-4",
+   "ZU-5",
+   "ZU-6",
+   "ZU-7"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.681\r\n\r\n|\r\n\r\nViernes 20 de Octubre de 2023\r\n\r\n|\r\n\r\nPágina 1 de 5\r\n\r\nNormas Generales\r\nCVE 2392680\r\n\r\nMUNICIPALIDAD DE MOLINA\r\n\r\nAPRUEBA MODIFICACIÓN A LA ORDENANZA DEL PLAN REGULADOR\r\nCOMUNAL DE MOLINA\r\nNúm. 2.922.- Molina, 6 de octubre de 2023.\r\nVistos:\r\na) La resolución N° 52 del 1 de junio de 2023, del Gobierno Regional del Maule, que\r\npromulga el Plan Regulador Comunal de Molina, publicada en el Diario Oficial con fecha 7 de\r\ndiciembre de 2022.\r\nb) Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones y lo\r\ndispuesto en los artículos 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\nc) El Acuerdo N° 441 adoptado en sesión ordinaria N° 71 del H. Concejo Municipal\r\nefectuado con fecha 8 de junio de 2023.\r\nd) El decreto N° 1.665, de fecha 8 de junio de 2023, que autoriza el inicio del proceso de\r\naprobación de la propuesta de Enmienda N° 1 del Plan Regulador Comunal de Molina.\r\ne) La presentación el 29 de junio de 2023 al Consejo de la Sociedad Civil de la Enmienda\r\nN° 1 del Plan Regulador Comunal de Molina, mediante certificado 221/2023 de Secretaria\r\nMunicipal.\r\nf) Las cartas certificadas informativas dirigidas a las organizaciones territoriales legalmente\r\nconstituidas vigentes de fecha 30 de junio de 2023.\r\ng) La entrega gratuita a los interesados de"
+ },
+ {
+  "id": "d0806",
+  "comuna": "molina",
+  "nombre_documento": "52_promulga_plan_regulador_comunal_de_molina_y_deja_sin_efecto_resoluciones_afec",
+  "archivo": "molina_52_promulga_plan_regulador_comunal_de_molina_y_deja_sin_efecto_resoluciones_afec__Publicacion-del-Miercoles-7-de-Diciembre-de-2022-DIARIO-OFICIAL.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 30,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.420\r\n\r\n|\r\n\r\nMiércoles 7 de Diciembre de 2022\r\n\r\n|\r\n\r\nPágina 1 de 30\r\n\r\nNormas Generales\r\nCVE 2225537\r\n\r\nGOBIERNO REGIONAL DEL MAULE\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE MOLINA Y DEJA SIN EFECTO\r\nRESOLUCIONES AFECTAS N° 135, DE 2013, Y N° 33, DE 2017, DEL GOBIERNO\r\nREGIONAL DEL MAULE\r\n(Resolución)\r\nNúm. 52.- Talca, 1 de junio de 2022.\r\nVistos y considerando:\r\n1. El artículo 111 de la Constitución Política del Estado, texto refundido, coordinado y\r\nsistematizado fijado por DS N° 100 de 17 de septiembre de 2005, Ministerio Secretaría General\r\nde la Presidencia;\r\n2. La Ley Nº 19.175, de 1992, Orgánica Constitucional sobre Gobierno y Administración\r\nRegional, texto refundido, coordinado, sistematizado y actualizado fijado por DFL 1/19.175 de\r\n2005, Ministerio del Interior, Subsecretaría de Desarrollo Regional y Administrativo y sus\r\nmodificaciones;\r\n3. El DFL N° 458 del Ministerio de Vivienda y Urbanismo, publicado el 13 de abril de\r\n1976, que aprueba nueva Ley General de Urbanismo y Construcciones, en adelante,\r\nindistintamente L.G.U.C. y sus modificaciones, en especial, lo establecido en su artículo 43;\r\n4. El decreto N° 47 del Ministerio de Vivienda y Urbanismo, publicado el 5 de junio de\r\n1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y\r\nConstrucciones, en adelante, "
+ },
+ {
+  "id": "d1165",
+  "comuna": "molina",
+  "nombre_documento": "ordenanza_ordenanza_local_plan_regulador_comunal_de_molina",
+  "archivo": "molina_ordenanza_ordenanza_local_plan_regulador_comunal_de_molina__Ordenaza-Local-PRC-Molina.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 26,
+  "paginas_escaneadas": 26,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1166",
+  "comuna": "molina",
+  "nombre_documento": "plan_regulador",
+  "archivo": "molina_plan_regulador__Ordenanza-N5-Participacion-Ciudadana.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 16,
+  "paginas_escaneadas": 16,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0416",
+  "comuna": "monte_patria",
+  "nombre_documento": "3534_aprueba_rectificacion_de_decreto_de_actualizacion_al_plan_regulador_comuna",
+  "archivo": "monte_patria_3534_aprueba_rectificacion_de_decreto_de_actualizacion_al_plan_regulador_comuna___1575320.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 1,
+   "articulado": 8
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [
+   "ZE5"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.331\r\n\r\n|\r\n\r\nLunes 15 de Abril de 2019\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1575320\r\n\r\nMUNICIPALIDAD DE MONTE PATRIA\r\n\r\nAPRUEBA RECTIFICACIÓN DE DECRETO DE ACTUALIZACIÓN Y\r\nMODIFICACIÓN AL PLAN REGULADOR COMUNAL DE MONTE PATRIA\r\nNúm. 3.534.- Monte Patria, 12 de marzo de 2019.\r\nVistos:\r\n• La Constitución Política de la República;\r\n• La Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del\r\nEstado;\r\n• Ley N° 18.695 Orgánica Constitucional de Municipalidades, en materia de gestión\r\nmunicipal, publicada en el Diario Oficial con fecha 3 de mayo de 2000;\r\n• Lo establecido en la ley N° 19.880, que establece Bases de los Procedimientos\r\nAdministrativos que rigen los Actos de los Órganos de la Administración del Estado;\r\n• Decreto alcaldicio N° 20.433 de fecha 12 de diciembre de 2018, que aprueba el\r\npresupuesto municipal para el año 2019;\r\n• El decreto alcaldicio N° 14.729 de fecha 6 de diciembre de 2016, que aprueba la asunción\r\nde Alcalde y Concejo periodo 2016-2020;\r\n• Lo dispuesto en los artículos 41 al 45 de la Ley General de Urbanismo y Construcciones;\r\n• Los artículos 2.1.10 y 2.1.11, de la Ordenanza General de Urbanismo y Construcciones;\r\n• La ley N° 19.300, sobre Bases Generales del Medio Ambiente y sus modificaciones;\r\n• Carta N° 452 del 10 de noviembre de 2016,"
+ },
+ {
+  "id": "d0417",
+  "comuna": "monte_patria",
+  "nombre_documento": "decreto_alcaldicio_10156_aprueba_plan_regulador",
+  "archivo": "monte_patria_decreto_alcaldicio_10156_aprueba_plan_regulador__42916bf5-5ef5-4f4a-b675-7da0f6c73425.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 64,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "agrupamiento": 1,
+   "zonificacion": 3,
+   "ordenanza_local_txt": 2,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ILUSTRE MUNICIPALIDAD\r\nDE MONTE PATRIA\r\n\r\nPLAN REGULADOR COMUNAL DE MONTE PATRIA\r\nREGIÓN DE COQUIMBO\r\n\r\nVOLUMEN I\r\n\r\nMEMORIA EXPLICATIVA\r\nAbril 2018\r\n\r\n\fACTUALIZACIÓN Y MODIFICACIÓN PLAN REGULADOR COMUNAL DE MONTE PATRIA\r\n\r\nÍNDICE DE CONTENIDOS\r\n1.\r\n\r\nINTRODUCCIÓN ................................................................................................................................ 1-1\r\n\r\n2.\r\n\r\nALCANCES y OBJETIVOS DEL PROYECTO .................................................................................. 2-2\r\n2.1 Alcances del Proyecto ........................................................................................................................... 2-2\r\n2.2 Objetivos del Proyecto........................................................................................................................... 2-2\r\n\r\n3.\r\n\r\nMARCO LEGAL ................................................................................................................................. 3-4\r\n3.1 Legislación Urbana Vigente................................................................................................................... 3-4\r\n3.2 Instrumentos de Planificación Vigentes ................................................................................................. 3-7\r\n3.2.1.\r\n\r\n4.\r\n\r\nPlan Regional de Desarrollo Urbano IV Región (PRDU) ....................................................... 3-7\r\n\r\nSÍNTESIS DEL DIAGNÓSTICO ....................................................."
+ },
+ {
+  "id": "d0418",
+  "comuna": "monte_patria",
+  "nombre_documento": "plan_regulador_comunal",
+  "archivo": "monte_patria_plan_regulador_comunal__index.php.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 9,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0807",
+  "comuna": "monte_patria",
+  "nombre_documento": "42123_modifica_y_actualiza_plan_regulador_comunal_comuna_de_monte_patria",
+  "archivo": "monte_patria_42123_modifica_y_actualiza_plan_regulador_comunal_comuna_de_monte_patria__1440131.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 40,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.123\r\n\r\nViernes 3 de Agosto de 2018\r\n\r\nPágina 1 de 40\r\n\r\nNormas Generales\r\nCVE 1440131\r\nMUNICIPALIDAD DE MONTE PATRIA\r\nPROMULGA LA ACTUALIZACIÓN Y MODIFICACIÓN AL PLAN REGULADOR\r\nCOMUNAL DE MONTE PATRIA\r\nNúm. 10.156.- Monte Patria, 28 de junio de 2018.\r\nVistos:\r\n- La Constitución Política de la República de Chile;\r\n- La Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado;\r\n- La Ley N° 18.695, Orgánica Constitucional de Municipalidades;\r\n- Lo establecido en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos\r\nque rigen los Actos de los Órganos de la Administración del Estado;\r\n- El decreto alcaldicio N° 14.729, del 6 de diciembre de 2016, que aprueba la asunción de Alcalde\r\ny Concejales, periodo 2016-2020;\r\n- Lo dispuesto en los artículos 41 al 45 de la Ley General de Urbanismo y Construcciones;\r\n- Los artículos 2.1.10 y 2.1.11, de la Ordenanza General de Urbanismo y Construcciones;\r\n- La Ley N° 19.300, sobre Bases Generales del Medio Ambiente y sus modificaciones.\r\n- Certificado de la Secretaria Municipal de Monte Patria, fecha 4 de agosto de 2015, certificando\r\nque en Sesión Ordinaria N°98 del 04.08.2015, el H. Concejo aprobó por unanimidad el proyecto de\r\nla Actualización y Modificación del Plan Regulador Comunal de Monte Patria.\r\n- Las páginas del diario “El Ovallino” y diario “El Día”, de fecha 11 de septiembre de 2015, en\r\ndonde"
+ },
+ {
+  "id": "d0808",
+  "comuna": "mostazal",
+  "nombre_documento": "elaboracion_de_los_planes_reguladores",
+  "archivo": "mostazal_elaboracion_de_los_planes_reguladores__LEY-21078_15-FEB-2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 10,
+   "normas_urbanisticas": 3,
+   "articulado": 42,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, normas_urbanisticas, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Ley 21078\r\n:15-02-2018\r\n:02-02-2018\r\n:MINISTERIO DE VIVIENDA Y URBANISMO\r\n:SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL\r\nAUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO\r\n:Con Vigencia Diferida por Fecha\r\nDe : 16-08-2018\r\n:16-08-2018\r\n:1115067\r\n:https://www.leychile.cl/N?i=1115067&f=2018-08-16&p=\r\n\r\nLEY NÚM. 21.078\r\nSOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR\r\nAMPLIACIÓN DEL LÍMITE URBANO\r\nTeniendo presente que el H. Congreso Nacional ha dado su aprobación al\r\nsiguiente\r\nProyecto de ley:\r\n\"Artículo primero.- Modifícase el decreto con fuerza de ley N° 458, de 1975,\r\ndel Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, de\r\nla siguiente forma:\r\n1. Modifícase el artículo 3 en el siguiente sentido:\r\na) Derógase su inciso cuarto, pasando los actuales incisos quinto y sexto a ser\r\ncuarto y quinto, respectivamente.\r\nb) Reemplázase en su inciso quinto, que pasa a ser cuarto, la frase \"y los\r\nReglamentos de Instalaciones Sanitarias de Agua Potable y Alcantarillado, y de\r\nPavimentación\" por la frase \"y las normas sobre pavimentación\".\r\nc) Reemplázanse en su inciso sexto, que pasa a ser quinto, las expresiones \"Los\r\ndecretos supremos mencionados en los dos últimos incisos precedentes, se dictarán\",\r\npor la frase \"El decreto supremo mencionado en el inciso precedente se dictará\".\r\n2. Agrégase a con"
+ },
+ {
+  "id": "d1167",
+  "comuna": "mulchen",
+  "nombre_documento": "10_plan_regulador_comunal_de_mulchen",
+  "archivo": "mulchen_10_plan_regulador_comunal_de_mulchen__plan_regulador.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 22,
+  "paginas_escaneadas": 22,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1168",
+  "comuna": "mulchen",
+  "nombre_documento": "plan_regulador_comunal",
+  "archivo": "mulchen_plan_regulador_comunal__Plan_regulador01.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 28,
+  "paginas_escaneadas": 28,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0809",
+  "comuna": "nacimiento",
+  "nombre_documento": "116_apruebese_plan_regulador_comunal_de_nacimiento_ano_1985",
+  "archivo": "nacimiento_116_apruebese_plan_regulador_comunal_de_nacimiento_ano_1985__5992_planregulador1985.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 3,
+   "predial_minima": 10,
+   "altura_maxima": 9,
+   "agrupamiento": 27,
+   "antejardin": 4,
+   "rasante": 5,
+   "adosamiento": 1,
+   "distanciamiento": 5,
+   "zonificacion": 3,
+   "usos_de_suelo": 9,
+   "ordenanza_local_txt": 2,
+   "articulado": 41,
+   "limite_urbano": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 13 senales normativas (ocupacion_suelo, predial_minima, altura_maxima, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nViernes 23 de Agosto de 1985\r\n\r\nN ° 32.255\r\n\r\nPunto\r\n\r\nMinisterio de Vivienda y Urbanismo\r\n\r\nTramo\r\n\r\nIntersección de la perpendicular levantada hacia el Ñor Oriente del eje del camino vecinal a 300 m. del cruce con calle\r\nVilla Alegre, con deslinde Sur Poniente\r\ndel cauce del río Bío-Bío.\r\n\r\nDecreto:\r\n\r\nIntersección del deslinde Poniente del\r\ncauce del río Vergara con prolongación\r\nhacia el Ñor Poniente del eje de calle sin\r\nnombre.\r\n\r\no\r\n\r\nArtículo I . — Apruébase el nuevo Plan Regulador Comunal de Nacimiento, en\r\nconformidad a lo establecido en la Memoria Explicativa, el Estudio de Factibilidad\r\nde Agua Potable y Alcantarillado, la Ordenanza Local y el Plano PRC-01, denominado \"Plan Regulador Comunal de Nacimiento\", confeccionado a escala 1:5.000, documentos que por e! presente decreto se aprueban.\r\n\r\nIntersección de la prolongación hacia el\r\nSur-Oriente del eje de calle sin nombre\r\ncon paralela trazada a 350 m. al Oriente\r\ndel eje de calle O'Higgins,\r\n\r\nI\r\n\r\n8 Eje de la calle sin nombre y\r\nsus^rolongaciones hacia el\r\nÑor Poniente y Sur Oriente, entre los puntos 7 y 8.\r\n\r\nDisposiciones generales\r\nARTICULO 1 .— La presente Ordenanza contiene las normas referentes al límite urbano, zonificación, usos de suelo, condiciones de subdivisión predial, de edificación, de urbanización y vialidad, que rigen dentro del área definida en el Plano\r\nPRC-01, en adelante el Plano, y complementan la información gráfica contenida en\r\nél.\r\n\r\nIntersecció"
+ },
+ {
+  "id": "d0810",
+  "comuna": "nacimiento",
+  "nombre_documento": "15_apruebese_plan_regulador_comunal_de_nacimiento_ano_2009",
+  "archivo": "nacimiento_15_apruebese_plan_regulador_comunal_de_nacimiento_ano_2009__5992_planregulador2009.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 12,
+   "antejardin": 6,
+   "rasante": 6,
+   "adosamiento": 6,
+   "distanciamiento": 10,
+   "normas_urbanisticas": 1,
+   "zonificacion": 4,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 5,
+   "articulado": 81,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZCC",
+   "ZPR-1",
+   "ZPR-3"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 15 senales normativas (predial_minima, altura_maxima, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 13 de Julio de 2009\r\n\r\nNº 39.410\r\n\r\nGobierno Regional de la Región del Bío Bío\r\nPROMULGA “PLAN REGULADOR COMUNAL DE NACIMIENTO”\r\n(Resolución)\r\nNúm. 15.- Concepción, 26 de enero de 2009.- Vistos: Lo dispuesto en la Ley Nº18.695\r\nde 1988 Orgánica Constitucional de Municipalidades y sus modificaciones posteriores; lo\r\ndispuesto en el artículo 43º del DFL Nº458 (V y U) de 1976 Ley General de Urbanismo y\r\nConstrucciones; en los artículos 2.1.10 al 2.1.11 del D.S. Nº47 (V y U) de 1992 Ordenanza\r\nGeneral de Urbanismo y Construcciones, modificado por el D.S. Nº75 (V y U) de 2001, por el\r\nD.S. Nº217 (V y U) de 2001 y por el D.S. Nº33 (V y U) de 2002; en los artículos 1º y 2º de la\r\nLey Nº19.778 de 2001 que modificó la Ley Nº19.175 Orgánica Constitucional sobre Gobierno\r\ny Administración Regional, en materia de planes reguladores, y lo dispuesto en la Resolución\r\nNº1.600 del año 2008 de la Contraloría General de la República.\r\n\r\nPágina 19\r\n\r\nsión predial, urbanización y edificación; y vialidad estructurante, que regirán dentro del área\r\nterritorial urbana del Plan Regulador Comunal de Nacimiento, de acuerdo a lo graficado en el\r\nPlano PRCN-01, elaborado a escala 1:5.000, en adelante el Plano, con cuya información gráfica\r\nes complementaria.\r\nDerógase la Modificación Plan Regulador Comunal Vigente, sancionado por Decreto\r\nAlcaldicio Nº03/2004 de fecha Marzo 19 del 2004, aprobado por Resolución N°70 de fecha 21/\r\n07/04 del Gobierno Regional "
+ },
+ {
+  "id": "d0811",
+  "comuna": "nacimiento",
+  "nombre_documento": "70_apruebese_modificacion_plan_regulador_comunal_de_nacimiento_ano_2004",
+  "archivo": "nacimiento_70_apruebese_modificacion_plan_regulador_comunal_de_nacimiento_ano_2004__5992_modificacion2004.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 3,
+   "predial_minima": 3,
+   "altura_maxima": 2,
+   "agrupamiento": 4,
+   "antejardin": 1,
+   "rasante": 3,
+   "distanciamiento": 3,
+   "normas_urbanisticas": 1,
+   "zonificacion": 4,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 2,
+   "articulado": 18,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z - 3",
+   "Z - 6",
+   "Z - 7",
+   "Z - 8",
+   "ZONA"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Referencia del Documento:\r\nDiario Oficial/Normas Generales/Año 2004/DO 28/10/2004 RES 70 2004 GOBIERNO REGIONAL\r\nDEL BIO BIO\r\n\r\nGobierno Regional del Bío Bío\r\nPROMULGA \"MODIFICACION DEL PLAN REGULADOR COMUNAL DE\r\nNACIMIENTO\", PROVINCIA DE BIO BIO\r\n(Resolución)\r\nNúm. 70.- Concepción, 21 de julio de 2004.- Vistos:\r\n\r\na) Resolución exenta Nº 37, de fecha 18 de febrero de 2004, de la Comisión Regional del Medio Ambiente, mediante la\r\ncual se califica favorablemente la modificación, antes mencionada, y que no requiere ninguno de los permisos\r\nambientales sectoriales indicados en el Reglamento del Sistema de Evaluación de Impacto Ambiental.\r\n\r\nb) Certificado Nº 7/04, de fecha 19 de febrero del presente año, del Secretario Municipal, mediante el cual se acredita\r\nque en sesión ordinaria efectuada el 17 de febrero de 2004 el Concejo Municipal aprobó Ratificar las respuestas\r\ntécnicas contenidas en el informe respectivo.\r\n\r\nc) Ords. Nºs 110 y 111, ambos de fecha 24 de febrero del presente año, del Sr. Alcalde de la comuna de Nacimiento,\r\nmediante los cuales se dan respuestas al Presidente del Comité de Viviendas San Gabriel y a don Arístides Cicci\r\nLombardo en cuanto a las observaciones planteadas.\r\n\r\nd) Ord. Nº 168/2004, de fecha 23 de marzo de 2004, del Sr. Alcalde comuna de Nacimiento, dirigido al Sr. S.R.M. de\r\nVivienda y Urbanismo, mediante el cual se acompañan la Ordenanza Local Texto Refundido, Memoria Explicativa y\r\nPlano Modificación Plan Regulador Comunal de Nacimiento.\r\n\r\ne"
+ },
+ {
+  "id": "d1169",
+  "comuna": "nacimiento",
+  "nombre_documento": "1270_promulga_enmienda_n2_al_plan_regulador_comunal_de_nacimiento",
+  "archivo": "nacimiento_1270_promulga_enmienda_n2_al_plan_regulador_comunal_de_nacimiento__50977_enmienda2_prc_nacimiento.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 16,
+  "paginas_escaneadas": 16,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

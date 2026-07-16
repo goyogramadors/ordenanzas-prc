@@ -1,0 +1,25 @@
+{
+  "id": "valdivia_f88234d66c",
+  "comuna": "valdivia",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valdivia_2793_enmienda_plan_regulador_vigente_de_la_comuna_de_valdivia_sector_parke_krham__DTO-2793-EXENTO_05-JUN-2008.pdf",
+  "nombre": "valdivia_2793_enmienda_plan_regulador_vigente_de_la_comuna_de_valdivia_sector_parke_krham__DTO-2793-EXENTO_05-JUN-2008.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:33:55",
+  "fin": "2026-07-14T21:37:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "VALDIVIA: Decreto 2793 exento (2008, BCN LeyChile, 4p), Enmienda del PRC, Seccional Parque Krahmer, zonas ZK-V1 y ZK-V2. Norma parcial en texto plano (p2): cambios expresados en PORCENTAJE, no en valores absolutos: agrega uso Equipamiento Comercio en ambas zonas; aumenta el Coeficiente de Ocupacion de Suelo 30 por ciento en ambas zonas; aumenta el Coeficiente de Constructibilidad 30 por ciento en ZK-V1; disminuye el CC 7,14 por ciento en ZK-V2; disminuye la altura minima de edificacion 20 por ciento en ZK-V2. La tabla resumen con los valores absolutos NO esta en el PDF: dice VER DIARIO OFICIAL DE 05.06.2008, PAGINA 8. Solo son extraibles los porcentajes de cambio, no los valores base ni finales."
+  }
+}

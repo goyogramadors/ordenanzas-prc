@@ -1,0 +1,33 @@
+{
+  "id": "penalolen_b17b33e1fd",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2002.pdf",
+  "rangos": [
+    [
+      4,
+      6
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Diario Oficial 37.238 (18-abr-2002), Modificación PRC Peñalolén Parque Cousiño Macul (9p). Págs.4-5 (DO pág.9): Art.32 zonas Z-E (equip. intercomunal) y ZHM-4/ZHM-5, tablas completas (densidad, agrupamiento, subdivisión, frente, %ocup, coef.constr, altura, distanciamiento, rasante, adosamiento, cierros, antejardín). Pág.6 (DO pág.10): ZHM-1, ZHM-2, ZHM-3, mismas columnas completas. Excluidas: pág.3 (solo usos permitidos/prohibidos cualitativos sin valores numéricos), pág.8 (tabla resumen densidad/uso de suelo, redundante con 4-6) y pág.9 (Normas Particulares de Propiedad Industrial, ajeno al PRC).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-16T08:05:00",
+  "fin": "2026-07-16T08:11:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_mprc2002_parque_cousino_macul_zonas_completas_pag4-6.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "Z-E",
+      "ZHM-1",
+      "ZHM-2",
+      "ZHM-3",
+      "ZHM-4",
+      "ZHM-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: 6 zonas completas (usos por escala Mayor/Mediano/Menor + condiciones de edificacion detalladas con densidad/agrupamiento/subdivision/frente/ocupacion/CC/altura/distanciamiento/rasante/adosamiento/cierros/antejardin). p3,8,9 correctamente excluidas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "santiago_bcc02653d5",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_4491_decreto_alcaldicio_numero_4491_secc_2a_de_2018_promulga_modificacion_del_pl__4491.pdf",
+  "nombre": "santiago_4491_decreto_alcaldicio_numero_4491_secc_2a_de_2018_promulga_modificacion_del_pl__4491.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 35,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:56:08",
+  "fin": "2026-07-15T12:58:50",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Documento es un decreto de modificacion textual (art 1-5, num. 5.1 a 5.14) de la Ordenanza Local del PRC de Santiago vigente (aprobada 1989/1990), no reproduce el/los cuadro(s) completo(s) de normas urbanisticas por zona. Las 35 paginas contienen exclusivamente: listados de Monumentos Historicos e Inmuebles de Conservacion Historica (pags 3-5), texto normativo de subzonas de altura condicionada por ICH (Subzonas AR, A1R, A5R, A6R, BR, B2R, B6R, B8R, B9R, B10R, B11R, B12R, B14R, B15R, DR, D2R, D3R, D5R, D6R, D8R, E3R-E10R) redactado en prosa (no tabular) para cada zona/sector especial (pags 6-31), reemplazos puntuales de celdas o numeros sueltos dentro de cuadros preexistentes no reproducidos integramente (ej. num. de m2 predial minimo 500->150, 300->150, etc.; incremento de constructibilidad; tablas CUS 1-4 con solo la fila modificada de Actividades Productivas o Comercio/Servicios), tablas de giros CIIU/TAP (pag 32-34, actividades economicas, no normas urbanisticas), cuadro de vialidad comunal estructurante (pag 35, excluido por instruccion), y paginas de firmas/visto/considerandos (pag 1-2, 35). No hay un cuadro numerico consolidado de COS, CC, altura, agrupamiento, antejardin, superficie predial minima, densidad, distanciamiento o retranqueo por zona; solo remite a los articulos 27 y 30 de la ordenanza base (no incluida en este PDF) y modifica valores puntuales dentro de ellos. Verificado: todas las menciones corresponden a Santiago (zonificacion PRS, alcalde Felipe Alessandri Vergara), sin contenido de otra comuna."
+  }
+}

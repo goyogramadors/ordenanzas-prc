@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_3659d30489",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_decreto_alcaldicio_914_promulga_acuerdo_no107_aprueba_elaborar_anteproyecto_de_p__Decreto_914.pdf",
+  "nombre": "estacion_central_decreto_alcaldicio_914_promulga_acuerdo_no107_aprueba_elaborar_anteproyecto_de_p__Decreto_914.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:15:32",
+  "fin": "2026-07-15T08:16:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "ESTACION CENTRAL: Decreto exento 914 (26-ago-2022, 1p, escaneado sin OCR): promulga el Acuerdo 107 del Concejo, que aprueba un informe que sintetiza observaciones al resumen ejecutivo y planos de la propuesta de Imagen Objetivo, segun alternativa de estructuracion N3 Esquema de Nodos, para elaborar el anteproyecto del PRC. Es tramite del proceso de actualizacion, sin normas. Verificado visualmente."
+  }
+}

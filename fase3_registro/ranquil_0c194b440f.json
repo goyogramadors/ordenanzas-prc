@@ -1,0 +1,25 @@
+{
+  "id": "ranquil_0c194b440f",
+  "comuna": "ranquil",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\ranquil_ordenanza_113_aprueba_ordenanza_de_plan_regulador__OrdenanzaPlanReg-Modifica.pdf",
+  "nombre": "ranquil_ordenanza_113_aprueba_ordenanza_de_plan_regulador__OrdenanzaPlanReg-Modifica.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:22:57",
+  "fin": "2026-07-14T21:25:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "rectificación/complementación Resolución 113: agrega valores narrativos para ZONA DE EQUIPAMIENTO ZE (subdivisión predial mínima 500m2, COS 0.5, coef.constructibilidad 1.5) y modifica usos permitidos ZEXHMP; OCR de mala calidad (documento escaneado antiguo), texto con errores de reconocimiento mezclados con números pero valores identificables"
+  }
+}

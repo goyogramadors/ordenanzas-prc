@@ -1,0 +1,20 @@
+{
+  "id": "talca_b4ce141530",
+  "comuna": "talca",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\talca_decreto_alcaldicio_10167_aprueba_bases_administrativas_del_llamado_a_propuesta_p__10167.pdf",
+  "nombre": "talca_decreto_alcaldicio_10167_aprueba_bases_administrativas_del_llamado_a_propuesta_p__10167.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:58:14",
+  "fin": "2026-07-15T13:00:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 10167/2024: aprueba Bases Administrativas Especiales del llamado a Propuesta Publica 'Cartografia Base Modificacion PRC de Talca'. Documento de proceso de contratacion, no contiene normas urbanisticas."
+  }
+}

@@ -1,0 +1,786 @@
+[
+ {
+  "id": "d1006",
+  "comuna": "valparaiso",
+  "nombre_documento": "2342_modificacion_plan_regulador_comunal_de_valparaiso_sector_cerros_delicias_y",
+  "archivo": "valparaiso_2342_modificacion_plan_regulador_comunal_de_valparaiso_sector_cerros_delicias_y___do-20150904.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 100,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.250.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nMINISTERIO DEL TRABAJO Y\r\nPREVISIÓN SOCIAL\r\n\r\nNormas Generales\r\n\r\nDecreto número 218 exento, de 2015.Deroga decreto N° 102 exento, de 2015, y\r\nestablece orden de subrogación en el cargo\r\nde Subsecretaria de Previsión Social. .......P.3\r\n\r\nPODER EJECUTIVO\r\n\r\nMINISTERIO DE SALUD\r\nMINISTERIO DEL INTERIOR Y\r\nSEGURIDAD PÚBLICA\r\n\r\nSecretaría Regional Ministerial\r\nVIII Región del Biobío\r\n\r\nDecreto número 967, de 2015.- Acepta\r\nrenuncia al cargo de Intendente de la Región\r\nde Tarapacá...........................................P.1\r\n\r\nResolución número 3.925 exenta, de\r\n2015.- Aprueba arsenal farmacológico\r\npara establecimientos de la APS ubicados\r\nen la jurisdicción del Servicio de Salud\r\nTalcahuano...............................................P.4\r\n\r\nDecreto número 972, de 2015.- Nombra\r\nIntendenta de la Región de Tarapacá. ....P.2\r\n\r\nSubsecretaría de Salud Pública\r\n\r\nMINISTERIO DE HACIENDA\r\nTesorería General de la República\r\n\r\nInstituto de Salud Pública\r\n\r\nSubsecretaría de Economía y\r\nEmpresas de Menor Tamaño\r\n\r\nResolución número 2.916 exenta, de\r\n2015.- Abre periodo de información pública en\r\nprocedimiento de régimen de control aplicable\r\nrespecto de los productos toallas higiénicas,\r\nincluidos los protectores diarios y cualqu"
+ },
+ {
+  "id": "d1007",
+  "comuna": "valparaiso",
+  "nombre_documento": "3195_aprueba_modificacion_plan_regulador_comunal_valparaiso",
+  "archivo": "valparaiso_3195_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141111.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "altura_maxima": 3,
+   "agrupamiento": 10,
+   "distanciamiento": 4,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 29
+  },
+  "senales_tramite": {
+   "txt_licitacion": 8
+  },
+  "codigos_zona": [
+   "ICH",
+   "ZONA"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.004\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 11 de Noviembre de 2014\r\n\r\nCuerpo I - 1\r\n\r\nI\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.004.Año CXXXVII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día..................$200.- (IVA incluido)\r\nAtrasado..............................$400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nMINISTERIO DEL MEDIO AMBIENTE\r\n\r\nNormas Generales\r\n\r\nServicio de Evaluación Ambiental\r\nVII Región del Maule\r\n\r\nPODER EJECUTIVO\r\nMINISTERIO DE\r\nRELACIONES EXTERIORES\r\nDecreto número 210.- Promulga el convenio de\r\nCooperación Técnico - Militar entre el Gobierno de la\r\nRepública de Chile y el Gobierno de la Federación de\r\nRusia.............................................................................P.1\r\n\r\nExtracto de resolución número 133 exenta, de 2014, que\r\nnotifica resolución de inicio de proceso de participación\r\nciudadana Declaración de Impacto Ambiental (DIA)\r\ndel proyecto “Planta Producción de Abono Orgánico La\r\nTrinchera”....................................................................... P.2\r\nExtracto de resolución número 157 exenta, de 2014,\r\nque notifica resolución de inicio de proceso de participación\r\nciudadana Declaración de Impacto Ambiental (DIA) del\r\nproyecto “Planta Productora y Envasadora de Jugos y Purés\r\nde Fruta y Hortalizas, San Clemente Foods S.A.”. ......... P.2\r\n\r\nNormas Generales\r\nPODER EJECUTIVO\r\n\r\nMinisterio de Relaciones Exteriores\r\nPROMULGA EL CONVENIO DE COOPERACIÓN TÉCNICO – MILITAR\r\nENTRE EL GOBIERNO "
+ },
+ {
+  "id": "d1008",
+  "comuna": "valparaiso",
+  "nombre_documento": "3306_aprueba_modificacion_plan_regulador_comunal_valparaiso",
+  "archivo": "valparaiso_3306_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141119.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.011.Año CXXXVII - Nº 815.596 (M.R.)\r\n\r\nSUMARIO\r\nNormas Generales\r\nPODER EJECUTIVO\r\nMINISTERIO DE\r\nRELACIONES\r\nEXTERIORES\r\nDecreto número 241.Promulga el Acuerdo en el\r\nPrograma de las Naciones\r\nUnidas para el Desarrollo\r\nsobre el proyecto: “Programa\r\nde Fortalecimiento de las\r\nCapacidades Locales para\r\nel Desarrollo de Proyectos\r\ncon Energías Renovables No\r\nConvencionales (ERNC) de\r\npequeña escala”. .............. P.1\r\n\r\nEjemplar del día..................$200.- (IVA incluido)\r\nAtrasado..............................$400.- (IVA incluido)\r\n\r\nque autoriza emisión en\r\npapel de documentos que\r\nindica. ................................P.2\r\n\r\nMINISTERIO\r\nDE VIVIENDA Y\r\nURBANISMO\r\n\r\nExtracto de resolución\r\nnúmero 106 exenta, de\r\n2014, que incorpora a las\r\nAdministradoras de Fondos\r\nde Inversión a la obligación de\r\npresentar Declaración Jurada\r\nAnual N°1909 y Certificado\r\nNº38...................................P.3\r\n\r\nSecretaría Regional\r\nMinisterial\r\nI Región de Tarapacá\r\n\r\nMINISTERIO DE\r\nECONOMÍA, FOMENTO\r\nY TURISMO\r\nSubsecretaría de Economía y\r\nEmpresas de Menor Tamaño\r\nResolución número\r\n3.008 exenta.- Modifica\r\nresolución Nº 1.877 exenta,\r\nde 2014.............................P.3\r\nMINISTERIO DE\r\nEDUCACIÓN\r\n\r\nMINISTERIO DE\r\nHACIENDA\r\nDecreto número 319\r\nexento.- D e t e r m i n a e l\r\ncomponente variable para\r\nel cálculo del impuesto\r\nespecífico establecido en\r\nla ley 18.502...................P.2\r\nServicio de\r\nImpues"
+ },
+ {
+  "id": "d1312",
+  "comuna": "valparaiso",
+  "nombre_documento": "418_aprueba_modificacion_plan_regulador_comunal_declaratoria_de_zonas_de_conserv",
+  "archivo": "valparaiso_418_aprueba_modificacion_plan_regulador_comunal_declaratoria_de_zonas_de_conserv__do-20100421.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 56,
+  "paginas_escaneadas": 56,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0310",
+  "comuna": "vilcun",
+  "nombre_documento": "decreto_exento_662_designese_como_contraparte_tecnica_municipal_ante_el_minister",
+  "archivo": "vilcun_decreto_exento_662_designese_como_contraparte_tecnica_municipal_ante_el_minister__DE662_2016.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0311",
+  "comuna": "villa_alemana",
+  "nombre_documento": "decreto_alcaldicio_31_llama_a_propuesta_publica_n022016_denominada_actualizacion",
+  "archivo": "villa_alemana_decreto_alcaldicio_31_llama_a_propuesta_publica_n022016_denominada_actualizacion__2016ad31.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1009",
+  "comuna": "villa_alemana",
+  "nombre_documento": "7_aprueba_enmienda_no_9_al_plan_regulador_comunal",
+  "archivo": "villa_alemana_7_aprueba_enmienda_no_9_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "antejardin": 8,
+   "ordenanza_local_txt": 4,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 7, VILLA ALEMANA (2009)\r\n\r\nDecreto 7\r\nAPRUEBA ENMIENDA Nº 9 AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE VILLA ALEMANA\r\nFecha Publicación: 17-FEB-2009 | Fecha Promulgación: 05-ENE-2009\r\nTipo Versión: Única De : 17-FEB-2009\r\nUrl Corta: https://bcn.cl/3n3cq\r\n\r\nAPRUEBA ENMIENDA Nº 9 AL PLAN REGULADOR COMUNAL\r\nVilla Alemana, 5 de enero de 2009.- Con esta misma fecha el Sr. Alcalde ha\r\nemitido el siguiente decreto:\r\nNúm. 7.- Vistos:\r\n1.- El Ord. Nº 206, de fecha 12 de diciembre de 2008, de la Asesor Urbanista,\r\nque solicita la dictación del decreto que sancione el acuerdo del Concejo Municipal,\r\nmediante el cual dio su aprobación a la Enmienda Nº 9 al Plan Regulador Comunal,\r\naprobado por decreto alcaldicio Nº 619, de fecha 09.05.2002;\r\n2.- El certificado Nº 379, de fecha 09.04.2008 y el certificado Nº 845, de\r\nfecha 09.07.2008, documentos emitidos por el Secretario Municipal (S), Sr. Paulo\r\nPérez Villablanca y la Secretaria Municipal Titular, Sra. María Delia Cangas\r\nSoissa, respectivamente;\r\n3.- Las publicaciones efectuadas en el diario \"La Estrella\" de Valparaíso los\r\ndías 3 de septiembre de 2008 (primer aviso) y 8 de septiembre de 2008 (segundo\r\naviso), mediante los cuales se informó a la comunidad sobre la Enmienda Nº 9 al\r\nPlan Regulador Comunal y se convocó a los vecinos a dos audiencias públicas, que se\r\nllevaron a efecto los días 9 de septiembre de 2008 y 10 de octubre de 2008;\r\n4.- El certificado Nº 1.153, de fecha\r\n09.09.2008, emitido por la Secretaria Municipal,"
+ },
+ {
+  "id": "d1313",
+  "comuna": "villa_alemana",
+  "nombre_documento": "946_actualiza_capitulo_v_de_la_ordenanza_local_del_plan_regulador",
+  "archivo": "villa_alemana_946_actualiza_capitulo_v_de_la_ordenanza_local_del_plan_regulador__2017da946.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 16,
+  "paginas_escaneadas": 16,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1314",
+  "comuna": "villa_alemana",
+  "nombre_documento": "resolucion_888_rechaza_porque_el_cambio_de_destino_en_esa_zona_no_esta_incluido",
+  "archivo": "villa_alemana_resolucion_888_rechaza_porque_el_cambio_de_destino_en_esa_zona_no_esta_incluido___resolucion_20888_20.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0312",
+  "comuna": "villarrica",
+  "nombre_documento": "decreto_605_plan_regulador_intercomunal_villarrica_pucon_ordenanza_local_plano",
+  "archivo": "villarrica_decreto_605_plan_regulador_intercomunal_villarrica_pucon_ordenanza_local_plano__plano_prc_vrica_pucon_1978.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0313",
+  "comuna": "villarrica",
+  "nombre_documento": "en_que_paso_va_la_actualizacion_del_plano_regulador_de_la_comuna_que_pasos_estan",
+  "archivo": "villarrica_en_que_paso_va_la_actualizacion_del_plano_regulador_de_la_comuna_que_pasos_estan__oficio_777_2020_sai_mu339t0001348.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Dato personal tachado para cumplir Ley 19.628\r\n\r\n\fSe hace presente que de no estar satisfecha su solicitud, usted dispone del plazo de 15 días\r\nhábiles para presentar reclamo formal ante el Consejo para la Transparencia, de conformidad a lo\r\n\r\nSin otro particular, le saluda atentamente.\r\n\r\nPAM/NBR/pre\r\nDistribución\r\n· La indicada\r\n- Secretaria Municipal\r\n- SECPLAN\r\n- Oficina de Partes\r\n\r\n\fSOLICITUD DE ACCESO A LA INFORMACIÓN\r\n\r\nSu solicitud ha sido ingresada al Portal de Transparencia del Estado para el\r\norganismo Municipalidad de Villarrica con fecha 22/10/2020 con el N°: MU339T0001348. La\r\nha sido enviada a su correo electrónico\r\nDato personal tachado para cumplir Ley 19.628\r\nLa fecha de entrega de la respuesta es el 19/11/2020 (el plazo para recibir una respuesta\r\nes de 20 días hábiles). Le informamos que durante este proceso el organismo\r\nMunicipalidad de Villarrica podría solicitar una prórroga de máximo 10 días hábiles para\r\ndar respuesta a su solicitud.\r\nEn caso que su solicitud de información no sea respondida en el plazo de veinte (20)\r\ndías hábiles, o sea ésta denegada o bien la respuesta sea incompleta o no corresponda a\r\nlo solicitado, en aquellos casos que la ley lo permite usted podrá interponer un reclamo\r\npor denegación de información ante el Consejo para la Transparencia\r\nwww.consejotransparencia.cl dentro del plazo de 15 días hábiles, contado desde la\r\nnotificación de la denegación de acceso a la información, o desde que haya expirado el\r\nplazo\r\ndefinido\r\npa"
+ },
+ {
+  "id": "d0314",
+  "comuna": "villarrica",
+  "nombre_documento": "modificacion_del_plan_regulador_comunal_montos_de_derechos_pagados_por_patentes",
+  "archivo": "villarrica_modificacion_del_plan_regulador_comunal_montos_de_derechos_pagados_por_patentes___oficio_404_2021_sai_mu339T0001504.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara modificacion prc; convive con patron de tramite 'otro_tema' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "!,\r\n\r\nJ\r\n\r\nP-~r~no _;;.~u\\•·-\r\n\r\nllustre Mut'h(lp,¡lldaid de Vllurnca\r\n\r\nOFICIO ORDINARIO N º\r\n\r\nl(o'-{\r\n\r\nMATERIA: Respuesta a Solicitud de Acceso a la\r\nInformación código MU339T0001504; Ley Nº 20.285\r\nsobre Acceso a la Información Pública\r\n\r\nVillarrica ,\r\n\r\n2 5 MAYO 2021\r\n\r\nDatos personales tachados para cumplir Ley 19.628\r\n\r\nA\r\n\r\nALCALDE (S) l. MUNICIPALIDAD DE VILLARRICA\r\n\r\nDE\r\n\r\nEn atención a su requerimiento realizado a esta Municipalidad con fecha 30 de abril de\r\n2021 , que indica:\r\n•\r\n\r\n\"Estimado/ a, Junto con saludar le solicito :\r\n1. Me pueda enviar una copia en PDF del plan regulador comunal vigente con su\r\nrespectiva ordenanza y plano de vialidad\r\n\r\n2. Aclarar si es que el existe algúna actualización, cambio o modificación al Plan\r\nregulador comunal; y en que estado se encuentra dicha tramitación. De existir una\r\nimagen objetivo, anteproyecto o proyecto le agradezco pueda adjuntarlo en formato\r\nPDF con toda la información anexa.\r\n3. Un listado de todas las patentes municipales vigentes indicando el nombre de la\r\nempresa, dirección de la misma, tipo de comercio I negocio y monto de los derechos\r\npagados.\r\nMuchas gracias, \"\r\n\r\nEstando dentro del plazo establecido en el artículo 14 de la Ley 20.285 , se procede a\r\ninformar lo siguiente:\r\n•\r\n\r\nToda la documentación referente al Plan Regulador Comunal vigente, se encuentra\r\ndisponible para consulta y descarga, en las siguientes páginas web:\r\no\r\n\r\nTransparencia Activa:\r\n\r\nhttps: / / www . portal transparencia. el / Port"
+ },
+ {
+  "id": "d0315",
+  "comuna": "villarrica",
+  "nombre_documento": "resolucion_16_aprueba_plan_regulador_comunal_de_villarrica",
+  "archivo": "villarrica_resolucion_16_aprueba_plan_regulador_comunal_de_villarrica__memoria_explicativa_prc_vrica.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 93,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "SBG Consultores\r\n\r\nMemoria Explicativa\r\n\r\nM E MO R\r\n\r\nI A\r\n\r\nPlan Regulador\r\nVILLARRICA\r\n\r\nE X P L I C A T I V A\r\n\r\n\fPLAN\r\n\r\nESTUDIO\r\n\r\nCOMUNAL\r\n\r\nREGULADOR\r\n\r\nEQUIPO\r\n\r\nORGANIZACION\r\n\r\ndel\r\n\r\nEquipo\r\n\r\nDE\r\n\r\nVILLARRICA\r\n\r\nPROFESIONAL\r\n\r\nArquitecto\r\n\r\nNorman Goijberg Rein\r\nJefe\r\n\r\nPlan Regulador\r\nVILLARRICA\r\n\r\nMemoria Explicativa\r\n\r\nSBG Consultores\r\n\r\ny\r\n\r\nResponsable\r\n\r\ndel\r\n\r\nEstudio\r\n\r\nFernando Garcia Brahm\r\n\r\nArquitecto\r\n\r\nJuan Valenzuela Palma\r\n\r\nGeógrafo\r\n\r\nPamela Goijberg Benavides\r\n\r\nArquitecto\r\n\r\nGerman Becker Rencoret\r\n\r\nArquitecto\r\n\r\n\f\fSBG Consultores\r\n\r\nProyecto\r\nMemoria Explicativa\r\n\r\nINDICE\r\n\r\nPlan Regulador\r\nVILLARRICA\r\n\r\nANEXOS\r\n\r\nANEXO\r\n\r\nI\r\n\r\nRol y Jerarquizacio n del Centro Poblado en\r\nel Contexto Regional y Comunal.\r\n\r\nANEXO\r\n\r\nII\r\n\r\nInstituto Nacional de Estadisticas ,\r\n\r\nANEXO\r\n\r\nIII\r\n\r\nSecretaria Regional Ministerial de Bienes\r\nNacionales, IX Region.\r\n\r\nANEXO\r\n\r\nIV\r\n\r\nLineas de Alta Tension: ENDESA y Compañia\r\nGeneral de Electricidad Industrial S.A.\r\n\r\nANEXO\r\n\r\nV\r\n\r\nDireccion General de Aeronautica Civil,\r\nComision Coordinadora de Aerodromos y\r\nDesarrollo Urbano, CADU.\r\n\r\nANEXO\r\n\r\nVI\r\n\r\nPromocion Turistica\r\n\r\nANEXO\r\n\r\nVII\r\n\r\nEmpresa de los Ferrocarrile s del Estado.\r\n\r\nINE.\r\n\r\n\fSBG Consultores\r\n\r\nProyecto\r\nMemoria Explicativa\r\n\r\nPlan Regulador\r\nVILLARRICA\r\n\r\nI ND I C E\r\nA N E XO\r\nP L A N O S\r\nEscala\r\n- FOTOGRAFIAS.\r\n1 - UBICACION GEOGRAFICA, IX Region . . . . . . . . . . . . . . . . . . 1:1.250.000\r\n2 - SITUACION REGIONAL, Base I.G.M . . . . . . . . . ."
+ },
+ {
+  "id": "d0316",
+  "comuna": "villarrica",
+  "nombre_documento": "resolucion_17_modificacion_plan_regulador_intercomunal_villarrica_pucon_plano",
+  "archivo": "villarrica_resolucion_17_modificacion_plan_regulador_intercomunal_villarrica_pucon_plano__modificacion_prc_vrca_pucon_1996.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 6,
+   "distanciamiento": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Resolución 17\r\n:25-06-1996\r\n:08-05-1996\r\n:GOBIERNO REGIONAL IX REGIÓN DE LA ARAUCANÍA\r\n:PROMULGA MODIFICACION PLAN REGULADOR INTERCOMUNAL\r\nVILLARRICA-PUCON\r\n:Unica\r\nDe : 25-06-1996\r\n:25-06-1996\r\n:32171\r\n:https://www.leychile.cl/N?i=32171&f=1996-06-25&p=\r\n\r\nPROMULGA MODIFICACION PLAN REGULADOR INTERCOMUNAL VILLARRICA-PUCON\r\nNúm. 17.- Temuco, 8 de mayo de 1996.- Vistos:\r\n01) Los Oficios Ords. N° 00395 y 00457, del 12 y 29 de abril de 1996,\r\nrespectivamente, ambos de la Secretaría Regional Ministerial de Vivienda y Urbanismo\r\nIX Región que aprueban las modificaciones al Plan Regulador Intercomunal\r\nVillarrica-Pucón consignadas en el Oficio Ord. N° 0283 del 29 de marzo de 1996 del\r\nSr. Jefe de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo.\r\n02) El acuerdo N° 600 adoptado por el Consejo Regional en la Sesión Ordinaria\r\nN° 72 celebrada el 2 de mayo de 1996 que aprueba las modificaciones al Plan\r\nRegulador Intercomunal Villarrica-Pucón.\r\n03) El acuerdo del Concejo Municipal de Villarrica de fecha 23 de abril de 1996\r\nadoptado en la Sesión Extraordinaria N° 27 que aprueba el Proyecto de Modificación\r\nal Plan Regulador Intercomunal Villarrica-Pucón lo que consta del Certificado N° 36\r\nemitido por el Sr. Secretario Municipal con fecha 30 de abril de 1996.\r\n04) El acuerdo del Concejo Municipal de Pucón de fecha 23 de abril de 1996\r\nadoptado en "
+ },
+ {
+  "id": "d0317",
+  "comuna": "villarrica",
+  "nombre_documento": "sn_aviso_de_aprobacion_de_la_modificacion_via_enmiendas_al_plan_regulador_de_lic",
+  "archivo": "villarrica_sn_aviso_de_aprobacion_de_la_modificacion_via_enmiendas_al_plan_regulador_de_lic__publicacion_aviso_modificacion_prc_licanray_2026.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.395\r\n\r\n|\r\n\r\nLunes 9 de Marzo de 2026\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2776694\r\n\r\nMUNICIPALIDAD DE VILLARRICA\r\n\r\nIlustre Municipalidad de Villarrica\r\nPROMULGA \"MODIFICACIÓN AL PLAN REGULADOR DE LICAN RAY\"\r\nLa Ilustre Municipalidad de Villarrica, informa la aprobación de la \"Modificación\r\nVía Enmiendas al Plan Regulador de Lican Ray\" comuna de Villarrica conforme a lo\r\nsiguiente:\r\n• Órgano responsable de la promulgación: Ilustre Municipalidad de Villarrica.\r\n• Acto administrativo: Decreto alcaldicio N° 1.747, con fecha 30 de diciembre de 2025.\r\n• Fecha de entrada en vigencia: 1 de febrero 2026.\r\n• Fecha de publicación en sitio electrónico: 30 de enero 2026.\r\n• Sitio electrónico: https://www.munivillarrica.cl/secplan/.\r\n• Antecedentes que lo componen:\r\n- Memoria explicativa.\r\n- Resumen ejecutivo.\r\n- Decreto alcaldicio.\r\nPABLO SANTIAGO ASTETE MERMOUD\r\nAlcalde\r\n\r\nFelipe Andrés Peroti Díaz\r\nCVE 2776694 | Director:\r\nSitio Web: www.diarioficial.cl\r\n\r\nCentral: 600 712 0001 Email: consultas@diarioficial.cl\r\n| Mesa\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\n\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el sitio web w"
+ },
+ {
+  "id": "d0318",
+  "comuna": "villarrica",
+  "nombre_documento": "sn_aviso_de_aprobacion_de_la_modificacion_via_enmiendas_al_plan_regulador_de_vil",
+  "archivo": "villarrica_sn_aviso_de_aprobacion_de_la_modificacion_via_enmiendas_al_plan_regulador_de_vil__publicacion_aviso_modificacion_prc_villarrica_2026.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 44.406\r\n\r\n|\r\n\r\nSábado 21 de Marzo de 2026\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 2783920\r\n\r\nMUNICIPALIDAD DE VILLARRICA\r\n\r\nMunicipalidad de Villarrica\r\nPROMULGA “MODIFICACIÓN AL PLAN REGULADOR DE VILLARRICA”\r\nLa Ilustre Municipalidad de Villarrica informa la aprobación de la \"Modificación\r\nVía Enmiendas al Plan Regulador de Villarrica\" comuna de Villarrica, conforme a lo\r\nsiguiente:\r\n• ÓRGANO RESPONSABLE DE LA PROMULGACIÓN: Ilustre Municipalidad de\r\nVillarrica.\r\n• ACTO ADMINISTRATIVO: Decreto alcaldicio N° 467, con fecha 11 de marzo de\r\n2026.\r\n• FECHA DE ENTRADA EN VIGENCIA: 22 de marzo 2026.\r\n• FECHA DE PUBLICACIÓN EN SITIO ELECTRÓNICO: 22 de marzo 2026.\r\n• SITIO ELECTRÓNICO: https://www.munivillarrica.cl/secplan/.\r\n• ANTECEDENTES QUE LO COMPONEN:\r\n- Memoria explicativa.\r\n- Resumen ejecutivo.\r\n- Decreto alcaldicio.\r\nPABLO ASTETE MERMOUD\r\nAlcalde\r\nI. Municipalidad de Villarrica\r\n\r\n(S): Pamela Urra Sepúlveda | Mesa Central: 600 712 0001 Email: consultas@diarioficial.cl\r\nCVE 2783920 | Directora\r\nSitio Web: www.diarioficial.cl\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\nEste documento ha sido firmado electrónicamente de acuerdo con la ley N°19.799 e incluye sellado de tiempo y firma electrónica\r\navanzada. Para verificar la autenticidad de una representación impresa del mismo, ingrese este código en el si"
+ },
+ {
+  "id": "d1010",
+  "comuna": "villarrica",
+  "nombre_documento": "antecedentes_respecto_de_modificacion_del_plan_regulador_comunal",
+  "archivo": "villarrica_antecedentes_respecto_de_modificacion_del_plan_regulador_comunal__oficio_670_2021_sai_mu339T0001562.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Datos personales tachados para cumplir Ley 19.628\r\n\r\n\fSOLICITUD DE ACCESO A LA INFORMACIÓN\r\n\r\nSu solicitud ha sido ingresada al Portal de Transparencia del Estado para el\r\norganismo Municipalidad de Villarrica con fecha 15/07/2021 con el N°: MU339T0001562. La\r\nconfirmación de este ingreso ha sido enviada a su correo electrónico\r\nDatos personales tachados para cumplir Ley 19.628\r\n\r\nLa fecha de entrega de la respuesta es el 13/08/2021 (el plazo para recibir una respuesta\r\nes de 20 días hábiles). Le informamos que durante este proceso el organismo\r\nMunicipalidad de Villarrica podría solicitar una prórroga de máximo 10 días hábiles para\r\ndar respuesta a su solicitud.\r\nEn caso que su solicitud de información no sea respondida en el plazo de veinte (20)\r\ndías hábiles, o sea ésta denegada o bien la respuesta sea incompleta o no corresponda a\r\nlo solicitado, en aquellos casos que la ley lo permite usted podrá interponer un reclamo\r\npor denegación de información ante el Consejo para la Transparencia\r\nwww.consejotransparencia.cl dentro del plazo de 15 días hábiles, contado desde la\r\nnotificación de la denegación de acceso a la información, o desde que haya expirado el\r\nplazo\r\ndefinido\r\npara\r\ndar\r\nrespuesta.\r\nPara las solicitudes presentadas a organismos autónomos como por ejemplo Poder\r\nJudicial, Contraloría General de la República y el Congreso Nacional el procedimiento de\r\nreclamos se describe en el siguiente enlace.\r\nPodrá conocer el estado de su solicitud en este portal ingresando "
+ },
+ {
+  "id": "d1011",
+  "comuna": "villarrica",
+  "nombre_documento": "antecedetentes_y_documentos_sobre_modificacion_de_plan_regulador_comunal",
+  "archivo": "villarrica_antecedetentes_y_documentos_sobre_modificacion_de_plan_regulador_comunal__oficio_27_2021_sai_mu339T0001380.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Dato personal tachado para cumplir Ley 19.628\r\n\r\nDatos personales tachados para\r\ncumplir Ley 19.628\r\n\r\nDatos personales tachados para\r\ncumplir Ley 19.628\r\n\r\n\f\fSOLICITUD DE ACCESO A LA INFORMACIÓN\r\n\r\nSu solicitud ha sido ingresada al Portal de Transparencia del Estado para el\r\norganismo Municipalidad de Villarrica con fecha 05/12/2020 con el N°: MU339T0001380. La\r\nconfirmación de este ingreso ha sido enviada a su correo electrónico\r\n\r\nDato personal tachado para cumplir Ley\r\n19.628\r\n\r\nLa fecha de entrega de la respuesta es el 07/01/2021 (el plazo para recibir una respuesta\r\nes de 20 días hábiles). Le informamos que durante este proceso el organismo\r\nMunicipalidad de Villarrica podría solicitar una prórroga de máximo 10 días hábiles para\r\ndar respuesta a su solicitud.\r\nEn caso que su solicitud de información no sea respondida en el plazo de veinte (20)\r\ndías hábiles, o sea ésta denegada o bien la respuesta sea incompleta o no corresponda a\r\nlo solicitado, en aquellos casos que la ley lo permite usted podrá interponer un reclamo\r\npor denegación de información ante el Consejo para la Transparencia\r\nwww.consejotransparencia.cl dentro del plazo de 15 días hábiles, contado desde la\r\nnotificación de la denegación de acceso a la información, o desde que haya expirado el\r\nplazo\r\ndefinido\r\npara\r\ndar\r\nrespuesta.\r\nPara las solicitudes presentadas a organismos autónomos como por ejemplo Poder\r\nJudicial, Contraloría General de la República y el Congreso Nacional el procedimiento de\r\nreclamos"
+ },
+ {
+  "id": "d1012",
+  "comuna": "villarrica",
+  "nombre_documento": "planos_y_ordenanza_de_la_modificacion_al_plan_regulador_comunal_de_villarrica_ac",
+  "archivo": "villarrica_planos_y_ordenanza_de_la_modificacion_al_plan_regulador_comunal_de_villarrica_ac__oficio_1080_2018_sai_mu339t0000850.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 3
+  },
+  "senales_tramite": {
+   "txt_solicitud": 5
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Pa ra íso lacustre ...\r\nIlustre Municipalidad de Vlllarrlca\r\n\r\n0F1c10 ORDINARIO N.\r\n\r\nLoeo1\r\n\r\nMATERIA: Respuesta a Solicitud de\r\nAcceso a la Información código\r\nMU339T0000850; Ley Nº20. 285 sobre\r\nAcceso a la Información Pública\r\nVillarrica,\r\n\r\n- 7 DIC. 2018\r\n\r\nA\r\n\r\nDE\r\n\r\nPABLO ASTETE MERMOUD\r\nALCALDE l. MUNICIPALIDAD DE VILLARRICA\r\n\r\nEn atención a su requerimiento de información recibido en esta municipalidad con fecha\r\n05 de diciembre de 2018, que solicita \"copia de planos y ordenanza de la modificación al Plan\r\nRegulador Comunal de Villarrica actualmente en Trámite\", y estando dentro del plazo\r\n\r\nestablecido en el artículo 14 de la Ley 20.285 sobre Acceso a la Información Pública, se procede\r\na informar lo siguiente.\r\n\r\nEl Plan Regulador Comunal señalado se encuentra en su etapa final de tramitación, y se\r\nestá a la espera de la aprobación del Plan lntercomunal Villarrica-Pucón, para solicitar a la\r\nSecretaria Regional Ministerial de Vivienda su promulgación, por lo que aún no es posible\r\n\r\n.r~~~\r\n\r\nr~entregar copia del mismo. Lo anterior, en base al artículo 21 , N º 1, letra b, de la Ley N° 20.285\r\n\r\nbre Acceso a la Información Pública .\r\n\r\n/~\r\n\r\n{~\r\n\r\n'\r\n\r\n:~ ~ J'¡\r\n\r\nUna vez aprobado, el Plan Regulador Comunal requerido se encontrará disponible en\r\n\r\nXJc:~\"\"'\\~~ ágina web institucional (www.villarrica.org) y en la página web de transparencia municipal\r\n(www. portaltransparencia. el I PortalPdT I pdtta?codOrganismo=MU 339 ).\r\n\r\nSe hace presente que de no estar satisfec"
+ },
+ {
+  "id": "d1013",
+  "comuna": "villarrica",
+  "nombre_documento": "resolucion_18_plan_regulador_de_la_localidad_de_lican_ray",
+  "archivo": "villarrica_resolucion_18_plan_regulador_de_la_localidad_de_lican_ray__plan_regulador_lican_ray_1992.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 19,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "agrupamiento": 3,
+   "rasante": 3,
+   "distanciamiento": 3,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 9,
+   "articulado": 13,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (ocupacion_suelo, agrupamiento, rasante, distanciamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Resolución 18\r\n:20-06-1992\r\n:12-05-1992\r\n:MINISTERIO DE VIVIENDA Y URBANISMO; SECRETARÍA REGIONAL\r\nMINISTERIAL IX REGIÓN DE LA ARAUCANÍA\r\n:APRUEBA PLAN REGULADOR DE LA LOCALIDAD DE LICAN RAY, COMUNA\r\nDE VILLARRICA.\r\n:Unica\r\nDe : 20-06-1992\r\n:20-06-1992\r\n:95834\r\n:http://www.leychile.cl/N?i=95834&f=1992-06-20&p=\r\n\r\nAPRUEBA PLAN REGULADOR DE LA LOCALIDAD DE LICAN RAY, COMUNA\r\nDE VILLARRICA.\r\nNúm.18.- Temuco, 12 de Mayo de 1992.- Vistos:\r\n1.- Lo dispuesto en los artículos 43°, 44° del DFL No.\r\n458 (V. y U.) de 1976, Ley General de Urbanismo y\r\nConstrucciones, modificados por la Ley No. 18.738 del\r\n14.09.88; lo señalado en los artículos 447 y 550 de la\r\nOrdenanza General de Construcciones y Urbanización,\r\nmodificados por el DS No. 224 de (V. y U.) de 1989; el DL\r\nNo. 1305 de fecha 26.12.75 que reestructura y regionaliza el\r\nMINVU y sus corporaciones dependientes; el DS No. 397, (V. y\r\nU.), de 24.11.76, Reglamento Orgánico de las Secretarías\r\nMinisteriales de Vivienda y Urbanismo; la Resolución No.\r\n1050 de 1980, de la Contraloría General de la República; y\r\nel DS No. 101, (V. y U.), de 1990, que designa al\r\ninfrascrito en el cargo de Secretario Ministerial IX\r\nRegión.\r\n2) El Certificado s/n de fecha 26.03.92 de la Ilustre\r\nMunicipalidad de Villarrica que señala que en Sesión\r\nOrdinaria No. 71 del Consejo de Desarrollo Comunal,\r\ncelebrada con fecha 14.01.92, se apr"
+ },
+ {
+  "id": "d1014",
+  "comuna": "villarrica",
+  "nombre_documento": "resolucion_1_modifica_plan_regulador_de_villarrica",
+  "archivo": "villarrica_resolucion_1_modifica_plan_regulador_de_villarrica__modificacion_ordenanza_local_1998.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 8,
+   "altura_maxima": 4,
+   "agrupamiento": 7,
+   "distanciamiento": 5,
+   "zonificacion": 4,
+   "usos_de_suelo": 9,
+   "ordenanza_local_txt": 1,
+   "articulado": 12,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-2E",
+   "ZEE",
+   "ZH-1",
+   "ZH-2",
+   "ZH-3",
+   "ZNE",
+   "ZONA",
+   "ZPF",
+   "ZR-1B"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nUltima Modificación\r\nURL\r\n\r\n:Resolución 1\r\n:07-12-1998\r\n:10-01-1996\r\n:GOBIERNO REGIONAL IX REGIÓN DE LA ARAUCANÍA\r\n:MODIFICA PLAN REGULADOR DE VILLARRICA\r\n:Última Versión\r\nDe : 08-05-2003\r\n:08-05-2003\r\n:128107\r\n:08-MAY-2003 Resolucion 47\r\n:https://www.leychile.cl/N?i=128107&f=2003-05-08&p=\r\n\r\nMODIFICA PLAN REGULADOR DE VILLARRICA\r\n(Resolución)\r\nNúm. 1.- Temuco, 10 de enero de 1996.- Vistos:\r\n1)\r\nEl oficio Ord. Nº 01377 de 7 de noviembre de 1995 de\r\nla Sra. Secretaria Regional Ministerial de Vivienda y\r\nUrbanismo (S) IX Región e informe técnico Nº 32-1995 de\r\nesa misma Secretaría que recomienda modificaciones al Plan\r\nRegulador Comunal de Villarrica en los términos que en este\r\núltimo documento se indican.\r\n2)\r\nEl acuerdo Nº 543 adoptado por el Consejo Regional en\r\nla Sesión Ordinaria Nº 63 celebrada el 21 de diciembre de\r\n1995 que aprueba las modificaciones al Plan Regulador\r\nComunal de Villarrica.\r\n3)\r\nEl acuerdo del Concejo Municipal de Villarica de fecha\r\n30 de agosto de 1994 adoptado en la sesión ordinaria Nº 93\r\nque aprueba el Proyecto de Modificación Propuestas al Plan\r\nRegulador Comunal de la Ciudad de Villarrica y el decreto\r\nalcaldicio Nº 717 de 18 de noviembre de 1994.\r\n4)\r\nLa aprobación del Concejo Municipal de Villarrica\r\nefectuada en sesión ordinaria Nº 139 de fecha 5 de\r\nseptiembre de 1995 a las sugerencias formuladas por la\r\nSecretaría Regional Ministe"
+ },
+ {
+  "id": "d1015",
+  "comuna": "villarrica",
+  "nombre_documento": "resolucion_47_modifica_plan_regulador_comunal_de_villarrica",
+  "archivo": "villarrica_resolucion_47_modifica_plan_regulador_comunal_de_villarrica__modificacion_ordenanza_local_2003.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "altura_maxima": 2,
+   "agrupamiento": 7,
+   "antejardin": 1,
+   "rasante": 2,
+   "distanciamiento": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 11,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-2",
+   "Z-2E",
+   "Z-3",
+   "Z-4",
+   "Z-4E",
+   "ZE-5",
+   "ZE-5A",
+   "ZE-6",
+   "ZEE",
+   "ZH-1",
+   "ZH-2",
+   "ZH-3"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\n\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Resolución 47\r\n:08-05-2003\r\n:30-10-2002\r\n:GOBIERNO REGIONAL IX REGIÓN DE LA ARAUCANÍA\r\n:MODIFICA PLAN REGULADOR COMUNAL DE VILLARRICA, \"AMPLIACION\r\nLIMITES URBANOS Y ZONAS: Z-4; Z-4E; ZE-5; ZE-5A; ZR-1A;\r\nSZ-1b; Z-2; Z-3 y Z-2E\"\r\n:Única\r\nDe : 08-05-2003\r\n:08-05-2003\r\n:210113\r\n:https://www.leychile.cl/N?i=210113&f=2003-05-08&p=\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE VILLARRICA, \"AMPLIACION LIMITES URBANOS Y ZONAS:\r\nZ-4; Z-4E; ZE-5; ZE-5A; ZR-1A;\r\nSZ-1b; Z-2; Z-3 y Z-2E\"\r\nNúm. 47.- Temuco, 30 de octubre de 2002.- Vistos:\r\n1) El Oficio Ord. Nº001066 del 16 de agosto de 2002 del Sr. Secretario Regional\r\nMinisterial de Vivienda y Urbanismo IX Región e Informe Técnico Nº68 de 14 de\r\nagosto de 2002 de esa misma Secretaría que recomienda la aprobación de la\r\nmodificación del Plan Regulador Comunal de Villarrica, \"Ampliación Límites Urbanos\r\ny Zonas: Z-4; Z-4E; ZE-5; ZE-5A;\r\nZR-1A; SZ-1b; Z-2; Z-3 y Z-2E\", por la cual se amplía el límite urbano en los\r\nSectores Norte y Sur-Oriente; se ajustan los límites de las Zonas Z-4; Z-4E; ZE-5;\r\nZE-5A;\r\nZR-1A; SZ-1b; Z-2; Z-3 y Z-2E; se genera una nueva Zona ZE-5A y se introducen cambios\r\na la Ordenanza Local.\r\n2) El acuerdo Nº558 adoptado por el Consejo Regional de la Araucanía en la\r\nSesión Extraordinaria Nº49 celebrada el 9 de octubre de 2002 que aprueba la\r\nmodificación del Plan Regulador Comunal de Villarrica indicada en e"
+ },
+ {
+  "id": "d1016",
+  "comuna": "villarrica",
+  "nombre_documento": "resolucion_89_modifica_plan_regulador_comunal_de_villarrica",
+  "archivo": "villarrica_resolucion_89_modifica_plan_regulador_comunal_de_villarrica__modificacion_ordenanza_local_1999.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Resolución 89\r\n:05-01-1999\r\n:26-12-1998\r\n:GOBIERNO REGIONAL IX REGIÓN DE LA ARAUCANÍA\r\n:MODIFICA PLAN REGULADOR COMUNAL DE VILLARRICA\r\n:Única\r\nDe : 05-01-1999\r\n:05-01-1999\r\n:128952\r\n:https://www.leychile.cl/N?i=128952&f=1999-01-05&p=\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE VILLARRICA\r\n(Resolución)\r\nNúm. 89.- Temuco, 26 de diciembre de 1996.- Vistos:\r\n1)\r\nEl Oficio Ord. Nº1125 de 21 de octubre de 1996 del Sr. Secretario Regional\r\nMinisterial de Vivienda y Urbanismo IX Región que remite al Gobierno Regional de la\r\nAraucanía para su resolución, modificación al Plan Regulador Comunal de\r\nVilla-rrica;\r\n2)\r\nEl acuerdo Nº771 adoptado por el Consejo Regional del Gobierno Regional de la\r\nAraucanía en la Sesión Ordinaria Nº86 celebrada el 05 de diciembre de 1996 que\r\naprueba la modificación al Plan Regulador Comunal de Villarrica graficada en el\r\nPlano PSPV-01 y descrita en la Memoria Explicativa;\r\n3)\r\nActa de Sesión Ordinaria Nº179 del 27 de agosto de 1996 del Concejo Municipal\r\nde Villarrica, que ratifica su acuerdo aprobatorio contenido en la Sesión\r\nExtraordinaria Nº21 del 29 de enero de 1996, que aprobó el Proyecto de\r\nModificación del Plan Regulador Comunal de la Ciudad de Villarrica y el Decreto\r\nAlcaldicio Nº1.178 del 29 de agosto de 1996 de la I. Municipalidad de Villarrica que\r\nratifica el Decreto Alcaldicio Nº67 del 29 de enero de 1996 del mismo Municipio;\r\n4)"
+ },
+ {
+  "id": "d1315",
+  "comuna": "villarrica",
+  "nombre_documento": "oficio_38_interpreta_normas_del_plan_regulador_intercomunal_villarrica_pucon",
+  "archivo": "villarrica_oficio_38_interpreta_normas_del_plan_regulador_intercomunal_villarrica_pucon__ord_38-2013_minvu.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

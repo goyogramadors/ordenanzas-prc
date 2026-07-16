@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_c327fea9cd",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_868_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_868_17052019124820.pdf",
+  "nombre": "la_serena_868_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_868_17052019124820.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:25:48",
+  "fin": "2026-07-15T08:26:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 868 (17.05.2019), I.Municipalidad de La Serena. Modifica Ordenanza de Derechos Municipales (Decreto 2029/2018): agrega tarifa por bicicleteros/rodados/scooters y uso de internet en Estadio La Portada. Tarifario, no instrumento de planificacion territorial."
+  }
+}

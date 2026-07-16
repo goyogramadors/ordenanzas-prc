@@ -1,0 +1,20 @@
+{
+  "id": "chillan_viejo_6d68d637a0",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chillan_viejo_informe_a_esta_camara_sobre_el_plan_regulador_comunal_especificando_su_antigueda__c37074b9-ccdd-4df8-b664-db346d2d3008.pdf",
+  "nombre": "chillan_viejo_informe_a_esta_camara_sobre_el_plan_regulador_comunal_especificando_su_antigueda__c37074b9-ccdd-4df8-b664-db346d2d3008.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:30:45",
+  "fin": "2026-07-14T15:35:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: acuse de recibo de solicitud de acceso a la informacion (Ley Transparencia, folio MU043T0001771), respuesta a Oficio 53219 de la Camara de Diputados. Solo confirma recepcion y plazos. Sin normas. Candidato a descarte."
+  }
+}

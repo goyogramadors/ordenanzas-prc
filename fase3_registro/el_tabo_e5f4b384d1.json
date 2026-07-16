@@ -1,0 +1,20 @@
+{
+  "id": "el_tabo_e5f4b384d1",
+  "comuna": "el_tabo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_tabo_44302_aviso_debido_un_error_involuntario_se_corregi_certificado_de_informaciones__18.11.2025.pdf",
+  "nombre": "el_tabo_44302_aviso_debido_un_error_involuntario_se_corregi_certificado_de_informaciones__18.11.2025.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:38:44",
+  "fin": "2026-07-14T15:39:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO AVISO (DO 44.302, seccion IV): la DOM de El Tabo corrige el Certificado de Informaciones Previas CIP 116 por el CIP 326 del rol 680-483, cuya zonificacion es ZE2. Menciona una zona pero NO da ninguna norma. 1 pagina verificada integra."
+  }
+}

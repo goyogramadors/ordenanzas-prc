@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_c675158fcb",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2029_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_2029_05112018014716.pdf",
+  "nombre": "la_serena_2029_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_2029_05112018014716.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:25:48",
+  "fin": "2026-07-15T08:26:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 2029 (31.10.2018), I.Municipalidad de La Serena. Aprueba Ordenanza sobre Derechos Municipales por Permisos, Concesiones y Servicios vigente 2019 (mismo patron ya confirmado en la_serena_0c0b004483 y afe59e900a: tarifario de permisos/servicios). No es instrumento de planificacion territorial."
+  }
+}

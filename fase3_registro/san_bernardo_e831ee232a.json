@@ -1,0 +1,20 @@
+{
+  "id": "san_bernardo_e831ee232a",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_bernardo_decreto_reglamenta_la_actividad_comercial_de_alcoholes_en_la_comuna_de_san_berna__ORDENANZA-N27-ACTUALIZACION-MODIF.pdf",
+  "nombre": "san_bernardo_decreto_reglamenta_la_actividad_comercial_de_alcoholes_en_la_comuna_de_san_berna__ORDENANZA-N27-ACTUALIZACION-MODIF.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:17:01",
+  "fin": "2026-07-15T12:18:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza Municipal N27 sobre Patentes de Alcoholes (texto refundido). Muestreo pag1,4,7,10,13,16 de 16: articulos sobre requisitos de patentes, condiciones de locales (banos, ventilacion, escaleras), horarios y firma alcaldicia. Sin tablas ni referencias a zonificacion/usos suelo/COS/CC/alturas/distanciamientos. No relacionado con PRC."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_db034f4610",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_ZHM-2.pdf",
+  "nombre": "penalolen_Zona_ZHM-2.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:46:35",
+  "fin": "2026-07-15T08:47:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ficha 'Zona Habitacional Mixta N2 (Z-HM-2)' Peñalolen, 2 pags escaneadas. Pag1: tabla usos de suelo permitidos por escala (mayor/mediano/menor). Pag2: tabla completa de normas Z-HM-2 (d=300 hab/ha): densidad bruta min/max, sistema agrupamiento, subdivision predial minima, frente minimo, %ocup suelo, %area libre, coef constructibilidad, altura maxima, distanciamiento, rasante, adosamiento, cierros, antejardin -- para vivienda unifamiliar, vivienda colectiva y equipamiento intercomunal/comunal/vecinal. Verificado visualmente paginas 1-2 de 2."
+  }
+}

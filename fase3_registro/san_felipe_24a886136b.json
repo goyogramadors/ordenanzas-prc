@@ -1,0 +1,25 @@
+{
+  "id": "san_felipe_24a886136b",
+  "comuna": "san_felipe",
+  "ruta": "Ordenanzas ordenadas\\san_felipe_plan_regulador__N-48.pdf",
+  "nombre": "san_felipe_plan_regulador__N-48.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 46,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:19:27",
+  "fin": "2026-07-15T12:54:54",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        39
+      ]
+    ],
+    "paginas_utiles": 21,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Cap.IV Zonificacion y Normas Especificas (Art.31-34) inicia pag19-20 con listado zonas (C-1,C-2,C-3,H-4..H-8,I-1,I-2,E-1,E-2,E-5..E-10,R-1,R-3..R-11). Tabla/articulos por zona confirmados: C-1(pag21),H-4(pag25),H-7(pag29),E-1(pag33),E-5(pag34),E-6/E-7/E-8(pag35),E-9(pag36),E-10(pag37-38),R-1..R-11(pag38-39). Cada zona define uso permitido/restringido/prohibido, superficie predial minima, coef.constructibilidad, COS, agrupamiento, altura maxima, rasante, antejardin, distanciamiento medianeros, densidad, estacionamientos. Pag40 Cap.V Vialidad (Art.35-37) tablas de anchos de vias, excluida."
+  }
+}

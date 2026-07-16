@@ -1,0 +1,25 @@
+{
+  "id": "rancagua_7ea02082d3",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\rancagua_5415_modificacion_no_20_al_plan_regulador_comunal_rancagua_sector_ex_ruta_5_sur__2017-02-PDO-41655-2.pdf",
+  "nombre": "rancagua_5415_modificacion_no_20_al_plan_regulador_comunal_rancagua_sector_ex_ruta_5_sur__2017-02-PDO-41655-2.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 30,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:13:04",
+  "fin": "2026-07-15T12:17:24",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        19
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial N41.655, 11-01-2017, Modificacion N20 PRC Rancagua Sector Ex Ruta 5 Sur (decreto 5415 exento, 28-12-2016). Tema 3 (Modificaciones y correcciones a la Ordenanza Local en cuanto a zonificacion) trae cuadros numericos completos (superficie predial minima, densidad maxima, sistema de agrupamiento, antejardin, distanciamientos, altura de edificacion, rasante, adosamientos, coeficiente de constructibilidad CC y coeficiente de ocupacion de suelo COS) por zona: SM4 Zona Mixta 4 Frente Rio Cachapoal (p.8-9), BR-M1 Subcentro de Equipamiento (p.9-11), BR-M2 Reconversion Centro Norte (p.10-11), BR-M3 Reconversion Centro Sur (p.11-12), BR-M4 Equipamiento e Infraestructura Sanitaria (p.13), BR-MS1 Barrio Empresarial (p.14), BR-MS2 Barrio Empresarial Sur (p.15), R6 Barrio La Granja (p.16-17), EX8 Barrio Norte (p.17), IT-1 Infraestructura de Transporte-Terminales de Buses (p.18), PU1-AV Area Verde Parque Urbano 1 (p.18), y modificacion de zona BRO existente (p.19, tabla con predial/densidad/CC/COS). Todas las zonas corresponden a Rancagua (decreto explicito Municipalidad de Rancagua, planos MPRC-R_Ruta 5 Sur), sin mezcla de otra comuna. EXCLUI: p.1-2 (considerandos/decreto administrativo), p.3-7 Tema1/Tema2 (tablas de coordenadas UTM de vertices A-AF y puntos 1-23 del limite urbano/poligono de congelamiento, no son normas urbanisticas), p.19-20 zona PU1-EP y Z12 (solo texto/definicion, sin cuadro numerico), p.20-23 Tema4 (tablas de estandares de estacionamientos, no son COS/CC/altura/etc), p.23-30 Tema5 (tablas de vialidad estructurante: nombre de via, ancho, categoria - no son normas de zona)."
+  }
+}

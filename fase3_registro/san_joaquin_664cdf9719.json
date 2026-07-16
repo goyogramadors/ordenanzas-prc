@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_664cdf9719",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_1206_promulguese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_s__DECRETO_1206.pdf",
+  "nombre": "san_joaquin_1206_promulguese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_s__DECRETO_1206.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:52:38",
+  "fin": "2026-07-15T12:54:34",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N39.537, 16-dic-2009, 1 pag. Decreto 1206, San Joaquin, MODIFICACION PLAN REGULADOR COMUNAL -- 'Prorroga de Afectacion a Utilidad Publica de Vias Colectoras' por 5 anos. Solo tabla de VIALIDAD (Codigo Via, Nombre Via, Tramo, Existente/Proyectado, Ancho Minimo L.O., Observaciones) para 6 vias -- sin usos de suelo, COS, CC, altura ni ninguna norma de edificacion. Patron vialidad-only, no cuenta como tabla de normas. Verificado visualmente pagina unica."
+  }
+}

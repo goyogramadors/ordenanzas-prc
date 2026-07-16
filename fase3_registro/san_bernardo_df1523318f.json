@@ -1,0 +1,25 @@
+{
+  "id": "san_bernardo_df1523318f",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_34_modifica_plan_regulador_comunal_de_san_bernardo_y_lo_herrera_en_el_sentido_qu__Exportar.pdf",
+  "nombre": "san_bernardo_34_modifica_plan_regulador_comunal_de_san_bernardo_y_lo_herrera_en_el_sentido_qu__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:28:46",
+  "fin": "2026-07-14T21:29:26",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        5
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "modificación Art.50 LGUC 'El Mariscal': pág4 Subzona ZU5-2 El Mariscal, pág5 Subzona ZU7-1 Padre Hurtado, ambas con condiciones completas (usos permit/prohib, superficie predial mín, CC, COS, agrupamiento, altura máxima, antejardín, densidad bruta); texto nativo completo"
+  }
+}

@@ -1,0 +1,825 @@
+[
+ {
+  "id": "d0000",
+  "comuna": "antofagasta",
+  "nombre_documento": "546_da_inicio_a_procedimiento_de_modificacion_de_plan_regulador_comunal_de_antof",
+  "archivo": "antofagasta_546_da_inicio_a_procedimiento_de_modificacion_de_plan_regulador_comunal_de_antof__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara modificacion prc; convive con patron de tramite 'inicio_proceso' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 546, ANTOFAGASTA (2018)\r\n\r\nDecreto 546\r\nDA INICIO A PROCEDIMIENTO DE MODIFICACIÓN DEL PLAN REGULADOR\r\nCOMUNAL DE ANTOFAGASTA\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nPublicación: 28-ABR-2018 | Promulgación: 18-ABR-2018\r\nVersión: Única De : 28-ABR-2018\r\nUrl Corta: https://bcn.cl/3le3d\r\n\r\nDA INICIO A PROCEDIMIENTO DE MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE ANTOFAGASTA\r\nNúm. 546.- Antofagasta, 18 de abril de 2018.\r\nVistos:\r\na) El Art. 7 bis de la ley 20.417, que modifica la Ley General del Bases Sobre\r\nel Medio Ambiente, 19.300, que establece que los Instrumentos de Planificación\r\nTerritorial deben ser sometidos a una Evaluación Ambiental Estratégica.\r\nb) El decreto N° 32, de fecha 17 de agosto de 2015, del Ministerio del Medio\r\nAmbiente, que aprueba el Reglamento para la Evaluación Ambiental Estratégica,\r\npublicado en el Diario Oficial con fecha 4 de noviembre de 2015.\r\nc) El decreto alcaldicio N° 1080/2016, de fecha 18 de julio de 2016, de la I.\r\nMunicipalidad de Antofagasta, que aprueba las Bases Administrativas, las Bases\r\nTécnicas, Anexos y dispone el llamado a Licitación Pública para contratar el\r\nestudio denominado \"Actualización Plano Regulador Comuna de Antofagasta\".\r\nd) Los decretos alcaldicios N° 46/2017 y 316/2017, de fechas 17 de enero y 6 de\r\nmarzo de 2017, de la I. Municipalidad de Antofagasta, que Adjudica y aprueba Contrato\r\nde Prestación de Servicios \"Actualización Plano Regulador Comuna de Antofagasta\"\r\nID:2430-50-LR16, con la Unión Temporal de Proveedores co"
+ },
+ {
+  "id": "d0001",
+  "comuna": "antofagasta",
+  "nombre_documento": "547_da_inicio_a_procedimiento_de_modificacion_del_plan_regulador_comunal_de_anto",
+  "archivo": "antofagasta_547_da_inicio_a_procedimiento_de_modificacion_del_plan_regulador_comunal_de_anto__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZM2"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara modificacion prc; convive con patron de tramite 'inicio_proceso' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 547, ANTOFAGASTA (2018)\r\n\r\nDecreto 547\r\nDA INICIO A PROCEDIMIENTO DE MODIFICACIÓN DEL PLAN REGULADOR\r\nCOMUNAL DE ANTOFAGASTA\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nPublicación: 28-ABR-2018 | Promulgación: 18-ABR-2018\r\nVersión: Única De : 28-ABR-2018\r\nUrl Corta: https://bcn.cl/3moh3\r\n\r\nDA INICIO A PROCEDIMIENTO DE MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE ANTOFAGASTA\r\nNúm. 547.- Antofagasta, 18 de abril de 2018.\r\nVistos:\r\na) El Art. 7 bis de la Ley 20.417, que modifica la Ley General del Bases Sobre\r\nel Medio Ambiente, 19.300, que establece que los Instrumentos de Planificación\r\nTerritorial deben ser sometidos a una Evaluación Ambiental Estratégica.\r\nb) El decreto N° 32, de fecha 17 de agosto de 2015, del Ministerio del Medio\r\nAmbiente, que aprueba el Reglamento para la Evaluación Ambiental Estratégica,\r\npublicado en el Diario Oficial con fecha 4 de noviembre de 2015\r\nc) El SC. Ord. N° (E) 33/2018, del 9 de abril de 2018, del Asesor Urbanista de\r\nla Ilustre Municipalidad de Antofagasta.\r\nd) El extracto del inicio del proceso de la Evaluación Ambiental Estratégica\r\ndel Plan Regulador de Antofagasta (PRCA) Sector Chimba Bajo Costa y la Minuta\r\nComplementaria de Antecedentes para la Evaluación Ambiental Estratégica del Plan\r\nRegulador Comunal de Antofagasta.\r\ne) Las Órdenes de servicio N° A-18-4971, OS alcaldía 457 de fechas 9 y 11 de\r\nabril de 2018.\r\nf) Lo dispuesto en el Art. 12 de la ley N° 18.695, y en uso de las atribuciones\r\nlegales que me confiere el DFL N° 1, del Ministe"
+ },
+ {
+  "id": "d0002",
+  "comuna": "antofagasta",
+  "nombre_documento": "decreto_alcaldicio_1080_disponese_el_llamado_a_propuesta_publica_denominada_actu",
+  "archivo": "antofagasta_decreto_alcaldicio_1080_disponese_el_llamado_a_propuesta_publica_denominada_actu__61372b59-a19a-4979-8636-6077cbdfe17a.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0003",
+  "comuna": "antofagasta",
+  "nombre_documento": "decreto_alcaldicio_1287_adjudicase_modificacion_plan_regulador_sector_norte_terc",
+  "archivo": "antofagasta_decreto_alcaldicio_1287_adjudicase_modificacion_plan_regulador_sector_norte_terc__742547a5-b8b4-4c3d-8f22-65d5121f917a.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara modificacion prc; convive con patron de tramite 'licitacion' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0004",
+  "comuna": "antofagasta",
+  "nombre_documento": "decreto_alcaldicio_546_dese_por_iniciado_el_procedimiento_de_modificacion_del_pl",
+  "archivo": "antofagasta_decreto_alcaldicio_546_dese_por_iniciado_el_procedimiento_de_modificacion_del_pl__476066eb-7f3e-40b2-8b01-d4bb783e281e.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0498",
+  "comuna": "antofagasta",
+  "nombre_documento": "136_modifica_ordenaza_local_de_plan_regulador",
+  "archivo": "antofagasta_136_modifica_ordenaza_local_de_plan_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 4,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 136, ANTOFAGASTA (1996)\r\n\r\nDecreto 136\r\nMODIFICA ORDENANZA LOCAL DEL PLAN REGULADOR\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nFecha Publicación: 04-MAR-1996 | Fecha Promulgación: 14-FEB-1996\r\nTipo Versión: Única De : 04-MAR-1996\r\nUrl Corta: https://bcn.cl/3mtd5\r\n\r\nMODIFICA ORDENANZA LOCAL DEL PLAN REGULADOR Núm. 136/96 exento.- Antofagasta, 14\r\nde febrero de 1996.\r\nVistos: El Oficio C.A. N° 014/96, fechado el 06 de febrero de 1996, de la\r\nDirección de Obras Municipales, a través del cual solicita la dictación del\r\nDecreto Alcaldicio que apruebe la Modificación al Plan Regulador Comunal Vigente,\r\nreferida a la aplicación del artículo 45, N° 1, inciso 2°, D.F.L. 458 (MINVU) y\r\nartículo 2.1.8. de la Ordenanza General de Urbanismo y Construcciones por\r\n\"Relocalización de Equipamiento Vecinal, Conjunto Habitacional Soquim\"; las\r\npublicaciones en el diario local invitando al público a la exhibición de dicha\r\nmodificación, la que se efectuó durante un período de 30 días; el Certificado N°\r\n425/95, del 29 de diciembre de 1995, por el cual el señor Secretario Municipal\r\ncertifica que en Sesión Ordinaria N° 21, celebrada el 28 de diciembre de 1995, el\r\nConcejo Municipal prestó su acuerdo a la Modificación, conforme a lo dispuesto en\r\nlos artículos 43° y 45° de la Ley General de Urbanismo y Construcciones; las\r\ninstrucciones recibidas de Alcaldía mediante orden de servicio de fecha 07 de\r\nfebrero de 1996, y en uso de las facultades legales que me confiere el artículo\r\n56°, del Decreto N° 6"
+ },
+ {
+  "id": "d0499",
+  "comuna": "antofagasta",
+  "nombre_documento": "145_modifica_plan_regulador_comunal_de_antofagasta",
+  "archivo": "antofagasta_145_modifica_plan_regulador_comunal_de_antofagasta__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 4,
+   "antejardin": 6,
+   "zonificacion": 2,
+   "articulado": 18
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 145, ANTOFAGASTA (2016)\r\n\r\nDecreto 145\r\nMODIFICA PLAN REGULADOR COMUNAL DE ANTOFAGASTA\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nFecha Publicación: 09-FEB-2016 | Fecha Promulgación: 01-FEB-2016\r\nTipo Versión: Única De : 09-FEB-2016\r\nUrl Corta: https://bcn.cl/3mghm\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE ANTOFAGASTA\r\nNúm. 145.- Antofagasta, 1 de febrero de 2016.\r\nVistos:\r\nEl Plan Regulador Comunal de Antofagasta (PRCA), vigente a partir de su\r\npublicación en el Diario Oficial de fecha 17.07.2002, Plan Seccional La Chimba\r\n16.05.2001 y Modificación Plan Regulador Comunal Sector Norte 14.07.2012; las cartas\r\ncertificadas a las organizaciones territoriales afectadas, cartas a los servicios\r\npúblicos y privados por la propuesta de enmienda Nº1 del Plan Regulador Comunal\r\nVigente incluyendo sus modificaciones descritas en la memoria expuesta en página web\r\nmunicipal y las publicaciones efectuadas con fechas 24 de marzo y 31 de marzo 2015\r\nrespectivamente en el diario de mayor circulación, informando de la audiencia\r\npública Nº1 efectuada el 6 de abril de 2015 que expone las principales\r\ncaracterísticas de las enmiendas del instrumento de planificación propuesto e\r\ninforma de la exposición pública de todos los antecedentes en el hall del edificio\r\nConsistorial por 30 días, la sesión extraordinaria Nº2 del Concejo Comunal de\r\nOrganizaciones de la Sociedad Civil, en la comuna de Antofagasta del 9 de abril de\r\n2015, en la cual se expuso la enmienda del Plan Regulador Comunal, finalizado el\r"
+ },
+ {
+  "id": "d0500",
+  "comuna": "antofagasta",
+  "nombre_documento": "236_promulga_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal_de",
+  "archivo": "antofagasta_236_promulga_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal_de___Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 60,
+  "paginas_escaneadas": 18,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "normas_urbanisticas": 1,
+   "zonificacion": 6,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 8,
+   "articulado": 31,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [
+   "ZUDC 04",
+   "ZUDC 05"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 236 EXENTO, ANTOFAGASTA (2014)\r\n\r\nDecreto 236 EXENTO\r\nPROMULGA TEXTO APROBATORIO DE LA MODIFICACIÓN DEL PLAN\r\nREGULADOR COMUNAL DE ANTOFAGASTA SECTOR NORTE III ETAPA\r\nCHIMBA NORTE\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nFecha Publicación: 04-MAR-2014 | Fecha Promulgación: 21-FEB-2014\r\nTipo Versión: Única De : 04-MAR-2014\r\nUrl Corta: https://bcn.cl/3mb5p\r\n\r\nPROMULGA TEXTO APROBATORIO DE LA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL DE\r\nANTOFAGASTA SECTOR NORTE III ETAPA CHIMBA NORTE\r\nNúm. 236 exento.- Antofagasta, 21 de febrero de 2014.- Vistos:\r\n1. Lo dispuesto en el artículo 2.1.11 del DS Nº 47 (V. y U.) de 1992.\r\n2. El decreto alcaldicio Nº1.542/2010 de fecha 16 de diciembre de 2010, que\r\naprueba el contrato de suministro suscrito ante notario con fecha 3 de noviembre de\r\n2010, entre la Ilustre Municipalidad de Antofagasta y la empresa de arquitectura,\r\ndiseño y planificación urbana Polis Ltda., a fin de ejecutar la propuesta pública\r\ndenominada Modificación del Plan Regulador Comunal de Antofagasta Sector Norte III\r\nEtapa Chimba Norte.\r\n3. El ordinario (E) Nº21/2013, de Sr. Jorge Luis Honores, Asesor Urbanista,\r\ndirigido a Sr. Gino Pérez L., secretario comunal de Planificación de la Ilustre\r\nMunicipalidad de Antofagasta, que en razón de la orden de servicio Nº S-13-3945 de\r\nfecha 15 de abril de 2013 de la Sra. Alcaldesa de Antofagasta, se inicien las\r\ngestiones ante los departamentos respectivos, para dar tramitación a la aprobación\r\nde la Modificación del Plan Regulador Comun"
+ },
+ {
+  "id": "d0501",
+  "comuna": "antofagasta",
+  "nombre_documento": "621_aprueba_modificacion_a_ordenanza_local_plan_regulador",
+  "archivo": "antofagasta_621_aprueba_modificacion_a_ordenanza_local_plan_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 621 EXENTO, ANTOFAGASTA (1995)\r\n\r\nDecreto 621 EXENTO; Decreto 621/95\r\nEXENTO\r\nAPRUEBA MODIFICACION A ORDENANZA LOCAL DEL PLAN REGULADOR\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nPublicación: 11-OCT-1995 | Promulgación: 25-SEP-1995\r\nVersión: Única De : 11-OCT-1995\r\nUrl Corta: https://bcn.cl/3r95v\r\n\r\nAPRUEBA MODIFICACION A ORDENANZA LOCAL DEL PLAN REGULADOR\r\nNúm. 621/95 exento.- Antofagasta, Septiembre 25 de 1995.\r\nDecreto:\r\nApruébase la Modificación a la Ordenanza Local del Plan Regulador vigente, en\r\nsu Capítulo IV, Párrafo 3°, Artículo 23°, Normas Específicas, manteniendo\r\ninalterable las condiciones establecidas para las áreas consolidadas y de extensión\r\nurbana, en la forma que a continuación se indica:\r\n_______________________________________________________\r\n| NOTA: VER DIARIO OFICIAL 35.289 DEL 11 DE OCTUBRE\r\n|\r\n|\r\nDE 1995 PAGINA 3.\r\n|\r\n|_____________________________________________________|\r\nPedro Araya Ortiz, Alcalde.\r\n\r\nBiblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Jul-2026\r\n\r\npágina 1 de 1"
+ },
+ {
+  "id": "d0502",
+  "comuna": "antofagasta",
+  "nombre_documento": "816_promulga_el_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal",
+  "archivo": "antofagasta_816_promulga_el_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 52,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "agrupamiento": 1,
+   "antejardin": 4,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 6,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 19,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUDC 04",
+   "ZUDC 06",
+   "ZUDC 07",
+   "ZUDC 08"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 816 EXENTO, ANTOFAGASTA (2012)\r\n\r\nDecreto 816 EXENTO; Decreto 816/2012\r\nEXENTO\r\nPROMULGA EL TEXTO APROBATORIO DE LA MODIFICACIÓN DEL PLAN\r\nREGULADOR COMUNAL SECTOR NORTE, ANTOFAGASTA\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nFecha Publicación: 14-JUL-2012 | Fecha Promulgación: 08-JUN-2012\r\nTipo Versión: Única De : 14-JUL-2012\r\nUrl Corta: https://bcn.cl/3mpw4\r\n\r\nPROMULGA EL TEXTO APROBATORIO DE LA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL SECTOR\r\nNORTE, ANTOFAGASTA\r\nNúm. 816/2012 exento.- Antofagasta, 8 de junio de 2012.- Vistos: Lo dispuesto\r\nen el artículo 2.1.11 del DS Nº 47 (V. y U.) de 1992; el decreto alcaldicio exento\r\nNº 1.180/2009, de fecha 30 de septiembre de 2009, por el cual se deja constancia que\r\nel Concejo Municipal de Antofagasta en su Sesión Extraordinaria Nº 5 del Concejo\r\nMunicipal de Antofagasta, celebrada el 28 de abril de 2009, aprobó la Modificación\r\nal Plan Regulador de la Comuna de Antofagasta, Sector Norte (Plan Seccional Norte\r\nII); el Ord. Nº 619/2012, de fecha 14 de mayo de 2012, por el cual el Secretario\r\nRegional Ministerial de Vivienda y Urbanismo de la Región de Antofagasta, remite el\r\nInforme Final favorable correspondiente al mencionado Proyecto; el Ord. Nº 22/2012,\r\nde fecha 30 de mayo de 2012, del Asesor Urbanista de la Secretaría Comunal de\r\nPlanificación; las Órdenes de Servicio de Alcaldía M-12-5260, de fechas 19 y 31 de\r\nmayo de 2012; en uso de las atribuciones legales que me confiere el DFL Nº 1 de\r\nfecha 9 de mayo del 2006, del Ministerio "
+ },
+ {
+  "id": "d0503",
+  "comuna": "antofagasta",
+  "nombre_documento": "ordenanza_plan_regulador_de_la_comuna_de_antofagasta",
+  "archivo": "antofagasta_ordenanza_plan_regulador_de_la_comuna_de_antofagasta__07-07-2002 Plan Regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 84,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 1,
+   "antejardin": 12,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 16,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ILUSTRE MUNICIPALIDAD DE ANTOFAGASTA\r\n\r\n_______________________________________________\r\n\r\n1\r\n\r\nORDENANZA LOCAL\r\n\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\n\r\nARTÍCULO 1\r\nLas disposiciones de la presente Ordenanza contienen las normas referentes al limite\r\nurbano, zonificación, usos de suelo, condiciones de subdivisión predial, de edificación, de\r\nurbanización y vialidad, las que regirán dentro del área territorial del Plan, que se grafica en los\r\nPlanos PRC 01, 02, 03 y 04, en adelante los Planos, y complementan la información gráfica\r\ncontenida en ellos.\r\nARTÍCULO 2\r\nLa zona circunscrita del Plan corresponde al área urbana definida por medio de la poligonal\r\ncerrada conformada por los puntos 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-2324-25-26-27-28-29 y 30 y de la poligonal cerrada conformada por los puntos 31-32-33-34-35-36-3738-39-40-41-42-43-44-45-46-47-48 y 49, los cuales la delimitan y constituyen su límite urbano.\r\nLa descripción de los puntos y tramos del límite urbano se señalan en el artículo 6 y 7 de\r\nesta Ordenanza.\r\nARTÍCULO 3\r\nTodas aquellas materias atingentes al desarrollo urbano que no se encuentren normadas\r\nen esta Ordenanza se regirán por las disposiciones de la Ley General de Urbanismo y\r\nConstrucciones, en adelante L.G.U.C., de la Ordenanza General de Urbanismo y Construcciones,\r\nen adelante O.G.U.C. y demás disposiciones legales y reglamentarias vigentes sobre la materia.\r\nARTÍCULO 4\r\nEn conformidad a la Ley General de Urbanismo y Construcci"
+ },
+ {
+  "id": "d0504",
+  "comuna": "antofagasta",
+  "nombre_documento": "sn_modificaciones_al_plan_regulador_comunal_de_antofagasta",
+  "archivo": "antofagasta_sn_modificaciones_al_plan_regulador_comunal_de_antofagasta__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 9,
+   "articulado": 18
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto S/N, ANTOFAGASTA (1996)\r\n\r\nDecreto S/N\r\nMODIFICACIONES AL PLAN REGULADOR COMUNAL DE ANTOFAGASTA\r\nMUNICIPALIDAD DE ANTOFAGASTA\r\nPublicación: 09-ABR-1998 | Promulgación: 09-DIC-1996\r\nVersión: Única De : 09-ABR-1998\r\nUrl Corta: https://bcn.cl/3mw8d\r\n\r\nMODIFICACIONES AL PLAN REGULADOR COMUNAL DE ANTOFAGASTA\r\nAntofagasta, 9 de diciembre de 1996.- Vistos:\r\n- La exposición del proyecto del Plan Seccional durante 30 días a contar del\r\nviernes 6 de septiembre de 1996 en el hall municipal, previa dos publicaciones en el\r\nDiario El Mercurio.\r\n- Acta de Sesión Ordinaria Nº25/96 del Concejo Comunal realizada el 31 de\r\noctubre de 1996, que aprueba el proyecto de Plan Seccional.\r\n- Certificado Nº491/96 de fecha 4 de noviembre de 1996 de la señora Secretaria\r\nMunicipal subrogante que acredita el buen procedimiento de aprobación del proyecto\r\ndel Plan Seccional.\r\n- Antecedentes emanados de la Dirección de Obras Municipales a través del\r\noficio C.A. Nº081/96, 082/96 y 087/96 de fechas 11 y 14 de octubre y 12 de noviembre\r\nde 1996 respectivamente, teniendo presente los artículos Nº43 y 45 de la Ley\r\nGeneral de Urbanismo y Construcciones y lo dispuesto en el artículo 2.1.8 de la\r\nOrdenanza General de Urbanismo y Construcciones.\r\n- Informe de Asesoría Jurídica Nº548/97 de fecha 17 de diciembre de 1997 que\r\nseñala que no procede pronunciamiento del Minvu y aprobación del Consejo Regional\r\npor acogerse a lo dispuesto en el artículo 45 de la Ley General de Urbanismo y\r\nConstrucciones.\r\n- Las"
+ },
+ {
+  "id": "d0005",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_aprueba_modificacion_de_ordenanza_que_regula_otorgamiento_de_beca_munici",
+  "archivo": "antuco_decreto_aprueba_modificacion_de_ordenanza_que_regula_otorgamiento_de_beca_munici__Decreto_1898_2019.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 12,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [
+   "modificacion"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara modificacion prc; convive con patron de tramite 'otro_tema' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0006",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_aprueba_ordenanza_municipal_sobre_alimentacion_saludable_y_promocion_de",
+  "archivo": "antuco_decreto_aprueba_ordenanza_municipal_sobre_alimentacion_saludable_y_promocion_de___Decreto_9914_2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 19
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE ANTUCO\r\nSECRETARIA MUNICIPAL\r\n\r\nREF.: APRUEBA \"ORDENANZA MUNICIPAL\r\nSOBRE\r\nALlMENTACION\r\nSALUDABLE\r\ny\r\nPROMOCION DE LA ACTIVIDAD FISICA EN LA\r\nCOMUNA DE ANTUCO\".\r\nANTUCO, 11 jj U 11 . 70itl\r\n\r\n099 14\r\n\r\nDECRETO ALCALDICIO N° _ _ _ _ _ _ __ __ _ _,/\r\nVISTOS\r\n• En uso de las facultades que me confiere la Ley N° 18.695 Orgánica Constitucional de\r\nMunicipalidades y sus Modificaciones posteriores.\r\n• Las disposiciones de la Ley 20.606 sobre composición nutricional de los alimentos y su\r\npublicidad.\r\n•\r\n\r\nLo dispuesto en los artículos 19 numerales 1° y 9° de la Constitucíón Política de la República\r\nde Chile.\r\n\r\nCONSIDERANDO\r\n• El Acuerdo 465/18, del 22 de noviembre de 2018, donde el concejo Municipal. por la\r\nunanimidad de sus integrantes, resuelve aprobar la Ordenanza sobre \"Alimentación\r\nSaludable y Promoción de la Actividad Física en la comuna de Antuco\", y que fuera elaborado\r\npor el Departamento de Salud Municipal.\r\n• La necesidad de generar entornos saludables, entendiendo por tales, los escenarios\r\ncomunitarios o locales donde deben existir oportunidades y condiciones para el desarrollo\r\ntanto individual como colectivo, mejorar la calidad de vida y estado de salud, fortaleciendo la\r\ncapacidad de las personas para adquirir hábitos saludables que les permitan, afrontar los\r\nproblemas relacionados con los estilos de vida, incentivando, por ejemplo. la práctica de la\r\nactividad física, la alimentación saludable y la sana recreación.\r\n• La necesidad de reducir l"
+ },
+ {
+  "id": "d0007",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_aprueba_ordenanza_n22026_municipal_sobretenencia_responsable_de_mascotas",
+  "archivo": "antuco_decreto_aprueba_ordenanza_n22026_municipal_sobretenencia_responsable_de_mascotas__Decreto_2_2026.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 35,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 12
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ILUSTRE MUNICIPALIDAD DE ANTUCO\r\nUNIDAD DE ASEO, ORNATO Y MEDIO AMBIENTE\r\nDIRECCIÓN DE OBRAS MUNICIPALES\r\n\r\nREF: APRUEBA ORDENANZA MUNICIPAL SOBRE\r\nTENENCIA RESPONSABLE DE MASCOTAS Y\r\nANIMALES DE COMPAÑÍA COMUNA DE ANTUCO\r\nVISTOS:\r\n\r\na)\r\n\r\nLo dispuesto en los artículos 6° y 7° de la Constitución Política de la República,\r\nque consagran el principio de juridicidad y establecen que los órganos del Estado deben\r\nsometer su actuación a la Constitución y a las leyes.\r\nb)\r\nLa Ley N° 18.695, Orgánica Constitucional de Municipalidades, y en especial sus\r\nartículos 4°, 5° letra d) y 10, que reconocen a las municipalidades funciones relacionadas con\r\nla salud pública, la protección del medio ambiente y la facultad de dictar ordenanzas\r\nmunicipales de carácter general y obligatorio dentro de su territorio.\r\nc)\r\nLa Ley N° 21.020, sobre Tenencia Responsable de Mascotas y Animales de\r\nCompañía, que establece el marco normativo aplicable en la materia y encomienda\r\nexpresamente a las municipalidades la dictación de ordenanzas comunales destinadas a\r\nregular la tenencia responsable en el respectivo territorio.\r\nd)\r\nEl Decreto Supremo N° 1007, de 2018, del Ministerio del Interior y Seguridad\r\nPública, que aprueba el Reglamento de la Ley N° 21.020 y fija las disposiciones técnicas,\r\nsanitarias y administrativas para su adecuada implementación, fiscalización y control.\r\ne)\r\nLa Ley N° 20.025, que regula el uso de perros de asistencia para personas con\r\ndiscapacidad, garantizando su derecho de ac"
+ },
+ {
+  "id": "d0008",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_aprueba_ordenanza_n_012026_municipal_sobre_tenencia_responsable_de_masco",
+  "archivo": "antuco_decreto_aprueba_ordenanza_n_012026_municipal_sobre_tenencia_responsable_de_masco__Decreto_1159_2026.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 25,
+  "paginas_escaneadas": 25,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0009",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_municipal_sobre_subvenciones_municipales",
+  "archivo": "antuco_decreto_ordenanza_municipal_sobre_subvenciones_municipales__Decreto_1_2026.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 12,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0010",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_sobre_aseo_ornato_y_tenencia_responsable_de_mascotas_del_27_4",
+  "archivo": "antuco_decreto_ordenanza_sobre_aseo_ornato_y_tenencia_responsable_de_mascotas_del_27_4___Decreto_205_2015.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 18,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 47
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE ANTUCO\r\nSECRETARIA MUNICIPA L\r\nREF: APRUEB\r\nA ORDENANZ\r\nA\r\nMUNICIPAL SOBR E ASEO , ORNAT O Y\r\nTENENCIA RESPONSABL\r\nED\r\nE\r\nMASCOTAS E N L A COMUN A D E\r\nANTUCQ.\r\nANTUCO: 2 7 &BR . 201 5\r\n\r\n«800205\r\n\r\nDECRETO ALCALDICI O ___\r\nVISTOS Y CONSIDERANDO\r\n\r\na) E l Decret o Le y N ° 3.06 3 d e 197 9 sobr e Renta s Municipale s y su s\r\nmodificaciones posteriores .\r\nb) Decret o Alcaldici o N ° 007 de fecha 31.12.8 0 y sus modificacione s posteriore s\r\nsobre \"Derechos por Concesiones, permisos y servicios\".\r\nc) E l Acuerdo N ° 458 de fecha 16.04.15 , adoptado en sesión ordinari a N ° 85, po r\r\nel Consej o Municipal , mediant e e l cua l s e aprueb a l a present e Ordenanz a\r\nsobre Aseo y Ornato para la comuna de Antuco.\r\nd) Act a N ° 1 1 d e fech a 2 7 d e noviembr e d e 2014 , de l Consej o Comuna l d e\r\nOrganizaciones de l a Sociedad Civil , donde consta qu e dicho organismo tomo\r\nconocimiento y , s e solicit a s u pronunciamient o sobr e ordenanz a d e Ase o y\r\nOrnato.\r\ne) E n us o d e la s facultade s qu e m e confier e l a Le y N ° 18.69 5 Orgánic a\r\nConstitucional de Municipalidades y sus modificaciones posteriores .\r\n\r\nDECRETO\r\n1.- APRUÉBES E l a siguient e Ordenanz a Municipa l sobr e Aseo , Ornato , Medi o\r\nAmbiente y Tenencia Responsabl e d e Mascotas para l a comuna d e Antuco.\r\nORDENANZA MUNICIPA L SOBR E ASEO, ORNATO Y TENENCIA\r\nRESPONSABLE D E MASCOTAS EN LA COMUNA D E ANTUC O\r\nOBJETIVOS Y ÁMBITO D E APLICACIÓN\r\nArtículo 1° : L a Ilustr e Municipalida d d e "
+ },
+ {
+  "id": "d0011",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_sobre_la_regulacion_del_otorgamiento_de_beca_municipal_de_ense",
+  "archivo": "antuco_decreto_ordenanza_sobre_la_regulacion_del_otorgamiento_de_beca_municipal_de_ense__Decreto_5222_2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 7,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0012",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_sobre_la_regulacion_transito_vehicular_uso_de_cadenas_aseo_y_o",
+  "archivo": "antuco_decreto_ordenanza_sobre_la_regulacion_transito_vehicular_uso_de_cadenas_aseo_y_o__Decreto_554_2015.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE ANTUCO\r\nSECRETARIA MUNICIPAL\r\nConcejo Municipal\r\n\r\nREF.:\r\n\r\nDicta Ordenanza Municipal que regula\r\ntránsito vehicular, uso de cadenas y aseo y\r\nornato, en el Centro Invernal Volcán\r\nAntuco.\r\n\r\nANTUCO:\r\n\r\n1 4 Del 2015\r\n\r\n1200554\r\n\r\nDECRETO ALCALDICIO - - - - - - - - - - 1\r\nVISTOS\r\n\r\na) Carta de fecha 22 de julio de 2015, del Jefe Tenencia Carabineros Antuco,\r\ndonde solicita actualizar Ordenanza Municipal.\r\nb) Decreto Alcaldicio Nº 554 de fecha 08.10.15 que regula el uso de cadenas,\r\ntránsito vehicular y seguridad en los andariveles y cancha de sky en\r\nCentro Invernal Volcán Antuco.\r\nc) El Acuerdo Nº 513 de fecha 23.07.15. Adoptado en Sesión Ordinaria Nº\r\n095/15 del Concejo Municipal, mediante el cual se da por aprobada la\r\npresente ordenanza.\r\nd) Lo prescrito en el artículo 12, inciso 2º y artículo 65 letra e) de la Ley\r\n18.695.\r\ne) En uso de las facultades que me confiere la Ley 18.695, O.C.M. y sus\r\nmodificaciones posteriores.\r\nCONSIDERANDO:\r\n\r\n1. La necesidad de actualizar, modificar y complementar las normas\r\ngenerales y de aplicación comunal, referida a la ordenanza municipal\r\nexistente sobre el tránsito vehicular, horarios de subida y bajada, uso de\r\ncadenas y equipamiento de los vehículos, desde y hacia el centro Invernal\r\nVolcán Antuco.\r\n2. Que, es función municipal cuidar y mantener el aseo y ornato de la comuna\r\npor lo que se debe sancionar a quienes boten basura y todo tipo de\r\ndesperdicios en la vía pública ylo en bienes nacionales de uso público.\r\n"
+ },
+ {
+  "id": "d0013",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_sobre_otorgamiento_de_beca_municipal_de_ensenanza_superior_de",
+  "archivo": "antuco_decreto_ordenanza_sobre_otorgamiento_de_beca_municipal_de_ensenanza_superior_de___Decreto_3_2023.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0014",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_sobre_subvenciones_municipalies",
+  "archivo": "antuco_decreto_ordenanza_sobre_subvenciones_municipalies__Decreto_2_2023.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0015",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanzas_sobre_subvenciones_municipales_del_22092004",
+  "archivo": "antuco_decreto_ordenanzas_sobre_subvenciones_municipales_del_22092004__Decreto_201_2004.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 31
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "- 1­\r\n\r\nMUNICIPALIDAD DE ANTUCO\r\nDIRECCiÓN ADM . Y FINANZAS\r\nFono: 043-633204 FAX: 633205\r\n\r\nDECRETO ALCALDICIO N° 201.-1\r\n\r\nANTUCO, 22 de Septiembre del 2004.\r\n\r\nVISTOS:\r\n\r\nLa necesidad de dictar una Ordenanza de Subvenciones Municipales a\r\nobjeto de que la Comunidad y, en especial, las Organizaciones Sociales de la\r\nComuna , conozcan y se informen acerca de las normas que rigen el\r\notorgamiento de las mismas por parte del Municipio en relación con las\r\nexigencias que en esta materia ha introducido la Ley N° 19.862 del 2003, que\r\nestablece Registros de las Personas Jurídicas Receptoras de Fondos Públicos\r\ny, su Reglamento sancionado por Decreto Supremo N° 375, del 2003, ambos\r\ndel Ministerio de Hacienda; el acuerdo N° 335 adoptado por el Concejo\r\nMunicipal, en sesión ordinaria N° 091, celebrada el 15 de Septiembre del 2004;\r\ny teniendo presente las facultades que me confiere la Ley N° 18.695, Orgánica\r\n. Constitucional de Municipalidades, y sus modificaciones posteriores:\r\n\r\nD EC RE ro:\r\n1.- Apruébase la \"ORDENANZA SOBRE SUBVENCIONES MUNICIPALES\", de\r\nla Municipalidad de Antuco, cuyo texto oficial es el siguiente:\r\n\r\nTITULO I ..DISPOSICIONES GENERALES\r\nARTICULO 1° : La siguiente ordenanza regula el procedimiento para el\r\notorgamiento de subvenciones que la Municipalidad de Antuco, pueda entregar\r\npara fines específicos, a personas jurídicas de carácter público o privado sin\r\nfines de lucro que colaboren directamente en el cumplimiento de sus funciones.\r\nARTICULO 2° : Las sub"
+ },
+ {
+  "id": "d0016",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_rectifica_decreto_alcaldicio_n_1159_de_fecha_23_de_febrero_de_2026_que_a",
+  "archivo": "antuco_decreto_rectifica_decreto_alcaldicio_n_1159_de_fecha_23_de_febrero_de_2026_que_a__1871.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0505",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_aprueba_ordenanza_municipal_sobre_autorizacion_de_transporte_de_basuras",
+  "archivo": "antuco_decreto_aprueba_ordenanza_municipal_sobre_autorizacion_de_transporte_de_basuras___Decreto_2049_2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 21
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ILUSTRE MUNICIPALIDAD DE ANTUCO\r\nDEPARTAMENTO DE OBRAS MUNICIPAL\r\n\r\nREF.: Aprueba Ordenanza Municipal sobre autorización\r\nde transporte de basuras, desechos, escombros o\r\nresiduos de cualquier tipo, estipulado en Ley N° 18.290\r\nde Transito.\r\nANTUCO,.\r\n\r\nDECRETO ALCALDICIO N\r\n\r\n1 1 ABR 231Í\r\n\r\nNSÜ2049\r\n\r\nVISTOS:\r\n\r\nLo dispuesto en la ley N° 18.695, orgánica constitucional de Municipalidades,\r\ncuyo texto refundido, coordinado y sistematizado fuera aprobado por el DFL N° 1, de\r\n2006, del Ministerio del Interior; la ley N° 18.290, de Tránsito, cuyo texto refundido,\r\ncoordinado y sistematizado fuera aprobado por el DFL N° 1, de 2007, de los Ministerios\r\nde Transportes y Telecomunicaciones, y de Justicia; la Resolución N° 1.600, de 2008, de\r\nla Contraloría General de la República y las demás normativa aplicable.\r\nCONSIDERANDO:\r\n\r\nQue, el artículo 3° literal f) de la ley N° 18.695, citada en el Visto, entrega a las\r\nMunicipalidades, en el ámbito de su territorio, la función privativa del aseo y ornato de\r\nla comuna. Asimismo, el artículo 4°, del citado cuerpo legal, en su literal b), encarga a las\r\nMunicipalidades para desarrollar, en el ámbito de su territorio, directamente o con otros\r\nórganos de la Administración del Estado, la función de salud pública y la protección a\\o ambiente, y\r\npúblicos.\r\nQue, el artículo 192 bis de la ley N° 18.290, de Tránsito, citada en el Visto,\r\nsanciona el transporte, traslado o depósito de basuras, desechos o residuos de cualquier\r\ntipo, hacia o en "
+ },
+ {
+  "id": "d0506",
+  "comuna": "antuco",
+  "nombre_documento": "decreto_ordenanza_de_cierre_o_implementacion_de_las_medidas_de_control_de_acceso",
+  "archivo": "antuco_decreto_ordenanza_de_cierre_o_implementacion_de_las_medidas_de_control_de_acceso__Decreto_2_2022.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "articulado": 16
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ILUSTREMUNICIPALIDADDEANTUCO\r\nDIRECCIONSEGURIDADPUBLICA\r\n\r\nANTUC0,23denoviembrede2022\r\n\r\nORDENANZAN\r\n\r\n02-2022\r\n\r\nVISTOS:\r\na) Los articulos 32 N6 y 35 dela Constitucion Politica de la Republica.\r\n\r\nb) La Ley N 21.411, que modifica la Ley N° 18.695, Organica Constitucional de\r\nMunicipalidades, en materia de cierre o instalacion de medidas de control de acceso en\r\ncalles, pasajes o conjuntos habitacionales por motivos de seguridad.\r\nc)El decreto con fuerza de Ley N 1-19.653, de 2000, del Ministerio Secretaria\r\nGeneral de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la\r\nLey N? 18.575, Organica Constitucional de Bases Generales de la Administracion del\r\n\r\nEstado.\r\nd) La Ley N° 20.502, que crea el Ministerio del Interior y Seguridad Publica y el\r\nServicio Nacional para la Prevencion y Rehabilitacion del Consumo de Drogas y Alcohol,\r\ny modifica diversos cuerpos legales.\r\n\r\ne) El decreto con fuerza de Ley N 1-18.359, de 1985, del Ministerio del\r\n\r\nInterior, que Traspasa y Asigna Funciones a la Subsecretaria de Desarrollo Regional y\r\nAdministrativo.\r\n\r\nf) El decreto con fuerza de Ley N 1, de 2006, del Ministerio del Interior, que\r\nfija el texto refundido, coordinado y sistematizado de la Ley N 18.695, Organica\r\nConstitucional de Municipalidades.\r\n\r\ng) La Ley N 19.628, sobre proteccion de la vida privada.\r\nh) La Ley N 20.422, que establece normas sobre igualdad de oportunidades e\r\ninclusion social de personas con discapacidad.\r\ni) El decreto supremo N 47,"
+ },
+ {
+  "id": "d0507",
+  "comuna": "antuco",
+  "nombre_documento": "ordenanza_resolucionacto",
+  "archivo": "antuco_ordenanza_resolucionacto__Decreto_4_2003.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 11
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [
+   "ZA"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "NONrCIPALlDAD\r\nDIRECCIÓN ADk.\r\n\r\nN° 004\r\n\r\n--\",;;,,,;:,,,:~._-\r\n\r\nDE\r\n\r\nAllTUco\r\n\r\ny FlJQ]rZAs\r\n\r\n•\r\n\r\n~CO, 23 DICIPUb~2003 .\r\n~\r\n\r\n/ Vistos:\r\n\r\n1. - El Decreto Ley Na 3 063\r\nmodificaciones poster;ores. .\r\nde 1 9 79, sobre\r\n2\r\nE l ·\r\nRentas Municipales,\r\n.Decreto Municipal Na 007 d\r\ny sus\r\nsobre derechos municipal\r\nel 31.12 . 80 y sus modifi\r\ni\r\n3.- El acuerdo NI> 279/2~~3P~~e~~:~~~Hones. permisos y ser~:~i~~es posteriores\r\n:d~Pt::o en sesión extraordinaria cele1~~d:lelH·23c~nce~0 . Municip~l de Antuco\r\n.\r\nUSO de las atribuciones\r\nf\r\ne d~c~embre de 2003 y\r\n,\r\nRefundido de la Ley N° 18 695 O Y acultades que me confiere el 'T t\r\ndicto la siguiente:\r\n\"\r\nrg áni ca Constitucional de Munlclpalida~!s o,\r\nORDlI:l!tU'ZA COKODL SOBRE DERECHOS MOlI'ICIPALl!:S\r\nyo SERVZCIOS MONICIPALES VI\"\"\"\" S A\r\nPOR PERMISOS, CORCESIOlO:S\r\n\r\nArtiaulo 10:\r\n\r\n\"\"IIIA:rJt\r\n\r\nCONTAR DEL Aio 2 OO4\r\n\r\n.\r\n\r\nLa presente ordenanza tiene por objeto regular\r\nderechos municipales que deben pagar las personas el monto y cobro de los\r\nnaturales o juridi cas sean\r\nde derecho público o privado por permi\r\nobtengan de la municipalidad.\r\nsos, concesiones o servicios que\r\n\r\nTI!roLO 1\r\nLIQUIDACION Y GIRO DB LOS DERECHOS\r\nArtíc\\üO 2 o :\r\nCada Departamento, Unidad 6 Sección Municipal confeccionará la liquidación de\r\nderechos que procedan según se establece en esta ordenanza y los pagos\r\ndeberAn enterarse en la Tesorer1a MUnié:ipal, en el plazo que le fij e la\r\nMunicipalidad.\r\nArtícu10 3 o :\r\nLos montos en general están expres"
+ }
+]

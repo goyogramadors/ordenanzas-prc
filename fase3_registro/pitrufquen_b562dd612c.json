@@ -1,0 +1,20 @@
+{
+  "id": "pitrufquen_b562dd612c",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pitrufquen_plan_regulador__PLADECO%202023-2026.pdf",
+  "nombre": "pitrufquen_plan_regulador__PLADECO%202023-2026.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 110,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:14:30",
+  "fin": "2026-07-14T21:15:35",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: pese al nombre de archivo, el contenido es el PLADECO 2023-2026 de Pitrufquen (110 pags): marco teorico, diagnostico regional/comunal, indicadores demograficos/sociales, conclusiones. Grep del documento completo: 0 hits en las 5 senales urbanisticas. Candidato a descarte del corpus."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "renaico_35eaf1369e",
+  "comuna": "renaico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\renaico_decreto_4_plan_regulador_de_la_comuna_de_renaico_localidad_tijeral__prvtij.pdf",
+  "nombre": "renaico_decreto_4_plan_regulador_de_la_comuna_de_renaico_localidad_tijeral__prvtij.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:02:57",
+  "fin": "2026-07-15T08:05:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        9
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA imagen: PRC Parcial Renaico localidad Tijeral, Cap.V (Art.10) Zonificación: zonas Z-1 (Centro), Z-2 (Borde Centro), Z-3 (Apoyo Ruta), Z-AV (Área Verde) - tablas embebidas como imagen (confirmado pdfimages+render pág6: tabla completa Z-1 con usos permit/prohib, superficie subdivisión 400m2, COS 0.5-0.7, CC 1.0-1.4, altura 8-10m, agrupamiento, antejardín 3m, densidad 140hab/ha). Nota de Contraloría aclara terminología de Z-AV (superficie de subdivisión predial mínima = área verde)"
+  }
+}

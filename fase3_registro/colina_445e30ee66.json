@@ -1,0 +1,20 @@
+{
+  "id": "colina_445e30ee66",
+  "comuna": "colina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\colina_f3fb6c0-0ed2.pdf",
+  "nombre": "colina_f3fb6c0-0ed2.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:32:38",
+  "fin": "2026-07-14T15:33:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "NO ES NORMATIVO: es el INDICE/LISTADO de modificaciones al PRC de Colina (columnas: fecha, tipo de acto, N decreto, N acuerdo concejo, texto modificacion, enlace). Util como mapa de que enmiendas existen (E-3093/2012, E-620/2014, E-621/2014, E-2260/2017, E-2261/2017, E-646/2021), pero no contiene ningun valor de norma. Verificado texto 2/2 + render p2."
+  }
+}

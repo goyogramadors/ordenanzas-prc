@@ -1,0 +1,20 @@
+{
+  "id": "villarrica_0c852a2671",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_planos_y_ordenanza_de_la_modificacion_al_plan_regulador_comunal_de_villarrica_ac__oficio_1080_2018_sai_mu339t0000850.pdf",
+  "nombre": "villarrica_planos_y_ordenanza_de_la_modificacion_al_plan_regulador_comunal_de_villarrica_ac__oficio_1080_2018_sai_mu339t0000850.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:35:12",
+  "fin": "2026-07-14T21:35:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: respuesta de transparencia (MU339T0000850, dic-2018) que DENIEGA la entrega de la modificacion al PRC Villarrica porque aun no ha sido aprobada (esta a la espera del Plan Intercomunal Villarrica-Pucon). Sin normas. Candidato a descarte."
+  }
+}

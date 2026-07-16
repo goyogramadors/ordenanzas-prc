@@ -1,0 +1,29 @@
+{
+  "id": "villarrica_8d20c79efa",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\villarrica_resolucion_17_modificacion_plan_regulador_intercomunal_villarrica_pucon_plano__modificacion_prc_vrca_pucon_1996.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Resolucion 17/1996 (Gobierno Regional IX Region), Plan Regulador INTERCOMUNAL Villarrica-Pucon (aplica a ambas comunas). TODO EN TEXTO REAL en p1. Crea ZONA MIXTA DE RESIDENCIA Y EQUIPAMIENTO (art.25 a.1): usos permitidos (vivienda + equipamiento variado), predial min 600 m2, frente 15 m, ocupacion 35%, densidad bruta 160 hab/ha, agrupacion aislada, altura 5 pisos, distanciamiento 3 m. Crea ZONA DE PARQUE BORDE DE LAGO (art.25 h.1): franja riberena min 10 m (Bien Nacional de Uso Publico, min 5 m), usos de area verde publica + equipamiento recreacional/deportivo autorizable, con condiciones de concesion (max 15% superficie por tramo, edificaciones max 5% superficie/2 pisos). Ancho minimo via Carretera Villarrica-Pucon: 30 m (vialidad, no cuenta). p2-3 no revisadas (verificar si tienen mas contenido).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:35:53",
+  "fin": "2026-07-15T14:39:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\villarrica\\villarrica_res17_zona_mixta_parque_lago_pag1-3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "Zona Mixta de Residencia y Equipamiento",
+      "Zona de Parque Borde de Lago"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION A NOTA_FASE3: el contenido de zona NO esta en p1 (solo Vistos/Resuelvo administrativo) sino en p2-3, verificado con pdftotext antes de transcribir. Se renderizaron y transcribieron las 3 paginas del documento completo para no omitir norma pese a que el rango asignado era [1,1]. Zona Mixta: predial 600m2, ocupacion 35%, densidad 160 hab/ha, aislada, altura 5 pisos. Parque Borde Lago: franja 10m (min 5m BNUP), concesion max 15%/tramo, edificacion max 5%/2 pisos. Aplica a Villarrica y Puncon (plan intercomunal)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lebu_f3d4c87b9e",
+  "comuna": "lebu",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lebu_6704_aprueba_enmienda_n_2_al_plan_regulador_comunal_de_lebu___Exportar.pdf",
+  "nombre": "lebu_6704_aprueba_enmienda_n_2_al_plan_regulador_comunal_de_lebu___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:00:31",
+  "fin": "2026-07-14T21:01:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "enmienda N2: solo agrega zona BA-C con deslindes descritos en texto, sin cuadro normativo"
+  }
+}

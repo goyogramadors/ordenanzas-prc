@@ -1,0 +1,15 @@
+{
+  "id": "vitacura_d357d7a75e",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_330_promulga_modificacion_no_30_al_plan_regulador_comunal_de_vitacura_lineas_de___Diario_Oficial_21.01.16_pag_29.pdf",
+  "nombre": "vitacura_330_promulga_modificacion_no_30_al_plan_regulador_comunal_de_vitacura_lineas_de___Diario_Oficial_21.01.16_pag_29.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:38:11",
+  "fin": "2026-07-14T21:39:42",
+  "resultado": {
+    "motivo": "PDF TRUNCADO: archivo de 1 sola pagina (extraida del DO 41.362, pagina 29, 21-01-2016) que CORTA a mitad de frase: 'Decreto: 1. Promulgase la Modificacion N30... referido a normas de E...' -- el articulo 41 de la Ordenanza Local (Lineas de Edificacion de Vias Troncales) con los valores reales NO alcanza a aparecer, se corta justo donde empieza. Requiere la pagina siguiente del mismo Diario Oficial (probablemente pagina 30) para obtener el texto completo del Decreto 3/30 (06-01-2016)."
+  }
+}

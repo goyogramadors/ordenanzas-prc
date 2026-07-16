@@ -1,0 +1,37 @@
+{
+  "id": "niquen_e77cbf5431",
+  "comuna": "niquen",
+  "ruta": "Ordenanzas ordenadas\\niquen_94_modifica_resolucion_n_121_de_15092008_que_promulga_plan_regulador_comunal_de___do-20090924.pdf",
+  "rangos": [
+    [
+      19,
+      21
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Publicacion completa Diario Oficial (60 pag). Contenido de Niquen ocupa pag 13-21 (Resolucion 94 modifica cuadros de usos de suelo, luego Resolucion 121 promulga el PRC con texto completo de la Ordenanza Local); resto son avisos/decretos de otras comunas. Tablas de NORMAS URBANISTICAS por zona con valores reales (superficie predial minima, COS, CC, altura maxima, sistema de agrupamiento, antejardin, distanciamiento) estan en pag 19-21: cuadro USOS DE SUELO y cuadro EDIFICACION para cada zona (ZHMC, ZH-1, ZH-2, ZE, ZED, ZES, ZPI, ZEXH, ZPU, ZPD). Pag 13-14 (Resolucion 94) solo modifica tablas de vialidad y usos de suelo sin cifras de COS/CC/altura.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T23:24:12",
+  "fin": "2026-07-16T08:10:15",
+  "resultado": {
+    "archivo": "extraccion_normas\\niquen\\niquen_ordenanza_zonas.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "ZHMC",
+      "ZH-1",
+      "ZH-2",
+      "ZE",
+      "ZED",
+      "ZES",
+      "ZPI",
+      "ZEXH",
+      "ZPU",
+      "ZPD"
+    ],
+    "confianza": "ALTA",
+    "nota": "10 zonas completas (usos de suelo + condiciones de edificacion) transcritas desde render legible. ZPD sin cuadro numerico propio (remite a arts 25-26). Verificado contra nota_fase3: coincide."
+  }
+}

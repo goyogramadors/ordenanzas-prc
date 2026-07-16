@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_8e27bbec5d",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curacautin__ordenanza_local_sobre_uso_de_mascarilla_en_lugares_que_indica_en_la_comuna_de_c__DEC. EX. N. 569, APRUEBA ORDENANZA LOCAL USO DE MASCARILLA..pdf",
+  "nombre": "curacautin__ordenanza_local_sobre_uso_de_mascarilla_en_lugares_que_indica_en_la_comuna_de_c__DEC. EX. N. 569, APRUEBA ORDENANZA LOCAL USO DE MASCARILLA..pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:13:11",
+  "fin": "2026-07-15T08:13:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Ex 569 (25.05.2020), Municipalidad de Curacautin. Aprueba Ordenanza Local sobre uso de mascarilla en contexto COVID-19. No es instrumento de planificacion territorial: sin normas urbanisticas."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "casablanca_eda2986a72",
+  "comuna": "casablanca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\casablanca_6828_enmienda_n_1_2022_a_las_zonas_zed_y_zhm_4_del_plan_regulador_comunal_de_cas__download.pdf",
+  "rangos": [
+    [
+      4,
+      4
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda N1/2022 PRC Casablanca, zonas ZED y ZHM-4. Solo modifica ALTURA MAXIMA: ZED 12,6 m; ZHM-4 4,2 m continua (6 m profundidad min) / 10 m aislada detras del cuerpo continuo. Texto integro por pdftotext, sin trampa de imagen. No hay cuadro con las demas normas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:08:47",
+  "fin": "2026-07-15T14:10:23",
+  "resultado": {
+    "archivo": "extraccion_normas\\casablanca\\casablanca_6828_enmienda_n1_2022_zed_zhm4_pag4.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZED",
+      "ZHM-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmienda N1/2022, solo reemplaza altura maxima de ZED (12,6 m) y ZHM-4 (4,2 m continua / 10 m aislada). Texto integro, sin trampa de imagen."
+  }
+}

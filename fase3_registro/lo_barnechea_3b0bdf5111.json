@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_3b0bdf5111",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_996_exento_decreto_99605_exento_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lo_barnechea_996_exento_decreto_99605_exento_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:01:35",
+  "fin": "2026-07-14T21:04:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Enmienda puntual: sube altura max de 5 a 6 pisos en Zona O Parque Praguer art.55, por referencia textual; no reproduce cuadro."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_c06dbf0c90",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_3722_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_sector_de_la_r__DA 3722.pdf",
+  "nombre": "san_antonio_3722_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_sector_de_la_r__DA 3722.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:27:10",
+  "fin": "2026-07-14T21:28:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SAN ANTONIO: decreto 3722, deja establecido el expediente de la Modificacion del PRC en el Sector Ribera Sur del Estero El Sauce-Llolleo (Fundo El Pineo). El documento (10p) describe la SEGREGACION de la zona ZE4 en dos nuevas zonas de compensacion AMBIENTAL: ZEAV (Zona Especial de Areas Verdes) y ZA1 (Actividades Productivas), con obligaciones de reforestacion, cierro arboreo y corredor arboreo. Cero señales de parametros dimensionales (COS, CC, altura, predial minima) y cero menciones de usos de suelo permitidos-prohibidos en las 10 paginas: es una modificacion de zonificacion AMBIENTAL-compensatoria, no una tabla de normas urbanisticas de edificacion."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "algarrobo_4c239069c1",
+  "comuna": "algarrobo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\algarrobo_3336_aprueba_la_modificacion_del_plan_regulador_comuna_de_algarrobo_singularizad__Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Modificacion PRC zona ZSH3B (Deportivo Mirasol). p3: tabla usos de suelo permitidos/prohibidos + tabla coordenadas poligono; p4: cuadro condiciones de edificacion (subdiv 300m2, ocup 50%, constr 1,7, altura 77m, antejardin 5m, densidad 900 hab/ha) + estacionamientos. TABLAS SON IMAGEN pese a paginas_con_imagen vacio en la cola.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:39:40",
+  "fin": "2026-07-15T14:42:07",
+  "resultado": {
+    "archivo": "extraccion_normas\\algarrobo\\algarrobo_3336_zsh3b_deportivo_mirasol_pag3-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZSH3B"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa confirmada: ambas tablas (usos de suelo + condiciones) son imagen pese a paginas_con_imagen vacio. Predial 300m2, ocupacion 50%, CC 1,7, altura 77m, aislado-pareado/continuo, antejardin 5m, densidad 900 hab/ha. Mas tabla de estacionamientos minimos. Coincide con nota_fase3."
+  }
+}

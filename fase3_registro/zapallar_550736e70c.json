@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_550736e70c",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_93_aprueba_presentacion_de_la_enmienda_plan_regulador__93.pdf",
+  "nombre": "zapallar_acuerdo_93_aprueba_presentacion_de_la_enmienda_plan_regulador__93.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:41:29",
+  "fin": "2026-07-15T07:47:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ZAPALLAR: Certificado Acuerdo 93-2017 (1p; el cuerpo dice Acuerdo 94), Concejo Municipal aprueba la PRESENTACION de la Enmienda al PRC. Tramite procedimental, sin normas. Antecedente del decreto 2195 (enmienda N1) ya registrado."
+  }
+}

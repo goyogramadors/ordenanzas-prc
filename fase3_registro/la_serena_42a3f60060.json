@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_42a3f60060",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_624_rectifica_el_articulo_n20_de_la_ordenanza_local_del_plan_regulador_comunal_e__Exportar.pdf",
+  "nombre": "la_serena_624_rectifica_el_articulo_n20_de_la_ordenanza_local_del_plan_regulador_comunal_e__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:50:54",
+  "fin": "2026-07-14T15:55:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "SOLO VIALIDAD: Decreto 624 rectifica el art.20 pero unicamente el Cuadro 9 de VIALIDAD (Av. El Jardin, colectora): pasa de 'Var 15-30 / ensanche ambos costados' a '- / Apertura'. Tabla-imagen verificada en render de p3 (columnas categoria/nombre/tramo/ancho existente/ancho propuesto). No toca COS/CC/altura/densidad/usos. PAREJA con la_serena_911e4e5547 (decreto 576), que hace el cambio INVERSO."
+  }
+}

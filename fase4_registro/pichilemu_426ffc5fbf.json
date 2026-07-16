@@ -1,0 +1,33 @@
+{
+  "id": "pichilemu_426ffc5fbf",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_4415_aprueba_correccion_a_planos_de_la_enmienda_al_plan_regulador_comunal_de_pic__correccion.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Decreto Exento 4415/2023 (pag2, republicado en Diario Oficial 10-nov-2023 pag2-3 = imagenes pag5-6): APRUEBA CORRECCION A PLANOS DE ENMIENDA PRC Pichilemu Sector Centro. Corrige valores de norma en 3 zonas: Zona A2-sc (plano PRC02-23 y PRC05-23): Frente Minimo deroga (era 12m), Cierros 60% transparencia 2 altura max (antes 600%), Tamaño predial minimo 300m2 (antes 600m2); Zona A5-pv (plano PRC04-23, sector Pura Vida): Densidad 40 hab/ha (antes 52 hab/ha). Valores de norma en formato 'donde dice/se reemplaza por', cuenta como hallazgo valido.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-16T08:05:00",
+  "fin": "2026-07-16T08:11:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\pichilemu\\pichilemu_4415_correccion_planos_zonas_a2sc_a5pv_pag2-6.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "A2-sc",
+      "A5-pv"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: A2-sc (frente derogado, cierros 600%->60%, predial 600->300m2, aplicado en 2 planos identicos PRC02-23 y PRC05-23) + A5-pv (densidad 52->40 hab/ha, precisado como A5-spv en plano). Formato donde dice/se reemplaza por."
+  }
+}

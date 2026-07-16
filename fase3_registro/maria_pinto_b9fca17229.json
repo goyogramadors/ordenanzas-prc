@@ -1,0 +1,20 @@
+{
+  "id": "maria_pinto_b9fca17229",
+  "comuna": "maria_pinto",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maria_pinto_acuerdo_108_aprueba_las_observaciones_de_la_comunidad_al_plan_regulador_comunal__cecde4fd-8aec-4ade-b39c-c9292fc2392e.pdf",
+  "nombre": "maria_pinto_acuerdo_108_aprueba_las_observaciones_de_la_comunidad_al_plan_regulador_comunal__cecde4fd-8aec-4ade-b39c-c9292fc2392e.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:37:42",
+  "fin": "2026-07-15T08:39:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Acuerdo 108 (23.12.2021), I.Municipalidad de Maria Pinto: aprueba las observaciones de la comunidad al PRC (acto de aprobacion procedimental, sin detallar cuales son las observaciones ni valores de norma). Sin cuadro de normas urbanisticas."
+  }
+}

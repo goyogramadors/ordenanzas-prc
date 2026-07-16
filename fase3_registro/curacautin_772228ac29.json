@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_772228ac29",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curacautin__modificacion_ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contra__modificacion_ordednanza_feria_de_abasto.pdf",
+  "nombre": "curacautin__modificacion_ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contra__modificacion_ordednanza_feria_de_abasto.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:13:11",
+  "fin": "2026-07-15T08:13:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Ex 1706 (06.07.2023), Municipalidad de Curacautin. Modifica Ordenanza para funcionamiento y derechos municipales por contraprestacion de modulos de la Feria de Abasto. No es instrumento de planificacion territorial: sin normas urbanisticas."
+  }
+}

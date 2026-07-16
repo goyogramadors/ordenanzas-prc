@@ -1,0 +1,25 @@
+{
+  "id": "chillan_86dbeb6043",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_3123_promulga_enmienda_no_0l_2024_antejardines_al_plan_regulador_comunal_de_chil__Decreto 3123.pdf",
+  "nombre": "chillan_3123_promulga_enmienda_no_0l_2024_antejardines_al_plan_regulador_comunal_de_chil__Decreto 3123.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:28:22",
+  "fin": "2026-07-14T15:34:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        7
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CHILLAN: Decreto 3123 (Enmienda N01-2024, ANTEJARDINES). Modifica el Art 11 (Zonificacion) del PRC creando las subzonas ZH-1-1, ZH-2-1 y ZM-2-1 para eliminar antejardines en sectores patrimoniales. p4 cierra con 'Las normas urbanisticas aplicables en cada subzona son las siguientes:' y un cuadro resumen; p5, p6 y p7 traen cada una el encabezado 'NORMAS URBANISTICAS DE LA SUBZONA' con usos de suelo y condiciones de subdivision y edificacion (predial minima, COS, CC, altura, agrupamiento, retranqueo, antejardin, densidad bruta). PDF NATIVO con firma electronica: texto limpio, extraible directo sin OCR ni render. Candidato ideal para extraccion automatica."
+  }
+}

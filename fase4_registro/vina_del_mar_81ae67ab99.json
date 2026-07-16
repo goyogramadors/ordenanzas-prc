@@ -1,0 +1,20 @@
+{
+  "id": "vina_del_mar_81ae67ab99",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\vina_del_mar_11447_aprueba_ordenanza_sobre_roles_de_la_propiedades_gravadas_y_alturas_maximas__do-20110920.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Diario Oficial N40.065, 20-sep-2011, 12 pags. Decreto Alcaldicio N11.447, 14-sep-2011, Viña del Mar, en pags2-4 (Cuerpo I-2 a I-4): APRUEBA ORDENANZA SOBRE ROLES DE LAS PROPIEDADES GRAVADAS Y ALTURAS MAXIMAS PERMITIDAS EN LOS MIRADORES regulados por el art.14.3 del PRC de Viña del Mar. Establece formula de altura maxima H=(Z2-Z1)-(0.05*D1) para predios a <=100m del mirador y H=(Z2-Z1)-5 para predios a >100m, y tabla completa de 17 miradores (Las Cañitas, Los Sargazos, Gomez Carreño, Santa Ines, Villa Dulce, Cerro Castillo x5, Recreo x3, Variante Agua Santa, Los Almendros, Camino Internacional, Variante Santa Ines) cada uno con listado detallado de roles de predios gravados y altura del mirador sobre nivel del mar (entre 8 y 200 metros segun mirador). Verificado visualmente paginas 1-4 de 12.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "EN_PROCESO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-16T08:27:01",
+  "fin": null,
+  "resultado": null
+}

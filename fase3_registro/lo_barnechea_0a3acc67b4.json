@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_0a3acc67b4",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_4397_rectifica_decreto_no_3985_de_2009_que_promulga_modificacion_al_plan_regulad__Exportar.pdf",
+  "nombre": "lo_barnechea_4397_rectifica_decreto_no_3985_de_2009_que_promulga_modificacion_al_plan_regulad__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:01:23",
+  "fin": "2026-07-14T21:02:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "solo rectifica cita de artículo (2.1.13 por 2.1.11) en vistos, sin cuadro normativo"
+  }
+}

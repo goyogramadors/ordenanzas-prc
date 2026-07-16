@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_43159f3a6b",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_6_ordenanza_de_proteccion_de_humedal_urbano_desembocadura_rio_elqui_altovalsol_d__doc_34_6_28072023035431.pdf",
+  "nombre": "la_serena_6_ordenanza_de_proteccion_de_humedal_urbano_desembocadura_rio_elqui_altovalsol_d__doc_34_6_28072023035431.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:22:22",
+  "fin": "2026-07-15T08:23:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza N6/2023 proteccion Humedal Urbano Desembocadura Rio Elqui, Altovalsol-Desembocadura: define usos permitidos/prohibidos ambientales (conservacion, prohibiciones de intervencion) y sanciones; no contiene cuadro de normas urbanisticas de zonificacion (COS,CC,altura,etc)."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "villarrica_8d20c79efa",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\villarrica_resolucion_17_modificacion_plan_regulador_intercomunal_villarrica_pucon_plano__modificacion_prc_vrca_pucon_1996.pdf",
+  "nombre": "villarrica_resolucion_17_modificacion_plan_regulador_intercomunal_villarrica_pucon_plano__modificacion_prc_vrca_pucon_1996.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:35:12",
+  "fin": "2026-07-14T21:37:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Resolucion 17/1996 (Gobierno Regional IX Region), Plan Regulador INTERCOMUNAL Villarrica-Pucon (aplica a ambas comunas). TODO EN TEXTO REAL en p1. Crea ZONA MIXTA DE RESIDENCIA Y EQUIPAMIENTO (art.25 a.1): usos permitidos (vivienda + equipamiento variado), predial min 600 m2, frente 15 m, ocupacion 35%, densidad bruta 160 hab/ha, agrupacion aislada, altura 5 pisos, distanciamiento 3 m. Crea ZONA DE PARQUE BORDE DE LAGO (art.25 h.1): franja riberena min 10 m (Bien Nacional de Uso Publico, min 5 m), usos de area verde publica + equipamiento recreacional/deportivo autorizable, con condiciones de concesion (max 15% superficie por tramo, edificaciones max 5% superficie/2 pisos). Ancho minimo via Carretera Villarrica-Pucon: 30 m (vialidad, no cuenta). p2-3 no revisadas (verificar si tienen mas contenido)."
+  }
+}

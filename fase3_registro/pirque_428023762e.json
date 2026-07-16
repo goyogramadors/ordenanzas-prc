@@ -1,0 +1,25 @@
+{
+  "id": "pirque_428023762e",
+  "comuna": "pirque",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pirque_PRCPIRQUE.pdf",
+  "nombre": "pirque_PRCPIRQUE.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:10:49",
+  "fin": "2026-07-15T12:13:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        29
+      ]
+    ],
+    "paginas_utiles": 29,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "'PRCPIRQUE.pdf' -- Plan Regulador Comunal de Pirque (Localidad de Concha y Toro), Ordenanza Local completa, 32 pags. Pag1: Plano PRCP-1 con zonificacion (ZM-1, ZM-2, ZH-1, ZH-2, ZE-1, ZE-2, ZP-1, ZP-E). Pags2-29: texto de Ordenanza Local con tablas completas por zona (ej. ZH-1 Zona Residencial Baja Densidad, pag15: usos de suelo permitidos/prohibidos por destino/clase; pag20: normas de subdivision y edificacion -- superficie predial minima 2500m2, COS 0.1, CC 0.1, sistema agrupamiento aislado, altura maxima 3.5m, distanciamiento 5m, antejardin 10m), tabla de estacionamientos exigidos por uso (pag8), y listado de inmuebles de conservacion historica (pag26/28). Pags30-32: solo tablas de Vialidad Estructurante (comunal e intercomunal, anchos de vias) sin normas de uso de suelo -> excluidas del rango. Verificado visualmente paginas 1,8,15,20,26,28,30,32 de 32."
+  }
+}

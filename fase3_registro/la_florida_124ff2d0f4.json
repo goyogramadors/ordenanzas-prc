@@ -1,0 +1,15 @@
+{
+  "id": "la_florida_124ff2d0f4",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_81_aprueba_modificacion_del_plan_regulador_de_la_florida__Exportar.pdf",
+  "nombre": "la_florida_81_aprueba_modificacion_del_plan_regulador_de_la_florida__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:43:20",
+  "fin": "2026-07-14T15:47:48",
+  "resultado": {
+    "motivo": "TABLA AUSENTE DEL PDF (trampa LeyChile): Resolucion 81/1996 aprueba la Ordenanza del Plan Seccional Oriente 'Florida Alta'. El art.3 anuncia 'Establecense las siguientes condiciones de zonificacion, densidades, subdivision predial y construccion...' pero el PDF trae un recuadro que dice 'NOTA: VER DIARIO OFICIAL 35.592 DEL 17 DE OCTUBRE DE 1996, PAGINA 6'. El cuadro de normas EXISTE pero esta en otra publicacion no incluida en este archivo (2 pags). NO es sin-tablas: hay normas que se perderian. Requiere obtener el DO 35.592 pag.6."
+  }
+}

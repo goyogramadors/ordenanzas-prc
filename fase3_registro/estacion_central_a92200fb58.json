@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_a92200fb58",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_5e3b3910c331d19c17835fcd13e64bc0.pdf",
+  "nombre": "estacion_central_5e3b3910c331d19c17835fcd13e64bc0.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:39:19",
+  "fin": "2026-07-14T15:41:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ESTACION CENTRAL: Decreto Alcaldicio 709/2025 (3p) que PROMULGA la Actualizacion del PRC de Estacion Central. Es el acto de promulgacion: considerandos legales y la orden de publicar. El instrumento (Ordenanza Local, memoria, planos) se publica en el SITIO WEB municipal (art 28 septies LGUC), no va dentro de este PDF. Cero señales urbanisticas en las 3 pags y cero delatores de tabla-imagen. La ordenanza real de Estacion Central hay que buscarla en otro documento."
+  }
+}

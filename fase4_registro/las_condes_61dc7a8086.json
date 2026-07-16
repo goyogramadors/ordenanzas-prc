@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_61dc7a8086",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.7321.16dic2020.pdf",
+  "rangos": [
+    [
+      12,
+      13
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "LAS CONDES: Decreto 7321 (dic-2020) que pone TERMINO a la Evaluacion Ambiental Estrategica de la Modificacion N10 al PRC (predio SERVIU de calle Santa Zita, 2.063 m2, para vivienda social). No es la ordenanza completa, pero en la Seccion G 'Opcion de Desarrollo Escogida' fija las normas de la zona nueva EAm2. Norma en p12-13: 'Tabla N10 Normas urbanisticas EAm2' con predial minima 1.500 m2, densidad maxima neta 300 viv por ha, CC 1.6, COS 0.4, coeficiente de area libre 0.4, rasante 70 grados, altura maxima 5 pisos y 17,5 m, antejardin 7 m; continua en p13 con distanciamiento (OGUC) y adosamiento (aislado, no se permite). Sin trampa, verificado en render; sello municipal de Las Condes confirmado (sin contaminacion de otra comuna). Las p10-11 son indicadores de seguimiento ambiental, NO normas. Es la ficha de UNA sola zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:48:21",
+  "fin": "2026-07-15T14:50:57",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_7321_eam2_santa_zita.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "EAm2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Tabla N10 completa EAm2 (predio SERVIU Santa Zita, vivienda social). Documento de termino EAE, no ordenanza completa, pero fija la norma real. Verificado contra nota_fase3: coincide."
+  }
+}

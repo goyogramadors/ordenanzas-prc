@@ -1,0 +1,25 @@
+{
+  "id": "vitacura_b29f611bc0",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\vitacura_31741_promulga_modificacion_no_29_al_plano_regulador_de_vitacura__Diario_Oficial_8.07.13_pag_16.pdf",
+  "nombre": "vitacura_31741_promulga_modificacion_no_29_al_plano_regulador_de_vitacura__Diario_Oficial_8.07.13_pag_16.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:38:03",
+  "fin": "2026-07-15T07:45:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA comuna ajena parcial: pág1 es cierre de decreto Providencia + inicio Vitacura. Modificación N29 'Av. Las Condes': pág2 Cuadro 24 completo Área E-Am5 (subdivisión, COS 0.40, CC 0.80, rasante 60°, altura 2 pisos/8.5m, antejardín 5m, distanciamiento, densidad 20viv/ha) embebido como imagen; pág3 Cuadro 25 densificación con condiciones especiales por sector (Av.Vitacura/Tabancura, calle Los Abedules, Av.Las Condes) con subterráneos 80%, CC 1.8, antejardín variable 31m - imagen+texto verificado"
+  }
+}

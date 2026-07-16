@@ -1,0 +1,20 @@
+{
+  "id": "villarrica_bced703361",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\villarrica_decreto_605_plan_regulador_intercomunal_villarrica_pucon_ordenanza_local_plano__plano_prc_vrica_pucon_1978.pdf",
+  "nombre": "villarrica_decreto_605_plan_regulador_intercomunal_villarrica_pucon_ordenanza_local_plano__plano_prc_vrica_pucon_1978.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T13:00:17",
+  "fin": "2026-07-15T13:02:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Plano del Plan Regulador Intercomunal Villarrica-Pucon (D.S.605/1978), Lago Villarrica Ribera Sur, escala 1:2000. Solo plano con leyenda de zonas (vivienda, hotelera, campismo, areas verdes, proteccion forestal, agricola) sin cuadro de normas urbanisticas (COS/CC/altura)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sin_comuna_a19712e153",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\LOEC66~1.PDF",
+  "rangos": [
+    [
+      2,
+      2
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "COMUNA REAL = LO BARNECHEA (cola lo trae SIN_COMUNA; es pagina del Diario Oficial 13-05-2016 que mezcla avisos ajenos). Modif. MPRC-LB-25: cuadro art.11 (tramos via L19) y cuadro condiciones edificacion Zonas G/I/K art.55 -> solo fija Antejardin minimo 5 mts. Contenido duplicado: p2 = version DO (texto), p4-5 = copia municipal firmada (imagen). p1 y p3 sin normas. [comuna corregida en revision Fase4: era SIN_COMUNA]",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:23:05",
+  "fin": "2026-07-15T23:30:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_mprc-lb25_via_l19_zonas_gik_antejardin_pag2-5.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "Zona-G",
+      "Zona-I",
+      "Zona-K"
+    ],
+    "confianza": "ALTA",
+    "nota": "Comuna corregida a Lo Barnechea (cola la traia SIN_COMUNA). Confirma nota_fase3 exacta: nuevo tramo via L19 (art.11, vialidad no zona) + antejardin minimo 5m para Zonas G/I/K (art.55). p2 (DO texto) y p4-5 (copia municipal imagen) contenido identico duplicado, transcrito una sola vez."
+  }
+}

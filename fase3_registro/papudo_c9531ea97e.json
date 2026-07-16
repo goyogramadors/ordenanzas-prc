@@ -1,0 +1,25 @@
+{
+  "id": "papudo_c9531ea97e",
+  "comuna": "papudo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\papudo_405_promulga_actualizacion_del_plan_regulador_comunal_de_papudo__promulga PRC D.O.pdf",
+  "nombre": "papudo_405_promulga_actualizacion_del_plan_regulador_comunal_de_papudo__promulga PRC D.O.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 33,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:08:51",
+  "fin": "2026-07-14T21:14:34",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        27
+      ]
+    ],
+    "paginas_utiles": 17,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PAPUDO: Ordenanza Local del PRC, Diario Oficial (decreto 405). Arts 11-18, pags 11-27: cadena de zonas Z1a, Z1b, Z2a, Z2b, Z3a, Z3b, Z3c, Z3d-1, Z3d-2, Z4a, Z4b, Z4c (p11-20, TABLA-IMAGEN: COS, CC, altura, agrupamiento, antejardin, densidad bruta), luego Z4d, Z4e, Z5a, ZE1, ZE2 (p21-22, TEXTO PLANO con misma estructura: a. predial minima ... f. antejardin), ZCH-1, ZCH-2 (p25-26, imagen, mas Cuadro 4 monumentos historicos y Cuadro 5 inmuebles de conservacion historica), y ZPC-1, ZPC-2 (p27, texto). Dos huecos descriptivos sin cuadro dentro del rango (p23-24 Art 13-15 areas verdes-riesgos; parte de p26 Art 17 ZVN) que se incluyen por estar intercalados entre tablas reales. Cierra en p27 al empezar Cap 4 Red Vial Estructurante. LA FASE SIGUIENTE DEBE USAR VISION para p11-20 (imagen) y puede usar texto para p21-22 y p27. Excluidas p5 (coordenadas limite urbano) y p28-33 (vialidad, cuadros 6-9). 20 pags verificadas visualmente."
+  }
+}

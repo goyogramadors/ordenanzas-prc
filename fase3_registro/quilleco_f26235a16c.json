@@ -1,0 +1,20 @@
+{
+  "id": "quilleco_f26235a16c",
+  "comuna": "quilleco",
+  "ruta": "Ordenanzas ordenadas\\quilleco_dfl_adecua_modifica_y_establece_planta_de_personal_de_la_municipalidad_de_quille__19940905.pdf",
+  "nombre": "quilleco_dfl_adecua_modifica_y_establece_planta_de_personal_de_la_municipalidad_de_quille__19940905.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 40,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:11:22",
+  "fin": "2026-07-15T12:12:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DFL 93-19.321 (DO 05-09-1994, edición completa de 40p), 'Adecua, modifica y establece Planta de Personal de la Municipalidad de Quilleco' (ver sumario p1, P.3). Es un decreto de dotación de personal municipal, sin relación alguna con el PRC ni con normas urbanísticas."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "san_bernardo_df1523318f",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_34_modifica_plan_regulador_comunal_de_san_bernardo_y_lo_herrera_en_el_sentido_qu__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      5
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "modificación Art.50 LGUC 'El Mariscal': pág4 Subzona ZU5-2 El Mariscal, pág5 Subzona ZU7-1 Padre Hurtado, ambas con condiciones completas (usos permit/prohib, superficie predial mín, CC, COS, agrupamiento, altura máxima, antejardín, densidad bruta); texto nativo completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:07:29",
+  "fin": "2026-07-15T18:09:54",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_bernardo\\san_bernardo_34_el_mariscal_zu5_2_zu7_1.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZU5-2",
+      "ZU7-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadros completos de 2 nuevas subzonas (ZU5-2 El Mariscal y ZU7-1 Padre Hurtado): usos de suelo + condiciones de subdivision y edificacion completas. Texto plano. Verificado contra nota_fase3: coincide."
+  }
+}

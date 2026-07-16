@@ -1,0 +1,20 @@
+{
+  "id": "coyhaique_f2d4009811",
+  "comuna": "coyhaique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\coyhaique_decreto_modifica_plan_regulador_de_coyhaique__ORDENANZAN5MODIFPLANREGULADOR30101997.pdf",
+  "nombre": "coyhaique_decreto_modifica_plan_regulador_de_coyhaique__ORDENANZAN5MODIFPLANREGULADOR30101997.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:36:29",
+  "fin": "2026-07-14T15:39:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Escaneo con 3 ordenanzas de Coyhaique de 1997 (N.05 p1-2, N.04 p3, N.03 p4-5). Solo reasignan poligonos/lotes puntuales entre usos (area verde, equipamiento, habitacional) y los destinan a zonas YA EXISTENTES (Z-6), con superficies en m2. NO fijan ni transcriben COS, CC, altura, densidad ni antejardin. Las 5 paginas renderizadas y miradas."
+  }
+}

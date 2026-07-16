@@ -1,0 +1,25 @@
+{
+  "id": "romeral_c54b5e4949",
+  "comuna": "romeral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\romeral_2056_aprueba_modificaciones_via_enmienda_n_2_a_ordenanza_local_del_plan_regulado__2044666.pdf",
+  "nombre": "romeral_2056_aprueba_modificaciones_via_enmienda_n_2_a_ordenanza_local_del_plan_regulado__2044666.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:26:34",
+  "fin": "2026-07-14T21:28:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda N2 PRC Romeral (Decreto 2056/2021), mismo patron que Enmienda N1 (romeral_0699cde51f): el texto anuncia cuadros y estos son IMAGEN (verificado en render p3). Reemplaza art.4.3 Normas Urbanisticas por Zona, ZU-1 Zona Mixta 1, para 2 poligonos municipales especificos: poligono a-b-c-d (junto a Canal La Canada/Av. Libertad/calle Luis Saiz): predial min 350 m2, COS 0,78, CC 1,56, agrupamiento continuo, altura 9,6 m, densidad 90 hab/ha. Poligono e-f-g-h (junto a Av. Gral. Ramon Freire/Av. O'Higgins/Surfrut): mismos parametros pero densidad 75 hab/ha. Resto de ZU-1 mantiene el texto original del PRC."
+  }
+}

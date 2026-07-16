@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_4744d3b687",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\rancagua_decreto_2238_asignase_las_condiciones_de_la_zona_r2_establecidas_en_el_articulo___2019-05-D-2238.pdf",
+  "nombre": "rancagua_decreto_2238_asignase_las_condiciones_de_la_zona_r2_establecidas_en_el_articulo___2019-05-D-2238.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:11:29",
+  "fin": "2026-07-15T12:12:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 2238 (07-may-2019, 2p): ASIGNASE al predio Rol 785-30 (cuya afectación EQ-PU2 caducó) las condiciones de la Zona R2, remitiendo al 'artículo 29 de la Ordenanza del PRC de Rancagua' — documento externo no incluido en este PDF. No trae ningún valor numérico de norma urbanística en el propio texto (a diferencia de gorbea_942ca3c488 donde sí había valores embebidos)."
+  }
+}

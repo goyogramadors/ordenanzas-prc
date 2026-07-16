@@ -1,0 +1,20 @@
+{
+  "id": "machali_426bed0256",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_1343_modificase_la_ordenanza_del_plan_regulador_comunal_de_machali__1343  2012.pdf",
+  "nombre": "machali_1343_modificase_la_ordenanza_del_plan_regulador_comunal_de_machali__1343  2012.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:03:14",
+  "fin": "2026-07-14T21:06:00",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SOLO VIALIDAD/TRAMITE: Decreto 1343 solo PRORROGA por 5 anios la declaratoria de utilidad publica de vias colectoras (Padre Hurtado, Comunidad Bravo, El...) en el cuadro 6 Vialidad del art.6.1-86. No fija ninguna norma urbanistica de zona."
+  }
+}

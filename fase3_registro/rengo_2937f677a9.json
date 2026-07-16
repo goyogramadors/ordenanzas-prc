@@ -1,0 +1,25 @@
+{
+  "id": "rengo_2937f677a9",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_decreto_434_aprueba_modificacioin_no_6_al_plan_regulador_comunal_de_rengo__0434_21.03.2023_Aprueba%20Modificacion%20N%206%20al%20Plan%20Regulador%20Comunal%20de%20Rengo.pdf",
+  "nombre": "rengo_decreto_434_aprueba_modificacioin_no_6_al_plan_regulador_comunal_de_rengo__0434_21.03.2023_Aprueba%20Modificacion%20N%206%20al%20Plan%20Regulador%20Comunal%20de%20Rengo.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:23:12",
+  "fin": "2026-07-14T21:23:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        14
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "RENGO: DUPLICADO de sin_comuna_19d72598d7 (mismo decreto 0434, mar-2023, Modificacion N6 al PRC, mismo conteo de caracteres por pagina). Nucleo: pags 13-14 Articulo 38 bis zona nueva ZH3-A (usos de suelo mas condiciones de edificacion). Rango ampliado a 6-14 por precaucion: 6-9 inventario patrimonial ICH-ZCH, 9-11 dotacion de estacionamientos, 11-12 vialidad estructurante. Ver nota completa en sin_comuna_19d72598d7."
+  }
+}

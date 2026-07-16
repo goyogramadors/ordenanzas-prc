@@ -1,0 +1,25 @@
+{
+  "id": "quillota_67d8ab085a",
+  "comuna": "quillota",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quillota_decreto_alcaldicio_2338_termino_proceso_de_eval_ambl_estrat_anteproyecto_plan_re__f-id-2659-termino-proceso-eval-amb-anteproyecto-plan-regulador.pdf",
+  "nombre": "quillota_decreto_alcaldicio_2338_termino_proceso_de_eval_ambl_estrat_anteproyecto_plan_re__f-id-2659-termino-proceso-eval-amb-anteproyecto-plan-regulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 82,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:17:36",
+  "fin": "2026-07-14T21:22:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        77,
+        79
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Dec.2338 termina proceso EAE del ANTEPROYECTO PRC Quillota. Es informe tecnico-ambiental (sintesis EAE, respuesta a 37 observaciones ciudadanas), NO el articulado de la Ordenanza (el propio doc aclara p.14 que las especificaciones estan en Memoria Explicativa y Ordenanza aparte, no incluidas aqui). p79 (num.impresa 76) 'Tabla 43 Comparativo de Densidades' por zona (ZC0=900, ZC1=650, ZC1b=350, ZR1=100, ZR2=250, ZR3=100, ZCH-1=300, ZCH-2=350 hab/ha) - SOLO densidad, sin COS/CC/altura/usos/predial/antejardin. p77 Tabla 42 (superficies en ha) EXCLUIDA por no ser parametro normativo. Revisadas las 45 paginas con imagen real (pdfimages): son fotos de avisos/certificados y planos ilustrativos de deslindes, sin tablas de norma ocultas. CONFIANZA MEDIA porque el dato es parcial (solo densidad) y la norma completa esta en otro documento no incluido en este PDF."
+  }
+}

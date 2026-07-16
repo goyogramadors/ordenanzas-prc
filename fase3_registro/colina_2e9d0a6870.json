@@ -1,0 +1,20 @@
+{
+  "id": "colina_2e9d0a6870",
+  "comuna": "colina",
+  "ruta": "Ordenanzas Descargadas\\1-600\\colina_sn_inicio_proceso_de_evaluacion_ambiental_estrategica_actualizacion_plan_regulad__716a8de-39ce.pdf",
+  "nombre": "colina_sn_inicio_proceso_de_evaluacion_ambiental_estrategica_actualizacion_plan_regulad__716a8de-39ce.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:31:29",
+  "fin": "2026-07-14T15:35:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: aviso de INICIO DEL PROCESO DE EVALUACION AMBIENTAL ESTRATEGICA de la Actualizacion del PRC de Colina (Diario Oficial, seccion Avisos, 10-04-2024). Objetivos ambientales, criterios de sustentabilidad, llamado a participacion. Sin cuadros ni valores. Render p3 = cierre y firma de la alcaldesa."
+  }
+}

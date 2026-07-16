@@ -1,0 +1,29 @@
+{
+  "id": "chillan_1b3282db66",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_2023292_modificacion_n1_2009_plan_regulador_comunal_de_chillan_art_23_zona_ze_3___Decreto 3292 - Mod Plan Regulador 1, Diario Oficial.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "CHILLAN: Decreto 3292-2009 (Diario Oficial), Modificacion N1 al PRC: reemplaza los cuadros normativos de las zonas ZE-3 y ZE-4. 1 pagina a dos columnas: izq cuadro Zona ZE-3 (usos permitidos y prohibidos, predial minima 2.500 m2, frente predial 25 m, ocupacion 50 por ciento, agrupamiento aislado, altura por rasantes), der cuadro Zona ZE-4. Las tablas son TEXTO real, no imagen. AVISO: pdftotext -layout DESORDENA las columnas y pierde la superficie y el frente predial de ZE-3; la fase siguiente debe leer el render, no el texto plano.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:10:12",
+  "fin": "2026-07-15T14:12:05",
+  "resultado": {
+    "archivo": "extraccion_normas\\chillan\\chillan_3292_modificacion_n1_ze3_ze4.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZE-3",
+      "ZE-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Reemplazo de cuadros ZE-3 y ZE-4 art.23. Transcrito leyendo el render (no pdftotext) por aviso de fase3 sobre desorden de columnas; valores de superficie predial y frente predial de ZE-3 confirmados visualmente: 2.500 m2 y 25 m."
+  }
+}

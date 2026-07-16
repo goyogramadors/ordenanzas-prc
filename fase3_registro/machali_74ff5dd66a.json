@@ -1,0 +1,20 @@
+{
+  "id": "machali_74ff5dd66a",
+  "comuna": "machali",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\machali_informe_plan_regulador_comunal_machali_lamina_2__LAM%202%20PRC%20MACHAL%E2%95%93.pdf",
+  "nombre": "machali_informe_plan_regulador_comunal_machali_lamina_2__LAM%202%20PRC%20MACHAL%E2%95%93.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:36:22",
+  "fin": "2026-07-15T08:38:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Lamina 1/2 del Plano PRC Machali (Modificacion, ago-2012): plano de zonificacion con leyenda de colores por zona (Zu-1 a Zu-9, Ze-1 a Ze-4, etc). Solo simbologia cartografica, sin cuadro numerico de normas urbanisticas (COS/CC/altura/densidad por zona)."
+  }
+}

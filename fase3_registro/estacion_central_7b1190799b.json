@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_7b1190799b",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_decreto_alcaldicio_603_promulguese_el_acuerdo_n56_del_concejo_municipal_el_cual___Decreto_603.pdf",
+  "nombre": "estacion_central_decreto_alcaldicio_603_promulguese_el_acuerdo_n56_del_concejo_municipal_el_cual___Decreto_603.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:16:11",
+  "fin": "2026-07-15T08:17:25",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Exento 603 (03.06.2022), I.Municipalidad de Estacion Central. Promulga Acuerdo 56/2022: aprueba Resumen Ejecutivo y planos de propuesta de Imagen Objetivo del PRC (Art.28 octies LGUC). Etapa preliminar de imagen objetivo, sin cuadro de normas urbanisticas todavia."
+  }
+}

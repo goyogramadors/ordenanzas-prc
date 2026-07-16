@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_4557048f50",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_193_modificacion_ordenanza_n_1__doc_34_193_25022021123553.pdf",
+  "nombre": "la_serena_193_modificacion_ordenanza_n_1__doc_34_193_25022021123553.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:22:22",
+  "fin": "2026-07-15T08:23:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 193/2021 modifica Ordenanza N1 sobre Derechos Municipales por Permisos/Concesiones/Servicios: agrega derecho por ocupacion de bien nacional de uso publico (estacion de servicio bencinera). No relacionado a PRC."
+  }
+}

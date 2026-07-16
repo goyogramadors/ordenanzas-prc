@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_0922b833a3",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_2457_aprueba_ordenanza_de_administracion_territorial_del_sector_avda_del_mar_de___1374677103-1886150347.pdf",
+  "nombre": "la_serena_2457_aprueba_ordenanza_de_administracion_territorial_del_sector_avda_del_mar_de___1374677103-1886150347.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:19:11",
+  "fin": "2026-07-15T08:45:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Ordenanza de Administración Territorial del Sector Avenida del Mar, La Serena, Decreto 2457 (5p): regula permisos de kioscos/stands, comercio ambulante, eventos deportivos y publicidad en el sector playa. Reglamento de gestión de un sector específico, no contiene tabla de normas urbanísticas de zonificación."
+  }
+}

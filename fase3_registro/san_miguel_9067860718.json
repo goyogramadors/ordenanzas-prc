@@ -1,0 +1,25 @@
+{
+  "id": "san_miguel_9067860718",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_sn_plan_regulador_comunal__ME_20memoria_20explicativa_20nov.2016.pdf",
+  "nombre": "san_miguel_sn_plan_regulador_comunal__ME_20memoria_20explicativa_20nov.2016.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 152,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:29:05",
+  "fin": "2026-07-14T21:32:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        144,
+        150
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Memoria Explicativa (documento de fundamentacion, no la Ordenanza Local) de la Modificacion PRC San Miguel nov.2016. El propio doc aclara que el articulado normativo va en 'Anexo 3: Texto Normativo' -mencionado en el indice p152 pero SIN CONTENIDO, no incluido en este PDF-. SIN EMBARGO p144-149 'Propuesta de Desarrollo Urbano' SI trae parametros concretos por zona en prosa: Z1 Preferente Comercio (altura 27m/10 pisos aislado, 14m/5 pisos continuo, densidad neta max 1.000 hab/ha), Z2 Comercio y Vivienda (altura 14m), Z3 Residencial baja altura (14m), Z4 Residencial en altura (23m/8 pisos), Z5 Mixto (14m aislado/9m pareado-continuo), Z6 Mixto en altura (27m aislado/9m pareado-continuo), Z7 Industria Exclusiva. p148 tabla de superficies por zona (hectareas) + densidad bruta actual promedio 94,37 hab/ha (censo 2012). CONFIANZA MEDIA: son valores PROPUESTOS dentro de un documento de fundamentacion/diagnostico (no la norma final aprobada), y estan INCOMPLETOS (falta COS, CC, predial minimo, antejardin, distanciamiento). Util solo si no se encuentra en el corpus la Ordenanza Local final de esta modificacion."
+  }
+}

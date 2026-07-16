@@ -1,0 +1,37 @@
+{
+  "id": "purranque_74d25f651f",
+  "comuna": "purranque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\purranque_ordenanza_aprueba_modificacion_al_plan_regulador_de_purranque_sector_la_colmena__ORDENANZA 2001-LA COLMENA.pdf",
+  "rangos": [
+    [
+      3,
+      5
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "TRAMPA DO comuna ajena: edición completa Diario Oficial 29-oct-2001 con VARIOS actos no relacionados (Valdivia pág1, Providencia y Ministerio Defensa/acuicultura pág5). Contenido relevante Purranque Sector La Colmena en pág3-5: Art.10 Zonificación con tablas completas Normas Específicas de Edificación y Subdivisión Predial para zonas ZH1/ZH1-A, ZH2, ZM1, ZC, ZE1/ZE1-A, ZE2, AV, AV-1, ZR-Le, ZE3 (densidad, sup.predial mín, frente predial, COS, CC, agrupamiento, antejardín, altura, cierros). Pág2 tiene cuadro Vialidad Estructurante (anchos de vías, no normas de zona)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-16T08:10:55",
+  "fin": "2026-07-16T08:18:03",
+  "resultado": {
+    "archivo": "extraccion_normas\\purranque\\purranque_ordenanza_la_colmena_zonas.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "ZH1/ZH1-A",
+      "ZH2",
+      "ZM1",
+      "ZC",
+      "ZE1/ZE1-A",
+      "ZE2",
+      "AV",
+      "AV-1",
+      "ZR-Le",
+      "ZE3"
+    ],
+    "confianza": "ALTA",
+    "nota": "10 zonas completas (usos+normas especificas) transcritas. Contaminacion DO confirmada (Valdivia p1, Providencia/Defensa p5) aislada correctamente. Vialidad (p2) excluida. Verificado contra nota_fase3: coincide."
+  }
+}

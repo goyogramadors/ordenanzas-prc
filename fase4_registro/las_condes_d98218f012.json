@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_d98218f012",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_d.f.4675.13nov2013.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Dec.Secc.1.4675/2013 (DO) asigna de manera complementaria al Dec.3360/2010 nueva normativa urbanistica para el poligono del Area Verde Cerro Apoquindo (Plano PSAN-01, Lamina 1 y 2). Tabla en imagen con 'Condiciones de Edificacion' y 'Condiciones de Usos de Suelo': Situacion anterior 'Zona de Uso de suelo Edificacion especial N3' (PHCLC) -> Situacion que se aprueba: 'Area de Edificacion Ee2 (Edificacion especial N2) del PHCLC, con las condiciones urbanisticas establecidas en el numeral 17 de la Ordenanza Local, Edificacion Especial N2 Equipamiento Recreacional Deportivo' y 'Zona UEe2 (Uso de Suelo Edificacion especial N2) del PHCLC, con las clases actividades y condiciones establecidas en el articulo 40 de la Ordenanza Local'. Referencia a codigos de zona ya definidos en otros documentos del corpus.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:20:04",
+  "fin": "2026-07-15T14:22:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_4675_cerro_apoquindo_ee2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Ee2/UEe2-Cerro-Apoquindo"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Tabla imagen con situacion anterior/aprobada para Cerro Apoquindo (Ee3->Ee2, UEe3->UEe2). Remite a numeral 17 y art.40 de Ordenanza Local del PRCLC (no incluidos en el corpus), por lo que faltan parametros numericos (COS/CC/altura/antejardin). Confianza MEDIA por informacion incompleta."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_d3371893d1",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_9_ordenanza_n_9_sobre_peluquerias_salones_de_belleza_barberias_y_similares__doc_34_9_23102024035116.pdf",
+  "nombre": "la_serena_9_ordenanza_n_9_sobre_peluquerias_salones_de_belleza_barberias_y_similares__doc_34_9_23102024035116.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:25:52",
+  "fin": "2026-07-15T08:27:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza 9/2024, 23-oct-2024: ORDENANZA N9 SOBRE PELUQUERIAS, SALONES DE BELLEZA, BARBERIAS Y SIMILARES. Regula patentes comerciales/seguridad ciudadana del rubro (motivada por control de patentes y fiscalizacion, no urbanismo). No PRC. Verificado visualmente pagina 1 de 4."
+  }
+}

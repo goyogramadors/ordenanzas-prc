@@ -1,0 +1,20 @@
+{
+  "id": "quinta_normal_6a6615a009",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_1653_promulga_la_enmienda_n_01_al_plan_regulador_comunal_de_quinta_normal__download.aspx.pdf",
+  "nombre": "quinta_normal_1653_promulga_la_enmienda_n_01_al_plan_regulador_comunal_de_quinta_normal__download.aspx.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:19:29",
+  "fin": "2026-07-14T21:21:50",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "QUINTA NORMAL: Diario Oficial 12-ago-2025 (1p), solo INFORMA que se promulgo la Enmienda 01 mediante decreto 1653 (30-jul-2025), remitiendo la Memoria Explicativa y el decreto al SITIO WEB MUNICIPAL. No transcribe ninguna norma. La imagen grande de la pagina (1181x598) es solo el escudo municipal, verificado visualmente. El contenido real de la Enmienda 01 hay que buscarlo en otro documento (probablemente solo en la web municipal)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rengo_a50bb49f1f",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_769_md_plano_seccional_no4_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20120804.pdf",
+  "nombre": "rengo_769_md_plano_seccional_no4_al_plan_regulador_comunal_de_rengo_localidad_de_rengo__do-20120804.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:15:18",
+  "fin": "2026-07-15T12:18:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto alcaldicio N°769 (MD) del 11-jul-2012, Municipalidad de Rengo, aprueba Plano Seccional N°4 sobre el PRC de Rengo (p.17 del PDF, Cuerpo I-17 del DO n°40.329). El decreto NO trae cuadro numerico de normas urbanisticas: su unico objeto es fijar con exactitud el trazado de dos calles ya existentes ('A. Martinez 11m' y 'Via de Servicio 15m') que se habian consolidado de modo levemente distinto al Plano Regulador vigente (decreto 617/2008), sin alterar usos de suelo, COS, CC, altura ni otros parametros. Es un plano seccional de mero ajuste vial/poligono, remite a las normas ya existentes del PRC de Rengo. Se revisaron las 28 paginas del PDF: p.1 portada Diario Oficial; p.2-16 contenido de otros organismos (Interior, RR.EE., Educacion, Salud, Energia, Universidad de Tarapaca) sin relacion con Rengo; p.17 decreto de Rengo (sin tabla); p.18-19 ordenanza de Municipalidad de Los Angeles (cierre de calles, comuna distinta, excluida); p.20 aviso INAPI; p.21-28 inicio Cuerpo II del mismo DO (decretos de otros ministerios, quiebras, avisos judiciales), sin relacion con Rengo ni con PRC."
+  }
+}

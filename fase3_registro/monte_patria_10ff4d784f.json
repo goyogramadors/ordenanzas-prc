@@ -1,0 +1,29 @@
+{
+  "id": "monte_patria_10ff4d784f",
+  "comuna": "monte_patria",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\monte_patria_decreto_alcaldicio_10156_aprueba_plan_regulador__42916bf5-5ef5-4f4a-b675-7da0f6c73425.pdf",
+  "nombre": "monte_patria_decreto_alcaldicio_10156_aprueba_plan_regulador__42916bf5-5ef5-4f4a-b675-7da0f6c73425.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 64,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:04:49",
+  "fin": "2026-07-14T21:09:32",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        38,
+        42
+      ],
+      [
+        60,
+        64
+      ]
+    ],
+    "paginas_utiles": 10,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Doc es Volumen I Memoria Explicativa (no la Ordenanza Local formal). Cap 7.2.1: pag38 listado/leyenda codigos de zona (ZU1-ZU10,ZE1-ZE11,ZIS,ZIE,ZAV,ZAV1,ZCH,AR1,AR2); pag39-41 tabla 'Caracteristicas de las Zonas' con SUPERFICIE PREDIAL MINIMA, DENSIDAD BRUTA MAXIMA y USOS DE SUELO por zona/localidad; pag42 tabla complementaria 'Intensidad Ocupacion Suelo' (MEDIA/MEDIA-BAJA/BAJA). OJO: tabla INCOMPLETA -no trae COS, coef.constructibilidad, altura maxima, agrupamiento, antejardin ni distanciamiento (no aparecen en el doc). Pag60-64 Anexo A homologa nomenclatura antigua (A1,A2,B1...) a la nueva con mismos 3 parametros. Paginas con imagen (6,19,27-33,37) verificadas: son mapas/figuras de localizacion, no tabla oculta."
+  }
+}

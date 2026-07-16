@@ -1,0 +1,31 @@
+{
+  "id": "santa_maria_713bd29188",
+  "comuna": "santa_maria",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\santa_maria_atribuciones_esenciales__PLANO REGULADOR COMUNAL 01.12.1982.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Confianza MEDIA: se acepta verificacion visual ya hecha por Fase 1 (motivo del CSV), no se rerenderizo aqui. Nombre de archivo enganoso ('atribuciones_esenciales', patron generico del portal de transparencia) pero el contenido real es el plano + ordenanza del PRC de Santa Maria (1982): cuadro normativo completo (usos de suelo, superficie predial minima, frente predial minimo, antejardin, rasantes) para zonas H-1, H-2, EC y ZR, con firma de aprobacion SEREMI MINVU. Confirma que Fase 1 correctamente ignoro el nombre y evaluo el contenido.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:34:50",
+  "fin": "2026-07-15T14:43:18",
+  "resultado": {
+    "archivo": "extraccion_normas\\santa_maria\\santa_maria_plano_1982_zonas.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "H-1",
+      "H-2",
+      "EC",
+      "ZR"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Plano historico 1982, escaneo deteriorado. Se hicieron 3 crops+zoom (300dpi->2x) para leer la leyenda. H-1 y H-2 con tabla completa; EC y ZR con datos parciales (parte del cuadro comparte remisiones generales no siempre distinguibles en el escaneo). Confianza MEDIA por calidad del escaneo y vigencia a verificar, no por falta de esfuerzo de lectura."
+  }
+}

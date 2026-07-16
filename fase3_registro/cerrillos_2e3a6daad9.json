@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_2e3a6daad9",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_1438_actualizacion_plan_regulador_comunal_de_cerrillos__202-1438-2018.pdf",
+  "nombre": "cerrillos_decreto_exento_1438_actualizacion_plan_regulador_comunal_de_cerrillos__202-1438-2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 114,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:04:59",
+  "fin": "2026-07-14T15:32:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CERRILLOS: decreto exento 202/1438/2018 (114p) = BASES DE LICITACION + TERMINOS TECNICOS DE REFERENCIA para CONTRATAR el estudio de actualizacion del PRC. NO es la ordenanza. Contenido: p1-3 decreto ('Llamese Propuesta Publica...'), p4-32 bases administrativas (garantias, multas, pauta de evaluacion), p40 itinerario de licitacion, p41-52 FORMULARIOS EN BLANCO para el oferente (Formatos 1-12, el N10 rotado 90 grados), p53-114 TOR (describe lo que la FUTURA ordenanza debera contener, no normas vigentes), p64 tabla de estructura vial, p114 presupuesto por etapas. FALSA ALARMA: el escalon de pocos caracteres en p40-64 son formularios en blanco y planos, NO tablas de zonas (8 pags verificadas visualmente). La ordenanza real de Cerrillos hay que buscarla en otro documento (post-2019, producto de esta licitacion)."
+  }
+}

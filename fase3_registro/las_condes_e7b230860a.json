@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_e7b230860a",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_ORDENANZA_EDIF.5dic2003.pdf",
+  "nombre": "las_condes_ORDENANZA_EDIF.5dic2003.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 38,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:55:50",
+  "fin": "2026-07-14T21:02:24",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        33
+      ]
+    ],
+    "paginas_utiles": 26,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LAS CONDES: Proyecto de Modificacion N2 al PRC (5-dic-2003, 38p; el nombre de archivo dice ORDENANZA_EDIF pero NO es codigo de edificacion). Reformula zonificacion, crea 3 areas (E-Am1prima, E-Aa4, E-Aaplusca) y elimina 4 (E-Am1+cb, E-Am2+cb, E-Aa1+cb, E-Aa1+cm, mencionadas solo por nombre, sin tabla). Normas en p8-33: Tablas A-B-C-D por cada area de edificacion (E-Ab1..4, E-Ab4prima, E-Am1, E-Am1prima, E-Am2, E-Am4, E-Aa1..4, E-Aa+cm, E-Aa+ca, E-e1, E-e2), con densidad, predial minima, COS, CC, rasante, altura maxima, antejardin, distanciamiento y agrupamiento; p33 cierra con cuadro de equipamiento condicionado al ancho de via. Sin trampa: el OCR de las tablas sale reflowado en pdftotext pero el render confirma que estan completas (4 pags verificadas visualmente). p34 en adelante es Cap V Vialidad (excluido). p6 = leyenda de siglas de zona (util como diccionario, no incluida en el rango por no tener parametros)."
+  }
+}

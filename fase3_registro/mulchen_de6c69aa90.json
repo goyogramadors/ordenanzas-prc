@@ -1,0 +1,25 @@
+{
+  "id": "mulchen_de6c69aa90",
+  "comuna": "mulchen",
+  "ruta": "Ordenanzas ordenadas\\mulchen_10_plan_regulador_comunal_de_mulchen__plan_regulador.pdf",
+  "nombre": "mulchen_10_plan_regulador_comunal_de_mulchen__plan_regulador.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 22,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:39:06",
+  "fin": "2026-07-15T08:45:04",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        18,
+        19
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Ordenanza Local PRC Mulchén (22p, doc 10 — mismo contenido normativo que mulchen_a0fc62b101 doc 01, registrado como documento independiente por instrucción). Mismo Art.21 'Normas específicas' p.19 (num.interna -16-) y usos permitidos p.18. Antejardín Art.11 p.14 (2m general, 10m en Accesos Norte/Sur). Toponimia 100% Mulchén, sin comuna ajena. Excluidas pp.20-22 (vialidad). p.17 en blanco."
+  }
+}

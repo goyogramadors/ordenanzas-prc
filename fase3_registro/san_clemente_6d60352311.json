@@ -1,0 +1,15 @@
+{
+  "id": "san_clemente_6d60352311",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas ordenadas\\san_clemente_decreto_exento_5862_apruebese_plan_regulador_comunal_de_san_clemente__05862.pdf",
+  "nombre": "san_clemente_decreto_exento_5862_apruebese_plan_regulador_comunal_de_san_clemente__05862.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:19:22",
+  "fin": "2026-07-15T12:52:54",
+  "resultado": {
+    "motivo": "Decreto Exento 5862 (28-dic-2009, 1p): 'APRUÉBESE Plan Regulador Comunal de San Clemente conforme a lo indicado en Certificado N00799 del Secretario Municipal de fecha 27 de octubre de 2008' — el decreto de aprobación no incluye el texto de la Ordenanza/cuadros de normas ni el Certificado referenciado. Buscar la Ordenanza Local / Memoria del PRC San Clemente 2009 por separado (nota: existe versión posterior vigente desde 2019 según san_clemente_2444d0f4c8)."
+  }
+}

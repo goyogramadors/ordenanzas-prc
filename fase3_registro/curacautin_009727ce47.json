@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_009727ce47",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curacautin__modifica_ordenanza_municipal_terminal_rodoviario_curacautin__decreto_ex_n_2992__30_10_23__modifica_ordenanza_terminal_rodoviario__dec_ex_1965__27_07_23.pdf",
+  "nombre": "curacautin__modifica_ordenanza_municipal_terminal_rodoviario_curacautin__decreto_ex_n_2992__30_10_23__modifica_ordenanza_terminal_rodoviario__dec_ex_1965__27_07_23.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:12:50",
+  "fin": "2026-07-15T08:13:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "CURACAUTIN: DUPLICADO exacto de sin_comuna_723625febb (mismo Decreto Exento 2992, 30-oct-2023, mismas 2 paginas, misma tabla de cafeteria de 3 a 2 UTM mensual). Modifica Ordenanza Municipal Terminal Rodoviario Curacautin, no es planificacion territorial. Ver nota completa en sin_comuna_723625febb."
+  }
+}

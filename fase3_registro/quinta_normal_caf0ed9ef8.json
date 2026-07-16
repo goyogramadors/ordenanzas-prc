@@ -1,0 +1,25 @@
+{
+  "id": "quinta_normal_caf0ed9ef8",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_36_modifica_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "nombre": "quinta_normal_36_modifica_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:19:29",
+  "fin": "2026-07-14T21:22:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        3
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "QUINTA NORMAL: Resolucion 36 (1990, BCN LeyChile, 3p), Ministerio de Vivienda, modifica el PRC (Decreto Supremo 70-1987). Rica en normas, TODO EN TEXTO PLANO sin trampa: reasigna zonificacion en varios poligonos (RM-2 pasa a MI, MI pasa a D, etc); modifica el Plan Seccional Costanera Sur; y modifica varios articulos de la Ordenanza: Art 12 altura maxima de muros medianeros (2,00 m vivienda, 3,50 m otros usos), Art 13 antejardin optativo (3,00 a 5,00 m, minimo 3,00 m si hay antejardines consolidados), Art 18 cambia guarismo de 18 a 15 metros, y complementa el Art 24 con usos permitidos-prohibidos y condiciones de subdivision-edificacion para las zonas RM-1, RM-2, SM, SC, CC, MI (agrega talleres inofensivos como uso permitido o prohibido segun zona, agrega sistema de agrupamiento pareado y continuo con altura maxima 4 m en construccion continua para SM y MI). Tambien reemplaza un cuadro de vias estructurantes comunales (Neptuno), pero es vialidad, fuera de alcance. Documento completo en 3 paginas."
+  }
+}

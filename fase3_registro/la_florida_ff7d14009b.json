@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_ff7d14009b",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_1280_revoca_declaratorias_de_utilidad_publica_de_las_nuevas_afectaciones_de_acue__Exportar.pdf",
+  "nombre": "la_florida_1280_revoca_declaratorias_de_utilidad_publica_de_las_nuevas_afectaciones_de_acue__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:51:45",
+  "fin": "2026-07-15T07:53:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "revoca declaratorias de utilidad pública de nuevas afectaciones (vías/plazas/parques); listado de vías afectadas, no tabla de normas urbanísticas de zona; tabla no está en el texto (trampa)"
+  }
+}

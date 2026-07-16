@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_03f5516478",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_ordenanza_3_texto_aprobatorio_plan_vial_modificacion_n3_plan_regulador_comunal_l__Texto-Aprobatorio-PRCLF-09-enero-2009.pdf",
+  "nombre": "la_florida_ordenanza_3_texto_aprobatorio_plan_vial_modificacion_n3_plan_regulador_comunal_l__Texto-Aprobatorio-PRCLF-09-enero-2009.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:43:20",
+  "fin": "2026-07-14T15:47:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "SOLO VIALIDAD: texto aprobatorio del PLAN VIAL (Modificacion N3). 13 pags de la tabla del art.44 Vialidad Estructurante (vias expresas/troncales/colectoras/de servicio/locales: anchos entre lineas oficiales, pistas, bandejon). Cero codigos de zona y cero parametros de edificacion (grep sin resultados). p13 = art.45 transitorio + firmas (renderizada)."
+  }
+}

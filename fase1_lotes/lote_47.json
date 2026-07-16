@@ -1,0 +1,839 @@
+[
+ {
+  "id": "d0254",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_1233_designa_profesionales_contraparte_municipal_elaboracion",
+  "archivo": "requinoa_decreto_alcaldicio_1233_designa_profesionales_contraparte_municipal_elaboracion___DA1233.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0255",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_1418_autoriza_compra_agil_publicacion_avisos_de_prensa_consul",
+  "archivo": "requinoa_decreto_alcaldicio_1418_autoriza_compra_agil_publicacion_avisos_de_prensa_consul__DA1418.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZASE"
+  ],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE\r\n\r\nREQUTNOA\r\n\r\nü\r\n\r\nlll\r\n\r\nDECRETO ALCALDTCIO N'\r\n\r\n\\L\\ls /\r\n\r\nAUTORIZA CONTRATACION COIVIPRA AGI L\r\nQUE INDICA\r\n\r\nREQUTNoA, 2gJUN2022\r\nEsta Alcaldía decretó hoy lo siguiente\r\n\r\nVISTOS\r\n\r\n:\r\n\r\nLas facultades que me confiere la Ley No 18.695 de 1988, Orgánica Constitucional de\r\n\r\nMunicipalidades, Texto Refundido coordinado y sistematizado, fijado por el D.F.L. No 1 del Ministerio del lnterior año\r\n2006.\r\nLa Ley No 19.886 Bases sobre contratos administrativos de suministros y prestación de servicios.\r\n\r\nEl Decreto Alcaldicio N0 2136 de fecha'13.08.2018 que aprueba Manual de Licitaciones,\r\nContrataciones y Adquisiciones.\r\nLo dispuesto en Ia Ley N\" '19.880 sobre Procedimientos Administrativos,\r\n\r\nEl Decreto Alcaldicio N' 3048 de fecha 22.12.2021que aprueba Presupuesto Municipal año 2022.\r\nCONSIDERANDO:\r\n\r\nEl lr4emo No 476 de fecha 28 de junio de2022 de la Directora Secpla, mediante el cualsolicita\r\nautorice vía compra ágil a través del portalde mercado público de acuerdo a la ley de compras Art.8\" y Art. 10 Bis\r\nReglamento de Compras, para la \"PUBLICACION AVISOS DE PRENSA, CONSULTA Y EXPOSICION PUBLICA,\r\nACTUALIZACION PLAN REGULADOR COMUNAL DE REQUINOA\" que a través del portal l\\4ercado Público se\r\n\r\nrealizaron cotizaciones bajo lD 3656-87-COT22, y se recibió 1 oferta correspondiente al oferente Sociedad\r\nlnformativa Regional S.A, Rancagüino, Rut N\" 96,852.720-7 por un monto de $ 348.670 IVA lncluido, en\r\nconsideración que fue el único oferente, adjunta Cotizació"
+ },
+ {
+  "id": "d0256",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_1431_modifica_decreto_alcaldicio_n_1418_publicacion_avisos_pr",
+  "archivo": "requinoa_decreto_alcaldicio_1431_modifica_decreto_alcaldicio_n_1418_publicacion_avisos_pr__DA1431.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE\r\n\r\nREQUTNOA\r\nt¡¡\r\n\r\nü\r\nX' lqz' /\r\n\r\nDECRETO ALCALDTCTO\r\nMODIFICA DECRETO ALCALDICIO QUE INDICA\r\n\r\nREQUINOA, 2g JIJN2O22\r\nEsta Alcaldía decretó hoy lo siguiente\r\n\r\nVISTOS\r\n\r\n:\r\n\r\nLas facultades que me confiere la Ley N0 18.695 de 1988, Orgánica Constitucional de\r\nMunicipalidades, Texto Refundido coordinado y sistematizado, fijado por el D.F.L. No 1 del Ministerio del lnterior año\r\n2006.\r\nLa Ley No 19.886 Bases sobre contratos administrativos de suministros y prestación de servicios,\r\n\r\nEl Decreto Alcaldicio N0 2136 de fecha 13.08.2018 que aprueba Manual de Licitaciones,\r\nContrataciones y Adquisiciones.\r\nLo dispuesto en la Ley N' 19.880 sobre procedimientos Administrativos\r\n\r\nEl Decreto Alcaldicio N' 3048 de fecha 22.12.2021 que aprueba Presupuesto lVunicipal año 2022.\r\nCONSIDERANDO:\r\n\r\nEl Decreto Alcaldicio N0 1418 de fecha 28 de junio de 2022 de la Directora Secpla, mediante el\r\ncual solicita autorice vía compra ágil a través del portal de mercado público de acuerdo a la ley de compras Art. g. y\r\n\r\nArt. 10 Bis Reglamento de Compras, para la \"PUBLICACION AVISoS DE PRENSA, CoNSULTA y ExpoSlCtON\r\nPUBLICA, ACTUALIZACION PLAN REGULADOR COMUNAL DE REQUINOA\" que a través det portal tVercado\r\nPúblico se realizaron cotizaciones bajo lD 3656-146-COT22, y se recibió 1 oferta correspondiente al oferente\r\nSociedad lnformativa Regional S.A, Rancagüino, Rut N\" 90.8s2.220-7 por un monto de $ 349.670 IVA lncluido, en\r\nconsideraciÓn que fue el Único oferente, adjunta Cotizació"
+ },
+ {
+  "id": "d0257",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_2422_designa_incorporacion_contraparte_tecnica_seremi_viviend",
+  "archivo": "requinoa_decreto_alcaldicio_2422_designa_incorporacion_contraparte_tecnica_seremi_viviend__DA2422.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "trtr,LISTfTE\r\n\r\n*Wff-'\r\n\r\nN{TUNNCNPAN,NDAD\r\n\r\nREQ{JINOA\r\n\r\nDECRETO ALCALDICIO N\"\r\n\r\nZ\\ 7 Z\r\n\r\nóEéicñÁ tNcoRPoRAcloN coNTRAPARTE\r\n¡.rÚÑñlpll- PARA LA ELABoRAcIoN DE PLAN\r\n\r\n\\\r\n\r\nREGULADOR DE REQUINOA\r\nREQUINOA,\r\n2 2 AG0 2019\r\n\r\nEsta AlcaldÍa decretÓ hoy lo siguiente:\r\nGONSIDERANDO\r\n\r\n:\r\n\r\n14.06.2018 que aprueba convenio\r\noá Ú¡vienoa y urbanismo, RegiÓn del Libertador\r\nde cooperacion secretar¡a nég¡onat tr¡inisleil,at\r\nde o\"Higgins'\r\nMünicipatidai'á\" nJqrilo\", po, ál cuat sEVlu-RegiÓn\r\nBernardo o,,Higgins\r\ny sus\r\nRequfnoa\r\nde\r\nla comuna\r\nEr Decreto Arcardicio N' 1s6o de fecha\r\n\r\n\"-rütr\"\r\n\r\nestará encargado oá iá-ár\"ooración oet\r\n\r\nááno *\"n**.r^de\r\n\r\naportes pala tsu. ejecuciÓn:\r\nmodificaciones, estaOtecieñJo tos siguien-tes\r\nMINVU $ 115 000'000\r\nSEREMI\r\n.;- Á;\"'t\" ó\"ctórial\r\n$ 20'000'000 ($ 10'000'000 2018 v\r\nnáquinoa\r\noe\r\niv[t'itipái¡o'a\r\n$ lO.oOO.ooo 2019)\r\n\r\ndí\r\n\r\nElDecretoAlcaldicioN..lS52defechal2.oT'20lSquedesignacomo\r\n\r\nRegiÓn de\r\nante la Seremi de Vivienda y Urbanismo\r\nContraparte Técnica ini\"rrá.utores valioás\r\nRegulador\r\nPlan\r\nde\r\n\"\r\nd;\";\"r;.ó. para la,\"Elaboración\r\no,,Higgins, dentro d\"t;;;;; Jáiconrenio\r\nurbanismo' RegiÓn\r\nn secretariá-{di;.;l.Ministeriat de Viviendalosy Profesionales\r\nde Requínoa,, ceteoraái\r\nde la\r\na\r\nde Requínoa,\r\n\"ntrá\r\ndel Libertador Bernardo o,Higgins e ttustre'tr¡u-niopárioro\r\nMunicipalidad de Requinoa que se indican:.\r\n-Sr.cr¡st¡anQuilodránDíaz,secretarioComunaldePlanificación(SECPLA),contraparteTécnica\r\n\r\n§li;lsiguirera Ríos, profesionar Ar"
+ },
+ {
+  "id": "d0258",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_2660_autoriza_retomar_proceso_de_consulta_publica_al_anteproy",
+  "archivo": "requinoa_decreto_alcaldicio_2660_autoriza_retomar_proceso_de_consulta_publica_al_anteproy__DA2660.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0259",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_3056_designa_incorporacion_contraparte_municipal_municipal_el",
+  "archivo": "requinoa_decreto_alcaldicio_3056_designa_incorporacion_contraparte_municipal_municipal_el__DA3056.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "¿\r\n\r\nIL{-JSTR.A\r\n\r\nryffiil.\r\n\r\n¡V[UIN]ICN]PA[,N]DAD\r\n\r\nREQUNNÜ:\\\r\n\r\nII\r\n\r\nDEcREro ALcALDrcro ru\" lbO5b\r\nDESIGNA INCORPORACION CONTRAPARTE\r\nMUNICIPAL PARA LA ELABORACION DE PLAN\r\nREGULADOR DE REQUINOA\r\nREQUINOA,\r\nEsta Alcaldla decretó hoy lo siguiente:\r\n\r\nI I oCI 2019\r\n\r\nCONSIDERANDO:\r\nEl Decreto Alcaldicio N\" 1560 de fecha 14.06.2018 que aprueba Convenio\r\nRegional Ministerial de Vivienda y Urbanismo, Región del Libertador\r\nSecretaria\r\nCooperacion\r\nde\r\nBernardo O\"Higgins e llustre Municipalidad de Requlnoa, por el cual SEVIU-Región de O\"Higgins,\r\nestará encargado de la elaboración del Plano Regulador de la comuna de RequÍnoa y sus\r\nmodificaciones, estableciendo los siguientes aportes para su ejecución:\r\n\r\ne) Aporte Sectorial SEREMI MINVU $ 115.000.000\r\n0 Municipalidad de Requinoa $ 20.000.000 ($ 10.000.000 2018 y\r\n$ 10.000.000 2019)\r\n\r\nEl Decreto Alcaldicio N\" 1852 de fecha 12.07.2018 que designa como\r\nválidos ante la Seremi de Vivienda y Urbanismo RegiÓn de\r\ninterlocutores\r\nTécnica\r\ne\r\nContraparte\r\nO\"Higgins, dentro del marco del Convenio de cooperación para la \"Elaboración de Plan Regulador\r\nde Requínoa\" celebrado entre la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región\r\ndel Libertador Bernardo O'Higgins e llustre Municipalidad de Requínoa, a los Profesionales de la\r\nMunicipalidad de Requinoa que se indican:\r\n\r\n-\r\n\r\nSr. Cristian Quilodrán Diaz, Secretario Comunal de Planificación (SECPLA), Contraparte Técnica\r\n\r\n-\r\n\r\nMunicipal.\r\nSr. Luis Aguilera Ríos, Profes"
+ },
+ {
+  "id": "d0260",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_881_proceso_actualizacion_eae_plan_regulador_comunal_requinoa",
+  "archivo": "requinoa_decreto_alcaldicio_881_proceso_actualizacion_eae_plan_regulador_comunal_requinoa__DA881.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "normas_urbanisticas": 3,
+   "zonificacion": 1,
+   "usos_de_suelo": 8,
+   "articulado": 6,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 4
+  },
+  "codigos_zona": [
+   "ZCH"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I ¡Stl¡\r\n\r\n,'[St&MB¿r\r\n\r\n'd*':'\r\n\r\nDECRETO ALCALO'\"'O\r\n\r\n86 \\\r\n\r\n'\" EAE ACTUALIZACIÓN\r\nMAT: lNlClA PROCESO\r\nPLAN REGULADOR COI\\¡UNAL REQUINOA\r\n\r\nREQUINOA,\r\n\r\nI\r\n\r\nEsta Alcaldia decretó hoy lo siguiente\r\n\r\nCONSIDERANDO:\r\n\r\nEl Decreto Alcaldicio N'1560 de fecha 14.06.2018 que aprueba convenio de\r\nCooperación Secretaria Regional l\\.4inisterial de Vivienda y Urbanismo, Región del Libertador Bernardo\r\nO'Higgins e llustre l\\ilunic¡pal¡dad de Requinoa, por el cual SERVIU-Región de O'Higgins, estará encargado de\r\nla elaboración del Plano Regulador de la comuna de Requinoa y sus l\\¡odificaciones, estableciendo los\r\ns¡guientes aportes para su ejecución:\r\na.- Aporte Sectorial SEREMI MINVU $115.000.000\r\n\r\nb.- Munic¡palidad de Requ¡noa $ 20.000.000 ($10.000.000 2018 y $10.000.000 2019)\r\nEl Decreto Alcaldicio N\"1852 de fecha 12.07.2018 que designa como Contraparte\r\nTécnica e inter¡ocutores válidos ante la Seremide Vivienda y Urbanismo Reg¡ón de O'Higgins, dentro del marco\r\ndel Conven¡o de cooperación para la \"Elaboración del Plan Regulador de Requ¡noa\" celebrado entre ña\r\nSecretaria Regional l\\¡inisterial de Vivienda y Urbanismo, Región del Libertador Bernardo O'H¡ggins e llustre\r\nl\\¡unicipalidad de Requinoa, a los Profesionales de la l\\¡unicipalidad de Requinoa que se indican.\r\n-Sr. Cristian Quilodrán Díaz, Secretár¡o Comunal de Planif¡cación (SECPLA), Contra\r\nPa rte Técnica Municipal.\r\n-Sr. Luis Aguilera RÍos, Profesional Arquitecto, Dirección de Obras Munic¡pales (DOM).\r\nEl Decreto Alca"
+ },
+ {
+  "id": "d0935",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_3411_derroguese_el_plan_regulador_comunal_de_requinoa_aprobad",
+  "archivo": "requinoa_decreto_alcaldicio_3411_derroguese_el_plan_regulador_comunal_de_requinoa_aprobad__DA3411.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 6,
+   "usos_de_suelo": 14,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZCH"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "5\r\n\r\nffi'ELK\r\na,Ill\r\n\r\nDECRETOALCALD|c|oNo\r\n\r\n9 H I `\r\n\r\n-DEROGUESE EL PLAN REGULADOR COMUNAL DE REQUINOA\r\nRESOLUcloN N° 110 DEL 28-07-1987 Y Su MODIFICAC16N RESOLUC16N\r\nN° 14 DEL 26-04-2000.\r\n-APRUEBESE PLAN REGULADOR COMUNAL DE REQUINOA\r\n\r\n-PROMULGA PLAN REGULADOR COMUNAL DE REQUINOA\r\n-AUTORIZA ENTRADA EN VIGENCIA PLAN REGULADOR COMUNAL\r\n\r\nDE\r\n\r\nREQUINOA\r\n-REMITE PLAN REGULADOR COMUNAL DE REQUINOA\r\n\r\nREQUINOA,\r\n\r\n0 8 NOV\r\n\r\n2024\r\n\r\nEsta Alcaldia decret6 hey to siduiente:\r\n\r\nun\r\n\r\nLas facu|tades que me confiere fa Ley N° 18.695 de 1988, Orgchiea constitucional de Municipalidades, Texto Refundido\r\n\r\ncoordinado y sistematizado, fijedo por el D.F.L. N° 1 del Mnisterio del Interior afio 2006.\r\n\r\nLa Ley N° 19.886 sobre Contratos administratIVos de suministros y prestacienes de servieios.\r\nEI\r\n\r\nDecreto Alcald'icio\r\n\r\nN°\r\n\r\n2136 de fecha\r\n\r\n13.08.2018 que aprueba Manual de\r\n\r\nProcediniiento de Lroitaciones,\r\n\r\nContratactones y Adq uisiclones.\r\nLo drspuesto en le Ley Na 19 880 sobre Procedimiento Administrativos\r\nLey N° 18 695, \"Organ:ica Constitucional de Munieipalidades\"\r\n\r\nEI DFL N°458, de 1975, Ley General de Urbanismo y Construcciones\r\n\r\nEI DS lv. y U.) N°47, de 1992, Ordenanza General de Urbanismo y Construcciones\r\n\r\nLa Ley N°19.300, de 1994, I.ey sobre Bases Generates del Ambiente, y sus modmcaciones posterieres, partioufarmente\r\nfas relativas al proceclimiento de Evaluaci6n Ambiental Estrategiea introducidas mediante fa Ley 20.417 de 2010.\r\nEI Decreto N°32, de 2015, del Min"
+ },
+ {
+  "id": "d1249",
+  "comuna": "requinoa",
+  "nombre_documento": "decreto_alcaldicio_82_autoriza_reconocimiento_de_deuda_por_el_servicio_de_public",
+  "archivo": "requinoa_decreto_alcaldicio_82_autoriza_reconocimiento_de_deuda_por_el_servicio_de_public__DA82.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0261",
+  "comuna": "retiro",
+  "nombre_documento": "eduardo_plana_zenteno_planetario",
+  "archivo": "retiro_eduardo_plana_zenteno_planetario__024307.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0262",
+  "comuna": "retiro",
+  "nombre_documento": "eduardo_plana_zentnio_planetario",
+  "archivo": "retiro_eduardo_plana_zentnio_planetario__024304.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0263",
+  "comuna": "retiro",
+  "nombre_documento": "plan_de_desarrollo_comunal_2013_2016",
+  "archivo": "retiro_plan_de_desarrollo_comunal_2013_2016__MODIFICACION_ORDENANZA_PARTICIPACION_CIUDADANA.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 17,
+  "paginas_escaneadas": 17,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica",
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1250",
+  "comuna": "retiro",
+  "nombre_documento": "decreto_exento_3348_apruebese_la_modificacion_del_plan_de_trabajo_y_la_redistrib",
+  "archivo": "retiro_decreto_exento_3348_apruebese_la_modificacion_del_plan_de_trabajo_y_la_redistrib__3348.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0936",
+  "comuna": "rio_negro",
+  "nombre_documento": "decreto_alcaldicio_2370_autorizase_el_uso_del_sitio_ubicado_en_calle_pedro_marti",
+  "archivo": "rio_negro_decreto_alcaldicio_2370_autorizase_el_uso_del_sitio_ubicado_en_calle_pedro_marti__42429_2370.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": ".:\r\n\r\nMUNICIPALIDAD DE RIO NEGRO\r\nSECRETARIA MUNICIPAL\r\n\r\nRIO NEGRO,\r\n\r\n0 ¿ [J . 2 1Q\r\n\r\nVISTOS: La solicitud presentada por el Club de Pesca y Casa Río Negro; el\r\nAcuerdo Nº 194, de fecha 22 de Septiembre de 201 O, adoptado por el Concejo\r\nMunicipal; la Resolución N°1600 de 2008, de la Contraloría General de la\r\nRepública y las facultades establecidas en el artículo 12º y 63º letra g) de la\r\nLey Nº 18.695, Orgánica Constitucional de Municipalidades.\r\nDECRETO\r\n\r\n:Z la\r\n\r\n/\r\n\r\nAUTORIZASE el uso del sitio ubicado en calle Pedro\r\n?>\r\nNº\r\nMartínez de la ciudad de Río Negro, identificado en el Plano Regulador de Río\r\nNegro como Área Verde Proyectada, al Club de Pesca y Casa Río Negro,\r\npor el plazo de 20 años, a contar de la fecha del presente decreto, para\r\nemplazar un atracadero flotante para embarcaciones menores.\r\n\r\nANÓTESE,\r\n\r\nCOMUNIQUESE\r\n\r\nDISTRIBUCION:\r\n� Club de Pesca y Casa Río Negro - Río Negro.\r\n� Dirección de Administración y Finanzas. (2)\r\n� Oficina de Partes (2)\r\n\r\n,\r\n\r\nDES'E"
+ },
+ {
+  "id": "d0937",
+  "comuna": "romeral",
+  "nombre_documento": "2056_aprueba_modificaciones_via_enmienda_n_2_a_ordenanza_local_del_plan_regulado",
+  "archivo": "romeral_2056_aprueba_modificaciones_via_enmienda_n_2_a_ordenanza_local_del_plan_regulado__2044666.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [
+   "ZONA",
+   "ZU",
+   "ZU - 1",
+   "ZU-1"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.111\r\n\r\n|\r\n\r\nMiércoles 24 de Noviembre de 2021\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2044666\r\n\r\nMUNICIPALIDAD DE ROMERAL\r\n\r\nAPRUEBA MODIFICACIONES VÍA ENMIENDA N° 2 A ORDENANZA LOCAL DEL\r\nPLAN REGULADOR COMUNAL DE ROMERAL\r\nNúm. 2.056.- Romeral, 12 de noviembre de 2021.\r\nVistos:\r\n1. Resolución afecta N° 44, de fecha 20 de junio de 2016, del Gobierno Regional del Maule,\r\npublicada en el Diario Oficial con fecha 25 de mayo de 2017, que Promulga Plan Regulador\r\nComunal de Romeral.\r\n2. Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones y lo\r\ndispuesto en los artículos 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones, referente a enmiendas y Planes Reguladores Comunales.\r\n3. El Acuerdo del Honorable Concejo Municipal de Romeral N° 69, adoptado en sesión\r\nordinaria de fecha 14 de julio de 2021, que aprueba autorizar iniciar proceso de discusión y\r\ndifusión de la enmienda N° 2 del Plan Regulador Comunal de Romeral.\r\n4. Memorándum 01 de Secplac a Dideco solicitando el listado de organizaciones\r\nterritoriales legalmente constituidas en la Zona ZU-1, de fecha 15 de julio 2021.\r\n5. Memorándum 01 de Dideco a Secplac, proporcionando el listado de organizaciones\r\nterritoriales legalmente constituidas, de fecha 19 de julio 2021.\r\n6. Carta informativa dirigida "
+ },
+ {
+  "id": "d0938",
+  "comuna": "romeral",
+  "nombre_documento": "2782_aprueba_modificaciones_via_enmienda_a_ordenanza_local_del_plan_regulador_co",
+  "archivo": "romeral_2782_aprueba_modificaciones_via_enmienda_a_ordenanza_local_del_plan_regulador_co__1721133.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [
+   "ZU - 1"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.570\r\n\r\n|\r\n\r\nMartes 4 de Febrero de 2020\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1721133\r\n\r\nMUNICIPALIDAD DE ROMERAL\r\n\r\nAPRUEBA MODIFICACIONES VÍA ENMIENDA A ORDENANZA LOCAL DEL PLAN\r\nREGULADOR COMUNAL DE ROMERAL\r\nNúm. 2.782.- Romeral, 23 de diciembre de 2019.\r\nVistos:\r\n1. Resolución afecta N° 44, de fecha 20 de junio de 2016, del Gobierno Regional del Maule,\r\npublicada en el Diario Oficial con fecha 25 de mayo de 2017, que Promulga Plan Regulador\r\nComunal de Romeral.\r\n2. Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones y lo\r\ndispuesto en los artículos 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones, referente a enmiendas y Planes Reguladores Comunales.\r\n3. El acuerdo del Honorable Concejo Municipal de Romeral N° 79, adoptado en sesión\r\nordinaria de fecha 8 de agosto de 2018, que aprueba autorizar iniciar proceso de discusión y\r\ndifusión de la enmienda N° 1 del Plan Regulador Comunal de Romeral.\r\n4. Las cartas certificadas informativas dirigidas a las organizaciones territoriales legalmente\r\nconstituidas, de fecha 16 de agosto de 2018.\r\n5. Aviso de prensa efectuado en el diario La Prensa de Curicó, con fecha 21 de agosto de\r\n2018, informando del proceso de la enmienda N° 1 del Plan Regulador Comunal.\r\n6. Entrega gratuita a interesados de memor"
+ },
+ {
+  "id": "d0939",
+  "comuna": "romeral",
+  "nombre_documento": "44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que",
+  "archivo": "romeral_44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que__07306_PRC_ROMERAL_OR_44_17.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 25,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.766\r\n\r\n|\r\n\r\nJueves 25 de Mayo de 2017\r\n\r\n|\r\n\r\nPágina 1 de 25\r\n\r\nNormas Generales\r\nCVE 1218536\r\n\r\nMINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA\r\nGobierno Regional VII Región del Maule\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE ROMERAL Y DEJA SIN EFECTO\r\nRESOLUCIONES QUE INDICA\r\n(Resolución)\r\nNúm. 44.- Talca, 20 de junio de 2016.\r\nVistos:\r\n1. El artículo 111 de la Constitución Política del Estado, cuyo texto refundido, coordinado y\r\nsistematizado fue fijado por decreto supremo Nº 100 de 17 de septiembre de 2005, del Ministerio\r\nSecretaría General de la Presidencia;\r\n2. La Ley Nº 19.175 de 1992, Orgánica Constitucional sobre Gobierno y Administración\r\nRegional, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado por DFL\r\n1/19.175 del Ministerio del Interior, Subsecretaría de Desarrollo Regional y Administrativo,\r\npublicado el 8 de noviembre de 2005, y sus modificaciones;\r\n3. El DFL Nº 458 del Ministerio de Vivienda y Urbanismo, publicado el 13 de abril de\r\n1976, que aprueba nueva Ley General de Urbanismo y Construcciones, y sus posteriores\r\nmodificaciones, en especial, lo establecido en su artículo 43;\r\n4. El decreto Nº 47 del Ministerio de Vivienda y Urbanismo, publicado el 5 de junio de\r\n1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y\r\nConstrucciones, y"
+ },
+ {
+  "id": "d0940",
+  "comuna": "saavedra",
+  "nombre_documento": "1_aprueba_plan_regulador_y_ordenanza_local_de_puerto_saaveda",
+  "archivo": "saavedra_1_aprueba_plan_regulador_y_ordenanza_local_de_puerto_saaveda__download.aspx.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 7,
+   "articulado": 8,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "50\r\n\r\nLunes 6 de Enero de 1964\r\n\r\nMinisterio de Obras Públicas\r\n\r\nD * ^ 1 , 0 OFICIALJDEJ ¡ AJ&ERUMICA D E CHILE\r\nrrespondientes a cualquiera de estos elementos existentes. (Art. 14 del decreto\r\n1.050 del 31|Vj60).\r\n\r\n(Año 1963)\r\n\r\nT I T U L O\r\n\r\nAPRUEBA PLAN REGULADOR Y ORDENANZA LOCAL DE PUERTO SAAVEDRA\r\nSantiago, 5 de Agosto de\" 1903.— S. E.\r\ndecretó hoy lo que sigue;\r\nNúm. 1.749.— Vistos estos antecedentes, lo acordado por la I . Municipalidad da\r\nPuerto Saavedra en sesión de fecba 30 de\r\nAbril de 1963, y por la Junta de Planea-.\r\nmiento y Coordinación de Obras Públicas_\r\nen sesión de 14 de Abril del presente año,\r\nlo establecido en el artículo 550.O de la\r\nOrdenanza General de Construcciones y\r\nUrbanización, lo informado por la Dirección de Arquitectura en oficio N.o 1.675,\r\nde l.o de Agosto en curso, y lo dispuesto\r\nen el artículo 124.o de la ley 14.171,\r\n\r\nPag. dos\r\n\r\nÁrea de Extensión Urbana, reconociendo\r\npor tal la superficie del suelo destinado a\r\nabsorber el crecimiento espacial de la\r\nciudad.\r\n\r\nII\r\n\r\nArt. 4.o— La I . Municipalidad del Pto.\r\nSaavedra podrá otorgar permisos de construcciones, reparaciones y alternaciones de\r\nedificios y de urbanización fuera del Área\r\nUrbana, solamente en aquellos .•asos en qiw\r\nla legislación vigente lo permita.\r\n\r\nLímite de Extensión Urbana\r\nArt. 3.o— Por Límite de Extensión Urbana se entiende la línea que define el\r\n\r\nLIMITE\r\n\r\nN.o 25.733\r\n\r\nURBANO\r\n\r\nNOTA :—Todas las referencias (puntos de intersección, actuales cierros de pro"
+ },
+ {
+  "id": "d1251",
+  "comuna": "salamanca",
+  "nombre_documento": "plan_regulador",
+  "archivo": "salamanca_plan_regulador__Plan_Regulador_22.08.1988.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 23,
+  "paginas_escaneadas": 23,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0941",
+  "comuna": "san_antonio",
+  "nombre_documento": "2025_n_c2_b01_345_aprueba_20plan_20comunal_20para_20reducci_c3_93n_20del_20riesgo_20de_20desastres",
+  "archivo": "san_antonio_2025_N_C2_B01.345_APRUEBA_20PLAN_20COMUNAL_20PARA_20REDUCCI_C3_93N_20DEL_20RIESGO_20DE_20DESASTRES....pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\nILUSTRE MUNICIPALIDAD DE SAN ANTONIO\r\nE11665/2025\r\n\r\nDECRETO ALCALDICIO EXENTO Nº\r\n\r\n1345\r\n\r\nSAN ANTONIO, 29 ABR 2025\r\nREF.:\r\nAPRUEBA\r\nPLAN\r\nCOMUNAL\r\nPARA\r\nREDUCCIÓN DEL RIESGO DE DESASTRES DE LA\r\nCOMUNA DE SAN ANTONIO; COMO SE INDICA\r\nESTA ALCALDÍA DECRETÓ HOY LO QUE SIGUE:\r\nVISTOS:\r\n1. Oficio N° 40 de fecha 31.07.2023, de don Felipe Estay Díaz, Director Regional (s);\r\n2. Informe Técnico del Plan de Reducción de Riesgos de Desastres;\r\n3. La Ley N° 21.364, publicada en agosto de 2021;\r\n4. Las atribuciones que me confiere la Ley Orgánica Constitucional de Municipalidades Ley\r\n18.695/88, cuyo texto refundido, coordinado y sistematizado fue fijado por DFL 1 del\r\nMinisterio del Interior, de fecha 09.05.2006 publicado en el diario Oficial del 26.07.2006;\r\n5. D.A. N° 9.694 de fecha 04 de diciembre de 2013. que designa al secretario Municipal.\r\n6. D.A. 4733 con fecha del 07 de diciembre de 2024, asume como alcalde titular de San\r\nAntonio, don Omar Vera Castro.\r\nCONSIDERANDO:\r\nPRIMERO: Según Oficio N° 40 de fecha 31.07.2023 de Director Regional (s) de Valparaíso\r\nque se adjunta al presente decreto alcaldicio.\r\nSEGUNDO: \"La Ley N°21.364, publicada en agosto de 2021, que establece el Sistema\r\nNacional de Prevención y Respuesta ante el Desastres SINAPRED, sustituye la Oficina\r\nNacional de Emergencia por el Servicio Nacional de Prevención y Respuesta ante Desastres\r\nSENAPRED y adecúa normas que indica, ha incorporado en su articulado una serie de\r\nmaterias referidas a"
+ },
+ {
+  "id": "d0942",
+  "comuna": "san_antonio",
+  "nombre_documento": "2025_n_c2_b04_043_aprueba_20plan_20de_20capacitaci_c3_93n_20a_c3_91o_202026_20para_20el_20personal_20de_20",
+  "archivo": "san_antonio_2025_N_C2_B04.043_APRUEBA_20PLAN_20DE_20CAPACITACI_C3_93N_20A_C3_91O_202026,_20PARA_20EL_20PERSONAL_20DE_20....pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\nILUSTRE MUNICIPALIDAD DE SAN ANTONIO\r\nE36497/2025\r\n\r\nDECRETO ALCALDICIO EXENTO Nº\r\n\r\n4043\r\n\r\nSAN ANTONIO, 30 DIC 2025\r\nREF.: APRUEBA PLAN DE CAPACITACIÓN AÑO 2026,\r\nPARA EL PERSONAL DE LA I. MUNICIPALIDAD DE SAN\r\nANTONIO.\r\nESTA ALCALDÍA DECRETÓ HOY LO QUE SIGUE:\r\nVISTOS:\r\n1. Ley N°18.695/88 Ley Orgánica Constitucional de Municipalidades y su Art. N°46 sobre la\r\ncapacitación y el perfeccionamiento;\r\n2. Ley N°18.883/89 Estatuto Administrativo para Funcionarios Municipales, Párrafo N°II, “sobre\r\nla capacitación y el perfeccionamiento”, y su Art., N°22 sobre la concepción de capacitación;\r\n3. Ley N°19.653 de fecha 14/12/1999, Ministerio Secretaría General de la Presidencia, sobre\r\nprobidad administrativa aplicable de los órganos de la administración del estado;\r\n4. Decreto con Fuerza de Ley N°1-19.653 de fecha 17/11/2001, Ministerio Secretaría General\r\nde la Presidencia, que fija texto refundido, coordinado y sistematizado de la Ley Nº18.575,\r\norgánica constitucional de bases generales de la Administración del Estado;\r\n5. Ley N°19.880 de fecha 29/05/2003, Ministerio Secretaría General de la Presidencia, que\r\nestablece bases de los procedimientos administrativos que rigen los actos de los órganos de\r\nla Administración del Estado;\r\n6. Decreto con Fuerza de Ley N°1 de fecha 26/07/2006, Ministerio del Interior; Subsecretaría\r\nde Desarrollo Regional y Administrativo, que fija el texto refundido, coordinado y\r\nsistematizado de la Ley N°18.695, orgánica constituciona"
+ },
+ {
+  "id": "d0943",
+  "comuna": "san_antonio",
+  "nombre_documento": "2025_n_c2_b04_046_aprueba_20pmgm_20para_20a_c3_91o_202026",
+  "archivo": "san_antonio_2025_N_C2_B04.046_APRUEBA_20PMGM_20PARA_20A_C3_91O_202026.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 49,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\nILUSTRE MUNICIPALIDAD DE SAN ANTONIO\r\nE36558/2025\r\n\r\nDECRETO ALCALDICIO EXENTO Nº\r\n\r\n4046\r\n\r\nSAN ANTONIO, 30 DIC 2025\r\nREF.: APRUEBA PROGRAMA DE MEJORAMIENTO\r\nDE LA GESTIÓN PMGM PARA EL AÑO 2026.\r\nESTA ALCALDÍA DECRETÓ HOY LO QUE SIGUE:\r\nVISTOS:\r\n1. Constitución Política de la República de Chile, texto promulgado Decreto Supremo\r\nN°1.150 de fecha 21.10.1980, Ministerio de Interior, refundida por Decreto N°100 de\r\nfecha 22/09/2005, del Ministerio Secretaría General de la Presidencia, fija texto\r\nrefundido coordinado y sistematizado de la Constitución Política de la República de\r\nChile;\r\n2. Ley N°19.175 de fecha 11/11/1992, Ministerio del Interior, Orgánica Constitucional\r\nsobre Gobierno y Administración Regional;\r\n3. Ley Nº18.695 de Fecha 31/03/1988, Ministerio del Interior, Orgánica Constitucional de\r\nMunicipalidades, refundida por Decreto con Fuerza de Ley N°1 de fecha 26/07/2006,\r\nMinisterio del Interior; Subsecretaría de Desarrollo Regional y Administrativo, fija el\r\ntexto refundido, coordinado y sistematizado de la Ley Nº18.695, Orgánica\r\nConstitucional de Municipalidades;\r\n4. Ley Nº18.575, de fecha 05/12/1986, Ministerio del Interior; Subsecretaria del Interior,\r\nOrgánica Constitucional de Bases Generales de la Administración del Estado;\r\nmodificado por Decreto con Fuerza de Ley N°1-19.653 de fecha 17/11/2001,\r\nMinisterio Secretaría General de la Presidencia, que fija texto refundido, coordinado y\r\nsistematizado de la Ley Nº18.575;\r\n5. Ley N°21.180 de"
+ },
+ {
+  "id": "d0944",
+  "comuna": "san_antonio",
+  "nombre_documento": "2025_n_c2_b04_047_aprueba_20plan_20anual_20municipal_20a_c3_91o_202026_20fondo_20concursable_20de",
+  "archivo": "san_antonio_2025_N_C2_B04.047_APRUEBA_20PLAN_20ANUAL_20MUNICIPAL_20A_C3_91O_202026,_20FONDO_20CONCURSABLE_20DE....pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\nILUSTRE MUNICIPALIDAD DE SAN ANTONIO\r\nE36538/2025\r\n\r\nDECRETO ALCALDICIO EXENTO Nº\r\n\r\n4047\r\n\r\nSAN ANTONIO, 30 DIC 2025\r\nREF.: APRUEBA PLAN ANUAL MUNICIPAL AÑO\r\n2026, FONDO CONCURSABLE DE FORMACIÓN DE\r\nFUNCIONARIOS MUNICIPALES, LEY N°20.742.\r\nESTA ALCALDÍA DECRETÓ HOY LO QUE SIGUE:\r\nVISTOS:\r\n1. Ley N°18.695/88 Ley Orgánica Constitucional de Municipalidades y su Art. N°46\r\nsobre la capacitación y el perfeccionamiento;\r\n2. Ley N°18.883/89 Estatuto Administrativo para Funcionarios Municipales, Párrafo N°II,”\r\nsobre la capacitación y el perfeccionamiento”, y su Art., N°22 sobre la concepción de\r\ncapacitación;\r\n3. Ley N°19.653 de fecha 14.12.1999, Ministerio Secretaría General de la Presidencia,\r\nsobre probidad administrativa aplicable de los órganos de la administración del\r\nestado;\r\n4. Decreto con Fuerza de Ley N°1-19.653 de fecha 17.11.2001, Ministerio Secretaría\r\nGeneral de la Presidencia, que fija texto refundido, coordinado y sistematizado de la\r\nLey Nº18.575, orgánica constitucional de bases generales de la Administración del\r\nEstado;\r\n5. Ley N°19.880 de fecha 29.05.2003, Ministerio Secretaría General de la Presidencia,\r\nque establece bases de los procedimientos administrativos que rigen los actos de los\r\nórganos de la Administración del Estado;\r\n6. Decreto con Fuerza de Ley N°1 de fecha 26.07.2006, Ministerio del Interior,\r\nSubsecretaría de Desarrollo Regional y Administrativo, que fija el texto refundido,\r\ncoordinado y sistematizado de la Ley Nº18.695, o"
+ },
+ {
+  "id": "d0945",
+  "comuna": "san_antonio",
+  "nombre_documento": "3099_modificacion_del_plan_regulador_comunal_de_san_antonio_en_los_sectores_port",
+  "archivo": "san_antonio_3099_modificacion_del_plan_regulador_comunal_de_san_antonio_en_los_sectores_port__DA 3099.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 12
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "SECRETARIA COMUNAL DE PLANIFICACIÓN - SECPLA\r\nasesoría urbana\r\n\r\nIMSA\r\nREF.\r\n\r\nPROMULGA\r\n\r\nMODIFICACIÓN\r\n\r\nDEL\r\n\r\nPLAN\r\n\r\nREGULADOR COMUNAL DE SAN ANTONIO,\r\nEN\r\n\r\nLOS\r\n\r\nSECTORES\r\n\r\nPORTUARIOS\r\n\r\nSUR\r\n\r\nY\r\n\r\nNORTE.\r\n\r\nSAN ANTONIO, 19 MARZO 2015\r\nDECRETO N° 3.099\r\n\r\n'\r\n\r\nESTA ALCALDÍA DECRETÓ HOY LO QUE SIGUE:\r\n\r\nVISTOS:\r\n1) Lo dispuesto en la Ley General de Urbanismo y Construcciones (D.S.\r\n\r\nN°458 (V. y U.) del 18 de diciembre de 1975, publicada en el Diario Oficial N°29.431 del 13.04.76), en especial lo\r\nestipulado en su artículo 43; 2) Lo dispuesto en la Ordenanza General de Urbanismo y Construcciones (D.S. N°47 (V.\r\ny U.) del 16 de abril de 1992, publicada en el Diario Oficial N°34.270 del 19.05.92), en especial lo estipulado en su\r\nartículo 2.1.11.; 3) La Circular Ordinaria N°0935 de fecha 1 de diciembre del 2009, de la División de Desarrollo\r\nUrbano del Ministerio de la Vivienda y Urbanismo MINVU (DDU 227), que instruye respecto de la formulación y\r\námbito de acción de los Planes Reguladores Comunales; 4) La Circular Ordinaria N°0254 de fecha 8 ele abril del\r\n2011, de la División de Desarrollo Urbano del Ministerio de la Vivienda y Urbanismo MINVU (DDU 247), que adjunta\r\nla \"Guía para la Evaluación Ambiental Estratégica de los Planes Regionales de Desarrollo Urbano, Planes\r\nReguladores Intercomunales, Planes Reguladores Comunales y Planes Seccionales\", 5) Lo dispuesto en la Ley\r\nN°20.417, del Ministerio Secretaría General de la Presidencia SEGPRES, det 12 de enero del 2"
+ },
+ {
+  "id": "d0946",
+  "comuna": "san_antonio",
+  "nombre_documento": "3722_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_sector_de_la_r",
+  "archivo": "san_antonio_3722_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_sector_de_la_r__DA 3722.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA 1",
+   "ZE 4",
+   "ZP 2",
+   "ZP 4"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "SECRETARÍA COMUNAL DE PLANIFICACIÓN - SECPLA\r\nasesoría urbana\r\n\r\nIMSA\r\n\r\nREF.\r\n\r\nPROMULGA\r\n\r\nMODIFICACIÓN\r\n\r\nDEL\r\n\r\nPLAN\r\n\r\nREGULADOR COMUNAL DE SAN ANTONIO,\r\nEN EL SECTOR DE LA\r\nESTERO EL SAUCE O\r\n\r\nFUNDO EL PIÑEO.\r\n\r\nRIBERA SUR DEL\r\nLLOLLEO, EN EL\r\n\r\nSAN ANTONIO, 2 ABRIL 2015\r\nDECRETO\r\n\r\nN° 3.722\r\n\r\nESTA ALCALDÍA DECRETÓ HOY LO QUE SIGUE:\r\n\r\nVISTOS:\r\n1) Lo dispuesto en la Ley General de Urbanismo y Construcciones (D.S.\r\nN°458 (V. y U.) del 18 de diciembre de 1975, publicada en el Diario Oficial N°29.431 de) 13.04.76), en especial lo\r\nestipulado en su artículo 43; 2) Lo dispuesto en la Ordenanza General de Urbanismo y Construcciones {D.S. N°47 (V.\r\ny U.) del 16 de abril de 1992, publicada en el Diario Oficial N°34.270 del 19.05.92), en especial lo estipulado en su\r\n\r\nartículo 2.1.11; 3) La Circular Ordinaria N°0935 de fecha 1 de diciembre del 2009, de la División de Desarrollo\r\n\r\nUrbano del Ministerio de la Vivienda y Urbanismo MINVU (DDU 227), que instruye respecto de ta formulación y\r\námbito de acción de los Planes Reguladores Comunales; 4) La Circular Ordinaria N°0254 de fecha 8 de abril del\r\n2011, de la División de Desarrollo Urbano del Ministerio de la Vivienda y Urbanismo MINVU (DDU 247), que adjunta\r\n\r\nla \"Guía para la Evaluación Ambiental Estratégica de los Planes Regionales de Desarrollo Urbano, Planes\r\nReguladores Intercomunaies, Planes Reguladores Comunales y Planes Seccionales'; 5) Lo dispuesto en la Ley\r\n\r\nN°20.417, del Ministerio Secretaria General de la Presid"
+ },
+ {
+  "id": "d0947",
+  "comuna": "san_antonio",
+  "nombre_documento": "zonas_riesgo",
+  "archivo": "san_antonio_zonas_riesgo.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZONA 05",
+   "ZONA 10",
+   "ZONA 20",
+   "ZU"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Zonas de Riesgo de Tsunami Ciudad de San Antonio\r\n\r\nI. MUNICIPALIDAD DE SAN ANTONIO\r\nD.O.M. - S. I. G. PROTECCIÓN CIVIL\r\nSHOA\r\nUBICACION\r\n\r\nAVDA. RAMÓN BARROS LUCO Nº 1881\r\nBARRANCAS - SAN ANTONIO\r\n\r\nCONTENIDO\r\n\r\n!\"\r\n\r\nZONAS DE RIESGO DE TSUNAMI\r\n\r\n36\r\n\r\nAS\r\nBRUCEL\r\n\r\nM\r\nL\r\n\r\nE\r\n\r\nU\r\n\r\nN\r\n\r\nA\r\n\r\nLUGARES DE INTERES\r\n\r\nB\r\n\r\nPJ\r\n\r\nJE\r\n\r\nF\r\n\r\nR\r\n\r\nS\r\n\r\nE\r\nLL\r\nCA\r\n\r\nC\r\nNA\r\n\r\nIG\r\n\r\n2\r\n\r\nPLAZA SAN ANTONIO\r\n\r\nMUNICIPALIDAD\r\n\r\nIL\r\nS\r\nA\r\n\r\n8\r\n\r\nR\r\n\r\nL\r\n\r\n7\r\n\r\n20\r\n\r\nGOB. PROVINCIAL\r\n\r\n21\r\n\r\nN\r\n\r\nA\r\n\r\nT\r\n\r\nU\r\n\r\n3\r\n\r\nMERCADO PESQUERO\r\n\r\nCARABINEROS\r\n\r\n4\r\n\r\nBOMBEROS\r\n\r\n22\r\n\r\nMUSEO MUNICIPAL\r\n\r\n23\r\n\r\nESTADIO MUNICIPAL\r\n\r\nR\r\n\r\nLNES\r\nA\r\n\r\nB\r\n\r\nOR\r\n\r\nMIR\r\n\r\nIO\r\n\r\nICAN\r\n\r\nR\r\nO\r\n\r\nUPOL\r\n\r\nA\r\nT\r\nU\r\nA\r\nL\r\n\r\nS\r\nE\r\nR\r\nO\r\nL\r\nF\r\nA\r\nIA\r\n\r\nMANUEL SOIZA\r\n\r\nZ\r\nUE\r\nOD\r\n\r\nRIG\r\n\r\nEP\r\nEN\r\nD\r\n\r\nUE\r\n\r\nL R\r\n\r\nIND\r\n\r\nMA\r\nN\r\n\r\nIA\r\nEN\r\nC\r\n\r\nS\r\n\r\nSA\r\nO\r\nHE\r\nRM\r\n\r\nO\r\nT\r\nE\r\nD\r\nU\r\nP\r\n\r\nVIS\r\nTA\r\n\r\nA\r\nE\r\nM\r\n\r\nTT\r\nN\r\nO\r\nM\r\n\r\nKMAN\r\n\r\nM\r\n\r\nA\r\n\r\nN\r\n\r\nNCIA\r\n\r\nESPERA\r\n\r\nNZA\r\n\r\nROEC\r\n\r\nENDE\r\n\r\nRARD\r\n\r\nRIA\r\nLASTAR\r\n\r\nKAO\r\n\r\nING. GE\r\nPJE. CONGUILLIO\r\n\r\nRANO\r\n\r\nBLICA\r\n\r\nLLANQ\r\n\r\nO\r\nLAUTAR\r\n\r\nREPU\r\n\r\nUIHUE\r\n\r\nEJERCITO\r\n\r\nU\r\n\r\nE\r\n\r\nL\r\n\r\nEJERCITO\r\n\r\nARZ. JUAN GONZALEZ\r\n\r\nL\r\n\r\nO\r\n\r\nN\r\nIO\r\nC\r\nU\r\nIT\r\nT\r\nS\r\nN\r\nO\r\n\r\nO\r\nÑ\r\nO\r\nG\r\nR\r\nO\r\nB\r\nR\r\nL\r\nIE\r\nE\r\nT\r\nE\r\nL\r\nIO\r\nL\r\nU\r\nJ\r\nE\r\nD\r\n\r\nS\r\nO\r\nO\r\nM\r\nR\r\nA\r\nO\r\nS\r\nL\r\n\r\nAREA DE SEGURIDAD\r\n\r\nM\r\n\r\nSOBRE 30 METROS\r\n\r\nEUCALIPTUS\r\nO\r\nS\r\n\r\nP\r\nA\r\n\r\nIC\r\n\r\nO\r\n\r\nIBOS\r\n\r\nL\r\nE\r\n\r\nLOS CE\r\n\r\nL\r\n\r\nAL\r\n\r\nO\r\n\r\nS\r\n\r\nM\r\n\r\nA\r\n\r\nQ\r\n\r\nSED\r\n\r\nU\r\n\r\nLE\r\nS\r\n\r\nIS\r\n\r\nOL\r\n\r\nICO\r\n\r\nS M\r\n\r\nA\r\n\r\n. S\r\n\r\nV\r\nN\r\n\r\nLOS SAU\r\nCES\r\n\r\n!\"\r\n\r\n"
+ },
+ {
+  "id": "d1252",
+  "comuna": "san_antonio",
+  "nombre_documento": "4167_desafectacion_de_la_vialidad_estructurante_del_plan_regulador_comunal_de_sa",
+  "archivo": "san_antonio_4167_desafectacion_de_la_vialidad_estructurante_del_plan_regulador_comunal_de_sa__DA 4167.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\n\r\n(.MUNICIPALIDAD DE SAN ANTONIO\r\nASESORÍA URBANA - SECPIA\r\n\r\nALCALDÍA\r\n\r\nREF : DÉJESE SIN EFECTO LAS DECLARATORIAS\r\n\r\nDE\r\n\r\nUTILIDAD\r\n\r\nPÚBLICA\r\n\r\nDE\r\n\r\nLAS\r\n\r\nVÍAS\r\n\r\nESTRUCTURANTES\r\nDEL\r\nPLAN\r\nREGULADOR COMUNAL DE SAN ANTONIO\r\nQUE INDICA.\r\n\r\nSAN ANTONIO, 17 ABRIL 2015\r\n\r\nDECRETO N°: 4.167\r\nESTA ALCALDÍA DECRETO HOY LO QUE SIGUE:\r\n\r\nVISTOS:\r\n1) El Acuerdo N°07 S.E. 04/2015, adoptado en la\r\nSesión Extraordinaria N°04 de fecha 16.04.15. del H.Concejo Municipal de San Antonio,\r\nmediante el cual se aprueba desafectar la vialidad estructurante del Plan Regulador\r\nComunal de San Antonio, acorde a lo expuesto previamente por el arquitecto Asesor\r\nUrbanista Sr. Miguel Ross Rozas, quien expuso la temática de la proposición de las\r\nnóminas de vías a desafectar de sus declaratorias de utilidad pública, según lo tratado en\r\nla reunión de trabajo del Visto 2); 2) La sesión de trabajo de la Comisión de Desarrollo y\r\nOrdenamiento Territorial del H.Concejo Municipal de San Antonio, que preside el concejal\r\nSr Ricardo García Vera, realizada el martes 14 de abril del 2015, a las 18:00 horas, en la\r\ncual el arquitecto Asesor Urbanista expuso las Nóminas N°1, 2 y 3, que detallan\r\npormenorizadamente las vías propuestas a desafectar de su declaratoria de utilidad\r\npública, como asimismo una relación suscinta de los usos de suelo que se asimilaran a\r\nlas de las zonas predominantes de las adyacentes a los terrenos de las vías desafectadas\r\npropuestas como asimismo las vías prop"
+ },
+ {
+  "id": "d1253",
+  "comuna": "san_antonio",
+  "nombre_documento": "7379_promulga_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_secto",
+  "archivo": "san_antonio_7379_promulga_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_secto__DA 7379.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 32,
+  "paginas_escaneadas": 32,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

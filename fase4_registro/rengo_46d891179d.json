@@ -1,0 +1,28 @@
+{
+  "id": "rengo_46d891179d",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_15_md_modif_no3_al_plan_regulador_comunal_zona_urbanas_de_rengo__do-20150105.pdf",
+  "rangos": [
+    [
+      7,
+      7
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "RENGO: *** CONTAMINACION CONFIRMADA: el PDF de 32p es una EDICION COMPLETA del Diario Oficial (Cuerpo I y II) ***; todo el contenido de Rengo (decreto 1610-MD, Modificacion N3 al PRC) cabe en la PAGINA 7. El resto (p1-6, p8-32) es material ajeno sin relacion (Cuerpo II con materias de otras reparticiones). En p7 la mayoria de las tablas son VIALIDAD ESTRUCTURANTE (calles, tramo, ancho, tipo), fuera de alcance. Al final de la columna derecha SI hay norma real en prosa: disminuye la superficie predial minima de 2.000 a 1.000 m2 en zona ZE, y aumenta el COS de 0,5 a 0,7 en zona ZE. Es una modificacion PUNTUAL (2 parametros, 1 zona), no el cuadro maestro completo de normas de Rengo: ese cuadro esta en otro documento (Ordenanza Local original u otras modificaciones). Verificado con grep en las 32 paginas: 'Rengo' solo aparece en p1 (sumario) y p7.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:32:30",
+  "fin": "2026-07-15T14:35:51",
+  "resultado": {
+    "archivo": "extraccion_normas\\rengo\\rengo_1610md_modificacion3_zona_ze_pag7.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmada contaminacion: PDF 32p es edicion completa DO, contenido de Rengo solo en p7. Mayoria tablas de esa pagina son vialidad estructurante, fuera de alcance. Norma real: predial minima 2000->1000 m2 y COS 0,5->0,7 en zona ZE. Cuadro maestro completo de ZE esta en otro documento, no en este decreto."
+  }
+}

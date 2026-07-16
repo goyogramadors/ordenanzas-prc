@@ -1,0 +1,20 @@
+{
+  "id": "san_fabian_8b59c61526",
+  "comuna": "san_fabian",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_fabian_ordenanza_que_aprueba_plan_regulador_de_la_comuna_de_san_fabian_vigente__22be7d60-af29-4e6c-b309-246f824a7aab.pdf",
+  "nombre": "san_fabian_ordenanza_que_aprueba_plan_regulador_de_la_comuna_de_san_fabian_vigente__22be7d60-af29-4e6c-b309-246f824a7aab.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:19:27",
+  "fin": "2026-07-15T12:54:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Confirmado: oficio de respuesta a solicitud de transparencia (Ley20285, Registro MU285T0000026) donde municipalidad responde 'se adjuntan documentos Ordenanza PRC' pero el PDF entregado es solo esta hoja de oficio, sin el anexo real. Mismo patron que otro archivo de San Fabian visto antes en la sesion."
+  }
+}

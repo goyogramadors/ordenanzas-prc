@@ -1,0 +1,20 @@
+{
+  "id": "llanquihue_1fbb1c155c",
+  "comuna": "llanquihue",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\llanquihue_acta_0_reunion_solicitada_a_traves_de_la_plataforma_de_la_ley_del_lobby_plan_reg__5ec543b2-f4ab-4fc4-8c48-982a1deed5b2.pdf",
+  "nombre": "llanquihue_acta_0_reunion_solicitada_a_traves_de_la_plataforma_de_la_ley_del_lobby_plan_reg__5ec543b2-f4ab-4fc4-8c48-982a1deed5b2.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:35:11",
+  "fin": "2026-07-15T08:36:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Acta Ley 20.730 (19.02.2019), Municipalidad de Llanquihue: registro de reunion solicitada via Plataforma Ley del Lobby sobre un proyecto inmobiliario en zona sur del area urbana, en el contexto de la actualizacion del PRC (anteproyecto). Puramente registro de reunion/audiencia, sin valores de norma urbanistica."
+  }
+}

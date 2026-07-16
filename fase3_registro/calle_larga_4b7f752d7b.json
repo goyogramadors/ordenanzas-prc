@@ -1,0 +1,25 @@
+{
+  "id": "calle_larga_4b7f752d7b",
+  "comuna": "calle_larga",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\calle_larga_decreto_dejese_establecido_que_el_expediente_del_proyecto_de_actualizacion_del_p__218.pdf",
+  "nombre": "calle_larga_decreto_dejese_establecido_que_el_expediente_del_proyecto_de_actualizacion_del_p__218.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 38,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:02:31",
+  "fin": "2026-07-14T15:25:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        18,
+        32
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CALLE LARGA: decreto que deja establecido el expediente de actualizacion del PRC; INCLUYE LA ORDENANZA LOCAL COMPLETA (Titulos 1-6). Normas por zona: pags 19-31, UNA ZONA POR PAGINA (19 ZU-C, 20 ZU-1, 21 ZU-2, 22 ZU-2A, 23 ZU-3, 24 ZU-3A, 25 ZU-4, 26 ZU-5, 27 ZU-6, 28 ZE-1, 29 ZE-2+ZE-3, 30 ZE-4/Pocuro conservacion historica, 31 ZE-5+ZAV) con antejardin, altura, agrupamiento, CC, COS, densidad bruta, subdivision predial, usos y distanciamientos. *** TABLAS APAISADAS (texto girado 90 grados) ***: pdftotext las devuelve ilegibles, la fase siguiente DEBE leerlas visualmente. Pag 18 = Cuadro 7 Nomenclatura de Zonas (decodifica las siglas, indispensable). Pag 32 anadida: Cuadros 8 y 9 (monumentos historicos e inmuebles de conservacion historica, sin parametros propios, remiten a la zona en que se localizan). 10 pags confirmadas visualmente."
+  }
+}

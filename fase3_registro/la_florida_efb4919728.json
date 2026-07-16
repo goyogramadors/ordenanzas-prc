@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_efb4919728",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_832_enmienda_al_plan_regulador_comunal_zona_esp_2__Exportar.pdf",
+  "nombre": "la_florida_832_enmienda_al_plan_regulador_comunal_zona_esp_2__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:47:03",
+  "fin": "2026-07-14T15:48:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LA FLORIDA: Decreto 832 exento (2007, BCN LeyChile, 3p), 'Enmienda al PRC Zona Especial 2' para el PROYECTO HOSPITAL DE LA FLORIDA. Norma en pag 2, EN TEXTO PLANO (no imagen, cero delatores): enmienda el art 41 'Zonas con Normas Conjuntas', numeral 3.2, zona ESP-2 (Terrenos Consultorio), reemplazando el coeficiente de ocupacion de suelo por 0,84, el coeficiente de constructibilidad por 2,53 y la altura maxima por 15,12 m. Afecta solo a la zona ESP-2."
+  }
+}

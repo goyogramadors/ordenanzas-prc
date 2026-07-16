@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_c2e012a84a",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_1364_promulga_enmienda_al_plan_regulador_comunal_de_chiguayante_2004__DECRETO 1364 2004 .pdf",
+  "nombre": "chiguayante_1364_promulga_enmienda_al_plan_regulador_comunal_de_chiguayante_2004__DECRETO 1364 2004 .pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:07:46",
+  "fin": "2026-07-14T15:26:13",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Pagina del Diario Oficial (escaneo OCR) que mezcla avisos ajenos. La enmienda de Chiguayante ocupa un bloque corto: agrega inciso 2 al art.11 de la Ordenanza -> la DOM puede rebajar hasta 100% la exigencia de ANTEJARDINES en obras afectadas por proyectos de infraestructura vial. Norma en prosa, sin cuadro. OCR pegotea las palabras."
+  }
+}

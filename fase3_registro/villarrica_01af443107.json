@@ -1,0 +1,25 @@
+{
+  "id": "villarrica_01af443107",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_resolucion_1_modifica_plan_regulador_de_villarrica__modificacion_ordenanza_local_1998.pdf",
+  "nombre": "villarrica_resolucion_1_modifica_plan_regulador_de_villarrica__modificacion_ordenanza_local_1998.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:35:11",
+  "fin": "2026-07-14T21:36:04",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        9
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "modificación ordenanza local PRC Villarrica 1998: pág5-9 zonas ZH-1, ZH-2, ZH-3, ZEE, ZNE, ZRp, ZR-1B, ZPF con usos de suelo + condiciones subdivisión/edificación completas (superficie predial mín, % ocupación, coef. construcción, densidad); texto nativo"
+  }
+}

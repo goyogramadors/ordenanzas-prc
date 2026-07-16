@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_39f79c8ed2",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_r5.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Zona R5 - Zona Habitacional Norte. Cuadro usos de suelo (equipamiento escala vecinal, pag 1) y Normas Especificas para vivienda (pag 2): superficie predial minima 800m2, frente 20m, agrupamiento aislado, COS 0.2, CC 0.5, altura maxima 9m, densidad bruta maxima 50 hab/ha, distanciamiento 3m, antejardin 5m.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T17:54:53",
+  "fin": "2026-07-15T17:57:20",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_r5_habitacional_norte.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "R5"
+    ],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO de contenido con penalolen_mprc2005_antupiren (mismos valores exactos: predial 800m2, COS 0,2, CC 0,5, altura 9m, densidad 50hab/ha). Documento propio (ficha vs decreto), registrado por separado segun regla 1doc=1md."
+  }
+}

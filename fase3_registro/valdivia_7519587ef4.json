@@ -1,0 +1,20 @@
+{
+  "id": "valdivia_7519587ef4",
+  "comuna": "valdivia",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\valdivia_1202331_inicio_procedimiento_eae_modificaciones_puntuales_al_plan_regulador_comu__Pub12042017.pdf",
+  "nombre": "valdivia_1202331_inicio_procedimiento_eae_modificaciones_puntuales_al_plan_regulador_comu__Pub12042017.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:33:55",
+  "fin": "2026-07-14T21:36:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "VALDIVIA: Diario Oficial 12-abr-2017 (2p), Inicio del procedimiento de Evaluacion Ambiental Estrategica para dos futuras modificaciones puntuales al PRC (poblacion Los Jazmines y poblacion Arturo Prat, ambas para permitir uso residencial). Es tramite de inicio, las modificaciones aun no existen como norma: solo se anuncia el objetivo y la memoria explicativa preliminar. Sin valores ni tablas."
+  }
+}

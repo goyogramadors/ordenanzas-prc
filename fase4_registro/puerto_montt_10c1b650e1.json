@@ -1,0 +1,26 @@
+{
+  "id": "puerto_montt_10c1b650e1",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_124_apruebese_la_actualizacion_al_plan_regulador_comunal_de_puerto_montt_comuna___Exportar.pdf",
+  "rangos": [
+    [
+      5,
+      6
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Texto consolidado LeyChile/BCN Res.124/2009 aprueba PRC Puerto Montt. Titulo VI Art.35-38 pag16-24 lista catalogo de zonas (C,CB,R1-R4,AP,ZEUC,BC,ZOIT,ZCH,RE,AV,L,AI,RI,IE) pero la tabla numerica por zona (COS,coef.constructibilidad,altura,densidad,agrupamiento,superficie predial) NO esta en el PDF: cada zona remite a 'VER DIARIO OFICIAL 12.11.2009 PAGINA X' (~15 veces, norma inalcanzable, verificado pdfimages -list sin tablas escaneadas ocultas, solo logo repetido). SI hay normas puntuales reales para usos especiales en pag5-6: Art.11 centros servicio automotor y Art.11.2 talleres/bodegas, con COS, superficie predial y agrupamiento -no es tabla por zona pero trae parametros normativos reales, se registra por generosidad.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:01:20",
+  "fin": "2026-07-15T18:04:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\puerto_montt\\puerto_montt_124_normas_especiales_pag5-6.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "CONFIRMADO: catalogo de zonas (Titulo VI, ~15 zonas) remite a DO 12-nov-2009 no digitalizado, norma inalcanzable. Este rango (p5-6) solo trae normas de aplicacion general (art 9-16): servicentros (predial 800m2, COS 0,4), talleres/bodegas (predial 500m2, ocupacion 50%), clasificacion bodegaje/equipamiento. Sin zona especifica. Reportar a fase siguiente: catalogo de zonas de Puerto Montt (Res.124/2009) requiere DO 12-nov-2009."
+  }
+}

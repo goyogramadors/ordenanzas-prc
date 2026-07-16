@@ -1,0 +1,25 @@
+{
+  "id": "santiago_c8ba8ccf1a",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_2721_establece_normas_urbanisticas_mediante_la_asignacion_de_zonas_del_plan_regu__DEC SECC 2da. 2721.pdf",
+  "nombre": "santiago_2721_establece_normas_urbanisticas_mediante_la_asignacion_de_zonas_del_plan_regu__DEC SECC 2da. 2721.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:56:41",
+  "fin": "2026-07-15T12:58:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        10
+      ]
+    ],
+    "paginas_utiles": 10,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Secc.2da N2721, 11-ago-2010, Santiago, 10 pags. 'Establece normas urbanisticas mediante la asignacion de zonas del Plan Regulador Comunal de Santiago, a los predios cuya declaratoria de utilidad publica... caducaron el 12-feb-2010' (mecanismo de reasignacion de zona tras caducidad art.59 LGUC, leyes 19939/20331). Tabla completa 'N, Direcciones Municipales, Zona PRCS' que asigna decenas de predios/tramos especificos a zonas existentes (Zona A, B, D, E, G y Sectores Especiales como B10 Moneda-Bulnes-Chacabuco, E2 Avda Isabel Riquelme, D Sector Club Hipico, Zona Tipica Barrio Civico-Eje Bulnes-Parque Almagro), determinando que normas de edificacion/usos de suelo les aplican. Tabla continua en las 10 paginas. Verificado visualmente paginas 1,4,7,10 de 10."
+  }
+}

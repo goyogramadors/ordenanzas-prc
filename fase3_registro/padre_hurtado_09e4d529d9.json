@@ -1,0 +1,20 @@
+{
+  "id": "padre_hurtado_09e4d529d9",
+  "comuna": "padre_hurtado",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\padre_hurtado_2764_modificacion_plan_regulador__do-20150710.pdf",
+  "nombre": "padre_hurtado_2764_modificacion_plan_regulador__do-20150710.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 96,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:07:59",
+  "fin": "2026-07-14T21:12:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Edicion completa Diario Oficial (96 pags = Cuerpo I + Cuerpo II + Propiedad Industrial). Padre Hurtado aparece SOLO en p20: Decreto Alcaldicio 2764/2015 'Asignacion de nuevas normas urbanisticas' a un tramo liberado de declaratoria de utilidad publica (calle Rio Aconcagua). El cuadro (imagen) solo tiene columnas Via/Tramo/Ancho/ZONA ASIGNADA ('Zona A'), es decir es de VIALIDAD + reasignacion de zona, SIN parametros (usos, COS, CC, altura, agrupamiento, antejardin, densidad). El propio decreto remite al art.4.3.1 de la Ordenanza vigente (2004/2005, otro documento) para los parametros reales de Zona A -- esa ordenanza es padre_hurtado_b291127d0a (ya registrada, contiene ZONA A en p8)."
+  }
+}

@@ -1,0 +1,950 @@
+[
+ {
+  "id": "d0218",
+  "comuna": "puerto_montt",
+  "nombre_documento": "2028_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt_sector_feria_pad",
+  "archivo": "puerto_montt_2028_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt_sector_feria_pad__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 2,
+   "altura_maxima": 1,
+   "agrupamiento": 4,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 3,
+   "articulado": 15
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2028 EXENTO, PUERTO MONTT (2002)\r\n\r\nDecreto 2028 EXENTO; Decreto 2028-2\r\nEXENTO\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT,\r\nSECTOR FERIA PADRE HURTADO\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nFecha Publicación: 16-MAY-2002 | Fecha Promulgación: 04-ABR-2002\r\nTipo Versión: Única De : 16-MAY-2002\r\nUrl Corta: https://bcn.cl/3mago\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT, SECTOR FERIA PADRE\r\nHURTADO\r\nNúm. 2.028-2 exento.- Puerto Montt, 4 de abril de 2002.- Vistos: Lo establecido\r\nen la ley Nº 18.695 Orgánica Constitucional de Municipalidades, modificada por la\r\nley Nº 19.602 de 1999; lo dispuesto en los artículos 43, 44 y 45 del D.F.L. 458\r\n(Minvu), Ley General de Urbanismo y Construcciones; lo indicado en el artículo\r\n2.1.13. de la Ordenanza General de Urbanismo y Construcciones, D.S. Nº 47 Ministerio\r\nde Vivienda y Urbanismo y;\r\nTeniendo presente:\r\n1.- El Plan Regulador Comunal de Puerto Montt, aprobado por resolución Nº 6\r\ndel 08.03.90 del Secretario Regional Ministerial de Vivienda y Urbanismo X Región y\r\npublicado en el Diario Oficial con fecha 23 de mayo de 1990.\r\n2.- El Plano código PRC-PMO-M-03-2001, Enmienda Plan Regulador Comunal de\r\nPuerto Montt, sector Feria Padre Hurtado, y su Memoria Explicativa Complementaria, de\r\nfecha 27 de julio 2001, elaborados por el Asesor Urbanista.\r\n3.- Las publicaciones del Aviso a la Comunidad, relativas a la exposición de la\r\nEnmienda propuesta, en el Diario El Llanquihue, los días viernes 5 de octubr"
+ },
+ {
+  "id": "d0219",
+  "comuna": "puerto_montt",
+  "nombre_documento": "proceso_participativo_plan_regulador_comunal_prc",
+  "archivo": "puerto_montt_proceso_participativo_plan_regulador_comunal_prc__411334b8-5b3e-42b4-bacd-911b22733397.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 25,
+  "paginas_escaneadas": 25,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0875",
+  "comuna": "puerto_montt",
+  "nombre_documento": "124_apruebese_la_actualizacion_al_plan_regulador_comunal_de_puerto_montt_comuna",
+  "archivo": "puerto_montt_124_apruebese_la_actualizacion_al_plan_regulador_comunal_de_puerto_montt_comuna___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 25,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 3,
+   "altura_maxima": 1,
+   "agrupamiento": 6,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 3,
+   "distanciamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 15,
+   "ordenanza_local_txt": 3,
+   "articulado": 21,
+   "limite_urbano": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (predial_minima, altura_maxima, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Resolución 124 AFECTA (2009)\r\n\r\nResolución 124 AFECTA\r\nAPRUEBA ACTUALIZACIÓN PLAN REGULADOR DE PUERTO MONTT\r\nGOBIERNO REGIONAL X REGIÓN DE LOS LAGOS\r\nFecha Publicación: 12-NOV-2009 | Fecha Promulgación: 20-OCT-2009\r\nTipo Versión: Última Versión De : 25-OCT-2016\r\nUltima Modificación: 25-OCT-2016 Decreto 13945 EXENTO\r\nUrl Corta: https://bcn.cl/3l0x0\r\n\r\nAPRUEBA ACTUALIZACIÓN PLAN REGULADOR DE PUERTO MONTT\r\nNúm. 124 afecta.- Puerto Montt, 20 de octubre de\r\n2009.- Vistos:\r\na) El oficio Nº 006916, de fecha 01/09/2009, de la\r\nContraloría Regional de Los Lagos, que devuelve sin\r\ntramitar la Res. Afecta Nº 95/2009, de este Gobierno\r\nRegional, que aprueba la Actualización del Plano Regulador\r\nde Puerto Montt, por las razones que allí se indican;\r\nb) El Decreto Exento Nº 9361, de fecha 02/10/2009, de\r\nla I. Municipalidad de Puerto Montt, por el cual se promulga\r\nla Actualización del Plan Regulador Comunal de Puerto\r\nMontt;\r\nc) La Resolución Exenta Nº 1198, de fecha 18/08/2009,\r\nde la Seremi de Vivienda y Urbanismo, por la cual aprueba\r\nInforme Técnico complementario, de fecha 14/08/2009, que\r\ninforma que la proposición de Actualización del Plano\r\nRegulador Comunal de Puerto Montt, se ajusta a lo señalado\r\nen la Ordenanza General de Urbanismo y Construcción;\r\nd) El Certificado Nº 137, de 08/10/09 del Secretario\r\nEjecutivo del CORE, que informa que en la sesión ordinaria\r\nNº 19, celebrada con fecha 07/10/09, el Consejo Regional de\r\nLos Lagos, aprobó la versión final del expediente complet"
+ },
+ {
+  "id": "d0876",
+  "comuna": "puerto_montt",
+  "nombre_documento": "13945_promulga_la_aprobacion_de_enmienda_al_plan_regulador_comunal_de_puerto_mon",
+  "archivo": "puerto_montt_13945_promulga_la_aprobacion_de_enmienda_al_plan_regulador_comunal_de_puerto_mon__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 13945 EXENTO, PUERTO MONTT (2016)\r\n\r\nDecreto 13945 EXENTO\r\nPROMULGA LA APROBACIÓN DE ENMIENDA AL PLAN REGULADOR COMUNAL\r\nDE PUERTO MONTT\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nFecha Publicación: 25-OCT-2016 | Fecha Promulgación: 22-SEP-2016\r\nTipo Versión: Única De : 25-OCT-2016\r\nUrl Corta: https://bcn.cl/3lu5n\r\n\r\nPROMULGA LA APROBACIÓN DE ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT\r\nNúm. 13.945 exento.- Puerto Montt, 22 de septiembre de 2016.\r\nVistos:\r\nLo establecido en la Ley N° 18.695 Orgánica Constitucional de Municipalidades,\r\nlo dispuesto en los artículos 42, 43, 44 y 45 del DFL N° 458, del Ministerio de\r\nVivienda y Urbanismo, Ley General de Urbanismo y Construcciones, y los Artículos\r\n2.1.10. y 2.1.11. y 2.1.13. del DS N° 47, Ordenanza General de Urbanismo y\r\nConstrucciones.\r\nTeniendo presente:\r\n1.- La Actualización del Plan Regulador Comunal de Puerto Montt, promulgada por\r\nresolución afecta N° 95 del 19.08.2009 del Gobierno Regional de Los Lagos y\r\npublicada en el Diario Oficial con fecha 12.11.2009.\r\n2.- El Plano Seccional Circunvalación Avenida Presidente Ibáñez Costanera\r\nPuerto Montt, promulgado por decreto exento N° 1.858 del 11.02.2011.\r\n3.- El decreto exento N° 2.183 del 16.02.2016, que instruye elaborar una\r\nEnmienda al Plan Regulador Comunal, que altere las condiciones de edificación y\r\nurbanización, de acuerdo al art. 45 de la LGUC y al art. 2.1.13 de la OGUC.\r\n4.- El Certificado del Secretario Municipal N° 200, del 08.06.2016 que da\r\ncuenta del acue"
+ },
+ {
+  "id": "d0877",
+  "comuna": "puerto_montt",
+  "nombre_documento": "575_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt",
+  "archivo": "puerto_montt_575_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "predial_minima": 4,
+   "altura_maxima": 4,
+   "densidad": 2,
+   "agrupamiento": 16,
+   "antejardin": 2,
+   "rasante": 2,
+   "adosamiento": 2,
+   "distanciamiento": 2,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 1,
+   "articulado": 13,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZR-3",
+   "ZR-5"
+  ],
+  "puntaje_normativo": 16,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 575 EXENTO, PUERTO MONTT (2006)\r\n\r\nDecreto 575 EXENTO\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nPublicación: 11-FEB-2006 | Promulgación: 25-ENE-2006\r\nVersión: Última Versión De : 03-MAR-2006\r\nUltima Modificación: 03-MAR-2006 Aviso S/N\r\nUrl Corta: https://bcn.cl/3qu48\r\n\r\nNúm. 575 exento.- Puerto Montt, 25 de enero de 2006.Vistos: Lo dispuesto en el artículo Nº 45 del DFL Nº 458\r\nde 1976 del Ministerio de Vivienda y Urbanismo \"Ley General\r\nde Urbanismo y Construcciones\", el artículo Nº 2.1.13 del\r\nDS Nº 47 de 1992, \"Ordenanza General de Urbanismo y\r\nConstrucciones\"; la ley Nº 18.695 Orgánica Constitucional\r\nde Municipalidades de 1988, modificada por ley Nº 19.602,\r\nde 1999 y\r\nTeniendo presente:\r\n1.- El Plan Regulador Comunal de Puerto Montt, aprobado\r\npor resolución Nº 6 del 8 de marzo de 1990 del Secretario\r\nRegional Ministerial de Vivienda y Urbanismo X Región y\r\npublicado en el Diario Oficial del 23 de mayo de 1990.\r\n2.- Enmienda Plan Regulador Comunal de Puerto Montt,\r\nplano código PRC-PMO-E-03-2005, sector camino a Chin Chin,\r\nMemoria Explicativa Complementaria y Ordenanza.\r\n3.- El Ord. 4.837/DDUE3 Nº 1.700 del 4 de noviembre de\r\n2004 de la Secretaría Regional Ministerial de Vivienda y\r\nUrbanismo X Región de Los Lagos.\r\n4.- El informe técnico Nº 3 de mayo de 2005.\r\n5.- El texto del aviso a la comunidad.\r\n6.- Las dos publicaciones del aviso a la comunidad en\r\nel diario El Llanquihue.\r\n7.- Los certificados del Secreta"
+ },
+ {
+  "id": "d0878",
+  "comuna": "puerto_montt",
+  "nombre_documento": "5850_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt",
+  "archivo": "puerto_montt_5850_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 5850 EXENTO, PUERTO MONTT (2002)\r\n\r\nDecreto 5850 EXENTO\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nFecha Publicación: 13-NOV-2002 | Fecha Promulgación: 31-OCT-2002\r\nTipo Versión: Única De : 13-NOV-2002\r\nUrl Corta: https://bcn.cl/3qon1\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT\r\nNúm. 5.850 exento.- Puerto Montt, 31 de octubre de 2002.- Vistos: Lo\r\nestablecido en la ley Nº18.695 Orgánica Constitucional de Municipalidades,\r\nmodificada por la ley Nº19.602 de 1999; lo dispuesto en los artículos 43, 44 y 45\r\ndel DFL 458 (Minvu), Ley General de Urbanismo y Construcciones; lo indicado en el\r\nartículo 2.1.13. de la Ordenanza General de Urbanismo y Construcciones, DS Nº47\r\nMinisterio de Vivienda y Urbanismo, y\r\nTeniendo presente:\r\n1.- El Plan Regulador Comunal de Puerto Montt, aprobado por resolución Nº 6\r\ndel 08.03.90 del Secretario Regional Ministerial de Vivienda y Urbanismo X Región y\r\npublicado en el Diario Oficial con fecha 23 de mayo de 1990.\r\n2.- El Plano código PRC-PMO- M-04-2001, Enmienda Plan Regulador Comunal de\r\nPuerto Montt, sector Mirasol, y su Memoria Explicativa Complementaria, elaborados por\r\nel Asesor Urbanista.\r\n3.- El Informe Técnico Nº04 de fecha 2 de enero de 2002, del Asesor Urbanista.\r\n4.- El decreto exento Nº021, de publicación del Aviso a la Comunidad, de fecha\r\n3 de enero 2002.\r\n5.- El texto del Aviso a la Comunidad.\r\n6.- Las publicaciones del Aviso a la Comunidad, relativas a la exp"
+ },
+ {
+  "id": "d0879",
+  "comuna": "puerto_montt",
+  "nombre_documento": "749_notifica_expropiacion_de_terreno_para_la_ejecucion_plan_regulador",
+  "archivo": "puerto_montt_749_notifica_expropiacion_de_terreno_para_la_ejecucion_plan_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 749, PUERTO MONTT (2000)\r\n\r\nDecreto 749\r\nNOTIFICA EXPROPIACION\r\nREGULADOR\r\n\r\nDE\r\n\r\nTERRENO\r\n\r\nPARA\r\n\r\nEJECUCION\r\n\r\nPLAN\r\n\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nPublicación: 01-MAR-2000 | Promulgación: 09-FEB-2000\r\nVersión: Única De : 01-MAR-2000\r\nUrl Corta: https://bcn.cl/3q7gf\r\n\r\nNOTIFICA EXPROPIACION DE TERRENO PARA EJECUCION PLAN REGULADOR\r\nPor decreto de la Municipalidad de Puerto Montt Nº749, de 9 de febrero de 2000\r\ny en base a la facultad otorgada por el artículo 29 de la ley 18.695, Orgánica\r\nConstitucional de Municipalidades, se expropiaron los lotes de terreno C-1 y D-1\r\nubicados en la ciudad de Puerto Montt, para la obra ''Ejecución Plan Regulador\r\nComunal Puerto Montt, específicamente apertura calle Sector Angelmó, comuna de\r\nPuerto Montt'', que figura a nombre de Rodrigo Sanz Díaz, el primero y de Luis\r\nErnesto Sanz Hein, María Eugenia Sanz Hein, Doris Jasna Sanz Hein y Rodrigo Carlos\r\nSanz Hein, el segundo; roles de avalúo 590-9 y 590-14, comuna de Puerto Montt, de\r\nuna superficie de 371 mt2. y 1.279 mt2., respectivamente. La Comisión de Peritos\r\ncompuesta por Glinis Correa Muñoz, Waldemar Enrique Winkler Hechenleitner y Enrique\r\nEdgardo Hoelck Altmann fijó el 18 de enero de 2000, los valores provisionales de las\r\nindemnizaciones por las cantidades de $66.727.960 para el lote C-1 y de $230.040.595,\r\npara el lote D-1. Las indemnizaciones se pagarán al contado. La publicación se\r\nefectúa en cumplimiento a lo dispuesto en el art. 7 del decreto ley Nº2.186, de\r\n19"
+ },
+ {
+  "id": "d0880",
+  "comuna": "puerto_montt",
+  "nombre_documento": "8187_aprueba_modificacion_al_plan_regulador_comunal",
+  "archivo": "puerto_montt_8187_aprueba_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 1,
+   "altura_maxima": 2,
+   "agrupamiento": 8,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 8187 EXENTO, PUERTO MONTT (2007)\r\n\r\nDecreto 8187 EXENTO\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nPublicación: 08-ENE-2008 | Promulgación: 12-NOV-2007\r\nVersión: Única De : 08-ENE-2008\r\nUrl Corta: https://bcn.cl/3nb26\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nNúm. 8.187 exento.- Puerto Montt, 12 de noviembre de 2007.- Vistos: Lo\r\ndispuesto en el artículo Nº 45 de la Ley Nº 458 de 1976 del Ministerio de\r\nUrbanismo y Construcciones, lo señalado en la Ordenanza General de Urbanismo y\r\nConstrucciones; en los artículos 2.1.12, 2.1.13 y 2.1.14, número 5, letras a, b, c\r\ny d, y a lo dispuesto en la Ley Nº 18.695 Orgánica Constitucional de\r\nMunicipalidades de 1988, modificada por la Ley Nº 19.602 de 1.999 y\r\nTeniendo presente:\r\n1.- El Plan Regulador Comunal de Puerto Montt, aprobado por resolución Nº 6,\r\nde 1990, del Secretario Regional Ministerial de Vivienda y Urbanismo Región de Los\r\nLagos, publicado en el Diario Oficial de fecha 23 de mayo de 1990.\r\n2.- El Plano código PRC-PMO-M-01/2.007, Enmienda Plan Regulador Comunal de\r\nPuerto Montt, sector Fresia-Tepual y Memoria Explicativa complementaria.\r\n3.- El Informe favorable del Asesor Urbanista de fecha 3 de septiembre de 2007.\r\n4.- El Acta de Nº 29 de fecha 28 de septiembre de 2007 de la Sesión Ordinaria\r\ndel Concejo Municipal, que en su acuerdo Nº 5 aprueba la enmienda al Plan Regulador\r\nComunal de Puerto Montt.\r\nDecreto:\r\n5.- Apruébase: La Modificación al Plan Regulador Comuna"
+ },
+ {
+  "id": "d0881",
+  "comuna": "puerto_montt",
+  "nombre_documento": "967_aprueba_enmienda_plan_regulador_comunal",
+  "archivo": "puerto_montt_967_aprueba_enmienda_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 967 EXENTO, PUERTO MONTT (1995)\r\n\r\nDecreto 967 EXENTO\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nFecha Publicación: 14-JUN-1995 | Fecha Promulgación: 23-MAR-1995\r\nTipo Versión: Única De : 14-JUN-1995\r\nUrl Corta: https://bcn.cl/3lzq2\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL Núm. 967 exento.- Puerto Montt, 23 de\r\nMarzo de 1995.- Vistos: Lo dispuesto en el Artículo 45 del D.F.L. 458 de 1976 Ley\r\nGeneral de Urbanismo y Construcciones, y sus modificaciones posteriores; el Art.\r\n2.1.8. de la Ordenanza General de Urbanismo y Construcciones; el D.S.\r\nN° 47 de Vivienda y Urbanismo de 1992 y sus modificaciones posteriores; el Plan\r\nRegulador Comunal de Puerto Montt, aprobado por resolución N° 6 del 8 de marzo de\r\n1990 del Secretario Regional Ministerial de Vivienda y Urbanismo X Región y\r\npublicado en el Diario Oficial del 23 de Mayo de 1990; y las facultades que me\r\nconfiere la Ley N° 18.695 de 1988, Orgánica Constitucional de Municipalidades; y\r\nTeniendo presente:\r\na) El Loteo del Conjunto Habitacional Puerta del Sol aprobado y recibido por la\r\nMunicipalidad, según Permiso de Loteo N° 11 del 5 de Diciembre de 1989, modificado\r\npor el Permiso N° 1 del 13 de Marzo de 1991, que define un terreno particular\r\nubicado en la zona A-2 destinado a equipamiento, cuyas superficies y deslindes son:\r\n-Superficie: 3.489,88 Mts.2\r\n-Deslindes: Norte, en 47,74 Mts. con Avda. Cuarta Terraza\r\nEste, 99,22 Mts. con calle Mañihual.\r\nSur, en 36,50 Mts, con Pje."
+ },
+ {
+  "id": "d0882",
+  "comuna": "puerto_montt",
+  "nombre_documento": "decreto_exento_promulga_la_aprobacion_de_enmienda_al_plan_regulador_comunal_de_p",
+  "archivo": "puerto_montt_decreto_exento_promulga_la_aprobacion_de_enmienda_al_plan_regulador_comunal_de_p__Decreto-13945-EXENTO_25-OCT-2016.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 13945 EXENTO, PUERTO MONTT (2016)\r\n\r\nDecreto 13945 EXENTO\r\nPROMULGA LA APROBACIÓN DE ENMIENDA AL PLAN REGULADOR COMUNAL\r\nDE PUERTO MONTT\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nFecha Publicación: 25-OCT-2016 | Fecha Promulgación: 22-SEP-2016\r\nTipo Versión: Única De : 25-OCT-2016\r\nUrl Corta: https://bcn.cl/2g93s\r\n\r\nPROMULGA LA APROBACIÓN DE ENMIENDA AL PLAN REGULADOR COMUNAL DE PUERTO MONTT\r\nNúm. 13.945 exento.- Puerto Montt, 22 de septiembre de 2016.\r\nVistos:\r\nLo establecido en la Ley N° 18.695 Orgánica Constitucional de Municipalidades,\r\nlo dispuesto en los artículos 42, 43, 44 y 45 del DFL N° 458, del Ministerio de\r\nVivienda y Urbanismo, Ley General de Urbanismo y Construcciones, y los Artículos\r\n2.1.10. y 2.1.11. y 2.1.13. del DS N° 47, Ordenanza General de Urbanismo y\r\nConstrucciones.\r\nTeniendo presente:\r\n1.- La Actualización del Plan Regulador Comunal de Puerto Montt, promulgada por\r\nresolución afecta N° 95 del 19.08.2009 del Gobierno Regional de Los Lagos y\r\npublicada en el Diario Oficial con fecha 12.11.2009.\r\n2.- El Plano Seccional Circunvalación Avenida Presidente Ibáñez Costanera\r\nPuerto Montt, promulgado por decreto exento N° 1.858 del 11.02.2011.\r\n3.- El decreto exento N° 2.183 del 16.02.2016, que instruye elaborar una\r\nEnmienda al Plan Regulador Comunal, que altere las condiciones de edificación y\r\nurbanización, de acuerdo al art. 45 de la LGUC y al art. 2.1.13 de la OGUC.\r\n4.- El Certificado del Secretario Municipal N° 200, del 08.06.2016 que da\r\ncuenta del acue"
+ },
+ {
+  "id": "d0883",
+  "comuna": "puerto_montt",
+  "nombre_documento": "orden_general_ordenanza_local_prc_pmo_el_texto_de_la_ordenanza_local_de_la_plan",
+  "archivo": "puerto_montt_orden_general_ordenanza_local_prc_pmo_el_texto_de_la_ordenanza_local_de_la_plan___Ordenanza-Local-incorpora-enmienda.pdf_1767705534568.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 114,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "ordenanza_local_txt": 8,
+   "articulado": 1,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ORDENANZA LOCAL PRC-PMO\r\n\r\nORDENANZA LOCAL PRC-PMO\r\nINCORPORA ALTERACIONES DE LAS NORMAS URBANISTICAS CORRESPONDIENTES\r\nA LA ENMIENDA PUBLICADA EN EL D.O. el 25.10.2016\r\n\r\nMUNICIPALIDAD DE PUERTO MONTT\r\nSECRETARIA COMUNAL DE PLANIFICACIÓN\r\nDEPARTAMENTO DE DESARROLLO URBANO\r\n\r\n1\r\n\r\n\fORDENANZA LOCAL PRC-PMO\r\n\r\nEl texto de la Ordenanza Local de la Plan Regulador Comunal de Puerto\r\nMontt, que incorpora las alteraciones a las normas de edificación y\r\nurbanización, resultantes de la Enmienda es el siguiente:\r\nTÍTULO I\r\nLÍMITE URBANO\r\nARTÍCULO\r\n1\r\n\r\n2\r\n\r\n3\r\n\r\n4\r\n\r\n5\r\n\r\n6\r\n\r\n7\r\n\r\n1\r\nDescripción\r\nCoordenadas:\r\nE=663.461,65; N=5.399.726\r\nSe localiza a 1.717 m. al sur de\r\nla intersección de avenida\r\nChinquihue\r\ncon\r\navenida\r\nPanitao Bajo, sobre la línea de\r\nplaya; marea alta.\r\nCoordenadas:\r\nE=663.263,61; N=5.399.735,67\r\nSe ubica a 196 m. al poniente\r\ndel vértice 1 sobre la cota 25\r\ns.n.m.\r\nCoordenadas:\r\nE=662.957,61; N=5.399.753,04\r\nSe ubica a 331 m. al poniente\r\ndel vértice 2 sobre la cota 75\r\ns.n.m.\r\nCoordenadas:\r\nE=658.729,30; N=5.400.516,81\r\nSe ubica a 4.295 m. al\r\nponiente del vértice 3 sobre el\r\neje del Río Trapén.\r\nCoordenadas:\r\nE=658.916,86; N=5.401.165,83\r\nSe ubica a 695 m. al norte del\r\nvértice 4 sobre la intersección\r\ndel eje del Río Trapén con eje\r\ncamino público V-819 a Los\r\nPinis.\r\nCoordenadas:\r\nE=666.696,86; N=5.406.211,75\r\nSe ubica a 9.279 m. al\r\nnororiente del vértice 5 y a 50\r\nm. al sur del eje de la Ruta 5\r\nSur, sobre la línea de cierro.\r\nCoordenadas:\r\nE=666.205,54; N"
+ },
+ {
+  "id": "d0884",
+  "comuna": "puerto_montt",
+  "nombre_documento": "ordenanza_plan_regulador_comunal_puerto_montt",
+  "archivo": "puerto_montt_ordenanza_plan_regulador_comunal_puerto_montt__ordenanza Plan Regulador Comunal 2008.pdf_1572350811605.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 146,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "antejardin": 2,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 4,
+   "articulado": 86,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZOIT"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ORDENANZA\r\n\r\nLOCAL\r\n\r\nPLAN REGULADOR COMUNAL\r\nP U E R T O M O N T T\r\n2008\r\n\r\n\fO R D E N A N Z A\r\n\r\nL O C A L\r\n\r\nÍNDICE\r\nTÍTULO I\r\nDISPOSICIONES GENERALES\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\nARTÍCULO\r\n\r\n1:\r\n2:\r\n3:\r\n4:\r\n5:\r\n6:\r\n7:\r\n8:\r\n9:\r\n\r\nGeneralidades\r\nAlcances de la Ordenanza\r\nÁrea territorial normada por el PRC-PMO-08\r\nMaterias que regula esta Ordenanza Local\r\nPrecisión del Instrumento: Planos Seccionales\r\nControl de la aplicación de la norma\r\nDenuncia a las infracciones\r\nSanciones a la inobservancia\r\nCompetencia judicial\r\n\r\nTÍTULO II\r\nLÍMITE URBANO\r\nARTÍCULO 10: Criterios generales del límite urbano\r\nARTÍCULO 11: Descripción del límite urbano\r\n\r\nTÍTULO III\r\nDEFINICIONES Y NORMAS GENERALES\r\nCAPÍTULO 1\r\nDEFINICIONES\r\nARTÍCULO 12: Definición de términos\r\nCAPÍTULO 2\r\nNORMAS GENERALES DE USOS DE SUELO\r\nARTÍCULO 13:\r\nARTÍCULO 14:\r\nARTÍCULO 15:\r\nARTÍCULO 16:\r\nARTÍCULO 17:\r\nARTÍCULO 18:\r\nARTÍCULO 19:\r\nARTÍCULO 20:\r\nARTÍCULO 21:\r\nARTÍCULO 22:\r\nARTÍCULO 23:\r\n\r\nMarco Legal referencial\r\nUso de Suelo y entrega de Patentes\r\nInobservancia de las normas ambientales\r\nUsos condicionados a anchos o categorías viales\r\nUsos condicionados a superficies prediales mínimas\r\nCambios de destino\r\nCondición de dimensión para Conjunto Armónico\r\nPredios remanentes de densificación\r\nUso preferente de vivienda en pasajes\r\nUsos de Suelo prohibidos y sólo existentes\r\nUsos de Suelo permitidos\r\n\r\n23.1 Residencial\r\n23.2 Equipamiento\r\n23.3 Actividades Productivas\r\n"
+ },
+ {
+  "id": "d1231",
+  "comuna": "puerto_montt",
+  "nombre_documento": "decreto_exento_se_promulga_la_modificacion_n1_del_plan_comunal_de_inversiones_en",
+  "archivo": "puerto_montt_decreto_exento_se_promulga_la_modificacion_n1_del_plan_comunal_de_inversiones_en__DECRETO EXENTO 6389.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0885",
+  "comuna": "puerto_varas",
+  "nombre_documento": "2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas",
+  "archivo": "puerto_varas_2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 18,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 9,
+   "articulado": 10,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 2, VIVIENDA (1990)\r\n\r\nResolución 2\r\nAPRUEBA PLAN REGULADOR COMUNAL DE PUERTO VARAS\r\nMINISTERIO DE VIVIENDA Y URBANISMO; SECRETARÍA REGIONAL\r\nMINISTERIAL X REGIÓN DE LOS LAGOS\r\nPublicación: 08-MAR-1990 | Promulgación: 09-ENE-1990\r\nVersión: Última Versión De : 24-JUL-2025\r\nTexto derogado: 24-JUL-2025;Resolución-44\r\nUltima Modificación: 24-JUL-2025 Resolución 44\r\nUrl Corta: https://bcn.cl/3ID1i2\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE PUERTO VARAS (Resolución)\r\nPuerto Montt, 09 de Enero de 1990.- Con esta fecha se ha dictado lo siguiente:\r\nNúm. 2.- Vistos:\r\na) Lo dispuesto en los Decretos Leyes No. 575 de 1974 y 1.305 de 1975;\r\nb) El DS No. 46.(V. y U.), del 21.04.85, que nombra al infrascrito Secretario\r\nRegional Ministerial para la Décima Región.\r\nc) Lo dispuesto en los Artículos 4°, 42°, 43°, 44°, 53\" y 54 del DFL 458 (V. y\r\nU.) \"Ley General de Urbanismo y Construcciones\", modificado por la Ley No. 18.738 de\r\n1988, y el artículo 550 de la Ordenanza General de Construcciones y Urbanización,\r\nmodificada por el DS No. 224 del 14 de diciembre de 1988.\r\nd) El Ord. No. 674 del 29 de noviembre de 1989, del Sr. Alcalde de Puerto Varas,\r\nadjuntando el expediente del Plan Regulador Comunal de Puerto Varas.\r\ne) El Informe Técnico favorable No. 1, del 09.10.89, de la señora Directora de\r\nObras Municipales.\r\nf) El Acta de la Sesión Extraordinaria del consejo de Desarrollo Comunal de Puerto\r\nVaras, celebrada el día 10.10.89 que aprueba el Plan Regulador Comunal de Puerto\r\nVaras.\r\ng"
+ },
+ {
+  "id": "d0886",
+  "comuna": "puerto_varas",
+  "nombre_documento": "44_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_puerto",
+  "archivo": "puerto_varas_44_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_puerto___PRC PTO VARAS DO 24.07.2025.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 50,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.206\r\n\r\nJueves 24 de Julio de 2025\r\n\r\nPágina 1 de 50\r\n\r\nNormas Generales\r\nCVE 2668970\r\nGOBIERNO REGIONAL DE LOS LAGOS\r\nPROMULGA APROBACIÓN DE LA ACTUALIZACIÓN DEL PLAN REGULADOR\r\nCOMUNAL DE PUERTO VARAS\r\n(Resolución)\r\nNúm. 44.- Puerto Montt, 16 de abril de 2025.\r\nVistos:\r\n1. Los artículos Nº 6, Nº 7, Nº 110, y siguientes de la Constitución Política de la República;\r\n2. Los artículos Nº 24, letra o), y Nº 36, letra c) y demás normas pertinentes del DFL Nº 1,\r\nde 2005, del Ministerio del Interior, Subsecretaría de Desarrollo Regional y Administrativo, que\r\nfija el Texto Refundido, Coordinado, Sistematizado y Actualizado de la Ley Nº 19.175, Orgánica\r\nConstitucional sobre Gobierno y Administración Regional.\r\n3. El DFL Nº 1, de 2006, del Ministerio del Interior, Subsecretaría de Desarrollo Regional\r\ny Administrativo, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.695,\r\nOrgánica Constitucional de Municipalidades.\r\n4. El DFL Nº 458, de 1975, del Ministerio de Vivienda y Urbanismo, que aprueba Nueva Ley\r\nGeneral de Urbanismo y Construcciones (LGUC).\r\n5. El decreto Nº 47, de 1992, del Ministerio de Vivienda y Urbanismo, que fija Nuevo Texto de\r\nla Ordenanza General de la Ley General de Urbanismo y Construcciones (OGUC).\r\n6. La resolución Nº 36, de 2024, de la Contraloría General de la República que fija Normas sobre\r\nExención del Trámite de Toma de Razón.\r\n7. El Ord. Nº 1314, d"
+ },
+ {
+  "id": "d0887",
+  "comuna": "puerto_varas",
+  "nombre_documento": "decreto_alcaldicio_ordenanza_plan_regulador_publicado_y_promulgado_en_diario_ofi",
+  "archivo": "puerto_varas_decreto_alcaldicio_ordenanza_plan_regulador_publicado_y_promulgado_en_diario_ofi__Ordenanza Plan regulador.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 62,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0888",
+  "comuna": "puerto_varas",
+  "nombre_documento": "ordenanza_plan_regulador_comunal_de_puerto_varas",
+  "archivo": "puerto_varas_ordenanza_plan_regulador_comunal_de_puerto_varas__Plan Regulador y Plano.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 43,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 3,
+   "antejardin": 4,
+   "rasante": 4,
+   "adosamiento": 2,
+   "distanciamiento": 4,
+   "ordenanza_local_txt": 4,
+   "articulado": 13,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DS\r\n\r\nPLAN\r\nREGULADOR\r\nCOMUNAL\r\nDE PUERTO\r\nVARAS\r\nORDENANZA\r\nLOCAL\r\n\r\n\fTEXTO REFUNDIDO DE LA ORDENANZA LOCAL DEL PLAN\r\nREGULADOR COMUNAL DE PUERTO VARAS\r\n\r\nBasado en el Plan Regulador de Puerto Varas y su Ordenanza Local\r\naprobados por Resolución Nº 002 de fecha 09 de Enero de 1990, publicada en el Diario\r\nOficial con fecha 08 de Marzo de 1990.\r\nEl presente documento incorpora las siguientes modificaciones:\r\n- Resolución Nº 0027 publicada en el Diario Oficial con fecha 03 de Diciembre de 1993\r\n- Resolución Nº 0102 publicada en el Diario Oficial con fecha 30 de Enero de 1997.\r\n- Resolución Nº 0024 publicada en el Diario Oficial con fecha 27 de Febrero de 1997.\r\n- Resolución Nº 0033 publicada en el Diario Oficial con fecha 04 de Abril de 1997.\r\n- Resolución Nº 0027 publicada en el Diario Oficial con fecha 18 de Abril de 1997.\r\n- Resolucion Nº 0071 publicada en el Diario Oficial con fecha 17 de Febrero de 2000\r\n- Resolucion Nº 4.712 publicada en el Diario Oficial con fecha 29 de Diciembre de\r\n2007\r\n\r\nActualización: Enero de 2009\r\n\r\nRicardo Matamala Montiel\r\nDirector de Obras Municipales\r\n\r\n\fCapitulo III\r\nDEFINICIONES Y NORMAS GENERALES\r\nArtículo 7\r\nLos siguientes términos tienen en esta ordenanza el significado que se expresa:\r\nPorcentaje de ocupación de suelo\r\nEs la relación porcentual entre la superficie edificada determinada en la forma que más\r\nadelante se expresa y la superficie total del predio, descontada de esta última las áreas\r\ndeclaradas de utilidad pública que puedan"
+ },
+ {
+  "id": "d0889",
+  "comuna": "punta_arenas",
+  "nombre_documento": "1045_establece_dejar_sin_efecto_las_declaratoria_de_utilidad_publica_correspondi",
+  "archivo": "punta_arenas_1045_establece_dejar_sin_efecto_las_declaratoria_de_utilidad_publica_correspondi__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1045, PUNTA ARENAS (2015)\r\n\r\nDecreto 1045\r\nDEJA SIN EFECTO DECLARATORIAS DE UTILIDAD PÚBLICA QUE INDICA\r\nMUNICIPALIDAD DE PUNTA ARENAS\r\nFecha Publicación: 28-ABR-2015 | Fecha Promulgación: 21-ABR-2015\r\nTipo Versión: Única De : 28-ABR-2015\r\nUrl Corta: https://bcn.cl/3muk3\r\n\r\nDEJA SIN EFECTO DECLARATORIAS DE UTILIDAD PÚBLICA QUE INDICA\r\nSección B Núm. 1.045.- Punta Arenas, 21 de abril de 2015.\r\nVistos:\r\nLo dispuesto en el artículo transitorio de la ley 20.791, que modifica la Ley\r\nGeneral de Urbanismo y Construcciones, en materia de afectaciones de utilidad\r\npública de planos reguladores;\r\nCircular Ord. Nº 654 del 18 de diciembre de 2014, de la División de Desarrollo\r\nUrbano del MINVU (DDU Nº 279), sobre la aplicación de las disposiciones contenidas\r\nen el artículo 59 y transitorio de la Ley General de Urbanismo y Construcciones en\r\nmateria de afectaciones de utilidad pública de los planes reguladores y seccionales;\r\nAntecedente Nº 1.483, de fecha 20 de abril de 2015, recaído en oficio Ord. Nº\r\n142, del Secretario Comunal de Planificación, dirigido al Alcalde de la Ilustre\r\nMunicipalidad de Punta Arenas;\r\nLas atribuciones que me confiere el artículo 63º del Texto Refundido,\r\nCoordinado, Sistematizado y Actualizado de la Ley 18.695, Orgánica Constitucional de\r\nMunicipalidades;\r\nDecreto alcaldicio Nº 5.390 (Sección \"B\") de fecha 6 de diciembre de 2012, que\r\nnombra al Alcalde de la I. Municipalidad de Punta Arenas;\r\nDecreto alcaldicio Nº 247 (Sección \"D\") de fecha 20 de ma"
+ },
+ {
+  "id": "d0220",
+  "comuna": "purranque",
+  "nombre_documento": "ordenanza_ordenanza_plano_regulador_de_la_comuna_de_purranque",
+  "archivo": "purranque_ordenanza_ordenanza_plano_regulador_de_la_comuna_de_purranque__ORDENANZA 1967.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 29,
+  "paginas_escaneadas": 29,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0890",
+  "comuna": "purranque",
+  "nombre_documento": "ordenanza_aprueba_modificacion_al_plan_regulador_de_purranque_sector_la_colmena",
+  "archivo": "purranque_ordenanza_aprueba_modificacion_al_plan_regulador_de_purranque_sector_la_colmena__ORDENANZA 2001-LA COLMENA.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 5,
+   "ocupacion_suelo": 7,
+   "predial_minima": 11,
+   "altura_maxima": 7,
+   "densidad": 2,
+   "agrupamiento": 27,
+   "antejardin": 5,
+   "rasante": 3,
+   "adosamiento": 4,
+   "distanciamiento": 2,
+   "zonificacion": 3,
+   "usos_de_suelo": 23,
+   "ordenanza_local_txt": 10,
+   "articulado": 27,
+   "limite_urbano": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC",
+   "ZE1",
+   "ZE2",
+   "ZE3",
+   "ZH1",
+   "ZH2",
+   "ZK",
+   "ZM1",
+   "ZONA",
+   "ZR",
+   "ZRK-1",
+   "ZRK-2"
+  ],
+  "puntaje_normativo": 17,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Página 10\r\n\r\nDIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nLunes 29 de Octubre de 2001\r\n\r\n(110)\r\n\r\nel.- Altura máxima de edificación\r\n\r\nc8.- Antejardín\r\nc9.- Adosamiento\r\n\r\n: Para sistema pareado: se aplicará el\r\nArtículo 2.6.3. de la O.G.U.C. D.S. 47\r\nde 1992 en lo relativo a rasantes y\r\ndistanciam ient o.\r\nPara edificación continua: 10,5 m.\r\nSobre la faja continua, se permitirá\r\nedificación aislada según rasantes y\r\ndistanciamiento fijados en Artículo\r\n2.6.3. de la O.G.U.C. D.S. 47 de 1992.\r\n: optativo; 2 m si se consultare.\r\n: a partir de la línea de edificación\r\n\r\nN° 37.097\r\n\r\nArtículo 5.- Remítanse todos los antecedentes a la Secretaría Regional Ministerial\r\nde Vivienda y Urbanismo X Región para su revisión e Infonne Técnico lavorable de\r\nacuerdo a lo previsto en la letra c), artículo 36 de la ley N° 19.175, Orgánica Constitucional\r\nsobre Gobierno y Administración Regional, y la prosecución del proceso a escala regional\r\n3.- La I. Municipalidad de Valdivia, publicará en forma íntegra la presente resolución\r\nen el Diario Oficial y un extracto de la misma en algún periódico de los de mayor circulación\r\nen la comuna. Asimismo deberá archivar en el Conservador de Bienes Rafces de la comuna\r\nlos planos que contienen la proposición aprobada.\r\nTómese razón, anótese, comuniqúese y públíquese.- Carlos Tudela Aroca, Intendente Región de Los Lagos.\r\n\r\nZONA ZRK-1\r\nConesponde a la franja de protección del Estero Krahmer y sus afluentes ubicados\r\nal norte y al poniente de su cauce principa"
+ },
+ {
+  "id": "d0891",
+  "comuna": "puyehue",
+  "nombre_documento": "46_aprueba_modificacion_al_plan_regulador_comunal_depuyehue_localidad_de_entre_l",
+  "archivo": "puyehue_46_aprueba_modificacion_al_plan_regulador_comunal_depuyehue_localidad_de_entre_l__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 2,
+   "agrupamiento": 11,
+   "antejardin": 1,
+   "rasante": 2,
+   "adosamiento": 1,
+   "distanciamiento": 2,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 7,
+   "articulado": 17
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-2",
+   "Z-5",
+   "Z-6",
+   "Z1",
+   "Z2",
+   "Z6"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 46 AFECTA (2000)\r\n\r\nResolución 46 AFECTA\r\nAPRUEBA MODIFICACION AL PLAN REGULADOR COMUNAL DE;PUYEHUE,\r\nLOCALIDAD DE ENTRE LAGOS, AREAS ESPECIALES\r\nGOBIERNO REGIONAL X REGIÓN DE LOS LAGOS\r\nFecha Publicación: 27-JUL-2001 | Fecha Promulgación: 17-JUL-2000\r\nTipo Versión: Única De : 27-JUL-2001\r\nUrl Corta: https://bcn.cl/3njn1\r\n\r\nAPRUEBA MODIFICACION AL PLAN REGULADOR COMUNAL DE PUYEHUE, LOCALIDAD DE ENTRE LAGOS,\r\nAREAS ESPECIALES\r\nNúm. 46 afecta.- Puerto Montt, 17 de julio de 2000.- Vistos:\r\na) El decreto exento Nº 1.944 de 15/11/1999, de la Y.\r\nMunicipalidad de Puyehue, por el cual se aprueba la Modificación al Plan\r\nRegulador Comunal de esta Comuna, sector Entre Lagos, según el Plano Código\r\nPRC-PUY-M-01-98, denominado \"Modificación Plan Regulador Comunal de Puyehue,\r\nLocalidad de Entre Lagos, Areas Especiales\", elaborado a escala 1:2.000, por la I.\r\nMunicipalidad de Puyehue;\r\nb) La resolución exenta Nº 995 del 23.12.99 de la Seremi de Vivienda y Urbanismo de\r\nesta Región, la que aprueba el Informe Técnico del 17.12.99, del Jefe del DDUI de\r\nesa Seremi por el que se recomienda acoger en forma favorable la proposición de\r\nmodificación del Plan Regulador Comunal de Puyehue, en el sector Entre Lagos;\r\nc) El oficio Ord. Nº 10 del 04.01.2000 del Seremi de Vivienda y Urbanismo de esta\r\nregión por el que remite el Informe Técnico indicado en el vistos b) de esta\r\nresolución;\r\nd) El certificado Nº 013 del 01.03.00 del Secretario Ejecutivo del CORE que informa\r\nque en la sesió"
+ },
+ {
+  "id": "d0892",
+  "comuna": "queilen",
+  "nombre_documento": "41565_apruebase_las_enmiendas_al_plan_regulador_comunal_de_queilen",
+  "archivo": "queilen_41565_apruebase_las_enmiendas_al_plan_regulador_comunal_de_queilen__1114542.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 5,
+   "predial_minima": 5,
+   "altura_maxima": 1,
+   "agrupamiento": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZEH3",
+   "ZH1",
+   "ZH2",
+   "ZI",
+   "ZONA",
+   "ZT"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.565\r\n\r\n|\r\n\r\nJueves 22 de Septiembre de 2016\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1114542\r\n\r\nMUNICIPALIDAD DE QUEILEN\r\n\r\nAPRUEBA ENMIENDAS AL PLAN REGULADOR COMUNAL DE QUEILEN\r\nNúm. 2.327.- Queilen, 14 de septiembre de 2016.\r\nVistos:\r\n1. La necesidad de mantener actualizado y complementar el Instrumento de Planificación\r\nTerritorial vigente, con el objeto de perfeccionar las condiciones urbanísticas y de edificación así\r\ncomo el uso de suelo, de ciertas zonas de dicho instrumento.\r\n2. La resolución afecta Nº 46, de fecha 7 de abril de 1997, del Gobierno Regional de Los\r\nLagos, y publicada en el Diario Oficial con fecha 6 de junio de 1997, que Aprueba el Plan\r\nRegulador Comunal de Queilen, comuna de Queilen, Provincia de Chiloé, y la resolución afecta\r\nNº 13, de fecha 27 de febrero de 2004, del Gobierno Regional de Los Lagos, y publicada en el\r\nDiario Oficial con fecha 13 de marzo de 2004, que modifica el Plan Regulador Comunal de\r\nQueilen, Comuna de Queilen, Provincia de Chiloé.\r\n3. Lo dispuesto en el artículo Nº 45 del DFL Nº 458 de 1976 y sus modificaciones; Ley\r\nGeneral de Urbanismo y Construcciones, y en los artículos Nº 2.1.10, 2.1.11, y 2.1.13, del DS Nº\r\n47, de 1992 (Minvu) y sus modificaciones; Ordenanza General de Urbanismo y Construcciones,\r\ncuyos contenidos fijan los procedimientos"
+ },
+ {
+  "id": "d0221",
+  "comuna": "quellon",
+  "nombre_documento": "15_aprueba_plano_regulador_de_la_comuna_de_quellon",
+  "archivo": "quellon_15_aprueba_plano_regulador_de_la_comuna_de_quellon__PlanoRegulador.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0893",
+  "comuna": "quellon",
+  "nombre_documento": "2226_aprueba_enmienda_al_plan_regulador_comunal_de_quellon",
+  "archivo": "quellon_2226_aprueba_enmienda_al_plan_regulador_comunal_de_quellon__enmienda plano regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.017\r\n\r\n|\r\n\r\nLunes 26 de Marzo de 2018\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1371289\r\n\r\nMUNICIPALIDAD DE QUELLÓN\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE QUELLÓN\r\nNum. 637 exento.- Quellón, 23 de febrero de 2018.\r\nVistos:\r\nEl fallo del Tribunal electoral Xª Región de Los Lagos, Rol 170-2016-P-A de fecha\r\n04.11.2016; el decreto exento Nº 2.804, de fecha 06.12.2016, de asunción del Sr. Alcalde;\r\ndecreto exento Nº 1.815, y las facultades que confiere la ley Nº 18.695 Orgánica Constitucional\r\nde Municipalidades y sus modificaciones.\r\nConsiderando:\r\n1. Decreto exento Nº 1.422, de fecha 17.08.2004, que aprueba el Plan Regulador Comunal\r\nde Quellón.\r\n2. Resolución exenta Nº 371 de la Secretaría Ministerial de Vivienda y Urbanismo de la\r\nDécima Región.\r\n3. Certificado Nº 1, de fecha 02.01.2005, de aprobación CORE.\r\n4. Publicación en Diario Oficial 16.06.2005\r\n5. Acuerdo de Concejo Nº 3 sesión ordinaria Nº 24/2017, de fecha 22.08.2017, que aprueba\r\nla realización de una enmienda al Plan Regulador Vigente.\r\n6. Decreto exento Nº 2.226, de fecha 22.08.2017, que aprueba el inicio del proceso de\r\nenmienda del Plan Regulador comunal vigente.\r\n7. Decreto exento Nº 3.198, de fecha 22.12.2017, que precisa los términos de la enmienda\r\niniciada según decreto exento 2.226, del 22.08.2017.\r\n8. Acuerdo de Co"
+ },
+ {
+  "id": "d0222",
+  "comuna": "quilicura",
+  "nombre_documento": "acta_12_1_enmienda_plan_regulador_comunal",
+  "archivo": "quilicura_acta_12_1_enmienda_plan_regulador_comunal__3bf9a227-f7b1-454b-af86-bd6a41019fc8.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 7,
+   "articulado": 1,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Municipalidad\r\n\r\nde Quilicura\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\nCONCEJO MUNICIPAL\r\n\r\nActa Sesi6n\r\nExtraordinaria\r\nN°12\r\n\r\n11 de Octubre de 2017\r\n\r\n\fMunicipalid\r\nad\r\n\r\nde Quilicura\r\n\r\nCONCEJO MUNICIPAL\r\n\r\nDE QUILICURA\r\n\r\nACTA DE LA SESION EXTRAORDINARIA N°12\r\nREALIZADA EL DIA 11 DE OCTUBRE DEL 2017\r\n\r\nEn Quilicura, a 11 de octubre\r\ndel 2017,\r\nsiendo las 19:30\r\nhoras, se da inicio a la Sesi6n de Extraordinaria del Concejo\r\nMunicipal\r\nde Quilicura.\r\nPreside la Sesi6n el Sr.\r\nJuan\r\nCarrasco Contreras, Alcalde, actuando como Secretario el Sr.\r\nEduardo Budini Gatica, Secretario Municipal.\r\nASISTEN A LA SESION LOS SIGUIENTES\r\nSR.\r\nSR.\r\nSRA.\r\nSR.\r\nSR.\r\nSR.\r\nSR.\r\n\r\nCONCEJALES:\r\n\r\nM.:z\\RIO ALVEF..R GILBERTO\r\nALEJANDRO MARTINEZ GONZALEZ\r\nCLAUDIA DONOSO PLAZA\r\nDINO BELMAR DINAMARCA\r\n1~Q~~~PQ §~B~Q~Qg$ DURAN\r\nVICTOR CUBILLOS TAPIA\r\nALEJANDRO MARTINEZ CUMINAO\r\n\r\nOTROS ASISTENTES:\r\nSR.\r\n\r\nCLAUDIO ALIAGA\r\n\r\nASESOR\r\n\r\nURBANISTA\r\n\r\nSR. AI..e.ALDE\r\nAbre la Sesi6n, en nombre de Dios,\r\nl.-\r\n\r\nENMIENDA\r\n\r\nCONCEJO MUNICIPAL\r\n\r\nPLAN REGULADOR\r\n\r\ndando lectura a la Tabla:\r\n\r\nCOMUNAL.\r\n\r\nSESION EXTRAORDINARIA N212 DE FECHA 11 DE OCTUBRE 2017\r\n\r\n2\r\n\r\n\fMunicipalidad\r\n\r\nde Quilicura\r\n1 .-\r\n\r\nENMrENBA P:E.AN· REGel:.AB0R ee>MeNAf..\r\n\r\nHemos citado a un Concejo Extraordinario para\r\npoder iniciar la ultima etapa de esta enmienda del Plan\r\nRegulador Comunal, que ya fue vista en una primera etapa, esta\r\nes la segunda que se tiene. que cumplir por ley, la invi taci6n\r\nes una audiencia publica abierta a los vecinos. E"
+ },
+ {
+  "id": "d0223",
+  "comuna": "quilicura",
+  "nombre_documento": "acta_16_1_modificacion_presupuestaria_municipal_no8_2_enmienda_al_plan_regulador",
+  "archivo": "quilicura_acta_16_1_modificacion_presupuestaria_municipal_no8_2_enmienda_al_plan_regulador__c7e4deb5-a1d5-4776-8301-96c7ddc2b83a.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0224",
+  "comuna": "quilicura",
+  "nombre_documento": "acta_8_1_enmienda_plan_regulador_comunal",
+  "archivo": "quilicura_acta_8_1_enmienda_plan_regulador_comunal__6c0771cf-886a-49df-b466-aa25d929d0c7.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 24,
+  "paginas_escaneadas": 24,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

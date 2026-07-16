@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_fb19033833",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_3360_11ago2010.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_3360_11ago2010.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:55:11",
+  "fin": "2026-07-15T07:58:05",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        7
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LAS CONDES: Decreto 3360 (ago-2010, BCN LeyChile, 7p), 'Asigna a 60 vias de la comuna las nuevas normas urbanisticas de edificacion y usos de suelo' (vias cuya declaratoria de utilidad publica caduco, asimiladas a las areas de edificacion y zonas de uso de suelo adyacentes). El decreto (p1-2) anuncia 'Tabla con las declaratorias de utilidad publica caducadas y las normas de edificacion y uso de suelo que se asignan: LISTADO DE VIAS' y la tabla real esta en p3-7 COMO IMAGEN (confirmado con render de p4): columnas Nombre, Tramo, Situacion Anterior, Situacion Propuesta, Area de Edificacion y Zona de Uso de Suelo para cada una de las 60 vias, en tabla apaisada muy densa. CONFIANZA MEDIA: la imagen es de baja resolucion, la fase siguiente debe renderizar a alta resolucion para leer el detalle de cada via. Mismo mecanismo que los casos ya registrados de Concepcion-Conchali-Machali (asignacion de zona a predios con declaratoria caducada), pero a escala de TODA la comuna (60 vias)."
+  }
+}

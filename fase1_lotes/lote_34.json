@@ -1,0 +1,929 @@
+[
+ {
+  "id": "d0812",
+  "comuna": "nunoa",
+  "nombre_documento": "1167_promulga_aprobacion_de_la_modificacion_no_18_del_plan_regulador_de_nunoa",
+  "archivo": "nunoa_1167_promulga_aprobacion_de_la_modificacion_no_18_del_plan_regulador_de_nunoa__PUBLICACION_30_DE_AGOSTO_2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 59,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 3,
+   "rasante": 2,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 9,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-1B",
+   "Z-1C",
+   "Z-2",
+   "Z-3A",
+   "Z-4",
+   "Z-4A",
+   "Z-4C",
+   "Z-4m",
+   "Z-5",
+   "Z-5A",
+   "Z5A"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (constructibilidad, agrupamiento, rasante, zonificacion)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.442\r\n\r\nViernes 30 de Agosto de 2019\r\n\r\nPágina 1 de 59\r\n\r\nNormas Generales\r\nCVE 1644624\r\nMUNICIPALIDAD DE ÑUÑOA\r\nPROMULGA APROBACIÓN DE LA MODIFICACIÓN Nº 18 DEL PLAN REGULADOR\r\nCOMUNAL DE ÑUÑOA\r\nNúm. 1.167.- Ñuñoa, 23 de agosto de 2019.\r\nTeniendo presente:\r\n1.\r\n\r\nCertificado de fecha 19.07.2018, emitido por el Secretario Municipal. En él se indica que en la\r\nSesión Extraordinaria Nº6 del Concejo Municipal, celebrada el 29.06.2018, el Concejo aprobó\r\niniciar el proceso de Modificación Integral Nº 18 al Plan Regulador Comunal de Ñuñoa.\r\n\r\n2.\r\n\r\nCertificado de fecha 19.07.2018, emitido por el Secretario Municipal. En él se indica que en\r\nla Sesión Extraordinaria Nº6 del Consejo Comunal de Organizaciones de la Sociedad Civil,\r\ncelebrada el 06.07.2018, se trató el tema Modificación Integral Nº 18 al Plan Regulador Comunal\r\nde Ñuñoa.\r\n\r\n3.\r\n\r\nCertificado de fecha 19.07.2018, emitido por el Secretario Municipal. En él se indica que en\r\nla Sesión Ordinaria Nº20 del Concejo Municipal, celebrada el 10.07.2018, aprobó el Informe\r\nTécnico Nº4 Secpla del 09.07.2018.\r\n\r\n4.\r\n\r\nOficio Ord. Nº1200/1957, de fecha 13.07.2018, suscrito por el Alcalde (S) y dirigido a las\r\norganizaciones territoriales. En ellos se les invita a participar a la 1º Audiencia Pública, referida\r\nal proceso de Modificación Nº 18 al PRC, a realizarse el 17.07.2018, en el Salón Verde de la\r\nCasa de la Cultura, ubicado en Av. Irarrázaval N"
+ },
+ {
+  "id": "d0813",
+  "comuna": "nunoa",
+  "nombre_documento": "1593_promulga_la_aprobacion_de_la_modificacion_al_plan_comunal_regulador_de_nuno",
+  "archivo": "nunoa_1593_promulga_la_aprobacion_de_la_modificacion_al_plan_comunal_regulador_de_nuno__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 2,
+   "predial_minima": 1,
+   "agrupamiento": 10,
+   "antejardin": 7,
+   "rasante": 1,
+   "distanciamiento": 3,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 4,
+   "articulado": 15
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "Z - 2",
+   "Z - 3",
+   "Z - 4",
+   "Z - 4B",
+   "Z - 4m",
+   "Z- 4B",
+   "Z-2",
+   "Z-3",
+   "Z-4",
+   "Z-4m",
+   "Z-6"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (ocupacion_suelo, predial_minima, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1593, ÑUÑOA (2016)\r\n\r\nDecreto 1593\r\nPROMULGA LA APROBACIÓN DE LA MODIFICACIÓN N°14 DEL PLAN\r\nREGULADOR COMUNAL DE ÑUÑOA\r\nMUNICIPALIDAD DE ÑUÑOA\r\nFecha Publicación: 21-OCT-2016 | Fecha Promulgación: 17-OCT-2016\r\nTipo Versión: Única De : 21-OCT-2016\r\nUrl Corta: https://bcn.cl/3p98b\r\n\r\nPROMULGA LA APROBACIÓN DE LA MODIFICACIÓN N°14 DEL PLAN REGULADOR COMUNAL DE\r\nÑUÑOA\r\nNúm. 1.593.- Ñuñoa, 17 de octubre de 2016.\r\nTeniendo presente:\r\n1. El decreto Nº1.330, fecha 16 de septiembre de 2015, que aprueba el inicio de\r\nla propuesta de Modificación del Plan Regulador Comunal, basado en el Acuerdo\r\nunánime del Concejo Municipal adoptado en la sesión ordinaria Nº27 celebrada el\r\n15.09.15, en términos de bajar la altura de edificación en calle Las Verónicas,\r\nentre Ortúzar y Gral. Gorostiaga; declarar 2 inmuebles de conservación histórica;\r\nbajar altura de edificación en torno a esos inmuebles y modificar otras\r\ndisposiciones de la ordenanza local.\r\n2. Certificado del Secretario Municipal del 24.06.16, que acredita envío de\r\ncarta certificada a los dirigentes sociales, donde el Sr. Alcalde da a conocer la\r\nModificación N°14 del PRC de Ñuñoa.\r\n3. Las publicaciones efectuadas en el diario \"Las Últimas Noticias\", los días\r\n02.10.2015 y 05.10.2015, que Informa a la Comunidad sobre el inicio del proceso\r\nModificación N°14 al PRC e invita a la 1ª Audiencia Pública del 06.10.15 y a la\r\nExposición del Proyecto por un plazo de 30 días a contar del 7 de octubre y hasta\r\nel 5 de noviembre de 2"
+ },
+ {
+  "id": "d0814",
+  "comuna": "nunoa",
+  "nombre_documento": "1890_aprueba_modificacion_no_16_al_plan_regulador_comunal",
+  "archivo": "nunoa_1890_aprueba_modificacion_no_16_al_plan_regulador_comunal__1306404.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-4C",
+   "Z-7A"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.915\r\n\r\n|\r\n\r\nJueves 23 de Noviembre de 2017\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1306404\r\n\r\nMUNICIPALIDAD DE ÑUÑOA\r\n\r\nAPRUEBA MODIFICACIÓN N° 16 AL PLAN REGULADOR COMUNAL DE ÑUÑOA\r\nNúm. 1.890.- Ñuñoa, 17 de noviembre de 2017.\r\nTeniendo presente:\r\na) El decreto N° 1.578 fecha 12 de octubre de 2016 que aprueba el inicio de la propuesta de\r\nModificación N° 16 al Plan Regulador Comunal, basado en el Acuerdo unánime del Concejo\r\nMunicipal adoptado en la sesión extraordinaria N° 9 celebrada el 27.09.16, en términos de bajar\r\nla altura en sectores interiores al norte y sur de Av. Irarrázaval, excluidos los ejes principales de\r\nla comuna.\r\nb) Certificado del Secretario Municipal del 20.07.2017, que acredita envío de carta\r\ncertificada a los Dirigentes sociales, donde el Sr. Alcalde da a conocer la modificación N° 16 del\r\nPRC de Ñuñoa.\r\nc) Las publicaciones efectuadas en el diario \"El Mercurio\", los días 30.09.16, (fe de errata\r\n05.10.2016) y diario \"La Tercera\" fecha 07.10.2016, que Informa a la Comunidad sobre el inicio\r\ndel proceso Modificación N° 16 al PRC e invita a 1° Audiencia Pública en tres lugares distintos\r\ny en las siguientes fechas 11.10.16, 18.10.16, 20.10.16 y a la Exposición del Proyecto por un\r\nplazo de 30 días a contar del 24.10.16 hasta el 23.11.16.\r\nd) El Secretario Municipal acred"
+ },
+ {
+  "id": "d0815",
+  "comuna": "nunoa",
+  "nombre_documento": "1890_promulgase_la_aprobacion_de_la_modificacion_no_16_al_plan_regulador_de_la_c",
+  "archivo": "nunoa_1890_promulgase_la_aprobacion_de_la_modificacion_no_16_al_plan_regulador_de_la_c__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-4C",
+   "Z-7A"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1890, ÑUÑOA (2017)\r\n\r\nDecreto 1890\r\nAPRUEBA MODIFICACIÓN N° 16 AL PLAN REGULADOR COMUNAL DE ÑUÑOA\r\nMUNICIPALIDAD DE ÑUÑOA\r\nFecha Publicación: 23-NOV-2017 | Fecha Promulgación: 17-NOV-2017\r\nTipo Versión: Única De : 23-NOV-2017\r\nUrl Corta: https://bcn.cl/3lms9\r\n\r\nAPRUEBA MODIFICACIÓN N° 16 AL PLAN REGULADOR COMUNAL DE ÑUÑOA\r\nNúm. 1.890.- Ñuñoa, 17 de noviembre de 2017.\r\nTeniendo presente:\r\na) El decreto N° 1.578 fecha 12 de octubre de 2016 que aprueba el inicio de la\r\npropuesta de Modificación N° 16 al Plan Regulador Comunal, basado en el Acuerdo\r\nunánime del Concejo Municipal adoptado en la sesión extraordinaria N° 9 celebrada\r\nel 27.09.16, en términos de bajar la altura en sectores interiores al norte y sur de\r\nAv. Irarrázaval, excluidos los ejes principales de la comuna.\r\nb) Certificado del Secretario Municipal del 20.07.2017, que acredita envío de\r\ncarta certificada a los Dirigentes sociales, donde el Sr. Alcalde da a conocer la\r\nmodificación N° 16 del PRC de Ñuñoa.\r\nc) Las publicaciones efectuadas en el diario \"El Mercurio\", los días 30.09.16,\r\n(fe de errata 05.10.2016) y diario \"La Tercera\" fecha 07.10.2016, que Informa a la\r\nComunidad sobre el inicio del proceso Modificación N° 16 al PRC e invita a 1°\r\nAudiencia Pública en tres lugares distintos y en las siguientes fechas 11.10.16,\r\n18.10.16, 20.10.16 y a la Exposición del Proyecto por un plazo de 30 días a contar\r\ndel 24.10.16 hasta el 23.11.16.\r\nd) El Secretario Municipal acredita la 1a Audiencia Pública, según"
+ },
+ {
+  "id": "d0816",
+  "comuna": "nunoa",
+  "nombre_documento": "647_promulga_aprobacion_de_modificacion_no_17_al_plan_regulador_comunal_de_nunoa",
+  "archivo": "nunoa_647_promulga_aprobacion_de_modificacion_no_17_al_plan_regulador_comunal_de_nunoa__1399804.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 9,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 2,
+   "articulado": 12
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-1",
+   "Z-1A",
+   "Z-1B",
+   "Z-1C",
+   "Z-2",
+   "ZT 5"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 8 senales normativas (agrupamiento, distanciamiento, normas_urbanisticas, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.060\r\n\r\n|\r\n\r\nViernes 18 de Mayo de 2018\r\n\r\n|\r\n\r\nPágina 1 de 5\r\n\r\nNormas Generales\r\nCVE 1399804\r\n\r\nMUNICIPALIDAD DE ÑUÑOA\r\n\r\nPROMULGA APROBACIÓN DE MODIFICACIÓN N° 17 AL PLAN REGULADOR\r\nCOMUNAL DE ÑUÑOA\r\nNúm. 647.- Ñuñoa, 15 de mayo de 2018.\r\nTeniendo presente:\r\n1. El decreto Nº 458, de fecha 29 de marzo de 2017, que aprueba el inicio de la propuesta de\r\nModificación Nº 17 al Plan Regulador Comunal, que baja la altura de edificación a 2 sectores de\r\nla comuna, identificados como polígonos A y B, emplazados dentro de U.V. N° 9 y 13 de\r\nÑuñoa.\r\n2. Acta sesión ordinaria N° 19, de fecha 04.07.17, donde el Concejo Municipal se pronuncia\r\nrespecto al \"Informe de la Comisión de Obras y Urbanismo, sobre observaciones de la\r\ncomunidad y aprobación del proyecto de modificación N° 17 del Plan Regulador Comunal\",\r\npágina 2, letra a) de la Tabla, que aprueba lo solicitado por los vecinos en carta 001, respecto a\r\ncontinuar la placa de 7 metros en calles perpendiculares a Av. Irarrázaval con un\r\ndistanciamiento de 3,5 metros al deslinde norte, correspondiente al límite de la zona típica.\r\nLimitar las edificaciones aisladas de 10,50 metros sobre la placa de 7 metros, sólo enfrentando\r\nAv. Irarrázaval e instruye a Asesoría Urbana para que redacte la norma urbanística\r\ncorrespondiente a esta observación con la nueva pro"
+ },
+ {
+  "id": "d0817",
+  "comuna": "nunoa",
+  "nombre_documento": "720_promulga_aprobacion_de_modificacion_no_15_del_plan_regulador_comunal_de_nuno",
+  "archivo": "nunoa_720_promulga_aprobacion_de_modificacion_no_15_del_plan_regulador_comunal_de_nuno__1217657.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "ocupacion_suelo": 4,
+   "predial_minima": 4,
+   "altura_maxima": 5,
+   "densidad": 3,
+   "agrupamiento": 12,
+   "antejardin": 4,
+   "rasante": 4,
+   "adosamiento": 4,
+   "distanciamiento": 2,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 3,
+   "articulado": 17
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-4",
+   "Z-4A",
+   "Z-4B",
+   "Z-4C",
+   "Z-4m",
+   "Z-7",
+   "Z-7A",
+   "Z-7B",
+   "ZONA"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 15 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.764\r\n\r\n|\r\n\r\nMartes 23 de Mayo de 2017\r\n\r\n|\r\n\r\nPágina 1 de 5\r\n\r\nNormas Generales\r\nCVE 1217657\r\n\r\nMUNICIPALIDAD DE ÑUÑOA\r\n\r\nPROMULGA APROBACIÓN DE MODIFICACIÓN Nº 15 DEL PLAN REGULADOR\r\nCOMUNAL DE ÑUÑOA\r\nNúm. 720.- Ñuñoa, 17 de mayo de 2017.\r\nTeniendo presente:\r\na) El decreto N° 699, fecha 18 de mayo de 2016, que aprueba el inicio de la propuesta de\r\nModificación N° 15 al Plan Regulador Comunal, basado en el acuerdo unánime del Concejo\r\nMunicipal adoptado en la sesión ordinaria N° 13 celebrada el 03.05.16, en términos de bajar la\r\naltura de edificación en sector Nor-Oriente de la comuna.\r\nb) Certificado del Secretario Municipal de 12.01.2017, que acredita envío de carta\r\ncertificada a los dirigentes sociales, donde el Sr. Alcalde da a conocer la Modificación N° 15 del\r\nPRC de Ñuñoa.\r\nc) Las publicaciones efectuadas en el diario \"Hoyxhoy\", los días 06.05.2016 y 11.05.2016,\r\nque informa a la comunidad sobre el inicio del proceso Modificación N° 15 al PRC e invita a la 1\r\na Audiencia Pública en tres lugares distintos y en las siguientes fechas: 12.05.16, 17.05.16,\r\n18.05.16 y a la Exposición al público del Proyecto por un plazo de 30 días a contar de 19 de\r\nmayo hasta el 17 de junio de 2016.\r\nd) El Secretario Municipal acredita la 1ª Audiencia Pública, de acuerdo al siguiente detalle:\r\n- Certificado fecha "
+ },
+ {
+  "id": "d0444",
+  "comuna": "osorno",
+  "nombre_documento": "decreto_aprueba_enmienda_equipamiento_vecinal_plan_regulador_comunal_de_osorno",
+  "archivo": "osorno_decreto_aprueba_enmienda_equipamiento_vecinal_plan_regulador_comunal_de_osorno__f0dfdd85-af1e-4eb4-948a-e25b286388c9.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 2,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.321\r\n\r\n|\r\n\r\nMiércoles 3 de Abril de 2019\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1569749\r\n\r\nMUNICIPALIDAD DE OSORNO\r\n\r\nAPRUEBA ENMIENDA EQUIPAMIENTO VECINAL PLAN REGULADOR\r\nCOMUNAL DE OSORNO\r\nNúm. 2.963 exento.- Osorno, 19 de marzo de 2019.\r\nVistos:\r\nEl Plan Regulador Comunal de Osorno, aprobado por resolución Nº 1 del 14 de febrero de\r\n1992 de la Secretaría Regional Ministerial de Los Lagos, publicado en Diario Oficial el 3 de abril\r\nde 1992.\r\nLa modificación al Plan Regulador Comunal de Osorno de resolución Nº 17 del 4 de marzo\r\nde 1996 del Intendente Regional publicado en Diario Oficial el 11 de abril de 1996 y 16 de julio\r\n1996.\r\nLa modificación al Plan Regulador Comunal de Osorno de resolución Nº 99 del 4 de\r\ndiciembre de 1996 del Intendente Regional publicado en Diario Oficial el 31 de enero de 1997.\r\nLa modificación al Plan Regulador Comunal de Osorno de resolución Nº 10 del 15 de enero\r\nde 2002 del Intendente Regional publicado en Diario Oficial el 27 de febrero de 2002.\r\nLa modificación al Plan Regulador Comunal de Osorno de decreto exento Nº 7.705 del 18\r\nde octubre de 2002 del Alcalde de Osorno publicado en Diario Oficial el 30 de octubre de 2002.\r\nLa modificación al Plan Regulador Comunal de Osorno de resolución Nº 47 del 16 de mayo\r\nde 2005 del Intendente Regional publicado en Diar"
+ },
+ {
+  "id": "d0445",
+  "comuna": "osorno",
+  "nombre_documento": "decreto_modificacion_plan_regulador_comunal_de_osorno_predio_baquedano_sector_ov",
+  "archivo": "osorno_decreto_modificacion_plan_regulador_comunal_de_osorno_predio_baquedano_sector_ov__dc647094-52db-4f88-9176-02817219f888.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.439\r\n\r\n|\r\n\r\nMartes 27 de Agosto de 2019\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1642155\r\n\r\nMUNICIPALIDAD DE OSORNO\r\n\r\nINICIO PROCESO DE EVALUACIÓN AMBIENTAL ESTRATÉGICA\r\nMODIFICACIÓN PLAN REGULADOR COMUNAL DE OSORNO, PREDIO\r\nBAQUEDANO, SECTOR OVEJERÍA\r\nMediante decreto alcaldicio N° 9.608, de fecha 20 de agosto de 2019, la I.\r\nMunicipalidad de Osorno ha dado inicio al proceso de Evaluación Ambiental Estratégica\r\nde la Modificación al Plan Regulador Comunal de Osorno, Predio Baquedano, Sector\r\nOvejería.\r\nÓrgano Responsable del Proceso: Ilustre Municipalidad de Osorno.\r\nRESUMEN DE ANTECEDENTES: La Modificación Plan Regulador Comunal de\r\nOsorno, Predio Baquedano, Sector Ovejería, tiene por objeto aprovechar el potencial de\r\nun territorio, que hoy presenta una importante oportunidad desde el punto de vista\r\nurbanístico. Esta modificación nos permite dar solución habitacional a un porcentaje\r\nimportante de las familias de Osorno, recuperar un territorio en el sector sur de la ciudad\r\ncon uso de suelo obsoleto, modificando las normas urbanísticas, pero además nos da la\r\nposibilidad de planificar un barrio con características de gestión integrada, criterios de\r\nsustentabilidad y urbanismo sostenible.\r\nCRITERIOS DE DESARROLLO SUSTENTABLE:\r\n1. Evitar futuros asentamientos humanos con condiciones precarias (agua "
+ },
+ {
+  "id": "d0446",
+  "comuna": "osorno",
+  "nombre_documento": "sn_convocatoria_de_participacion_ciudadana_para_actualizacion_del_plan_regulador",
+  "archivo": "osorno_sn_convocatoria_de_participacion_ciudadana_para_actualizacion_del_plan_regulador__f227ea83-b92b-4a5c-882b-ba7bfea425c0.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Información a los vecinos convocatoria\r\ninicio proceso aprobación del Plan.\r\n\r\nPrimer a Audiencia Pública\r\n\r\nExposición pública Plan.\r\nHall Municipal y\r\nmtn¡cipalitiado50iiio.cl\r\n\r\nSegunda Audiencia Pública.\r\n\r\nfronundamientoConce jo Municipal\r\n\r\nAprobación Final\r\nEvaluación Ambiental Estratégica\r\n\r\nIIMWI ,m Aprobación Seremi de\r\nI VivwrKiayUrbanísmoLosLagos.\r\n\r\nAprobación Consejo\r\nRegional de Los Lagos.\r\n\r\nResolución Intendente\r\nRegional de Los Lagos.\r\n\r\nRevisión Contralona\r\nGeneral de la República\r\n\r\nAprobación, Publicación en\r\nDiario Oficial y entrada en vigencia\r\nPlan Regulador de Osomo.\r\n\r\n\f\"En atención a la actualización del Plan Regulador Comunal de Osorno el cual se encuentra en proceso\r\nde desarrollo, y dando cumplimiento a lo establecido por la Ley, La Ilustre Municipalidad de Osorno les\r\nda la bienvenida a este espacio donde la ciudadanía en general podrá participar de la Actualización en\r\ninstancias puntuales del proceso.\"\r\nVISION:\r\n\"Para el 2017, la Ilustre Municipalidad de Osorno habrá contribuido para que la comuna se transforme\r\nen un centro regional de servicios y emprendímiento, jugando con ello un rol clave en el progreso de la\r\nprovincia, permitiendo alcanzar rápidamente mejores niveles de prosperidad de manera sustentable y\r\narmónica con el entorno, lo que significará una mejor calidad de vida para las ciudadanas y ciudadanos\".\r\nMISIÓN:\r\nComo municipio somos responsables de irnplementar las diversas políticas públicas para el ámbito\r\ncomunal, buscando con"
+ },
+ {
+  "id": "d0818",
+  "comuna": "ovalle",
+  "nombre_documento": "530_modifica_plan_regulador_comunal",
+  "archivo": "ovalle_530_modifica_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 2,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 3,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-7",
+   "ZR-6",
+   "ZR6"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 530 EXENTA, VIVIENDA (2006)\r\n\r\nResolución 530 EXENTA\r\nMODIFICA PLAN REGULADOR COMUNAL DE OVALLE\r\nMINISTERIO DE VIVIENDA Y URBANISMO; SECRETARÍA REGIONAL\r\nMINISTERIAL IV REGIÓN COQUIMBO\r\nPublicación: 26-OCT-2006 | Promulgación: 20-OCT-2006\r\nVersión: Única De : 26-OCT-2006\r\nUrl Corta: https://bcn.cl/3na2z\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE OVALLE\r\nNúm. 530 exenta.- La Serena, 20 de octubre de 2006.- Vistos:\r\na) Resolución Nº 21 de fecha 20 de enero de 2004 del CORE, publicado en el\r\nDiario Oficial con fecha 25 de junio de 2004, mediante la cual se aprobó la\r\nmodificación y actualización del Plan Regulador Comunal de Ovalle.\r\nb) Oficio ordinario Nº 4.063 de fecha 27 septiembre 2006 del Director del\r\nServicio de Vivienda y Urbanización de la Región de Coquimbo mediante el cual\r\nsolicitó la aplicación excepcional del art. 50 de la Ley General de Urbanismo y\r\nConstrucciones, en terrenos de su propiedad en la ciudad de Ovalle, sector Liceo\r\nAgrícola.\r\nc) Ord. Nº 1.128 de fecha 29 de septiembre de 2006 de Secretaría Regional\r\nMinisterial a la Alcaldesa de la I. Municipalidad de Ovalle, mediante el cual se\r\nsolicita se sirva emitir opinión sobre la aplicación del art. 50 a la Ley General\r\nde Urbanismo y Construcciones en sector Liceo Agrícola para el lote 6-C de propiedad\r\ndel Servicio de Vivienda y Urbanización de la Región de Coquimbo.\r\nd) Respuesta Alcaldesa de la I. Municipalidad de Ovalle mediante Ord. Nº 2.131\r\ndel 17 de octubre de 2006, mediante el cual da su visa"
+ },
+ {
+  "id": "d0819",
+  "comuna": "ovalle",
+  "nombre_documento": "9144_promulga_actualizacion_y_modificacion_al_plan_regulador_comunal_de_ovalle",
+  "archivo": "ovalle_9144_promulga_actualizacion_y_modificacion_al_plan_regulador_comunal_de_ovalle__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 23,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 9144 EXENTO, OVALLE (2016)\r\n\r\nDecreto 9144 EXENTO\r\nPROMULGA ACTUALIZACIÓN Y MODIFICACIÓN AL PLAN REGULADOR\r\nCOMUNAL DE OVALLE\r\nMUNICIPALIDAD DE OVALLE\r\nFecha Publicación: 23-DIC-2016 | Fecha Promulgación: 13-DIC-2016\r\nTipo Versión: Única De : 23-DIC-2016\r\nUrl Corta: https://bcn.cl/3lt2y\r\n\r\nPROMULGA ACTUALIZACIÓN Y MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE OVALLE\r\nNúm. 9.144 exento.- Ovalle, 13 de diciembre de 2016.\r\nVistos:\r\n1. Lo dispuesto en los artículos 41 al 45 de la Ley General de Urbanismo y\r\nConstrucciones; los artículos 2.1.10 y 2.1.11, de la Ordenanza General de Urbanismo\r\ny Construcciones; la Ley N° 18.695, Orgánica Constitucional de Municipalidades y la\r\nLey N° 19.300, sobre Bases Generales del Medio Ambiente y sus modificaciones.\r\n2. El ordinario alcaldicio N°182, de fecha 6 de noviembre de 2012, a través\r\ndel cual se adjunta el expediente \"Actualización y Modificación Plan Regulador\r\nComunal de Ovalle\" al Seremi Minvu Región de Coquimbo.\r\n3. El ordinario alcaldicio N°821, de fecha 22 de mayo de 2013, a través del\r\ncual se ingresa a trámite el expediente \"Actualización y Modificación Plan\r\nRegulador Comunal de Ovalle\" al Seremi Minvu Región de Coquimbo.\r\n4. El ordinario N°933 de la Seremi Minvu Región de Coquimbo, de fecha 13 de\r\njunio de 2013, a través del cual se informa Observaciones al Expediente de\r\nAprobación Legal del Plan Regulador Comunal de Ovalle, suspende plazo de revisión y\r\notorga un plazo máximo de 20 días corridos para su subsanación.\r\n5. "
+ },
+ {
+  "id": "d0820",
+  "comuna": "ovalle",
+  "nombre_documento": "decreto_exento_6459_aprueba_el_proceso_de_exposicion_ejecutivo_y_sus_planos_actu",
+  "archivo": "ovalle_decreto_exento_6459_aprueba_el_proceso_de_exposicion_ejecutivo_y_sus_planos_actu__6459.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 180,
+  "paginas_escaneadas": 36,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "lLUSTRE MUNICIPALIDAD\r\n\r\nDmEccloN DE ASESORIA .URIDICA\r\n\r\nDECRETO EXENTO N°6,459,OVALLE, 26 de agosto de 2.024.-\r\n\r\nV I S T 0 S:\r\nEI Cerijficado N°446 de fecha 06 de agosto de 2.024, donde el Secretario Municipal certifica que en\r\nSesión Ordinaria N°22 de igual fecha, el Honorable Concejo Municipal aprobó por unanimidad la publicación,\r\n\r\naudiencia y proceso de exposición pública del lnfome Ejecutivo y sus planos, referente al estudio denominado\r\n\"Actualización Plan Regulador Comunal de Ovalle\"; los memorándums intemos N°1028 y N°1077, de fecha 24\r\n\r\nde julio y 01 de agosto de 2024, respectivamente, emitidos por el Secretario Comunal de Planificación; 1o\r\n\r\ndispuesto en el aniculo 28 octies de la Ley General de Urbanismo y Construcciones; y en uso de las facultades\r\nque me otorga la Ley N° 18.695, Orgánica Constitucional de Municipalidades:\r\n\r\nCONS]DERANDO:\r\n\r\n1.. Que el articulo 28 octies de la Ley General de Urbanismo y Construcciones, en sus numerales 1 y\r\n\r\n2, señala.. \"Imagen obje{ivo de los instrumentos de planfficación territori.al y consuNa pública. El proceso de\r\n\r\nelaboración de los planes reguladores intercomunales o mstropolftanos, de los planes reguladores comunales\r\n\r\ny de los planes seccionales, asi como el relatNo a sus modificaciones, deberá ser transpan5nte y pariicipatrio,\r\ndebiendo requerirse la opinión de los vecinos aféctados y de los principales actores del terrilorio planificado.\r\n\r\nCon tal objstivo se debe contemplar, como paso previo a la elaboración"
+ },
+ {
+  "id": "d1171",
+  "comuna": "ovalle",
+  "nombre_documento": "decreto_exento_4576_ab_plan_regulador",
+  "archivo": "ovalle_decreto_exento_4576_ab_plan_regulador__4576.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1172",
+  "comuna": "ovalle",
+  "nombre_documento": "decreto_exento_9144_promulgase_la_actualizacion_y_modificacion_al_plan_regulador",
+  "archivo": "ovalle_decreto_exento_9144_promulgase_la_actualizacion_y_modificacion_al_plan_regulador__9144.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 40,
+  "paginas_escaneadas": 40,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0447",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "4059_promulga_modificacion_al_plano_regulador_comunas_zonas_a_y_b1",
+  "archivo": "padre_hurtado_4059_promulga_modificacion_al_plano_regulador_comunas_zonas_a_y_b1__Noviembre 2015.pdf_1458059518865.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0448",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "decreto_alcaldicio_999_promulga_la_modificacion_al_plan_regulador_comunal_de_pad",
+  "archivo": "padre_hurtado_decreto_alcaldicio_999_promulga_la_modificacion_al_plan_regulador_comunal_de_pad__884f5e2b-c53c-4381-89a5-e43e66da378e.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0449",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "insercion_prensa_2da_publicacion_en_prensa_invitacion_modificacion_al_plan_regul",
+  "archivo": "padre_hurtado_insercion_prensa_2da_publicacion_en_prensa_invitacion_modificacion_al_plan_regul__0ec244f1-455d-4770-b1c7-b15a96b37717.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0450",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "plano_regulador_comunal",
+  "archivo": "padre_hurtado_plano_regulador_comunal__ORDENANZA-PARTICIPACION-CIUDADANA-1.pdf_1695305978168-1.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 19,
+  "paginas_escaneadas": 19,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0821",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "1195_modificacion_plan_regulador",
+  "archivo": "padre_hurtado_1195_modificacion_plan_regulador__do-20150410.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 84,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.128.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día..................$200.- (IVA incluido)\r\nAtrasado..............................$400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nMINISTERIO DEL TRABAJO Y\r\nPREVISIÓN SOCIAL\r\n\r\nNormas Generales\r\n\r\nSubsecretaría del Trabajo\r\n\r\nEdición de 36 páginas\r\nSantiago, Viernes 10 de Abril de 2015\r\n\r\nResolución número 566 exenta, de 2015.Determina régimen de control a aplicar al\r\nproducto Alter...................................... P.18\r\n\r\nResolución número 709 exenta, de 2015.Determina régimen de control a aplicar al\r\nproducto Slimpatch...........................P.25\r\n\r\nResolución número 567 exenta, de 2015.Determina régimen de control a aplicar al\r\nproducto Filtrum.................................. P.18\r\n\r\nPODER JUDICIAL\r\n\r\nPODER EJECUTIVO\r\n\r\nDecreto número 5, de 2015.- Designa\r\nsuplente en cargo que indica de la\r\nSubsecretaría del Trabajo. ................... P.14\r\n\r\nMINISTERIO DE ECONOMÍA,\r\nFOMENTO Y TURISMO\r\n\r\nDecreto número 6, de 2015.- Designa\r\nsuplente en cargo que indica de la\r\nSubsecretaría del Trabajo . .................. P.14\r\n\r\nResolución número 568 exenta, de 2015.Determina régimen de control a aplicar al\r\nproducto Pliazon Crema. ..................... P.19\r\n\r\nLlamados a concurso....................P.26\r\n\r\nCorporación de Fomento de la Producción\r\n\r\nMINISTERIO DE SALUD\r\n\r\nResolución número 569 exenta, de 2015.Determina régimen de control a aplicar al\r\nproducto Slimor+A"
+ },
+ {
+  "id": "d0822",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "2764_modificacion_plan_regulador",
+  "archivo": "padre_hurtado_2764_modificacion_plan_regulador__do-20150710.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 96,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "SUPLEMENTO COMBATE DE LA CONCEPCIÓN\r\nREPRODUCCIÓN DE DOCUMENTOS PUBLICADOS EN EL DIARIO OFICIAL EN EL AÑO 1882\r\n\r\n\f\t\t\r\nSuplemento Combate de La Concepción\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 10 de Julio de 2015\r\n\r\nREPRODUCCIÓN DE DOCUMENTOS PUBLICADOS EN EL DIARIO OFICIAL EN EL AÑO 1882\r\n\r\nPágina - 2\r\n\r\n\f\t\t\r\nPágina - 3\t\t\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 10 de Julio de 2015\r\n\r\nSuplemento Combate de La Concepción\r\n\r\nREPRODUCCIÓN DE DOCUMENTOS PUBLICADOS EN EL DIARIO OFICIAL EN EL AÑO 1882\r\n\r\n\f\t\t\r\nSuplemento Combate de La Concepción\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 10 de Julio de 2015\r\n\r\nREPRODUCCIÓN DE DOCUMENTOS PUBLICADOS EN EL DIARIO OFICIAL EN EL AÑO 1882\r\n\r\nPágina - 4\r\n\r\n\fI\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.204.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nEdición de 16 páginas\r\nSantiago, Viernes 10 de Julio de 2015\r\n\r\nSUMARIO\r\n\r\nMINISTERIO DE ECONOMÍA,\r\nFOMENTO Y TURISMO\r\n\r\nefectuados por la Dirección General del Crédito\r\nPrendario..................................................P.10\r\n\r\nNormas Generales\r\n\r\nSubsecretaría de Pesca y Acuicultura\r\n\r\nMINISTERIO DE SALUD\r\n\r\nPODER EJECUTIVO\r\n\r\nExtracto de decreto número 531 exento, de\r\n2015, que modifica decreto Nº 958 exento, de\r\n2014, del Ministerio de Economía, Fomento\r\ny Turismo................................."
+ },
+ {
+  "id": "d0823",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "92_plan_regulador_comuna_de_padre_hurtado",
+  "archivo": "padre_hurtado_92_plan_regulador_comuna_de_padre_hurtado__PLAN_REGULADOR_ORDENANZA_LOCAL.pdf_1461086609789.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 21,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "altura_maxima": 2,
+   "agrupamiento": 2,
+   "antejardin": 3,
+   "rasante": 4,
+   "adosamiento": 5,
+   "distanciamiento": 3,
+   "zonificacion": 4,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 10,
+   "articulado": 39,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH1"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ORDENANZA LOCAL\r\n\r\nPLAN REGULADOR COMUNAL DE PADRE HURTADO\r\n\r\nC AP I T U L O 1\r\n“Derógase el Plan Regulador Comunal de Peñaflor, en todo lo vigente para la comuna de Padre\r\nHurtado, aprobado por D.S. N°108 del 09.02.1970 y sus modificaciones, con excepción de las\r\ndisposiciones contenidas en el Decreto Supremo N° 156 (V. y U.) del 2002, publicado en el Diario\r\nOficial de 16.05.2003 para la zona denominada ZH1, para el sector de calle San Ignacio de la comuna\r\nde Padre Hurtado, delimitada por el polígono A-B-C-D-A de conformidad a lo graficado en el plano\r\nN° MPH-2000 y lo dispuesto en el Artículo 2° del mismo Decreto, las que continuarán vigentes”.\r\nDISPOSICIONES GENERALES\r\nARTICULO 1.1 Las disposiciones de la presente Ordenanza contienen las normas referentes al límite\r\nurbano, zonificación, usos del suelo, condiciones de subdivisión predial, de edificación, de urbanización y\r\nvialidad las que regirán dentro del área territorial del Plan, graficada en los planos PRCPH-01 de Zonificación,\r\nPRCPH-02 de Vialidad Estructurante y PRCPH-03 de Sistema de Canales y Acequias y Áreas de Restricción.\r\nARTICULO 1.2 El área de aplicación del Plan corresponde al área urbana, definida por la línea poligonal\r\ncerrada 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 1, que la delimita y que constituye el\r\nlímite urbano.\r\nAsimismo, la descripción de los puntos y tramos del límite urbano se señalan en el artículo 2.1 de esta\r\nOrdenanza.\r\nARTICULO 1.3 Todas las materias at"
+ },
+ {
+  "id": "d1173",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "1141_promulga_enmienda_al_plan_regulador_comunal_denominada_enmienda_zona_e2_vil",
+  "archivo": "padre_hurtado_1141_promulga_enmienda_al_plan_regulador_comunal_denominada_enmienda_zona_e2_vil__Diario Oficial.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1174",
+  "comuna": "padre_hurtado",
+  "nombre_documento": "872_promulga_modificacion_del_plan_regulador_para_la_relocalizacion_de_areas_ver",
+  "archivo": "padre_hurtado_872_promulga_modificacion_del_plan_regulador_para_la_relocalizacion_de_areas_ver__Diario Oficial Mayo 17.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0451",
+  "comuna": "padre_las_casas",
+  "nombre_documento": "decreto_2105_apruebase_actualizacion_estudio_plan_regulador_comunal_de_padre_las",
+  "archivo": "padre_las_casas_decreto_2105_apruebase_actualizacion_estudio_plan_regulador_comunal_de_padre_las__DGM_2105%20%281%29.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DECRETO N°2105 / 2023QPONMLKJIHGFEDCBA\r\nPADRE LAS CASAS, 07 de Septiembre del 2023\r\n\r\nC A P IT A L\r\nIN T E R C U L T UR A L\r\n\r\nD E C H IL E\r\n\r\nVISTOS:\r\n1 . L o D is p u e s to e n la L e y N ° 1 8 .6 9 5 , O rg á n ic a C o n s titu c io n a l D e M u n ic ip a lid a d e s .\r\n2 . L a R e s o lu c ió n N ° 7 d e l a ñ o 2 0 1 9 , d e la C o n tra lo ría G e n e ra l d e la R e p ú b lic a , q u e fija n o rm a s s o b re\r\n\r\ne x e n c ió n d e l trá m ite d e T o m a d e R a z ó n ; y la R e s o lu c ió n N ° 1 4 d e l a ñ o 2 0 2 3 , q u e d e te rm in a lo s m o n to s e n\r\nU T M a p a rtir d e lo s c u a le s lo s a c to s q u e s e in d iv id u a liz a n q u e d a rá n s u je to s a T o m a d e R a z ó n y e s ta b le c e\r\n\r\nc o n tro le s d e re e m p la z o c u a n d o c o rre s p o n d a .\r\n3 . L o e s ta b le c id o e n e l A r t. 2 .1 .1 0 .- d e la O rd e n a n z a G e n e ra l d e U rb a n is m o y C o n s tru c c io n e s , e n o rd e n a q u e\r\n\r\n\"e l P la n R e g u la d o r C o m u n a l s e rá c o n fe c c io n a d o , e n c a lid a d d e fu n c ió n p riv a tiv a , p o r la M u n ic ip a lid a d\r\n\r\nre s p e c tiv a \".\r\n\r\n4 . L o e s ta b le c id o e n e l A r t. 2 .1 .1 1 .- d e la O rd e n a n z a G e n e ra l d e U rb a n is m o y C o n s tru c c io n e s , q u e e s ta b le c e\r\ne l p ro c e d im ie n to p a ra la e la b o ra c ió n y a p ro b a c ió n d e lo s P la n e s R e g u la d o re s C o m u n a le s .\r\n\r\n5 . L a R e s o lu c ió n E x e n ta N ° 1 9 6"
+ },
+ {
+  "id": "d0452",
+  "comuna": "padre_las_casas",
+  "nombre_documento": "decreto_241_rectificase_los_ttar_servicio_denominado_subsanacion_de_alcances_y_o",
+  "archivo": "padre_las_casas_decreto_241_rectificase_los_ttar_servicio_denominado_subsanacion_de_alcances_y_o__DEC%20241.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1175",
+  "comuna": "padre_las_casas",
+  "nombre_documento": "decreto_2368_ampliese_el_plazo_de_exposicion_de_los_antecedentes_relacionados_a",
+  "archivo": "padre_las_casas_decreto_2368_ampliese_el_plazo_de_exposicion_de_los_antecedentes_relacionados_a___DEC_202368.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0453",
+  "comuna": "paihuano",
+  "nombre_documento": "acuerdo_311_el_concejo_tomo_conocimiento_del_plan_regulador_intercomunal_de_la_p",
+  "archivo": "paihuano_acuerdo_311_el_concejo_tomo_conocimiento_del_plan_regulador_intercomunal_de_la_p__ACUERDO%20311%20%202016-2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0824",
+  "comuna": "paihuano",
+  "nombre_documento": "862_promulga_plan_regulador_comunal",
+  "archivo": "paihuano_862_promulga_plan_regulador_comunal__Plan Regulador 2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 25,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.400\r\n\r\nMiércoles 10 de Julio de 2019\r\n\r\nPágina 1 de 25\r\n\r\nNormas Generales\r\nCVE 1618610\r\nMUNICIPALIDAD DE PAIHUANO\r\nPROMULGA PLAN REGULADOR COMUNAL\r\nNúm. 862.- Paihuano, 20 de junio de 2019.\r\nVistos:\r\n-\r\n\r\n-\r\n\r\n-\r\n\r\n-\r\n\r\nLa Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado\r\ny sus modificaciones;\r\nLa Ley Nº 18.695, Orgánica Constitucional de Municipalidades;\r\nLo dispuesto en los artículos 41 al 46 de la Ley General de Urbanismo y Construcciones;\r\nLa Ley Nº 19.300, sobre Bases Generales del Medio Ambiente y sus modificaciones;\r\nLa Ley 20.417, que crea el Ministerio, el Servicio de Evaluación Ambiental y la Superintendencia\r\ndel Medio Ambiente;\r\nLo dispuesto los artículos 2.1.10 y 2.1.11, del D.S. Nº 47 del año 1992 y sus modificaciones,\r\nOrdenanza General de Urbanismo y Construcciones;\r\nEl Decreto Alcaldicio N° 1830, del 16 de diciembre de 2016, que aprueba la asunción de Alcalde\r\ny Concejales, periodo 2016-2020;\r\nLa Resolución Nº 1.600 de 2008 de la Contraloría General de la República;\r\nEl Acuerdo Nº 57/2013, de la Secretaria Municipal de Paihuano, que certifica que el Concejo\r\nMunicipal, en Sesión Extraordinaria N°07 celebrada con fecha 13 de agosto de 2013, acordó por\r\nunanimidad la aprobación del proyecto “Estudio Adecuación Formulación del Plan Regulador\r\nComunal de Paihuano”;\r\nEl Decreto Alcaldicio N° 987 de fecha 30 de diciembre de 2013, que aprueba"
+ }
+]

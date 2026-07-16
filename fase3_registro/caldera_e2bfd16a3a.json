@@ -1,0 +1,25 @@
+{
+  "id": "caldera_e2bfd16a3a",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_sn_modifica_plan_regulador_de_caldera_zona_u2ac_r22_sector_oriente_camino_calder__Exportar.pdf",
+  "nombre": "caldera_sn_modifica_plan_regulador_de_caldera_zona_u2ac_r22_sector_oriente_camino_calder__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:01:35",
+  "fin": "2026-07-14T13:06:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        6
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Modifica PRC Caldera creando subzonas U2AC-1 y R22. p3 zonificacion y usos; p4 'intensidad de ocupacion' vivienda y equipamiento (predial min 250/500 m2, ocup 70%, constructibilidad 1,4, aislado y pareado, altura 7m, antejardin); p5 zona R22 usos permitidos/prohibidos. Normas redactadas como articulo, en TEXTO extraible."
+  }
+}

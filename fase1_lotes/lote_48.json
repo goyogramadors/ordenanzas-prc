@@ -1,0 +1,837 @@
+[
+ {
+  "id": "d0264",
+  "comuna": "san_bernardo",
+  "nombre_documento": "decreto_448_declarese_desierta_la_propuesta_publica_denominada_actualizacion_pla",
+  "archivo": "san_bernardo_decreto_448_declarese_desierta_la_propuesta_publica_denominada_actualizacion_pla__DAEX_448_2019.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0265",
+  "comuna": "san_bernardo",
+  "nombre_documento": "decreto_reglamenta_la_actividad_comercial_de_alcoholes_en_la_comuna_de_san_berna",
+  "archivo": "san_bernardo_decreto_reglamenta_la_actividad_comercial_de_alcoholes_en_la_comuna_de_san_berna__ORDENANZA-N27-ACTUALIZACION-MODIF.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 16,
+  "paginas_escaneadas": 16,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0948",
+  "comuna": "san_bernardo",
+  "nombre_documento": "34_modifica_plan_regulador_comunal_de_san_bernardo_y_lo_herrera_en_el_sentido_qu",
+  "archivo": "san_bernardo_34_modifica_plan_regulador_comunal_de_san_bernardo_y_lo_herrera_en_el_sentido_qu__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 2,
+   "altura_maxima": 4,
+   "densidad": 2,
+   "agrupamiento": 16,
+   "antejardin": 2,
+   "rasante": 2,
+   "distanciamiento": 2,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 8,
+   "ordenanza_local_txt": 5,
+   "articulado": 39
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU5",
+   "ZU7",
+   "ZUE 2",
+   "ZUE2",
+   "ZUE6"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 34, VIVIENDA (2017)\r\n\r\nDecreto 34\r\nMODIFICA PLAN REGULADOR COMUNAL DE SAN BERNARDO Y LO HERRERA\r\nEN EL SENTIDO QUE INDICA\r\nMINISTERIO DE VIVIENDA Y URBANISMO\r\nFecha Publicación: 20-SEP-2017 | Fecha Promulgación: 18-AGO-2017\r\nTipo Versión: Única De : 20-SEP-2017\r\nUrl Corta: https://bcn.cl/3nvls\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE SAN BERNARDO Y LO HERRERA EN EL SENTIDO QUE INDICA\r\nNúm. 34.- Santiago, 18 de agosto de 2017.\r\nVisto:\r\nEl artículo 50 del DFL Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y\r\nConstrucciones; el artículo 6.1.12. del DS Nº 47 (V. y U.), de 1992, Ordenanza\r\nGeneral de Urbanismo y Construcciones; el artículo 2º de la ley Nº 16.391; el\r\nartículo 12 letra i) del DL Nº 1.305 (V. y U.), de 1975; el DS Nº 78 (V. y U.), de\r\n2013, que aprueba la Política Nacional de Desarrollo Urbano y su modificación; el\r\nOrd. Nº 2741, de 13 de marzo de 2015 del Director del Servicio de Vivienda y\r\nUrbanización Metropolitano; el Ord. Nº 3257, de 2 de agosto de 2017 de la\r\nSecretaría Ministerial Metropolitana de Vivienda y Urbanismo; el oficio Ord. Nº\r\n319, de 8 de agosto de 2017 de la División de Desarrollo Urbano del Minvu; y los\r\nartículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile,\r\nConsiderando:\r\na) Que la comuna de San Bernardo cuenta con Plan Regulador Comunal vigente, el\r\nque fuera aprobado por decreto alcaldicio Nº 3.855, de la Ilustre Municipalidad de\r\nSan Bernardo, de fecha 2 de mayo de 2006, y publicado en el Diario Oficial con "
+ },
+ {
+  "id": "d0949",
+  "comuna": "san_bernardo",
+  "nombre_documento": "439_modifica_ordenanza_del_plan_regulador_comunal",
+  "archivo": "san_bernardo_439_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 10,
+   "ocupacion_suelo": 10,
+   "agrupamiento": 1,
+   "usos_de_suelo": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-1",
+   "Z-2",
+   "Z-3",
+   "Z-4",
+   "Z-4a"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 439 EXENTO, SAN BERNARDO (1998)\r\n\r\nDecreto 439 EXENTO\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE SAN BERNARDO\r\nFecha Publicación: 18-FEB-1998 | Fecha Promulgación: 04-FEB-1998\r\nTipo Versión: Única De : 18-FEB-1998\r\nUrl Corta: https://bcn.cl/3lmk5\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nNúm. 439 exento.- San Bernardo, 4 de febrero de 1998.- Vistos:\r\n- El Oficio Nº 506, de fecha 23 de octubre de 1997, de la Dirección de Obras\r\nMunicipales, mediante el cual propone y somete a consideración de la Alcaldía una\r\nmodificación de la Ordenanza del Plan Regulador Comunal contenida en el \"Proyecto\r\nModificación Plan Regulador Comunal de San Bernardo\";\r\n- Las disposiciones contenidas en el Artículo 45, inciso segundo, punto 3, de\r\nla Ley General de Urbanismo y Construcciones; y en el Artículo 2.1.8, inciso\r\nsegundo, de la Ordenanza General de Urbanismo y Construcciones;\r\n- El Informe de la Comisión de Desarrollo Urbano del Concejo Municipal, de\r\nfecha 3 de noviembre de 1997;\r\n- El Acuerdo Nº 187-97 del Concejo Municipal adoptado en su Sesión Ordinaria\r\nNº 35, de fecha 5 de noviembre de 1997, debidamente certificado por la Secretaría\r\nMunicipal con fecha 29 de diciembre de 1997;\r\n- El Oficio Nº 525, de fecha 6 de noviembre de 1997, de la Dirección de Obras\r\nMunicipales;\r\n- Las publicaciones del diario La Tercera, de fechas 9 de noviembre de 1997 y 12\r\nde noviembre de 1997;\r\n- El certificado de la Secretaría Municipal, de fecha 6 de enero de 1998, so"
+ },
+ {
+  "id": "d0950",
+  "comuna": "san_bernardo",
+  "nombre_documento": "6387_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_localidad",
+  "archivo": "san_bernardo_6387_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "rasante": 3,
+   "adosamiento": 1,
+   "distanciamiento": 3,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 8,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU\r\n1",
+   "ZU 1"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6387 EXENTO, SAN BERNARDO (2017)\r\n\r\nDecreto 6387 EXENTO\r\nAPRUEBA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE SAN\r\nBERNARDO Y LOCALIDAD DE LO HERRERA\r\nMUNICIPALIDAD DE SAN BERNARDO\r\nPublicación: 25-OCT-2017 | Promulgación: 05-OCT-2017\r\nVersión: Única De : 25-OCT-2017\r\nUrl Corta: https://bcn.cl/3oy7s\r\n\r\nAPRUEBA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE SAN BERNARDO Y LOCALIDAD DE LO\r\nHERRERA\r\nNúm. 6.387 exento.- San Bernardo, octubre 5 de 2017.\r\nVistos:\r\n- El Plan Regulador Comunal de San Bernardo y Localidad de Lo Herrera, aprobado\r\npor Acuerdo del Concejo Municipal Nº 724, de fecha 27 de julio de 2004, promulgado\r\npor decreto alcaldicio Nº 3.855, de fecha 2 de mayo de 2006, y publicado en el\r\nDiario Oficial con fecha 13 de junio de 2006.\r\n- Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y\r\nConstrucciones y lo dispuesto en los artículos 2.1.11. y 2.1.13. de la Ordenanza\r\nGeneral de Urbanismo y Construcciones, referente a Enmiendas a los Planes Reguladores\r\nComunales.\r\n- El acuerdo Nº 1698-16 del H. Concejo Municipal de San Bernardo adoptado en\r\nSesión Ordinaria Nº 138, del 4 de octubre de 2016, que aprueba autorizar la\r\ndiscusión y difusión de la Enmienda N° 1 al Plan Regulador Comunal de San Bernardo\r\ny Localidad de Lo Herrera, Zona ZU 1.1 Plaza de Armas de la Ordenanza Local.\r\n- Los avisos de prensa efectuados en el diario la Tercera, los días viernes 12\r\ny 19 de mayo de 2017, informando el proceso de aprobación de la Enmienda N° 1,\r\nsegún calendario p"
+ },
+ {
+  "id": "d0951",
+  "comuna": "san_bernardo",
+  "nombre_documento": "6388_aprueba_enmienda_no_2_al_plan_regulador_comunal_de_san_bernardo_y_localidad",
+  "archivo": "san_bernardo_6388_aprueba_enmienda_no_2_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "densidad": 1,
+   "agrupamiento": 1,
+   "rasante": 2,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 8,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU\r\n1",
+   "ZU 1"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6388 EXENTO, SAN BERNARDO (2017)\r\n\r\nDecreto 6388 EXENTO\r\nAPRUEBA ENMIENDA Nº 2 AL PLAN REGULADOR COMUNAL DE SAN\r\nBERNARDO Y LOCALIDAD DE LO HERRERA\r\nMUNICIPALIDAD DE SAN BERNARDO\r\nFecha Publicación: 25-OCT-2017 | Fecha Promulgación: 05-OCT-2017\r\nTipo Versión: Única De : 25-OCT-2017\r\nUrl Corta: https://bcn.cl/3ls4x\r\n\r\nAPRUEBA ENMIENDA Nº 2 AL PLAN REGULADOR COMUNAL DE SAN BERNARDO Y LOCALIDAD DE LO\r\nHERRERA\r\nNúm. 6.388 exento.- San Bernardo,\r\n\r\noctubre 5 de 2017.\r\n\r\nVistos:\r\n- El Plan Regulador Comunal de San Bernardo y Localidad de Lo Herrera, aprobado\r\npor Acuerdo del Concejo Municipal Nº 724, de fecha 27 de julio de 2004, promulgado\r\npor decreto alcaldicio Nº 3.855, de fecha 02 de mayo de 2006, y publicado en el\r\nDiario Oficial con fecha 13 de junio de 2006.\r\n- Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y\r\nConstrucciones y lo dispuesto en los artículos 2.1.11. y 2.1.13. de la Ordenanza\r\nGeneral de Urbanismo y Construcciones, referente a Enmiendas a los Planes Reguladores\r\nComunales.\r\n- El acuerdo Nº 1699-16 del H. Concejo Municipal de San Bernardo adoptado en\r\nSesión Ordinaria Nº 138, del 4 de octubre de 2016, que aprueba autorizar la\r\ndiscusión y difusión de la Enmienda N° 2 al Plan Regulador Comunal de San Bernardo\r\ny Localidad de Lo Herrera, Zona ZU 1.2 Centro de la Ordenanza Local.\r\n- Los avisos de prensa efectuados en el diario la Tercera, los días viernes 12\r\ny 19 de mayo de 2017, informando el proceso de aprobación de la Enmienda N° 02,\r\nse"
+ },
+ {
+  "id": "d0952",
+  "comuna": "san_bernardo",
+  "nombre_documento": "6389_aprueba_enmienda_no_3_al_plan_regulador_comunal_de_san_bernardo_y_localidad",
+  "archivo": "san_bernardo_6389_aprueba_enmienda_no_3_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "densidad": 1,
+   "agrupamiento": 1,
+   "rasante": 2,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 8,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU\r\n1",
+   "ZU 1"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6389 EXENTO, SAN BERNARDO (2017)\r\n\r\nDecreto 6389 EXENTO\r\nAPRUEBA ENMIENDA Nº 3 AL PLAN REGULADOR COMUNAL DE SAN\r\nBERNARDO Y LOCALIDAD DE LO HERRERA\r\nMUNICIPALIDAD DE SAN BERNARDO\r\nPublicación: 25-OCT-2017 | Promulgación: 05-OCT-2017\r\nVersión: Única De : 25-OCT-2017\r\nUrl Corta: https://bcn.cl/3md2n\r\n\r\nAPRUEBA ENMIENDA Nº 3 AL PLAN REGULADOR COMUNAL DE SAN BERNARDO Y LOCALIDAD DE LO\r\nHERRERA\r\nNúm. 6.389 exento.- San Bernardo, octubre 5 de 2017.\r\nVistos:\r\n- El Plan Regulador Comunal de San Bernardo y Localidad de Lo Herrera, aprobado\r\npor Acuerdo del H. Concejo Municipal Nº 724 de fecha 27 de julio de 2004, promulgado\r\npor decreto alcaldicio Nº 3.855 de fecha 2 de mayo de 2006 y publicado en el Diario\r\nOficial con fecha 13 de junio de 2006.\r\n- Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y\r\nConstrucciones y lo dispuesto en los artículos 2.1.11. y 2.1.13. de la Ordenanza\r\nGeneral de Urbanismo y Construcciones, referente a Enmiendas a los Planes Reguladores\r\nComunales.\r\n- El acuerdo Nº 1700-16 del H. Concejo Municipal de San Bernardo adoptado en\r\nSesión Ordinaria Nº 138 del 4 de octubre de 2016, que aprueba autorizar la\r\ndiscusión y difusión de la Enmienda N° 3 al Plan Regulador Comunal de San Bernardo\r\ny Localidad de Lo Herrera, Zona ZU 1.3 Sur Nogales de la Ordenanza Local.\r\n- Los avisos de prensa efectuados en el diario La Tercera, los días viernes 12\r\ny 19 de mayo de 2017, informando el proceso de aprobación de la Enmienda N° 3,\r\nsegún calendario prees"
+ },
+ {
+  "id": "d0953",
+  "comuna": "san_bernardo",
+  "nombre_documento": "decreto_aprueba_enmienda_no_3_al_plan_regulador_comunal_de_san_bernardo_y_locali",
+  "archivo": "san_bernardo_decreto_aprueba_enmienda_no_3_al_plan_regulador_comunal_de_san_bernardo_y_locali__Decreto-6387-EXENTO-25-OCT-2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "rasante": 3,
+   "adosamiento": 1,
+   "distanciamiento": 3,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 8,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU\r\n1",
+   "ZU 1"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6387 EXENTO, SAN BERNARDO (2017)\r\n\r\nDecreto 6387 EXENTO\r\nAPRUEBA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE SAN\r\nBERNARDO Y LOCALIDAD DE LO HERRERA\r\nMUNICIPALIDAD DE SAN BERNARDO\r\nFecha Publicación: 25-OCT-2017 | Fecha Promulgación: 05-OCT-2017\r\nTipo Versión: Única De : 25-OCT-2017\r\nUrl Corta: http://bcn.cl/2gmgo\r\n\r\nAPRUEBA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE SAN BERNARDO Y LOCALIDAD DE LO\r\nHERRERA\r\nNúm. 6.387 exento.- San Bernardo, octubre 5 de 2017.\r\nVistos:\r\n- El Plan Regulador Comunal de San Bernardo y Localidad de Lo Herrera, aprobado\r\npor Acuerdo del Concejo Municipal Nº 724, de fecha 27 de julio de 2004, promulgado\r\npor decreto alcaldicio Nº 3.855, de fecha 2 de mayo de 2006, y publicado en el\r\nDiario Oficial con fecha 13 de junio de 2006.\r\n- Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y\r\nConstrucciones y lo dispuesto en los artículos 2.1.11. y 2.1.13. de la Ordenanza\r\nGeneral de Urbanismo y Construcciones, referente a Enmiendas a los Planes Reguladores\r\nComunales.\r\n- El acuerdo Nº 1698-16 del H. Concejo Municipal de San Bernardo adoptado en\r\nSesión Ordinaria Nº 138, del 4 de octubre de 2016, que aprueba autorizar la\r\ndiscusión y difusión de la Enmienda N° 1 al Plan Regulador Comunal de San Bernardo\r\ny Localidad de Lo Herrera, Zona ZU 1.1 Plaza de Armas de la Ordenanza Local.\r\n- Los avisos de prensa efectuados en el diario la Tercera, los días viernes 12\r\ny 19 de mayo de 2017, informando el proceso de aprobación de la Enmienda N° 1,\r\nse"
+ },
+ {
+  "id": "d1254",
+  "comuna": "san_bernardo",
+  "nombre_documento": "decreto_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_locali",
+  "archivo": "san_bernardo_decreto_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_locali__ORDENANZAN34.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 12,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0266",
+  "comuna": "san_carlos",
+  "nombre_documento": "decreto_exento_270_4673_procedase_a_la_toma_de_linea_de_edificaion_de_acuerdo_a",
+  "archivo": "san_carlos_decreto_exento_270_4673_procedase_a_la_toma_de_linea_de_edificaion_de_acuerdo_a___E4673.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1255",
+  "comuna": "san_carlos",
+  "nombre_documento": "39577_plan_regulador_comunal_de_san_carlos_ordenanza_local",
+  "archivo": "san_carlos_39577_plan_regulador_comunal_de_san_carlos_ordenanza_local__OrdenanzaDiarioOficial.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1256",
+  "comuna": "san_carlos",
+  "nombre_documento": "decreto_exento_121_1289_declarase_la_disolucion_de_la_organizacion_comunitaria_f",
+  "archivo": "san_carlos_decreto_exento_121_1289_declarase_la_disolucion_de_la_organizacion_comunitaria_f__E1289.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0267",
+  "comuna": "san_clemente",
+  "nombre_documento": "acuerdo_592_sesion_ordinaria_n_29_segun_acuerdo_n_323_aprueba_iniciar_el_proceso",
+  "archivo": "san_clemente_acuerdo_592_sesion_ordinaria_n_29_segun_acuerdo_n_323_aprueba_iniciar_el_proceso__ACUERDO%20323.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0268",
+  "comuna": "san_clemente",
+  "nombre_documento": "decreto_exento_2429_autorizase_contratar_directamente_con_el_proveedor_camilo_er",
+  "archivo": "san_clemente_decreto_exento_2429_autorizase_contratar_directamente_con_el_proveedor_camilo_er__2429%20S.M.%202018.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0269",
+  "comuna": "san_clemente",
+  "nombre_documento": "ordenanza_3075_apruebese_enmienda_n1_compuesta_por_memoraria_explicativa_plano_y",
+  "archivo": "san_clemente_ordenanza_3075_apruebese_enmienda_n1_compuesta_por_memoraria_explicativa_plano_y__Decreto%20Alcaldicio%20N%C2%B0%203075.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 32,
+  "paginas_escaneadas": 32,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0954",
+  "comuna": "san_clemente",
+  "nombre_documento": "15_promulga_plan_regulador_comunal_de_san_clemente_y_deja_sin_efecto_resolucione",
+  "archivo": "san_clemente_15_promulga_plan_regulador_comunal_de_san_clemente_y_deja_sin_efecto_resolucione__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolución 15, INTERIOR (2019)\r\n\r\nResolución 15\r\nPROMULGA PLAN REGULADOR COMUNAL DE SAN CLEMENTE Y DEJA SIN\r\nEFECTO RESOLUCIONES QUE INDICA\r\nMINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA; GOBIERNO REGIONAL\r\nDEL MAULE\r\nFecha Publicación: 11-JUN-2019 | Fecha Promulgación: 05-FEB-2019\r\nTipo Versión: Única De : 11-JUN-2019\r\nUrl Corta: https://bcn.cl/3qito\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE SAN CLEMENTE Y DEJA SIN EFECTO RESOLUCIONES QUE\r\nINDICA\r\nNúm. 15.- Talca, 5 de febrero de 2019.\r\nVistos:\r\n1.\r\nEl artículo 111 y la disposición Vigésimo Octava transitoria inciso final de\r\nla Constitución Política del Estado, cuyo texto refundido, coordinado y\r\nsistematizado fue fijado por Decreto Supremo Nº 100 de 17 de septiembre de 2005, del\r\nMinisterio Secretaría General de la Presidencia y sus modificaciones;\r\n2.\r\nLa Ley Nº 19.175 de 1992, Orgánica Constitucional sobre Gobierno y\r\nAdministración Regional, texto refundido, coordinado, sistematizado y actualizado\r\nfijado por D.F.L. 1/19.175 de 2005, Ministerio del Interior, Subsecretaría de\r\nDesarrollo Regional y Administrativo y sus modificaciones;\r\n3.\r\nEl DFL Nº 458 del Ministerio de Vivienda y Urbanismo, publicado el 13 de abril\r\nde 1976, que aprueba nueva Ley General de Urbanismo y Construcciones, y sus\r\nmodificaciones, en especial, lo establecido en su artículo 43;\r\n4.\r\nEl Decreto Nº 47 del Ministerio de Vivienda y Urbanismo, publicado el 5 de\r\njunio de 1992, que fija nuevo texto de la Ordenanza General de la Ley General de\r\nUrbanismo y"
+ },
+ {
+  "id": "d1257",
+  "comuna": "san_clemente",
+  "nombre_documento": "decreto_exento_1212_apruebese_la_siguiente_modificacion_via_enmienda_n_1_compues",
+  "archivo": "san_clemente_decreto_exento_1212_apruebese_la_siguiente_modificacion_via_enmienda_n_1_compues__1212_20S.M._202026.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1258",
+  "comuna": "san_clemente",
+  "nombre_documento": "decreto_exento_3092_apruebese_el_inicio_de_la_enmienda_n_1_al_plan_regulador_com",
+  "archivo": "san_clemente_decreto_exento_3092_apruebese_el_inicio_de_la_enmienda_n_1_al_plan_regulador_com__3092_20S.M.2025.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1259",
+  "comuna": "san_clemente",
+  "nombre_documento": "decreto_exento_3515_apruebese_el_catastro_de_pavimentos_realizado_por_la_oficina",
+  "archivo": "san_clemente_decreto_exento_3515_apruebese_el_catastro_de_pavimentos_realizado_por_la_oficina__3515_20S.M._202024.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1260",
+  "comuna": "san_clemente",
+  "nombre_documento": "decreto_exento_5862_apruebese_plan_regulador_comunal_de_san_clemente",
+  "archivo": "san_clemente_decreto_exento_5862_apruebese_plan_regulador_comunal_de_san_clemente__05862.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0270",
+  "comuna": "san_esteban",
+  "nombre_documento": "11_actualizacion_plano_regulador",
+  "archivo": "san_esteban_11_actualizacion_plano_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 26,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "articulado": 5,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (constructibilidad, agrupamiento, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Resolución 11, INTERIOR (2018)\r\n\r\nResolución 11; Resolución 31/4/11\r\nDÉJESE SIN EFECTO RESOLUCIÓN Nº 31/4/49, DE 2017, DE GOBIERNO\r\nREGIONAL DE VALPARAÍSO Y PROMÚLGUESE ACTUALIZACIÓN DEL PLAN\r\nREGULADOR COMUNAL DE SAN ESTEBAN\r\nMINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA; GOBIERNO REGIONAL V\r\nREGIÓN DE VALPARAÍSO\r\nFecha Publicación: 21-JUN-2018 | Fecha Promulgación: 29-ENE-2018\r\nTipo Versión: Única De : 21-JUN-2018\r\nUrl Corta: https://bcn.cl/3l0j1\r\n\r\nDÉJESE SIN EFECTO RESOLUCIÓN Nº 31/4/49, DE 2017, DE GOBIERNO REGIONAL DE\r\nVALPARAÍSO Y PROMÚLGUESE ACTUALIZACIÓN DEL PLAN REGULADOR COMUNAL DE SAN ESTEBAN\r\nNúm. 31/4/11.- Valparaíso, 29 de enero de 2018.\r\nVisto:\r\n1º. Lo dispuesto en los artículos 27, 28, 29, 41, 42, 43, 44, 47, 48, 49, 51\r\ndel DFL Nº 458 de 1975, Ley General de Urbanismo y Construcciones, artículos 2.1.1,\r\n2.1.2, 2.1.4, 2.1.10, 2.1.11, 2.1.12, 2.1.13 y 2.1.14 del DS Nº 47 de 1992 Ordenanza\r\nGeneral de Urbanismo y Construcciones, ambas del Ministerio de Vivienda y Urbanismo.\r\n2º. Lo prescrito en los artículos 13, 20 letra f), 23, 24 letras g), o), q),\r\nr) y s), 30 bis, 30 ter, letras i), numeral 3) y J) 36 letra c) incisos 2º y 4º,\r\ndel DFL 1 de 2005 del Ministerio del Interior y Seguridad Pública, que fija el texto\r\nrefundido, coordinado, sistematizado y actualizado de la Ley 19.175, Orgánica\r\nConstitucional sobre Gobierno y Administración Regional; los artículos 7 bis y\r\nquáter de la Ley 19.300 de 1994, sobre Bases Generales de Medio Ambiente.\r\n3º. Lo contemplad"
+ },
+ {
+  "id": "d0271",
+  "comuna": "san_esteban",
+  "nombre_documento": "ordenanza_ordenanza_local_plano_regulador_derogado",
+  "archivo": "san_esteban_ordenanza_ordenanza_local_plano_regulador_derogado__98576_2014_04_ordenanza_local_plano_regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 44,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 7,
+   "articulado": 8,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Ordenanza Local Plan Regulador Comunal\r\n\r\nORDENANZA LOCAL\r\nPLAN REGULADOR COMUNAL DE SAN ESTEBAN\r\n\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\nARTICULO 1\r\nLas disposiciones de la presente ordenanza contienen las normas referentes a límite\r\nurbano, zonificación, usos de suelo, condiciones de la subdivisión predial, de\r\nedificación, de urbanización y vialidad, las que regirán dentro del área territorial del\r\nPlan graficada en los planos Nº PR-SE1 y PR-SE2, en adelante el Plano, y que\r\ncomplementan la información gráfica contenida en ellos.\r\nARTICULO 2\r\nEl área de aplicación del Plan corresponde al área urbana comprendida y delimitada\r\npor la poligonal cerrada cuya descripción se encuentra en el Artículo 6 de esta\r\nOrdenanza y que constituye el límite urbano.\r\nARTICULO 3\r\nTodas aquellas materias atingentes al desarrollo urbano que no se encontraren\r\nnormadas en esta Ordenanza, se regirán por las disposiciones de la Ley General de\r\nUrbanismo y Construcciones, la Ordenanza General de Urbanismo y Construcciones\r\ny demás disposiciones legales y reglamentarias vigentes sobre la materia.\r\nARTICULO 4\r\nDe conformidad a la Ley General de Urbanismo y Construcciones, corresponde a la\r\nDirección de Obras Municipales de la Comuna de San Esteban la responsabilidad en\r\nla aplicación y observancia de las normas de la presente Ordenanza, sin perjuicio de\r\nlas facultades legales de la Secretaría Regional Ministerial de Vivienda y Urbanismo\r\nde la V Región y del Consejo Regional.\r\nARTICULO 5\r\nLa inobser"
+ },
+ {
+  "id": "d0272",
+  "comuna": "san_esteban",
+  "nombre_documento": "ordenanza_ordenanza_plano_regulador_vigente",
+  "archivo": "san_esteban_ordenanza_ordenanza_plano_regulador_vigente__98576_2017_11_ordenanza_plano_rergulador2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 2,
+   "articulado": 16,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZE-1",
+   "ZE-2",
+   "ZE-3",
+   "ZE-4",
+   "ZE-5",
+   "ZONA",
+   "ZU",
+   "ZU-1",
+   "ZU-2",
+   "ZU-3",
+   "ZU-4"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 8 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Plan Regulador Comunal de San Esteban\r\n\r\nORDENANZA\r\nPLAN REGULADOR COMUNAL DE SAN ESTEBAN\r\nNoviembre 2017\r\n\r\nI. Municipalidad de San Esteban\r\n0\r\n\r\n\fPlan Regulador Comunal de San Esteban\r\nÍNDICE\r\n\r\nTITULO 1\r\nArtículo 1\r\n\r\nTITULO 2\r\nArtículo 2\r\n\r\nTITULO 3\r\nArtículo 3\r\nArtículo 4\r\nArtículo 5\r\nArtículo 6\r\n\r\nTITULO 4\r\n\r\nDISPOSICIONES GENERALES ................................................................................. 2\r\nÁmbito del Plan. .................................................................................................................................. 2\r\n\r\nLÍMITE URBANO ........................................................................................................ 2\r\nDescripción .......................................................................................................................................... 2\r\n\r\nNORMAS GENERALES TÉCNICO URBANÍSTICAS ................................................. 6\r\nCierros ................................................................................................................................................. 6\r\nÁreas de Riesgos de Origen Natural................................................................................................... 6\r\nZonas No edificables ........................................................................................................................... 6\r\nActividades Productivas ......................................................................................"
+ },
+ {
+  "id": "d0273",
+  "comuna": "san_fabian",
+  "nombre_documento": "ordenanza_que_aprueba_plan_regulador_de_la_comuna_de_san_fabian_vigente",
+  "archivo": "san_fabian_ordenanza_que_aprueba_plan_regulador_de_la_comuna_de_san_fabian_vigente__22be7d60-af29-4e6c-b309-246f824a7aab.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0274",
+  "comuna": "san_fabian",
+  "nombre_documento": "plan_regulador_comuna_plano_memoria_y_ordenanza",
+  "archivo": "san_fabian_plan_regulador_comuna_plano_memoria_y_ordenanza__7f28c5af-ea63-403d-9d18-3bdd3cf99585.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de San Fabián\r\n\r\nOficio / Nº 19\r\nANT. : Solicitud de acceso a la información Pública Ley 20.285, Nº MU285T0000041 , de fecha\r\n28/08/2015\r\nMAT. : Accede a la entrega de información solicitada\r\nSAN FABIÁN, 03/09/2015\r\n\r\nA : SR/A. alejandra fuentes burotto\r\nDE : SR/SRA.\r\nMunicipalidad de San Fabián\r\nJunto con saludar y en virtud de su solicitud de información sobre acceso a la información pública número\r\nMU285T0000041, ingresada a Municipalidad de San Fabián con fecha 28/08/2015, me es grato comunicar que se\r\nadjunta la siguiente información:\r\nRespuesta a solicitud Nº 41 de Transparencia Pasiva. Que se corresponde con la información que usted señaló\r\ncomo: Sobre Plano Regulador de la comuna..\r\nEsta información será entregada en forma gratuita a través de la forma y los medios señalados en su solicitud.\r\nDe no encontrarse conforme con la respuesta precedente, en contra de esta respuesta usted podrá interponer\r\nun reclamo ante el Consejo para la Transparencia dentro el plazo de 15 días hábiles contados desde la notificación de\r\nla misma.\r\nEsperando haber dado respuesta a su consulta, cordialmente me despido.\r\nAtentamente.\r\nVíctor Hugo Valdebenito Villa\r\nMunicipalidad de San Fabián\r\n\r\nADJ: Plano Regulador y Otros afines en formato digital\r\nDISTRIBUCIÓN:\r\n1. Sr/a. alejandra fuentes burotto\r\n2. Archivo\r\n\r\n21 de Mayo N°312, San Fabián de Alico\r\n\r\n\fMunicipalidad de San Fabián\r\n\r\n21 de Mayo N°312, San Fabián de Alico"
+ },
+ {
+  "id": "d0955",
+  "comuna": "san_fabian",
+  "nombre_documento": "429_aprueba_modificacion_plan_regulador",
+  "archivo": "san_fabian_429_aprueba_modificacion_plan_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "articulado": 2,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 429, SAN FABIÁN (2010)\r\n\r\nDecreto 429\r\nAPRUEBA MODIFICACIÓN PLAN REGULADOR COMUNAL DE SAN FABIÁN,\r\nZONIFICACIÓN TERRENOS CON CADUCIDAD DE DECLARATORIA DE\r\nUTILIDAD PÚBLICA\r\nMUNICIPALIDAD DE SAN FABIÁN\r\nFecha Publicación: 29-OCT-2010 | Fecha Promulgación: 24-SEP-2010\r\nTipo Versión: Única De : 29-OCT-2010\r\nUrl Corta: https://bcn.cl/3raxc\r\n\r\nAPRUEBA MODIFICACIÓN PLAN REGULADOR COMUNAL DE SAN FABIÁN, ZONIFICACIÓN TERRENOS\r\nCON CADUCIDAD DE DECLARATORIA DE UTILIDAD PÚBLICA\r\nNúm. 429.- San Fabián, septiembre 24 de 2010.- Vistos:\r\na.- Las facultades que me confiere la Ley Nº 18.695, \"Orgánica Constitucional de\r\nMunicipalidades\" y sus posteriores modificaciones;\r\nb.- Lo dispuesto en artículo 59 del DFL Nº 458 (V y U) de 1976, Ley General de\r\nUrbanismo y Construcciones y en su Ordenanza General de Urbanismo y Construcciones.\r\nConsiderando: 1.- El Ord. Nº 1819 de fecha 6 de septiembre de 2010 del Secretario\r\nRegional Ministerial de Vivienda y Urbanismo que acompaña el Informe Técnico\r\nFavorable de la SEREMI de Vivienda y Urbanismo,\r\nDecreto:\r\n1.- Modifíquese el Plan Regulador Comunal de San Fabián, aprobado por DS Nº\r\n643 de 11/11/1966 y publicado en el Diario Oficial de 12/01/1967, de acuerdo a lo\r\nseñalado en el artículo 59º del DFL Nº 458 (V y U) de 1976, en el sentido\r\nsiguiente:\r\nLas fajas de terrenos declaradas de utilidad pública correspondientes a las\r\nvías proyectadas y ensanches, en los tramos que se indica en el siguiente Cuadro, se\r\nasimilan a los usos de suelo y no"
+ }
+]

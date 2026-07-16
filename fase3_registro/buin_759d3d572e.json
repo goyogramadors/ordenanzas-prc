@@ -1,0 +1,20 @@
+{
+  "id": "buin_759d3d572e",
+  "comuna": "buin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\buin_resolucion_444_estudio_capacidad_vial_plan_regulador_comunal__TC%20444.pdf",
+  "nombre": "buin_resolucion_444_estudio_capacidad_vial_plan_regulador_comunal__TC%20444.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:09:28",
+  "fin": "2026-07-15T08:10:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto TC 444/2023 (19.12.2024, texto reitera N444 fechado 17.10.2023 -- ver posible duplicado catalogado dos veces, comparar con buin_2aacc9c509) I.Municipalidad de Buin. Aprueba contrato aumento de plazo 213 dias (01.12.2024-02.07.2025) proyecto Estudio Capacidad Vial Plan Regulador Comunal. Puramente administrativo-contractual, sin norma urbanistica."
+  }
+}

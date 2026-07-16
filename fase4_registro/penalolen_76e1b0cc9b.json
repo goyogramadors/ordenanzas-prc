@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_76e1b0cc9b",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_EQ.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Ficha 'Zona EQ' Peñalolen, 1 pag escaneada. Tabla completa: usos permitidos/excluidos por escala (regional-interurbana/comunal/vecinal) y condiciones de subdivision predial y edificacion para vivienda y equipamiento (escala regional-interurbana-comunal y vecinal): superficie predial minima, frente predial minimo, ocupacion maxima de suelo, coeficiente maximo de constructibilidad, densidad, sistema de agrupamiento, rasantes y distanciamiento, altura de edificacion, antejardin, estacionamientos. Verificado visualmente pagina unica.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:26:07",
+  "fin": "2026-07-15T14:27:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_eq.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "EQ"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa con usos excluidos y 3 tablas de condiciones (vivienda, equipamiento regional/comunal, equipamiento vecinal). Escaneado, verificado visualmente integro. Coincide con nota_fase3."
+  }
+}

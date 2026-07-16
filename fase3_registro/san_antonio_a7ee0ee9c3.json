@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_a7ee0ee9c3",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_zonas_riesgo.pdf",
+  "nombre": "san_antonio_zonas_riesgo.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:26:50",
+  "fin": "2026-07-14T21:28:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "plano/leyenda de zonas de riesgo de tsunami (SHOA/protección civil) con clasificación de vulnerabilidad por distancia a costa, NO es tabla de normas urbanísticas (usos de suelo/COS/altura/etc)"
+  }
+}

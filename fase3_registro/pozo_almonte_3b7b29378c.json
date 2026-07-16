@@ -1,0 +1,20 @@
+{
+  "id": "pozo_almonte_3b7b29378c",
+  "comuna": "pozo_almonte",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pozo_almonte_plan_regulador__MODIFPR.pdf",
+  "nombre": "pozo_almonte_plan_regulador__MODIFPR.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:14:30",
+  "fin": "2026-07-14T21:15:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES EL PRC: es una pagina de CUENTA PUBLICA 2017 de Pozo Almonte que solo lista, como item presupuestario, el 'Estudio Modificacion PRC y Formulacion Plan Seccional La Tirana' (monto 202 millones, estado EJECUCION). No contiene la ordenanza ni normas. Candidato a descarte."
+  }
+}

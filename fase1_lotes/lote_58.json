@@ -1,0 +1,667 @@
+[
+ {
+  "id": "d0322",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_115_acuerda_acoger_las_observaciones_modificacion_del_plan_regulador_com",
+  "archivo": "zapallar_acuerdo_115_acuerda_acoger_las_observaciones_modificacion_del_plan_regulador_com__115.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0323",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_116_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna",
+  "archivo": "zapallar_acuerdo_116_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__116.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0324",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_117_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna",
+  "archivo": "zapallar_acuerdo_117_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__117.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0325",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_118_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna",
+  "archivo": "zapallar_acuerdo_118_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__118.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0326",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_118_aprueba_aplicacion_del_articulo_n23_del_plan_regulador_comunal",
+  "archivo": "zapallar_acuerdo_118_aprueba_aplicacion_del_articulo_n23_del_plan_regulador_comunal__118.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0327",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_119_acuerda_no_acoger_observacion_n_13_modificacion_del_plan_regulador_c",
+  "archivo": "zapallar_acuerdo_119_acuerda_no_acoger_observacion_n_13_modificacion_del_plan_regulador_c__119.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0328",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_120_acuerda_acoger_observacion_modificacion_del_plan_regulador_comunal_d",
+  "archivo": "zapallar_acuerdo_120_acuerda_acoger_observacion_modificacion_del_plan_regulador_comunal_d__120.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0329",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_120_aprueba_continuar_proceso_modificacion_plan_regulador",
+  "archivo": "zapallar_acuerdo_120_aprueba_continuar_proceso_modificacion_plan_regulador__120.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0330",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_121_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna",
+  "archivo": "zapallar_acuerdo_121_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__121.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0331",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_122_acuerda_acoger_las_observaciones_modificacion_del_plan_regulador_com",
+  "archivo": "zapallar_acuerdo_122_acuerda_acoger_las_observaciones_modificacion_del_plan_regulador_com__122.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0332",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_123_acuerda_acoger_observacion_modificacion_del_plan_regulador_comunal_d",
+  "archivo": "zapallar_acuerdo_123_acuerda_acoger_observacion_modificacion_del_plan_regulador_comunal_d__123.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0333",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_124_acuerda_no_acoger_observacion_n_modificacion_del_plan_regulador_comu",
+  "archivo": "zapallar_acuerdo_124_acuerda_no_acoger_observacion_n_modificacion_del_plan_regulador_comu__124.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0334",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_125_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna",
+  "archivo": "zapallar_acuerdo_125_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__125.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0335",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_126_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna",
+  "archivo": "zapallar_acuerdo_126_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__126.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0336",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_150_aprueba_prorrogar_observaciones_plan_regulador",
+  "archivo": "zapallar_acuerdo_150_aprueba_prorrogar_observaciones_plan_regulador__150.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0337",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_163_aprueba_la_aplicacion_del_art_23_plan_regulador_de_zapallar",
+  "archivo": "zapallar_acuerdo_163_aprueba_la_aplicacion_del_art_23_plan_regulador_de_zapallar__163.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0338",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_361_inicia_procedimiento_de_enmienda_de_plan_regulador",
+  "archivo": "zapallar_acuerdo_361_inicia_procedimiento_de_enmienda_de_plan_regulador__361.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "República de Chile\r\nI. Munioipal idad de Zapallar\r\nSecretaría Municipal\r\n\r\nCERTIFICADO ACUERDO NO 361 / 2016\r\n\r\nSesión Ordinaria No 31 / 2016\r\nConcejo Municipal de Zapallar\r\n\r\nffi\\\r\nCUEVAS,\r\n\r\nretar¡a Municipal (S) de la llustre Municipalidad\r\n\r\nEn Sesión Ordinaria No 31 de fecha 14 de Noviembre de 201G, bajo Acuerdo\r\nNo 361, el Honorable Concejo\r\n\r\nacuerda lo siguiente:\r\n\r\nSe aprueba el inicio del procedimiento de enmienda de Plan Regulador para\r\nregularizar la situación del Restaurante César.\r\n\r\nEn Zapallat, a 14 de Noviembre de 2016.\r\n\r\n.il j(. /?t."
+ },
+ {
+  "id": "d0339",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_85_aprueba_dejar_sin_efecto_de_la_rasante_plan_regulador_comunal",
+  "archivo": "zapallar_acuerdo_85_aprueba_dejar_sin_efecto_de_la_rasante_plan_regulador_comunal__85.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "rasante": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Rspública d€ Ch¡16\r\nI Municipalidad do Zapallar\r\n\r\nSocr.tárla Munbipal\r\n\r\nCERTIFICADO ACUERDO N\" 85 / 20,I4\r\n\r\nSesión Ordinaria No 10 / 2014\r\nConcejo Municipal de Zapallar\r\n\r\n,-§\r\n\r\n,U\r\n\r\nírt\r\n\r\niz\r\ni)\r\n'1á\r\n\r\nG. ANTONIO\r\nde Zapallar, que suscri\r\n\r\nDAINE, Secretario Municipal de la llustre Municipalidad\r\ncert¡fica que.\r\n\r\nEn Sesión Ordi\r\n\r\nN\" 10/2014, de fecha 11 de Abril de 2014, bajo Acuerdo No\r\n\r\n85 el Honorable\r\n\r\nDejar sin\r\n\r\nl\\ilunicipal aprueba |: siguiente.\r\n\r\nla apl¡cación de la rasante de menos 15 grados que aparece en el\r\n\r\npárrafo 4 del artículo 23 del Plan Reguladcr Comunal de Zapallar para el proyecto de\r\nconstrucción de una casa en el Lote 17-43 ubicado en la Ruta E-30-F, número 7480,\r\nParcelación San Carlos de la comuna de Zapallar, rol de Avalúo 52-81\r\n\r\n.\r\n\r\nEn Zapallar, a once días del mes de Abril del año dos mil catorce.\r\n\\ I)(.\r\n\r\n/lt"
+ },
+ {
+  "id": "d0340",
+  "comuna": "zapallar",
+  "nombre_documento": "acuerdo_93_aprueba_presentacion_de_la_enmienda_plan_regulador",
+  "archivo": "zapallar_acuerdo_93_aprueba_presentacion_de_la_enmienda_plan_regulador__93.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "República de Chile\r\nI. Municipalidad de Zapallr\r\nSecretaría Municipal\r\nCERTIFICADO ACUERDO NO 93 / 2OI7\r\n\r\nSesión Ordinaria No 14 I 2017\r\nConcejo Municipal de Zapallar\r\n\r\nsY\r\n\r\nÍu4\r\n\r\nFt\r\n\r\nz\r\n2\r\n\r\ns\r\nDAINE, Secretario Municipal de la llustre\r\nMunicipalidad de\r\nEn Sesión\r\nel Honorable Concejo\r\n\r\nAprobar la\r\n\r\nque suscribe, certifica que:\r\n\r\nNo 't4, de fecha 05 de Abril de 2017, bajo Acuerdo No 94,\r\n\r\nacuerda lo siguiente:\r\n\r\nde la Enmienda al Plan Regulador Comunal.\r\n\r\nEn Zapallar, a 06 de Abr¡l de 2017.\r\n\r\nsEC /?f¡."
+ },
+ {
+  "id": "d0341",
+  "comuna": "zapallar",
+  "nombre_documento": "decreto_ordenanza_local_del_plan_regulador_comunal_de_zapallar",
+  "archivo": "zapallar_decreto_ordenanza_local_del_plan_regulador_comunal_de_zapallar__14.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 48,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 6,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH",
+   "ZR-18",
+   "ZR-2a"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR DB ?APALLAR\r\n\r\nORDENANZA LOCAL\r\n\r\n[. MI.JNICIPALIDA-D DE ZAPALLAR\r\n$ro\r\n\r\no\r\n\r\n'{-DIRECTOR\r\nq\r\noBRAs\r\n\r\n9\"lulttcteru-es\r\n\r\n'íí;i,;;\r\n\r\n?as\r\n\r\n\fP LATV\r\n\r\nR.EG(J\r\n\r\nLADOR.\r\n\r\nD E\r\n\r\nZ.A.P'\\1_L_AR\r\n\r\nORDENANZALOCAL\r\n\r\nCapítulo\r\n\r\n1. Disposiciones\r\n\r\nGenerales.\r\n\r\nARTICULO 19 El Plan Regulador de Zapallar\r\nSector Borde Costero en\r\npor I a presente\r\na d e l a n t e P R Z - B C , e s' ltaá c o n f o r m a d o\r\nOrdenanza, el\r\nMemoria ExpI i cati va que complementa a I a\r\nPl ano PR-Z-BC-01,\r\n',rdenanza\r\ny\r\nel\r\nEstudi o\r\nde\r\nDotaci ón\r\nde\r\nAgua\r\nPotab'l e\r\ny\r\nlos que para efectos\r\nAlcantarillado,\r\nde su ap'li cacf ón , const i tuyen\r\nun solo cuerpo 1egal.\r\nA R T I C U L O 2 0' ¡ L a s d i s p o s i c i o n e s c o n t e n i d a s\r\na as si gui entes materi as:\r\nrefieren\r\n\r\nen\r\n\r\nesta\r\n\r\nOrdenanza\r\n\r\nse\r\n\r\nLími tes\r\nurbanos;\r\nzoni ficaci ón;\r\nusos\r\nde\r\nsuelo;\r\náreas\r\nde\r\nrestri cci ón\r\náreas\r\nde protecci ón\r\ny\r\nrésguardo;\r\n;\r\nnormas sobre\r\nurbani zaci ón y edi f i caci ón; y vi a'l i dad estructurante.\r\nARTICULO 30 En todo\r\nI o no previ sto\r\nen I a presente\r\nOrdenanza\r\nregirán\r\nlas disposiciones\r\ndel Plan Intercomunal\r\nde Valparaiso,\r\nde\r\nla Ley General de Urbanismo y Construcciones\r\ny su Ordenanza y\r\ndemás normas complementarias que correspondan\r\nRTrcuLo 49. En conformidad\r\na\r\nI a Ley General\r\nde urbani smo y\r\nuonstrucciones\r\ncorresponde a 1a Dirección\r\nde Obras Municipa'les la\r\nresponsabilidad\r\nen la\r\naplicación\r\nnormas de la presente\r\nde las\r\nOrdenanza y a la Secretarí"
+ },
+ {
+  "id": "d1035",
+  "comuna": "zapallar",
+  "nombre_documento": "2195_aprueba_la_enmienda_no_1_al_plan_regulador",
+  "archivo": "zapallar_2195_aprueba_la_enmienda_no_1_al_plan_regulador__1206507.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZR-1",
+   "ZR-2"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.739\r\n\r\n|\r\n\r\nSábado 22 de Abril de 2017\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1206507\r\n\r\nMUNICIPALIDAD DE ZAPALLAR\r\n\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE ZAPALLAR\r\nNúm. 2.195.- Zapallar, 6 de abril de 2017.\r\nVisto:\r\nLos antecedentes: Las facultades que me confiere la Ley N° 18.695 \"Orgánica\r\nConstitucional de Municipalidades\"; lo dispuesto en el DFL 458, de 1976, que aprueba la Ley\r\nGeneral de Urbanismo y Construcciones; lo dispuesto en el decreto 47, de 1992, que aprueba la\r\nOrdenanza General de Urbanismo y Construcciones; el Plan Regulador Comunal de Zapallar\r\naprobado de acuerdo a resolución afecta N° 34-170, del 6 de noviembre de 1998, y publicado en\r\nel DO el 21 de enero de 1999; Sentencia de Proclamación Rol N° 2489-2016 del Tribunal\r\nElectoral de la Región de Valparaíso, de fecha 5 de diciembre de 2016, que nombra Alcalde de la\r\nComuna de Zapallar.\r\nConsiderando:\r\n1° Que, la Ilustre Municipalidad de Zapallar se ha visto en la necesidad de efectuar una\r\nenmienda al Plan Regulador Comunal, dada la necesidad de regularizar la situación del\r\ntradicional restaurante César, ubicado en el borde costero de la comuna de Zapallar, y que de\r\nacuerdo al instrumento de planificación territorial actualmente vigente se encuentra en una zona\r\ncatalogada como ZR-1 y ZR-2, que solamente pe"
+ },
+ {
+  "id": "d1036",
+  "comuna": "zapallar",
+  "nombre_documento": "decreto_3118_crease_la_comision_plan_regulador",
+  "archivo": "zapallar_decreto_3118_crease_la_comision_plan_regulador__3118.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "comision"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "creacion/designacion de comision, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DECRETO DE ALCALDIA Nº3118/2025.ZAPALLAR, 28/10/2025. VISTOS:\r\n1- Las facultades que me confiere la Ley N° 18.695 “Orgánica Constitucional de\r\nMunicipalidades”; Sentencia de Proclamación Rol N° 280-2024, del Tribunal Electoral\r\nRegión de Valparaíso, de fecha 30 de noviembre de 2024, que me nombra Alcalde de\r\nla Comuna de Zapallar;\r\n2- Decreto de Alcaldía N° 35/2024 de fecha 13 de diciembre de 2024 que aprueba\r\nPresupuesto Municipal 2025.\r\n3- Decreto de Alcaldía N°115/2025 de fecha 13 de enero de 2025, que delega la\r\nfacultad de firmar bajo la fórmula \"Por Orden del Alcalde”.\r\n4- Decreto de Alcaldía N°116/2025 de fecha 13 de enero de 2025 que aprueba cuadro\r\nde subrogancia para funcionarios municipales con cargos Directivos, Jefaturas y\r\nEncargados de Departamentos.\r\n5- Decreto de Alcaldía N°524/2025 de fecha 05 de febrero de 2025, que aprueba\r\ncuadro de subrogancia del alcalde en caso de ausencia.\r\n6- Decreto de Alcaldía N°2123/2025 de fecha 21 de julio de 2025 que delega la facultad\r\nde firma bajo la fórmula \"Por Orden del Alcalde\" a don Cristián Galdames Santibáñez.\r\nCONSIDERANDO:\r\n1. Que, con fecha 8 de octubre de 2025, se ha conformado la Comisión de Urbanismo, cuyo\r\npropósito es contribuir al proceso de planificación urbana comunal mediante la\r\ncapacitación de sus integrantes, el acompañamiento al desarrollo del Plan Regulador\r\nComunal, la canalización de observaciones ciudadanas y la convocatoria a expertos\r\ncuando corresponda. En específico:\r\na. Contribuir al conocimie"
+ },
+ {
+  "id": "d1318",
+  "comuna": "zapallar",
+  "nombre_documento": "decreto_2195_aprueba_la_enmienda_no_1_al_plan_regulador",
+  "archivo": "zapallar_decreto_2195_aprueba_la_enmienda_no_1_al_plan_regulador__2195.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "santiago_6e71d55727",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_04.-Ord-N_C2_B03.pdf",
+  "nombre": "santiago_04.-Ord-N_C2_B03.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:55:05",
+  "fin": "2026-07-15T12:56:43",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord N3/2024 de Asesor Urbanista a SEREMI MINVU: responde observaciones e informe tecnico desfavorable, reingresa expediente de Modificacion PRC Santiago (Correccion Zonificacion Especial/Inmuebles Conservacion Historica). Lista indice del expediente tecnico (Memoria Explicativa, Anexos A-D incluyendo 'Anexo C: Asignacion de zonificacion y normas urbanisticas', Texto Aprobatorio, Planos, Texto Refundido) pero NO reproduce los documentos ni valores de norma; son solo referencias a documentos no incluidos en este PDF."
+  }
+}

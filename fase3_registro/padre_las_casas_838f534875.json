@@ -1,0 +1,20 @@
+{
+  "id": "padre_las_casas_838f534875",
+  "comuna": "padre_las_casas",
+  "ruta": "Ordenanzas ordenadas\\padre_las_casas_decreto_2368_ampliese_el_plazo_de_exposicion_de_los_antecedentes_relacionados_a___DEC_202368.pdf",
+  "nombre": "padre_las_casas_decreto_2368_ampliese_el_plazo_de_exposicion_de_los_antecedentes_relacionados_a___DEC_202368.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:41:34",
+  "fin": "2026-07-15T08:44:18",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 2368, 22-sep-2009, Padre Las Casas, 1 pag. AMPLIA el plazo de Exposicion de antecedentes de la Modificacion al Plan Regulador de Temuco 1983. Puramente procedimental (fija nueva fecha de audiencia/exposicion publica), no contiene tabla de normas. Verificado visualmente pagina unica."
+  }
+}

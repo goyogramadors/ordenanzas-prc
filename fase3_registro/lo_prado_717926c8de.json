@@ -1,0 +1,25 @@
+{
+  "id": "lo_prado_717926c8de",
+  "comuna": "lo_prado",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_prado_2550_aprueba_plan_regulador_comuna_de_lo_prado__Exportar.pdf",
+  "nombre": "lo_prado_2550_aprueba_plan_regulador_comuna_de_lo_prado__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 34,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:56:52",
+  "fin": "2026-07-15T08:07:28",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        20,
+        25
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "texto+visual",
+    "nota": "Decreto 2550, LO PRADO (2009), Art.31 Zonificacion. Trampa tabla-imagen clasica: texto extraido solo muestra encabezados y punto solitario. Tablas verificadas visualmente pp.20-25: ZC-1 Equip.Metropolitano (densidad 960 hab/ha, predial 500m2, COS 0.8, CC 5.2, agrup. Aislado/Pareado/Continuo, altura libre s/rasante), ZC-2 Ejes Actividad Mixta pp.21-22 (densidad 720-960, predial 500, COS 0.7-0.8, CC 2.6-5.2, distanciamiento min 10m, altura 4 pisos), ZH-1 Residencial p.23-24 (densidad 450-600, predial 120-1000m2, COS 0.6-0.7, CC 2-2.6, altura 14m/4p, antejardin 3m; incluye normas especiales Villa Kennedy/Parque Alameda: densidad 200, COS 0.7, CC 1.4, 2p), ZH-2 Densificacion Residencial p.24 (densidad 1400, COS 0.7, CC 4.5, altura libre s/rasante), ZE-1 Equip.Recreacional p.25 (predial 600, COS 0.6, CC 3.0, antejardin 5m, altura libre s/rasante). Excluidas del rango: p.13 cuadro estacionamientos (no es norma de zona) y pp.30-33 cuadros de vialidad (red vial, no norma edificatoria). Sin comuna ajena: todo bajo Decreto 2550 Lo Prado."
+  }
+}

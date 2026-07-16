@@ -1,0 +1,25 @@
+{
+  "id": "la_union_3caf5f6931",
+  "comuna": "la_union",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_union_9132_decreto_alcaldicio_n_9132_del_20122014_aprueba_enmienda_al_plan_regulador_c__do-20141220.pdf",
+  "nombre": "la_union_9132_decreto_alcaldicio_n_9132_del_20122014_aprueba_enmienda_al_plan_regulador_c__do-20141220.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:51:39",
+  "fin": "2026-07-14T15:57:07",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        15
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA UNION: decreto 9.132 exento (dic-2014), enmienda PUNTUAL al art 27 del PRC, SOLO la zona ZR-4. Todo el decreto cabe en la PAGINA 15, en texto limpio (sin trampa): usos y 'c) Normas especiales de subdivision predial y edificacion': predial minima 1.000 m2, COS 0,5, CC 1,0, agrupamiento aislado, altura segun rasante (art 2.6.3 OGUC), antejardin 3 m. *** PELIGRO DE CONTAMINACION GRAVE ***: el PDF es una edicion COMPLETA del Diario Oficial (28p) llena de material ajeno (reajustes MINVU, plagas del SAG, subsidios, antenas Subtel, quiebras). Y sobre todo: LA PAGINA 14 TIENE UNA TABLA DE NORMAS URBANISTICAS GENUINA PERO DE LA COMUNA DE CABRERO (zona ZPI-2, region del Biobio), con las mismas etiquetas (predial minima, COS, CC, altura, agrupamiento, antejardin, densidad). Si la fase siguiente busca 'pagina con tabla de normas' sin verificar el encabezado, extraera la norma de Cabrero como si fuera de La Union. EXTRAER SOLO LA PAGINA 15, confirmando 'MUNICIPALIDAD DE LA UNION' y zona ZR-4. Las 12 pags con imagen fueron miradas una a una."
+  }
+}

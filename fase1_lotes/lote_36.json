@@ -1,0 +1,641 @@
+[
+ {
+  "id": "d0460",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "1_plan_regulador",
+  "archivo": "pedro_aguirre_cerda_1_plan_regulador__1e432ca4-bebb-4da9-9251-32906450e2d1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 8,
+   "agrupamiento": 55,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZA",
+   "ZAN",
+   "ZD",
+   "ZE",
+   "ZM",
+   "ZO",
+   "ZONA",
+   "ZU"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "6294790\r\n\r\nVIEL\r\nRI\r\n\r\nZ\r\n\r\nRO\r\n\r\nM\r\n\r\nEO\r\n\r\nNA\r\n\r\nOV\r\nIA L\r\n\r\nVIA\r\nL\r\nTO\r\nRIE\r\n\r\nEJ\r\nOA\r\nQU\r\n\r\nIN P\r\n\r\n6294290\r\n\r\nIE T\r\nPR\r\nIN\r\nQU\r\nEJ\r\nOA\r\nJO\r\nS\r\n\r\nJOS\r\nUIN V\r\nA LL E\r\n\r\nJO S\r\n\r\nO\r\nL UC\r\nBAR\r\nON\r\n\r\nOD\r\nUE M\r\n\r\nING\r\n\r\nRAM\r\n\r\nO\r\n\r\nJU\r\nL\r\n\r\nDOM\r\n\r\nROS\r\n\r\nZ\r\n\r\nTO\r\n\r\nFE RN\r\n\r\nAND\r\n\r\nO LA\r\n\r\nZ CAN\r\n\r\nO\r\n\r\nAT T E\r\n\r\nO PA\r\n\r\nJU\r\n\r\nLI\r\nET\r\nA\r\n\r\nJO AQ\r\n\r\nCUL\r\nL\r\n\r\nEN\r\n\r\nIC\r\n\r\nE\r\n\r\nJOS E\r\n\r\nRI R\r\n\r\nAN\r\n\r\nEN RIQ\r\n\r\nSUL\r\n\r\nO\r\n\r\nLIC\r\nO\r\n\r\nUE\r\n\r\nET\r\n\r\nES\r\n\r\nAZC\r\n\r\nEL L\r\n\r\nUB\r\n\r\nRIG\r\n\r\nOR\r\n\r\nND\r\n\r\nOL\r\n\r\nOP\r\n\r\n6293790\r\n\r\nZU\r\n\r\nBE\r\nR\r\n\r\nSO T\r\nO\r\n\r\nIL A\r\n\r\nR\r\n\r\nA GU\r\n\r\nIL A R SO\r\n\r\nME\r\nRO\r\n\r\nJUL\r\n\r\nOS C\r\n\r\nAR\r\n\r\nI\r\n\r\nA\r\nER\r\n\r\nVIA\r\nL\r\nTO\r\n\r\nABA\r\n\r\nL\r\n\r\nEZ\r\n\r\nEJ\r\nOA\r\n\r\nANG\r\n\r\nEL\r\n\r\nAR C\r\n\r\nANG\r\n\r\nEL\r\n\r\nER\r\nRR\r\nCA\r\n\r\nJAV\r\nIE\r\n\r\nMA Z\r\n\r\nA\r\n\r\nRR\r\nCA\r\nRA\r\n\r\nAC\r\n\r\nIG N\r\n\r\nAR C\r\n\r\nJOS\r\n\r\nA\r\n\r\nAC\r\nIO D\r\n\r\nPA U\r\n\r\nEL\r\n\r\nER\r\n\r\nMO\r\nER\r\n\r\nA\r\n\r\nTA\r\n\r\nNJ A\r\n\r\nRE\r\n\r\nNC\r\n\r\nAL F\r\nER\r\n\r\nIA\r\n\r\nEZ\r\n\r\nFL O\r\n\r\nRE\r\n\r\nNC\r\n\r\nIA\r\n\r\nL UC\r\n\r\nBRE\r\n\r\nBAR\r\n\r\nROS\r\n\r\nRI\r\nSA\r\n\r\nOM\r\n\r\nG.\r\n\r\nO\r\n\r\nRO\r\n\r\nME\r\n\r\nO\r\n\r\nJUL\r\nIE\r\n\r\nIDO\r\nGU\r\n\r\nAL F\r\nER\r\n\r\nHOR\r\n\r\nLUI\r\nS\r\nRR\r\n\r\nRE\r\n\r\nIA D\r\nT OR\r\nHIS\r\n\r\nAR\r\n\r\n6293290\r\n\r\nO\r\nUG\r\nRD\r\n\r\nLIN\r\nA\r\n\r\nVE\r\n\r\nAR\r\nR\r\n\r\nCA\r\n\r\nNI\r\n\r\nOR\r\n\r\nO\r\n\r\nEL\r\n\r\nVA S\r\nS\r\n\r\nIGU\r\n\r\nGUIL\r\n\r\nIN P\r\n\r\nRA\r\nRE\r\nAR\r\n\r\nEC\r\n\r\nARI\r\n\r\nEM\r\n\r\nNJ A\r\n\r\nRIE\r\n\r\nSS\r\nA LE\r\nAT T\r\nE\r\nOM\r\nUR\r\n\r\nOS\r\n\r\nQU\r\n\r\nAN\r\n\r\nNT E\r\n\r\nRIE\r\n\r\nAR\r\nT\r\n\r\nNC\r\n\r\nTO A\r\n\r\nO\r\n\r\nIE T\r\nA\r\n\r\nGU\r\n\r\nEL\r\nIGU\r\n\r\nO\r\nME\r\nRO\r\n\r\nOS\r\n\r\nN M\r\n\r\nS IA N\r\n\r\nSA V\r\n\r\nIA L\r\n\r\nSA\r\n\r\nJUL\r\n\r\nIE T\r\nA\r\n\r\nTE R\r\nE\r\n\r\nRAM\r\n\r\nON\r\n\r\nRV\r\nAS\r\n\r\nNI\r\n\r\nAILLACA RA\r\nENZO PINZA\r\n\r\nINZ A\r\nEN ZO\r\nP\r\nND"
+ },
+ {
+  "id": "d0461",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "1_plan_regulador_de_la_comuna_ultima_revision_2_empresa_que_realizo_el_plan_regu",
+  "archivo": "pedro_aguirre_cerda_1_plan_regulador_de_la_comuna_ultima_revision_2_empresa_que_realizo_el_plan_regu__5a31315b-48bb-427a-9b81-0349a07d01e5.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 8,
+   "agrupamiento": 55,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZA",
+   "ZAN",
+   "ZD",
+   "ZE",
+   "ZM",
+   "ZO",
+   "ZONA",
+   "ZU"
+  ],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "6294790\r\n\r\nVIEL\r\nRI\r\n\r\nZ\r\n\r\nRO\r\n\r\nM\r\n\r\nEO\r\n\r\nNA\r\n\r\nOV\r\nIA L\r\n\r\nVIA\r\nL\r\nTO\r\nRIE\r\n\r\nEJ\r\nOA\r\nQU\r\n\r\nIN P\r\n\r\n6294290\r\n\r\nIE T\r\nPR\r\nIN\r\nQU\r\nEJ\r\nOA\r\nJO\r\nS\r\n\r\nJOS\r\nUIN V\r\nA LL E\r\n\r\nJO S\r\n\r\nO\r\nL UC\r\nBAR\r\nON\r\n\r\nOD\r\nUE M\r\n\r\nING\r\n\r\nRAM\r\n\r\nO\r\n\r\nJU\r\nL\r\n\r\nDOM\r\n\r\nROS\r\n\r\nZ\r\n\r\nTO\r\n\r\nFE RN\r\n\r\nAND\r\n\r\nO LA\r\n\r\nZ CAN\r\n\r\nO\r\n\r\nAT T E\r\n\r\nO PA\r\n\r\nJU\r\n\r\nLI\r\nET\r\nA\r\n\r\nJO AQ\r\n\r\nCUL\r\nL\r\n\r\nEN\r\n\r\nIC\r\n\r\nE\r\n\r\nJOS E\r\n\r\nRI R\r\n\r\nAN\r\n\r\nEN RIQ\r\n\r\nSUL\r\n\r\nO\r\n\r\nLIC\r\nO\r\n\r\nUE\r\n\r\nET\r\n\r\nES\r\n\r\nAZC\r\n\r\nEL L\r\n\r\nUB\r\n\r\nRIG\r\n\r\nOR\r\n\r\nND\r\n\r\nOL\r\n\r\nOP\r\n\r\n6293790\r\n\r\nZU\r\n\r\nBE\r\nR\r\n\r\nSO T\r\nO\r\n\r\nIL A\r\n\r\nR\r\n\r\nA GU\r\n\r\nIL A R SO\r\n\r\nME\r\nRO\r\n\r\nJUL\r\n\r\nOS C\r\n\r\nAR\r\n\r\nI\r\n\r\nA\r\nER\r\n\r\nVIA\r\nL\r\nTO\r\n\r\nABA\r\n\r\nL\r\n\r\nEZ\r\n\r\nEJ\r\nOA\r\n\r\nANG\r\n\r\nEL\r\n\r\nAR C\r\n\r\nANG\r\n\r\nEL\r\n\r\nER\r\nRR\r\nCA\r\n\r\nJAV\r\nIE\r\n\r\nMA Z\r\n\r\nA\r\n\r\nRR\r\nCA\r\nRA\r\n\r\nAC\r\n\r\nIG N\r\n\r\nAR C\r\n\r\nJOS\r\n\r\nA\r\n\r\nAC\r\nIO D\r\n\r\nPA U\r\n\r\nEL\r\n\r\nER\r\n\r\nMO\r\nER\r\n\r\nA\r\n\r\nTA\r\n\r\nNJ A\r\n\r\nRE\r\n\r\nNC\r\n\r\nAL F\r\nER\r\n\r\nIA\r\n\r\nEZ\r\n\r\nFL O\r\n\r\nRE\r\n\r\nNC\r\n\r\nIA\r\n\r\nL UC\r\n\r\nBRE\r\n\r\nBAR\r\n\r\nROS\r\n\r\nRI\r\nSA\r\n\r\nOM\r\n\r\nG.\r\n\r\nO\r\n\r\nRO\r\n\r\nME\r\n\r\nO\r\n\r\nJUL\r\nIE\r\n\r\nIDO\r\nGU\r\n\r\nAL F\r\nER\r\n\r\nHOR\r\n\r\nLUI\r\nS\r\nRR\r\n\r\nRE\r\n\r\nIA D\r\nT OR\r\nHIS\r\n\r\nAR\r\n\r\n6293290\r\n\r\nO\r\nUG\r\nRD\r\n\r\nLIN\r\nA\r\n\r\nVE\r\n\r\nAR\r\nR\r\n\r\nCA\r\n\r\nNI\r\n\r\nOR\r\n\r\nO\r\n\r\nEL\r\n\r\nVA S\r\nS\r\n\r\nIGU\r\n\r\nGUIL\r\n\r\nIN P\r\n\r\nRA\r\nRE\r\nAR\r\n\r\nEC\r\n\r\nARI\r\n\r\nEM\r\n\r\nNJ A\r\n\r\nRIE\r\n\r\nSS\r\nA LE\r\nAT T\r\nE\r\nOM\r\nUR\r\n\r\nOS\r\n\r\nQU\r\n\r\nAN\r\n\r\nNT E\r\n\r\nRIE\r\n\r\nAR\r\nT\r\n\r\nNC\r\n\r\nTO A\r\n\r\nO\r\n\r\nIE T\r\nA\r\n\r\nGU\r\n\r\nEL\r\nIGU\r\n\r\nO\r\nME\r\nRO\r\n\r\nOS\r\n\r\nN M\r\n\r\nS IA N\r\n\r\nSA V\r\n\r\nIA L\r\n\r\nSA\r\n\r\nJUL\r\n\r\nIE T\r\nA\r\n\r\nTE R\r\nE\r\n\r\nRAM\r\n\r\nON\r\n\r\nRV\r\nAS\r\n\r\nNI\r\n\r\nAILLACA RA\r\nENZO PINZA\r\n\r\nINZ A\r\nEN ZO\r\nP\r\nND"
+ },
+ {
+  "id": "d0462",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "1_plan_regulador_tomo_i",
+  "archivo": "pedro_aguirre_cerda_1_plan_regulador_tomo_i__690351ad-13e4-4fe2-891a-54f2fd86cbc0.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 345,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Territorio y Ciudad Consultores\r\n\r\nSoc. Bórquez y Burr Ltda.\r\n\r\nACTUALIZACIÓN PLAN DE DESARROLLO\r\nCOMUNAL\r\nPEDRO AGUIRRE CERDA\r\n2014-2018\r\nID Nº 2393-563-LP12\r\n\r\n2014-2018\r\n\r\nINFORME DE DIAGNÓSTICO\r\nAgosto 2014\r\n\r\nActualización Plan de Desarrollo Comunal Pedro Aguirre Cerda - Etapa 1 Diagnóstico\r\n\r\n\fTerritorio y Ciudad Consultores\r\n\r\nSoc. Bórquez y Burr Ltda.\r\n\r\nContenido\r\nPRESENTACIÓN .............................................................................................................. 1\r\nCAPÍTULO I:\r\n\r\nMETODOLOGÍA ...................................................................................... 2\r\n\r\n1.\r\n\r\nETAPAS DEL PROCESO METODOLÓGICO ......................................................... 2\r\n\r\n2.\r\n\r\nDESARROLLO METODOLÓGICO ......................................................................... 3\r\nEvaluación del Plan de Desarrollo Comunal 2009 – 2012 ............................... 3\r\n\r\n2.1.\r\n\r\nCAPÍTULO 2:\r\n1\r\n\r\n2\r\n\r\n3\r\n\r\n4\r\n\r\nDIAGNÓSTICO COMUNAL ................................................................... 7\r\n\r\nANTECEDENTES GENERALES DE LA COMUNA .................................................... 7\r\n1.1\r\n\r\nUBICACIÓN Y LÍMITES....................................................................................... 7\r\n\r\n1.2\r\n\r\nANTECEDENTES HISTÓRICOS ......................................................................... 7\r\n\r\nANTECEDENTES DE RECURSOS NATURALES...................................................... 8\r\n2.1\r\n\r\nGEOLOGÍA................."
+ },
+ {
+  "id": "d0463",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "2_plan_regulador_tomo_ii",
+  "archivo": "pedro_aguirre_cerda_2_plan_regulador_tomo_ii__53853819-7508-4368-8b8e-2595ba33eaaf.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 130,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "IL UST RE\r\n\r\nM UNI CI P ALIDAD\r\n\r\nDE\r\n\r\nP E DRO\r\n\r\nAGUIRRE\r\n\r\nCE RDA\r\n\r\nACTUALIZACIÓN PLAN DE DESARROLLO\r\nCOMUNAL DE\r\nPEDRO AGUIRRE CERDA\r\n2014-2018\r\nID Nº 2393-563-LP12\r\n\r\n2014-2018\r\n\r\nINFORME FASE DE PLANIFICACIÓN\r\nAgosto 2014\r\n\r\nActualización PLADECO Pedro Aguirre Cerda\r\n\r\nInforme Fase de Planificación\r\n\r\n\fIL UST RE\r\n\r\nM UNI CI P ALIDAD\r\n\r\nDE\r\n\r\nP E DRO\r\n\r\nAGUIRRE\r\n\r\nCE RDA\r\n\r\nLa presente Actualización del Plan de Desarrollo\r\nComunal de Pedro Aguirre Cerda, para el período\r\n2014-2018, fue desarrollada mediante un Estudio\r\nfinanciado por el Gobierno Regional Metropolitano\r\nde Santiago, el cual fue encargado, mediante\r\nlicitación pública a Territorio y Ciudad Consultores,\r\nSoc. Bórquez y Burr Ltda, en abril de 2013, bajo la\r\nadministración municipal de la Alcaldesa Claudina\r\nNúñez Jiménez.\r\nEl PLADECO fue aprobado el 19 de agosto de 2014\r\nen acuerdo Nº 92 del Concejo Municipal, el que se\r\nencuentra presidido por la Alcaldesa y compuesto\r\npor los concejales Manuel Aguilar Gálvez, Eduardo\r\nCancino Cáceres, Nelson Cornejo Neira, Rodrigo\r\nLagos Fuentes, Eduardo Pastene Azola, Gloria\r\nRodríguez Calderón, Juan Rozas Romero y Carmen\r\nSalinas Jara.\r\n\r\nPedro Aguirre Cerda, agosto 2014.\r\n\r\nActualización PLADECO Pedro Aguirre Cerda\r\n\r\nInforme Fase de Planificación\r\n\r\n\fIL UST RE\r\n\r\nM UNI CI P ALIDAD\r\n\r\nDE\r\n\r\nP E DRO\r\n\r\nAGUIRRE\r\n\r\nCE RDA\r\n\r\nTabla de Contenidos\r\n1. Proceso de Planificación.................................................................................................. 1\r"
+ },
+ {
+  "id": "d0464",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "estimadao_espero_que_se_encuentre_bien_solicito_informacion_sobre_los_planes_reg",
+  "archivo": "pedro_aguirre_cerda_estimadao_espero_que_se_encuentre_bien_solicito_informacion_sobre_los_planes_reg__c1553a17-03c8-499e-a7f6-e06fb4d4d0a6.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD Nº MU205T0002006\r\n\r\nDE:\r\n\r\nSECRETARIO MUNICIPAL\r\n\r\nA:\r\n\r\nSRA. ANDREA HERRERA\r\n\r\nEn atención a su solicitud Nº MU205T0002006 del 17 de noviembre de 2020, y\r\ndando cumplimiento a lo dispuesto en los artículos Nº 10º y 14º de la Ley Nº20.285,\r\nsobre Acceso a la Información Pública , se da respuesta en los siguientes términos:\r\n\r\nEstimada(o), Espero que se encuentre bien. Solicito información sobre los\r\nPlanes Reguladores entre 1997 y 2019. En lo concreto necesito: • Mapas y\r\ndescripción del Plan Regulador Vigente • Mapas y descripción de Planes\r\nReguladores obsoletos que se encuentren dentro de esta ventana de tiempo\r\n(si el Plan Regulador actual se empleó antes de 1997 este caso no aplicaría) •\r\nMapas y descripción de modificaciones que hayan sufrido los Planes\r\nReguladores en este período de tiempo. Específicamente necesitamos la\r\ninformación de zonificación general y zonificación especial (usos de suelo,\r\nzonas con su descripción de coeficiente de construcción, coeficiente de\r\nocupación, altura máxima y densidad)\r\nRESPUESTA: La Secretaria Comunal de Planificación informa lo siguiente:\r\nPLAN REGULADOR\r\nEl Plan Regulador Comunal , se encuentra en etapa de ejecución para su\r\nactualización durante el año 2020-2022\r\n¡\r\n\r\nEl proceso de actualización tendrá una duración de 30 meses y será ejecutado\r\npor la Empresa URBE Diseño y Gestión Limitada.\r\nDurante la emergencia sani"
+ },
+ {
+  "id": "d0465",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "necesito_conseguir_los_planos_de_vialidad_o_perfiles_de_las_calles_respectivos_a",
+  "archivo": "pedro_aguirre_cerda_necesito_conseguir_los_planos_de_vialidad_o_perfiles_de_las_calles_respectivos_a__ccd74171-e80a-47cc-91aa-a9cb280fd438.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Vive bien!\r\n\r\nMUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD Nº MU205T0002209\r\nDE:\r\n\r\nSECRETARIO MUNICIPAL\r\n\r\nA:\r\n\r\nSR. FELIPE VIVANCO QUEZADA\r\n\r\nEn atención a su solicitud Nº MU205T0002209 del 21 de junio de 2021, y\r\ndando cumplimiento a la Ley Nº20.285, Derecho de Acceso a la Información\r\nPública, se envía respuesta a su petición.\r\nNecesito conseguir los planos de vialidad o perfiles de las calles\r\nrespectivos al ultimo plan regulador aplicado en la comuna,\r\nespecíficamente de la zona PAC 1 del actual plan regulador,\r\nLa Dirección de Obras señala:\r\nRESPUESTA:\r\n\r\nEl actual Plan Regulador Comunal vigente de esta comuna, no presenta\r\nuna definición específica de los perfiles viales, siendo ello especificado en la\r\nordenanza del Plan Regulador Metropolitano de Santiago y lo establecido\r\ncomo marco general en la Ordenanza General de Urbanismo y\r\nConstrucciones. La anterior, información es de carácter público y el usuario\r\npuede obtenerla a través de la página del Ministerio de Vivienda y\r\nUrbanismo.\r\n\r\n(La firma de las respuestas a las solicitudes de acceso a la información pública por el suscrito,\r\nmediante una delegación del alcalde Juan Rozas Romero , se encuentra autorizada por el Decreto Nº\r\n818, del 21 de enero\r\nde 2021 , cuyo texto íntegro está disponible en la página web\r\nwww.pedroaguirrecerda.cl, en el link de \"Transparencia\". )\r\n\r\nPedro Aguirre Cerda, 29 de junio de 2021"
+ },
+ {
+  "id": "d0466",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "plan_regulador_comunal_plano_memoria_y_ordenanza",
+  "archivo": "pedro_aguirre_cerda_plan_regulador_comunal_plano_memoria_y_ordenanza__97612df0-4e1e-45ca-9a72-f0a6430ce514.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 40,
+  "paginas_escaneadas": 40,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0467",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "plano_regulador_de_la_comuna_de_pedro_aguirre_cerda_planos_y_normativa",
+  "archivo": "pedro_aguirre_cerda_plano_regulador_de_la_comuna_de_pedro_aguirre_cerda_planos_y_normativa__03cad6af-2982-4bb6-83ca-8fe5d3adb47b.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD\r\n\r\nPedro Aguirre Cerda\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD Nº MU205T0002932\r\n\r\nDE:\r\n\r\nSECRETARIO MUNICIPAL\r\n\r\nA:\r\n\r\nSRA. SONIA GALLEGOS GALLBLANCHEGOS\r\n\r\nEn atención a su solicitud Nº MU205T0002932 del 11 de abril de 2023, y dando\r\ncumplimiento a la Ley Nº20.285, Sobre Acceso a la Información Pública, se envía\r\nrespuesta a su petición.\r\nPlano regulador de la comuna de Pedro aguirre Cerda, planos y normativa\r\nRESPUESTA: En relación a la materia consultada, podemos informar que al día de hoy\r\nésta se encuentra publicada en nuestra página web www.pedroaquirrecerda.cl, costado\r\nderecho, banner \"Transparencia Activa\", pinchar se desplegará una página con 17\r\npuntos, pinchar punto 7 \"Actos y resoluciones con efectos sobre terceras personas\r\n(patentes, permisos, derechos, concesiones, concursos otros)\", luego pinchar\r\n\"Plan regulador\", y encontrará la información solicitada. Por esta forma se da\r\ncumplimiento a su requerimiento teniendo especialmente en cuenta lo dispuesto en el\r\nArt, Nº 15, de la Ley Nº 20.285.\r\n\r\nAtentamente\r\n\r\n:.:::¡\r\n\r\n1·,\r\n\r\nHUGO VILL\r\nCISTERNAS\r\nSECRETARIO MUNICIPAL\r\n\r\n(La firma de las respuestas a las solicitudes de acceso a la información pública por el suscrito, mediante una\r\ndelegación del alcalde Luis Astudillo Peiretti , se encuentra autorizada por el Decreto Nº 9544, del 09 de septiembre\r\nde 2021 , cuyo texto íntegro está disponible en la página web www.oedroaquirrecerda .cl , en el link de \"Transpare"
+ },
+ {
+  "id": "d0468",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y",
+  "archivo": "pedro_aguirre_cerda_solicito_copia_de_el_o_los_instrumentos_de_planificacion_territorial_vigentes_y___83746d59-591a-45e9-a449-1829333d7c42.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Vive bien!\r\n\r\nMUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD Nº MU205T0002508\r\nDE:\r\n\r\nSECRETARIO MUNICIPAL\r\n\r\nA:\r\n\r\nSR. MARTIN SALINAS AVILA\r\n\r\nEn atención a su solicitud Nº MU205T00025108 del 14 de abril de 2022, y dando\r\ncumplimiento a la Ley Nº20.285, Sobre Acceso a la Información Pública, se envía\r\nrespuesta a su petición.\r\nSolicito copia de el o los Instrumentos de Planificación Territorial vigentes y\r\naplicables a su comuna. Por lo anterior, debe entenderse tanto el Plan\r\nRegulador Comunal como el Plan Seccional, de existir; y también, de ser\r\naplicables, el Plan Regulador Metropolitano o lntercomunal.\r\nHe de recordar que, de acuerdo con lo dispuesto en los artículos 2.1.8. y\r\n2.1.1 O. de la Ordenanza General de Urbanismo y Construcciones, el Plan\r\nRegulador lntercomunal y el Plan Regulador Comunal, estarán\r\nconformados por la Memoria Explicativa, la Ordenanza y los Planos,\r\ndocumentos todos los cuales son requeridos por medio de la presente\r\nsolicitud.\r\nRESPUESTA: La Secretaria Comunal de Planificación informa que se remite el\r\nlink de la página web www.pedroaguirrecerda.cl, donde podrá encontrar la\r\nnormativa vigente y su ordenanza. Lamentablemente no contamos con memoria\r\nexplicativa, ya que el instrumento tiene más de 30 años de antigüedad . Sin\r\nembargo nos encontramos en la ejecución de la Etapa 3 del proceso de\r\nActualización del Instrumento.\r\n\r\nLINK: https://prcpac. el/normativa-vigente. htm 1\r\n\r\n("
+ },
+ {
+  "id": "d0469",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solicito_el_plan_regulador_y_el_plan_de_desarrollo_comunal_actualizado_2018_2022",
+  "archivo": "pedro_aguirre_cerda_solicito_el_plan_regulador_y_el_plan_de_desarrollo_comunal_actualizado_2018_2022__35a42829-48e6-473e-8d62-207a8d2e8cb2.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana",
+   "otro_tema"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD Nº MU205T0001950\r\n\r\nDE: SECRETARIO MUNICIPAL\r\nA: SR. CRISTOBAL CATALAN GARRIDO\r\nEn atención a su solicitud Nº MU205T0001950 del 29 de septiembre de 2020, y\r\ndando cumplimiento a lo dispuesto en los artículos Nº 1Oº y 14 º de la Ley Nº20.285 ,\r\nsobre Acceso a la Información Pública, se da respuesta en los siguientes términos:\r\n\r\nSolicito el Plan Regulador y el Plan de Desarrollo Comunal actualizado\r\n(2018-2022), de antemano gracias\r\nRESPUESTA: La Secretaria Comunal de Planificación informa la siguiente:\r\n\r\nPLAN REGULADOR\r\nEl Plan Regulador Comunal , se encuentra en etapa de ejecución para su\r\nactualización durante el año 2020-2022\r\nEl proceso de actualización tendrá una duración de 30 meses y será ejecutado\r\npor la Empresa URBE Diseño y Gestión Limitada .\r\nDurante la emergencia sanitaria del COVID 19 y mientras la comuna se mantuvo en\r\ncuarentena , se suspendió el inicio del proceso, el cual ya se encuentra en etapa de\r\ncoordinación entre las partes.\r\nPara mayores antecedentes técnicos de la licitación , puede acceder al siguiente\r\nlink www.mercadopublico.cl ID 2392-12-LQ19\r\nGobierno Regional: Código BIP 40002633-0\r\n\r\nPLAN DE DESARROLLO COMUNAL (PLADECO)\r\nPara el presente año, se ingresó a reevaluación al Gobierno Regional , el proyecto\r\nde Actualización del PLADECO , IDI 40002651-0 , ya que los plazos de ejecución del\r\nPLADECO , se deben ampliar debido al estado de "
+ },
+ {
+  "id": "d0470",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solicito_informacion_sobre_las_enmiendas_del_plan_regulador_de_la_poblacion_la_v",
+  "archivo": "pedro_aguirre_cerda_solicito_informacion_sobre_las_enmiendas_del_plan_regulador_de_la_poblacion_la_v__90bf18e2-3aa9-40c6-96cf-50a519d11220.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "zonificacion": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'solicitud_ciudadana' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD N° MU205T0001227\r\nDE: SECRETARIO MUNICIPAL\r\nA: SRA. VALERIA TORO\r\nEn atención a su solicitud N° MU205T0001227 del 3 de diciembre de 2018, y\r\ndando cumplimiento a lo dispuesto en los artículos N o 1oo y 14 o de la Ley\r\nN°20.285, sobre Acceso a la Información Pública, se da respuesta en los siguiente\r\ntérminos:\r\nSolicito información sobre las enmiendas del plan regulador de la población\r\nLa Victoria, publicado en el diario.\r\nRESPUESTA:\r\nSe informa que la población La Victoria , está inserta en un área que se rige por el\r\nPlan Regulador de San Miguel. Su zonificación es PAC - 1, para esta zona la\r\nenmienda modifica el artículo 22, para el Plan Regulador, remplazándolo por el\r\nartículo 3, reduciendo en un 30% el coeficiente máximo de constructibilidad .\r\nEn viviendas y equipamientos de escala vecinal , coeficiente máximo de\r\nconstructibilidad 0.84.\r\nSe adjunta en formato pdf, enmiendas al Plan Regulador, publicadas en el Diario\r\nOficial.\r\n\r\nPedro Aguirre Cerda, 7 de diciembre de 2018"
+ },
+ {
+  "id": "d0471",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solicito_informacion_sobre_los_planos_reguladores_de_la_poblacion_la_victoria_y",
+  "archivo": "pedro_aguirre_cerda_solicito_informacion_sobre_los_planos_reguladores_de_la_poblacion_la_victoria_y___8ae7331a-40a1-4bd5-aa37-2f0af330121a.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD N° MU205T0001204\r\nDE: SECRETARIO MUNICIPAL\r\nA: SRA. VALENTINA CUELLO TRIGO\r\nEn atención a su solicitud W MU205T0001204 del12 de noviembre de 2018, y\r\ndando cumplimiento a lo dispuesto en los artículos No 1oo y 14 o de la Ley\r\nW20 .285, sobre Acceso a la Información Pública, se da respuesta en los siguiente\r\ntérminos:\r\n\r\nSolicito información sobre los planos reguladores de la población La\r\nVictoria.\r\nRESPUESTA:\r\nLa Información solicitada encuentra disponible en la página web del mun1c1p1o\r\nwww.pedroaguirrecerda.cl , costado derecho, banner \"Transparencia Activa\" ,\r\npinchar y se desplegará una página con 17 puntos, pinchar el número 7, donde\r\ndice \"Actos y resoluciones con efectos sobre terceros\" , pinchar \"Actos y\r\nresoluciones con efectos sobre terceros\" y encontrará varios títulos, entre\r\nellos, \"Plan Regulador\", pinchar y encontrará la información solicitada.\r\nPermisos de construcciones de la población La Victoria.\r\nRESPUESTA:\r\nLa Información solicitada encuentra disponible en la página web del mun1c1p1o\r\nwww.pedroaguirrecerda.cl , costado derecho, banner \"Transparencia Activa\" ,\r\npinchar y se desplegará una página con 17 puntos, pinchar el número 7, donde\r\ndice \"Actos y resoluciones con efectos sobre terceros\" , pinchar \"Actos y\r\nresoluciones con efectos sobre terceros\" y encontrará varios títulos, entre\r\nellos, \"Permiso de Obra\" , pinchar y encontrará la informa"
+ },
+ {
+  "id": "d0472",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solicito_la_informacion_sobre_el_plan_regulador_y_permiso_de_edificacion_en_la_p",
+  "archivo": "pedro_aguirre_cerda_solicito_la_informacion_sobre_el_plan_regulador_y_permiso_de_edificacion_en_la_p__759a1362-f628-4519-819e-0bda7ad1302b.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD N° MU205T0001228\r\nDE: SECRETARIO MUNICIPAL\r\nA: SRA. VALERIA TRONCOSO\r\nEn atención a su solicitud N° MU205T0001228 del 3 de diciembre de 2018, y\r\ndando cumplimiento a lo dispuesto en los artículos No 10° y 14° de la Ley\r\nW20 .285, sobre Acceso a la Información Pública, se da respuesta en los siguiente\r\ntérminos:\r\nSolicito información sobre plan regulador de Población La Victoria.\r\nRESPUESTA:\r\nLa Información solicitada encuentra disponible en la página web del municipio\r\nwww.pedroaguirrecerda.cl , costado derecho, banner \"Transparencia Activa\" ,\r\npinchar y se desplegará una página con 17 puntos, pinchar el número 7, donde\r\ndice \"Actos y resoluciones con efectos sobre terceros\" , pinchar \"Actos y\r\nresoluciones con efectos sobre terceros\" y encontrará varios títulos , entre\r\nellos, \"Plan Regulador\", pinchar y encontrará la información solicitada.\r\nPermisos de edificación de la población La Victoria.\r\nRESPUESTA:\r\nLa Información solicitada encuentra disponible en la página web del municipio\r\nwww.pedroaguirrecerda.cl , costado derecho, banner \"Transparencia Activa\" ,\r\npinchar y se desplegará una página con 17 puntos, pinchar el número 7, donde\r\ndice \"Actos y resoluciones con efectos sobre terceros\", pinchar \"Actos y\r\nresoluciones con efectos sobre terceros\" y encontrará varios títulos, entre\r\nellos, \"Permiso de Obra\" , pinchar y encontrará la información solicitada.\r\nSe ad"
+ },
+ {
+  "id": "d0473",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solicito_plano_regulador_comunal_vigente_con_edificaciones_existentes_en_formato",
+  "archivo": "pedro_aguirre_cerda_solicito_plano_regulador_comunal_vigente_con_edificaciones_existentes_en_formato__21b3bf53-3371-4923-80d2-4d4611b675ee.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA",
+   "ZAN",
+   "ZM",
+   "ZO",
+   "ZONA"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "345000\r\n\r\n346000\r\n\r\n347000\r\n\r\nSANTIAGO\r\n! !\r\n!\r\n!\r\n!\r\n!\r\n\r\n!\r\n!\r\n!\r\n!\r\n\r\n!\r\n!\r\n!\r\n\r\n!\r\n\r\n!\r\n!\r\n\r\nISABEL RIQUELME\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n!\r\n!\r\n!\r\n!\r\n!\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\nL\r\n\r\n!\r\n\r\nCORREA ERRAZURIZ\r\n\r\n!\r\n\r\nVIE\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n3 PUNTAS\r\n\r\nURZUA\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\nRIO NACIMIENTO\r\n\r\nNUEVA ESPANA\r\n\r\n!\r\n\r\n!\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\nRAMIREZ\r\n\r\nFRANCISCO PIZARRO\r\n\r\n!\r\n!\r\n\r\nBUZ\r\n\r\n!\r\n\r\n!\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n!\r\n\r\nIDAS\r\n\r\n!\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\nALCALDE CARLOS VALDOVINOS\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n!\r\n\r\nEL CARMELO\r\n\r\n!\r\n\r\n!\r\n\r\nTRASLAVINA\r\n\r\nMARILUAN\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\n!\r\n\r\nEL MIRADOR\r\n\r\n¬\r\n«7\r\n\r\nALCALDE FLORES\r\n\r\nEL CARMELO\r\n\r\nJUAN DE BAST\r\n\r\n¬\r\n«\r\n6\r\n\r\n!\r\n\r\nET A\r\n\r\n!\r\n\r\nAUTOPISTA DEL SOL\r\nAUTOPISTA DEL SOL\r\n\r\nPANAMERICANA 2\r\n\r\nL\r\nRIE\r\n\r\nAPE\r\n\r\nAILLACARA\r\n\r\nLOS TALAVERAS\r\n\r\nALTUE\r\n\r\nBOYERUCA\r\n\r\nCAVANCHINA\r\n\r\nBOYERUCA\r\n\r\nAV\r\nER\r\nAS\r\nEN\r\nZO\r\nPIN\r\nZA\r\n\r\nAL\r\nST\r\nLO\r\n\r\nA\r\nME\r\n\r\nREN\r\n\r\nERA\r\nARR\r\n\r\nI\r\n\r\nSAR\r\nI\r\n\r\nIDO\r\n\r\nVAS\r\n\r\nGU\r\n\r\nOR\r\nIAD\r\nOR\r\n\r\nJUL\r\n\r\nRO\r\n\r\nIET\r\n\r\nA\r\n\r\nME\r\n\r\nO\r\n\r\nHIS\r\nT\r\nRE\r\nNI\r\nIDO\r\n\r\nO\r\nME\r\n\r\nGU\r\n\r\nRO\r\n\r\nRI\r\nSA\r\nAS\r\nRV\r\n\r\nA\r\nIET\r\n\r\nDO\r\n\r\nJUL\r\n\r\nRIA\r\n\r\nCO\r\nRE\r\nLG\r\nRE\r\nTO\r\nPIN\r\n\r\nA\r\n\r\n4\r\nJE\r\nSA\r\n\r\nFEL\r\n\r\nPA\r\n\r\nIX M\r\n\r\nBER\r\n\r\nEND\r\n\r\nEN\r\n\r\nELS\r\n\r\nICE\r\n\r\nSO\r\n\r\nHN\r\n\r\nATR\r\nOP\r\nCLE\r\n\r\nLUI\r\nSC\r\n\r\nO\r\nOL\r\nAP\r\nTO\r\nHIS\r\n\r\nTI\r\nLAT\r\nCAR\r\nOS\r\nDR\r\nJAN\r\nALE\r\n\r\nION\r\nRP\r\n\r\nLIE\r\nT\r\nJU\r\nO\r\n\r\nTE\r\n\r\n"
+ },
+ {
+  "id": "d0474",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "solitico_informacion_sobre_plan_regulador_de_la_poblacion_los_maitenes_y_permiso",
+  "archivo": "pedro_aguirre_cerda_solitico_informacion_sobre_plan_regulador_de_la_poblacion_los_maitenes_y_permiso__95b52ed3-fcfc-4e9d-9ea1-b5ae5f75c516.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\nSECRETARIA MUNICIPAL\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nRESPUESTA A LA SOLICITUD N° MU205T0001221\r\nDE: SECRETARIO MUNICIPAL\r\nA: SRA. TIARE ANABALON\r\nEn atención a su solicitud N° MU205T0001221 del 26 de noviembre de 2018, y\r\ndando cumplimiento a lo dispuesto en los artículos W 10° y 14° de la Ley\r\nW20 .285, sobre Acceso a la Información Pública, se da respuesta en los siguiente\r\ntérminos:\r\nSolicito información sobre plan regulador de la población Los Maitenes.\r\nRESPUESTA:\r\nSe informa que la población Los Maitenes, está inserta en un área que se rige por\r\nel Plan Regulador de San Miguel. Su zonificación es PAC- 1, y presenta permisos\r\npor población ; casetas sanitarias No 252 de 1983, y sus respectivas Recepciones\r\nDefinitivas No 263, del año 1983.\r\nPermisos de edificación de la población Los Maitenes.\r\nRESPUESTA:\r\nLos permisos de edificación particulares, referentes a la población Los Maitenes,\r\notorgados desde el año 2015, se encuentran disponible en la página web del\r\nmunicipio www.pedroaguirrecerda.cl , costado derecho, banner \"Transparencia\r\nActiva\" , pinchar y se desplegará una página con 17 puntos, pinchar el número 7,\r\ndonde dice \"Actos y resoluciones con efectos sobre terceros\" , pinchar \"Actos\r\ny resoluciones con efectos sobre terceros\" y encontrará varios títulos , entre\r\nellos, \"Permiso de Obra\" , pinchar y encontrará la información solicitada.\r\nSe adjunta en formato pdf, enmiendas al Plan Regulador, publicadas en el Diario\r\nOficial.\r"
+ },
+ {
+  "id": "d0834",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "14528_modifica_ordenanza_del_plan_regulador_comuna_de_san_miguel",
+  "archivo": "pedro_aguirre_cerda_14528_modifica_ordenanza_del_plan_regulador_comuna_de_san_miguel__diario 10.11.18- plan reg. (1)San Miguel.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 6,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.201\r\n\r\n|\r\n\r\nSábado 10 de Noviembre de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1491937\r\n\r\nMUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL DE SAN MIGUEL\r\nNúm. 14.528.- Pedro Aguirre Cerda, 5 de noviembre de 2018.\r\nVistos:\r\nEstos Antecedentes. El DFL N°34-18.992, publicado en el Diario Oficial del 2 de julio de\r\n1991; lo dispuesto en el DFL N° 458 (V. y U.) de 1975, Ley General de Urbanismo y\r\nConstrucciones y en el DS N° 47 (V. y U.) de 1992, que fija nuevo texto de la Ordenanza\r\nGeneral de Urbanismo y Construcciones; correos electrónicos del arquitecto señor Sebastián\r\nHernández Meza, de fechas 29 de octubre y 5 de noviembre de 2018, Asesor Urbanista (S); y las\r\natribuciones que me confiere la Ley N°18.695, Orgánica Constitucional de Municipalidades.\r\nConsiderando:\r\n- El acuerdo del Concejo N°71, de fecha 26 de junio de 2018, que aprobó por unanimidad el\r\ninicio de un proceso de enmienda Plan Regulador Comunal de San Miguel, vigente para la\r\nComuna de Pedro Aguirre Cerda.\r\n- El decreto alcaldicio N° 8.961, de fecha 27 de junio de 2018, que promulgó el acuerdo N°\r\n71, de fecha 26 de junio de 2018, donde se da inicio al proyecto de enmienda al Plan Regulador\r\nComunal de San Miguel, vigente para la Comuna de Pedro Aguirre Cerda.\r\n- Las cartas certificadas "
+ },
+ {
+  "id": "d0835",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "14529_modifica_ordenanza_del_plan_regulador_comuna_de_santiago",
+  "archivo": "pedro_aguirre_cerda_14529_modifica_ordenanza_del_plan_regulador_comuna_de_santiago__diario 10.11.18 plan reg 2 (1)Santiago.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.201\r\n\r\n|\r\n\r\nSábado 10 de Noviembre de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1491939\r\n\r\nMUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\n\r\nMODIFICA ORDENANZA DE PLAN REGULADOR COMUNAL DE SANTIAGO\r\nNúm. 14.529.- Pedro Aguirre Cerda, 5 de noviembre de 2018.\r\nVistos:\r\nEstos Antecedentes. El DFL Nº34-18.992, publicado en el Diario Oficial del 2 de julio de\r\n1991; lo dispuesto en el DFL Nº 458 (V. y U.) de 1975, Ley General de Urbanismo y\r\nConstrucciones y en el DS Nº 47 (V. y U.) de 1992, que fija nuevo texto de la Ordenanza\r\nGeneral de Urbanismo y Construcciones; correos electrónicos del arquitecto señor Sebastián\r\nHernández Meza, de fechas 29 de octubre y 5 de noviembre de 2018, Asesor Urbanista (S); y las\r\natribuciones que me confiere la Ley Nº18.695, Orgánica Constitucional de Municipalidades.\r\nConsiderando:\r\n- El Acuerdo del Concejo Nº 71, de fecha 26 de junio de 2018, que aprobó por unanimidad\r\nel inicio del proceso de aprobación de la enmienda al Plan Regulador Comunal de Santiago,\r\nvigente para la Comuna de Pedro Aguirre Cerda.\r\n- El decreto alcaldicio Nº 8.961 de fecha 27 de junio de 2018, que promulgó el Acuerdo Nº\r\n71, de fecha 26 de junio de 2018, donde se da inicio a la aprobación de la enmienda al Plan\r\nRegulador Comunal de Santiago, vigente para la comuna de Pedro Aguirre Cerda.\r\n- Las ca"
+ },
+ {
+  "id": "d0836",
+  "comuna": "pedro_aguirre_cerda",
+  "nombre_documento": "14530_modifica_ordenanza_del_plan_regulador_comuna_de_la_cisterna",
+  "archivo": "pedro_aguirre_cerda_14530_modifica_ordenanza_del_plan_regulador_comuna_de_la_cisterna__diario 10.11.18 plan reg 3 (1) La Cisterna.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.201\r\n\r\n|\r\n\r\nSábado 10 de Noviembre de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1491940\r\n\r\nMUNICIPALIDAD DE PEDRO AGUIRRE CERDA\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL DE LA CISTERNA\r\nNúm. 14.530.- Pedro Aguirre Cerda, 5 de noviembre de 2018.\r\nVistos:\r\nEstos Antecedentes. El DFL N° 34-18.992, publicado en el Diario Oficial del 2 de julio de\r\n1991; las atribuciones que me confiere la Ley N° 18.695, Orgánica Constitucional de\r\nMunicipalidades; lo dispuesto en el DFL N° 458 (V. y U.) de 1975, Ley General de Urbanismo y\r\nConstrucciones y en el DS N° 47 (V. y U.) de 1992, que fija nuevo texto de la Ordenanza\r\nGeneral de Urbanismo y Construcciones; correos electrónicos del arquitecto señor Sebastián\r\nHernández Meza, de fechas 29 de octubre y 5 de noviembre de 2018, Asesor Urbanista (S); las\r\natribuciones que confiere a los municipios el Art. 3° letra b) y las demás consignadas en la\r\nmisma Ley Orgánica Constitucional de Municipalidades;\r\nConsiderando:\r\n- El acuerdo de Concejo Municipal N° 71, de fecha 26 de junio de 2018, que aprobó el\r\ninicio de un proceso de aprobación de la enmienda al Plan Regulador Comunal de La Cisterna,\r\nvigente para la Comuna de Pedro Aguirre Cerda.\r\n- El decreto N° 8.961, de fecha 27 de junio de 2018, que ejecuta el acuerdo recién referido,\r\nconforme a lo previst"
+ },
+ {
+  "id": "d0837",
+  "comuna": "pelluhue",
+  "nombre_documento": "6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue",
+  "archivo": "pelluhue_6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 17,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 8,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6629 EXENTO, PELLUHUE (2012)\r\n\r\nDecreto 6629 EXENTO\r\nAPRUEBA ORDENANZA PLAN REGULADOR COMUNAL DE PELLUHUE\r\nMUNICIPALIDAD DE PELLUHUE\r\nFecha Publicación: 04-DIC-2012 | Fecha Promulgación: 26-SEP-2012\r\nTipo Versión: Única De : 04-DIC-2012\r\nUrl Corta: https://bcn.cl/3ma8w\r\n\r\nAPRUEBA ORDENANZA PLAN REGULADOR COMUNAL DE PELLUHUE\r\nNúm. 6.629 exento.- Pelluhue, 26 de septiembre de 2012.- Vistos y teniendo\r\npresente:\r\n1. Ord. Nº 929, de fecha 7 de junio de 2012, de Sr. Secretario Regional\r\nMinisterial de Vivienda y Urbanismo Región del Maule, en el que emite informe\r\ntécnico favorable al proyecto \"Plan Regulador Comunal de Pelluhue\".\r\n2. Lo señalado en el artículo 2.1.11 del decreto supremo Nº 47, de 1992, que\r\naprueba la Ordenanza General de Urbanismo y Construcciones.\r\n3. Las facultades y atribuciones que me confiere la Ley Nº 18.695, de 1988,\r\nOrgánica Constitucional de Municipalidades, en su dirección, administración\r\nsuperior y la supervigilancia de su funcionamiento.\r\n4. Lo establecido en la resolución 1.600, de 2008, de Contraloría General de\r\nla República.\r\nDecreto:\r\n1. Apruébese el texto de la Ordenanza Plan Regulador Comunal de Pelluhue, que\r\nforma parte integrante del presente decreto:\r\nORDENANZA PLAN REGULADOR COMUNAL DE PELLUHUE\r\n\r\nTÍTULO 1\r\nDisposiciones Generales\r\nArtículo 1.1\r\nEl Plan Regulador Comunal Pelluhue, en adelante el Plan, es un instrumento de\r\nplanificación territorial que regula el proceso de desarrollo físico y funcional de\r\nlos centros poblados d"
+ },
+ {
+  "id": "d1176",
+  "comuna": "pelluhue",
+  "nombre_documento": "decreto_6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue",
+  "archivo": "pelluhue_decreto_6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue__Decreto_PRC_Pelluhue.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 27,
+  "paginas_escaneadas": 27,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

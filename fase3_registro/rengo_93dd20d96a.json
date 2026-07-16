@@ -1,0 +1,25 @@
+{
+  "id": "rengo_93dd20d96a",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_decreto_875_modificacion_nro_4_plan_regulador__0875_del_2001.05.15_Modificacion_20Nro_204_20Plan_20Regulador.pdf",
+  "nombre": "rengo_decreto_875_modificacion_nro_4_plan_regulador__0875_del_2001.05.15_Modificacion_20Nro_204_20Plan_20Regulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:24:14",
+  "fin": "2026-07-14T21:25:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 875/2015 (aprueba Modificacion N4, tramitada desde 2014). p2: INTERCAMBIO de zonificacion entre 2 poligonos en Poblacion Ernestina Perez (entre calles Manuel Rodriguez, Doctor Noel y roles 17-15/5-5): poligono sur (verde) pasa de ZAV a ZH2 (Zona Periferia Centro, art.37); poligono norte (rosado) pasa de ZC1 (Zona Centro Rengo, art.34) a ZAV (Zona Area Verde, art.50). Es reclasificacion de zona por poligono, sin nuevos valores dimensionales propios (hereda las normas de la zona a la que se reclasifica). Confianza MEDIA."
+  }
+}

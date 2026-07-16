@@ -1,0 +1,25 @@
+{
+  "id": "talcahuano_400d99f144",
+  "comuna": "talcahuano",
+  "ruta": "Ordenanzas ordenadas\\talcahuano_18652011_modificacion_plan_regulador_comunal_de_talcahuano__do-20110708.pdf",
+  "nombre": "talcahuano_18652011_modificacion_plan_regulador_comunal_de_talcahuano__do-20110708.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 72,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:58:32",
+  "fin": "2026-07-15T13:03:41",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        14
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "DO 08-07-2011, Cuerpo I, edicion completa (72 pag). Decreto alcaldicio 1865 de Talcahuano 'Modifica Plan Regulador Comunal' ubicado en pag 12-15 (sumario portada confirma P.12, Municipalidad de Talcahuano). Cuadro numerico de normas urbanisticas por zona en pag 14: tablas 'CONDICIONES DE SUBDIVISION Y EDIFICACION' para Zona Residencial ZH-3 (Centro), ZH-5 (Bilbao-Simon), ZH-6 (Bilbao-San Vicente), ZH-8 (Salinas), ZH-14 (Aeropuerto), ZHEQ-1 (Salinas) y Zona Industrial ZI-6 (El Morro-San Vicente), con columnas Residencia Unifamiliar/Colectiva/Otros Usos y filas coeficiente maximo de constructibilidad, coeficiente ocupacion suelo, altura maxima edificacion, altura maxima edificacion continua, sistema de agrupamiento, profundidad maxima edificacion continua, linea de edificacion respecto a linea oficial, distancia minima adosamiento, subdivision predial minima, densidad habitacional. Todas las zonas corresponden a Talcahuano (verificado por nombres de sector entre parentesis). EXCLUIDO pag 13 (solo texto modificatorio de articulado sin cuadro numerico), pag 15 (Cuadro de Vialidad: nombre via, tramo, ancho, categoria - excluido por ser vialidad, no normas de zona), y resto de la edicion del DO que corresponde a otros organismos/comunas (Coquimbo, Biobio/Concepcion, ministerios, etc)."
+  }
+}

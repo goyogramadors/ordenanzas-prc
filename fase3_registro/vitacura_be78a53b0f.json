@@ -1,0 +1,25 @@
+{
+  "id": "vitacura_be78a53b0f",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_31037_promulga_modificacion_no27_al_plan_regulador_comunal_sector_av_juan_xxiii__publicacion_19.04.12.pdf",
+  "nombre": "vitacura_31037_promulga_modificacion_no27_al_plan_regulador_comunal_sector_av_juan_xxiii__publicacion_19.04.12.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:38:11",
+  "fin": "2026-07-14T21:39:02",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "DO 40.241 (19-04-2012), edicion que mezcla contenido AJENO (CORFO Programa Desarrollo Proveedores, Municipalidad de PROVIDENCIA sobre estacionamientos controlados en p1): NO atribuir a Vitacura. p2 (Cuerpo I-12): Decreto 3/1037, Modificacion N27 PRC Vitacura 'Sector Av. Juan XXIII' -- reclasifica el poligono A-B-C-D-E-F-G-H-I-J-A de Edificacion Aislada Baja N3 (EAb3) a Edificacion Aislada Especial N2 (E-Ae2). Es SOLO un cambio de clasificacion de zona (por plano MR-27-01), SIN dar los valores dimensionales (COS/CC/altura) de la nueva condicion E-Ae2 en este documento. Confianza MEDIA: reclasificacion sin valores propios."
+  }
+}

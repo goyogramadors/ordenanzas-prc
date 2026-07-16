@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_82da0efff5",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3737_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_3737_17032015024217.pdf",
+  "nombre": "la_serena_3737_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_3737_17032015024217.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:23:50",
+  "fin": "2026-07-15T08:24:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 3737/09, 21-oct-2009: ORDENANZA SOBRE DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS. Tabla de cobros en UTM por servicios municipales (retiro de escombros, etc), no normas urbanisticas de zonificacion. No PRC. Verificado visualmente pagina 1 de 16."
+  }
+}

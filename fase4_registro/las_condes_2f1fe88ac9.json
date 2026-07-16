@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_2f1fe88ac9",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicoi_n_3905_13sep2007.pdf",
+  "rangos": [
+    [
+      3,
+      3
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto 3905 (13-09-2007) Las Condes. p3: modifica USOS DE SUELO en prosa para el poligono A-B-C-D-A de la zona UC2 -> habilita equipamiento de ESCALA MAYOR aunque las vias que enfrenta sean de menor categoria, con 4 condiciones (accesos por Av. Padre Hurtado, franja perimetral de distanciamiento a terceros, estacionamientos en subterraneo, fachadas armonicas). Sin valores cuantitativos clasicos (COS/CC/altura/predial). Confianza MEDIA: cuenta por ser cambio de usos permitidos; si el criterio exige valores numericos, reclasificar a sin-tablas. p1-2 solo vistos.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:17:18",
+  "fin": "2026-07-15T14:22:20",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3905_enmienda_uc2_equipamiento_pag3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "UC2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Cambio de usos en prosa para poligono A-B-C-D-A de zona UC2: habilita equipamiento escala mayor pese a vialidad menor, con 4 condiciones (accesos, franja perimetral, subterraneo, fachadas). Sin COS/CC/altura/predial numericos. Coincide con nota_fase3 (confianza MEDIA por ausencia de valores cuantitativos)."
+  }
+}

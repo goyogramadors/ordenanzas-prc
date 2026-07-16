@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_f11c50efae",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\CU04A6~1.PDF",
+  "nombre": "CU04A6~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:07:34",
+  "fin": "2026-07-15T08:09:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Ex 2.990 (30.10.2023), I.Municipalidad de Curacautin. Modifica la 'Ordenanza sobre Derechos Municipales por Permisos, Concesiones y Servicios Municipales' (tarifas en UTM por uso de canchas, terrazas, ferias, estacionamientos taxis, fotografia digital, etc). NO es un instrumento de planificacion territorial (PRC/Ordenanza Local): no contiene zonificacion ni normas urbanisticas (COS/CC/altura/predial/agrupamiento/antejardin). Fuera del alcance de Fase 3 por naturaleza del documento (ordenanza de derechos municipales, no PRC)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_10bfe1ddf7",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\la_florida_planos_y_ordenanzas_de_planes_reguladores_previos_al_ano_2001__ORD_63_dj_Censurado.pdf",
+  "nombre": "la_florida_planos_y_ordenanzas_de_planes_reguladores_previos_al_ano_2001__ORD_63_dj_Censurado.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:17:48",
+  "fin": "2026-07-15T08:19:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Oficio ORD 063-DJ LIBRO Ley 20.285 (29.01.2025), Municipalidad de La Florida. Respuesta a solicitud de Transparencia sobre planos/ordenanzas de PRC previos a 2001: informa que se entrego todo lo disponible. Puramente administrativo (respuesta de transparencia), sin contenido normativo."
+  }
+}

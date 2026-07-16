@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_a4193a2060",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.n729_25ene2011.pdf",
+  "nombre": "las_condes_D.O.n729_25ene2011.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:00:34",
+  "fin": "2026-07-14T20:56:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        23
+      ]
+    ],
+    "paginas_utiles": 22,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DO 729 (25-01-2011) Las Condes, 28 pags: MODIFICACION GRANDE que toca decenas de articulos del Cap.IV Zonificacion y Normas Especificas. p4: indice de normas afectadas (antejardines, cierros, adosamientos). p6-7: antejardin (excepciones para ampliaciones con subsidio) y altura de cierros (hasta 4,0 m). p10 (render): TABLA por NOMBRE DE VIA con columnas Incremento/Costado(s) -> incrementos de antejardin especificos por calle (cuenta como norma de antejardin, aunque organizada por calle no por zona). p11-17: modificaciones a las Tablas A/B/C de densificacion (antejardin, distanciamiento, +0,3 COS/CC para equipamiento salud/educacion/recreacional con informe favorable). p18-21 (render de p18 confirma): CUADROS DE USO DE SUELO de las zonas U-V1, U-V2, U-V3, U-VO, U-C1, U-C2, U-C3, U-Ee1 (filas Salud/Comercio/Servicios con condiciones COS 0,4 / CC 0,6). p22-23: mas ajustes de uso equipamiento clase servicios. p24-28 (render de p24 y p25 confirma): arranca 'SISTEMA VIAL METROPOLITANO' con cuadros de vialidad, EXCLUIDO."
+  }
+}

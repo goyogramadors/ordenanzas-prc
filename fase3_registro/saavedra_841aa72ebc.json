@@ -1,0 +1,25 @@
+{
+  "id": "saavedra_841aa72ebc",
+  "comuna": "saavedra",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\saavedra_1_aprueba_plan_regulador_y_ordenanza_local_de_puerto_saaveda__download.aspx.pdf",
+  "nombre": "saavedra_1_aprueba_plan_regulador_y_ordenanza_local_de_puerto_saaveda__download.aspx.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:26:50",
+  "fin": "2026-07-14T21:28:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PRC histórico 1963 (Puerto Saavedra, DO 1964): Título III Zonificación (6 zonas: residenciales, administrativa, equipamiento urbano, áreas verdes, industrial-inexistente, cooperativa agrícola) + Título IV Art.8-10 superficies edificables 45%, antejardín/medianeras 3m, alturas por tipo edificio (vivienda 1 piso, escuela 8m, iglesia 12m, edificios públicos 7m), cierros 1.60m máx, pareamientos - todo en texto nativo articulado"
+  }
+}

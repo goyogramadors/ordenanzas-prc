@@ -1,0 +1,20 @@
+{
+  "id": "villarrica_68a8354d44",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\villarrica_modificacion_del_plan_regulador_comunal_montos_de_derechos_pagados_por_patentes___oficio_404_2021_sai_mu339T0001504.pdf",
+  "nombre": "villarrica_modificacion_del_plan_regulador_comunal_montos_de_derechos_pagados_por_patentes___oficio_404_2021_sai_mu339T0001504.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:35:12",
+  "fin": "2026-07-14T21:36:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: respuesta de transparencia (MU339T0001504, mayo-2021) que remite al portal de transparencia para el PRC vigente, informa que hay una nueva version EN TRAMITE (no se puede entregar por art.21.1.b Ley 20.285), y adjunta un listado de 2.342 patentes municipales (sin montos). Sin normas urbanisticas."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "colina_3fb6289ada",
+  "comuna": "colina",
+  "ruta": "Ordenanzas Descargadas\\1-600\\colina_sn_extracto_explicativa_de_la_memoria_explicativa_enmienda_al_plan_regulador_zon__Extracto Explicativa Enmienda zona A2 Barrio Los Robles 19-11-2017.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Extracto memoria explicativa, enmienda ZONA A2 Barrio Los Robles. p2 trae el valor normativo EN PROSA (art.1): incremento del 30% en los coeficientes de CONSTRUCTIBILIDAD y OCUPACION DE SUELO al sur de Colina Esmeralda. OJO FASE SIGUIENTE: es un delta relativo (+30%), NO un valor absoluto -> hay que cruzarlo con la ordenanza vigente de Colina para obtener la cifra final. p1 = considerandos + Figura 2 (mapa con poligonos A2/B2/E4), sin tabla.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:10:30",
+  "fin": "2026-07-15T14:11:51",
+  "resultado": {
+    "archivo": "extraccion_normas\\colina\\colina_sn_enmienda_zona_a2_los_robles_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "A2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Valor es delta relativo (+30% en CC y COS), no absoluto -> requiere cruzar con ordenanza vigente de Colina en fase de conversion a JSON para obtener cifra final. p1 solo considerandos+mapa, sin tabla."
+  }
+}

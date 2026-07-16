@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_df067475c1",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3360.11ago2010.pdf",
+  "nombre": "las_condes_decreto.3360.11ago2010.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:33:28",
+  "fin": "2026-07-15T08:35:13",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        14
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alc Secc 1a N3360, 11-ago-2010, Las Condes -- caso de mecanismo de reasignacion de zona (mismo patron que Concepcion/Conchali/Machali/Puerto Montt/Valdivia/Vitacura/Corral/Penalolen ya documentado en memoria trampa-leychile). ASIGNA a 60 vias de la comuna cuya declaratoria de utilidad publica caduco (art 59 LGUC, ley 19939/20331) las nuevas normas urbanisticas de edificacion y usos de suelo, asimilandolas a las zonas adyacentes. Paginas 3-14: tabla completa 'LISTADO DE VIAS' (Vias Intercomunales y Vialidad Comunal) con columnas Nombre/Tramo, situacion anterior (perfil, categoria, tipo, orientacion), y situacion propuesta con Area de Edificacion (codigos EAa1-EAa4, EAb1-EAb4, Ee1, etc, por sub-tramo N/S/O/P) y Zona de Uso de Suelo (UC2, UV1, UV2, UVO, UEe1, etc, por sub-tramo). Tabla extensa y completa, asigna usos de suelo y tipologia de edificacion por tramo de via. Verificado visualmente paginas 1-4 de 14 (tabla continua en formato identico hasta el final)."
+  }
+}

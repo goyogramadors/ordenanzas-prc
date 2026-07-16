@@ -1,0 +1,25 @@
+{
+  "id": "parral_a1111852e5",
+  "comuna": "parral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\parral_3048_aprueba_proyecto_de_modificacion_del_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "parral_3048_aprueba_proyecto_de_modificacion_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:08:51",
+  "fin": "2026-07-14T21:10:42",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PARRAL: Decreto 3048 exento (2003, BCN LeyChile, 1p), Aprueba Proyecto de Modificacion del PRC. Norma real y simple, EN TEXTO PLANO (sin trampa): 'Coeficiente de Constructibilidad y de Ocupacion de Suelo, se aumentan en un 20 por ciento', aplicable a las condiciones de edificacion de TODAS LAS ZONAS del PRC de Parral (no es una tabla por zona, es una regla general horizontal). Documento completo en 1 pagina."
+  }
+}

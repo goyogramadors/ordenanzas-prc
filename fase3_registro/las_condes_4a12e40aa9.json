@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_4a12e40aa9",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4478.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4478.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:56:33",
+  "fin": "2026-07-14T15:58:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Escaneo (copia informativa) del decreto alcaldicio 4478/2004 que aprueba el Plano Seccional PS-U-Ee2. 1 pagina: solo vistos y firmas, SIN el texto resolutivo. OJO: el cuadro de usos de suelo de la zona U-Ee2 SI esta en el documento hermano las_condes_1ee9f6091b (D.O.4478, 4 pags), ya registrado con tablas."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_50a66baf8d",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-3.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Confianza MEDIA: se acepta verificacion textual ya hecha por Fase 1 (veredicto de pagina decia VACIO pero Fase 1 extrajo texto real con pdftotext directo -- posible inconsistencia del extractor automatico de Fase 0 con este archivo especifico, quizas por tener 3 copias con distinta calidad). Contenido: Zona EQ-3, equipamiento comunitario, vivienda permitida hasta 30% de la superficie del predio.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:24:38",
+  "fin": "2026-07-15T14:25:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_eq3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "EQ-3"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Confirmada inconsistencia del extractor de Fase 0 (veredicto VACIO pero texto se lee normal). Solo trae usos permitidos (equipamiento comunitario + vivienda hasta 30% superficie); sin cuadro de condiciones de edificacion en esta ficha. Coincide con nota_fase3."
+  }
+}

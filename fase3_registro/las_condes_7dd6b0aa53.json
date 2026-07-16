@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_7dd6b0aa53",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_corporacion.educacion-salud.plan.anual.educacion2009.pdf",
+  "nombre": "las_condes_corporacion.educacion-salud.plan.anual.educacion2009.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 123,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:59:02",
+  "fin": "2026-07-14T20:54:08",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "NO ES PRC: es el PADEM 2009 (Plan Anual de Educacion Municipal) de la Corporacion de Educacion y Salud de Las Condes: diagnostico demografico, oferta educacional, matricula, indicadores. Busqueda en texto completo (123 paginas) de 'uso de suelo', 'constructibilidad', 'coef. ocupacion', 'predial', 'antejardin', 'zonificacion', 'plan regulador': CERO coincidencias. Documento mal incluido en el corpus (mismo patron que el PADEM 2010, ya registrado)."
+  }
+}

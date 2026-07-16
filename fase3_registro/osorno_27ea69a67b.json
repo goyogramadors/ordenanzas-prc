@@ -1,0 +1,20 @@
+{
+  "id": "osorno_27ea69a67b",
+  "comuna": "osorno",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\osorno_decreto_modificacion_plan_regulador_comunal_de_osorno_predio_baquedano_sector_ov__dc647094-52db-4f88-9176-02817219f888.pdf",
+  "nombre": "osorno_decreto_modificacion_plan_regulador_comunal_de_osorno_predio_baquedano_sector_ov__dc647094-52db-4f88-9176-02817219f888.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:07:55",
+  "fin": "2026-07-14T21:09:03",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Aviso DO: inicio del proceso de Evaluacion Ambiental Estrategica de la Modificacion PRC Osorno, Predio Baquedano Sector Ovejeria. Puro tramite (resumen de antecedentes y criterios de sustentabilidad), sin transcribir norma alguna."
+  }
+}

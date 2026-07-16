@@ -1,0 +1,37 @@
+{
+  "id": "pedro_aguirre_cerda_29b0dd02b3",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_1_plan_regulador__1e432ca4-bebb-4da9-9251-32906450e2d1.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "DUPLICADO aparente de pedro_aguirre_cerda_0679c115d2 (mismo plano PRC Pedro Aguirre Cerda, identico contenido visual, mismas tablas por zona PAC1/PAC2/PAC3/Zona C-F/Zona R). Verificado por render: pixeles identicos a simple vista. Ver nota del documento hermano para el detalle de valores.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:24:01",
+  "fin": "2026-07-15T14:29:35",
+  "resultado": {
+    "archivo": "extraccion_normas\\pedro_aguirre_cerda\\pedro_aguirre_cerda_plano_prc_zonas.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "PAC-1",
+      "PAC-2",
+      "PAC-3",
+      "AR1",
+      "AR2",
+      "ZONA-C",
+      "ZONA-D",
+      "ZONA-E",
+      "ZONA-F",
+      "ZONA-R"
+    ],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO visual confirmado de pedro_aguirre_cerda_0679c115d2 (identico pixel a pixel). Transcrito de forma independiente en esta sesion con crops a 400dpi de cada recuadro. 10 zonas/subzonas con norma (PAC1-3, AR1-2, C-F, R); 34 unidades vecinales son solo referencia territorial sin norma propia. Verificado contra nota_fase3: coincide."
+  }
+}

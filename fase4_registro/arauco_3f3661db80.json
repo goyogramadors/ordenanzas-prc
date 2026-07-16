@@ -1,0 +1,35 @@
+{
+  "id": "arauco_3f3661db80",
+  "comuna": "arauco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arauco_110_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regula__resolucion110modificaplanregulador.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Trampa 'deja sin efecto' correctamente identificada por Fase 1: el mismo acto tambien promulga la modificacion (area urbana Horcones). p3: usos permitidos/prohibidos por zona (ZH-1,ZH-2,ZE-3,ZE-4,ZI-1,ZI-2,ZPC,ZNE). p4: tabla completa de normas urbanisticas (art.19) con COS, CC, altura, sistema de agrupamiento, superficie predial minima, adosamiento. Documento es 1 pagina de una edicion completa del Diario Oficial (contiene tambien una noticia de partido politico intercalada).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:39:40",
+  "fin": "2026-07-15T14:42:07",
+  "resultado": {
+    "archivo": "extraccion_normas\\arauco\\arauco_110_horcones_8zonas_pag3-4.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZH-1",
+      "ZH-2",
+      "ZE-3",
+      "ZE-4",
+      "ZI-1",
+      "ZI-2",
+      "ZPC",
+      "ZNE"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa deja-sin-efecto confirmada (mismo patron ya visto): el acto deja sin efecto la Res.25/2014 PERO tambien aprueba y promulga de nuevo la incorporacion del Area Urbana Horcones. 8 zonas con usos completos + cuadro de normas urbanisticas (predial, COS, CC, altura, agrupamiento, adosamiento, antejardin, densidad). ZNE sin cuadro propio (remite OGUC 2.1.17). Texto limpio, sin imagen. Coincide con nota_fase3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "laja_3bc3ae639d",
+  "comuna": "laja",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\laja_598_rectifica_decreto_alcaldicio_no_2777_de_22092011_que_enmienda_el_plan_regula__DA 598 de 2013.pdf",
+  "nombre": "laja_598_rectifica_decreto_alcaldicio_no_2777_de_22092011_que_enmienda_el_plan_regula__DA 598 de 2013.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:26:47",
+  "fin": "2026-07-15T08:28:30",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Extracto Decreto 598 (06.02.2013), Municipalidad de Laja. Rectifica Decreto 2777/2011: corrige el Rol de avaluo del lote de 301-151 a 300-1 en la enmienda PRCL zona ZED uso salud. Solo correccion de dato catastral, sin cuadro numerico de normas urbanisticas."
+  }
+}

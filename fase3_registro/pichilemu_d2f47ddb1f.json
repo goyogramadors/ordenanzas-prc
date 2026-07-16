@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_d2f47ddb1f",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_1096_ordenese_expropiacion_parcial_de_inmueble_rol_de_avaluo_fiscal_1129_490_y_1__publicacion_abril_2020.pdf",
+  "nombre": "pichilemu_1096_ordenese_expropiacion_parcial_de_inmueble_rol_de_avaluo_fiscal_1129_490_y_1__publicacion_abril_2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:47:54",
+  "fin": "2026-07-15T12:10:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Exento 1096, 31-mar-2020, Pichilemu, 6 pags (decreto municipal + oficio + memorandum + copia Diario Oficial). ORDENA EXPROPIACION PARCIAL de Lote1 (rol 1129-490) y Lote2 (rol 1129-507) para materializacion de Calle Nueva N18 del PRC. Solo contiene deslindes, superficie (1106 m2 y 398 m2) y monto de indemnizacion -- expropiacion de vialidad, sin usos de suelo/COS/CC/altura ni norma urbanistica alguna. Verificado visualmente paginas 1-6 de 6."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "casablanca_30900085f5",
+  "comuna": "casablanca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\casablanca_4674_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_casab__download.pdf",
+  "nombre": "casablanca_4674_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_casab__download.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 49,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:02:31",
+  "fin": "2026-07-14T13:07:07",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        17,
+        29
+      ],
+      [
+        48,
+        48
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CASABLANCA: Decreto 4674, Ordenanza Local del PRC. NUCLEO pags 17-29: Cap IV Art 9 'Normativa Especifica por Zona' = por cada zona dos bloques (USOS DE SUELO PERMITIDOS + CONDICIONES DE SUBDIVISION Y EDIFICACION con predial minima, COS, CC, agrupamiento, distanciamiento, altura, antejardin, densidad bruta). 22 zonas: ZH-1..ZH-7, ZHM-1..ZHM-5, ZEC, ZED, ZER, ZIS, ZAV, ZPC, ZII-PM, ZII-PT, ZPBC-1, y en 28-29 el Cap V Art 12 ZCH-L (conservacion historica). Un solo tramo continuo. Anadida pag 48 (Art 22 estacionamientos). AVISO DE FALSO POSITIVO: pags 6-14 y 32-47 tienen el mismo patron 'poco texto + imagen grande' pero NO son normas: son coordenadas UTM del limite urbano (Art 2) y vialidad estructurante/local (Art 20-21). El cuerpo de las tablas NO se extrae como texto plano aunque los encabezados si: la fase siguiente debe renderizar, no confiar en pdftotext. 13 pags confirmadas visualmente."
+  }
+}

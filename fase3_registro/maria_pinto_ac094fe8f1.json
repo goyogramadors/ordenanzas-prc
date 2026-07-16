@@ -1,0 +1,20 @@
+{
+  "id": "maria_pinto_ac094fe8f1",
+  "comuna": "maria_pinto",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maria_pinto_acuerdo_133_terminos_como_se_elaborara_anteproyecto_plan_regulador__b5b3c618-1b39-49a4-a507-5d77dddba278.pdf",
+  "nombre": "maria_pinto_acuerdo_133_terminos_como_se_elaborara_anteproyecto_plan_regulador__b5b3c618-1b39-49a4-a507-5d77dddba278.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:37:42",
+  "fin": "2026-07-15T08:39:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "ALERTA discrepancia catalogo: el nombre de archivo dice 'acuerdo_133_terminos_como_se_elaborara_anteproyecto_plan_regulador' pero el contenido real escaneado es 'ACUERDO NUMERO 132' (14.06.2019), I.Municipalidad de Maria Pinto: aprueba una MODIFICACION PRESUPUESTARIA (traspaso Subdere a Empresa Demarco, bono trabajadores aseo, $4.272.524), sin relacion con el PRC. Puramente administrativo-presupuestario, sin norma urbanistica. Verificar si el archivo fisico correcto (Acuerdo 133 sobre terminos del anteproyecto PRC) esta en otra ruta del corpus."
+  }
+}

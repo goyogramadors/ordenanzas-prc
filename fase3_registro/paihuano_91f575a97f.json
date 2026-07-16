@@ -1,0 +1,25 @@
+{
+  "id": "paihuano_91f575a97f",
+  "comuna": "paihuano",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\paihuano_862_promulga_plan_regulador_comunal__Plan Regulador 2019.pdf",
+  "nombre": "paihuano_862_promulga_plan_regulador_comunal__Plan Regulador 2019.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 25,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:08:02",
+  "fin": "2026-07-14T21:10:54",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        23
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa MIXTO confirmada (chars bajos p19-23 pero contenido real es tabla-imagen/OCR parcial). Art.8-9 p19-21: 7 zonas Area Urbana (ZH1,ZH2,ZH3,ZD,ZT1,ZT2,ZAP) con usos, superficie predial min, densidad, COS, coef.constructibilidad, agrupamiento, altura max, antejardin. Art.10 p22-23: zonas proteccion (ZIS,ZAV,ZT,ZCH,MH1/2/3) mismos parametros. Art.11 p23: AR1/AR2 areas restringidas riesgo. P18 estandares estacionamiento y p24 vialidad quedan fuera por no ser normas de zona."
+  }
+}

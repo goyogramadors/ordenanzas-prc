@@ -1,0 +1,29 @@
+{
+  "id": "la_granja_e2d15999fd",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_granja_4039_aprueba_actualizacion_plan_regulador_comunal__Plan-regulador-comunal.pdf",
+  "nombre": "la_granja_4039_aprueba_actualizacion_plan_regulador_comunal__Plan-regulador-comunal.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 43,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:48:56",
+  "fin": "2026-07-14T15:58:02",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        9
+      ],
+      [
+        11,
+        28
+      ]
+    ],
+    "paginas_utiles": 21,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ACTUALIZACION PRC La Granja (43 pags). TODO EN TEXTO REAL (no hay tabla-imagen; el conteo bajo de p29-42 es porque son cuadros de VIALIDAD, no normas). p7-9: cuadros de ESTACIONAMIENTOS minimos por uso (art.14-15). p11: listado de zonas (ZH-1..ZH-4 residenciales, ZE-1 equipamiento comunal, ZI-1 industrial exclusiva, ZAV-1/2 areas verdes, ZR-1 proteccion aeropuerto). p12-28: una seccion por zona con USOS DE SUELO PERMITIDOS / USOS DE SUELO PROHIBIDOS / NORMAS DE EDIFICACION (COS, coef. constructibilidad, agrupamiento, altura maxima, antejardin). p25: ZAV-1/ZAV-2. p26-27: ZSs-1..ZSs-3 uso del subsuelo (art.25). p28: ultima zona. p29-42: CAPITULO V VIALIDAD, excluido. p43: cierre y firmas (verificado en render, arrastra el final de una tabla vial). AGENTE FALLO 2 VECES POR ERROR DE API; localizado por la sesion principal."
+  }
+}

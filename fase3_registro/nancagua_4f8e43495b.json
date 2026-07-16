@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_4f8e43495b",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_3415_autoriza_publicacion_de_aviso_para_segunda_audiencia_del__3415.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_3415_autoriza_publicacion_de_aviso_para_segunda_audiencia_del__3415.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:39:16",
+  "fin": "2026-07-15T08:41:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 3415, 19-oct-2019: AUTORICESE la publicacion de aviso para la Segunda Audiencia del Plan Regulador Comunal de Nancagua en Diario Sexta Region, via Convenio Marco Mercado Publico. Decreto de compra/contratacion de publicidad (61.800), tramite administrativo/presupuestario, no contiene tabla de normas urbanisticas. Verificado visualmente, documento de 1 pagina."
+  }
+}

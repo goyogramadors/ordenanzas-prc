@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_579ce0caa8",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_1060100departamento_plan_regulador__decreto.1947.09jun2025.pdf",
+  "nombre": "las_condes_1060100departamento_plan_regulador__decreto.1947.09jun2025.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 115,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:29:25",
+  "fin": "2026-07-15T08:31:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Documento es Reglamento de Organizacion Interna de la Municipalidad de Las Condes (Decreto Secc.1a N1947, 09-jun-2025), define funciones de direcciones/departamentos municipales. No es modificacion de PRC ni contiene normas urbanisticas por zona. Muestreadas pag1,30,60,90,115 (organigrama institucional final). Nada relacionado con usos de suelo/COS/constructibilidad/altura."
+  }
+}

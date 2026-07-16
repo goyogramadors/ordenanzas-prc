@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_d67ccd569f",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_CC.pdf",
+  "nombre": "penalolen_Zona_CC.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:45:32",
+  "fin": "2026-07-15T08:46:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Extracto 'Zona CC'. Tabla usos permitidos/excluidos (equipamiento, vivienda solo del cuidador) + 'Condiciones de Subdivisión Predial y de Edificación' por escala (regional-interurbana / comunal-vecinal): predial mínima 2000-5000 m2, frente predial 25m, ocupación suelo 10-14%, coef. constructibilidad 0.20-0.28, sistema agrupamiento aislado, antejardín 10m."
+  }
+}

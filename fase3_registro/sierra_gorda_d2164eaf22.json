@@ -1,0 +1,20 @@
+{
+  "id": "sierra_gorda_d2164eaf22",
+  "comuna": "sierra_gorda",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\sierra_gorda_acuerdo_171_modificacion_plano_regulador_de_la_comuna_de_sierra_gorda__ACUERDO%20171-2017.pdf",
+  "nombre": "sierra_gorda_acuerdo_171_modificacion_plano_regulador_de_la_comuna_de_sierra_gorda__ACUERDO%20171-2017.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:57:10",
+  "fin": "2026-07-15T12:58:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Certificado de Acuerdo N°171/2017 del Concejo Municipal de Sierra Gorda: certifica que en Sesión Extraordinaria N°07 (28-11-2017) el Concejo APROBÓ la 'Modificación Plano Regulador de la Comuna de Sierra Gorda', sin más detalle. Es solo la certificación del acuerdo, no incluye el contenido de la modificación (texto/plano con los parámetros) en este PDF de 1 página."
+  }
+}

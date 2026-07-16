@@ -1,0 +1,35 @@
+{
+  "id": "quillota_67d8ab085a",
+  "comuna": "quillota",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quillota_decreto_alcaldicio_2338_termino_proceso_de_eval_ambl_estrat_anteproyecto_plan_re__f-id-2659-termino-proceso-eval-amb-anteproyecto-plan-regulador.pdf",
+  "rangos": [
+    [
+      77,
+      79
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.2338 termina proceso EAE del ANTEPROYECTO PRC Quillota. Es informe tecnico-ambiental (sintesis EAE, respuesta a 37 observaciones ciudadanas), NO el articulado de la Ordenanza (el propio doc aclara p.14 que las especificaciones estan en Memoria Explicativa y Ordenanza aparte, no incluidas aqui). p79 (num.impresa 76) 'Tabla 43 Comparativo de Densidades' por zona (ZC0=900, ZC1=650, ZC1b=350, ZR1=100, ZR2=250, ZR3=100, ZCH-1=300, ZCH-2=350 hab/ha) - SOLO densidad, sin COS/CC/altura/usos/predial/antejardin. p77 Tabla 42 (superficies en ha) EXCLUIDA por no ser parametro normativo. Revisadas las 45 paginas con imagen real (pdfimages): son fotos de avisos/certificados y planos ilustrativos de deslindes, sin tablas de norma ocultas. CONFIANZA MEDIA porque el dato es parcial (solo densidad) y la norma completa esta en otro documento no incluido en este PDF.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-16T08:10:55",
+  "fin": "2026-07-16T08:18:04",
+  "resultado": {
+    "archivo": "extraccion_normas\\quillota\\quillota_2338_eae_densidades.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZC0",
+      "ZC1",
+      "ZC1b",
+      "ZR1",
+      "ZR2",
+      "ZR3",
+      "ZCH-1",
+      "ZCH-2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "NORMA PARCIALMENTE INALCANZABLE confirmada: solo densidad por zona (8 de ~25 zonas nombradas tienen valor), sin COS/CC/altura/usos/predial/antejardin. Memoria Explicativa y Ordenanza completa no incluidas en el corpus. Nomenclatura completa de las ~25 zonas documentada para referencia. Confianza MEDIA por nota_fase3."
+  }
+}

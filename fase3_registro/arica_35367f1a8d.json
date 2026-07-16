@@ -1,0 +1,29 @@
+{
+  "id": "arica_35367f1a8d",
+  "comuna": "arica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arica_ordenanza_ordenanza_plan_regulador_comunal_de_arica__ORDENANZA_PLAN_REGULADOR.pdf",
+  "nombre": "arica_ordenanza_ordenanza_plan_regulador_comunal_de_arica__ORDENANZA_PLAN_REGULADOR.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 86,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:00:13",
+  "fin": "2026-07-14T13:04:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        29,
+        52
+      ],
+      [
+        82,
+        85
+      ]
+    ],
+    "paginas_utiles": 28,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ARICA: Ordenanza del PRC (86p). NUCLEO pags 29-52: Titulo 2 'Normas especificas de usos de suelo y condiciones de subdivision y edificacion' (Art 39) = un articulo por zona con DOS sub-cuadros (usos de suelo + condiciones de edificacion: predial minima, densidad, agrupamiento, antejardin, distanciamientos, altura, rasante, CC, COS). 24 zonas (ZR1-ZR4, ZM1-ZM2, ZCA, ZC, ZPE, ZT2-ZT3, ZI1-ZI3, ZP-Puerto, ZP1-ZP5, ZCE, ZV/EP, ZET, ZDD, ZER, ZMN, ZCH), practicamente una zona por pagina. Tablas NATIVAS de buena calidad, no escaneadas. Pag 28 = solo indice de zonas (excluida). Anadidas 82-85: Titulo 4 infraestructura de transporte, normas por USO (no por zona) con agrupamiento/distanciamiento/ocupacion. Pags 53-81 = desafectaciones, patrimonio, vialidad, areas de riesgo."
+  }
+}

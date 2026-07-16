@@ -1,0 +1,28 @@
+{
+  "id": "parral_a1111852e5",
+  "comuna": "parral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\parral_3048_aprueba_proyecto_de_modificacion_del_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "PARRAL: Decreto 3048 exento (2003, BCN LeyChile, 1p), Aprueba Proyecto de Modificacion del PRC. Norma real y simple, EN TEXTO PLANO (sin trampa): 'Coeficiente de Constructibilidad y de Ocupacion de Suelo, se aumentan en un 20 por ciento', aplicable a las condiciones de edificacion de TODAS LAS ZONAS del PRC de Parral (no es una tabla por zona, es una regla general horizontal). Documento completo en 1 pagina.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:22:33",
+  "fin": "2026-07-15T14:28:28",
+  "resultado": {
+    "archivo": "extraccion_normas\\parral\\parral_3048_modificacion_general_cos_cc_pag1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "GENERAL-TODAS-ZONAS"
+    ],
+    "confianza": "ALTA",
+    "nota": "Regla general horizontal confirmada: CC y COS aumentan 20% (delta relativo) para TODAS las zonas del PRC de Parral. No es tabla por zona."
+  }
+}

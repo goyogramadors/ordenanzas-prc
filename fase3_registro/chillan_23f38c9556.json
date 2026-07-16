@@ -1,0 +1,25 @@
+{
+  "id": "chillan_23f38c9556",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_7458_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio_bio__Decreto 7458 - Mod Plan Regulador, Diario Oficial.pdf",
+  "nombre": "chillan_7458_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio_bio__Decreto 7458 - Mod Plan Regulador, Diario Oficial.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:48:38",
+  "fin": "2026-07-15T07:50:07",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        10,
+        13
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA imagen sistemática: actualización PRC completa Chillán, Título V (Art.11) 'NORMAS URBANÍSTICAS DE LA ZONA X' para TODAS las zonas (ZC-1/2/3, ZM-1/2, ZH-1 a ZH-7, ZI, ZBA, ZE-1 a ZE-5, ZIT, ZAV, ZIS, ZIE) - cada tabla aparece SOLO como título en texto, contenido embebido como imagen (confirmado con pdfimages: 5-8 imágenes grandes por página en pág10-13). Pág9 Art.5 estacionamientos y pág7-8 Art.4 vialidad estructurante (cuadros de vías, no normas de zona, excluidos). Pág14 Art.14 nota general: ICH deben mantener normas urbanísticas (uso suelo, sup.predial, COS, altura, agrupamiento) de su zona"
+  }
+}

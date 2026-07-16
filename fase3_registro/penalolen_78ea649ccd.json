@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_78ea649ccd",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_12004405_reconoce_modificacion_parcial_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "nombre": "penalolen_12004405_reconoce_modificacion_parcial_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:59:13",
+  "fin": "2026-07-15T08:02:06",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        9
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "reconoce modificación parcial (tras fallo Corte Suprema que excluyó sector Antupirán) sectores Las Perdices/Oriental (Zona R2), Cancha Tres (Zona EQ-1), El Sauzal (Zona R10). Usos Permitidos en texto nativo pág3-4,6,8; Usos Prohibidos y Condiciones de Subdivisión y Edificación (COS/CC/altura) embebidos como imagen en pág5,7,8,9 (confirmado pdfimages)"
+  }
+}

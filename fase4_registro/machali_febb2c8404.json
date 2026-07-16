@@ -1,0 +1,36 @@
+{
+  "id": "machali_febb2c8404",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_482_fijense_las_nuevas_normas_urbanisticas_a_las_vialidades_caducadas_del_plan_r__482   2013.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "MACHALI: Decreto 482 (2013, BCN LeyChile, 2p), Fija nuevas normas urbanisticas a vialidades caducadas del PRC (art 59 LGUC). TRAMPA CONFIRMADA: paginas_con_imagen del catalogo venia VACIO pero la tabla SI existe como JPEG 698x450 en la pagina 2 (verificado con pdfimages -list). El texto termina en 'de acuerdo al siguiente cuadro:' seguido de un punto solitario. Al renderizar aparece la tabla completa: NOMBRE DE LA VIA, TRAMO desde-hasta, E-P, CATEGORIA, ANCHO en metros, ZONA ASIMILADA, con 12 vias (Av. El Parque, Av. Miguel Ramirez, Av. San Juan x2, Av. Mons. Escriva de Balaguer, Camino Las Termas, Av. Republica de Chile, Av. Hernan Ciudad x2, Camino Las Rosas, Costanera Cachapoal, Prolongacion Camino Las Rosas, Prolongacion Av. Arturo Prat) asimiladas a zonas ZU-3, ZU-7, ZU-8, ZU-9, ZU-10, ZE-1, ZE-2, ZCH. Mismo mecanismo legal que los casos ya registrados de Concepcion y Conchali (asignacion de zona a predios con declaratoria caducada): cuenta como norma urbanistica.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:22:29",
+  "fin": "2026-07-15T14:24:24",
+  "resultado": {
+    "archivo": "extraccion_normas\\machali\\machali_482_vialidades_caducadas_pag2.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "ZU-3",
+      "ZU-7",
+      "ZU-7a",
+      "ZU-8",
+      "ZU-9",
+      "ZU-10",
+      "ZE-1",
+      "ZE-2",
+      "ZCH"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa confirmada (JPEG en pagina, pdftotext solo daba el punto solitario). Tabla de asimilacion de 12 vialidades caducadas a zonas EXISTENTES del PRC (no define COS/CC/altura propios, solo re-zonifica los predios de la via caducada). Mismo mecanismo que Concepcion/Conchali. Coincide con nota_fase3."
+  }
+}

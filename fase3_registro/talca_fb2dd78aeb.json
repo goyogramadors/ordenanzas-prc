@@ -1,0 +1,25 @@
+{
+  "id": "talca_fb2dd78aeb",
+  "comuna": "talca",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\talca_2081_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan___Exportar.pdf",
+  "nombre": "talca_2081_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:32:26",
+  "fin": "2026-07-14T21:34:10",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 2081/2004 Talca, gemelo del decreto 1822: Plan Seccional Modificacion parte Zona Z-6, crea subzona Z-6H1 (3,68 ha). MISMOS VALORES que Z-6H2/Z-6H3: predial min 200 m2, frente 8 m, ocupacion 60%, CC 1,2, agrupamiento aislado/pareado/continuo (max 60% deslinde), altura 9,0 m, antejardin optativo. Mismos usos permitidos y exigencias generales (franja proteccion 10 m + via 8 m)."
+  }
+}

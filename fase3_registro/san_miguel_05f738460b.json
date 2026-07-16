@@ -1,0 +1,29 @@
+{
+  "id": "san_miguel_05f738460b",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_515_modifica_plan_regulador_de_la_comuna__Decreto 515 31-03-2009 ok.pdf",
+  "nombre": "san_miguel_515_modifica_plan_regulador_de_la_comuna__Decreto 515 31-03-2009 ok.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:28:57",
+  "fin": "2026-07-14T21:30:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ],
+      [
+        11,
+        13
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "SAN MIGUEL: *** CONTAMINACION: el PDF es una edicion completa del Diario Oficial (13p) *** con material ajeno (otros decretos, avisos judiciales). Decreto 515 (2009), Modifica el PRC, concentrado en p1-2 y p11-13 (verificado por conteo de menciones SAN MIGUEL por pagina). Contenido real en texto: zonas EM-3 y EM-4 (areas de equipamiento y areas verdes nivel comunal, con usos permitidos-prohibidos), restricciones de altura por rasante en zonas D y E relacionadas al aeropuerto (limite 101,5 m zona D, 45 a 145 m zona E segun plano PRSM-1), normas sobre instalacion de antenas. Texto NATIVO denso, sin trampa de imagen. CONFIANZA MEDIA: layout a 2 columnas del DO puede desordenar el orden de lectura (mismo patron ya documentado en Linares), la fase siguiente debe verificar visualmente antes de extraer valores."
+  }
+}

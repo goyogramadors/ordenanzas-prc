@@ -1,0 +1,28 @@
+{
+  "id": "la_granja_db30479900",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_granja_4405_aprueba_enmienda_al_plan_regulador_comunal_sobre_dotacion_minima_de_estacio__do-20150311_p7.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "LA GRANJA: Diario Oficial 11-mar-2015, decreto 4405, ENMIENDA N1 al PRC 'Dotacion minima de Estacionamientos'. Norma en pag 2, EN TEXTO: reemplaza en el Cuadro Dotacion Minima de Estacionamientos del Articulo 14, Cap III, la fila 2 donde dice '1 por vivienda' por 'No se exige (PRMS Art 7.1.2.9)', con el objeto de disminuir las exigencias de estacionamientos para VIVIENDA SOCIAL en todo el territorio comunal. Solo afecta estacionamientos: no toca COS, CC, altura ni zonificacion. *** OJO CONTAMINACION: el PDF es una pagina completa del Diario Oficial y contiene ademas material ajeno (tipos de cambio del Banco Central, resoluciones de Contraloria); la fase siguiente debe aislar el decreto 4405. ***",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:15:17",
+  "fin": "2026-07-15T14:17:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_granja\\la_granja_4405_enmienda_n1_dotacion_estacionamientos_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "GENERAL-ESTACIONAMIENTOS"
+    ],
+    "confianza": "ALTA",
+    "nota": "DISCREPANCIA con nota_fase3: esta reemplaza 3 filas (no 1) del cuadro Dotacion Minima de Estacionamientos (Art.14): vivienda social->No se exige, vivienda 0-100m2->1 cada 2 viv, vivienda sobre 100m2->1 por vivienda. Norma general de todo el territorio comunal, no una zona especifica. Pagina DO mezcla aviso INAPI y extracto Municipalidad Providencia (no Banco Central como decia la nota), aislado correctamente."
+  }
+}

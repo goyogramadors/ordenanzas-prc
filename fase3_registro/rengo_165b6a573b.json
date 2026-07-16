@@ -1,0 +1,20 @@
+{
+  "id": "rengo_165b6a573b",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_1055_md_apruebanse_los_terminos_de_la_imagen_objetivo_acordados_en_foma_unanime___TerminosImagenObjetivo.pdf",
+  "nombre": "rengo_1055_md_apruebanse_los_terminos_de_la_imagen_objetivo_acordados_en_foma_unanime___TerminosImagenObjetivo.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:22:59",
+  "fin": "2026-07-14T21:25:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.1055(MD) aprueba los TERMINOS DE ACUERDO de la Imagen Objetivo (etapa previa, art.28 octies LGUC) para el ANTEPROYECTO de la Modificacion N.6 al PRC Rengo (sectores Rengo, Rosario, Esmeralda). p2-3 son IMAGEN: planos esquematicos + listas de CRITERIOS DE DISEÑO (USOS, MOVILIDAD, AREAS VERDES) tipo 'se prioriza', 'se evaluara', 'se incorporan' - directrices cualitativas para que Asesoria Urbana redacte el anteproyecto, NO parametros de zona fijados (sin COS/CC/altura/predial; solo una mencion vaga 'nueva zona ZH3-A con 20% mas de densidad que el promedio', sin valor concreto). Es la etapa anterior a la norma, no la norma misma. Verificado por render p2 y p3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lonquimay_819664f571",
+  "comuna": "lonquimay",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lonquimay_421_apruebese_la_enmienda_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lonquimay_421_apruebese_la_enmienda_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:02:50",
+  "fin": "2026-07-14T21:03:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "reajusta derechos/permisos municipales (matadero, guías tránsito, urbanización) - tabla de tarifas, NO normas urbanísticas de zonas"
+  }
+}

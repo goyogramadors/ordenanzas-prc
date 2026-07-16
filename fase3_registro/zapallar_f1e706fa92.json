@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_f1e706fa92",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_361_inicia_procedimiento_de_enmienda_de_plan_regulador__361.pdf",
+  "nombre": "zapallar_acuerdo_361_inicia_procedimiento_de_enmienda_de_plan_regulador__361.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:41:29",
+  "fin": "2026-07-15T07:47:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ZAPALLAR: Certificado Acuerdo 361-2016 (1p), Concejo Municipal aprueba el INICIO del procedimiento de enmienda al PRC para regularizar el Restaurante Cesar. Tramite de inicio, sin normas."
+  }
+}

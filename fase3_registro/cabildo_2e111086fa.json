@@ -1,0 +1,25 @@
+{
+  "id": "cabildo_2e111086fa",
+  "comuna": "cabildo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cabildo_1349_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_cabildo__Enmienda Nro 1 Plan Regulador comunal de Cabildo.pdf",
+  "nombre": "cabildo_1349_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_cabildo__Enmienda Nro 1 Plan Regulador comunal de Cabildo.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:01:17",
+  "fin": "2026-07-14T13:04:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Enmienda N1 PRC Cabildo, zona unica Z H2 B. Norma en TEXTO como articulo por letras a-h (predial min 200 m2, frente 10 m, ocupacion 0,6, constructibilidad 1,0, densidad 60 viv/ha, agrupamiento aislada/pareada/continua, antejardin 1,5 m, altura art.2.6.3 OGUC). No es cuadro visual: se transcribe directo del texto. p3 es solo plano de emplazamiento + firmas."
+  }
+}

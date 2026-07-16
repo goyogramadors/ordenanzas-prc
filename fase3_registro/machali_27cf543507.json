@@ -1,0 +1,20 @@
+{
+  "id": "machali_27cf543507",
+  "comuna": "machali",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\machali_informe_memoria_explicativa_plan_regulador_comunal_de_machali__MEMORIA%20EXPLICATIVA%20PLAN%20REGULADOR.pdf",
+  "nombre": "machali_informe_memoria_explicativa_plan_regulador_comunal_de_machali__MEMORIA%20EXPLICATIVA%20PLAN%20REGULADOR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 107,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:36:22",
+  "fin": "2026-07-15T08:40:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Memoria Explicativa PRC Machali (107 pag): revisada indice, legislacion (p.10-16), diagnostico uso de suelo (p.47-53, lista conceptual de indicadores sin cuadro numerico), y Cap.5 Plan Propuesto (p.85-107) con zonificacion narrativa (ZCH,ZU-1..12,ZE-1..3,ZAV,ZAPR,ZR-1..3,ZAC,ZPE,ZRA,etc) sin valores de COS/CC/altura/densidad por zona. P.98 aclara explicitamente que las normas de edificacion estan en la Ordenanza Local (documento separado, no incluido aqui)."
+  }
+}

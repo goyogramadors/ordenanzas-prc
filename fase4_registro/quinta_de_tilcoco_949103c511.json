@@ -1,0 +1,26 @@
+{
+  "id": "quinta_de_tilcoco_949103c511",
+  "comuna": "quinta_de_tilcoco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_de_tilcoco_24_aprueba_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      6,
+      6
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "!!ALERTA CRITICA!! El CUADRO PRINCIPAL del PRC (art.23: usos de suelo permitidos/prohibidos + condiciones de subdivision y edificacion para TODAS las 11 zonas: ZU-1 a ZU-5, ZTE-1, ZTE-2, ZR, ZE-1 a ZE-4) esta AUSENTE de este PDF: el texto dice literalmente 'NOTA: VER DIARIO OFICIAL N.35.344 DEL DIA LUNES 18 DE DICIEMBRE DE 1995, PAGINAS 17-18'. Tambien esta ausente el cuadro de vialidad estructurante (art.26, mismo DO pagina 18) pero eso no importa por ser vialidad. Lo UNICO que SI aparece con valores reales en este PDF es el art.17 (p6): normas de servicentros/expendio de combustibles (predial min 1.500 m2 si via <15m, accesos 5 m, angulo 70, agrupamiento aislado) y GARAJES Y TALLERES MECANICOS (predial min 500 m2, frente 15 m, aislado). REQUIERE URGENTE conseguir el Diario Oficial 35.344 (18-12-1995) paginas 17-18 para no dejar Quinta de Tilcoco sin sus normas de zona.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:32:17",
+  "fin": "2026-07-15T14:33:56",
+  "resultado": {
+    "archivo": "extraccion_normas\\quinta_de_tilcoco\\quinta_de_tilcoco_24_prc_art17_pag6.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "ALERTA CRITICA confirmada: cuadro principal (11 zonas, art.23) AUSENTE del PDF, remite a DO 35.344 (18-dic-1995) pag 16 (lista equipamiento) y segun nota_fase3 pags 17-18 (cuadro zonificacion). Solo se pudo transcribir art.17 (servicentros/garajes), norma general no por zona. URGENTE: conseguir DO 35.344 para no dejar Quinta de Tilcoco sin normas de zona -- reportar a fase siguiente."
+  }
+}

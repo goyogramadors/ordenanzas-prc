@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_e2ded1d866",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_898_aprueba_enmienda_al_plan_regulador_comunal_vigente_de_chiguayante_ajuste_zon__Exportar.pdf",
+  "nombre": "chiguayante_898_aprueba_enmienda_al_plan_regulador_comunal_vigente_de_chiguayante_ajuste_zon__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:07:46",
+  "fin": "2026-07-14T15:25:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Enmienda: ajuste zona ZR1 (laderas), estacionamientos y volumenes sobre antejardines. Normas en PROSA (donde dice/por lo siguiente), sin cuadro: art.5 estacionamientos por clase de equipamiento; art.8 zona ZR1 -> densidad bruta 12->10 hab/ha, COS 0.05->0.035, CC 0.2->0.14; art.6 cuerpos salientes sobre antejardin 1,20 m. Texto integro por pdftotext."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nogales_f4c334a210",
+  "comuna": "nogales",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nogales_decreto_2121_aprueba_suspension_de_plazos_proyecto_actualizacion_plan_regulador___2121.pdf",
+  "nombre": "nogales_decreto_2121_aprueba_suspension_de_plazos_proyecto_actualizacion_plan_regulador___2121.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:40:36",
+  "fin": "2026-07-15T08:42:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto2121: aprueba suspension de plazos Etapa5 proyecto actualizacion PRC (tramite administrativo). Sin tablas de normas, solo fechas de etapas."
+  }
+}

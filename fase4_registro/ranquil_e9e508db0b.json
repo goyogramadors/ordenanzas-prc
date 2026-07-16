@@ -1,0 +1,28 @@
+{
+  "id": "ranquil_e9e508db0b",
+  "comuna": "ranquil",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\ranquil_113_apruebase_el_plan_regulador_comunal_de_ranquil__DiarioOf-PlanRegulador.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "OCR de mala calidad (texto extraído ilegible), verificado con render: pág3 (DO página7) Art.17 superficie predial mínima estaciones servicio (500/800m2); pág4 (DO página8) tabla completa ZONA HABITACIONAL MIXTA ZHM (usos permit/prohib, subdivisión predial 200/300m2, COS 0.8, CC 2.5, agrupamiento aislado/pareado/continuo, altura 18m, densidad 160hab/ha, antejardín 3m). Documento parece ser recorte parcial (solo 4 páginas, páginas 7-8 de la edición DO) - posiblemente existan más zonas en páginas no incluidas en este PDF",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:04:29",
+  "fin": "2026-07-15T18:07:47",
+  "resultado": {
+    "archivo": "extraccion_normas\\ranquil\\ranquil_113_prc1985_zona_zhm_pag3-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZHM"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta pese a OCR pesimo (verificado visualmente en render). Alerta de documento parcial confirmada: solo paginas 7-8 de la edicion DO, posibles zonas adicionales del PRC de Ranquil en paginas no incluidas en este PDF."
+  }
+}

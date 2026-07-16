@@ -1,0 +1,20 @@
+{
+  "id": "monte_patria_01aa791bae",
+  "comuna": "monte_patria",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\monte_patria_plan_regulador_comunal__index.php.pdf",
+  "nombre": "monte_patria_plan_regulador_comunal__index.php.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:39:06",
+  "fin": "2026-07-15T08:45:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Alcaldicio 18725 (10-dic-2021, 9p): aprueba CONTRATO de consultoría con Geodessus Spa para el ESTUDIO de actualización del PRC de Monte Patria (licitación 2997-32-LQ21). Es un contrato administrativo (precio, forma de pago, equipo de trabajo, multas) — no contiene ninguna norma urbanística ni tabla de zonificación; el estudio referido aún no existe."
+  }
+}

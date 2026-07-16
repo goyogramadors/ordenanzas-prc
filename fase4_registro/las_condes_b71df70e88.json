@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_b71df70e88",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_dec.alcaldicio.966.21feb2014.pdf",
+  "rangos": [
+    [
+      9,
+      9
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto Alc.Secc.1a N966 (21.02.2014), Municipalidad de Las Condes: rectifica Decreto 729/2011 (Texto Aprobatorio Modificacion N8 al PRC), corrigiendo errores de forma. p.9 numeral 1.11 trae Tabla C completa: Densidad Maxima Neta 40 viv/ha, Subdivision Predial Minima 4.000 m2, CC 1.6, COS 0.30, Rasante 70, Altura maxima 5 pisos/17.5m, Antejardin 10m, Distanciamiento 11m, Agrupamiento Aislado -- aplicable al area delimitada por Avda. Charles Hamilton/Francisco de Asis/Francisco Bulnes Correa/Republica de Honduras (entorno Fundacion Cultural Las Condes). Excluidas del rango pp.3-8 y 12-23: cuadros de antejardin por calle especifica (formato Donde dice/Debe decir) y vialidad, no son norma de zona de uso de suelo. Sin comuna ajena.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:20:04",
+  "fin": "2026-07-15T14:22:00",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_966_tabla_c_fundacion_cultural.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Tabla-C-entorno-Fundacion-Cultural"
+    ],
+    "confianza": "ALTA",
+    "nota": "Solo numeral 1.11 (Tabla C) transcrito; excluidos cuadros de antejardin por calle y vialidad (no son norma de zona) segun nota_fase3. Verificado contra nota_fase3: coincide exactamente."
+  }
+}

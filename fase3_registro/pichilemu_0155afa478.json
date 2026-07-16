@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_0155afa478",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pichilemu_1824_decretese_extracto_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fiscal_1__publicacion_extracto_2020.pdf",
+  "nombre": "pichilemu_1824_decretese_extracto_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fiscal_1__publicacion_extracto_2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:46:53",
+  "fin": "2026-07-15T12:53:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento 1824/2020 y notificacion Diario Oficial: expropiacion parcial de inmuebles (Rol Avaluo 1129-490 y 1129-507) para materializacion de Calle Nueva N18 del PRC de Pichilemu. Solo deslindes/superficies de expropiacion, no contiene normas urbanisticas de zona."
+  }
+}

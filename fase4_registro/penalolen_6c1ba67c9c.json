@@ -1,0 +1,31 @@
+{
+  "id": "penalolen_6c1ba67c9c",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_1992.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Diario Oficial N34.195, 17-feb-1992, 2 pags. Pagina 1 es mayormente contenido ajeno (concesion radiodifusion, decreto telecom) pero en la columna inferior derecha arranca 'MODIFICA PLAN REGULADOR COMUNAL DE PEÑALOLEN (Resolucion)' Num.77, 24-dic-1991, que continua integro en pagina 2. Contiene modificaciones numericas concretas: Zona R1 ocupacion maxima de suelo 40%->60%; Zona R2 densidad 385->450 hab/ha; reemplaza usos de suelo/condiciones de edificacion y subdivision para Zonas Z1, R1, EQ y R2 remitiendo a Plano RM-PN-MOD-01-91. Verificado visualmente paginas 1-2 de 2; cuidado, pagina 1 mezcla contenido de otros tramites del mismo Diario Oficial.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:56:46",
+  "fin": "2026-07-15T17:59:35",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_mprc1992_r1_r2_z1_eq.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "R1",
+      "R2",
+      "Z1",
+      "EQ"
+    ],
+    "confianza": "ALTA",
+    "nota": "R1: ocupacion 40->60%. R2: densidad 385->450hab/ha. Z1 y EQ/R2 reclasificados por poligono a normas de R1 (sin valores propios, heredan de R1). p1 mezcla contenido ajeno del mismo DO (radiodifusion/telecom), aislado correctamente. Verificado contra nota_fase3: coincide."
+  }
+}

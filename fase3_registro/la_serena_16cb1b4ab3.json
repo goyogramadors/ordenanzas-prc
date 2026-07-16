@@ -1,0 +1,25 @@
+{
+  "id": "la_serena_16cb1b4ab3",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_serena_2236_aprueba_enmienda_no_2_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "la_serena_2236_aprueba_enmienda_no_2_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:50:01",
+  "fin": "2026-07-14T15:56:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        6
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA SERENA: Decreto 2236-2006 (BCN, 5p), Enmienda N2 al PRC. *** TABLAS AUSENTES DEL PDF ***: los cuadros completos de las zonas ZC-1, ZC-2, ZC4-2, EX-1 y EX22-A NO estan (ni texto ni imagen); en su lugar hay notas 'VER D.O. 27.07.2006, PAGINA 5, 6 y 7'. Verificado visualmente en p4, p5 y p6: solo quedan las notas al pie. LO QUE SI ES EXTRAIBLE, en p2-3 y en prosa: aumenta la altura maxima de 6 m a 7,20 m y baja el antejardin de 20 m a 10 m (zona EX-1), y baja el antejardin de 10 m a 5 m (EX22-A). Para las tablas completas hay que ir al Diario Oficial del 27-jul-2006, pags 5 a 7: inalcanzables desde este PDF."
+  }
+}

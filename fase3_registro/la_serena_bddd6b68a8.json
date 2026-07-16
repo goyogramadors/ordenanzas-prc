@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_bddd6b68a8",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_840_horario_expendio_transitorio_patentes_alcoholes__doc_34_840_31082020041100.pdf",
+  "nombre": "la_serena_840_horario_expendio_transitorio_patentes_alcoholes__doc_34_840_31082020041100.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:25:42",
+  "fin": "2026-07-15T08:26:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 840/2020 prorroga horario de expendio transitorio de patentes de alcoholes durante pandemia Covid-19. No relacionado a PRC."
+  }
+}

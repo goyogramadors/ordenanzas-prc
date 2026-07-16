@@ -1,0 +1,20 @@
+{
+  "id": "rengo_d7bf321a43",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_decreto_394_despacha_oficio_modificacion_n5_plan_regulador_de_rengo__0394_del%2020.03.15_Despacha%20Oficio%20Modificacion%20Nro%205%20Plan%20Regulador%20de%20Rengo.pdf",
+  "nombre": "rengo_decreto_394_despacha_oficio_modificacion_n5_plan_regulador_de_rengo__0394_del%2020.03.15_Despacha%20Oficio%20Modificacion%20Nro%205%20Plan%20Regulador%20de%20Rengo.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:24:14",
+  "fin": "2026-07-14T21:24:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DUPLICADO EXACTO (mismo md5) de sin_comuna_c859b64b71, ya procesado por esta sesion. Decreto Alcaldicio 34/2015 (=394 en este catalogo): INICIO DE PROCESO de Modificacion N5 (no sustancial) al PRC de Rengo. Puro tramite: lista 16 temas, recuadros para diario y carta a juntas de vecinos. Las 'tablas' son listados de titulos de tema (tema/zona/titulo), SIN un solo valor normativo."
+  }
+}

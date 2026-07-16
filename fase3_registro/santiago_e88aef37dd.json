@@ -1,0 +1,20 @@
+{
+  "id": "santiago_e88aef37dd",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_05.-Ord-N_C2_B02051.pdf",
+  "nombre": "santiago_05.-Ord-N_C2_B02051.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:30:56",
+  "fin": "2026-07-14T21:33:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SANTIAGO: Oficio Ord 2051 (12p), correspondencia administrativa entre la Municipalidad y la Seremi Minvu sobre la revision de un expediente de modificacion del PRC (observaciones, documentacion faltante, plazos de revision de 60 dias). Es tramite de revision, no contiene tablas de normas: solo enumera los antecedentes PRCS vigentes como referencia. Cero señales urbanisticas en 12 paginas."
+  }
+}

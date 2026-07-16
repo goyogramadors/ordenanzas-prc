@@ -1,0 +1,25 @@
+{
+  "id": "gorbea_942ca3c488",
+  "comuna": "gorbea",
+  "ruta": "Ordenanzas ordenadas\\gorbea_decreto_660_aprueba_el_termino_del_proceso_de_evalacion_ambiental_estrategica_de__660.pdf",
+  "nombre": "gorbea_decreto_660_aprueba_el_termino_del_proceso_de_evalacion_ambiental_estrategica_de__660.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:16:11",
+  "fin": "2026-07-15T08:17:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "visual",
+    "nota": "Decreto 660 (01.08.2017), Municipalidad de Gorbea, Localidades Quitratue y Lastarria: Aprueba termino del proceso de Evaluacion Ambiental Estrategica del PRC. p.3 'Objetivos Ambientales' menciona valores urbanisticos reales aplicados a Zona Mixta 4 (ZM4) baja densidad: restriccion de ocupacion de suelo a 20% para equipamiento asociado a franja de proteccion rio Puyehue/cerros, y en ZM4 'restringiendo la densidad habitacional a 100 hab/ha y la altura a 2 pisos'. ALERTA: son valores citados en el contexto descriptivo de objetivos ambientales del EAE, no en un cuadro formal de Ordenanza Local -- verificar contra el documento definitivo de Ordenanza Local del PRC Gorbea (ver tambien gorbea_c6f5f67b17, decreto 661, que aprueba el PRC pero remite a una Ordenanza Local separada no incluida en ese archivo)."
+  }
+}

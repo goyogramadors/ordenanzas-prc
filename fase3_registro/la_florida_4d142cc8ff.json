@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_4d142cc8ff",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_47_plan_regulador_comunal_2001__Exportar.pdf",
+  "nombre": "la_florida_47_plan_regulador_comunal_2001__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 54,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:44:33",
+  "fin": "2026-07-14T15:53:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        50
+      ]
+    ],
+    "paginas_utiles": 32,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ORDENANZA PRC La Florida 2001 (54 pags). Cap.IV Zonificacion y normas: p18-50 (p51 ya es Cap.V Vialidad). Contenido MIXTO: p19 tablas-IMAGEN de clasificacion de zonas (sigla/tipo edificacion/densidad y usos de suelo U-Vev1..U-EC4); p21 tabla-imagen de condiciones de edificacion de equipamientos (COS 0,6; CI 3/2/1,5/1,2); p24-29 seis tablas-IMAGEN de usos de suelo por area (U-Vev1..U-EC); p29-36 art.32 Zonas con Normas Conjuntas (AV, ERD, ESP, RI, R, ICH); p37-48 TEXTO REAL con las tablas de Z-AA1, Z-AA2, Z-AA+CB/CM, Z-AA+CM, Z-AM (COS, CC, rasante, altura, antejardin, medianeros, agrupamiento, densidad neta); p49-50 tablas-IMAGEN ZRM-DT (COS 0,52, CI 2,08, altura 17,28 m, densidad 740 hab/ha) y ZRM (COS 0,5, CI 1,5, altura 14 m, densidad 650 hab/ha). !!ATENCION!!: la tabla combinatoria de Condiciones de Edificacion de las zonas E-AB1..E-A1 (las mas usadas del plan) NO ESTA EN EL PDF: remite a 'VER DIARIO OFICIAL DE 17.08.2001, PAGINAS 15-18'. Hay que conseguir ese DO aparte. Los valores E-AB/E-AM si estan en la_florida_7dba2e8426 y la_florida_c7b969172d."
+  }
+}

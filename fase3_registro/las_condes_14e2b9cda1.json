@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_14e2b9cda1",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_2952_30jul2004.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_2952_30jul2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:53:54",
+  "fin": "2026-07-14T15:59:02",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 2952 (30-07-2004), Modificacion N3 via enmienda. p2: norma en PROSA, enmienda el inciso 5 del art.41 -> agrega calle La Pastora (entre Reyes Lavalle y Av. Isidora Goyenechea) al listado de vias donde se permiten ACTIVIDADES DE FUNCIONAMIENTO NOCTURNO, con carga de ocupacion maxima de 250 personas. CASO LIMITE: es un uso permitido acotado a un tramo de calle, no un cuadro de zona. Confianza MEDIA: el transcriptor decide si va al esquema por zona o aparte. p1 solo vistos."
+  }
+}

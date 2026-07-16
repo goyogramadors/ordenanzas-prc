@@ -1,0 +1,26 @@
+{
+  "id": "puerto_montt_a16e142a8c",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_5850_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "PUERTO MONTT: Decreto 5850 exento (2002, BCN LeyChile, 2p), Enmienda al PRC sector Mirasol. Norma en p2, EN TEXTO PLANO: reasigna dos poligonos de area verde (151,23 m2 cada uno, poligonos ABCDA y EFGHE) a zona habitacional H-2, y un poligono de reserva Serviu (353,79 m2, ABCDEA) a Area Verde vecinal (art 24 Ordenanza Local). Es una REASIGNACION DE ZONA a predios especificos (no transcribe coeficientes nuevos, remite a las normas ya existentes de H-2), mismo mecanismo que los casos ya registrados de Concepcion-Conchali-Machali (asignacion de zona). Sin imagenes de tabla oculta (verificado con pdfimages).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:30:43",
+  "fin": "2026-07-15T14:32:11",
+  "resultado": {
+    "archivo": "extraccion_normas\\puerto_montt\\puerto_montt_5850_reasigna_h2_pag2.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "ALTA",
+    "nota": "Reasignacion de zona a 3 poligonos especificos (2x area verde->H2, 1x reserva Serviu->area verde vecinal), sin definir parametros nuevos (remite a norma ya existente de H2). Mismo mecanismo que Concepcion/Conchali/Machali. Sin imagenes ocultas verificado con pdfimages. Coincide con nota_fase3."
+  }
+}

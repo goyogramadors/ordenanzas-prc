@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_723625febb",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\CUFA98~1.PDF",
+  "nombre": "CUFA98~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:07:12",
+  "fin": "2026-07-15T08:09:04",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "CURACAUTIN: NO ES UN DOCUMENTO PRC. Decreto Exento 2.992 (30-oct-2023, 2p, escaneado sin OCR): 'Modifica Ordenanza Municipal Terminal Rodoviario Curacautin'. Solo cambia una tarifa de arriendo (cafeteria de 3 UTM a 2 UTM mensual). No es planificacion territorial. Verificado visualmente."
+  }
+}

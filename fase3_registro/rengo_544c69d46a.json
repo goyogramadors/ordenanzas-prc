@@ -1,0 +1,25 @@
+{
+  "id": "rengo_544c69d46a",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_434_md_aprueba_modificacion_n_6_al_plan_regulador_comunal_de_rengo__Diario Oficial N° 43519.pdf",
+  "nombre": "rengo_434_md_aprueba_modificacion_n_6_al_plan_regulador_comunal_de_rengo__Diario Oficial N° 43519.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 15,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:24:14",
+  "fin": "2026-07-14T21:26:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        11
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Modificacion N6 PRC Rengo (DO 43.519, 04-04-2023, 15 pags, 5 temas). p3-6: Tema1, redefine la Zona de Conservacion Historica (ZCH) de Rengo/Rosario/Esmeralda: incorpora/elimina declaratorias ZCH e ICH por predio (roles especificos), rectifica poligono ZE2; p6 inserta TABLA al final del art.72 ZCH (verificar si es imagen). p6-8: Tema2, zona universitaria/portal de acceso: transforma ZH3 en ZE Equipamiento en un terreno, elimina prohibicion de clinicas en ZC1 (art.34), elimina via estructurante 'Calle P'. p9-11: Tema3, CREA la ZONA ZH3-A Zona Residencial Barrio Nororiente (art.38 bis) con norma COMPLETA: usos permitidos/condicionados/prohibidos + condiciones de edificacion (predial min 160-2000 m2 segun uso, CC 1,0-1,8, COS 0,4-0,6, agrupamiento, altura 10,80-16,80 m, antejardin 3-6 m, densidad 600 hab/ha). p12-14: Tema4, PERFILES TRANSVERSALES (imagen, VIALIDAD), excluido. p15: Tema5 y cierre administrativo."
+  }
+}

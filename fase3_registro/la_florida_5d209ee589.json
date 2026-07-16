@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_5d209ee589",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_4873_modificacion_al_plan_regulador_comunal_de_la_florida_no_6_zonas_erd_y_ajust__Exportar.pdf",
+  "nombre": "la_florida_4873_modificacion_al_plan_regulador_comunal_de_la_florida_no_6_zonas_erd_y_ajust__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:44:33",
+  "fin": "2026-07-14T15:50:08",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion N6 'zonas ERD' La Florida: pese al titulo NO trae cuadro ni valor de norma. Solo (1) agrega la frase ', muebles o articulos de gran tamano' a una celda ya existente del cuadro de estacionamientos (art.15), (2) declara tacitamente derogados los numerales 8 y 9 del art.15 (circular DDU 227), (3) ELIMINA las zonas ERD-5 y ERD-10 del art.41 sin asignar norma nueva. Los cambios de uso de suelo y condiciones de edificacion se remiten a los planos PRLF ERD-1/10 y ERD-2/10, ausentes del PDF. Render de p2,p3,p4 sin tablas ocultas; p4 solo firmas."
+  }
+}

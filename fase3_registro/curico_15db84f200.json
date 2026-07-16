@@ -1,0 +1,25 @@
+{
+  "id": "curico_15db84f200",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_1370_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_cumunal_d__1370.pdf",
+  "nombre": "curico_1370_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_cumunal_d__1370.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:36:44",
+  "fin": "2026-07-14T15:40:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda N2 PRC Curico. TRAMPA: pdftotext solo devuelve los titulos de zona sueltos; los cuadros son IMAGEN (verificado en render 150dpi). p2: cuadro NORMAS DE SUBDIVISION Y EDIFICACION POR USOS zona ZU-4a (predial 210/420/700 m2, COS 0,78/0,52, altura 25,2/13,2 m, densidad 768 hab/ha, antejardin 7 m). p3: mismos cuadros para ZU-6a (densidad 780 hab/ha) y ZU-10a (altura 13,2/8,4 m, antejardin 15 m, densidad 120 hab/ha). p4 solo cierre administrativo."
+  }
+}

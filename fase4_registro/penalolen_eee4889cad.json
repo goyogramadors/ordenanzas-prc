@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_eee4889cad",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_IE.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Zona I.E. (Industria y Almacenamiento Inofensivo/Equipamiento). Condiciones de subdivision predial y edificacion por escala (Regional-Interurbana, Comunal, Vecinal) e Industria: superficie predial minima, frente predial minimo, ocupacion maxima de suelo, coef constructibilidad, sistema de agrupamiento (aislado), rasantes/distanciamiento y altura segun OGUC, antejardin minimo 5m.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:30:39",
+  "fin": "2026-07-15T14:32:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_ie.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "I.E."
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: usos excluidos por escala + 4 tablas de condiciones (Equip. Regional/Interurbana, Comunal, Vecinal, Industria y Almacenamiento Inofensivo), todas transcritas desde render."
+  }
+}

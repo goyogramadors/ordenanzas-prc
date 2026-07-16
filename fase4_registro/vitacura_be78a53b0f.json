@@ -1,0 +1,28 @@
+{
+  "id": "vitacura_be78a53b0f",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_31037_promulga_modificacion_no27_al_plan_regulador_comunal_sector_av_juan_xxiii__publicacion_19.04.12.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "DO 40.241 (19-04-2012), edicion que mezcla contenido AJENO (CORFO Programa Desarrollo Proveedores, Municipalidad de PROVIDENCIA sobre estacionamientos controlados en p1): NO atribuir a Vitacura. p2 (Cuerpo I-12): Decreto 3/1037, Modificacion N27 PRC Vitacura 'Sector Av. Juan XXIII' -- reclasifica el poligono A-B-C-D-E-F-G-H-I-J-A de Edificacion Aislada Baja N3 (EAb3) a Edificacion Aislada Especial N2 (E-Ae2). Es SOLO un cambio de clasificacion de zona (por plano MR-27-01), SIN dar los valores dimensionales (COS/CC/altura) de la nueva condicion E-Ae2 en este documento. Confianza MEDIA: reclasificacion sin valores propios.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:36:00",
+  "fin": "2026-07-15T14:38:27",
+  "resultado": {
+    "archivo": "extraccion_normas\\vitacura\\vitacura_31037_modificacion27_reclasificacion_eae2_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E-Ae2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Confirmado: solo reclasificacion de zona (E-Ab3 -> E-Ae2) para poligono A-B-C-D-E-F-G-H-I-J-A, SIN valores dimensionales propios en este documento. Valores de E-Ae2 deben buscarse en Ordenanza Local vigente. p1 confirmada con contenido ajeno (CORFO, Providencia estacionamientos), no atribuido a Vitacura."
+  }
+}

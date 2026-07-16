@@ -1,0 +1,20 @@
+{
+  "id": "villa_alemana_ab5da728e8",
+  "comuna": "villa_alemana",
+  "ruta": "Ordenanzas ordenadas\\villa_alemana_resolucion_888_rechaza_porque_el_cambio_de_destino_en_esa_zona_no_esta_incluido___resolucion_20888_20.pdf",
+  "nombre": "villa_alemana_resolucion_888_rechaza_porque_el_cambio_de_destino_en_esa_zona_no_esta_incluido___resolucion_20888_20.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T13:00:17",
+  "fin": "2026-07-15T13:02:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Resolucion DOM 888/2021: RECHAZA solicitud de permiso de edificacion (expediente 439/2021) porque destino 'Equipamiento Basico' no esta entre los usos permitidos en Zona AV2 del PRC. Solo cita clasificacion de zona, no reproduce cuadro de normas (COS/CC/altura)."
+  }
+}

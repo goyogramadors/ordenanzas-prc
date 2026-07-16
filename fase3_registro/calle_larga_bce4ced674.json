@@ -1,0 +1,20 @@
+{
+  "id": "calle_larga_bce4ced674",
+  "comuna": "calle_larga",
+  "ruta": "Ordenanzas Descargadas\\1-600\\calle_larga_estoy_revisando_el_plan_municipal_cultural_y_el_plan_regulador_comunal_no_especi__b6e6a997-020b-406e-8dbb-e646db823412.pdf",
+  "nombre": "calle_larga_estoy_revisando_el_plan_municipal_cultural_y_el_plan_regulador_comunal_no_especi__b6e6a997-020b-406e-8dbb-e646db823412.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:02:31",
+  "fin": "2026-07-14T13:04:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CALLE LARGA: NO ES UN DOCUMENTO PRC. Oficio 05/2026 de respuesta a solicitud de Ley de Transparencia (MU023T0001602): responde que el PRC no considera ninguna zona del tipo 'Patrimonio Natural'. 2 pags, texto completo leido, sin normas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_028f625522",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_21005247_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "penalolen_21005247_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:10:35",
+  "fin": "2026-07-14T21:12:44",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 2100/2005 Penalolen: modificacion sector Av. Jose Arrieta/Sanchez Fontecilla, crea la ZONA PE Parque Comunal (incorporada al parrafo 3, art.31 Usos de Suelo y Normas Especificas). p2: cuadro de USOS DE SUELO PERMITIDOS de la Zona PE (cientifico, educacion, culto-cultura, deporte-recreacion, con actividades detalladas: estadio, gimnasio, canchas, salas multiuso). Confianza MEDIA: el decreto NO incluye condiciones de edificacion (COS/CC/altura) para esta zona, solo usos permitidos -- verificar si se remite implicitamente a otra zona base. p3-4: cambios de poligono (Zona R1/AR1 -> PE) y vialidad estructurante (Av. Jorge Alessandri, Sanchez Fontecilla, Volcan Antuco), EXCLUIDO por ser vialidad/deslinde."
+  }
+}

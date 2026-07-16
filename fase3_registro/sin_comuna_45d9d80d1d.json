@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_45d9d80d1d",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\QUINTE~3.PDF",
+  "nombre": "QUINTE~3.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:07:12",
+  "fin": "2026-07-15T08:09:04",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "QUINTERO: Decreto Alcaldicio 3880 (18-jul-2024, 7p, escaneado sin OCR). Es un CONVENIO MANDATO entre el Gobierno Regional de Valparaiso y la Municipalidad de Quintero para financiar el estudio 'Actualizacion Plan Regulador Comunal de Quintero' (Cod. BIP 30131326-0): historial de licitaciones, desercion, reevaluacion presupuestaria (de 207 a 432 millones), clausulas del convenio y firmas. NO es la ordenanza: la ordenanza es un entregable FUTURO del estudio, mismo patron que Cerrillos_f0837a10fa. La unica tabla es de montos presupuestarios (gastos administrativos, consultorias), no normas urbanisticas. Verificado visualmente, 2 pags miradas."
+  }
+}

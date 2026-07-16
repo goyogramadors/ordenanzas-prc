@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_0f968dc1c0",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Texto_Resolutivo_Mod_11_vf_corregida_firmado.pdf",
+  "nombre": "las_condes_Texto_Resolutivo_Mod_11_vf_corregida_firmado.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 101,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:53:27",
+  "fin": "2026-07-14T15:59:46",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        26,
+        94
+      ]
+    ],
+    "paginas_utiles": 69,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: Texto Resolutivo de la Modificacion N11 al PRC (101p). Es un REDLINE (texto de modificacion), no una version consolidada: las tablas aparecen como 'nuevo texto' citado dentro de instrucciones 'Reemplazase...' - la fase siguiente debe tomar SOLO el bloque entrecomillado que sigue a cada encabezado de tabla. DOS TRAMOS: (1) p26-49, Cap VI Art 38, tablas A-B-C-D-E por cada una de ~20 zonas y subzonas de edificacion (E-Ab1 a E-e5) con densidad bruta maxima, predial minima, CC, COS, rasante, altura maxima, antejardin, distanciamiento, adosamiento y agrupamiento; (2) p50-94, Art 40-42, 'CUADRO DE USO DE SUELO ZONA U-...' para 18 zonas de uso + 3 subzonas (usos permitidos y prohibidos), cerrando con el Art 42 (norma complementaria El Golf Sur). Texto NATIVO fiable: los valores de celda (2.500, 0,30, 70 grados, 840 hab por ha) estan en el texto, no es tabla-imagen; se revisaron 39 delatores potenciales y ninguno lo era. Excluidas p95-101 (Cap VII Vialidad) y p1-25 (indice y normas generales no por zona)."
+  }
+}

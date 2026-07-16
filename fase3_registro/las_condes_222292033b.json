@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_222292033b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_5.-46b-MEMORIA-EXPLICATIVA-MODIF-N-10-FINAL-DIC2020.pdf",
+  "nombre": "las_condes_5.-46b-MEMORIA-EXPLICATIVA-MODIF-N-10-FINAL-DIC2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:27:23",
+  "fin": "2026-07-15T08:30:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        16,
+        16
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Memoria Explicativa Modificacion N10 PRC Las Condes, area Sector Edificacion Aislada Baja N3 (SEAb3, Av.Paul Harris/Santa Zita/Incahuasi/Punitaqui). P.16: cuadro completo de normas urbanisticas para proyectos de vivienda social: densidad bruta max 840 hab/ha, predial minimo 1500m2, CC 2.0, COS 0.4, rasante 70, altura max 5 pisos/17.5m, aislado sin adosamiento. P.17: aclara que viviendas unifamiliares mantienen normas del area EAb3 general."
+  }
+}

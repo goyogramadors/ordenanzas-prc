@@ -1,0 +1,38 @@
+{
+  "id": "mulchen_a0fc62b101",
+  "comuna": "mulchen",
+  "ruta": "Ordenanzas ordenadas\\mulchen_plan_regulador_comunal__Plan_regulador01.pdf",
+  "rangos": [
+    [
+      18,
+      19
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ordenanza Local PRC Mulchén (28p, doc 01). Art.19-20 usos permitidos/prohibidos p.18, Art.21 'Normas específicas' p.19: tabla completa ZH1,ZH2-ZH3,ZM,ZI,ZEX1-3,ZE1-3,ZR (predial, frente mínimo, COS%, CC, agrupamiento, altura). Confirmado encabezado y firma Municipalidad de Mulchén. ALERTA: pp.23-27 son anexos ajenos pegados al final del PDF (incl. p.25 ordenanza de Providencia, comuna ajena) — no se incluyen en el rango, ninguno trae tabla nueva. p.17 en blanco (plano no capturado).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:51:04",
+  "fin": "2026-07-15T14:54:07",
+  "resultado": {
+    "archivo": "extraccion_normas\\mulchen\\mulchen_ordenanza_prc_normas_zonas.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "ZH1",
+      "ZH2-ZH3",
+      "ZM",
+      "ZI",
+      "ZEX1",
+      "ZEX2",
+      "ZEX3",
+      "ZE1",
+      "ZE2",
+      "ZE3",
+      "ZR"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza Local completa arts 19-21: usos de suelo + normas especificas (predial/frente/COS/CC/agrupamiento/altura) para las 11 zonas del PRC de Mulchen. Confirmado encabezado y firma municipal. p23-27 excluidas (anexos ajenos, incl. Providencia). Verificado contra nota_fase3: coincide."
+  }
+}

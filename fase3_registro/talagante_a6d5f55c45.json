@@ -1,0 +1,25 @@
+{
+  "id": "talagante_a6d5f55c45",
+  "comuna": "talagante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talagante_3226_promulga_aprobacion_del_plan_regulador_comunal_de_talagante__Exportar.pdf",
+  "nombre": "talagante_3226_promulga_aprobacion_del_plan_regulador_comunal_de_talagante__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 31,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:32:26",
+  "fin": "2026-07-14T21:35:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        26
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Art.26 Cuadro6 Nomenclatura zonas pag15. Trampa confirmada: Art.27-35 (ZU-CV,ZU-1 a ZU-8) tabla parametros (superficie predial min, densidad, COS, coef.constructibilidad, agrupamiento, altura, antejardin, ochavos) como TABLA-IMAGEN pag16-20 (render confirma, texto solo titulos). Art.36-45 (ZP,ZAV,ZIE-1/2/3,ZE-1/2/3,ZSs,ZR-1,ZR-2) continua como texto extraible pag20-25. Art.47 zonas extension ZU-7c/ZU-8c pag25-26 texto. Paginas bajo-texto fuera de rango (7,9,10,28,30,31) verificadas por render: son otra cosa (limite urbano Lonquen/Talagante Oriente, poligono ZSs, vialidad estructurante, estandares estacionamiento), no normas de zona."
+  }
+}

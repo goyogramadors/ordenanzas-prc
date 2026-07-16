@@ -1,0 +1,25 @@
+{
+  "id": "san_miguel_6bebc3a89f",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_3164_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.164.pdf",
+  "nombre": "san_miguel_3164_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.164.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:28:57",
+  "fin": "2026-07-14T21:30:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        4
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "SAN MIGUEL: *** CONTAMINACION: edicion completa del DO (4p) *** con material ajeno. Decreto exento 3.164, Modifica la Ordenanza Local del PRC, concentrado en p2-4 (verificado por conteo de menciones SAN MIGUEL). Tercer decreto gemelo de la misma edicion del DO junto a 3162 y 3163 (mismo dia, 18-dic-2014). Mismo patron: texto denso nativo, contenido dimensional real pero layout a 2 columnas que puede desordenar valores (patron Linares). CONFIANZA MEDIA: verificar visualmente antes de extraer."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rengo_1e0550b429",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_875_md_modif_no4_al_plan_regulador_comunal_zona_urbana_de_rengo__do-20150613.pdf",
+  "nombre": "rengo_875_md_modif_no4_al_plan_regulador_comunal_zona_urbana_de_rengo__do-20150613.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:22:59",
+  "fin": "2026-07-14T21:25:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.875(MD)/2015 Modificacion N.4 PRC Rengo (edicion completa del DO, 12 paginas). El decreto (p10-11) SOLO reasigna zonificacion de 2 poligonos: poligono sur ZAV->ZH2, poligono norte ZC1->ZAV, remitiendo a los articulos 34/37/50 de la Ordenanza (no incluidos en este PDF). Sin valores COS/CC/altura/predial. TRAMPA COMUNA AJENA: la imagen de p11 (1500x885, verificada por render) es una tabla de vialidad ('TRAMO ENTRE CALLES/Existente/Propuesto/Observaciones') que pertenece a un decreto de TEMUCO (Dec.1175, deja sin efecto areas de utilidad publica), NO a Rengo - contaminacion de la misma edicion del DO."
+  }
+}

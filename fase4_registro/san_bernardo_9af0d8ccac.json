@@ -1,0 +1,28 @@
+{
+  "id": "san_bernardo_9af0d8ccac",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_decreto_aprueba_enmienda_no_3_al_plan_regulador_comunal_de_san_bernardo_y_locali__Decreto-6387-EXENTO-25-OCT-2017.pdf",
+  "rangos": [
+    [
+      1,
+      3
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.6387/2017 Enmienda N.1 PRC San Bernardo y Lo Herrera, Zona ZU 1.1 Plaza de Armas (art.55). OJO nombre archivo dice 'enmienda_no_3' pero el CONTENIDO es la Enmienda N.1 (verificado en texto, 2 veces). Reemplaza CC: 3,5; mas rasantes y distanciamiento (revisar p3 para valor completo, corte de extraccion en 'rasantes con respecto al plano'). Valores en TEXTO.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:16:28",
+  "fin": "2026-07-16T08:22:58",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_bernardo\\san_bernardo_6387_enmienda1_zu11_plazadearmas_pag1-3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU 1.1"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION: nombre de archivo dice enmienda_no_3 pero contenido es Enmienda N1 (verificado 2 veces). CC 3,5, rasante 60 grados con retranqueo 2,5m sobre 4to piso, distanciamiento posterior 6m/lateral 4m, densidad 1600 hab/ha. Texto plano completo. Coincide con nota_fase3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_ba10ea11e8",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_1832_aprueba_segunda_nomina_de_declaratorias_de_utilidad_publica_de_circulacione__2015.pdf",
+  "nombre": "pichilemu_1832_aprueba_segunda_nomina_de_declaratorias_de_utilidad_publica_de_circulacione__2015.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:47:30",
+  "fin": "2026-07-15T12:10:57",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 1832 (27-abr-2015, 8p): aprueba Segunda Nómina de Declaratorias de Utilidad Pública de Circulaciones, Parques y Plazas del PRC de Pichilemu QUE QUEDAN SIN EFECTO según Ley 20.791 (desafectación de vialidad proyectada, ej. Calle Nueva N2). Es tabla de vialidad (tramos de calles, largo, superficie) — excluida del alcance por convención (tablas de normas urbanísticas de zona, no de vialidad)."
+  }
+}

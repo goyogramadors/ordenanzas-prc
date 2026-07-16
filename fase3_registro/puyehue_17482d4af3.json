@@ -1,0 +1,25 @@
+{
+  "id": "puyehue_17482d4af3",
+  "comuna": "puyehue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puyehue_46_aprueba_modificacion_al_plan_regulador_comunal_depuyehue_localidad_de_entre_l__Exportar.pdf",
+  "nombre": "puyehue_46_aprueba_modificacion_al_plan_regulador_comunal_depuyehue_localidad_de_entre_l__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:17:01",
+  "fin": "2026-07-14T21:18:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "modificación PRC Entre Lagos: pág2-3 tabla completa nueva Zona Z6 (usos permit/prohib + normas específicas subdivisión predial y edificación: superficie predial mín, frente predial mín, % ocupación suelo, coef. constructibilidad, sistema agrupamiento, altura máxima, antejardines, adosamientos); texto nativo completo"
+  }
+}

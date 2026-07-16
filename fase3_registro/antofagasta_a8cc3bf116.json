@@ -1,0 +1,20 @@
+{
+  "id": "antofagasta_a8cc3bf116",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antofagasta_547_da_inicio_a_procedimiento_de_modificacion_del_plan_regulador_comunal_de_anto__Exportar.pdf",
+  "nombre": "antofagasta_547_da_inicio_a_procedimiento_de_modificacion_del_plan_regulador_comunal_de_anto__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:55:05",
+  "fin": "2026-07-14T12:58:17",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Puro tramite: da inicio al procedimiento de modificacion del PRC (sector Chimba Bajo Costa) e inicia Evaluacion Ambiental Estrategica. Sin norma urbanistica."
+  }
+}

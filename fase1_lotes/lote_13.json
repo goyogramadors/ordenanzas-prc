@@ -1,0 +1,763 @@
+[
+ {
+  "id": "d0126",
+  "comuna": "huechuraba",
+  "nombre_documento": "1805_rectifica_aprobacion_de_modificacion_n_2_al_plan_regulador_de_huechuraba_de",
+  "archivo": "huechuraba_1805_rectifica_aprobacion_de_modificacion_n_2_al_plan_regulador_de_huechuraba_de__5.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0634",
+  "comuna": "huechuraba",
+  "nombre_documento": "2362_asigna_nuevas_normas_urbanisticas_a_los_terrenos_que_forman_parte_de_la_faj",
+  "archivo": "huechuraba_2362_asigna_nuevas_normas_urbanisticas_a_los_terrenos_que_forman_parte_de_la_faj__2362.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 41.227\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 7 de Agosto de 2015\r\n\r\nCorte de Apelaciones de Chillán.- Llámese a concurso externo, por el término\r\nde diez días contados desde la publicación de este aviso en el Diario Oficial, para\r\nproveer el cargo de Oficial de Sala de la Corte de Apelaciones de Chillán, perteneciente\r\na la Séptima Categoría del Escalafón de Empleados del Poder Judicial, Grado XVI\r\nde la Escala de Sueldos del Personal de Empleados, vacante por promoción de don\r\nFredy Alberto Larenas Muñoz.\r\nRol Administrativo N° 58-2015.\r\nLos interesados deben acreditar el cumplimiento de los requisitos legales e\r\ningresar sus antecedentes en la página www.poderjudicial.cl, a través del portal de\r\npostulaciones, que dispone de mayor información relativa al concurso.- Secretario.\r\nCorte de Apelaciones de Concepción.- Llámese a concurso, por el término\r\nde diez días contados desde la publicación de este aviso en el Diario Oficial, para\r\nproveer el cargo de Defensor Público de Cañete, perteneciente a la Tercera Categoría\r\nde la Primera Serie del Escalafón Secundario del Poder Judicial, vacante por renuncia\r\nvoluntaria de doña Sandra Elizabeth Bujes Hermosilla.\r\nRol Administrativo N° 1059-2015.\r\nLos interesados deben acreditar el cumplimiento de los requisitos legales e\r\ningresar sus antecedentes en la página www.poderjudicial.cl, a través del portal de\r\npostulaciones, que dispone de mayor información relativa al concurso.- Secretario.\r\nCorte de Apelaciones de Co"
+ },
+ {
+  "id": "d1059",
+  "comuna": "huechuraba",
+  "nombre_documento": "20791_deja_sin_efecto_la_declaratoria_de_utilidad_publica_de_los_terrenos_que_in",
+  "archivo": "huechuraba_20791_deja_sin_efecto_la_declaratoria_de_utilidad_publica_de_los_terrenos_que_in__20791.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1060",
+  "comuna": "huechuraba",
+  "nombre_documento": "2450_promulga_aprobacion_de_modificacion_n_4_al_plan_regulador_decreto_exento_n",
+  "archivo": "huechuraba_2450_promulga_aprobacion_de_modificacion_n_4_al_plan_regulador_decreto_exento_n___11.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1061",
+  "comuna": "huechuraba",
+  "nombre_documento": "511_aprueba_modificacion_n_2_al_plan_regulador_comunal_de_huechuraba",
+  "archivo": "huechuraba_511_aprueba_modificacion_n_2_al_plan_regulador_comunal_de_huechuraba__4.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1062",
+  "comuna": "independencia",
+  "nombre_documento": "179_aprueba_ordenanza_local_plan_regulador_comunal_de_independencia",
+  "archivo": "independencia_179_aprueba_ordenanza_local_plan_regulador_comunal_de_independencia__prc14.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 34,
+  "paginas_escaneadas": 34,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0127",
+  "comuna": "iquique",
+  "nombre_documento": "audiencia_publica_plan_regulador",
+  "archivo": "iquique_audiencia_publica_plan_regulador__769853c3-c84f-47a5-a75b-cfbdf8117183.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0635",
+  "comuna": "iquique",
+  "nombre_documento": "11_promulgase_la_modificacion_al_plan_regulador_de_la_comuna_de_iquique_secciona",
+  "archivo": "iquique_11_promulgase_la_modificacion_al_plan_regulador_de_la_comuna_de_iquique_secciona__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 5,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 11, IQUIQUE (1997)\r\n\r\nResolución 11\r\nRESOLUCION AFECTA N° 11/97, IQUIQUE, 20 DE MAYO DE 1997.MUNICIPALIDAD DE IQUIQUE\r\nPublicación: 17-JUN-1997 | Promulgación: 20-MAY-1997\r\nVersión: Única De : 17-JUN-1997\r\nUrl Corta: https://bcn.cl/3mmxb\r\n\r\nRESOLUCION AFECTA N° 11/97, IQUIQUE, 20 DE MAYO DE 1997.Vistos:\r\n1.- El Oficio Ord. N° 0019 de fecha 14 de enero de 1997, de la Secretaría\r\nRegional Ministerial de Vivienda y Urbanismo, Región de Tarapacá, mediante el cual\r\nremite los antecedentes relacionados con la Modificación al Plan Regulador de\r\nIquique y al \"Seccional Sur de Iquique\".\r\n2.- El Informe técnico evacuado por el Depto. de Desarrollo Urbano e\r\nInfraestructura del Serviu, el que fuera aprobado por la Resolución exenta N° 127\r\nde 17 de abril de 1997, de la Seremi del Serviu.\r\n3.- En conformidad a los Acuerdos N° 72 y 73 del Concejo Comunal de la Ilustre\r\nMunicipalidad de Iquique, que constan en el Acta de Sesión Ordinaria de fecha 24 de\r\nmayo de 1996.\r\n4.- El Certificado N° 0027 de fecha 19 de mayo de 1997, emitido por el\r\nSecretario Ejecutivo del Consejo Regional de Tarapacá, que da cuenta que con facha\r\n19 de mayo de 1997, en el VIII Sesión Ordinaria, del Consejo Regional aprobó por\r\nunanimidad de los consejeros asistentes la modificación del Plan Regulador de\r\nIquique y del \"Seccional Sur\".\r\n5.- Lo dispuesto en los artículos 2 de la Ley 16.391 y 12 de Decreto Ley N°\r\n1.305 de 1976, en el artículo 44 del Decreto con Fuerza de Ley N° 458 de 1975, Ley\r\nGeneral de"
+ },
+ {
+  "id": "d0636",
+  "comuna": "iquique",
+  "nombre_documento": "184_decreto_alcaldicio_numero_184_de_2025_deroga_plan_regulador_comunal_de_iquiq",
+  "archivo": "iquique_184_decreto_alcaldicio_numero_184_de_2025_deroga_plan_regulador_comunal_de_iquiq__plan regulador iquique diario oficial.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 102,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 21
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.077\r\n\r\nLunes 17 de Febrero de 2025\r\n\r\nPágina 1 de 102\r\n\r\nNormas Generales\r\nCVE 2608385\r\nMUNICIPALIDAD DE IQUIQUE\r\nDEROGA PLAN REGULADOR COMUNAL DE IQUIQUE, APROBADO POR DECRETO N°\r\n233, DE 1981, Y PROMULGA PLAN REGULADOR COMUNAL DE IQUIQUE\r\nNúm. 184.- Iquique, 30 de enero de 2025.\r\nVistos:\r\nDecreto con fuerza de ley N° 458 de 1975, del Ministerio de Vivienda y Urbanismo, que aprueba\r\nla nueva Ley General de Urbanismo y Construcciones.\r\nLey N° 18.695, de 1988, Orgánica Constitucional de Municipalidades.\r\nDecreto N° 47 de fecha 16 de abril de 1992 del Ministerio de Vivienda y Urbanismo, que fija el\r\nnuevo texto de la Ordenanza General de Urbanismo y Construcciones.\r\nLey N° 19.300, de 1994, sobre Bases Generales del Medio Ambiente, y sus modificaciones\r\nposteriores.\r\nDecreto con fuerza de ley N° 1, de fecha 9 de mayo de 2006 del Ministerio del Interior, que fija\r\nel Texto Refundido, Coordinado y Sistematizado de la Ley N° 18.695, Orgánica Constitucional de\r\nMunicipalidades.\r\nDecreto N° 32, de fecha 17 de agosto de 2015, del Ministerio del Medio Ambiente, que aprueba\r\nel Reglamento para la Evaluación Ambiental Estratégica.\r\nDecreto alcaldicio N° 1.295 de fecha 29 de agosto de 2017, que aprueba el Procedimiento de\r\nEvaluación Ambiental Estratégica del Instrumento de Planificación Territorial denominado “Actualización\r\nPlan Regulador de Iquique”, en los términos que indica. Adjunta Manual de Procedi"
+ },
+ {
+  "id": "d0637",
+  "comuna": "iquique",
+  "nombre_documento": "264_aprueba_proyecto_de_modificacion_del_plan_regulador_de_la_comuna_de_iquique",
+  "archivo": "iquique_264_aprueba_proyecto_de_modificacion_del_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 5,
+   "altura_maxima": 2,
+   "agrupamiento": 7,
+   "antejardin": 3,
+   "rasante": 3,
+   "adosamiento": 1,
+   "distanciamiento": 6,
+   "zonificacion": 2,
+   "usos_de_suelo": 9,
+   "ordenanza_local_txt": 3,
+   "articulado": 39
+  },
+  "senales_tramite": {
+   "txt_postergacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 264, IQUIQUE (1993)\r\n\r\nDecreto 264\r\nAPRUEBA PROYECTO DE MODIFICACION DEL PLAN REGULADOR DE LA\r\nCOMUNA DE IQUIQUE\r\nMUNICIPALIDAD DE IQUIQUE\r\nPublicación: 30-MAY-1995 | Promulgación: 12-JUL-1993\r\nVersión: Única De : 30-MAY-1995\r\nUrl Corta: https://bcn.cl/3nv8b\r\n\r\nAPRUEBA PROYECTO DE MODIFICACION DEL PLAN REGULADOR DE LA COMUNA DE IQUIQUE\r\nNúm. 264.- Iquique, 12 de Julio de 1993.- Vistos:\r\n1.- La necesidad de modificar la actual normativa jurídica que rige las\r\ncondiciones de subdivisión, loteo, urbanización y construcción para la ciudad de\r\nIquique, en razón al explosivo e inorgánico crecimiento poblacional y urbano;\r\n2.- El Decreto Alcaldicio N° 459, de fecha 25 de septiembre de 1992, que\r\nposterga o congela los permisos de subdivisión, loteo, urbanización y de\r\nconstrucción en los subsectores D3; F2; y, F3, individualizados en el Plan Regulador\r\nde la Comuna de Iquique,\r\n3.- El Decreto Alcaldicio N° 002, de fecha 14 de enero de 1993, que prorroga la\r\nvigencia del Decreto Alcaldicio N° 459, de 25 septiembre de 1992, y amplía el\r\ncongelamiento o postergación de los permisos de subdivisión, loteo, urbanización y\r\nde construcción en las áreas allí señaladas;\r\n4.- La Resolución afecta N° 001, del Ministerio de Vivienda y Urbanismo,\r\nSecretaría Regional Ministerial Primera Región de Tarapacá, de fecha 12 de marzo\r\nde 1993, que autoriza la prórroga por un plazo de 90 días, a contar del 30 de marzo\r\nde 1993, la postergación de los permisos municipales de subdivisión, loteo,\r\n"
+ },
+ {
+  "id": "d0638",
+  "comuna": "iquique",
+  "nombre_documento": "279_promulga_enmienda_al_plan_regulador_de_la_comuna_de_iquique",
+  "archivo": "iquique_279_promulga_enmienda_al_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 2,
+   "altura_maxima": 2,
+   "agrupamiento": 5,
+   "antejardin": 3,
+   "rasante": 2,
+   "adosamiento": 3,
+   "distanciamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 5,
+   "articulado": 47,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 279, IQUIQUE (2007)\r\n\r\nDecreto 279\r\nPROMULGA ENMIENDA AL PLAN REGULADOR DE LA COMUNA DE IQUIQUE\r\nMUNICIPALIDAD DE IQUIQUE\r\nFecha Publicación: 11-ABR-2007 | Fecha Promulgación: 14-MAR-2007\r\nTipo Versión: Única De : 11-ABR-2007\r\nUrl Corta: https://bcn.cl/3mw0z\r\n\r\nPROMULGA ENMIENDA AL PLAN REGULADOR DE LA COMUNA DE IQUIQUE\r\nNúm. 279.- Iquique, 14 de Marzo de 2007.- El Sr. Alcalde (S), con esta misma\r\nfecha, ha expedido el siguiente Decreto:\r\nVistos:\r\nPlan Regulador Comuna de Iquique, Ordenanza Local.\r\nCertificado Nº 050/06, de fecha 20 de Febrero de 2006, emitido por Secretaría\r\nMunicipal y Secretaría del Concejo Municipal, dando cuenta de Acuerdo Nº 039/07,\r\nque aprueba modificación y enmienda al Plan Regulador Comunal de Iquique, Plan\r\nSeccional Sur, Plan Seccional Borde Costero, Sub Zona A-2, en conformidad al numeral\r\n3 del artículo 45 de la Ley General de Urbanismo y Construcciones.\r\nCertificado Nº 036/07, de fecha 08 de Febrero de 2007, emitido por Secretaría\r\nMunicipal y Secretaría del Concejo Municipal, dando cuenta de Acuerdo Nº 037/07,\r\nque aprueba definitivamente la enmienda al Plan Regulador Comunal de Iquique, Plan\r\nSeccional Sur, Plan Seccional Borde Costero, Sub Zona A-2.\r\nLo dispuesto en el Artículo 45º Ley General de Urbanismo y Construcciones, del\r\nDecreto con Fuerza de Ley Nº 458 de 1975 y lo dispuesto en artículo 2.1.13. de la\r\nOrdenanza General de Urbanismo y Construcciones publicada 16-09-1992 y modificada y\r\nrectificada el 22.03-2006.\r\nOficio Nº 17"
+ },
+ {
+  "id": "d0639",
+  "comuna": "iquique",
+  "nombre_documento": "935_aprueba_modificacion_de_ordenanza_local_del_plan_regulador_comunal_de_iquiqu",
+  "archivo": "iquique_935_aprueba_modificacion_de_ordenanza_local_del_plan_regulador_comunal_de_iquiqu__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 4,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 935, IQUIQUE (1989)\r\n\r\nDecreto 935\r\nAPRUEBA MODIFICACION DE ORDENANZA LOCAL DEL PLAN REGULADOR\r\nCOMUNAL DE IQUIQUE\r\nMUNICIPALIDAD DE IQUIQUE\r\nFecha Publicación: 16-ENE-1990 | Fecha Promulgación: 28-NOV-1989\r\nTipo Versión: Única De : 16-ENE-1990\r\nUrl Corta: https://bcn.cl/3udyk\r\n\r\nAPRUEBA MODIFICACION DE ORDENANZA LOCAL DEL PLAN REGULADOR COMUNAL DE IQUIQUE\r\nNúm 935.- Iquique, 28 de Noviembre de 1989.Vistos: Lo solicitado por el Sr. Director de Obras Municipales, en Ord. No. 1718, de\r\nfecha 22 de noviembre de 1989, con providencia del Sr. Director de Asesoría\r\nJurídica Municipal, en el que adjunta Informe Técnico y Ordenanza Local de\r\nmodificación del Plan Regulador Comunal de Iquique, y copia del Certificado emitido\r\npor la Sra. Secretaria Municipal, de fecha 21 de noviembre de 1989, La aprobación\r\notorgada por el Consejo de Desarrollo Comunal, en sesión ordinaria efectuada el día\r\n02 de agosto de 1989.\r\nY, en ejercicio de las facultades que me confiere la Ley No.\r\n18.695, sobre Organización y Atribuciones de las Municipalidades,\r\nDecreto:\r\nApruébase la modificación de la Ordenanza Local del Plan Regulador Comunal de\r\nIquique, aprobado por DS No. 233 (V. y U.) de 1981, publicado en el Diario Oficial de\r\n25 de noviembre de 1981, en el sentido de sustituir en el artículo 23, Subsector D-3\r\nEl Camino Bellavista, para el uso de suelo de equipamiento, destino turístico y, a\r\ncontinuación del adjetivo \"Cada\", el guarismo 50 mts. 2. por 100 mts. 2. Asimismo,\r\nsustitúyase en "
+ },
+ {
+  "id": "d1063",
+  "comuna": "iquique",
+  "nombre_documento": "ordenanza_apruebese_la_enmienda_n_2_al_plan_regulador_comunal_de_iquique_no_vige",
+  "archivo": "iquique_ordenanza_apruebese_la_enmienda_n_2_al_plan_regulador_comunal_de_iquique_no_vige__ordenanza 532.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1064",
+  "comuna": "iquique",
+  "nombre_documento": "ordenanza_apruebese_las_siguientes_enmiendas_al_plan_regulador_comunal_de_iquiqu",
+  "archivo": "iquique_ordenanza_apruebese_las_siguientes_enmiendas_al_plan_regulador_comunal_de_iquiqu__OM330.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1065",
+  "comuna": "iquique",
+  "nombre_documento": "ordenanza_modifiquese_plan_regulador_comuna_de_iquique_centro_urbano_playa_lobit",
+  "archivo": "iquique_ordenanza_modifiquese_plan_regulador_comuna_de_iquique_centro_urbano_playa_lobit__OM376.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0128",
+  "comuna": "la_cisterna",
+  "nombre_documento": "decreto_1765_apruebase_el_inicio_del_proceso_de_la_enmienda_n_2_al_plan_regulado",
+  "archivo": "la_cisterna_decreto_1765_apruebase_el_inicio_del_proceso_de_la_enmienda_n_2_al_plan_regulado__DEC1765.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'inicio_proceso' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0129",
+  "comuna": "la_cisterna",
+  "nombre_documento": "decreto_5327_rechacese_observaciones_al_analisis_de_la_modificacion_plan_regulad",
+  "archivo": "la_cisterna_decreto_5327_rechacese_observaciones_al_analisis_de_la_modificacion_plan_regulad__DEC5327.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0640",
+  "comuna": "la_cisterna",
+  "nombre_documento": "41992_aprueba_enmienda_n1_al_plan_regulador_comunal_de_la_cisterna",
+  "archivo": "la_cisterna_41992_aprueba_enmienda_n1_al_plan_regulador_comunal_de_la_cisterna__DOEnmiendaPRC.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_postergacion": 5
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.992\r\n\r\n|\r\n\r\nSábado 24 de Febrero de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1357740\r\n\r\nMUNICIPALIDAD DE LA CISTERNA\r\n\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL DE LA CISTERNA\r\nLa Cisterna, 15 de febrero de 2018.- La Alcaldía de la Cisterna decretó hoy lo siguiente:\r\nNúm. 820.\r\nVistos:\r\n1. El Acuerdo del H. Concejo Municipal Nº 174, de fecha 02.11.2017, que aprueba iniciar el\r\nproceso de Enmienda.\r\n2. El decreto alcaldicio Nº 5.379, de fecha 15.11.2017, que ratifica la aprobación del inicio\r\ndel estudio de enmienda al PRC y del proceso de aprobación de la misma.\r\n3. Las Publicaciones en el diario Las Últimas Noticias con fechas 06.11.2017 y 13.11.2017\r\nanunciando las Audiencias Públicas informativas de fecha martes 21 de noviembre del 2017 a las\r\n18:00 hrs, el periodo de la exposición pública del proyecto programado desde fecha 22.11.2017\r\nhasta el 11.01.2018, las Audiencias Públicas de consulta de fecha martes 26 de diciembre del\r\n2017 a las 18:00 hrs y periodo de recepción de las observaciones por la comunidad por escrito en\r\nla Oficina de Partes desde fecha 22.11.2017 hasta el 11.01.2018.\r\n4. Las Cartas certificadas informativas dirigidas a las 17 juntas de vecinos con fecha\r\n9.11.2017.\r\n5. La reunión informativa sostenida con la Comunidad, con fecha 21.11.2017 (seis\r\nAudiencias P"
+ },
+ {
+  "id": "d0641",
+  "comuna": "la_cisterna",
+  "nombre_documento": "42998_modificacion_no_1_del_plan_regulador_comunal_de_la_cisterna",
+  "archivo": "la_cisterna_42998_modificacion_no_1_del_plan_regulador_comunal_de_la_cisterna__1973883.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.998\r\n\r\n|\r\n\r\nViernes 9 de Julio de 2021\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nAvisos\r\nCVE 1973883\r\n\r\nMUNICIPALIDAD DE LA CISTERNA\r\n\r\nMunicipalidad de La Cisterna\r\nMODIFICACIÓN Nº 1 DEL PLAN REGULADOR COMUNAL DE LA\r\nCISTERNA\r\nLa I. Municipalidad de La Cisterna informa de la disponibilidad de los antecedentes\r\nde la Modificación Nº 1 al Plan Regulador Comunal de La Cisterna, promulgado por\r\ndecreto alcaldicio Nº 3467 de fecha 25 de junio de 2021, publicado en el sitio electrónico\r\nde la Municipalidad www.cisterna.cl con fecha 25 de junio de 2021, con lo cual entró en\r\nvigencia la Modificación Nº 1 del PRC de La Cisterna, en concordancia con lo estipulado\r\nen el artículo 28 septies de la Ley General de Urbanismo y Construcciones.\r\nLos antecedentes de la modificación corresponden a los siguientes:\r\n1. Decreto Alcaldicio Nº 3467 de fecha 25.06.2021.\r\n2. Memoria Explicativa.\r\n3. Texto Aprobatorio.\r\n4. Informe Técnico de análisis de la Capacidad Vial.\r\n5. Estudio de Factibilidad Sanitaria.\r\nJOEL OLMOS ESPINOZA\r\nAlcalde\r\nI. Municipalidad de La Cisterna\r\n\r\nJuan Jorge Lazo Rodríguez | Mesa Central: +562 2486 3600 Email: consultas@diarioficial.cl\r\nCVE 1973883 | Director:\r\nSitio Web: www.diarioficial.cl\r\nDirección: Dr. Torres Boonen N°511, Providencia, Santiago, Chile.\r\nEste documento ha sido firmado electrónicamente de acuer"
+ },
+ {
+  "id": "d0642",
+  "comuna": "la_cisterna",
+  "nombre_documento": "4480_asigna_normas_urbanisticas_y_uso_de_suelo_plan_regulador",
+  "archivo": "la_cisterna_4480_asigna_normas_urbanisticas_y_uso_de_suelo_plan_regulador__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "normas_urbanisticas": 4,
+   "usos_de_suelo": 4,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, normas_urbanisticas, usos_de_suelo, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 4480 EXENTO, LA CISTERNA (2010)\r\n\r\nDecreto 4480 EXENTO\r\nASIGNA NORMAS URBANÍSTICAS, DE EDIFICACIÓN Y USOS DE SUELO DE\r\nACUERDO AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LA CISTERNA\r\nFecha Publicación: 27-DIC-2010 | Fecha Promulgación: 26-NOV-2010\r\nTipo Versión: Única De : 27-DIC-2010\r\nUrl Corta: https://bcn.cl/3m3xf\r\n\r\nASIGNA NORMAS URBANÍSTICAS, DE EDIFICACIÓN Y USOS DE SUELO DE ACUERDO AL PLAN\r\nREGULADOR COMUNAL\r\nSantiago, 26 de noviembre de 2010.- La Alcaldía de la Cisterna, decretó hoy lo\r\nsiguiente:\r\nSección Primera Núm. 4.480 exento.- Vistos:\r\n1.\r\nEl artículo 59 de la Ley General de Urbanismo y Construcciones y sus\r\nmodificaciones (Ley Nº 19.939) sobre las declaratorias de utilidad pública y sus\r\ncaducidades.\r\n2.\r\nLas Circulares Nº 12 y Nº 16 de la Secretaría Ministerial de Vivienda y\r\nUrbanismo.\r\n3.\r\nLa vialidad del Plan Regulador Comunal publicado en el D.O. del 07.08.2004.\r\n4.\r\nEl Ord. Nº 300/185/269 de 27/07/2010 de Alcalde de La Cisterna a Seremi de\r\nVivienda y Urbanismo.\r\n5.\r\nEl Ord. Nº 300/192/284 de 10/08/2010 de Alcalde de La Cisterna a Seremi\r\nVivienda y Urbanismo.\r\n6.\r\nEl Ord. Nº 300/209/295 de fecha 20/08/2010 de Alcalde de La Cisterna a Seremi\r\nde Vivienda y Urbanismo.\r\n7.\r\nEl Ord. Nº 300/242/333 de fecha 29.09.2010 de Alcalde de La Cisterna a Seremi\r\nde Vivienda y Urbanismo.\r\n8.\r\nEl Ord. Nº 4865 de fecha 19 de Octubre de 2010 de Seremi de Vivienda y\r\nUrbanismo a Alcalde de La Cisterna.\r\n9.\r\nLo resuelto por el Alcalde sobre la materia; y\r\nTeniendo"
+ },
+ {
+  "id": "d1066",
+  "comuna": "la_cisterna",
+  "nombre_documento": "decreto_3467_apruebase_modificacion_plan_regulador_de_la_cisterna",
+  "archivo": "la_cisterna_decreto_3467_apruebase_modificacion_plan_regulador_de_la_cisterna__DEC3467.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1067",
+  "comuna": "la_cisterna",
+  "nombre_documento": "decreto_3467_promulgese_aprobacion_de_la_modificacion_n01_del_plan_regulador_com",
+  "archivo": "la_cisterna_decreto_3467_promulgese_aprobacion_de_la_modificacion_n01_del_plan_regulador_com__DEC3467.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1068",
+  "comuna": "la_cisterna",
+  "nombre_documento": "decreto_820_aprueba_enmienda_plan_regulador",
+  "archivo": "la_cisterna_decreto_820_aprueba_enmienda_plan_regulador__DEC820.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0130",
+  "comuna": "la_cruz",
+  "nombre_documento": "14_plan_regulador",
+  "archivo": "la_cruz_14_plan_regulador__b8076334-ef81-4448-90b2-c685d52d17e9.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0643",
+  "comuna": "la_estrella",
+  "nombre_documento": "243_aprueba_plan_regulador_y_ordenanza_local_del_plan_regulador_de_la_comuna_de",
+  "archivo": "la_estrella_243_aprueba_plan_regulador_y_ordenanza_local_del_plan_regulador_de_la_comuna_de___Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 14,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "agrupamiento": 5,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 4,
+   "articulado": 11,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 243, LA ESTRELLA (2016)\r\n\r\nDecreto 243\r\nAPRUEBA PLAN REGULADOR Y ORDENANZA LOCAL DEL PLAN REGULADOR\r\nDE LA COMUNA DE LA ESTRELLA\r\nMUNICIPALIDAD DE LA ESTRELLA\r\nPublicación: 12-ABR-2016 | Promulgación: 23-FEB-2016\r\nVersión: Única De : 12-ABR-2016\r\nUrl Corta: https://bcn.cl/3m6c8\r\n\r\nAPRUEBA PLAN REGULADOR Y ORDENANZA LOCAL DEL PLAN REGULADOR DE LA COMUNA DE LA\r\nESTRELLA\r\nNúm. 243.- La Estrella, 23 de febrero de 2016.\r\nVistos:\r\nLa Constitución Política de la República de Chile; la ley N° 18.575,\r\nOrgánica Constitucional sobre Bases Generales de la Administración del Estado; la\r\nley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen\r\nlos actos de los órganos de la Administración del Estado; los decretos con fuerza\r\nde ley N° 458 de 1975, Ley General de Urbanismo y Construcciones; el decreto supremo\r\nN° 47 de 1992 del Ministerio de Vivienda y Urbanismo; Ordenanza General de la Ley\r\nGeneral de Urbanismo y Construcciones; la resolución N° 1.600 de 30 de octubre de\r\n2008 de la Contraloría General de la República que fijó normas sobre exención del\r\ntrámite de toma de razón; la ley N° 20.713 de 18 de diciembre de 2013 de\r\nPresupuesto del Sector Público para el año 2014 y la demás normativa aplicable;\r\nlas facultades que me confiere la ley N° 18.695, Orgánica Constitucional de\r\nMunicipalidades.\r\nConsiderando:\r\n1.- La publicación en el diario El Rancagüino los días 5 y 12 de abril de\r\n2015, del siguiente formato:\r\nEl Alcalde que suscribe y en represent"
+ }
+]

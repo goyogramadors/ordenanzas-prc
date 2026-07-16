@@ -1,0 +1,25 @@
+{
+  "id": "san_miguel_f695c132a6",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_2500_promulga_modificacion_n_5_al_plan_regulador_comunal_de_san_miguel__D.O. Viernes 25 Nov 2016, DE 2500 M5-PRSM (2) (1).pdf",
+  "nombre": "san_miguel_2500_promulga_modificacion_n_5_al_plan_regulador_comunal_de_san_miguel__D.O. Viernes 25 Nov 2016, DE 2500 M5-PRSM (2) (1).pdf",
+  "veredicto": "TEXTO",
+  "paginas": 38,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:29:05",
+  "fin": "2026-07-14T21:33:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        38
+      ]
+    ],
+    "paginas_utiles": 28,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.2500/2016 (DO) promulga Modificacion N.5 PRC San Miguel, texto completo Ordenanza Local. TRAMPA CONFIRMADA: TODAS las tablas de normas son IMAGEN (TCPDF, JPEG por pagina completa); pdftotext solo saca el titulo del cuadro ('CUADRO DE NORMAS DE EDIFICACION Y SUBDIVISION, Z1:') y salta al pie de pagina, cero valores. pdfimages confirma imagen grande en cada pagina 11-38. Verificado por render en p14 (estacionamientos por uso), p18 (Z1: predial 600m2, antejardin 3m, COS 0,7, CC 2,5, altura 27m/10pisos, densidad 800 hab/ha), p19 (Z1 cont. + Z2), p23 (Z4: predial 250/500m2, COS 0,7/0,8, CC 2,5/2,0, altura 23m/8pisos, densidad 800 hab/ha), p29 (AC1/AC2 area verde: COS 0,05/0,1, CC 0,05/0,1, altura 7m, distanciamiento 5m), p34 (ES equipamiento salud: predial 5000m2, COS 0,6, CC 2,0, altura 45m, antejardin 7m). Zonas cubiertas: Z1-Z7, EC1, EC2, AC1, AC2, EM1, AM1, ES."
+  }
+}

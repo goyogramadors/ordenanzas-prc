@@ -1,0 +1,29 @@
+{
+  "id": "la_reina_ea2cf8e630",
+  "comuna": "la_reina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_reina_298_sanciona_enmienda_n_1_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Enmienda N1 PRC La Reina (Acuerdo 857). Norma en PROSA (no cuadro; render confirma que no hay tabla-imagen). p2: enmienda el art.24 -> elimina los usos de suelo de Vivienda y Equipamiento Comercial de la Puerta B7 (Zona B, Puertas de La Reina) y la incorpora a la ZONA M1 Parque Intercomunal, que permite areas verdes, recreacional, deportivo, culto, cultura, cientifico, esparcimiento y turismo al aire libre. p3: cierra la fijacion del limite poniente del parque. Los items 4-5 (planos LR/01 y LR/05) son vialidad, no cuentan. p1 solo decreto sancionador.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:46:12",
+  "fin": "2026-07-15T14:48:50",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_reina\\la_reina_298_enmienda1_zona_m1_puerta_b7_pag2-3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "M1",
+      "Zona-B"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: excluye vivienda/equip.comercial de ex-Puerta B7, la incorpora a zona M1 (usos PRMS: areas verdes/recreacional/deportivo/culto/cultura/cientifico/esparcimiento). Denominacion B7 reasignada a otra puerta. Items planos LR/01 y LR/05 son vialidad, no normas de zona."
+  }
+}

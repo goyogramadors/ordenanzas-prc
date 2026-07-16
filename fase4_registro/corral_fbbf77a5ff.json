@@ -1,0 +1,29 @@
+{
+  "id": "corral_fbbf77a5ff",
+  "comuna": "corral",
+  "ruta": "Ordenanzas Descargadas\\1-600\\corral_decreto_exento_1566_aprueba_enmienda_n_2_del_plan_regulador_comunal_de_corral_se__b094ba72-9a89-42c5-be5d-15a8f07540d2.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "CORRAL: Decreto Exento 1566 (5p, escaneado sin OCR), APRUEBA LA ENMIENDA N2 al PRC, mismo sector Estero El Molino y Cancha de Acopio Corral Bajo. Norma en p3 (verificado visualmente, etiquetada pagina 3): modifica de nuevo las zonas ZR-3 y ZU-3C, Cap IV Art 21 y 23: a en ZR-3 sector Estero El Molino Oriente, SUPRIME el uso de suelo tipo equipamiento comercio de escala vecinal, pasando el sector a formar parte de la Zona ZR-3a creada por la Enmienda N1 decreto 2651; b en ZU-3C sector Cancha de Acopio Corral Bajo, AGREGA en usos permitidos el equipamiento tipo comercio de escala menor o basica, y la zona en ese sector pasa a llamarse Zona ZU-3Ca; c el resto de ZR-3 y ZU-3C sin alteracion. p4 es el plano ZR-3a con simbologia. Objetivo: redefinir localizacion del equipamiento vecinal, recinto de feria costumbrista, tras acuerdo con Portuaria Corral y el Gobierno Regional de Los Rios.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:43:12",
+  "fin": "2026-07-15T14:45:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\corral\\corral_1566_enmienda2_zr3_zu3c_pag3-4.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZR-3a",
+      "ZU-3Ca"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: suprime comercio vecinal en sector ZR-3 (pasa a ZR-3a ya existente de enmienda 1), agrega comercio escala menor/basica en sector ZU-3C (pasa a llamarse ZU-3Ca). p4 planos con simbologia confirmados. Resto de ZR-3/ZU-3C sin alteracion."
+  }
+}

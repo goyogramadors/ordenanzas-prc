@@ -1,0 +1,20 @@
+{
+  "id": "retiro_a2a31884be",
+  "comuna": "retiro",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\retiro_eduardo_plana_zentnio_planetario__024304.pdf",
+  "nombre": "retiro_eduardo_plana_zentnio_planetario__024304.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:16:28",
+  "fin": "2026-07-15T12:19:12",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Orden de Compra N24304 (31-ago-2016, 1p) del Depto. Educación de Retiro: compra de 14 banderas chilenas. Documento administrativo sin relación con normas urbanísticas (catalogación probablemente errónea)."
+  }
+}

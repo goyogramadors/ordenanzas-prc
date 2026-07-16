@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_c247926476",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_637_promulgacion_plan_regulador_comunal_de_chiguayante__637.pdf",
+  "nombre": "chiguayante_637_promulgacion_plan_regulador_comunal_de_chiguayante__637.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:07:46",
+  "fin": "2026-07-14T15:26:50",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        8
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ORDENANZA COMPLETA PRC Chiguayante (Decreto 637/2003, escaneo Diario Oficial con OCR). p3: Cap.IV zonificacion (art.24-25). p4-8: normas POR ZONA en formato texto (Usos Permitidos / Usos Prohibidos / Condiciones de Subdivision, Urbanizacion y Edificacion con predial min, frente, densidad bruta, COS, CC, agrupamiento, altura, antejardin). Zonas: ZU3A, ZU3B, ZU7, ZU8, ZU2, ZR1 (proteccion laderas), ZR6 (cementerio), etc. Cap.V vialidad arranca en p8. OJO: OCR MUY DEGRADADO (pega palabras, '200 m*' por '200 m2') -> la fase siguiente debe RE-RENDERIZAR estas paginas, no fiarse del texto."
+  }
+}

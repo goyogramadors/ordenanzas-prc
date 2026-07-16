@@ -1,0 +1,25 @@
+{
+  "id": "curico_dc14bbeec5",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_1056_apruebese_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador__1056.pdf",
+  "nombre": "curico_1056_apruebese_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador__1056.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:37:06",
+  "fin": "2026-07-14T15:39:12",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CURICO: Diario Oficial 28-mar-2026, decreto 1056 exento, ENMIENDA N4 a la Ordenanza Local del PRC. Norma en pag 2, EN TEXTO PLANO (no imagen): incrementa en 20 por ciento la altura maxima de edificacion de la ZONA ZU-1 (Zona Urbana Central 1) del area urbana de Curico, sumando 2,80 m y quedando en 16,80 m; NO aplica a las localidades de Sarmiento, La Obra, Los Niches ni Cordillerilla. Pag 3 = CUADRO DE COORDENADAS de los vertices del poligono ABCDEFGHIJKLMNoPQA donde rige la enmienda (incluida en el rango: delimita el area de aplicacion). Solo afecta a ZU-1, ningun otro parametro."
+  }
+}

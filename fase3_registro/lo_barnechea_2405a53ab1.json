@@ -1,0 +1,25 @@
+{
+  "id": "lo_barnechea_2405a53ab1",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_5655_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_DTO-5655_01-OCT-2015_APRUEBA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_MPRC-LB-20.pdf",
+  "nombre": "lo_barnechea_5655_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_DTO-5655_01-OCT-2015_APRUEBA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_MPRC-LB-20.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:55:18",
+  "fin": "2026-07-15T07:56:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "modificación MPRC-LB-20: pág2 tabla completa nueva zona Equipamiento Culto-Cultura (5 predios religiosos individualizados) - Condiciones Uso Suelo + Condiciones Edificación (antejardín 5mts, COS 0.6, CC 1.0, aislada, altura 10.5m/2pisos, rasante 70°, OGUC); texto nativo completo"
+  }
+}

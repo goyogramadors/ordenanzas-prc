@@ -1,0 +1,20 @@
+{
+  "id": "chillan_viejo_1f76f01eca",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chillan_viejo_requiero_la_siguiente_informacion_1_plano_regulador_de_la_comuna_2_actas_del_con__9e0e604a-e6b2-4b39-ac69-b9e570e949e1.pdf",
+  "nombre": "chillan_viejo_requiero_la_siguiente_informacion_1_plano_regulador_de_la_comuna_2_actas_del_con__9e0e604a-e6b2-4b39-ac69-b9e570e949e1.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:30:37",
+  "fin": "2026-07-14T15:32:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CHILLAN VIEJO: NO ES UN DOCUMENTO PRC. Es un ACUSE DE RECIBO de una solicitud de Ley de Transparencia (MU043T0001913, mar-2024) que pide el plano regulador, actas del concejo y fecha de vigencia. Solo el formulario de acuse con los datos del solicitante; no adjunta ni contiene el plan. 2 pags, texto completo leido."
+  }
+}

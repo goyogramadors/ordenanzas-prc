@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_1b0ef61435",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2_LAM._1_EDIFICACION_Ee1_COLEGIO_SAN_PATRICIO.pdf",
+  "nombre": "las_condes_2_LAM._1_EDIFICACION_Ee1_COLEGIO_SAN_PATRICIO.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:54:30",
+  "fin": "2026-07-14T15:56:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "NO ES TEXTO: es una LAMINA CARTOGRAFICA (plano) del PRC Las Condes - Rectificacion Modificacion N.8, Plano de Edificacion, lamina 1. Muestra situacion anterior/actual del deslinde sur del Colegio San Patricio (zona Ee1) sobre un plano de calles. Solo trae simbologia ('Ee1 equipamiento intercomunal y comunal'), sin cuadro de parametros. Verificado por render."
+  }
+}

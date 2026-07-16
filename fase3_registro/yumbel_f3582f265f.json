@@ -1,0 +1,25 @@
+{
+  "id": "yumbel_f3582f265f",
+  "comuna": "yumbel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\yumbel_decreto_ordenanza_municipal__ordenanza_local_plan_regulador.pdf",
+  "nombre": "yumbel_decreto_ordenanza_municipal__ordenanza_local_plan_regulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 15,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:38:11",
+  "fin": "2026-07-14T21:41:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        13
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ORDENANZA LOCAL PRC Yumbel (15 pags). TODO EN TEXTO REAL. Cap.IV Areas especiales y de restriccion, arranca p7. p8: Zona Habitacional H1 (predios en calles especificas con normas propias) y H2 (usos vivienda+equipamiento, longitud agrupamiento 75%, densidad 120 viv/ha). p9: densidad 100 viv/ha, antejardin 2 m, Area de Extension Urbana. p10-11: Zona de Equipamiento E (agrupamiento aislado, altura 7 m, antejardin 2 m), E3 (culto/educacion), E4 (deportes). p12: predial 4.000 m2, frente 90 m, Zona Industrial ZI, Zona Proteccion Ecologica ZPE (Estero Cambrales). p13: predial 1.000 m2, frente 25 m, COS 0,2, CC 0,3, agrupamiento aislado, altura 7 m, densidad 20 viv/ha, antejardin 10 m; Zona Proteccion Incendios Forestales ZPI (predial 4.000 m2, frente 50 m); Zona Proteccion Ferrovias PFC. p14 en adelante: Cap.V Vialidad (art.23-26, cuadros de vias estructurantes y no estructurantes), EXCLUIDO."
+  }
+}

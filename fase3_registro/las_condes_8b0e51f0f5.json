@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_8b0e51f0f5",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_07-OCTUBRE-2021-ORD.-1085.pdf",
+  "nombre": "las_condes_07-OCTUBRE-2021-ORD.-1085.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:59:22",
+  "fin": "2026-07-14T16:02:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "NO ES LA ORDENANZA: es el ACTA de la Sesion Ordinaria 1085 del Concejo Municipal (48 pags). La Modificacion N11 se trata en p12-14 solo como acuerdo de tramite, y el propio texto dice que 'no altera, no aumenta ni disminuye ninguna de las normas urbanisticas'. El salto de densidad de p41-48 son ANEXOS ADMINISTRATIVOS (verificado en render): p41 contratos a honorarios de Seguridad Publica, p45 nomina de aprobacion de anteproyectos (POM, direccion, propietario, arquitecto, superficie). Cero cuadros de norma. La ordenanza real es las_condes_25677917f4."
+  }
+}

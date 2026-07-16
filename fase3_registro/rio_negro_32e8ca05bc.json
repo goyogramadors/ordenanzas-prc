@@ -1,0 +1,20 @@
+{
+  "id": "rio_negro_32e8ca05bc",
+  "comuna": "rio_negro",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rio_negro_decreto_alcaldicio_2370_autorizase_el_uso_del_sitio_ubicado_en_calle_pedro_marti__42429_2370.pdf",
+  "nombre": "rio_negro_decreto_alcaldicio_2370_autorizase_el_uso_del_sitio_ubicado_en_calle_pedro_marti__42429_2370.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:26:34",
+  "fin": "2026-07-14T21:27:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Decreto 2370 autoriza al Club de Pesca y Casa Rio Negro el uso de un sitio en calle Pedro Martinez (ya zonificado como Area Verde Proyectada en el PRC) por 20 anios, para un atracadero flotante. No fija ni modifica ninguna norma de zona, solo autoriza un uso puntual dentro de la zonificacion vigente."
+  }
+}

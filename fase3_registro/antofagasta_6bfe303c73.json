@@ -1,0 +1,20 @@
+{
+  "id": "antofagasta_6bfe303c73",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antofagasta_decreto_alcaldicio_546_dese_por_iniciado_el_procedimiento_de_modificacion_del_pl__476066eb-7f3e-40b2-8b01-d4bb783e281e.pdf",
+  "nombre": "antofagasta_decreto_alcaldicio_546_dese_por_iniciado_el_procedimiento_de_modificacion_del_pl__476066eb-7f3e-40b2-8b01-d4bb783e281e.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:07:34",
+  "fin": "2026-07-15T08:09:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 546/2018 (18.04.2018), I.Municipalidad de Antofagasta. Da inicio al procedimiento de Modificacion del PRC de Antofagasta (etapa de Diseno y Elaboracion) y aprueba el Extracto de inicio de la Evaluacion Ambiental Estrategica. Contiene tabla de 'Criterios de Desarrollo Sustentable' (proteccion patrimonio, identidad cultural/turistica, condiciones ambientales, equidad urbana) que son objetivos cualitativos, NO valores de norma urbanistica (sin COS/CC/altura/predial/agrupamiento). El plan aun esta en etapa de diseno, sin contenido normativo definido en este documento."
+  }
+}

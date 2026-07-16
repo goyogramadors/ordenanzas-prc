@@ -1,0 +1,20 @@
+{
+  "id": "antuco_5181be1c3b",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_aprueba_ordenanza_n_012026_municipal_sobre_tenencia_responsable_de_masco__Decreto_1159_2026.pdf",
+  "nombre": "antuco_decreto_aprueba_ordenanza_n_012026_municipal_sobre_tenencia_responsable_de_masco__Decreto_1159_2026.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 25,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:08:18",
+  "fin": "2026-07-15T08:10:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 1159/2026, aprueba Ordenanza Municipal Tenencia Responsable de Mascotas y Animales de Compania. Confirmado visual pag1,13-14,24 (arts.32-36 faltas graves/gravisimas, art.75): contenido integro sobre tenencia mascotas, sin tablas de normas urbanisticas."
+  }
+}

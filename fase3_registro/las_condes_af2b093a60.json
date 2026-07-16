@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_af2b093a60",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4482.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4482.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:04:27",
+  "fin": "2026-07-14T20:53:59",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (misma plantilla): Decreto 4482 (28-12-2004) solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Vivienda y Oficina (PS-UVO), anexos no incluidos en el PDF de 1 pagina. Buscar si existe una version D.O.4482 (Diario Oficial, varias paginas) como paso con el 4474/4484, que probablemente SI trae el cuadro."
+  }
+}

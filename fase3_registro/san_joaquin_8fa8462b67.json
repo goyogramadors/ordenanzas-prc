@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_8fa8462b67",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_joaquin_453_el_honorable_concejo_en_sesion_ordinaaraia_n_832011_acordo_aprobar_el_plano___DECRETO_453.pdf",
+  "nombre": "san_joaquin_453_el_honorable_concejo_en_sesion_ordinaaraia_n_832011_acordo_aprobar_el_plano___DECRETO_453.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:53:23",
+  "fin": "2026-07-15T12:54:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 453/2011 (Diario Oficial 14-abr-2011): aprueba Plano Seccional 'Vicuña Mackenna N01/11', asimila predios a zona Z-13 'Residencial mixta con Densificacion Equipamiento y Actividades Productivas'. Remite normas urbanisticas a la Memoria Explicativa del Plano Seccional (no incluida en este documento); no reproduce cuadro de COS/CC/altura."
+  }
+}

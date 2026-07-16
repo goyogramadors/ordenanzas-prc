@@ -1,0 +1,28 @@
+{
+  "id": "lo_barnechea_36edea8f8e",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_673_modificacion_al_plan_regulador_comunal__Publicacion_673_febrero_2013pdf.pdf",
+  "rangos": [
+    [
+      4,
+      4
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "modificación MPRC-LB-16: pág4 (escaneada, renderizada) tabla completa Zona E 'Equipamiento Educacional' (8 colegios individualizados) con Condiciones Uso Suelo + Condiciones Edificación (antejardín 5mts, COS 0.6, CC 1.0, aislada, altura 10.5m/3pisos, rasante 70°, OGUC). El decreto 821 (Zona L Circunvalación Vial) también aparece en el texto DO pero su tabla de condiciones NO está en este PDF (solo el decreto 673/Zona E fue escaneado y adjuntado)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:20:41",
+  "fin": "2026-07-15T14:22:23",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_673_zona_e_equipamiento_educacional_pag4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E"
+    ],
+    "confianza": "ALTA",
+    "nota": "Nueva zona E Equipamiento Educacional, 8 colegios individualizados + usos suelo + condiciones edificacion. Confirmado: decreto 821 (Zona L Circunvalacion Vial) mencionado en texto DO pero su tabla NO esta en este PDF, solo zona E fue escaneada."
+  }
+}

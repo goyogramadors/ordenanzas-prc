@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_d98218f012",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_d.f.4675.13nov2013.pdf",
+  "nombre": "las_condes_d.f.4675.13nov2013.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:32:44",
+  "fin": "2026-07-15T08:35:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.Secc.1.4675/2013 (DO) asigna de manera complementaria al Dec.3360/2010 nueva normativa urbanistica para el poligono del Area Verde Cerro Apoquindo (Plano PSAN-01, Lamina 1 y 2). Tabla en imagen con 'Condiciones de Edificacion' y 'Condiciones de Usos de Suelo': Situacion anterior 'Zona de Uso de suelo Edificacion especial N3' (PHCLC) -> Situacion que se aprueba: 'Area de Edificacion Ee2 (Edificacion especial N2) del PHCLC, con las condiciones urbanisticas establecidas en el numeral 17 de la Ordenanza Local, Edificacion Especial N2 Equipamiento Recreacional Deportivo' y 'Zona UEe2 (Uso de Suelo Edificacion especial N2) del PHCLC, con las clases actividades y condiciones establecidas en el articulo 40 de la Ordenanza Local'. Referencia a codigos de zona ya definidos en otros documentos del corpus."
+  }
+}

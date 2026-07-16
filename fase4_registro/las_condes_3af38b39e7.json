@@ -1,0 +1,26 @@
+{
+  "id": "las_condes_3af38b39e7",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3709.24may2018.pdf",
+  "rangos": [
+    [
+      4,
+      6
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.Secc.1.3709/2018 (Ley 20.791): asigna nuevas normas urbanisticas de EDIFICACION y USO DE SUELO a franjas de terreno que perdieron su afectacion a utilidad publica (vias intercomunales y comunales de Las Condes), asimilandolas a las zonas adyacentes. p4-5 nomina de vias (Av.Paseo Pie Andino, Calle Bocaccio, Hernando de Magallanes, Calle La Quebrada, Av.Presidente Errazuriz). p6 (anexo tras firmas) TABLA con codigo de via, situacion anterior (perfil/categoria) y situacion PROPUESTA: Area de Edificacion (EAb4, EAb3, EAa1, EAm4, Ee5, etc.) y Zona de Uso de Suelo (UV, UV1, UV2, UEe3, UEe5, etc.) asignados por lado (Norte/Sur/Oriente/Poniente) para cada tramo. Los codigos remiten a definiciones de zona ya existentes en otros documentos del corpus de Las Condes.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:13:51",
+  "fin": "2026-07-15T23:20:40",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3709_asigna_normas_vias_caducadas_pag4-6.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "ALTA",
+    "nota": "Tabla de asignacion de Area de Edificacion y Zona de Uso de Suelo a 4 vias intercomunales y 3 comunales sin afectacion utilidad publica, remite a zonas EAb4/EAb3/EAa1/EAm4/Ee5/Ee3/EAb1/EAb2/EAm1 y UV/UV1/UV2/UV3/UEe2/UEe3/UEe5 ya definidas en otros documentos del corpus. No define parametros nuevos. Varias celdas sin asignacion visible en el render. Coincide con nota_fase3."
+  }
+}

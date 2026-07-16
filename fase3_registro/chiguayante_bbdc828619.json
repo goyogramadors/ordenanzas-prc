@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_bbdc828619",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_749_aprueba_modificacion_al_plan_regulador_comunal_chiguayante_2006__Exportar.pdf",
+  "nombre": "chiguayante_749_aprueba_modificacion_al_plan_regulador_comunal_chiguayante_2006__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 47,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:07:00",
+  "fin": "2026-07-14T15:30:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        45
+      ]
+    ],
+    "paginas_utiles": 40,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.749/2006 texto refundido Ordenanza Local Chiguayante. Art.26: una seccion por zona con usos y 'Condiciones de Subdivision, Urbanizacion y Edificacion' en TEXTO (p7 ZU1-A: predial 200/250m2, COS 0,6, CC 2,0, altura 16m, antejardin 2-4m; p14 ZU3-A: COS 0,8, CC 3,8, altura 36m; p27 ZU8-1: COS 0,6, CC 3,0, altura 21m; p38-39 ZR1: predial 5.000/10.000m2, dens 12 hab/ha, COS 0,05/0,1; p43 ZRD: COS 0,4; p44 ZVN predial 5.000m2). PATRON LEYCHILE: el cuadro del tramo Lonco-Concepcion (letras A-D) NO esta en el PDF, remite a 'VER DIARIO OFICIAL 28.07.2006 pag.26' (verificado por render: no es imagen oculta, falta). Igual pasa con la vialidad del art.29 (paginas 28-29 del DO), excluida por ser vialidad."
+  }
+}

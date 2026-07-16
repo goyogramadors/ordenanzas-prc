@@ -1,0 +1,20 @@
+{
+  "id": "rengo_9d3ef8e175",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_14_md_modif_no2_al_plan_regulador_comunal_zonas_urbanas_de_rengo_rosario_y_esmer__do-20140211.pdf",
+  "nombre": "rengo_14_md_modif_no2_al_plan_regulador_comunal_zonas_urbanas_de_rengo_rosario_y_esmer__do-20140211.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:02:57",
+  "fin": "2026-07-15T08:06:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "TRAMPA comuna ajena masiva: PDF de 16 páginas contiene modificación N2 Rengo (solo clasificación vial + prórroga declaratoria utilidad pública, tablas de vialidad no de zona) MEZCLADA con contenido totalmente ajeno: reglamento Bienestar SERNATUR, licitación MOP edificio consistorial Olivar, tipos de cambio Banco Central, entidades religiosas, etc. (edición completa DO 11-feb-2014, Cuerpos I y II)"
+  }
+}

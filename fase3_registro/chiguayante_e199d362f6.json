@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_e199d362f6",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_854_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2012__DECRETO 854 2012.pdf",
+  "nombre": "chiguayante_854_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2012__DECRETO 854 2012.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:07:46",
+  "fin": "2026-07-14T15:26:13",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Enmienda 2012 al art.26 de la Ordenanza: permite incrementar hasta 20% la DENSIDAD habitacional de las zonificaciones para loteos con construccion simultanea destinados a afectados por sismo/catastrofe (vigencia 3 anios). Norma en prosa, sin cuadro. Pagina Diario Oficial escaneada, OCR con palabras pegadas."
+  }
+}

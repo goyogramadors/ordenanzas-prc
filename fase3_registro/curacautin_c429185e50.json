@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_c429185e50",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas ordenadas\\curacautin__apruebese_la_ordenanza_de_prevencion_y_gestion_de_riesgos_comunales_productos_d__Ordenanza Decreto Incendios Forestales.pdf",
+  "nombre": "curacautin__apruebese_la_ordenanza_de_prevencion_y_gestion_de_riesgos_comunales_productos_d__Ordenanza Decreto Incendios Forestales.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:13:26",
+  "fin": "2026-07-15T08:15:03",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DOCUMENTO NO RELACIONADO: ordenanza de prevención y gestión de riesgos comunales por incendios forestales (Ley 21.364 SENAPRED), sin relación con PRC/normas urbanísticas - verificado con render"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "puchuncavi_3c2a0e1938",
+  "comuna": "puchuncavi",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puchuncavi_1576_diario_oficial_05092009_decreto_alcaldicio_n_1859_de_28082009_actualizacion__planregulador.pdf",
+  "nombre": "puchuncavi_1576_diario_oficial_05092009_decreto_alcaldicio_n_1859_de_28082009_actualizacion__planregulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:15:27",
+  "fin": "2026-07-14T21:17:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.1576/2009 (DO pag.14, texto contaminado con articulo ajeno de Las Condes -servicios veterinarios- en la mitad superior de la pagina). Aprueba el proyecto 'Actualizacion Plan Regulador comuna de Puchuncavi' completo (localidades Ventanas, Horcon, Puchuncavi, Maitencillo). Esta pagina SOLO trae el decreto aprobatorio y descripcion general (objetivo, area territorial, documentos que componen el plan) - NO llega a ningun cuadro de zona: el documento real tiene mas paginas que no estan en este PDF (truncado a 1 pagina). Norma inalcanzable desde este archivo."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mejillones_8f4177356f",
+  "comuna": "mejillones",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\mejillones_33_ordenanza_plan_regulador_comunal_del_puerto_y_bahia_de_mejillones__Exportar.pdf",
+  "nombre": "mejillones_33_ordenanza_plan_regulador_comunal_del_puerto_y_bahia_de_mejillones__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 35,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:04:35",
+  "fin": "2026-07-14T21:08:35",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        33
+      ]
+    ],
+    "paginas_utiles": 21,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "MEJILLONES: Ordenanza del PRC del Puerto y Bahia (BCN, 35p). Cap IV Art 24-25, catalogo de zonas en p13-33: C1-C6+AV (comercial-mixta), U1-U8 (uso general), EU1-EU5 (uso especial), ER1-ER4 (restringidas), E1-E3, P1-P2 (portuarias). TEXTO PLANO CONFIABLE para los parametros numericos (COS, altura, distanciamiento, predial minima, agrupamiento, antejardin): sin trampa de tabla-imagen en esos valores. TRAMPA B PARCIAL: para unas 13 zonas (C1-C5, U1, U2, U5, EU1-EU4, ER3) la LISTA DETALLADA de usos permitidos remite a 'VER D.O. DE 11.11.2000, PAGINA N' (inalcanzable desde este PDF), pero eso solo afecta el listado de usos, nunca los parametros numericos. Zonas EU5, ER1, ER2, ER4, E1-E3, P1-P2 son de proteccion-restriccion sin tabla dimensional propia (solo descripcion cualitativa). Cierra en p33 al empezar el Cap V Vialidad; p34 es vialidad estructurante (excluida). 8 pags verificadas visualmente."
+  }
+}

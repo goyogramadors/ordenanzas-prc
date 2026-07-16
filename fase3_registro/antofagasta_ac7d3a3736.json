@@ -1,0 +1,25 @@
+{
+  "id": "antofagasta_ac7d3a3736",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antofagasta_236_promulga_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal_de___Exportar.pdf",
+  "nombre": "antofagasta_236_promulga_texto_aprobatorio_de_la_modificacion_del_plan_regulador_comunal_de___Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 60,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:43:30",
+  "fin": "2026-07-15T07:48:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        19
+      ]
+    ],
+    "paginas_utiles": 13,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion PRC Antofagasta (Decreto 236, 60 pags, mixto). p7-17: Art.52.1 Normas Urbanisticas por Zona, TABLA-IMAGEN individual por zona (verificado render p7 ZM-4: predial min 150 m2, densidad bruta 750 Hab/Ha, COS 0,7, agrupamiento, antejardin 3 m). Zonas: ZM-4, ZM-5, ZM-6, ZM-7, ZH-4, ZH-5, ZE-1, ZE-BC, ZAV, ZEP-1, ZEP-2, ZEP-3. p18-19: TABLA SINTESIS DE CONDICIONES DE EDIFICACION POR ZONAS (imagen), consolida las 14 zonas en una sola tabla (predial min, densidad bruta max, agrupamiento, antejardin, distanciamiento medianero, altura max, CC, COS) + notas al pie. Tras p19 arranca Cap.V Vialidad Estructurante, EXCLUIDO. p42-58 son EAE/memoria descriptiva y figuras sin cuadro numerico (verificado render p58: mapa vial + seguimiento ambiental), no norma de zona."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_e202dd59a0",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2769_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_a__doc_34_2769_27102015074358.pdf",
+  "nombre": "la_serena_2769_ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_a__doc_34_2769_27102015074358.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 23,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:25:59",
+  "fin": "2026-07-15T08:27:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.2769/2015: version anterior (2015) de la Ordenanza sobre DERECHOS MUNICIPALES por Permisos, Concesiones y Servicios de La Serena (misma familia que la_serena_30ad8eb5b0 de 2019). Busqueda de terminos urbanisticos en OCR de 23p: sin coincidencias. Ajena al PRC."
+  }
+}

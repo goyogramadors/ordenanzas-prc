@@ -1,0 +1,20 @@
+{
+  "id": "santiago_42b6ba3fe0",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_09.-Dcto-Secc-2da-N_C2_B09687.pdf",
+  "nombre": "santiago_09.-Dcto-Secc-2da-N_C2_B09687.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:29:23",
+  "fin": "2026-07-14T21:32:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Secc.2a N9687: solo APRUEBA Anteproyecto de modificacion 'Correccion Zonificacion Especial, actualizacion ICH'. Acto administrativo procedimental, no transcribe ordenanza ni cuadros de normas."
+  }
+}

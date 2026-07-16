@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_4b54ffe4f6",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2022_03_24_Actual_Cronograma_Mod_11.pdf",
+  "nombre": "las_condes_2022_03_24_Actual_Cronograma_Mod_11.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:57:42",
+  "fin": "2026-07-14T15:59:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: NO ES NORMATIVO. Es el CRONOGRAMA estimado (carta de actividades y plazos) para tramitar la Modificacion N11 al PRC: preparacion del expediente, presentacion al Concejo, cartas certificadas, audiencias publicas, avisos de prensa. 1 pagina, texto completo leido, sin normas."
+  }
+}

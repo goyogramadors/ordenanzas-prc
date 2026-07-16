@@ -1,0 +1,223 @@
+{
+ "generado": "2026-07-15T23:09:57",
+ "total": 6,
+ "items": [
+  {
+   "comuna": "valdivia",
+   "region": "14",
+   "geojson_file": "14_PRC_Valdivia.json",
+   "geojson_existe": true,
+   "salida_json": "14_valdivia.json",
+   "tier": 0,
+   "zonas_total": 21,
+   "markdowns": [
+    {
+     "id": "valdivia_8d9e9b45b4",
+     "archivo": "extraccion_normas\\valdivia\\valdivia_179_ordenanza_zonas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 18,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4",
+      "ZE-1.a",
+      "ZE-1.b",
+      "ZE-1.c",
+      "ZE-1.d",
+      "ZE-2",
+      "ZE-3.a",
+      "ZE-3.b"
+     ],
+     "nota": "Ordenanza Local completa art.21-23: 18 zonas/subzonas (7 ZU consolidadas, 4 ZR especiales, 6 ZE extension urbana incluyendo ZE-1 con 4 subzonas a-d) con usos de suelo y condiciones de subdivision/edificacion completas. Art.24 (listado inmuebles conservacion historica, 60+ filas) excluido por no ser norma de zona. Vialidad y contenido ajeno (gremios Arica/Victoria) excluidos. Texto nativo limpio. Verificado contra nota_fase3: coincide y amplia el detalle."
+    },
+    {
+     "id": "valdivia_bde4b49d2d",
+     "archivo": "extraccion_normas\\valdivia\\valdivia_4151_zb5_equipamiento_salud_pag1-2.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 1,
+     "zonas_codigos": [
+      "ZB-5"
+     ],
+     "nota": "CORRECCION A NOTA_FASE3: si existe cuadro propio completo de ZB-5 (no es mera remision): predial indivisible, aislado, altura 3 pisos, antejardin 3m, estacionamientos art.11. Agrega uso Salud a deportes/cultura/organizaciones comunitarias ya vigentes. Documento completo 2p, texto plano."
+    },
+    {
+     "id": "valdivia_f88234d66c",
+     "archivo": "extraccion_normas\\valdivia\\valdivia_2793_enmienda_zkv1_zkv2_porcentajes_pag1-2.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 2,
+     "zonas_codigos": [
+      "ZK-V1",
+      "ZK-V2"
+     ],
+     "nota": "Confirmado: solo porcentajes de variacion (COS +30% ambas zonas, CC +30% ZK-V1/-7,14% ZK-V2, altura minima -20% ZK-V2), sin valores absolutos base ni finales -- remite a DO 05-jun-2008 pag8, no en el corpus. Se agrega uso Equipamiento Comercio en ambas. Coincide con nota_fase3."
+    }
+   ]
+  },
+  {
+   "comuna": "mulchen",
+   "region": "08",
+   "geojson_file": "08_PRC_Mulchen.json",
+   "geojson_existe": true,
+   "salida_json": "08_mulchen.json",
+   "tier": 1,
+   "zonas_total": 23,
+   "markdowns": [
+    {
+     "id": "mulchen_a0fc62b101",
+     "archivo": "extraccion_normas\\mulchen\\mulchen_ordenanza_prc_normas_zonas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 11,
+     "zonas_codigos": [
+      "ZH1",
+      "ZH2-ZH3",
+      "ZM",
+      "ZI",
+      "ZEX1",
+      "ZEX2",
+      "ZEX3",
+      "ZE1",
+      "ZE2",
+      "ZE3",
+      "ZR"
+     ],
+     "nota": "Ordenanza Local completa arts 19-21: usos de suelo + normas especificas (predial/frente/COS/CC/agrupamiento/altura) para las 11 zonas del PRC de Mulchen. Confirmado encabezado y firma municipal. p23-27 excluidas (anexos ajenos, incl. Providencia). Verificado contra nota_fase3: coincide."
+    },
+    {
+     "id": "mulchen_de6c69aa90",
+     "archivo": "extraccion_normas\\mulchen\\mulchen_10_prc_zonas_completas_pag18-19.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 12,
+     "zonas_codigos": [
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZM",
+      "ZI",
+      "ZEX1",
+      "ZEX2",
+      "ZEX3",
+      "ZE1",
+      "ZE2",
+      "ZE3",
+      "ZR"
+     ],
+     "nota": "Documento duplicado de mulchen_a0fc62b101 (mismo contenido, registrado como item independiente por instruccion de la cola). Confirma nota_fase3: 12 zonas completas (usos+condiciones), tabla Art.21 con valores numericos por zona. Toponimia 100% Mulchen confirmada."
+    }
+   ]
+  },
+  {
+   "comuna": "saavedra",
+   "region": "09",
+   "geojson_file": "09_PRC_Puerto_Saavedra.json",
+   "geojson_existe": true,
+   "salida_json": "09_saavedra.json",
+   "tier": 1,
+   "zonas_total": 6,
+   "markdowns": [
+    {
+     "id": "saavedra_841aa72ebc",
+     "archivo": "extraccion_normas\\saavedra\\saavedra_1_prc_1963_6zonas_pag1-2.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 6,
+     "zonas_codigos": [
+      "Areas Residenciales",
+      "Area Administrativa",
+      "Area Equipamiento Urbano",
+      "Areas Verdes",
+      "Areas Industriales",
+      "Area Cooperativa Agricola"
+     ],
+     "nota": "PRC historico 1963, 6 zonas completas: residenciales (superficie 45%, antejardin 3m, 1 piso, cierros 1,6m), administrativa (7m), equipamiento urbano (por tipo edificio: escuela 8m, iglesia 12m, edif publicos 7m), areas verdes (sin numeros), industrial (no existe), cooperativa agricola (predial min 9000m2 o excepcion 19 viviendas en zona no inundable). Texto nativo completo. Coincide con nota_fase3."
+    }
+   ]
+  },
+  {
+   "comuna": "santa_maria",
+   "region": "05",
+   "geojson_file": "05_PRC_Santa_Maria.json",
+   "geojson_existe": true,
+   "salida_json": "05_santamaria.json",
+   "tier": 1,
+   "zonas_total": 4,
+   "markdowns": [
+    {
+     "id": "santa_maria_713bd29188",
+     "archivo": "extraccion_normas\\santa_maria\\santa_maria_plano_1982_zonas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 4,
+     "zonas_codigos": [
+      "H-1",
+      "H-2",
+      "EC",
+      "ZR"
+     ],
+     "nota": "Plano historico 1982, escaneo deteriorado. Se hicieron 3 crops+zoom (300dpi->2x) para leer la leyenda. H-1 y H-2 con tabla completa; EC y ZR con datos parciales (parte del cuadro comparte remisiones generales no siempre distinguibles en el escaneo). Confianza MEDIA por calidad del escaneo y vigencia a verificar, no por falta de esfuerzo de lectura."
+    }
+   ]
+  },
+  {
+   "comuna": "panguipulli",
+   "region": "14",
+   "geojson_file": "14_PRC_Panguipulli.json",
+   "geojson_existe": true,
+   "salida_json": "14_panguipulli.json",
+   "tier": 2,
+   "zonas_total": 11,
+   "markdowns": [
+    {
+     "id": "panguipulli_67f243ca29",
+     "archivo": "extraccion_normas\\panguipulli\\panguipulli_5_ordenanza_zonas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 11,
+     "zonas_codigos": [
+      "Z0",
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6"
+     ],
+     "nota": "Cap.IV completo arts 18-21: 5 zonas urbanas (Z0-Z4) con usos de suelo y normas especificas completas + 6 zonas de restriccion (R1-R6). Texto nativo confirmado, no imagen. p5 vialidad excluida. Verificado contra nota_fase3: coincide."
+    }
+   ]
+  },
+  {
+   "comuna": "peralillo",
+   "region": "06",
+   "geojson_file": "06_PRC_Peralillo.json",
+   "geojson_existe": true,
+   "salida_json": "06_peralillo.json",
+   "tier": 2,
+   "zonas_total": 5,
+   "markdowns": [
+    {
+     "id": "peralillo_6d88d27652",
+     "archivo": "extraccion_normas\\peralillo\\peralillo_688_ordenanza_zonas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 5,
+     "zonas_codigos": [
+      "ZC",
+      "ZE",
+      "ZVb",
+      "ZVa",
+      "ZRa"
+     ],
+     "nota": "4 zonas urbanas (ZC,ZE,ZVb,ZVa) con cuadro completo art.19, MAS Zona ZRa (art.20, resguardo patrimonio) que tambien trae cuadro completo de valores en p4 -- nota_fase3 solo menciono ZRb-ZRg como descriptivas sin cuadro, pero ZRa si tiene cuadro y se incluyo. Resto de zonas restriccion (ZRb+) sin valores, excluidas. Verificado contra nota_fase3: coincide y amplia cobertura con ZRa."
+    }
+   ]
+  }
+ ]
+}

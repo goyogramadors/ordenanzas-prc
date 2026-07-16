@@ -1,0 +1,29 @@
+{
+  "id": "rancagua_ea8142c62e",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_3326_modificacion_al_plan_regulador_comunal_de_rancagua_tramitacion_n_22_eje_est__1860825.pdf",
+  "nombre": "rancagua_3326_modificacion_al_plan_regulador_comunal_de_rancagua_tramitacion_n_22_eje_est__1860825.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:22:57",
+  "fin": "2026-07-14T21:25:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        4
+      ],
+      [
+        6,
+        10
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA DO: versión completa (con Texto Modificatorio) de la modificación N22 Eje Estado. Texto dice 'según se indica a continuación:' y las tablas están embebidas como IMAGEN (confirmado con pdfimages+extracción visual pág6 y pág9). Pág4: tabla Áreas Protección Eje Estado + listado Inmuebles Monumentos Nacionales/ICH. Pág6: ZONA ZCH-1 usos suelo permit/prohib + condiciones subdivisión predial y edificación completa (sup.predial 1200m2, COS 0.8, CC 0.3, agrupamiento continuo, ochavos, profundidad edificación). Pág7: continuación lineamientos ZCH-1 (imagen, posiblemente solo detalles arquitectónicos, verificar). Pág9: ZONA ZA-1 condiciones completas (COS 0.8, CC 0.4, alturas máx 10-16m, retranqueo 7m). Pág10: cuadro vialidad estructurante (Tema 3, no es norma de zona pero incluido por completitud)"
+  }
+}

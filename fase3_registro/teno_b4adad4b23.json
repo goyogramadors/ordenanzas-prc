@@ -1,0 +1,25 @@
+{
+  "id": "teno_b4adad4b23",
+  "comuna": "teno",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\teno_52_promulga_plan_regulador_comunal_de_teno_y_deja_sin_efecto_resolucion_que_indi__Exportar.pdf",
+  "nombre": "teno_52_promulga_plan_regulador_comunal_de_teno_y_deja_sin_efecto_resolucion_que_indi__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 34,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        23
+      ]
+    ],
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Misma trampa LeyChile que San Clemente (delator confirmado en p8, p15, p24, p28). p9-14 son tablas de limite urbano (coordenadas, NO normas), NO incluidas. p15: Capitulo 4 'Zonificacion y Normas Urbanisticas', Art.7, lista de zonas. p16-22: tablas completas por zona (ZU-3, ZU-4 verificadas por render: usos de suelo, superficie predial minima, altura, densidad bruta, agrupamiento, COS, CC). p23: Art.9-10 areas de riesgo y fajas de proteccion (aun dentro del capitulo normativo general, se incluye por criterio de rango generoso). p24 ya es vialidad estructurante (fuera de rango).",
+    "paginas_utiles": 9
+  }
+}

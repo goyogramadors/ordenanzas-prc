@@ -1,0 +1,20 @@
+{
+  "id": "villarrica_f8570ebd11",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\villarrica_resolucion_16_aprueba_plan_regulador_comunal_de_villarrica__memoria_explicativa_prc_vrica.pdf",
+  "nombre": "villarrica_resolucion_16_aprueba_plan_regulador_comunal_de_villarrica__memoria_explicativa_prc_vrica.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 93,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:35:37",
+  "fin": "2026-07-15T07:44:35",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Memoria Explicativa genuina (diagnostico + propuesta narrativa), NO la Ordenanza Local. Confirmacion textual pag.87: 'las normas establecidas para cada zona se encuentran detalladas en la Ordenanza Local adjunta' -documento separado NO incluido, PDF termina pag.93 sin anexo. TRAMPA NUEVA (variante temporal de comuna ajena): pag.54-56 SI tiene tabla completa tipo articulado (usos, superficie/frente min, %ocupacion, agrupamiento, antejardin) pero es del PLAN VIGENTE 1982 QUE ESTA SIENDO REEMPLAZADO (zonas A/B/C/D,R1-R4), citada solo como diagnostico -NO transcribir como norma actual de Villarrica, seria atribuir norma obsoleta. El plan NUEVO (zonas Z-1,Z-2,Z-3,Z-4,ZE-5,ZE-6,ZR-1 a ZR-7) solo tiene sintesis narrativa parcial pag84-87 sin formato de articulado ni cobertura completa. Revisado indice completo + texto integro 93 paginas."
+  }
+}

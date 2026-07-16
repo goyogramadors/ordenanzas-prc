@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_0b2562bc61",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_3904_13_sep2007.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "LAS CONDES: Decreto 3904 (2007, BCN LeyChile, 3p) que APRUEBA EL PLANO SECCIONAL NUEVA LAS CONDES, detallando la zona de uso de suelo UC2 (poligono ABCDA entre Av. Pdte Riesco, Av. Manquehue, calle Cerro El Plomo y Av. Alonso de Cordova). *** NO HAY CUADRO DE NORMAS ***: la unica disposicion normativa es una frase repetida en el decreto y en el Acuerdo 104-2007: 'En esta area se podra emplazar equipamiento de escala mayor aun cuando las vias que enfrenten los proyectos tengan menor categoria'. Es una regla de uso de suelo para UC2, sin parametros (no fija COS, CC, altura ni predial minima). Se registra el rango por precaucion, pero la fase siguiente encontrara una regla en prosa, no una tabla. Cero delatores de tabla-imagen.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:46:13",
+  "fin": "2026-07-15T14:49:15",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3904_plano_seccional_uc2_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "UC2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Confirmado: sin cuadro de normas, solo regla de uso de suelo en prosa (equipamiento escala mayor pese a vias de menor categoria, art.2.1.36 OGUC). Verificada tambien p3 (fuera de rango) por precaucion: mismo texto, sin tabla. Coincide con nota_fase3."
+  }
+}

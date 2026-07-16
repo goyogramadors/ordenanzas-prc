@@ -1,0 +1,20 @@
+{
+  "id": "quillota_16165a9b0f",
+  "comuna": "quillota",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quillota_certificado_112_f_certificado_n112_exposicion_plan_regulador_a_exp_publica__f-CERTIFICADO_N__112_EXPOSICION_PLAN_REGULADOR_A_EXP._PUBLICA.pdf",
+  "nombre": "quillota_certificado_112_f_certificado_n112_exposicion_plan_regulador_a_exp_publica__f-CERTIFICADO_N__112_EXPOSICION_PLAN_REGULADOR_A_EXP._PUBLICA.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:17:36",
+  "fin": "2026-07-14T21:18:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Certificado N.112/2026: solo autoriza el inicio del periodo de Exposicion del Anteproyecto del PRC Quillota (Participacion Ciudadana). Puro tramite, sin norma alguna."
+  }
+}

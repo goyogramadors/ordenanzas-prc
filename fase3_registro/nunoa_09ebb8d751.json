@@ -1,0 +1,20 @@
+{
+  "id": "nunoa_09ebb8d751",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_1593_promulga_la_aprobacion_de_la_modificacion_al_plan_comunal_regulador_de_nuno__Exportar.pdf",
+  "nombre": "nunoa_1593_promulga_la_aprobacion_de_la_modificacion_al_plan_comunal_regulador_de_nuno__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:07:26",
+  "fin": "2026-07-14T21:09:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "TRAMPA LEYCHILE: modif N14 inserta nueva Zona Z-7 (art 26) pero el texto dice literalmente 'imagen' sin datos - verificado con pdfimages: el PDF NO tiene el cuadro incrustado, solo el logo BCN. Tabla irrecuperable de este archivo, requiere Diario Oficial 21-oct-2016"
+  }
+}

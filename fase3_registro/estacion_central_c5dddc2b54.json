@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_c5dddc2b54",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_e5d3d243b1856addd242fe8cc964e5ad.pdf",
+  "nombre": "estacion_central_e5d3d243b1856addd242fe8cc964e5ad.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:39:19",
+  "fin": "2026-07-14T15:41:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ESTACION CENTRAL: version DIARIO OFICIAL (18-jul-2025) del decreto 709 que promulga la Actualizacion del PRC. DUPLICADO de estacion_central_a92200fb58. Solo el acto de promulgacion; el instrumento se publica en el sitio web municipal. Cero señales urbanisticas y cero delatores de tabla-imagen en las 2 pags."
+  }
+}

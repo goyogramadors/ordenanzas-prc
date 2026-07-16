@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_a8173bb739",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_2454_expropia_franja_de_terreno_que_indica_a_compania_ccu_sa_para_dar_cumplimien__Exportar.pdf",
+  "nombre": "rancagua_2454_expropia_franja_de_terreno_que_indica_a_compania_ccu_sa_para_dar_cumplimien__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:22:08",
+  "fin": "2026-07-14T21:22:37",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SOLO EXPROPIACION VIAL: Decreto 2454/2009 expropia una franja de terreno a CCU S.A. (Lote 62, Barrio Industrial) para materializar la apertura de Avenida Nelson Pereira segun el PRC vigente. Fija indemnizacion (3.800 UF) y deslindes de la franja expropiada, no valores de norma urbanistica de zona."
+  }
+}

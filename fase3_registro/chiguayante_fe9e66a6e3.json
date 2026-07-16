@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_fe9e66a6e3",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_1391_aprueba_modificaciones_de_plan_regulador_comunal_y_ordenanza_local_de_plan___Exportar.pdf",
+  "nombre": "chiguayante_1391_aprueba_modificaciones_de_plan_regulador_comunal_y_ordenanza_local_de_plan___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:28:22",
+  "fin": "2026-07-14T15:34:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CHIGUAYANTE: Decreto 1391-2007 (copia LeyChile-BCN) que aprueba modificacion del PRC creando la Zona Especial de Equipamiento, Areas Verdes y Espacios Publicos ZU8-3. Normas en p1 (usos permitidos y prohibidos) y p2 (Condiciones de Subdivision, Urbanizacion y Edificacion: predial minima 200 m2, COS 0,6, CC 3,0, agrupamiento, altura maxima 21 m, antejardin, cierros). Ambas paginas miradas: aqui NO hay tabla-imagen (a diferencia de otros LeyChile del corpus), el formato es lista de texto plano monoespaciado, extraible con pdftotext."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "villa_alemana_0e1c2e25c6",
+  "comuna": "villa_alemana",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villa_alemana_7_aprueba_enmienda_no_9_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "enmienda N9: modifica valores específicos en zonas existentes - antejardín EX-I1 reducido a 3.00m, antejardín V1 reducido a 2.25m, coef. constructibilidad zona E1a +30% (remite a Tabla 1 art.9); valores narrados en texto nativo, no cuadro completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:16:55",
+  "fin": "2026-07-15T23:06:00",
+  "resultado": {
+    "archivo": "extraccion_normas\\villa_alemana\\villa_alemana_7_enmienda_n9_exi1_v1_e1a_pag1-2.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "EX-I1",
+      "V1",
+      "E1a"
+    ],
+    "confianza": "ALTA",
+    "nota": "3 modificaciones puntuales narradas (no cuadro completo): EX-I1 antejardin -80% (3,00m via local interior industrial, 15m sin cambio via separacion zonas), V1 antejardin -50% (2,25m equip social via estructurante), E1a CC +30% sobre Tabla N1 art.9 (valor absoluto no transcrito). Coincide con nota_fase3."
+  }
+}

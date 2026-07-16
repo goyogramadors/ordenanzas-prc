@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_dbc88966f2",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_r1.pdf",
+  "nombre": "penalolen_Zona_r1.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:46:35",
+  "fin": "2026-07-15T08:47:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ficha 'Zona R1' Peñalolen, 1 pag escaneada. Tabla usos permitidos/excluidos por escala y condiciones de subdivision predial y edificacion completas para vivienda y equipamiento (regional-interurbana, comunal, vecinal): superficie predial minima, frente predial, ocupacion maxima suelo, coeficiente constructibilidad, densidad 196 hab/ha, sistema agrupamiento, rasantes/distanciamiento, altura edificacion, antejardin, estacionamientos. Verificado visualmente pagina unica."
+  }
+}

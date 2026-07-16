@@ -1,0 +1,29 @@
+{
+  "id": "antofagasta_3b7c5dffdc",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antofagasta_ordenanza_plan_regulador_de_la_comuna_de_antofagasta__07-07-2002 Plan Regulador.pdf",
+  "nombre": "antofagasta_ordenanza_plan_regulador_de_la_comuna_de_antofagasta__07-07-2002 Plan Regulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 84,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:55:05",
+  "fin": "2026-07-14T12:57:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        21,
+        58
+      ],
+      [
+        74,
+        77
+      ]
+    ],
+    "paginas_utiles": 42,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PRC 2002. Cap.VII 'Zonificacion, usos de suelo y normas especificas' p21-57: p22-23 cuadros de zonas (superficie/perfil), p24-34 tablas de usos de suelo por zona, p35-55 condiciones de edificacion por zona (altura, constructibilidad, ocupacion, predial min, antejardin, agrupamiento), p56-57 ZUDC. Cap.VIII vialidad (p58-74) EXCLUIDO salvo bordes. p75-76: normas por via estructurante (predios que colindan se asimilan a zona X) + usos adicionales Av. Costanera."
+  }
+}

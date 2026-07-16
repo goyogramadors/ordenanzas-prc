@@ -1,0 +1,20 @@
+{
+  "id": "san_felipe_b38577b9b0",
+  "comuna": "san_felipe",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_felipe_2642_aprueba_congelamiento_de_areas_que_indica_y_posterga_propuestas_establecida__Exportar.pdf",
+  "nombre": "san_felipe_2642_aprueba_congelamiento_de_areas_que_indica_y_posterga_propuestas_establecida__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:28:54",
+  "fin": "2026-07-14T21:30:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 2642 (1997): aprueba congelamiento de areas afectadas por vias estructurantes/locales y areas R-8, posterga 3 meses recepcion de proyectos. Tramite de congelamiento, sin tabla de normas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_830392063f",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_111_modifica_ordenanza_local_de_kioscos__doc_34_111_02022017082903.pdf",
+  "nombre": "la_serena_111_modifica_ordenanza_local_de_kioscos__doc_34_111_02022017082903.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:23:50",
+  "fin": "2026-07-15T08:24:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 111, 30-ene-2017: MODIFICA LA ORDENANZA LOCAL DE KIOSCOS DE VENTAS DE DIARIOS Y REVISTAS (texto refundido Decreto 1388/2005). Ajusta requisitos de permiso de ocupacion (Art 4 y 6), sin relacion con zonificacion PRC. Verificado visualmente, documento de 1 pagina."
+  }
+}

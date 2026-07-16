@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_596dad86cc",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_1526_actualizacion_plan_regulador_comunal_cerrillos__202-1526-2019.pdf",
+  "nombre": "cerrillos_decreto_exento_1526_actualizacion_plan_regulador_comunal_cerrillos__202-1526-2019.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:06:03",
+  "fin": "2026-07-14T15:29:43",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: Decreto 1526/2019 aprueba MODIFICACION DE CONTRATO con la consultora Urbe Diseno y Gestion Urbana para el estudio 'Actualizacion PRC Cerrillos' (escritura publica notarial). Texto 10/10 pags + render p4 (firma alcalde) y p9 (firmas notariales). Tablas presentes = cronograma de Etapas del contrato, NO normas urbanisticas."
+  }
+}

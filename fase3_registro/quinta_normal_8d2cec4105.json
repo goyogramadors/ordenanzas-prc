@@ -1,0 +1,25 @@
+{
+  "id": "quinta_normal_8d2cec4105",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\quinta_normal_1381_aprobacion_de_plan_regulador_de_quinta_normal__2019 DECRETO Nº1381.pdf",
+  "nombre": "quinta_normal_1381_aprobacion_de_plan_regulador_de_quinta_normal__2019 DECRETO Nº1381.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 43,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:11:29",
+  "fin": "2026-07-15T12:15:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        30
+      ]
+    ],
+    "paginas_utiles": 19,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto de aprobacion PRC Quinta Normal 2019 (PRCQN-2019). Cuadros NORMAS DE EDIFICACION Y SUBDIVISION (predial minima, densidad bruta, altura max edificacion/continua en metros y pisos, COS, CC, antejardin, distanciamiento/rasante/ochavos/adosamientos segun OGUC) en Titulo II Cap.1 Art.12 Zonas: p.12 Zona A, p.13 Zona B, p.14 Zona C, p.15 Zona D, p.16 Zona E, p.17 Zona F, p.18 Zona G, p.19 Zona H, p.20 Zona I, p.21 Zona J, p.22 Zona K, p.23 Zona L, p.24 Zona M, p.25 Zona N, p.26 Zona O, p.27 ZCH-1, p.28 ZCH-2, p.29 ZCH-3, p.30 Zona IE y Zona IT. Todas las zonas verificadas como de Quinta Normal (codigos PRCQN, calles San Pablo/Matucana/Mapocho/Carrascal propias de la comuna). EXCLUI: p.5-6 tabla de coordenadas de limite urbano, p.8-10 tablas de dotacion de estacionamientos (uso de suelo vs estacionamiento vehicular/bicicleta, no son normas de edificacion), p.31-32 fajas de resguardo ferroviario/energetico (no tabla numerica de zona), p.33 tabla ICH (solo remite a norma de su zona de emplazamiento, sin cifras propias), p.34 zonas PM/PI/AVP (sin cuadro numerico, solo remiten a articulos PRMS), p.36-41 tablas de vialidad estructurante (vias expresas/troncales/colectoras/servicio: nombre, ancho, tramo)."
+  }
+}

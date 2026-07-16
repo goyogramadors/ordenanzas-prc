@@ -1,0 +1,25 @@
+{
+  "id": "chillan_71e3392d7a",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_ordenanza_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio___Modificacion Plan Regulador Comunal 2016.pdf",
+  "nombre": "chillan_ordenanza_promulga_modificacion_plan_regulador_comuna_de_chillan_region_del_bio___Modificacion Plan Regulador Comunal 2016.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 41,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:28:22",
+  "fin": "2026-07-14T15:30:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        21,
+        33
+      ]
+    ],
+    "paginas_utiles": 13,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CHILLAN: Decreto que promulga la Modificacion del PRC (41p) = ES EL DOCUMENTO TESTIGO del proyecto (el mismo de 'chillan_normas_urbanisticas_pag23-33.md'). NUCLEO 23-33: Titulo V, Arts 8-12, una tabla por zona: ZC-1..ZC-3 (23-24), ZM-1..ZM-2 (25), ZH-1..ZH-7 (26-28), ZI y ZBA (29), ZE-1..ZE-5 (29-31), ZIS (31), ZIE y ZIT (32), ZAV (33). En p33 empieza el Titulo VI. Coincide EXACTAMENTE con el rango de referencia 23-33, validado de forma independiente. Anadidas 21-22: cuadro de estacionamientos por carga de ocupacion (Titulo III). Excluidas: p1-7 considerandos + informe ambiental EAE, p15-20 vialidad estructurante (lista de vias y anchos), p34-41 cola del documento. Texto OCR legible, no requirio render."
+  }
+}

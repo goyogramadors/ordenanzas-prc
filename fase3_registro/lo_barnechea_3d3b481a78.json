@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_3d3b481a78",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_979_promulga_modificacion_no_27_vialidades_uno_oriente_y_uno_poniente_al_plan_re__PUBLICACION_DO_17-12-2019_DECRETO_979_29-11-19.pdf",
+  "nombre": "lo_barnechea_979_promulga_modificacion_no_27_vialidades_uno_oriente_y_uno_poniente_al_plan_re__PUBLICACION_DO_17-12-2019_DECRETO_979_29-11-19.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:01:35",
+  "fin": "2026-07-14T21:04:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Publicacion DO + decreto escaneado adjunto (9 pags, verificado texto completo + render pags 6 y 9): elimina afectacion utilidad publica vias L30/L31, remite a planos MPRC-LB-27; predios pasan a norma de zona adyacente pero sin reproducir cuadro. Sin trampa BCN detectada."
+  }
+}

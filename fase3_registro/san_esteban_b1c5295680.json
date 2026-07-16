@@ -1,0 +1,25 @@
+{
+  "id": "san_esteban_b1c5295680",
+  "comuna": "san_esteban",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_esteban_ordenanza_ordenanza_local_plano_regulador_derogado__98576_2014_04_ordenanza_local_plano_regulador.pdf",
+  "nombre": "san_esteban_ordenanza_ordenanza_local_plano_regulador_derogado__98576_2014_04_ordenanza_local_plano_regulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 44,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:28:46",
+  "fin": "2026-07-14T21:32:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        24,
+        40
+      ]
+    ],
+    "paginas_utiles": 17,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ordenanza plano regulador DEROGADA (versión anterior 2014, texto nativo completo): Capítulo IV Zonificación pág24-40, zonas H-1,H-3 a H-6,H-8,H-9,H-10,E-2,E-5,E-6,E-8,E-11,R-4 a R-9 con usos de suelo permitidos/prohibidos y condiciones de subdivisión/edificación (superficie predial mín, COS, CC, agrupamiento, altura, distanciamiento). Zonas R-4 a R-9 son mayormente de restricción (descriptivas, algunas sin cuadro numérico). Pág41+ es Capítulo V Vialidad (fuera de alcance). Aunque derogada, contiene normativa histórica de la comuna"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_7dba2e8426",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_ordenanza_texto_aprobatorio_de_la_modificacion_n_9_plan_regulador_comunal__Texto-Aprobatorio-Modificacion-N_C2_B09-Enero-2015.pdf",
+  "nombre": "la_florida_ordenanza_texto_aprobatorio_de_la_modificacion_n_9_plan_regulador_comunal__Texto-Aprobatorio-Modificacion-N_C2_B09-Enero-2015.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 16,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:46:20",
+  "fin": "2026-07-14T15:50:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        15
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Texto aprobatorio Modificacion N9 PRC La Florida (16 pags). TODO EN TEXTO plano tabulado pese al bajo conteo de chars (no hizo falta render). p2-3: cuadro de Estacionamientos por uso. p4: tabla Areas Caracteristicas de Edificacion (siglas E-AB1..E-A1, tipo, densidad, agrupamiento). p6-11: NUCLEO, las 12 zonas (E-AB1..E-AB5, E-AM1..E-AM4, E-AA1, E-AA2, E-A1) con predial min, COS, CC, altura, agrupamiento, rasante, distancia a medianero, antejardin, estacionamientos, densidad bruta max/min. p12-14: usos de suelo (U-Vev1, U-Vev2, ESP-4) y ajustes zonas AV, ED (COS 0,2 CC 0,6), ICH. p15: condiciones de edificacion zona ESP-4 (COS 0,014, CC 0,014, altura 8 m, antejardin 8). p1 portada, p16 firmas."
+  }
+}

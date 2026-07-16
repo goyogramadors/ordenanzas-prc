@@ -1,0 +1,20 @@
+{
+  "id": "machali_8a53eb89b0",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_1684_aprueba_modificacion_no_13_del_plan_regulador_comunal_de_machali_y_coya__Exportar.pdf",
+  "nombre": "machali_1684_aprueba_modificacion_no_13_del_plan_regulador_comunal_de_machali_y_coya__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:04:26",
+  "fin": "2026-07-14T21:05:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "modificación N13: solo rectifica trazado vial (Av. Monseñor Escrivá de Balaguer), sin cuadro normativo"
+  }
+}

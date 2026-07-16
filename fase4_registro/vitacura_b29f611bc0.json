@@ -1,0 +1,29 @@
+{
+  "id": "vitacura_b29f611bc0",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\vitacura_31741_promulga_modificacion_no_29_al_plano_regulador_de_vitacura__Diario_Oficial_8.07.13_pag_16.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "TRAMPA comuna ajena parcial: pág1 es cierre de decreto Providencia + inicio Vitacura. Modificación N29 'Av. Las Condes': pág2 Cuadro 24 completo Área E-Am5 (subdivisión, COS 0.40, CC 0.80, rasante 60°, altura 2 pisos/8.5m, antejardín 5m, distanciamiento, densidad 20viv/ha) embebido como imagen; pág3 Cuadro 25 densificación con condiciones especiales por sector (Av.Vitacura/Tabancura, calle Los Abedules, Av.Las Condes) con subterráneos 80%, CC 1.8, antejardín variable 31m - imagen+texto verificado",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:17:07",
+  "fin": "2026-07-15T23:04:37",
+  "resultado": {
+    "archivo": "extraccion_normas\\vitacura\\vitacura_31741_modificacion29_zona_eam5_eae5_pag2-3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "E-Am5",
+      "E-Ae5"
+    ],
+    "confianza": "ALTA",
+    "nota": "E-Am5 completo: Cuadro24 (base) + Cuadro25 (densificacion) + notas 1-6 + 2 bloques de condiciones especiales por sector (Av.Vitacura/Tabancura letra d, calle Los Abedules letra e), todo transcrito desde imagen verificada por render. E-Ae5 (letra u): solo descripcion del area, tabla numerica remite a 3 decretos anteriores no incluidos en este documento -- marcado como FALTA LA TABLA."
+  }
+}

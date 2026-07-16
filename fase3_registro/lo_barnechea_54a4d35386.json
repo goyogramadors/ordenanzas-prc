@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_54a4d35386",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_314_promulguese_la_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_26_01_13.pdf",
+  "nombre": "lo_barnechea_314_promulguese_la_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_26_01_13.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:55:18",
+  "fin": "2026-07-15T07:59:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "modificación MPRC-LB-13: solo modifica límite de Zona M (polígono) y reclasifica 2 vías (L14, L28) como Colectoras en cuadro Sistema Vial Comunal; tabla es de vialidad, no normas urbanísticas de zona"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pichidegua_a776d94dff",
+  "comuna": "pichidegua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pichidegua_1460_ratifica_proceso_de_plan_regulador_de_pichidegua__do-20061025.pdf",
+  "nombre": "pichidegua_1460_ratifica_proceso_de_plan_regulador_de_pichidegua__do-20061025.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:12:40",
+  "fin": "2026-07-14T21:18:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        22
+      ]
+    ],
+    "paginas_utiles": 17,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ratifica proceso PRC completo, incluye 2 localidades: Pichidegua (Cap.I-IV, zonas ZU-1/ZU-2/ZA-3/ZI/AD/ADP, pág6-15) + Pataguas Cerro (Cap.I-III, zonas ZU-1/ZU-2/ZU-3/ZEI/ZE/AD/AVP, pág16-22). Cuadros de normas urbanísticas embebidos como IMAGEN en pág10,11,12,20,21,22 (verificado con render). Desde pág23 cambia a Normas Particulares de otros ministerios (edición DO completa), sin relación con Pichidegua"
+  }
+}

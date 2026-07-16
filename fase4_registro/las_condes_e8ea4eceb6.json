@@ -1,0 +1,29 @@
+{
+  "id": "las_condes_e8ea4eceb6",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_norma_20dec.4675.pdf",
+  "rangos": [
+    [
+      6,
+      8
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "LAS CONDES: Memoria Explicativa (ago-2013, 9p), 'Asignacion de Normativa Urbanistica al Terreno Municipal en el Cerro Apoquindo' (predio de aprox 6 hectareas, area verde municipal donada, cuya afectacion a utilidad publica caduco por art 59 LGUC). Norma en p6-8, TEXTO PLANO: propone asignar la normativa del area de edificacion Ee2 y zona de uso de suelo UEe2 (analoga al Estadio Municipal Paul Harris y Club de Tenis El Alba, zonas adyacentes de Edificacion Especial N2). p8 trae la tabla completa: coeficiente de constructibilidad 0.3, COS 0.2, coeficiente de area libre 0.7, rasante 60 grados, altura maxima 5 pisos o 17,50 m, antejardin 7 m, distanciamiento y adosamiento 11 m, agrupamiento aislado (no se permite adosamiento). Es propuesta municipal (memoria explicativa), no el decreto final, pero transcribe la norma completa.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:14:41",
+  "fin": "2026-07-15T23:22:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_4675_memoria_cerro_apoquindo_ee2_uee2_pag6-8.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "Ee2",
+      "UEe2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: tabla completa Ee2 (CC0,3/COS0,2/area libre0,7/rasante60/altura5pisos-17,5m/antejardin7m/distanciamiento11m/aislado). UEe2 remite al cuadro de usos ya vigente en art.40, condicionado a uso publico. Es Memoria Explicativa (propuesta), no decreto final -- marcado explicitamente."
+  }
+}

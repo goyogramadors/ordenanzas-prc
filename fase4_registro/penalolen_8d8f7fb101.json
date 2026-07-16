@@ -1,0 +1,30 @@
+{
+  "id": "penalolen_8d8f7fb101",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zonas_PRMS.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Ficha 'Zonas PRMS' Peñalolen (Sector Geografico Oriente), 1 pag escaneada. Tres tablas completas: Subsector (11) Peñalolen Alto, (11a) Peñalolen Bajo, (11b) Lo Hermida -- cada una con usos de suelo permitidos, tramo, coeficiente maximo de constructibilidad, % maximo ocupacion suelo, superficie minima predial. Verificado visualmente pagina unica.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:27:29",
+  "fin": "2026-07-15T14:28:47",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zonas_prms.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "11",
+      "11a",
+      "11b"
+    ],
+    "confianza": "ALTA",
+    "nota": "3 subsectores PRMS Sector Oriente: (11) Penalolen Alto tramo B, (11a) Penalolen Bajo tramo C, (11b) Lo Hermida tramos F/F2. Cuadros completos (CC, %ocupacion, predial minima) por uso. Escaneado, verificado visualmente integro. Coincide con nota_fase3."
+  }
+}

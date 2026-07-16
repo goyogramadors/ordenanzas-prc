@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_ec88a256a2",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4485.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4485.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:56:58",
+  "fin": "2026-07-14T20:57:22",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Escaneo (copia informativa) del decreto alcaldicio 4485/2004 que aprueba el Plano Seccional PS-U-V2. 1 pagina: solo vistos y firmas, SIN el texto resolutivo con el cuadro de usos. El cuadro completo esta en el documento hermano las_condes_ed8c68a432 (D.O.4485, 7 pags), registrado con tablas."
+  }
+}

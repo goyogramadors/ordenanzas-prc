@@ -1,0 +1,20 @@
+{
+  "id": "los_angeles_6a99aec4ac",
+  "comuna": "los_angeles",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\los_angeles_1426_apruebase_la_nomina_de_vias_a_desafectar_del_plan_regulador_comunal_de_los___2015-08-12-desafectar-plan-regulador.pdf",
+  "nombre": "los_angeles_1426_apruebase_la_nomina_de_vias_a_desafectar_del_plan_regulador_comunal_de_los___2015-08-12-desafectar-plan-regulador.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 104,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:56:52",
+  "fin": "2026-07-15T07:58:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SOLO VIALIDAD: edicion completa del Diario Oficial (41.231, 84 pags, mezcla decenas de ministerios y organismos -- NO atribuir a Los Angeles). El decreto de Los Angeles esta en p79-81: Decreto 1426/2015 APRUEBA NOMINA DE VIAS A DESAFECTAR del PRC de Los Angeles: deja sin efecto declaratorias de utilidad publica para calles/avenidas en 5 sectores (Villa San Carlos de Puren, Salto del Laja, PRC Los Angeles PR-LA-01, MPRCLA-01, PRCLA-A Vial). Todo son tablas de NOMBRE DE VIA/TRAMO/ANCHO ENTRE LINEAS OFICIALES/OBSERVACIONES -- 100% vialidad, ningun valor de norma urbanistica de zona (COS/CC/altura/usos/predial). Confirmado en texto integro de p79-81."
+  }
+}

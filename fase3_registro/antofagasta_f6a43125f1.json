@@ -1,0 +1,20 @@
+{
+  "id": "antofagasta_f6a43125f1",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antofagasta_621_aprueba_modificacion_a_ordenanza_local_plan_regulador__Exportar.pdf",
+  "nombre": "antofagasta_621_aprueba_modificacion_a_ordenanza_local_plan_regulador__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:55:05",
+  "fin": "2026-07-14T12:58:17",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "PATRON LEYCHILE: aprueba modificacion del art.23 Normas Especificas pero el contenido NO esta en el PDF; dice 'VER DIARIO OFICIAL 35.289 del 11-10-1995 pagina 3'. Norma existe pero es inalcanzable desde este documento."
+  }
+}

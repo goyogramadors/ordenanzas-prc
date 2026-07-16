@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_afe59e900a",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1_sobre_derechos_municipales_ano_2022__doc_34_1_02112021120754.pdf",
+  "nombre": "la_serena_1_sobre_derechos_municipales_ano_2022__doc_34_1_02112021120754.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:24:58",
+  "fin": "2026-07-15T08:25:48",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Ordenanza N1 (29.10.2021), I.Municipalidad de La Serena. Fija texto de Ordenanza sobre Derechos Municipales por Permisos, Concesiones y Servicios vigente 2022 (tarifario). Menciona 'Sector Centro'/'Sector Sub Centro' solo como definicion de deslindes para efectos de cobro de derechos, no como zonificacion PRC. No es instrumento de planificacion territorial: sin COS/CC/altura/predial/agrupamiento."
+  }
+}

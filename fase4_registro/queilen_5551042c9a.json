@@ -1,0 +1,32 @@
+{
+  "id": "queilen_5551042c9a",
+  "comuna": "queilen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\queilen_41565_apruebase_las_enmiendas_al_plan_regulador_comunal_de_queilen__1114542.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda PRC Queilen (Decreto 2327/2016, DO 41.565). p2: art.23 Usos de Suelo y Normas Especificas de Subdivision, texto en prosa con valores: agrega usos de equipamiento por clase a ZH2 (deporte/esparcimiento/seguridad/social), ZEH3 (salud/social), ZT (comercio/culto-cultura/servicios). Altera Normas Especificas de Subdivision Predial y Edificacion: ZH1 (predial 160 m2, COS 0,78, CC 1,04), ZH2 (predial 160 m2, COS 0,65, CC 0,78), ZEH3 (predial 210 m2, COS 1,04, CC 1,56, altura +20% sobre art.2.1.23 OGUC), ZT (predial 350 m2, COS 0,78, CC 1,56), ZI (predial 350 m2 otros usos, COS 0,78, CC 1,04).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:31:24",
+  "fin": "2026-07-15T14:32:38",
+  "resultado": {
+    "archivo": "extraccion_normas\\queilen\\queilen_41565_enmiendas_art23.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "ZH1",
+      "ZH2",
+      "ZEH3",
+      "ZT",
+      "ZI"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmienda art.23: nuevos usos de equipamiento en ZH2/ZEH3/ZT + condiciones de subdivision/edificacion alteradas en 5 zonas (predial/COS/CC, y en ZEH3 tambien altura +20%). Texto plano. Verificado contra nota_fase3: coincide."
+  }
+}

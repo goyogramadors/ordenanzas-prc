@@ -1,0 +1,20 @@
+{
+  "id": "diego_de_almagro_db96f91cf3",
+  "comuna": "diego_de_almagro",
+  "ruta": "Ordenanzas Descargadas\\1-600\\diego_de_almagro_memoria_actualizacion_plan_regulador_comunal_diego_de_almagro_2017_incluido_todo__28e42979-3e93-4b15-b47a-370a7bac8ad3.pdf",
+  "nombre": "diego_de_almagro_memoria_actualizacion_plan_regulador_comunal_diego_de_almagro_2017_incluido_todo__28e42979-3e93-4b15-b47a-370a7bac8ad3.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:13:58",
+  "fin": "2026-07-15T08:15:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 458 (17.02.2022), I.Municipalidad de Diego de Almagro. DENIEGA solicitud de acceso a informacion (Ley de Transparencia) sobre la Memoria de Actualizacion del PRC 2017, porque el instrumento aun no esta aprobado/promulgado. No contiene el instrumento en si, solo la denegacion de entrega. Sin norma urbanistica."
+  }
+}

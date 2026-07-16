@@ -1,0 +1,139 @@
+[
+ {
+  "id": "d0922",
+  "comuna": "renaico",
+  "nombre_documento": "780_proomulga_el_plan_regulador_comunal_de_renaico",
+  "archivo": "renaico_780_proomulga_el_plan_regulador_comunal_de_renaico__planreg.renaico.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "normas_urbanisticas": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 4,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (ocupacion_suelo, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.481\r\n\r\n|\r\n\r\nSábado 18 de Febrero de 2023\r\n\r\n|\r\n\r\nPágina 1 de 20\r\n\r\nNormas Generales\r\nCVE 2273733\r\n\r\nGOBIERNO REGIONAL DE LA ARAUCANÍA\r\n\r\nPROMULGA EL PLAN REGULADOR COMUNAL DE RENAICO, LOCALIDAD\r\nRENAICO\r\n(Resolución)\r\nNúm. 90.- Temuco, 12 de agosto de 2022.\r\nVistos:\r\n1. La ley 21.395, del año 2021, que aprueba el Presupuesto del Sector Público para el año\r\n2022;\r\n2. El Plan Regulador Comunal de Renaico, Localidad de Renaico;\r\n3. La Memoria Explicativa Plan Regulador Comunal de Renaico, Localidad de Renaico;\r\n4. El Estudio de Riesgo, Plan Regulador Comunal de Renaico, Localidad de Renaico; e\r\nInforme Antisísmico.\r\n5. Factibilidad Sanitaria, Plan Regulador Comunal de Renaico; Localidad de Renaico;\r\n6. El Informe Ambiental, Evaluación Ambiental Estratégica, Plan Regulador Comunal de\r\nRenaico;\r\n7. La Ordenanza Local, Localidad de Renaico, Plan Regulador Comunal de Renaico;\r\n8. Los Planos, Plan Regulador Comunal de Renaico;\r\n9. El Informe Jurídico N° 7, de fecha 20.11.2014, de Asesor Jurídico Minvu Región de la\r\nAraucanía;\r\n10. El Ord. N° 53, de fecha 10.07.2014, de la Municipalidad de Renaico, que envía los\r\nantecedentes del Plan Regulador Comunal de Renaico a la Secretaría Regional Ministerial de\r\nVivienda y Urbanismo Región de la Araucanía;\r\n11. El decreto alcaldicio exento N° 780, de fecha 21.03.2016, "
+ },
+ {
+  "id": "d0923",
+  "comuna": "renaico",
+  "nombre_documento": "decreto_4_plan_regulador_de_la_comuna_de_renaico_localidad_tijeral",
+  "archivo": "renaico_decreto_4_plan_regulador_de_la_comuna_de_renaico_localidad_tijeral__prvtij.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "antejardin": 3,
+   "rasante": 1,
+   "normas_urbanisticas": 4,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 6,
+   "articulado": 22,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z- 1",
+   "Z- 2",
+   "ZONA",
+   "ZONA 1",
+   "ZONA 2"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (agrupamiento, antejardin, rasante, normas_urbanisticas)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Referencia del Documento:\r\nDiario Oficial/Normas Generales/Año 2012/DO 28/07/2012 DCTO 4 2012 MINISTERIO DE VIVIENDA Y\r\nURBANISMO SUBSECRETARIA DE VIVIENDA Y URBANISMO\r\n\r\nMinisterio de Vivienda y Urbanismo\r\nAPRUEBA PROYECTO PARCIAL DEL PLAN REGULADOR COMUNAL DE RENAICO, LOCALIDAD DE\r\nTIJERAL, DE CONFORMIDAD CON LAS DISPOSICIONES DE LA LEY N°16.282, ART. 27\r\nSantiago, 25 de enero de 2012.- Hoy se decretó lo que sigue:\r\nNúm. 4.- Vistos: Lo dispuesto en el DL N° 1.305 de 1975, la ley N° 16.391, en especial su artículo 21 inciso cuarto; el artículo\r\n27 del decreto N° 104 del Ministerio del Interior de 1977, que fija el texto refundido, coordinado y sistematizado del Título I de\r\nla ley N° 16.282; el DFL N° 458 de Vivienda y Urbanismo, de 1975, Ley General de Urbanismo y Construcciones; el DS N°\r\n47, de Vivienda y Urbanismo, de 1992, Ordenanza General de Urbanismo y Construcciones; el DS N° 150 del Ministerio del\r\nInterior y Seguridad Pública, del 27 de febrero de 2010 (DO del 2 de marzo de 2010), que declara a las Regiones de Valparaíso,\r\ndel Libertador Bernardo O’Higgins, del Maule, del Biobío, de la Araucanía y Metropolitana de Santiago como afectadas por la\r\ncatástrofe derivada del sismo con características de terremoto ocurrido en dichas regiones el 27 de febrero de 2010; el DS N°\r\n148 del Ministerio del Interior y Seguridad Pública, del 23 de febrero de 2011 (DO 28 de marzo de 2011), que en su artículo\r\nprimero extiende la vigencia de las medidas de excepción establecidas en"
+ },
+ {
+  "id": "d0924",
+  "comuna": "renaico",
+  "nombre_documento": "decreto_780_plan_regulador_de_la_comuna_de_renaico",
+  "archivo": "renaico_decreto_780_plan_regulador_de_la_comuna_de_renaico__ordenanza.planregulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 9,
+   "articulado": 6,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, ordenanza_local_txt, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR COMUNAL DE RENAICO - ORDENANZA LOCALIDAD RENAICO\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE RENAICO\r\nLOCALIDAD DE RENAICO\r\n\r\nORDENANZA LOCAL\r\nLOCALIDAD DE RENAICO\r\n\r\nI. MUNICIPALIDAD DE RENAICO\r\n\r\n1\r\n\r\n\fPLAN REGULADOR COMUNAL DE RENAICO - ORDENANZA LOCALIDAD RENAICO\r\n\r\nDISPOSICIONES GENERALES\r\nArtículo 1\r\nLa presente Ordenanza Local es un cuerpo normativo que junto con la Memoria\r\nExplicativa, el Estudio de Factibilidad y el plano denominado Plano de Zonificación y\r\nVialidad, código PRC 09209-1, constituyen un solo cuerpo legal.\r\nArtículo 2 Del Límite Urbano\r\nEl área urbana reglamentada por el presente Plan, está definida por las líneas\r\npoligonales cerradas entre los puntos 1 al 8, cuya descripción de puntos y tramos se\r\nrefiere en la tabla siguiente, en concordancia con lo graficado en el plano PRC\r\n09209-1, escala 1:5.000.\r\nLÍMITE URBANO DE RENAICO\r\nCoordenadas\r\nPunto\r\n\r\nDATUM WGS84HUSO18\r\n\r\nE\r\n\r\nDescripción Punto\r\n\r\nTramo\r\n\r\nDescripción tramo\r\n\r\n1-2\r\n\r\nLínea\r\nsinuosa\r\ncorrespondiente a la\r\nribera\r\nsur\r\ndel\r\nrio\r\nRenaico, entre el Estero\r\nRana Choca y el estero\r\nLas Toscas, que une los\r\npuntos 1 y 2 descritos.\r\n\r\n2-3\r\n\r\nLínea\r\nsinuosa\r\ncorrespondiente a la\r\nribera sur del estero Las\r\nToscas, que une los\r\npuntos 2 y 3 descritos.\r\n\r\n3-4\r\n\r\nLínea recta que une los\r\npuntos 3 y 4 descritos.\r\n\r\n4-5\r\n\r\nLínea recta que une los\r\npuntos 4 y 5 descritos.\r\n\r\nN\r\n\r\nIntersección del eje del Estero Rana\r\n1\r\n\r\n712145\r\n\r\n5827902 Choca, con la prolongación de la ribera\r\n\r\nsur del río Renai"
+ },
+ {
+  "id": "d1241",
+  "comuna": "renaico",
+  "nombre_documento": "decreto_alcaldicio_1050_apruebase_plan_regulador",
+  "archivo": "renaico_decreto_alcaldicio_1050_apruebase_plan_regulador__dec1050alc1606.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

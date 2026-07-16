@@ -1,0 +1,20 @@
+{
+  "id": "antuco_bfd726be07",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_ordenanza_sobre_aseo_ornato_y_tenencia_responsable_de_mascotas_del_27_4___Decreto_205_2015.pdf",
+  "nombre": "antuco_decreto_ordenanza_sobre_aseo_ornato_y_tenencia_responsable_de_mascotas_del_27_4___Decreto_205_2015.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:59:39",
+  "fin": "2026-07-14T13:00:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Ordenanza municipal de aseo, ornato y tenencia responsable de mascotas (Decreto 205/2015). Texto completo 18/18 pags: 0 hits en las 10 senales urbanisticas. Candidato a descarte en triage."
+  }
+}

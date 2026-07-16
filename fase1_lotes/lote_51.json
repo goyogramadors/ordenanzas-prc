@@ -1,0 +1,481 @@
+[
+ {
+  "id": "d0284",
+  "comuna": "san_miguel",
+  "nombre_documento": "2208_suprime_articulos_de_ordenanza_local_del_plan_regulador",
+  "archivo": "san_miguel_2208_suprime_articulos_de_ordenanza_local_del_plan_regulador__ACUERDO%202208.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0963",
+  "comuna": "san_miguel",
+  "nombre_documento": "1292_deja_sin_efecto_enmienda_al_plan_regulador_comunal_y_modificacion_a_su_orde",
+  "archivo": "san_miguel_1292_deja_sin_efecto_enmienda_al_plan_regulador_comunal_y_modificacion_a_su_orde__Decretos 1292 y 1293 6-07-2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "ordenanza_local_txt": 13,
+   "articulado": 9
+  },
+  "senales_tramite": {
+   "txt_solicitud": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'deja_sin_efecto' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 6 de Julio de 2009\r\n\r\nNº 39.404\r\n\r\nMunicipalidades\r\nMUNICIPALIDAD DE SAN MIGUEL\r\nDEJA SIN EFECTO ENMIENDA AL PLAN REGULADOR COMUNAL Y MODIFICACIÓN A SU\r\nORDENANZA LOCAL\r\nNúm. 1.292 exento.- San Miguel, 18 de junio de 2009.Vistos:\r\n1. Decreto exento N° 2.401, de 16 de noviembre de\r\n2005, publicado en el Diario Oficial de 28 de noviembre de\r\n2005, que aprueba el Plan Regulador Comunal de San Miguel\r\ny el texto de Ordenanza Local del Plan Regulador de San\r\nMiguel.\r\n2. Acuerdo N° 829 del Concejo, de 4 de julio de 2006\r\nque, conforme al procedimiento establecido en el artículo 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones, aprueba la proposición de enmienda al\r\nPlan Regulador Comunal vigente, elaborada por el Asesor\r\nUrbanista.\r\n3. Decreto exento N° 1.889, de 22 de noviembre de\r\n2006, publicado en el Diario Oficial de 27 de noviembre del\r\nmismo año, que modifica el Plan Regulador Comunal de San\r\nMiguel, aprobado por decreto exento N° 2.401, de 16 de\r\nnoviembre de 2005, según se establece en la memoria explicativa presentada por el Asesor Urbanista, base de los acuerdos\r\nNos. 853, 854, 855 y 856, de 30 de octubre de 2006, que\r\naprueban enmiendas al Plan Regulador Comunal vigente, e\r\nincorpora el plano PRSM-3 (Enmienda), que por ese acto se\r\naprueban, todos los cuales pasan a formar parte integrante del\r\ndecreto; y modifica la Ordenanza Local del Plan Regulador de\r\nSan Miguel del modo allí señalado.\r\n4. Oficio N° 1.376, "
+ },
+ {
+  "id": "d0964",
+  "comuna": "san_miguel",
+  "nombre_documento": "2371_promulga_modificacion_al_plan_regulador_comunal_de_san_miguel",
+  "archivo": "san_miguel_2371_promulga_modificacion_al_plan_regulador_comunal_de_san_miguel__decreto 2371 24-12-2009 ok.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 15,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 8,
+   "articulado": 10
+  },
+  "senales_tramite": {
+   "txt_inicio": 1
+  },
+  "codigos_zona": [
+   "EC-3",
+   "ZU-1",
+   "ZU-2",
+   "ZU-5",
+   "ZU5"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Página\r\n\r\n6\r\n\r\n(20602)\r\n\r\nLos interesados deben acreditar el cumplimiento de los\r\nrequisitos legales.\r\nMayor información disponible en www.poderjudicial.cl.Juez Presidente.\r\n\r\nCorte de Apelaciones de San Miguel, 15º Juzgado de\r\nGarantía de Santiago.- Llámase a concurso interno, por el\r\ntérmino de diez días contados desde la publicación de este\r\naviso en el Diario Oficial, para proveer el cargo de Administrativo 1º - Administrativo de Actas, perteneciente a la Tercera\r\nCategoría del Escalafón de Empleados del Poder Judicial,\r\nGrado XII de la Escala de Sueldos del Personal de Empleados,\r\nvacante por promoción de don Patricio Alexis Arteaga Quiroz.\r\nLos interesados deben acreditar el cumplimiento de los\r\nrequisitos legales.\r\nMayor información disponible en www.poderjudicial.cl.Administrador de Tribunal.\r\nCorte de Apelaciones de San Miguel, Juzgado de Garantía de Puente Alto.- Llámase a concurso interno, por el término\r\nde diez días contados desde la publicación de este aviso en el\r\nDiario Oficial, para proveer el cargo de Administrativo 1º,\r\nperteneciente a la Cuarta Categoría del Escalafón de Empleados del Poder Judicial, Grado XIII de la Escala de Sueldos del\r\nPersonal de Empleados, vacante por promoción de doña Alejandra Andrea Muñoz Sánchez.\r\nLos interesados deben acreditar el cumplimiento de los\r\nrequisitos legales.\r\nMayor información disponible en www.poderjudicial.cl.Administrador de Tribunal.\r\nCorte de Apelaciones de San Miguel, Tribunal de Juicio\r\nOral en lo Penal de Sa"
+ },
+ {
+  "id": "d0965",
+  "comuna": "san_miguel",
+  "nombre_documento": "2401_aprueba_nuevo_plan_regulador_comuna_de_san_miguel",
+  "archivo": "san_miguel_2401_aprueba_nuevo_plan_regulador_comuna_de_san_miguel__DECRETO 2401 28-11-2005 ok.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "agrupamiento": 7,
+   "antejardin": 13,
+   "rasante": 3,
+   "adosamiento": 3,
+   "distanciamiento": 3,
+   "normas_urbanisticas": 2,
+   "zonificacion": 5,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 5,
+   "articulado": 59,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "EC-1",
+   "EC-2",
+   "EC-3",
+   "ICH",
+   "ZONA",
+   "ZU-1",
+   "ZU-2",
+   "ZU-3",
+   "ZU-4",
+   "ZU-5",
+   "ZU-6",
+   "ZU3"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Página 6\r\n\r\n(16030)\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 28 de Noviembre de 2005\r\n\r\nMUNICIPALIDAD DE SAN MIGUEL\r\nAPRUEBA NUEVO PLAN REGULADOR COMUNAL DE SAN MIGUEL\r\nNúm. 2.401 exento.- San Miguel, 16 de noviembre de 2005.- Vistos:\r\nI\r\n\r\nLa necesidad de adecuar el Plan Regulador Comunal vigente para San Miguel, aprobado\r\npor D. S. N° 916 (M.O.P.) de 16 de mayo de 1951, publicado en el Diario Oficial de 12\r\nde Julio de 1951, modificado por el Seccional San Miguel, aprobado por D. S. N° 22\r\n(MINVU) de 5 de febrero de 1988, publicado en el Diario Oficial de 16 de marzo de 1988,\r\na la nueva realidad del desarrollo urbano de la ciudad de Santiago.\r\n\r\nII\r\n\r\nLos siguientes antecedentes administrativos:\r\n\r\n1. Acuerdo Nº 524 del Concejo, de 12 de junio de 2002, que aprueba la etapa de\r\nzonificación o localización de usos de suelo, dentro del estudio de modificación del Plan\r\nRegulador, propuesta por la Consultora Ecohab, que acoge las observaciones del Concejo\r\nplanteadas en Sesión Extraordinaria de 13 de marzo de 2002, según plano explicativo que pasa\r\na formar parte integrante del acuerdo, con las modificaciones introducidas por éste, en términos\r\nde darle carácter habitacional al terreno que actualmente ocupa la Cárcel de San Miguel y de\r\nárea verde al terreno delimitado al Oriente por Avenida Santa Rosa, al Poniente por Gran\r\nAvenida José Miguel Carrera, al Norte por la línea del ferrocarril y al Sur, por calle Carlos Silva\r\nVildósola.\r\n2. Acuerdo Nº 582 del Concejo, d"
+ },
+ {
+  "id": "d0966",
+  "comuna": "san_miguel",
+  "nombre_documento": "2500_promulga_modificacion_n_5_al_plan_regulador_comunal_de_san_miguel",
+  "archivo": "san_miguel_2500_promulga_modificacion_n_5_al_plan_regulador_comunal_de_san_miguel__D.O. Viernes 25 Nov 2016, DE 2500 M5-PRSM (2) (1).pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 38,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 7,
+   "ordenanza_local_txt": 5,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.617\r\n\r\n|\r\n\r\nViernes 25 de Noviembre de 2016\r\n\r\n|\r\n\r\nPágina 1 de 38\r\n\r\nNormas Generales\r\nCVE 1140023\r\n\r\nMUNICIPALIDAD DE SAN MIGUEL\r\n\r\nPROMULGA MODIFICACIÓN N° 5 AL PLAN REGULADOR COMUNAL DE SAN\r\nMIGUEL\r\nNúm. 2.500 exento.- San Miguel, 21 de noviembre de 2016.\r\nVistos:\r\n1. Decreto Exento N° 2.401, de 16 de noviembre de 2005, que aprobó el Plan Regulador\r\nComunal de San Miguel, instrumento de planificación territorial compuesto por la Memoria\r\nExplicativa, Estudio de Factibilidad Sanitaria, Evaluación de Suficiencia en Infraestructura de\r\nEquipamiento de la comuna de San Miguel, Estudio de Capacidad Vial, Estudio de Riesgos y\r\nRestricciones, Informe de Justificación de Diferencias, Ordenanza Local del Plan Regulador\r\nComunal de San Miguel y los planos denominados PRSM-1, de Zonificación, escala 1:5000 y\r\nPRSM-2, de Vialidad Estructurante, escala 1:5000; y el texto de Ordenanza Local del Plan\r\nRegulador de San Miguel.\r\n2. Acuerdo N° 1.651, de 22 de septiembre de 2015, que aprobó el inicio de estudios y\r\nprocedimiento de modificación del Plan Regulador Comunal vigente, conforme la presentación\r\nde la Asesoría Urbana, que pasa a formar parte integrante del acuerdo.\r\n3. Decreto Exento N° 2.117, de 29 de septiembre de 2015, que declaró que el área\r\ncomprendida por la comuna de San Miguel, se encuentra afecta"
+ },
+ {
+  "id": "d0967",
+  "comuna": "san_miguel",
+  "nombre_documento": "3162_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel",
+  "archivo": "san_miguel_3162_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.162.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "rasante": 2,
+   "normas_urbanisticas": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZCU",
+   "ZONA",
+   "ZU - 4",
+   "ZU 4"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\n\r\nI\r\n\r\nD E L A R E P U B L I C A D E CHILE\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nCUERPO\r\n\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN G E N E R A L\r\nN ú m . 41.035.-\r\n\r\nEjemplar del día\r\n\r\n$200.- (IVA incluido)\r\n\r\nA ñ o C X X X V I I - N ° 815.596 (M.R.)\r\n\r\nAtrasado\r\n\r\n$400.- (IVA incluido)\r\n\r\nSUMARIO\r\nNormas Generales\r\n\r\nEdición de 20 páginas\r\nSantiago, Jueves 18 de Diciembre de 2014\r\n\r\ni m p o r t a c i ó n d e a z ú c a r cruda,\r\n\r\nde A r i c a , p r e s e n t a c i ó n del\r\n\r\na z ú c a r refinada grados I y 2, y\r\n\r\nmanifiesto\r\n\r\na z ú c a r refinada grados 3 y 4, y\r\n\r\ncarga de ingreso en formato\r\n\r\n2014,\r\n\r\nsubestándares\r\n\r\npapel\r\n\r\nQuilpué\r\n\r\nP.5\r\n\r\nmarítimo\r\n\r\nde\r\nP8\r\n\r\nExtracto\r\n\r\nde\r\n\r\nresolución\r\n\r\nn ú m e r o 6.582 exenta, de\r\nMunicipalidad\r\n\r\nExtracto\r\n\r\nde\r\n\r\nresolución\r\n\r\nn ú m e r o 6.591 exenta, de 2014,\r\n\r\nde\r\n\r\nInstituto de C a p a c i t a c i ó n\r\n\r\nPIO\r\n\r\nT é c n i c a de la P r e v e n c i ó n y\r\nSeguridad L i m i t a d a\r\n\r\nPODER LEGISLATIVO\r\n\r\nDecreto\r\n\r\nD E L INTERIOR Y\r\nPÚBLICA\r\n\r\nS u b s e c r e t a r í a del Interior\r\nnúmero\r\n\r\nde\r\n\r\naduana\r\n\r\npara\r\n\r\n20.793.-\r\n\r\nInstaura el D í a Nacional del\r\nMedio Ambiente\r\n\r\nP2\r\n\r\nEmpresas d e M e n o r T a m a ñ o\r\n\r\nP.5\r\n\r\nD i r e c c i ó n de Presupuestos\r\nResolución\r\n\r\nnúmero\r\n\r\n937\r\n\r\nexenta.- F i j a montos de los\r\naranceles por el desarrollo de\r\nlos procesos establecidos en la\r\nP.7\r\n\r\nPÚBLICA\r\n\r\nRivera\r\n\r\nA b o g a d o del\r\nS u b s e c r e t a r í a del Interior\r\nR e s o l u c i ó n n"
+ },
+ {
+  "id": "d0968",
+  "comuna": "san_miguel",
+  "nombre_documento": "3163_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel",
+  "archivo": "san_miguel_3163_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.163.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU 2",
+   "ZU-2",
+   "ZU2"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\n\r\ni\r\n\r\nD E L A R E P U B L I C A D E CHILE\r\n\r\nCUERPO\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nN ú m . 41.035.-\r\n\r\nEjemplar del día\r\nAtrasado\r\n\r\nA ñ o C X X X V I I - N° 815.596 ( M R . )\r\n\r\nSUMARIO\r\nNormas Generales\r\n\r\n$200.- (IVA incluido)\r\n$400.- (IVA incluido)\r\n\r\nEdición de 20 páginas\r\nSantiago, Jueves 18 de Diciembre de 2014\r\n\r\ni m p o r t a c i ó n d e a z ú c a r cruda,\r\n\r\nde A r i c a , p r e s e n t a c i ó n del\r\n\r\na z ú c a r refinada grados 1 y 2, y\r\n\r\nmanifiesto\r\n\r\na z ú c a r refinada grados 3 y 4, y\r\n\r\nc a r g a de ingreso en formato\r\n\r\n2014,\r\n\r\nsubestándares\r\n\r\npapel\r\n\r\nQuilpué\r\n\r\nP.5\r\n\r\nmarítimo\r\n\r\nExtracto\r\n\r\nde\r\n\r\nnúmero\r\n\r\nP.8\r\n\r\nde\r\n\r\nresolución\r\n\r\n6.582\r\n\r\nExtracto\r\n\r\nde\r\n\r\nresolución\r\n\r\nn ú m e r o 6.591 exenta, de 2014,\r\n\r\nexenta,\r\n\r\nde\r\n\r\nMunicipalidad\r\n\r\nde\r\n\r\nInstituto de C a p a c i t a c i ó n\r\n\r\nPIO\r\n\r\nT é c n i c a de la P r e v e n c i ó n y\r\nSeguridad L i m i t a d a\r\n\r\nDecreto\r\n\r\nPODER LEGISLATIVO\r\n\r\nnúmero\r\n\r\n376\r\n\r\ne x e n t o . - A p l i c a rebajas d e\r\nderechos\r\nla\r\n\r\nMINISTERIO\r\nD E L INTERIOR Y\r\nSEGURIDAD\r\n\r\nPÚBLICA\r\n\r\nS u b s e c r e t a r í a del Interior\r\nLey\r\n\r\nnúmero\r\n\r\n20.793.-\r\n\r\nInstaura el D í a Nacional del\r\nMedio Ambiente\r\n\r\nP.2\r\n\r\nde\r\n\r\naduana para\r\n\r\nimportación\r\n\r\nde\r\n\r\ntrigo\r\n\r\nMINISTERIO\r\nSEGURIDAD\r\n\r\nEmpresas d e M e n o r T a m a ñ o\r\n\r\nD i r e c c i ó n de Presupuestos\r\nnúmero\r\n\r\n937\r\n\r\nexenta.- F i j a montos de los\r\naranceles por el desarrollo "
+ },
+ {
+  "id": "d0969",
+  "comuna": "san_miguel",
+  "nombre_documento": "3164_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel",
+  "archivo": "san_miguel_3164_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.164.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU 2",
+   "ZU-2",
+   "ZU2"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\n\r\nI\r\n\r\nD E L A REPUBLICA D E CHILE\r\n\r\nCUERPO\r\n\r\nM i n i s t e r i o del Interior y Seguridad P ú b l i c a\r\nLEYES,\r\n\r\nREGLAMENTOS\r\n\r\nN ú m . 41.035.-\r\n\r\nA ñ o C X X X V I I - N ° 815.596 ( M . R . )\r\n\r\nSUMARIO\r\nNormas Generales\r\n\r\nY DECRETOS\r\n\r\nDE\r\n\r\nORDEN\r\n\r\nGENERAL\r\n\r\nEjemplar del día\r\n\r\n$200.- ( I V A incluido)\r\n\r\nE d i c i ó n de 20 p á g i n a s\r\n\r\nAtrasado\r\n\r\n$400.- ( I V A incluido)\r\n\r\nSantiago, Jueves 18 de Diciembre de 2014\r\n\r\ni m p o r t a c i ó n d e a z ú c a r cruda,\r\n\r\nde A r i c a , p r e s e n t a c i ó n del\r\n\r\na z ú c a r refinada grados 1 y 2, y\r\n\r\nmanifiesto\r\n\r\na z ú c a r refinada grados 3 y 4, y\r\n\r\nc a r g a de ingreso en formato\r\n\r\n2014,\r\n\r\nsubestándares\r\n\r\npapel\r\n\r\nQuilpué\r\n\r\nP.5\r\n\r\nmarítimo\r\n\r\nExtracto\r\n\r\nde\r\n\r\nnúmero\r\n\r\nP.8\r\n\r\nde\r\n\r\n6.582\r\n\r\nresolución\r\n\r\nExtracto\r\n\r\nde\r\n\r\nresolución\r\n\r\nn ú m e r o 6.591 exenta, de 2014,\r\n\r\nexenta,\r\n\r\nde\r\n\r\nMunicipalidad\r\n\r\nde\r\n\r\nInstituto de C a p a c i t a c i ó n\r\n\r\nPIO\r\n\r\nT é c n i c a de la P r e v e n c i ó n y\r\nSeguridad L i m i t a d a\r\n\r\nPODER LEGISLATIVO\r\n\r\nDecreto\r\n\r\nnúmero\r\n\r\ne x e n t o . - A p l i c a rebajas d e\r\nderechos\r\nla\r\n\r\nMINISTERIO\r\nD E L INTERIOR Y\r\nSEGURIDAD\r\n\r\nPÚBLICA\r\n\r\nS u b s e c r e t a r í a del Interior\r\nLey\r\n\r\nnúmero\r\n\r\n20.793.-\r\n\r\nInstaura el D í a Nacional del\r\nMedio Ambiente\r\n\r\nP.2\r\n\r\nde\r\n\r\naduana\r\n\r\nimportación\r\n\r\nde\r\n\r\ntrigo\r\n\r\n(tranquillón)\r\n\r\nEmpresas de M e n o r T a m a ñ o\r\n\r\nD i r e c c i ó n de Presupuestos\r\nnúmero\r\n\r\n937\r\n\r\nexenta.- F i j a montos de los\r\n"
+ },
+ {
+  "id": "d0970",
+  "comuna": "san_miguel",
+  "nombre_documento": "515_modifica_plan_regulador_de_la_comuna",
+  "archivo": "san_miguel_515_modifica_plan_regulador_de_la_comuna__Decreto 515 31-03-2009 ok.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 5,
+   "altura_maxima": 1,
+   "agrupamiento": 8,
+   "antejardin": 13,
+   "rasante": 3,
+   "adosamiento": 3,
+   "distanciamiento": 3,
+   "normas_urbanisticas": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 5,
+   "articulado": 59,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Página 12\r\n\r\n(4936)\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMartes 31 de Marzo de 2009\r\n\r\nMunicipalidades\r\nMUNICIPALIDAD DE SAN MIGUEL\r\n\r\nNº 39.326\r\n\r\nel período de observaciones o indicaciones al proyecto de enmienda por parte de la\r\ncomunidad, iniciado el 9 y concluido el 24 de octubre, no hubo presentación alguna\r\n17.\r\n\r\nDecreto Exento N° 1.988, de 5 de noviembre de 2008, que modifica el Decreto Exento\r\nN° 1.320, de 4 de agosto de 2008, en el sentido solicitado por el Asesor Urbanista.\r\n\r\n18.\r\n\r\nOficio Ordinario N° 216/08, de 6 de noviembre de 2008, del Asesor Urbanista de San\r\nMiguel al Secretario Ejecutivo de la Comisión Regional del Medio Ambiente de la Región\r\nMetropolitana, complementando la solicitud sobre la No Pertinencia Ambiental sobre el\r\nproyecto de enmienda al Plan Regulador Comunal de San Miguel.\r\n\r\n19.\r\n\r\nActa de la Sesión Extraordinaria del Concejo, de 7 de noviembre de 2008.\r\n\r\n20.\r\n\r\nAcuerdo N° 1.029 del Concejo, de 7 de noviembre de 2008, en el cual por unanimidad\r\nse aprueba Enmienda al Plan Regulador Comunal, en términos de aumentar de 0,6 a 0,8\r\nel coeficiente de ocupación de suelo para equipamiento clase comercio en la zona\r\ncomprendida entre los ejes de las siguientes vías: Gran Avenida José Miguel Carrera por\r\nel Poniente; calle Carlos Walker Martínez y su prolongación contemplada en el actual\r\nPlan Regulador Comunal, por el Oriente; Avenida Lo Ovalle por el Sur y fondos de\r\npredios colindantes a la calle Tannenbaum, por el Norte conforme a la "
+ },
+ {
+  "id": "d0971",
+  "comuna": "san_miguel",
+  "nombre_documento": "sn_plan_regulador_comunal",
+  "archivo": "san_miguel_sn_plan_regulador_comunal__ME_20memoria_20explicativa_20nov.2016.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 152,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 7,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, zonificacion, usos_de_suelo, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad\r\nde San Miguel\r\n\r\nMEMORIA EXPLICATIVA\r\nModificación Plan Regulador Comunal de San Miguel\r\nNoviembre 2016\r\n\r\n\fPRC SM 2015\r\n\r\nMEMORIA EXPLICATIVA\r\n\r\nÍNDICE\r\nI.\r\nII.\r\nIII.\r\nIV.\r\nIV.1.\r\nV.\r\nV.1.\r\nV.2.\r\nV.3.\r\nVI.\r\nVI.1.\r\nVI.1.1.\r\nVI.1.2.\r\nVI.2.\r\nVI.3.\r\nVI.4.\r\nVI.4.1.\r\nVI.4.2.\r\nVI.4.3.\r\nVI.4.4.\r\nVI.4.5.\r\nVI.4.6.\r\nVI.4.7.\r\nVI.4.8.\r\nVI.4.9.\r\nVI.4.10.\r\nVI.5.\r\nVI.5.1.\r\nVI.5.2.\r\nVI.5.3.\r\nVI.5.4.\r\nVII.\r\nVII.1.\r\nVII.1.1.\r\nVII.1.2.\r\nVII.2.\r\nVII.3.\r\nVIII.\r\nIX.\r\nIX.1.\r\nIX.2\r\nIX.3.\r\nIX.4.\r\nIX.5.\r\nX.\r\nXI.\r\nXII.\r\nXIII.\r\n\r\nPágina 2 de 152\r\n\r\nINTRODUCCIÓN\r\nOBJETIVOS DE LA MODIFICACIÓN\r\nMETODOLOGÍA\r\nPARTICIPACIÓN CIUDADANA\r\nSistematización del proceso de participación ciudadana temprana\r\nANTECEDENTES\r\nAntecedentes y análisis del territorio comunal y su rol en el Gran Santiago\r\nAntecedentes y análisis del marco normativo vigente\r\nAntecedentes Históricos de la comuna y ocupación histórica del suelo\r\nESTUDIO Y DIAGNÓSTICO COMUNAL\r\nSistema Medio Ambiental\r\nSistema Natural\r\nMedio Construido\r\nSistema socio-demográfico\r\nSistema socio-económico\r\nSistema urbano\r\nEstructura física de la Comuna\r\nLímites y áreas urbanas Vigentes\r\nUsos de suelo y disponibilidad de suelo\r\nÁreas Verdes\r\nEquipamiento urbano\r\nCaracterización de la edificación existente\r\nPatrimonio Histórico y Cultural\r\nInfraestructura de transporte y vialidad estructurante\r\nInfraestructura sanitaria\r\nInfraestructura Energética\r\nGrado de Consolidación del PRC vigente\r\nDensidades\r\nUsos de suelos\r\nSistema de agrupamiento\r\nEnsanches y ap"
+ },
+ {
+  "id": "d0285",
+  "comuna": "san_pedro",
+  "nombre_documento": "atribuciones_esenciales",
+  "archivo": "san_pedro_atribuciones_esenciales__99eaa836-a295-4f2b-99c5-f75f56e5f21c.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 98,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "atribuciones"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 20
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "respuesta tipo sobre atribuciones/potestades municipales, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nFin Vigencia\r\nId Norma\r\nUltima Modificación\r\nURL\r\n\r\n:Decreto con Fuerza de Ley 1\r\n:26-07-2006\r\n:09-05-2006\r\n:MINISTERIO DEL INTERIOR; SUBSECRETARÍA DE DESARROLLO\r\nREGIONAL Y ADMINISTRATIVO\r\n:FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA\r\nLEY Nº 18.695, ORGANICA CONSTITUCIONAL DE MUNICIPALIDADES\r\n:Última Versión\r\nDe : 01-03-2018\r\n:01-03-2018\r\n:26-07-2020\r\n:251693\r\n:26-DIC-2018 1\r\n:https://www.leychile.cl/N?i=251693&f=2018-03-01&p=\r\n\r\nFIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA\r\nLEY Nº 18.695, ORGANICA CONSTITUCIONAL DE MUNICIPALIDADES\r\nD.F.L. Núm. 1.- Santiago, 9 de Mayo de 2006.- Visto:\r\nLo dispuesto en el inciso 5º y siguientes del artículo 64\r\nde la Constitución Política de la República, cuyo texto\r\nrefundido, coordinado y sistematizado se fijó por Decreto\r\nSupremo Nº 100, de 2005, del Ministerio Secretaría General\r\nde la Presidencia.\r\nDecreto con fuerza de ley:\r\nFíjase el siguiente texto refundido, coordinado y\r\nsistematizado de la Ley Nº 18.695, Orgánica Constitucional\r\nde Municipalidades:\r\n\r\nTITULO I\r\nDE LA MUNICIPALIDAD\r\n\r\nPárrafo 1º\r\nNaturaleza y constitución\r\n\r\nArtículo 1º.- La administración\r\nlocal de cada comuna o agrupación\r\nde comunas que determine la ley\r\nreside en una municipalidad.\r\n\r\nD.F.L 1-19.704\r\nART. 1º\r\nD.O. 03.05.2002\r\n\r\nLas municipalidades son\r\ncorporaciones autónomas de\r\nderecho público, con personalidad\r\njurídica y patrimonio "
+ },
+ {
+  "id": "d0286",
+  "comuna": "santa_maria",
+  "nombre_documento": "atribuciones_esenciales",
+  "archivo": "santa_maria_atribuciones_esenciales__PLANO REGULADOR COMUNAL 01.12.1982.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "atribuciones"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "respuesta tipo sobre atribuciones/potestades municipales, sin normas urbanisticas (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0287",
+  "comuna": "santa_maria",
+  "nombre_documento": "consulta_publica_sobre_articulo_28_ley_21078",
+  "archivo": "santa_maria_consulta_publica_sobre_articulo_28_ley_21078__Dec_1676_Aprueba_OrdenanzaParticipacion2022_cp.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 16,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "sierra_gorda_c2b912a89e",
+  "comuna": "sierra_gorda",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\sierra_gorda_ordenanza_ordenanza_del_plan_regulador_de_la_comuna_de_sierra_gorda__Ordenanza_Plan_Regulador_Sierra_Gorda_2001.pdf",
+  "nombre": "sierra_gorda_ordenanza_ordenanza_del_plan_regulador_de_la_comuna_de_sierra_gorda__Ordenanza_Plan_Regulador_Sierra_Gorda_2001.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 55,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:32:26",
+  "fin": "2026-07-14T21:34:17",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        21,
+        41
+      ]
+    ],
+    "paginas_utiles": 21,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Cap.IV Art.18-20. Art.18 Macro-Areas y Zonas (AEC,AC,AU-1..6,AE-1..7) pag22; Art.19 zonificacion por localidad pag22-23; Art.20 Condiciones de Uso del Suelo y Normas Especificas + Condiciones de subdivision y edificacion zona por zona: AC pag25-27 (superficie predial min, frente predial, %ocupacion suelo, agrupamiento, distanciamiento, altura max, antejardin, cierro, estacionamientos), AU-1 pag27-29, AU-2 pag29-31, AU-3 pag31-33, AU-4 pag32-34, AU-5 pag34-36, AU-6 pag35-37, AE-1 pag37-38, AE-7 pag40-41 (AE-2 a AE-6 sin tabla numerica, remiten a otros articulos). 9 tablas completas. Cap.V (vialidad/estacionamientos pag43-53) tiene tablas de anchos de via, no son normas de zona, excluidas."
+  }
+}

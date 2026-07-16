@@ -1,0 +1,25 @@
+{
+  "id": "nacimiento_7aa90ac7cd",
+  "comuna": "nacimiento",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nacimiento_70_apruebese_modificacion_plan_regulador_comunal_de_nacimiento_ano_2004__5992_modificacion2004.pdf",
+  "nombre": "nacimiento_70_apruebese_modificacion_plan_regulador_comunal_de_nacimiento_ano_2004__5992_modificacion2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:04:49",
+  "fin": "2026-07-14T21:07:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        5
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Incorpora zonas nuevas Z-6 (pag.4), Z-7 y Z-8 (pag.5) con tabla completa: usos permitidos/prohibidos, superficie predial minima, COS, agrupamiento, altura maxima, antejardin."
+  }
+}

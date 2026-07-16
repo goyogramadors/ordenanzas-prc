@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_13bc603d72",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_6440_sanciona_acuerdo_del_concejo_municipal_no_3750_del_2012_que_aprueba_plano_s__Exportar.pdf",
+  "nombre": "lo_barnechea_6440_sanciona_acuerdo_del_concejo_municipal_no_3750_del_2012_que_aprueba_plano_s__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:01:23",
+  "fin": "2026-07-14T21:02:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "sanciona acuerdo que aprueba plano seccional (precisión trazado vía), sin cuadro normativo"
+  }
+}

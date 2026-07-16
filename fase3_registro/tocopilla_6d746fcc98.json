@@ -1,0 +1,20 @@
+{
+  "id": "tocopilla_6d746fcc98",
+  "comuna": "tocopilla",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tocopilla_76_aprueba_mejoramiento_acustico_del_eje_central_barrera_de_mitigacion_y_cambios__Exportar.pdf",
+  "nombre": "tocopilla_76_aprueba_mejoramiento_acustico_del_eje_central_barrera_de_mitigacion_y_cambios__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:32:39",
+  "fin": "2026-07-14T21:33:37",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "aprueba seccional modificatorio 'mejoramiento acústico eje central' con cambio de uso de suelo; toda la documentación (plano, memoria) se archiva como adjunto externo, sin cuadro normativo incluido en este PDF"
+  }
+}

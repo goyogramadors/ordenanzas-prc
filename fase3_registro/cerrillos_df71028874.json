@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_df71028874",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cerrillos_decreto_exento_946_postergace_la_zona_c_del_plan_regulador_comunal_barrio_buzeta__202-0946-2019.pdf",
+  "nombre": "cerrillos_decreto_exento_946_postergace_la_zona_c_del_plan_regulador_comunal_barrio_buzeta__202-0946-2019.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:10:38",
+  "fin": "2026-07-15T08:11:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Exento 202/946/2019 (02.08.2019), I.Municipalidad de Cerrillos. Postergacion por 3 meses de permisos de edificacion en Zona C (Barrio Buzeta) del PRC de Santiago 1990 vigente para Cerrillos, mientras se aprueba Enmienda N1. Menciona umbrales existentes (ocupacion suelo >60%, altura continuidad >12m, rasantes >60, estacionamiento <2/vivienda) como CRITERIO de postergacion, no como tabla de normas nueva. Sin cuadro de normas urbanisticas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_7d5bf4ae8f",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_2017_prorroga_de_congelamiento_del_area_de_estudio_del_proyecto_modificacion_al___2013-05-D-2017.pdf",
+  "nombre": "rancagua_2017_prorroga_de_congelamiento_del_area_de_estudio_del_proyecto_modificacion_al___2013-05-D-2017.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:13:04",
+  "fin": "2026-07-15T12:14:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Alcaldicio (16-may-2013, 5p, Diario Oficial 40.572): declara prórroga por 6 meses del congelamiento (Art.117 LGUC) de un polígono A-B-C-D-E-F-G-H-I-J-K-L-M-N-A del sector Ex Ruta 5 Sur (Modificación PRC N20), para postergar permisos de subdivisión/loteo/urbanización mientras se estudia la modificación. p.5 trae plano con nombres de zona (EX1, EX2, AR-1, SM1, IE) pero SIN cuadro numérico de normas — es solo congelamiento administrativo, no fija normas."
+  }
+}

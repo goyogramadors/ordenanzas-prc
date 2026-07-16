@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_41e070bae6",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_16-Ord.N853-del-23ago2021-de-MMA-resp-Modif.N11-al-PR-no-necesita-EAE.pdf",
+  "nombre": "las_condes_16-Ord.N853-del-23ago2021-de-MMA-resp-Modif.N11-al-PR-no-necesita-EAE.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:28:31",
+  "fin": "2026-07-15T08:31:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Providencia 4084 (24.08.2021), Oficina de Partes Municipalidad de Las Condes: hoja de ruta interna de tramitacion (routing sheet) de un Ord. del Ministerio de Medio Ambiente sobre Modificacion N11 al PR (no necesita EAE). Solo formulario administrativo de derivacion interna, sin contenido normativo."
+  }
+}

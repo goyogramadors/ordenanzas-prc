@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_91b4aed481",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.OFICIAL.3632.22MAY2018.pdf",
+  "nombre": "las_condes_D.OFICIAL.3632.22MAY2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:59:22",
+  "fin": "2026-07-14T16:02:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DO 3632 (22-05-2018): extracto de inicio de EVALUACION AMBIENTAL ESTRATEGICA de la Modificacion N10. p2 seccion 'B.3 Objeto de evaluacion' fija valores EN PROSA: area EAb3 (Edificacion Aislada Baja N3, densidad baja, altura max 3 pisos / 10,5 m) -> se crea la subarea EAb3' que adopta la normativa del area EAm2 (Edificacion Aislada Media N2, densidad media, altura max 5 pisos / 17,5 m). CONFIANZA MEDIA: es el objeto a evaluar, no el decreto final aprobatorio. Buscar si existe despues el decreto definitivo de la Modificacion N10 con el cuadro ya aprobado. p1 y p3 sin valores."
+  }
+}

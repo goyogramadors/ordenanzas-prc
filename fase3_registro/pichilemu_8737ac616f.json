@@ -1,0 +1,41 @@
+{
+  "id": "pichilemu_8737ac616f",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_3442_aprueba_enmienda_al_plan_regulador_comunal_de_pichilemu_sector_centro__sector_centro_2023.pdf",
+  "nombre": "pichilemu_3442_aprueba_enmienda_al_plan_regulador_comunal_de_pichilemu_sector_centro__sector_centro_2023.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:59:37",
+  "fin": "2026-07-15T08:06:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        7
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        17,
+        18
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PICHILEMU: Decreto 3442, aprueba Enmienda al PRC, Sector Centro: crea zonas A2-SC y B2-SC, subzona A5-spv, y modifica 2 indices de Zona B1. NUCLEO en p15 (escaneada, Ordenanza formal completa en una sola pagina) y p17-18 (texto, misma Ordenanza en el Diario Oficial): formato abreviado 'excepto las siguientes', solo lista los 3-4 parametros que cambian (densidad, CC, COS, antejardin) respecto a la zona base, heredando el resto implicitamente. Complementan p7 (tabla Zona B1: normal vs propuesta, TODOS los campos: densidad, CC, COS, altura, rasante, agrupamiento, frente minimo, antejardin, cierros, predial minimo, ancho faja vial), p9 (Zona A5 vs A5-ABCDEF), p12 (Zona A2 vs A2-sc), p14 (Zona B2 vs B2-sc) -- estas 4 son de la MEMORIA EXPLICATIVA (valor referencial, no operativo, pero tienen el cuadro completo de cada zona, util para completar campos que la ordenanza no repite). RECOMENDACION para la fase siguiente: usar p15 y p17-18 como fuente normativa autoritativa, p7-9-12-14 como respaldo de completitud."
+  }
+}

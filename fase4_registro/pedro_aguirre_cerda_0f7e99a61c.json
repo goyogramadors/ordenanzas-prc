@@ -1,0 +1,28 @@
+{
+  "id": "pedro_aguirre_cerda_0f7e99a61c",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pedro_aguirre_cerda_14530_modifica_ordenanza_del_plan_regulador_comuna_de_la_cisterna__diario 10.11.18 plan reg 3 (1) La Cisterna.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Dec.14530/2018 (DO) Municipalidad de PAC modifica el art.13 (Estacionamientos) de la Ordenanza del PLAN REGULADOR COMUNAL DE LA CISTERNA -legitimamente vigente para la comuna de PAC desde 1983 (Dec.110/1983 Muni La Cisterna), NO es error de comuna ajena, esta confirmado en el propio texto: 'la Ordenanza del PRC de La Cisterna, vigente para la comuna de Pedro Aguirre Cerda'. Agrega: 'para el uso vivienda se exige 1 estacionamiento por cada vivienda'. Norma puntual de estacionamientos, no de zona (COS/CC/altura/usos).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:49:54",
+  "fin": "2026-07-15T17:54:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\pedro_aguirre_cerda\\pedro_aguirre_cerda_14530_estacionamientos.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "PRC-La-Cisterna-vigente-en-PAC"
+    ],
+    "confianza": "ALTA",
+    "nota": "Norma puntual de estacionamientos (1 por vivienda) aplicable a todas las zonas del PRC de La Cisterna vigente en PAC; confirmado que NO es error de comuna ajena, el propio decreto lo aclara. No toca COS/CC/altura/usos. Verificado contra nota_fase3: coincide."
+  }
+}

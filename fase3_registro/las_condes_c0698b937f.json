@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_c0698b937f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_LAMINA-1-EDIFICACION-28Febrero2010.pdf",
+  "nombre": "las_condes_LAMINA-1-EDIFICACION-28Febrero2010.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:54:27",
+  "fin": "2026-07-14T20:56:01",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA: PLANO DE EDIFICACION completo de la comuna (MPRCLC-2010 Modificacion N.8, lamina 1). Zonificacion grafica de toda la comuna por tipo de edificacion (EAa1-4, EAm1-4, EAb1-4, Ee1-5). Solo simbologia grafica, sin cuadro de parametros normativos (esos estan en la Ordenanza Local, no en el plano). Verificado por render."
+  }
+}

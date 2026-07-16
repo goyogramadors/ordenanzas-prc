@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_342a83030a",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\CU1528~1.PDF",
+  "nombre": "CU1528~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:07:12",
+  "fin": "2026-07-15T08:09:04",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "CURACAUTIN: NO ES UN DOCUMENTO PRC. Decreto Exento 2.991 (30-oct-2023, 3p, escaneado sin OCR): 'Modifica Ordenanza para el Funcionamiento y Derechos Municipales por Contraprestacion de Modulos Feria de Abasto' (feria libre municipal: locales de artesania, cocinerias, comerciales). No es planificacion territorial. Verificado visualmente."
+  }
+}

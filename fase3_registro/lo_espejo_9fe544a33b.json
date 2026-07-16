@@ -1,0 +1,20 @@
+{
+  "id": "lo_espejo_9fe544a33b",
+  "comuna": "lo_espejo",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_espejo_buenas_tardes_se_solicita_el_plano_y_la_ordenanza_del_plan_regulador_que_rige_a___9df467f5-3706-42dc-80ba-b65eec5577a1.pdf",
+  "nombre": "lo_espejo_buenas_tardes_se_solicita_el_plano_y_la_ordenanza_del_plan_regulador_que_rige_a___9df467f5-3706-42dc-80ba-b65eec5577a1.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:35:32",
+  "fin": "2026-07-15T08:38:34",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Resolucion N181/2099/2020, 11-ago-2020, Secretaria Municipal de Lo Espejo: ACCEDE A LA ENTREGA DE INFORMACION SOLICITADA (Ley de Transparencia N20.285) en respuesta a solicitud ciudadana MU145T0002099 que pedia 'el plano y la ordenanza del Plan Regulador que rige a la comuna de Lo Espejo en la actualidad'. Es una resolucion administrativa de acceso a informacion, NO es un documento del PRC en si -- no contiene planos ni tablas de normas. Verificado visualmente 2 de 2 paginas."
+  }
+}

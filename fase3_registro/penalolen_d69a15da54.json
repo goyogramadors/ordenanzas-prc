@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_d69a15da54",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_r2.pdf",
+  "nombre": "penalolen_Zona_r2.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:12:22",
+  "fin": "2026-07-14T21:14:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Extracto Zona R2 del PRC Peñalolen: usos permitidos (residencial, equipamiento, transporte, actividades productivas, espacio publico, area verde) y usos prohibidos detallados por clase/actividad (moteles, cementerios, zoologicos, hipodromos, discotecas, etc). Solo usos de suelo, sin COS/CC/altura/predial en este extracto. Tabla en TEXTO."
+  }
+}

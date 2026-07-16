@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_e83ed125c9",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\rancagua_decreto_1495_expopiacion_para_efectos_de_dar_cumplimiento_a_las_normas_del_plan___2016-04-D-1495.pdf",
+  "nombre": "rancagua_decreto_1495_expopiacion_para_efectos_de_dar_cumplimiento_a_las_normas_del_plan___2016-04-D-1495.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:13:50",
+  "fin": "2026-07-15T12:16:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento1495 completo (4p): expropiacion faja terreno calle Abanderado Jose Ignacio Ibieta para ensanche vereda. Informe expropiacion, indemnizacion, medidas y deslindes, sin tabla de normas urbanisticas por zona."
+  }
+}

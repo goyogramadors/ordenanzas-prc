@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_f8498aaf09",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_decreto_alcaldicio_200_promulgase_el_acuerdon_30_del_concejo_municipal_mediante___decreto_200.pdf",
+  "nombre": "estacion_central_decreto_alcaldicio_200_promulgase_el_acuerdon_30_del_concejo_municipal_mediante___decreto_200.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:39:19",
+  "fin": "2026-07-14T15:41:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ESTACION CENTRAL: Decreto exento 200 (2018, 1p) que PROMULGA el Acuerdo N30 del Concejo, el cual aprueba la Modificacion N2 al PRC de Santiago vigente para Estacion Central (sectores Quinta Normal y Alameda Poniente). Solo el acto de promulgacion: no transcribe ninguna norma. Cero señales urbanisticas y cero delatores. El contenido de la Modificacion N2 esta en otro documento."
+  }
+}

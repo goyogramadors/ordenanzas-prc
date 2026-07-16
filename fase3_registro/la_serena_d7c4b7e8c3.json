@@ -1,0 +1,25 @@
+{
+  "id": "la_serena_d7c4b7e8c3",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1192_rectificase_el_articulo_18_de_la_ordenanza_local_del_plan_regulador_comunal__doc_34_08082023103635.pdf",
+  "nombre": "la_serena_1192_rectificase_el_articulo_18_de_la_ordenanza_local_del_plan_regulador_comunal__doc_34_08082023103635.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:25:52",
+  "fin": "2026-07-15T08:27:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        6
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 1192, 19-may-2023: RECTIFICA ARTICULO 18 de la Ordenanza Local del PRC de La Serena (Decreto 1302/2020). El Art 18 esta en Capitulo IV 'Declaratorias de Utilidad Publica' y contiene una tabla real (pagina 6) de Parques Comunales PC1-PC8 con Sector y Ubicacion, mas texto de desafectacion de un Bien Nacional de Uso Publico (area verde) en Circunvalacion Alvarez Zorrilla. ADVERTENCIA: esta tabla es de ubicacion de parques/declaratoria de utilidad publica, NO de parametros normativos de edificacion (no trae usos de suelo, superficie predial, COS, coef. constructibilidad, altura, agrupamiento, antejardin, densidad, distanciamiento ni rasantes). Confianza MEDIA porque no calza estrictamente con los tipos de norma buscados pero se incluye por regla de rango generoso; fase de extraccion debe evaluar si corresponde incluirla. Verificado visualmente las 7 paginas completas del decreto."
+  }
+}

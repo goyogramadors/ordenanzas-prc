@@ -1,0 +1,26 @@
+{
+  "id": "la_serena_d7c4b7e8c3",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1192_rectificase_el_articulo_18_de_la_ordenanza_local_del_plan_regulador_comunal__doc_34_08082023103635.pdf",
+  "rangos": [
+    [
+      6,
+      6
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto 1192, 19-may-2023: RECTIFICA ARTICULO 18 de la Ordenanza Local del PRC de La Serena (Decreto 1302/2020). El Art 18 esta en Capitulo IV 'Declaratorias de Utilidad Publica' y contiene una tabla real (pagina 6) de Parques Comunales PC1-PC8 con Sector y Ubicacion, mas texto de desafectacion de un Bien Nacional de Uso Publico (area verde) en Circunvalacion Alvarez Zorrilla. ADVERTENCIA: esta tabla es de ubicacion de parques/declaratoria de utilidad publica, NO de parametros normativos de edificacion (no trae usos de suelo, superficie predial, COS, coef. constructibilidad, altura, agrupamiento, antejardin, densidad, distanciamiento ni rasantes). Confianza MEDIA porque no calza estrictamente con los tipos de norma buscados pero se incluye por regla de rango generoso; fase de extraccion debe evaluar si corresponde incluirla. Verificado visualmente las 7 paginas completas del decreto.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:15:46",
+  "fin": "2026-07-15T14:17:11",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_serena\\la_serena_1192_rectifica_art18_parques_pag6.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "Confirmado: tabla de Parques Comunales (PC1-PC8) y desafectacion puntual, NO norma de edificacion (sin usos/COS/CC/altura/agrupamiento/antejardin/densidad). Coincide exactamente con nota_fase3 (confianza MEDIA justificada, incluido solo por rango generoso)."
+  }
+}

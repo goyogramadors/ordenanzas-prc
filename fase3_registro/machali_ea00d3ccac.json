@@ -1,0 +1,25 @@
+{
+  "id": "machali_ea00d3ccac",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_1101_aprueba_modificacion_del_plan_regulador_comunal_de_machali_especificamente___Exportar.pdf",
+  "nombre": "machali_1101_aprueba_modificacion_del_plan_regulador_comunal_de_machali_especificamente___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:04:26",
+  "fin": "2026-07-14T21:05:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA MIXTA: pág 2 es imagen (chars_por_pagina bajo) que contiene cuadro completo art. 4.1-64 Zona ZU-8 (usos permitidos/prohibidos, superficie predial mín, densidad bruta máx, COS, coef. constructibilidad, sistema agrupamiento, altura máx, antejardín) + condiciones generales y disposiciones especiales"
+  }
+}

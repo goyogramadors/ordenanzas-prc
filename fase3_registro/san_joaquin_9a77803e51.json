@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_9a77803e51",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_352_texto_aprobatorio_de_modificacion_al_plan_regulador_comunal_de_san_joaquin_v__DO10-03-2016.pdf",
+  "nombre": "san_joaquin_352_texto_aprobatorio_de_modificacion_al_plan_regulador_comunal_de_san_joaquin_v__DO10-03-2016.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:53:23",
+  "fin": "2026-07-15T12:54:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Texto aprobatorio modificacion PRC San Joaquin 'Vias de Acceso a Centro Cultural' (Diario Oficial 10-mar-2016). Solo reasigna superficies de vialidad/areas verdes y cuadro de tramos de via (ancho minimo L.O.) en Poblacion Joaquin Edwards Bello. Tabla de vialidad, fuera de alcance por regla de exclusion (no es norma de zona: COS/CC/altura)."
+  }
+}

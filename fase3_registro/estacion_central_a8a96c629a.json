@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_a8a96c629a",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_91249ff4d291909bb640c5cb62766ea4.pdf",
+  "nombre": "estacion_central_91249ff4d291909bb640c5cb62766ea4.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:39:19",
+  "fin": "2026-07-14T15:41:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ESTACION CENTRAL: Decreto Alcaldicio 710/2025 (2p) que solo ACLARA ANTECEDENTES TECNICOS de la planimetria del proyecto de actualizacion del PRC (complementa al decreto 709). Tramite. Cero señales urbanisticas y cero delatores de tabla-imagen. PDF nativo con firma electronica avanzada."
+  }
+}

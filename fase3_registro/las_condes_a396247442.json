@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_a396247442",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.1022-D.O-18feb2017.pdf",
+  "nombre": "las_condes_dec.1022-D.O-18feb2017.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:00:34",
+  "fin": "2026-07-14T20:57:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 1022 (14-02-2017, DO 18-02-2017): DEROGA los numerales 1.2 a 1.31+ del Decreto Alcaldicio 966/2014, a raiz del Dictamen 85.862/2016 de Contraloria que cuestiono su juridicidad, e INICIA nuevos estudios tecnicos para una modificacion del PRC. No fija ningun valor de norma nueva, solo deroga y reinicia proceso. OJO: el decreto 966/2014 (no esta en esta cola) tenia normas que fueron REVOCADAS por este; si aparece en la cola, verificar su vigencia."
+  }
+}

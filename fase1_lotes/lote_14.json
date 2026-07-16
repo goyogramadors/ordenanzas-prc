@@ -1,0 +1,924 @@
+[
+ {
+  "id": "d0131",
+  "comuna": "la_florida",
+  "nombre_documento": "112_complementa_decreto_exento_2514_de_fecha_20_de_enero_de_2016_que_promulga_la",
+  "archivo": "la_florida_112_complementa_decreto_exento_2514_de_fecha_20_de_enero_de_2016_que_promulga_la__PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_112.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "densidad": 4,
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "usos_de_suelo": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (constructibilidad, densidad, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.966\r\n\r\n|\r\n\r\nJueves 25 de Enero de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1341325\r\n\r\nMUNICIPALIDAD DE LA FLORIDA\r\n\r\nCOMPLEMENTA DECRETO N° 3.514 EXENTO, DE 2016\r\nNúm. 112 exento.- La Florida, 11 de enero de 2018.\r\nVistos:\r\nEl ordinario interno Nº 13 de Alcalde a Concejo Municipal que solicita aprobación del\r\nproyecto de enmienda Nº 11, de fecha 29 de enero de 2016; el ordinario Nº 70 de Secpla a\r\nAlcalde, de fecha 29 de enero de 2016, y sus adjuntos: memoria explicativa y texto aprobatorio;\r\ncertificado emitido por Secretaría Municipal, de fecha 7 de septiembre de 2016, con el acuerdo\r\nNº 1.375 que tomó el Concejo Municipal y da cuenta de la Aprobación de la Enmienda Nº 11; el\r\ndecreto exento Nº 3.514, de fecha 20 de septiembre de 2016, que promulga la Enmienda Nº 11 al\r\nPlan Regulador Comunal y su publicación en Diario Oficial con fecha 29 de septiembre de 2016;\r\nlos artículos 42º, 43º y 44º de la Ley General de Urbanismo y Construcciones y artículo 2.1.13 de\r\nla Ordenanza General de Urbanismo y Construcciones; el ordinario Nº 13, de fecha 28 de\r\ndiciembre de 2017, de Asesoría Urbana; la ley Nº 18.575 Orgánica Constitucional de Bases\r\nGenerales de la Administración del Estado; lo previsto en la ley Nº 19.880, sobre Bases de los\r\nProcedimientos Administrativos que rigen los actos de los Ór"
+ },
+ {
+  "id": "d0132",
+  "comuna": "la_florida",
+  "nombre_documento": "374_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal",
+  "archivo": "la_florida_374_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 5,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (agrupamiento, normas_urbanisticas, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 374 EXENTO, LA FLORIDA (2011)\r\n\r\nDecreto 374 EXENTO\r\nASIGNA NUEVAS NORMAS URBANÍSTICAS\r\nMUNICIPALIDAD DE LA FLORIDA\r\nFecha Publicación: 17-MAR-2011 | Fecha Promulgación: 26-ENE-2011\r\nTipo Versión: Última Versión De : 30-AGO-2012\r\nUltima Modificación: 30-AGO-2012 Decreto 2792 EXENTO\r\nUrl Corta: https://bcn.cl/3oedt\r\n\r\nASIGNA NUEVAS NORMAS URBANÍSTICAS\r\nLa Florida, 26 de enero de 2011.- Hoy se dictó lo que\r\nsigue:\r\nNúm. 374 exento.- Teniendo presente:\r\na)\r\nLo dispuesto en el artículo 59 de la Ley General de\r\nUrbanismo y Construcciones, respecto a fijar nuevas normas\r\nurbanísticas a las áreas donde hayan caducado las\r\ndeclaratorias a utilidad pública.\r\nb)\r\nEl Plan Regulador Comunal de La Florida aprobado por\r\nresolución Nº 47 de fecha 6 de diciembre de 2000 del\r\nGobierno Regional Metropolitano, publicado en el Diario\r\nOficial el 17 de agosto de 2001, y sus rectificaciones,\r\nenmiendas y modificaciones posteriores.\r\nc)\r\nEl ordinario Nº 10 de fecha 11 de agosto de 2010, que\r\nremite información a la SEREMI con documentación\r\nrequerida, sobre aplicación del artículo 59 de la L.G.U.O.\r\nd)\r\nEl informe favorable de la Secretaría Regional\r\nMetropolitana de Vivienda y Urbanismo Nº 88 de fecha, 10 de\r\nenero de 2011.\r\nVistos: Las facultades que me confiere la ley Nº18.695\r\nOrgánica Constitucional de Municipalidades,\r\nDecreto:\r\n\r\nNOTA\r\nDecreto 2792 EXENTO,\r\nM. DE LA FLORIDA\r\na)\r\nD.O. 30.08.2012\r\n\r\nNOTA\r\nLa letra a) del Decreto 2792 Exento, Municipalidad de\r\nLa Florida, publicado el 3"
+ },
+ {
+  "id": "d0133",
+  "comuna": "la_florida",
+  "nombre_documento": "necesito_informacion_y_documentacion_respecto_a_1_plan_de_desarrollo_comunal_act",
+  "archivo": "la_florida_necesito_informacion_y_documentacion_respecto_a_1_plan_de_desarrollo_comunal_act__ORD_233_DJ_censurado.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0644",
+  "comuna": "la_florida",
+  "nombre_documento": "1280_revoca_declaratorias_de_utilidad_publica_de_las_nuevas_afectaciones_de_acue",
+  "archivo": "la_florida_1280_revoca_declaratorias_de_utilidad_publica_de_las_nuevas_afectaciones_de_acue__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1280 EXENTO, LA FLORIDA (2015)\r\n\r\nDecreto 1280 EXENTO\r\nREVOCA DECLARATORIAS DE UTILIDAD PÚBLICA DE LAS NUEVAS\r\nAFECTACIONES, DE ACUERDO AL PLAN REGULADOR COMUNAL VIGENTE\r\nMUNICIPALIDAD DE LA FLORIDA\r\nPublicación: 28-ABR-2015 | Promulgación: 24-ABR-2015\r\nVersión: Texto Original De : 28-ABR-2015\r\nInicio Vigencia: 28-ABR-2015\r\nFin Vigencia: 07-JUN-2015\r\nUrl Corta: https://bcn.cl/3qa6z\r\n\r\nREVOCA DECLARATORIAS DE UTILIDAD PÚBLICA DE LAS NUEVAS AFECTACIONES, DE ACUERDO AL\r\nPLAN REGULADOR COMUNAL VIGENTE\r\nNúm. 1.280 exento.- La Florida, 24 de abril de 2015.\r\nVistos:\r\n1. Lo dispuesto en el artículo transitorio de la ley 20.791 publicada en el\r\nDiario Oficial el 29 de octubre de 2014 y que instruye respecto a fijar nuevas\r\nafectaciones -sin plazos de caducidad- a los terrenos consultados en los planes\r\nreguladores comunales destinados a circulación, plazas y parques, incluidos sus\r\nensanches en áreas urbanas.\r\n2. Lo dispuesto en circulares: DDU Nº 277, circular ord. Nº 575 de fecha 29 de\r\noctubre de 2014, DDU Nº 279, circular ord. Nº 654 de fecha 18 diciembre de 2014.\r\n3. El Plan Regulador Comunal de La Florida aprobado por resolución Nº 47 de\r\nfecha 6 de diciembre de 2000 del Gobierno Regional Metropolitano, publicado en el\r\nDiario Oficial el 17 de agosto de 2001 y sus rectificaciones, enmiendas y\r\nmodificaciones posteriores.\r\n4. El decreto Nº 129 de 29 de agosto de 2014; el decreto exento Nº 533 de 198\r\nde febrero de 2015, en general, lo dispuesto en la ley Nº 19.880, sobre "
+ },
+ {
+  "id": "d0645",
+  "comuna": "la_florida",
+  "nombre_documento": "1301_enmienda_al_plan_regulador_comunal_zona_esp_2_terreno_hospital_de_la_florid",
+  "archivo": "la_florida_1301_enmienda_al_plan_regulador_comunal_zona_esp_2_terreno_hospital_de_la_florid__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "altura_maxima": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1301 EXENTO, LA FLORIDA (2010)\r\n\r\nDecreto 1301 EXENTO\r\nPROMULGA ENMIENDA AL PLAN REGULADOR COMUNAL \"ZONA ESP-2,\r\nTERRENO HOSPITAL DE LA FLORIDA\"\r\nMUNICIPALIDAD DE LA FLORIDA\r\nFecha Publicación: 31-MAR-2010 | Fecha Promulgación: 12-MAR-2010\r\nTipo Versión: Única De : 31-MAR-2010\r\nUrl Corta: https://bcn.cl/2yih3\r\n\r\nPROMULGA ENMIENDA AL PLAN REGULADOR COMUNAL \"ZONA ESP-2, TERRENO HOSPITAL DE LA\r\nFLORIDA\"\r\nNúm. 1.301 exento.- La Florida, 12 de marzo de 2010.- Vistos y Considerando:\r\nEl certificado de Secretaria Municipal de fecha 19 agosto de 2009, que\r\ntranscribe Acuerdo Nº 218 adoptado por en Concejo Municipal en Sesión Ordinaria Nº\r\n28 del 19 de agosto de 2009, que aprueba el proyecto Modificación Nº 8, Enmienda al\r\nPlan Regulador Comunal zona ESP-2, proyecto Hospital La Florida;\r\nEl decreto exento Nº 2.196, de fecha 21 de agosto de 2009, que declara aprobado\r\nel estudio y da inicio al proceso de conocimiento, difusión y participación de la\r\ncomunidad establecido en la normativa vigente;\r\nCertificado de Secretaría Municipal de fecha 2 de septiembre de 2009, que da\r\ncuenta del envío, con fecha 31 de agosto de 2009, de 92 cartas certificadas a\r\norganizaciones territoriales legalmente constituidas, informando del inicio de este\r\nproceso, incluyendo un resumen ejecutivo de éste, con sus características\r\nprincipales, comunicando que la información (Memoria Explicativa) se encuentra a\r\ndisposición de los vecinos en los horarios y dependencias que se especifica e\r\ninvitando a "
+ },
+ {
+  "id": "d0646",
+  "comuna": "la_florida",
+  "nombre_documento": "31_aprueba_modificacion_del_plan_regulador_comunal_de_la_florida_sector_manzana",
+  "archivo": "la_florida_31_aprueba_modificacion_del_plan_regulador_comunal_de_la_florida_sector_manzana___Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 5,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 31 (1999)\r\n\r\nResolución 31\r\nAPRUEBA MODIFICACION DEL PLAN REGULADOR COMUNAL DE LA\r\nFLORIDA-SECTOR MANZANA CIVICA, APROBADO POR DECRETO Nº 663 DE\r\nVIVIENDA Y URBANISMO, DE 1968\r\nGOBIERNO REGIONAL REGIÓN METROPOLITANA DE SANTIAGO\r\nFecha Publicación: 04-JUN-1999 | Fecha Promulgación: 01-ABR-1999\r\nTipo Versión: Única De : 04-JUN-1999\r\nUrl Corta: https://bcn.cl/3mde0\r\n\r\nAPRUEBA MODIFICACION DEL PLAN REGULADOR COMUNAL DE LA FLORIDA-SECTOR MANZANA CIVICA,\r\nAPROBADO POR DECRETO Nº 663 DE VIVIENDA Y URBANISMO, DE 1968\r\n(Resolución)\r\nNúm. 31.- Santiago, 1 de abril de 1999.- Vistos:\r\na) El oficio Ord. Nº 4.265 de fecha 3 de diciembre, del Secretario Ministerial\r\nMetropolitano de Vivienda y Urbanismo, en que remite e informa favorablemente la\r\nmodificación del Plan Regulador comunal de La Florida aprobado por decreto supremo\r\nNº 663 (V. y U.) de 20 de septiembre de 1968, que establece nueva normativa al\r\nsector de la comuna denominado Centro Cívico;\r\nb) El Ord. Nº 1.223 de fecha 2 de diciembre de 1997 y Nº 1.072 de fecha 30 de\r\noctubre de 1998, ambos del Alcalde de La Florida;\r\nc) El decreto exento Nº 1.908 de fecha 04.09.97 de la Municipalidad de La Florida\r\nque aprueba la citada modificación;\r\nch) El decreto exento Nº 2.429 de fecha 19.11.97 que ratifica el acuerdo del Concejo\r\nMunicipal Nº 186 de fecha 12.11.97 que aprueba la citada modificación;\r\nd) El certificado del Secretario Municipal en relación al acuerdo Nº 186 del\r\nConcejo Municipal;\r\ne) La propuesta de modificació"
+ },
+ {
+  "id": "d0647",
+  "comuna": "la_florida",
+  "nombre_documento": "3514_promulgase_la_enmienda_al_plan_regulador_comunal_sector_comprendido_por_el",
+  "archivo": "la_florida_3514_promulgase_la_enmienda_al_plan_regulador_comunal_sector_comprendido_por_el___PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_3514.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "agrupamiento": 2,
+   "antejardin": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.571\r\n\r\n|\r\n\r\nJueves 29 de Septiembre de 2016\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1117351\r\n\r\nMUNICIPALIDAD DE LA FLORIDA\r\n\r\nPROMULGA ENMIENDA N° 11 AL PLAN REGULADOR COMUNAL DE LA\r\nFLORIDA\r\nNúm. 3.514 exento.- La Florida, 20 de septiembre de 2016.\r\nVistos y considerando:\r\nEl certificado emitido por la Secretaría Municipal de 3 de febrero de 2016, que contiene el\r\nAcuerdo número 1167 del Concejo Municipal, adoptado en la Sesión Ordinaria número 110, de 3\r\nde febrero de 2016 y que aprueba el proyecto de Enmienda Nº 11 del Plan Regulador Comunal\r\n(PRC) y da inicio al proceso de conocimiento, difusión y participación ciudadana; certificado\r\noriginal emitido por la Secretaría Municipal, de fecha 12 de abril de 2016, dando cuenta del\r\nenvío de 13 cartas certificadas dirigidas a las organizaciones territoriales legalmente constituidas\r\nincluyendo un resumen de la Enmienda y además invita a la audiencia pública el día 13 de abril\r\nde 2016; copia simple de la carta tipo, de fecha marzo de 2016, enviada con fecha 4 de abril de\r\n2014, más listado adjunto de despacho de oficina de partes a 13 direcciones; originales de dos\r\npublicaciones, en semanas distintas, emitidas en el diario Publimetro, ambas de fechas 28 de\r\nmarzo y 4 de abril de 2016, indicando lugar, fecha y hora a realizarse, e informando a lo"
+ },
+ {
+  "id": "d0648",
+  "comuna": "la_florida",
+  "nombre_documento": "393_enmiendas_al_plan_regulador_comunal",
+  "archivo": "la_florida_393_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 16,
+   "ocupacion_suelo": 18,
+   "predial_minima": 40,
+   "agrupamiento": 12,
+   "rasante": 2,
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 393 EXENTO, LA FLORIDA (2006)\r\n\r\nDecreto 393 EXENTO\r\nAPRUEBA TEXTO RESOLUTIVO DE LAS ENMIENDAS AL PLAN REGULADOR\r\nCOMUNAL\r\nMUNICIPALIDAD DE LA FLORIDA\r\nFecha Publicación: 05-JUL-2006 | Fecha Promulgación: 13-JUN-2006\r\nTipo Versión: Única De : 05-JUL-2006\r\nUrl Corta: https://bcn.cl/3ob3z\r\n\r\nAPRUEBA TEXTO RESOLUTIVO DE LAS ENMIENDAS AL PLAN REGULADOR COMUNAL\r\nNúm. 393 exento.- La Florida, 13 de junio de 2006.- Visto y Considerando: La\r\nResolución Nº 47 de 2000 del Gobierno Regional Metropolitano de fecha 06 de\r\ndiciembre del 2000, publicada en el Diario Oficial del 17 de agosto del 2001, que\r\nmodificó el Plan Regulador Comunal de La Florida, rectificada por Resolución Nº 80\r\nde 2001 del Gobierno Regional Metropolitano, de fecha 7 de noviembre de 2001,\r\npublicada en el Diario Oficial del 12 de enero de 2002; la necesidad de incorporar\r\nenmiendas a esta normativa con el objeto de permitir su coherencia con la actual\r\nrealidad de la comuna; el proyecto presentado por la Asesora Urbanista; el\r\ncertificado de la Secretaria Municipal que acredita el envío de cartas certificadas\r\ndirigidas a organizaciones territoriales legalmente constituidas en la comuna; la\r\ncopia certificada de dicha correspondencia; la constancia de las dos publicaciones\r\nconvocando a la audiencia pública de información a la comunidad; el certificado de\r\nla Secretaria Municipal en que se da fe de la realización de dicha audiencia; los\r\ncertificados de dicha Ministro de fe en que consta la citación a sesió"
+ },
+ {
+  "id": "d0649",
+  "comuna": "la_florida",
+  "nombre_documento": "430_modificacion_al_plan_regulador_comunal_sector_centro_y_poligonos_a_b_c_d_y_e",
+  "archivo": "la_florida_430_modificacion_al_plan_regulador_comunal_sector_centro_y_poligonos_a_b_c_d_y_e__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 39,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 430 EXENTO, LA FLORIDA (2007)\r\n\r\nDecreto 430 EXENTO\r\nMODIFICA PLAN REGULADOR COMUNAL DE LA FLORIDA\r\nMUNICIPALIDAD DE LA FLORIDA\r\nPublicación: 26-MAY-2007 | Promulgación: 18-MAY-2007\r\nVersión: Única De : 26-MAY-2007\r\nUltima Modificación: 30-NOV-2007 Decreto 832 EXENTO\r\nUrl Corta: https://bcn.cl/3p9oq\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE LA FLORIDA\r\nNúm. 430 exento.- La Florida, 18 de Mayo de 2007.- Vistos y Considerando:\r\nEl Decreto Exento Nº452 de fecha 22 de junio de 2005, aprobando la Propuesta De\r\nModificación al Plan Regulador Comunal (PRC) e instruyendo iniciar el proceso;\r\nCertificado de la Secretaria Municipal, de fecha 30.de junio de 2005, dando cuenta\r\ndel envío, con fecha 24 de junio de 2005, de 104 cartas a organizaciones\r\nterritoriales legalmente constituidas, enviando los resúmenes ejecutivos y\r\ncomunicando sobre las audiencias públicas celebradas el l 06.de julio de 2005 y la\r\ndel 13.de julio de 2005. Certificado de la Secretaria Municipal, de fecha 12.de julio\r\nde 2005, dando cuenta del Nº de cartas certificadas rectificadas y especificando a\r\nqué organizaciones territoriales legalmente constituidas se las enviaron; Copia\r\ncertificada de la carta tipo enviada de fecha Junio 2005; Documento certificado de la\r\nMemoria Explicativa, de fecha Junio 2005; copia simple de carta enviada con\r\nrectificación de fecha Julio 2005: Certificados de la Secretaria Municipal de fecha\r\n06.de julio de 2005 y 29.de junio de 2005, además de copias certificadas de las\r\npubli"
+ },
+ {
+  "id": "d0650",
+  "comuna": "la_florida",
+  "nombre_documento": "461_promulgacion_de_modificacion_n9_del_plan_regulador_comunal_de_la_florida_apr",
+  "archivo": "la_florida_461_promulgacion_de_modificacion_n9_del_plan_regulador_comunal_de_la_florida_apr__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 461 EXENTO, LA FLORIDA (2015)\r\n\r\nDecreto 461 EXENTO\r\nPROMULGA MODIFICACIÓN Nº 9 DEL PLAN REGULADOR COMUNAL DE LA\r\nFLORIDA\r\nMUNICIPALIDAD DE LA FLORIDA\r\nFecha Publicación: 09-FEB-2015 | Fecha Promulgación: 04-FEB-2015\r\nTipo Versión: Única De : 09-FEB-2015\r\nUrl Corta: https://bcn.cl/3clo7\r\n\r\nPROMULGA MODIFICACIÓN Nº 9 DEL PLAN REGULADOR COMUNAL DE LA FLORIDA\r\nNúm. 461 exento.- La Florida, 4 de febrero de 2015.- Vistos y considerando:\r\nEl decreto exento Nº 3.731, de fecha 21/10/13, que aprueba el Estudio de\r\nModificación Nº 9 del Plan Regulador y que da inicio al proceso de aprobación;\r\nCertificado emitido por la Secretaría Municipal, de fecha 16.10.2013 que certifica\r\nse aprueba proyecto y da inicio al proceso de conocimiento, difusión y\r\nparticipación ciudadana; Certificado original emitido por la Secretaría Municipal,\r\nde fecha 24.10.2013, dando cuenta del envío de 80 cartas certificadas dirigidas a\r\norganizaciones territoriales legalmente constituidas incluyendo un resumen ejecutivo\r\nde la Modificación y además invita a la audiencia pública del día 6, 13 y 20 de\r\nnoviembre de 2013; copia simple de la carta tipo enviada con fecha 18/10/13, con\r\nlistado de 80 cartas y copia de la guía de despacho de la empresa Correos de Chile\r\ncon el listado a quienes fueron enviadas, de fecha 23.10.2013; originales de dos\r\npublicaciones, en semanas distintas, emitidas en el diario Las Últimas Noticias,\r\nambas, de fechas 23.10.2013 y 30.10.2013, indicando lugar, fecha y hora a realiza"
+ },
+ {
+  "id": "d0651",
+  "comuna": "la_florida",
+  "nombre_documento": "47_plan_regulador_comunal_2001",
+  "archivo": "la_florida_47_plan_regulador_comunal_2001__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 54,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "agrupamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 4,
+   "articulado": 17,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZRM"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (altura_maxima, agrupamiento, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Resolucion 47, LA FLORIDA (2000)\r\n\r\nResolución 47\r\nMODIFICA PLAN REGULADOR COMUNAL DE LA FLORIDA\r\nMUNICIPALIDAD DE LA FLORIDA\r\nFecha Publicación: 17-AGO-2001 | Fecha Promulgación: 06-DIC-2000\r\nTipo Versión: Última Versión De : 27-MAY-2022\r\nUltima Modificación: 27-MAY-2022 Decreto 20\r\nUrl Corta: https://bcn.cl/3l0bi\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE LA FLORIDA\r\nNúm. 47.- Santiago, 6 de diciembre de 2000.- Vistos:\r\na)\r\nOrd. Nº 3.744 de fecha 16 de octubre de 2000, del\r\nSeremi de Vivienda y Urbanismo, al Intendente Regional,\r\nremitiendo antecedentes e informando favorablemente el\r\nproyecto de nuevo Plan Regulador de La Florida.\r\nb)\r\n\r\nNOTA\r\nNOTA 1\r\nNOTA 2\r\n\r\nMemoria explicativa.\r\n\r\nc)\r\nPlanos: PRLF-1 de Edificación, PRLF-2 de Zonas de Uso\r\nde Suelo y PRLF-3 de Vialidad. (escala 1:5.000)\r\nd)\r\nInforme DOM Nº 815 de 30.11.95, de la Directora de\r\nObras Municipales de La Florida, al Alcalde de La Florida.\r\ne)\r\nActa de la Sesión Extraordinaria Nº 198 de fecha 6 de\r\ndiciembre de 1995, del Concejo Municipal de La Florida.\r\nf)\r\nInforme Nº 855 de fecha 14 de diciembre de 1995, de la\r\nDirectora de Obras Municipales, al Alcalde de La Florida.\r\ng)\r\nPublicaciones de prensa diario El Mercurio 22 y 29 de\r\ndiciembre de 1995.\r\nh)\r\nCertificado del Secretario Municipal de fecha 6 de\r\nfebrero de 1996, dando cuenta de los plazos anteriores y de\r\nlas observaciones recibidas.\r\ni)\r\nActa de la Sesión Extraordinaria Nº 208 de fecha 7 de\r\nfebrero de 1996, del Concejo Municipal de La Florida.\r\nj)\r\nDecre"
+ },
+ {
+  "id": "d0652",
+  "comuna": "la_florida",
+  "nombre_documento": "4873_modificacion_al_plan_regulador_comunal_de_la_florida_no_6_zonas_erd_y_ajust",
+  "archivo": "la_florida_4873_modificacion_al_plan_regulador_comunal_de_la_florida_no_6_zonas_erd_y_ajust__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 8,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 4873 EXENTO, LA FLORIDA (2010)\r\n\r\nDecreto 4873 EXENTO\r\nMODIFICA PLAN REGULADOR COMUNAL Nº 6 \"ZONAS ERD Y AJUSTES AL\r\nART. 15 ORDENANZA LOCAL\"\r\nMUNICIPALIDAD DE LA FLORIDA\r\nPublicación: 20-ENE-2011 | Promulgación: 17-NOV-2010\r\nVersión: Única De : 20-ENE-2011\r\nUrl Corta: https://bcn.cl/dzXktO\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL Nº 6 \"ZONAS ERD Y AJUSTES AL ART. 15 ORDENANZA\r\nLOCAL\"\r\nNúm. 4.873 exento.- La Florida, 17 de noviembre de 2010.- Vistos: El\r\ncertificado de Secretaría Municipal de fecha 11 de junio de 2008, que transcribe\r\nAcuerdo Nº 3698 adoptado por en Concejo Municipal en Sesión Ordinaria Nº 360 del\r\n11 de junio de 2008, que aprueba los contenidos de la Propuesta de Modificación al\r\nPlan Regulador Comunal Nº 6, \"Zonas ERD y adecuación artículo 15 Ordenanza Local\";\r\nel decreto exento Nº 923, de 11 de junio de 2008, que declara aprobado el estudio y\r\nda inicio al proceso de conocimiento y difusión a la comunidad del mismo;\r\ncertificado de Secretaría Municipal, que da cuenta del envío, con fecha 26 de junio\r\nde 2008, de 108 cartas a organizaciones territoriales legalmente constituidas,\r\ninformando del inicio de este proceso, incluyendo un resumen ejecutivo de ésta, con\r\nsus características principales, comunicando que la información (memoria\r\nexplicativa) se encuentra a disposición de los vecinos en los horarios y\r\ndependencias que se especifica e invitando a Audiencia Pública de Información para\r\nel día 2 de julio de 2008, a las 19:00 hrs.; ejemplar de la invit"
+ },
+ {
+  "id": "d0653",
+  "comuna": "la_florida",
+  "nombre_documento": "60_promulga_modificacion_no_3_al_plan_regulador_comunal_de_la_florida_vialidad_e",
+  "archivo": "la_florida_60_promulga_modificacion_no_3_al_plan_regulador_comunal_de_la_florida_vialidad_e__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "ordenanza_local_txt": 3,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 60 EXENTO, LA FLORIDA (2009)\r\n\r\nDecreto 60 EXENTO\r\nPROMULGA MODIFICACIÓN Nº 3 AL PLAN REGULADOR COMUNAL DE LA\r\nFLORIDA \"VIALIDAD ESTRUCTURANTE\"\r\nMUNICIPALIDAD DE LA FLORIDA\r\nPublicación: 09-FEB-2009 | Promulgación: 04-FEB-2009\r\nVersión: Última Versión De : 04-MAR-2009\r\nUrl Corta: https://bcn.cl/3nbt7\r\n\r\nPROMULGA MODIFICACIÓN Nº 3 AL PLAN REGULADOR COMUNAL DE LA\r\nFLORIDA \"VIALIDAD ESTRUCTURANTE\"\r\nNúm. 60 exento.- La Florida, 4 de enero de 2009.Vistos y Considerando: El decreto exento Nº 10 de fecha 4\r\nde enero de 2006, que aprueba estudio de la Modificación al\r\nPlan Regulador Comunal, Plan Vial y da inicio al proceso de\r\naprobación; Certificado de la Secretaria Municipal de fecha\r\n13 de enero de 2006, que certifica la cantidad de cartas\r\nenviadas, adjuntando el listado de las organizaciones\r\nterritoriales a las cuales se les envió y copia certificada\r\nde la carta tipo enviada; Copia certificada de la Carta Tipo\r\nenviada a las distintas organizaciones territoriales, de\r\nfecha enero 2006, con la información resumida de las\r\nmaterias a modificar y el día, hora y lugar de la\r\ncelebración de la primera audiencia pública; Copia\r\ncertificada del listado de organizaciones territoriales a\r\nquienes se le envió la carta tipo. Nota de Correos de\r\nChile, Franqueo-Convenios, de fecha 11 de enero de 2006, a\r\nlas 17:10 horas; Certificado de la Secretaria Municipal de\r\nfecha 18 de enero de 2006, que certifica que las copias\r\nfotostáticas adjuntas son copia fiel de los originales de\r\nla"
+ },
+ {
+  "id": "d0654",
+  "comuna": "la_florida",
+  "nombre_documento": "77_modifica_plan_regulador_comunal_de_la_florida_en_sentido_que_indica",
+  "archivo": "la_florida_77_modifica_plan_regulador_comunal_de_la_florida_en_sentido_que_indica__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 1,
+   "agrupamiento": 5,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 26
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 77, VIVIENDA (2013)\r\n\r\nDecreto 77\r\nMODIFICA PLAN REGULADOR COMUNAL DE LA FLORIDA EN SENTIDO QUE\r\nINDICA\r\nMINISTERIO DE VIVIENDA Y URBANISMO\r\nFecha Publicación: 04-MAR-2014 | Fecha Promulgación: 15-OCT-2013\r\nTipo Versión: Única De : 04-MAR-2014\r\nUrl Corta: https://bcn.cl/3rxuv\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL DE LA FLORIDA EN SENTIDO QUE INDICA\r\nSantiago, 15 de octubre de 2013.- Hoy se decretó lo que sigue:\r\nNúm. 77.- Visto: El artículo 50 del DFL Nº 458 (V. y U.), de 1975, Ley\r\nGeneral de Urbanismo y Construcciones; el artículo 6.1.12. del DS Nº 47 (V. y U.),\r\nde 1992, Ordenanza General de Urbanismo y Construcciones; los artículos 2º y 9º de\r\nla ley Nº 16.391; el artículo 12 letra i) del DL Nº 1.305 (V. y U.), de 1975; el\r\noficio ord. Nº 438, de 4 de octubre de 2013, de la División de Desarrollo Urbano\r\ndel Minvu; el ord. Nº 4.487, de 2 de octubre de 2013, de la Secretaría Ministerial\r\nMetropolitana de Vivienda y Urbanismo; el ord. Nº 712, de 2 de octubre de 2013, del\r\nAlcalde de la I. Municipalidad de La Florida; el ord. Nº 982, de 6 de noviembre de\r\n2009, del Director del Servicio de Vivienda y Urbanización Metropolitano, y los\r\nartículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile,\r\nConsiderando:\r\na) Que la comuna La Florida desde el año 2001 cuenta con un Plan Regulador\r\nComunal propio.\r\nb) Que dentro del territorio normado por el PRC existe un área constituida por\r\nun terreno de propiedad del Servicio de Vivienda y Urbanización de la Regió"
+ },
+ {
+  "id": "d0655",
+  "comuna": "la_florida",
+  "nombre_documento": "81_aprueba_modificacion_del_plan_regulador_de_la_florida",
+  "archivo": "la_florida_81_aprueba_modificacion_del_plan_regulador_de_la_florida__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 6,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 81 (1996)\r\n\r\nResolución 81\r\nAPRUEBA MODIFICACION DEL PLAN REGULADOR DE LA FLORIDA\r\nGOBIERNO REGIONAL REGIÓN METROPOLITANA DE SANTIAGO\r\nPublicación: 17-OCT-1996 | Promulgación: 14-OCT-1996\r\nVersión: Única De : 17-OCT-1996\r\nUrl Corta: https://bcn.cl/3mq62\r\n\r\nAPRUEBA MODIFICACION DEL PLAN REGULADOR DE LA FLORIDA\r\nNúm. 81.- Santiago, 14 de octubre de 1996.- Vistos:\r\na) Ord. N° 2.119 de fecha 17.09.96, del Secretario Ministerial Metropolitano de\r\nVivienda y Urbanismo, que informa favorablemente el Seccional Oriente Florida Alta,\r\nde la Comuna de La Florida;\r\nb) Ord. N° 1.629, del 10.09.96 del Alcalde de La Florida;\r\nc) Memoria Explicativa, Ordenanza y Plano LF PSO-95;\r\nd) Informe 1237-A del 21.12.94 de la Dirección de Obras;\r\ne) Publicaciones en diario La Tercera de fechas 12.01.95 y 16.01.95;\r\nf) Certificado del Secretario Municipal de La Florida de fecha 02.03.95;\r\ng) Acuerdo N° 1.129/05.09.96 del Concejo Municipal aprobando la modificación;\r\nh) Decreto Exento N° 2.061/09.09.96, del Alcalde de La Florida;\r\ni) Que la modificación citada se atiene al Plan Regulador Metropolitano de\r\nSantiago, aprobado por Resolución N° 20/06.10.94;\r\nj) Acuerdo N° 191, adoptado en la Sesión Ordinaria N° 28/25.09.96 del Consejo\r\nRegional Metropolitano, y k) Teniendo presente lo prescrito en los artículos 20\r\nletra f), 24 letra o) y 36 letra c) de la Ley 19.175, Orgánica Constitucional sobre\r\nGobierno y Administración Regional,\r\nR e s u e l v o:\r\n1° Apruébase la modificación del Plan Regul"
+ },
+ {
+  "id": "d0656",
+  "comuna": "la_florida",
+  "nombre_documento": "832_enmienda_al_plan_regulador_comunal_zona_esp_2",
+  "archivo": "la_florida_832_enmienda_al_plan_regulador_comunal_zona_esp_2__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 832 EXENTO, LA FLORIDA (2007)\r\n\r\nDecreto 832 EXENTO\r\nPROMULGA ENMIENDA AL PLAN REGULADOR COMUNAL ZONA ESPECIAL 2\r\nPROYECTO HOSPITAL DE LA FLORIDA\r\nMUNICIPALIDAD DE LA FLORIDA\r\nFecha Publicación: 30-NOV-2007 | Fecha Promulgación: 05-NOV-2007\r\nTipo Versión: Única De : 30-NOV-2007\r\nUrl Corta: https://bcn.cl/3pjb4\r\n\r\nPROMULGA \"ENMIENDA AL PLAN REGULADOR COMUNAL ZONA ESPECIAL 2\" PROYECTO HOSPITAL DE LA\r\nFLORIDA\r\nNúm. 832 exento.- La Florida, 5 de noviembre de 2007.- Vistos y considerando:\r\nEl Ord. Int. Nº 85, de 9 de julio de 2007, por el cual se somete al Concejo\r\nMunicipal la autorización para dar inicio a la etapa de información a la comunidad\r\ndel Proyecto Modificación Nº 4/2007 \"Enmienda al Plan Regulador Comunal para la\r\nzona especial Nº 2\"; el Acuerdo Nº 3362, adoptado por el Concejo Municipal en\r\nSesión Ordinaria Nº 327, de 11 de julio de 2007, que aprobó dar curso al inicio al\r\nproceso de información a la comunidad del mismo proyecto; el decreto exento Nº541,\r\nde fecha 11 de julio de 2007, que declara aprobado el inicio de la tramitación de\r\ndicho proyecto e instruye iniciar el proceso; Certificado de la Secretaria Municipal,\r\nde fecha 17 de julio de 2006, dando cuenta del envío, con fecha 13 de julio de 2007,\r\nde 105 cartas a organizaciones territoriales legalmente constituidas, informando del\r\ninicio de este proceso, incluyendo Memoria Explicativa con las características\r\nprincipales de la modificación, manifestando que la Memoria Explicativa con la\r\ninformación"
+ },
+ {
+  "id": "d0657",
+  "comuna": "la_florida",
+  "nombre_documento": "ordenanza_3_texto_aprobatorio_plan_vial_modificacion_n3_plan_regulador_comunal_l",
+  "archivo": "la_florida_ordenanza_3_texto_aprobatorio_plan_vial_modificacion_n3_plan_regulador_comunal_l__Texto-Aprobatorio-PRCLF-09-enero-2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 3,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MODIFICACION Nº3 PLAN REGULADOR COMUNAL DE LA FLORIDA - PLAN VIAL\r\nTEXTO APROBATORIO\r\n\r\nTEXTO APROBATORIO PLAN VIAL\r\nMODIFICACIÓN Nº3 PLAN REGULADOR COMUNAL\r\nDE LA FLORIDA\r\n\r\nArtículo Único:\r\n\r\nModifícase el Plan Regulador Comunal de La Florida, aprobado mediante\r\nResolución N° 47/2000, del Gobierno Regional Metropolitano de fecha\r\n06 de diciembre de 2000, publicada en el Diario Oficial de 17 de Agosto\r\nde 2001, y sus rectificaciones y modificaciones posteriores, en el sentido\r\nde modificar la Memoria Explicativa y la Tabla referente a “Vialidad\r\nEstructurante” del artículo 44 de su Ordenanza Local. Lo que se grafica\r\nen el Plano PRLF-3/08 Vialidad, escala 1:5000, que por este acto se\r\naprueba y reemplaza a los Planos PRLF-3 Vialidad y Sector Centro.\r\nLa única vía declarada camino público en la Comuna es Américo\r\nVespucio, R-70, en la cual se deberá respetar el DFL Nº850 del 12/09/97\r\ndel MOP, sin perjuicio de que al formar parte de la vialidad\r\nestructurante, igualmente quedará sujeto al cumplimiento de las\r\ndisposiciones de la Ordenanza Local. La presente Modificación de la\r\nVialidad Estructurante Comunal está fundamentada en un Estudio de\r\nCapacidad Vial de las vías existentes y proyectadas para satisfacer el\r\ncrecimiento urbano en un horizonte de 10 años.\r\nModificase la Ordenanza Local en el siguiente sentido:\r\n\r\n1. Modifícase la tabla del Artículo 44 “Vialidad Estructurante”, en los siguientes términos:\r\n\r\nDIRECCION DE SERVICIOS EXTERNOS\r\nPontificia Universidad Católica "
+ },
+ {
+  "id": "d0658",
+  "comuna": "la_florida",
+  "nombre_documento": "ordenanza_decreto_exento_que_promulga_la_modificacion_n9_del_plan_regulador_comu",
+  "archivo": "la_florida_ordenanza_decreto_exento_que_promulga_la_modificacion_n9_del_plan_regulador_comu__Ordenanza-Refundido-Marzo2013.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 87,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "TEXTO REFUNDIDO\r\nORDENANZA LOCAL\r\nPLAN REGULADOR COMUNAL\r\nLA FLORIDA\r\n2013\r\n\r\n\f\fPLAN REGULADOR COMUNAL DE LA FLORIDA\r\nTEXTO REFUNDIDO 2013\r\n\r\nEQUIPO DE TRABAJO PRC 2001\r\n\r\nDIRECTORA DE OBRAS MUNICIPALES.\r\nARQUITECTO\r\n\r\nMariela Vaccaro Enríquez\r\nEJECUTORES PLAN REGULADOR.\r\nARQUITECTOS\r\n\r\nLorenzo Berg Costa\r\nCarlos López Arellano\r\nASESOR GENERAL DEL PLAN REGULADOR\r\nARQUITECTO\r\n\r\nManuel Fernández Hechenleitner\r\nASESOR NORMATIVA DEL PLAN REGULADOR\r\nARQUITECTO\r\n\r\nMario Torres Jofré\r\nEQUPO DIRECCIÓN DE OBRAS MUNICIPALES.\r\nARQUITECTO\r\n\r\nTeresa Lima-Campos Gomien\r\nCOORDINADORA PRC\r\nARQUITECTO\r\n\r\nEvelyn Lagos Heise\r\nASESOR URBANISTA PERIODO 07/97 A 05/99\r\nARQUITECTO\r\n\r\nCecilia Celis Atria\r\nASESOR URBANISTA PERIODO 1988 A 03/96\r\nARQUITECTO\r\n\r\nLeonardo Román Gaete\r\nJEFE DPTO. DE EDIFICACION PERIODO 1989 A 06/97\r\nARQUITECTO\r\nMUNICIPALIDAD DE LA FLORIDA\r\nDepartamento de Asesoría Urbana - SECPLAC\r\n\r\n\fPLAN REGULADOR COMUNAL DE LA FLORIDA\r\nTEXTO REFUNDIDO 2013\r\n\r\nFernanda Hurtado Hofer\r\nDIBUJANTE\r\n\r\nVerónica Prado González\r\nDIBUJANTE\r\n\r\nMagaly Martínez Ortiz de Zárate\r\n\r\n2\r\n\r\nMUNICIPALIDAD DE LA FLORIDA\r\nDepartamento de Asesoría Urbana - SECPLAC\r\n\r\n\fPLAN REGULADOR COMUNAL DE LA FLORIDA\r\nTEXTO REFUNDIDO 2013\r\n\r\nEQUIPO DE TRABAJO PROYECTO:\r\n“MODIFICACION Nº 5 PLAN REGULADOR COMUNAL LA FLORIDA”\r\nEQUIPO MUNICIPAL\r\n\r\nASESORIA URBANA\r\nDr. GEOGRAFO URBANISTA\r\n\r\nEsteban Yuretic Orellana\r\n\r\nARQUITECTO\r\n\r\nMacarena Garrido Peralta\r\n\r\nDIBUJANTE\r\n\r\nMagaly Martinez Ortiz de Zarate\r\n\r\nDIRECTOR DE OBRAS\r\nAR"
+ },
+ {
+  "id": "d0659",
+  "comuna": "la_florida",
+  "nombre_documento": "ordenanza_texto_aprobatorio_de_la_modificacion_n_9_plan_regulador_comunal",
+  "archivo": "la_florida_ordenanza_texto_aprobatorio_de_la_modificacion_n_9_plan_regulador_comunal__Texto-Aprobatorio-Modificacion-N_C2_B09-Enero-2015.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 16,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 2,
+   "densidad": 2,
+   "agrupamiento": 23,
+   "antejardin": 2,
+   "rasante": 2,
+   "adosamiento": 2,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 6,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE LA FLORIDA\r\nASESORÍA URBANA\r\n\r\nMODIFICACION Nº 9\r\nPLAN REGULADOR COMUNAL DE LA FLORIDA\r\n\r\nTEXTO APROBATORIO\r\n\r\nEnero 2015\r\n\r\n\fMODIFICACION Nº 9 PLAN REGULADOR COMUNAL DE LA FLORIDA\r\nTEXTO APROBATORIO\r\nENERO 2015\r\n\r\n1\r\n\r\nTEXTO APROBATORIO MODIFICACIÓN Nº9 PLAN REGULADOR COMUNAL LA FLORIDA\r\n\r\nArtículo Único: Modifícase el Plan Regulador Comunal de La Florida, aprobado por Resolución\r\nNº 47/2000 del Gobierno Regional Metropolitano de fecha 06 de Diciembre del 2000, publicado en el\r\nDiario Oficial del 17 de Agosto del 2001 y rectificado por resolución Nº 80 del 7 de noviembre de 2001,\r\npublicada en el Diario Oficial del 12 de enero de 2002 y sus modificaciones y enmiendas posteriores.\r\nLa presente modificación incluye los artículos 7, 15, 32, 35, 39, 40 y 41, de su Ordenanza Local y Memoria\r\nExplicativa. Se modifican además los planos PRLF-1 de Edificación y PRLF-2 de Usos de Suelo, de acuerdo\r\na lo graficado en los planos PRLF-1/15 Edificación y PRLF-2/15 Usos de Suelo, que en este acto se\r\naprueban.\r\nModifícase la Ordenanza Local del Plan Regulador Comunal de La Florida en el siguiente sentido.\r\n\r\n1.\r\n\r\nModifícase el artículo 7 “Glosario” en los siguientes términos:\r\nA) Eliminanse las definiciones derogadas de “Área Libre”, “Centro de Reparación Automotor”,\r\n“Centro de Servicio Automotriz” , “Coeficiente de Área Libre” y “Mansarda”\r\nB) Elimínese por completo el ítem GLOSARIO Y NORMAS GENERALES, incluyendo las\r\ndefiniciones de “Coeficiente de Área Libre” y “Coef"
+ },
+ {
+  "id": "d1069",
+  "comuna": "la_florida",
+  "nombre_documento": "1747_promulga_enmienda_n10_al_plan_regulador_vigente_zona_eaa_1",
+  "archivo": "la_florida_1747_promulga_enmienda_n10_al_plan_regulador_vigente_zona_eaa_1__Enmienda_NNro_10_al_PRC.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1070",
+  "comuna": "la_florida",
+  "nombre_documento": "decreto_exento_766_promulgase_modificacion_n_5_del_plan_regulador_comunal_de_la",
+  "archivo": "la_florida_decreto_exento_766_promulgase_modificacion_n_5_del_plan_regulador_comunal_de_la___Decreto-exento-766-promulgacion-modificacion-N_C2_B05-1.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 25,
+  "paginas_escaneadas": 25,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1071",
+  "comuna": "la_florida",
+  "nombre_documento": "planos_y_ordenanzas_de_planes_reguladores_previos_al_ano_2001",
+  "archivo": "la_florida_planos_y_ordenanzas_de_planes_reguladores_previos_al_ano_2001__ORD_63_dj_Censurado.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0134",
+  "comuna": "la_granja",
+  "nombre_documento": "01_plano_regulador_comunal_de_1951",
+  "archivo": "la_granja_01_plano_regulador_comunal_de_1951__d70c648f-fcff-40ac-959d-201d4b183dfb.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0135",
+  "comuna": "la_granja",
+  "nombre_documento": "1_plan_regulador_comuna_la_granja",
+  "archivo": "la_granja_1_plan_regulador_comuna_la_granja__5b878098-e6e2-406f-91b2-24e9c0f0f08a.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV-1",
+   "ZAV-2",
+   "ZC-1",
+   "ZC-2",
+   "ZC-3",
+   "ZE-1",
+   "ZH-1",
+   "ZH-2",
+   "ZH-3",
+   "ZH-4",
+   "ZI-1",
+   "ZR-1"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "P L A N\r\nD E\r\n\r\nR E G U L A D O R\r\nL A\r\n\r\nC O M U N A L\r\n\r\nG R A N J A\r\n\r\nZ O N I F I C A C I O N\r\nP L A N O\r\n\r\nZC-1 Zona Equipamiento Metropolitano\r\nZC-2 Zona Mixta Central Alta Densidad\r\nZC-3 Zona Ejes de Actividad Mixta\r\n\r\nUSOS\r\n-\r\n\r\nL G\r\n\r\n-\r\n\r\nDE\r\n\r\nSUELO\r\n\r\n0 1\r\nSan\r\nSan\r\nMiguel Joaquin\r\n\r\nNº\r\nZONAS MIXTAS CENTRALES\r\n\r\nP R C\r\n\r\nLa\r\nCisterna San La Granja\r\n• •• •••••••\r\n\r\nEQIPAMIENTO COMUNAL\r\n\r\nZE-1 Zona Equipamiento Comunal\r\n\r\nMacul\r\n\r\nSan\r\nJoaquin\r\nLa Pintana\r\nPuente Alto\r\n\r\nZONAS INDUSTRIALES\r\n\r\n• • • • • •• • •• •• • • • •• •• • • • • • • •• • • • • • • • • • • • • • • • • • • • • • • • • • • • • •\r\n\r\nZI-1 Zona Industrial Exclusiva ***\r\n\r\nZR-1 Zona Protecci• •n de\r\nAeropuerto, Aer• d\r\n• romo\r\nZONAS RESIDENCIALES\r\nEl Bosque Zona \"e\". ****\r\nZH-1 Zona Residencial Malaqu ••as Concha • • • • • •• • •• • • • • •• • • • • • • • • • • • • • • • • • • • • • • • • • •\r\n• •• • • • • • • •• • • • • • • • • • • • • •\r\nZH-2 Zona Residencial Alta Densidad\r\nZH-3 Zona Residencial Densidad Baja\r\nZH-4 Zona Residencial Baja Ocupaci • •n\r\n\r\n• • • • •• •• • • • • • • • • • •\r\n\r\nLa Florida\r\n\r\nZAV-1 Zona Parque Metropolitano\r\nIntercomunal Rep• b\r\n• lica del Brasil **\r\nZAV-2 Zona • •reas Verdes Comunales\r\n\r\nGRUPO DE ESTUDIOS ECONÓMICOS Y TERRITORIALES S.A."
+ },
+ {
+  "id": "d0660",
+  "comuna": "la_granja",
+  "nombre_documento": "4039_aprueba_actualizacion_plan_regulador_comunal",
+  "archivo": "la_granja_4039_aprueba_actualizacion_plan_regulador_comunal__Plan-regulador-comunal.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 43,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 6,
+   "usos_de_suelo": 11,
+   "ordenanza_local_txt": 13,
+   "articulado": 28,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZIES"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 8 senales normativas (agrupamiento, adosamiento, distanciamiento, zonificacion)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPUBLICA DE CHILE\r\nI. MUNICIPALIDAD DE LA GRANJA\r\nSECRETARIA MUNICIPAL\r\n\r\nAPRUEBA\r\nACTUALIZACION\r\nPLAN\r\nREGULADOR COMUNA DE LA GRANJA\r\nDECRETO\r\n\r\nNº\r\n\r\n4039\r\n\r\nLA GRANJA, 13.12.2012.\r\nV I S T O S :\r\n\r\n1\r\nPlan Regulador Comunal de La Granja, aprobado por Resolución Nº 66 de la SEREMI\r\nde Vivienda y Urbanismo, fecha 04-12-1991, publicado en el Diario Oficial de fecha 21-011992.\r\n2.\r\nDeclaración de Impacto Ambiental del Proyecto Plan Regulador Comunal La Granja,\r\ndel 2007;\r\n3.\r\nResolución N°163/08, de parte de la Comisión Regional del medio Ambiente de la\r\nRegión Metropolitana de Santiago, de fecha 28-05-2009, que califica ambientalmente\r\nfavorable el proyecto Plan Regulador Comunal de La Granja.\r\n4.\r\nActa Sesión Ordinaria N°30, de fecha 21-09-2011, del Concejo Municipal La Granja,\r\nen la cual se expuso el calendario del Plan Regulador Comunal La Granja.\r\n5.\r\nDecreto Alcaldicio N° 2955, del Alcalde (s) de la Granja, de fecha 27-09-2011, que\r\naprueba la activación del Plan Regulador Comunal La Granja.\r\n6.\r\nAcuerdo N°413, Diciembre 2011, de parte del Ministro de Fe Municipal, acreditando\r\nque en Sesión Ordinaria N°41, celebrada con fecha 28-12-2011, se aprobó por unanimidad por\r\nparte de los Concejales, el Plan Regulador Comunal La Granja y las proposiciones a las\r\nrespuestas a cada una de las 55 observaciones recibidas durante el proceso de consulta del\r\nproyecto.\r\n7.\r\nDecreto Alcaldicio N°4219, del Alcalde de la Granja, de fecha 30-12-2011, que\r\naprueba el proyecto Plan Regulad"
+ },
+ {
+  "id": "d0661",
+  "comuna": "la_granja",
+  "nombre_documento": "417_promulga_la_aprobacion_a_la_modificacion_n_1_al_plan_regulador_comunal_de_la",
+  "archivo": "la_granja_417_promulga_la_aprobacion_a_la_modificacion_n_1_al_plan_regulador_comunal_de_la__1555500.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 2,
+   "usos_de_suelo": 13,
+   "ordenanza_local_txt": 1,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC-1",
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.296\r\n\r\n|\r\n\r\nMartes 5 de Marzo de 2019\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 1555500\r\n\r\nMUNICIPALIDAD DE LA GRANJA\r\n\r\nPROMULGA LA APROBACIÓN A LA MODIFICACIÓN N° 1 AL PLAN REGULADOR\r\nCOMUNAL DE LA GRANJA\r\nNúm. 417.- La Granja, 25 de febrero de 2019.\r\nVistos:\r\nMediante ordinario N° 898 de fecha 13 de febrero de 2019, la Seremi Metropolitana de\r\nVivienda y Urbanismo emite informe favorablemente técnico al Proyecto de Modificación N° 1\r\nal Plan Regulador Comunal de La Granja, en el sector de la comuna correspondiente a la actual\r\nzona ZC-1 vigente.\r\nPor ordinario N° 61/429.286 de fecha 22 de febrero de 2019, el Secretario Comunal de\r\nPlanificación (S), solicita a la Alcaldesa (S) decretar la promulgación de la aprobación a la\r\nModificación N° 1 al Plan Regulador Comunal de La Granja, en el sector de la comuna\r\ncorrespondiente a la zona ZC-1, suprimiendo las actividades de Estaciones de Intercambio Modal\r\ny Terminales Externos.\r\nY, vistos además, lo dispuesto en el artículo 43 de la Ley General de Urbanismo y\r\nConstrucciones, el artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones;\r\nteniendo presente las facultades que me confiere el artículo 63° de la Ley N° 18.695, Orgánica\r\nConstitucional de Municipalidades en su texto refundido por DFL N° 1 del Ministerio del\r\nInterior de fech"
+ },
+ {
+  "id": "d0662",
+  "comuna": "la_granja",
+  "nombre_documento": "4405_aprueba_enmienda_al_plan_regulador_comunal_sobre_dotacion_minima_de_estacio",
+  "archivo": "la_granja_4405_aprueba_enmienda_al_plan_regulador_comunal_sobre_dotacion_minima_de_estacio__do-20150311_p7.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.104\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 11 de Marzo de 2015\r\n\r\nOTRAS ENTIDADES\r\n\r\nTIPO DE CAMBIO PARA EFECTOS DEL NÚMERO 7 DEL CAPÍTULO\r\nI DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES\r\n\r\nContraloría General de la República\r\n\r\nEl tipo de cambio “dólar acuerdo” a que se refiere el inciso primero del Nº7 del\r\nCapítulo I del Compendio de Normas de Cambios Internacionales fue de $784,66 por\r\ndólar, moneda de los Estados Unidos de América, para el día 10 de marzo de 2015.\r\nSantiago, 10 de marzo de 2015.- Juan Pablo Araya Marco, Ministro de Fe.\r\n\r\nDELEGA FACULTAD DE FIRMA QUE INDICA\r\n(Resolución)\r\n\r\nMunicipalidad de La Granja\r\n\r\nSantiago, 6 de marzo de 2015.- Con esta fecha se ha resuelto lo siguiente:\r\nNúm. 22.- Considerando: La necesidad de descongestionar el despacho del\r\nContralor General, con la finalidad de agilizar la tramitación de documentos.\r\nVistos: Lo dispuesto en el artículo 27 de la Ley N° 10.336, Orgánica Constitucional\r\nde la Contraloría General de la República.\r\nResuelvo:\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL SOBRE\r\nDOTACIÓN MÍNIMA DE ESTACIONAMIENTOS\r\nNúm. 4.405.- La Granja, 31 de diciembre de 2013.- Vistos:\r\n1.-\r\n\r\nDelégase, a contar del 9 de marzo de 2015 y hasta el 10 de abril de esta\r\nanualidad, en el Subcontralor General la facultad de firmar “por orden del Contralor\r\nGeneral”, los oficios, resoluciones, dictámenes, y otros documentos, debidamente\r\nvisados, que emanen de la Subdivisión Jurídica de la División de Municipali"
+ },
+ {
+  "id": "d1072",
+  "comuna": "la_granja",
+  "nombre_documento": "1076_modifica_ordenanza_del_plan_regulador_comunal_en_los_articulos_que_indica",
+  "archivo": "la_granja_1076_modifica_ordenanza_del_plan_regulador_comunal_en_los_articulos_que_indica__do-20090525.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

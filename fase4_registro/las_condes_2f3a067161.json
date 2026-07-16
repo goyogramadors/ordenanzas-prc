@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_2f3a067161",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.3591.14oct2022.pdf",
+  "rangos": [
+    [
+      7,
+      8
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto 3591 (14-10-2022) Las Condes - ES EL DECRETO QUE EL 346/2023 RECTIFICA (ese quedo FALLIDO por tabla ausente; esta es la fuente). p7: tabla completa del sector S-EAb3': densidad bruta max 840 hab/ha, subdivision predial min 1.500 m2, coef. constructibilidad 2,0, COS 0,4, rasante 70, altura max 5 pisos, distanciamiento OGUC, agrupamiento aislado sin adosamiento. p8: continua la fila (altura maxima 17,5 m). Ademas en p7, en prosa (art.9): las viviendas sociales y el equipamiento municipal NO REQUIEREN ANTEJARDIN. Confirmado en render.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:46:13",
+  "fin": "2026-07-15T14:49:15",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3591_sector_seab3_pag7-8.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "S-E-Ab3'"
+    ],
+    "confianza": "ALTA",
+    "nota": "Este es el decreto fuente que 346/2023 (registrado FALLIDO en lote anterior por tabla ausente) pretendia rectificar -- la tabla real esta aqui: densidad 840 hab/ha, predial 1500m2, CC 2,0, COS 0,4, rasante 70, altura 5 pisos/17,5m, aislado sin adosamiento. Plus art.9: viviendas sociales/equipamiento municipal sin antejardin. Coincide con nota_fase3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_1c55130194",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PADEM.2010.pdf",
+  "nombre": "las_condes_PADEM.2010.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 169,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:54:30",
+  "fin": "2026-07-14T15:56:25",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "NO ES PRC: es el PADEM 2010 (Plan Anual de Desarrollo Educativo Municipal) de Las Condes: matricula, SIMCE/PSU, dotacion docente, presupuesto educativo. Busqueda en las 169 paginas de 'uso de suelo', 'constructibilidad', 'coef. ocupacion', 'predial', 'antejardin', 'zonificacion', 'plan regulador': CERO coincidencias. 5 paginas renderizadas y miradas. Documento mal incluido en el corpus."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "puerto_varas_96cc9be283",
+  "comuna": "puerto_varas",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_varas_decreto_alcaldicio_ordenanza_plan_regulador_publicado_y_promulgado_en_diario_ofi__Ordenanza Plan regulador.pdf",
+  "nombre": "puerto_varas_decreto_alcaldicio_ordenanza_plan_regulador_publicado_y_promulgado_en_diario_ofi__Ordenanza Plan regulador.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 62,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:01:56",
+  "fin": "2026-07-15T08:04:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        22,
+        45
+      ]
+    ],
+    "paginas_utiles": 24,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Pag1-6 decreto promulgacion + tabla votacion observaciones por rol propiedad, no normas. Titulo II Art.15 Normas de usos de suelo pag23 hasta Art.36 Zona ZAV pag44 (Cuadro45). 18 zonas con cuadro doble (Usos de Suelo + Normas Edificacion: superficie predial minima, COS, coef.constructibilidad, altura max, agrupamiento, adosamiento, distanciamiento medianeros, antejardin, densidad bruta max): ZT1,ZT2,ZT3,ZH1,ZH2,ZH3,ZH4,ZH5,ZC,ZCC,ZP,ZM,ZMT,ZEM,ZES,ZE1,ZE2,ZI,ZEC,ZPU,ZAV (Cuadros4-45). Pag45+ Cap.II areas de riesgo y Cap.III patrimonial (MH/ICH), excluidos. Rango 22-45 con margen (Art.13-14 previo)."
+  }
+}

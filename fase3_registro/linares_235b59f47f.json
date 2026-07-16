@@ -1,0 +1,20 @@
+{
+  "id": "linares_235b59f47f",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\linares_71_modificacion_al_plan_regulador_linares__mod_rengo.pdf",
+  "nombre": "linares_71_modificacion_al_plan_regulador_linares__mod_rengo.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:34:23",
+  "fin": "2026-07-15T08:36:00",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Pagina de Diario Oficial (5-dic-2001) que contiene DOS publicaciones distintas: continuacion de 'Modificacion PRC de TALCA' (comuna ajena, parte superior) y 'Promulga Modificacion al PRC de LINARES' (Enmienda Zona ZR-4 sector Januario Espinosa + art.29 Vialidad Estructurante, calle Rengo). El contenido de Linares visible en esta pagina es solo tabla de VIALIDAD (ancho entre lineas oficiales, calle Rengo tramo Brasil-A.Prat), excluida del alcance de esta fase; no se aprecia cuadro de usos de suelo/COS/CC/altura en esta pagina."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_1ad933d1e7",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_15-Ord.Alc.N14-261-del-10sep2021-a-SEREMI-MMA-Modif.N11.pdf",
+  "nombre": "las_condes_15-Ord.Alc.N14-261-del-10sep2021-a-SEREMI-MMA-Modif.N11.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:27:23",
+  "fin": "2026-07-15T08:30:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord.Alc N14-261/2021 de la Alcaldesa de Las Condes a SEREMI Medio Ambiente: analisis juridico que justifica que la Modificacion N11 al PRC NO es sustancial (no altera alturas, COS, CC, densidad, etc). Tabla de argumentacion legal articulo 29 letra d), no cuadro de normas urbanisticas."
+  }
+}

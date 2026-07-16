@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_e3024ebd91",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4479.28dic2004.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "LAS CONDES: Diario Oficial 28-dic-2004 (decreto 4.479), aprueba el Plano Seccional de la Zona de Uso de Suelo Especial 5, PS-U-Ee5. Norma en p2-4, EN TEXTO PLANO (sin trampa): detalla en el Cap IV Art 40 el 'CUADRO DE USOS DE SUELO ZONA U-Ee5', con columnas por tipo de via (local, servicio, colectora, troncal, expresa) y por cada clase (salud, educacion, culto y cultura, etc.) las actividades permitidas y sus condiciones (a veces con COS y CC incrustados en el texto de la condicion, no como columna aparte, por eso un grep exacto por 'coeficiente de constructibilidad' puede fallar).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:14:41",
+  "fin": "2026-07-15T23:22:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_4479_zona_uee5_cuadro_usos_pag2-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-Ee5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3: cuadro completo de usos por clase de equipamiento y ancho minimo de via exigido, transcrito de forma condensada (regla + umbral de ancho de via por actividad, en vez de repetir literalmente las celdas SR redundantes). Sin COS/CC en este cuadro."
+  }
+}

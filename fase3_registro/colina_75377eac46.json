@@ -1,0 +1,25 @@
+{
+  "id": "colina_75377eac46",
+  "comuna": "colina",
+  "ruta": "Ordenanzas ordenadas\\colina_6b83a47-5c3b.pdf",
+  "nombre": "colina_6b83a47-5c3b.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 51,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:10:54",
+  "fin": "2026-07-15T08:21:10",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        20,
+        47
+      ]
+    ],
+    "paginas_utiles": 28,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Cap. IV Macrozonificacion/Zonificacion/Uso del Suelo y Normas Especificas, Art.4.2: cuadros zona por zona (usos permitidos/prohibidos, densidad, predial minimo, COS, CC, altura, agrupamiento, antejardin) desde p.20 (canteras) y A1..A13, B1-B5, C1-C2, E1-E4, hasta R1-R7 (areas de riesgo/restriccion) en p.47; Cap.V (vialidad) inicia p.48."
+  }
+}

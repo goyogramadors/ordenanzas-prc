@@ -1,0 +1,20 @@
+{
+  "id": "villarrica_42aded7e96",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_antecedentes_respecto_de_modificacion_del_plan_regulador_comunal__oficio_670_2021_sai_mu339T0001562.pdf",
+  "nombre": "villarrica_antecedentes_respecto_de_modificacion_del_plan_regulador_comunal__oficio_670_2021_sai_mu339T0001562.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:05:16",
+  "fin": "2026-07-15T08:07:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Formulario Portal Transparencia (solicitud MU339T0001562): pregunta por areas modificadas de una modificacion PRC en curso, referencia oficio adjunto distinto. Solo datos administrativos de la solicitud, sin oficio de respuesta ni contenido normativo."
+  }
+}

@@ -1,0 +1,748 @@
+[
+ {
+  "id": "d0207",
+  "comuna": "pitrufquen",
+  "nombre_documento": "plan_regulador",
+  "archivo": "pitrufquen_plan_regulador__PLADECO%202023-2026.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 110,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ACTUALIZACIÓN PLAN DE DESARROLLO COMUNA\r\nDE PITRUFQUÉN\r\nPERÍODO 2023 - 2026\r\n\r\nFinanciado por la Subsecretaría de\r\nDesarrollo Regional y\r\nAdministrativo - SUBDERE\r\n\r\n\fÍNDICE\r\n\r\nPalabras de la Alcaldesa ________________________________________ 5\r\n1.\r\n2.\r\n3.\r\n\r\nMARCO TEÓRICO INTRODUCTORIO ________________________ 7\r\nREGIÓN DE LA ARAUCANÍA _______________________________ 9\r\nCOMUNA DE PITRUFQUÉN _______________________________ 12\r\n3.1.\r\n3.2.\r\n3.3.\r\n\r\nANTECEDENTES LIMÍTROFES _______________________ 12\r\nANTECEDENTES HISTÓRICOS _______________________ 15\r\nANTECEDENTES ESTADÍSTICOS ______________________ 18\r\n3.3.1.\r\n3.3.2.\r\n3.3.3.\r\n3.3.4.\r\n3.3.5.\r\n3.3.6.\r\n\r\n3.4.\r\n4.\r\n5.\r\n6.\r\n7.\r\n8.\r\n9.\r\n\r\nIndicadores demográficos ___________________ 18\r\nIndicadores sociales ________________________ 20\r\nIndicadores de salud________________________ 21\r\nIndicadores educacionales ___________________ 23\r\nIndicadores económicos _____________________ 25\r\nIndicadores de seguridad ____________________ 29\r\n\r\nANTECEDENTES VARIOS ___________________________ 30\r\n\r\nANÁLISIS Y COMPLEMENTACIÓN GLOBAL DEL DIAGNÓSTICO ____ 32\r\nCONCLUSIONES _________________________________________ 56\r\nVISIÓN, MISIÓN Y VALORES INSTITUCIONALES _________________60\r\nEJES DE DESARROLLO COMUNALES Y OBJETIVOS ESTRATÉGICOS __ 65\r\nPLAN DE INVERSIONES ____________________________________87\r\nCONTROL Y EVALUACIÓN _________________________________104\r\n\r\n2\r\n\r\n\fÍNDICE TABLAS\r\nTabla 1: Población total Censo 2017 y Proyección 2023 ____________________"
+ },
+ {
+  "id": "d0866",
+  "comuna": "pitrufquen",
+  "nombre_documento": "28_modificacion_del_plan_regulador_comunal_de_pitrufquen",
+  "archivo": "pitrufquen_28_modificacion_del_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 4,
+   "normas_urbanisticas": 3,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 15,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 28, VIVIENDA (2012)\r\n\r\nDecreto 28\r\nAPRUEBA MODIFICACIÓN DE PLAN REGULADOR COMUNAL DE PITRUFQUÉN\r\nDE CONFORMIDAD CON LAS DISPOSICIONES DE LA LEY Nº 16.282, ART. 27\r\nMINISTERIO DE VIVIENDA Y URBANISMO\r\nPublicación: 12-ENE-2013 | Promulgación: 27-ABR-2012\r\nVersión: Única De : 12-ENE-2013\r\nUrl Corta: https://bcn.cl/3q3b6\r\n\r\nAPRUEBA MODIFICACIÓN DE PLAN REGULADOR COMUNAL DE PITRUFQUÉN DE CONFORMIDAD CON LAS\r\nDISPOSICIONES DE LA LEY Nº 16.282, ART. 27\r\nSantiago, 27 de abril de 2012.- Hoy se decretó lo que sigue:\r\nNúm. 28.- Visto: Lo dispuesto en el DL Nº 1.305, de 1975; la ley Nº 16.391,\r\nen especial su artículo 21 inciso cuarto; el artículo 27 del decreto Nº 104, del\r\nMinisterio del Interior, de 1977, que fija el texto refundido, coordinado y\r\nsistematizado del Título I de la ley Nº 16.282; el DFL Nº 458, de Vivienda y\r\nUrbanismo, de 1975, Ley General de Urbanismo y Construcciones; el DS Nº 47, del\r\nMinisterio de Vivienda y Urbanismo, de 1992, Ordenanza General de Urbanismo y\r\nConstrucciones; el DS Nº 150, del Ministerio del Interior y Seguridad Pública, del\r\n27 de febrero de 2010 (D.O. del 2 de marzo de 2010), que declara a las Regiones de\r\nValparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío, de la\r\nAraucanía y Metropolitana de Santiago como afectadas por la catástrofe derivada del\r\nsismo con características de terremoto ocurrido en dichas regiones el 27 de febrero\r\nde 2010; el DS Nº 148, del Ministerio del Interior y Seguridad Pública, del 23 de\r\nfebrero"
+ },
+ {
+  "id": "d0867",
+  "comuna": "pitrufquen",
+  "nombre_documento": "801_aprueba_enmienda_al_plan_regulador_comunal_de_pitrufquen",
+  "archivo": "pitrufquen_801_aprueba_enmienda_al_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 801 EXENTO, PITRUFQUÉN (2017)\r\n\r\nDecreto 801 EXENTO\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PITRUFQUÉN\r\nMUNICIPALIDAD DE PITRUFQUÉN\r\nPublicación: 09-AGO-2017 | Promulgación: 28-JUN-2017\r\nVersión: Única De : 09-AGO-2017\r\nUrl Corta: https://bcn.cl/3lwzl\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE PITRUFQUÉN\r\nNúm. 801 exento.- Pitrufquén, 28 de junio de 2017.\r\nVistos:\r\n1.- El decreto alcaldicio exento Nº 1.206, de fecha 24 de noviembre de 2016,\r\nque aprueba el Presupuesto Municipal de Ingresos, Gastos y sus anexos para el año\r\n2017.\r\n2.- La Ley Nº 19.886, Bases sobre Contratos Administrativos de Suministro y\r\nPrestación de Servicios y su respectivo Reglamento.\r\n3.- La presentación de la Enmienda al Concejo Municipal con fecha 14/03/2017,\r\nen sesión ordinaria Nº 10.\r\n4.- La Audiencia Pública de fecha 04/04/2017 en donde se expuso a la\r\nciudadanía la Enmienda del Plan Regulador Comunal de Pitrufquén.\r\n5.- El informe Nº 59/2017 de fecha 27/06/2017, de la Secretaría Comunal de\r\nPlanificación, Secplan, en el que se deja constancia que la Enmienda estuvo expuesta\r\nal público entre el 14/03/2017 hasta el 04/04/2017.\r\n6.- El certificado Nº 305 con fecha 11/05/2017, que contiene el acuerdo N° 54\r\ndel Concejo Municipal, adoptado en sesión ordinaria número 16, celebrada con fecha\r\n09/05/2017, que aprueba el proyecto de Enmienda número 1 del Plan Regulador Comunal\r\nde Pitrufquén.\r\n7.- La resolución Nº 1.600/2008, de la Contraloría General de la República,\r\nque fija las N"
+ },
+ {
+  "id": "d0868",
+  "comuna": "pitrufquen",
+  "nombre_documento": "8_promulga_plan_regulador_comunal_de_pitrufquen",
+  "archivo": "pitrufquen_8_promulga_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (altura_maxima, agrupamiento, antejardin, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Resolucion 8, INTERIOR (1993)\r\n\r\nResolución 8\r\nPROMULGA PLAN REGULADOR COMUNAL DE PITRUFQUEN\r\nMINISTERIO DEL INTERIOR\r\nPublicación: 28-SEP-1993 | Promulgación: 12-AGO-1993\r\nVersión: Única De : 28-SEP-1993\r\nUrl Corta: https://bcn.cl/3mw9o\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE PITRUFQUEN\r\nNúm. 008.- Temuco, 12 de agosto de 1993.- Vistos:\r\n01) El Ordinario N° 02109 del 26.07.93 de la Secretaría Regional Ministerial de\r\nla Vivienda.\r\n02) El Decreto Alcaldicio Exento N° 14 de 26.02.93 de la Municipalidad de\r\nPitrufquén.\r\n03) El Memorandum N° 31 del 05.08.93 del Secretario Ejecutivo del Consejo\r\nRegional del Gobierno Regional al Ejecutivo de éste.\r\n04) Los art. 36 letra c) y 24 letra o) de la Ley 19.175.\r\n05) El art. 45 del DFL. 458 de 1976 (V.U.) Ley General de Urbanismo y\r\nConstrucción.\r\n06) El DS. 47 (V. y U.) de 1992 Ordenanza General de Urbanismo y Construcción,\r\nArtículo 2.1.6 2.1.7.\r\n07) La Resolución N° 55 de la Contraloría General de la República.\r\nConsiderando:\r\n01) Que por el Ordinario de los Vistos 01 la Seremi de Vivienda IX Región,\r\nremitió al Gobierno Regional de La Araucanía, acompañando al efecto un informe\r\nfavorable, la modificación del Plano Regulador de la Comuna de Pitrufquen, aprobado\r\npor Decreto 198 del Ministerio de Vivienda y Urbanismo del 25 de Noviembre de 1983 y\r\npublicado en el Diario Oficial el 31 de Enero de 1984, que consiste en cambiar de\r\ndestino el uso del suelo de la Manzana N° 119, de Area Verde a Equipamiento\r\nDeportivo, creándose la Zona B-1"
+ },
+ {
+  "id": "d1227",
+  "comuna": "pitrufquen",
+  "nombre_documento": "198_aprueba_plan_regulador_comunal_de_pitrufquen",
+  "archivo": "pitrufquen_198_aprueba_plan_regulador_comunal_de_pitrufquen__Promulga plan regulador comunal de Pitrufquén 1993.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0869",
+  "comuna": "portezuelo",
+  "nombre_documento": "38802_ordenanza_local_plan_regulador_comunal_de_portezuelo",
+  "archivo": "portezuelo_38802_ordenanza_local_plan_regulador_comunal_de_portezuelo__DO PLAN REGULADOR 2007.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 1,
+   "predial_minima": 9,
+   "altura_maxima": 5,
+   "densidad": 2,
+   "agrupamiento": 23,
+   "antejardin": 13,
+   "rasante": 1,
+   "adosamiento": 2,
+   "distanciamiento": 2,
+   "usos_de_suelo": 34,
+   "ordenanza_local_txt": 3,
+   "articulado": 62,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE2",
+   "ZEI",
+   "ZEXH",
+   "ZEXH-1",
+   "ZHM",
+   "ZHMC",
+   "ZONA",
+   "ZP",
+   "ZPU",
+   "ZR"
+  ],
+  "puntaje_normativo": 16,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "31\r\nCainn\r\n\r\nlj\r\n\r\nr\r\n\r\n1 uní!.,\r\n\r\nC WIIIM Ccmcnniin\r\nluán\r\n\r\nde la l mí\r\n\r\nDIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nSib.do 30 de Juito de 1007\r\n\r\n(9304)\r\nJuan de U Cnu L«¿n - (JUikxi Lnolaúa\r\n\r\nL\r\n\r\ns\r\n\r\n1»\r\n\r\nlibri.,.!,\r\n\r\nI\r\nE-P\r\n\r\ns\r\ns\r\n\r\n11\r\n\r\nAvenida JOTRP Alcuiaudn Kodrígucí\r\nCallrf «nenlennOnnilc\r\nC.ícunulaciiin Nivny IRuu rumiar Mi-\r\n\r\n1\r\nf\r\n\r\n¡\r\n\r\n1\r\nII\r\n\r\nCunino Canctrttno - RiHundi llcmn Je\r\nLa 1 .inccpci.m\r\nKaiowhiUriKiilclaCmetpcian Limite\r\n\r\nE-P\r\nF\r\n\r\nT\r\n\r\nHy l'j.i l'niucmr. Iqulque\r\n\r\n1-P\r\n\r\nS\r\n\r\n'-^\r\n\r\n1 1'\r\n\r\n1\r\n\r\nM\r\n\r\nPromúlgase el Plan Regulador Comuna I de Portezuelo de conformidad a lo indicado en los\r\nsiguientes documentos que lo conforman: Memoria Explicativa, Estudio de Factihilidad.\r\nOrdenanza Local y Plano PRCP-01 confeccionado a escala 1:5.000 por la Municipalidad de\r\nPortezuelo, documentos que por la presente resolución se aprueban.\r\nLos interesados podrán consultar y/o adquirir los antecedentes que conforman el présenle\r\nl'lan Regulador Comunal en la Municipalidad de Porte/uelo.\r\nPubliquese la presente resolución y el texto completo de la Ordenanza en el Diario Oficial\r\nde la República de Chile, un extracto de ambos en un diario de mayor circulación en la comuna\r\ny archívese el plano PRCP-01 en el Conservador de Bienes Raices respectivo.\r\n\r\n1\r\n1 i-\r\n\r\n1\r\n\r\nHen<n dV\r\n\r\nL\r\n\r\nII\r\n11\r\n\r\nAnótese, lómese raían, comuniqúese y publíquese.- María Soledad Toba Veloso, Intendenta Región del Bio Bio.\r\n\r\nPrnkmgnie»! (••!!>\r\n\r\nI-P\r\n\r\nII\r\n\r\nPLAN REGULADOR COMU"
+ },
+ {
+  "id": "d0870",
+  "comuna": "portezuelo",
+  "nombre_documento": "ordenanza_ordenanza_local_plan_regulador_comunal_de_portezuelo",
+  "archivo": "portezuelo_ordenanza_ordenanza_local_plan_regulador_comunal_de_portezuelo__prc.mod.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 42,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 8,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIAGNOSTICO Y ACTUALIZACION\r\nPLANES REGULADORES COMUNALES\r\nAREA PROGRAMA Nº 2 QUIRIHUE\r\n\r\nPLAN REGULADOR COMUNAL DE\r\nPORTEZUELO\r\n\r\nORDENANZA LOCAL\r\n\r\nMANUEL DURAN ILIGARAY\r\n\r\nArquitecto consultor\r\n\r\n1\r\n\r\n\fPLAN REGULADOR COMUNAL DE PORTEZUELO\r\nORDENANZA LOCAL\r\nCAPITULO I\r\n\r\nDISPOSICIONES GENERALES\r\n\r\nARTICULO 1.- La presente Ordenanza Local contiene las normas referentes al límite\r\nurbano, zonificación, usos de suelo, condiciones de subdivisión predial, de edificación, de\r\nurbanización y vialidad, que regirán dentro del área territorial urbana del Plan Regulador\r\nComunal de Portezuelo, de acuerdo a lo graficado en el Plano PRCP- 01, escala 1:5.000, en\r\nadelante el Plano, con cuya información gráfica es complementaria.\r\nARTICULO 2.- El área territorial urbana reglamentada por el presente Plan Regulador\r\nestá definida por el límite urbano del centro urbano de Portezuelo, que corresponde a la\r\nlínea poligonal cerrada entre los puntos 1 al 16 y 1, cuya descripción de puntos y tramos se\r\ndescriben en el Artículo 6 de esta Ordenanza.\r\nARTICULO 3.- Todas aquellas materias atinentes al desarrollo urbano que no estuvieren\r\nnormadas por las disposiciones de la presente Ordenanza, deberán regirse por lo establecido\r\nen la Ley General de Urbanismo y Construcciones y su Ordenanza General y demás\r\ndisposiciones legales y reglamentarias sobre la materia.\r\nARTICULO 4.- De conformidad a la Ley General de Urbanismo y Construcciones,\r\ncorresponde a la Dirección de Obras Municipales de Portezuelo"
+ },
+ {
+  "id": "d0871",
+  "comuna": "portezuelo",
+  "nombre_documento": "ordenanza_plan_regulador_comunal_de_la_comuna_de_portezuelo",
+  "archivo": "portezuelo_ordenanza_plan_regulador_comunal_de_la_comuna_de_portezuelo__prc1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 35,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\nMUNICIPALIDAD DE PORTEZUELO\r\nDIRECCIÓN DE OBRAS MUNICIPALES\r\n\r\nPortezuelo, 17 de octubre de 2006.\r\nLas facultades que me confiere la Ley 18.695 Orgánica Constitucional de\r\nMunicipalidades, texto refundido fijado por el D.F.L. N° 1/19704, de 2001 del\r\nMinisterio del Interior y sus modificaciones posteriores.\r\nCONSIDERANDO:\r\nLa necesidad de aprobar el Plan Regulador Comunal de la Comuna de Portezuelo\r\nEl Acuerdo del Concejo Municipal de dar Inicio al Proceso de Aprobatoria al Plan\r\nRegulador Comunal, adoptado en Sesión Extraordinaria N° 26 de fecha 18-05-2006,\r\nacuerdo (01/26/06).\r\n<* El Artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcción, publicado\r\nen el Diario Oficial el 20-04-2002, en el cual se detalla el proceso de aprobación de\r\nlos planes reguladores.\r\n<* La Resolución Exenta N° 282 de fecha 25-08-2006 de la Comisión Nacional del Medio\r\nAmbiente, VIH Región, mediante la cual califica favorablemente el proyecto del Plan\r\nRegulador Comunal comuna de Portezuelo.\r\n*> El Acuerdo del Concejo Municipal de aprobar el Plan Regulador Comunal, adoptado\r\nen Sesión Extraordinaria N° 32 de fecha 25-09-2006, acuerdo (02/32/06).\r\nv\r\n.%\r\n\r\nDECRETO N°: 1022/\r\n\r\nAPRUÉBESE Plan Regulador Comunal de la comuna de Portezuelo.\r\nREMÍTANSE los antecedentes a la Secretaria Regional Ministerial de Vivienda y\r\nUrbanismo para continuar con el proceso.\r\nANÓTESE, COMUNIQÚESE, PUBLIQUESE Y ARCHÍVESE.\r\n\r\nRene Schuffeneger\r\nSECRETARIO MUNICIPAL\r\nMSA/RSS/PE^arv\r\nComunic"
+ },
+ {
+  "id": "d1228",
+  "comuna": "porvenir",
+  "nombre_documento": "decreto_alcaldicio_1274_autoriza_adquisicion_de_servicio_de_publicacion_de_la_im",
+  "archivo": "porvenir_decreto_alcaldicio_1274_autoriza_adquisicion_de_servicio_de_publicacion_de_la_im__1274_29-11-2021.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1229",
+  "comuna": "porvenir",
+  "nombre_documento": "decreto_alcaldicio_1275_autoriza_adquisicion_de_servicio_de_publicacion_de_la_im",
+  "archivo": "porvenir_decreto_alcaldicio_1275_autoriza_adquisicion_de_servicio_de_publicacion_de_la_im__1275_29-11-2021.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0872",
+  "comuna": "pozo_almonte",
+  "nombre_documento": "plan_regulador",
+  "archivo": "pozo_almonte_plan_regulador__MODIFPR.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CUENTA PÚBLICA PERÍODO 2017\r\nILUSTRE MUNICIPALIDAD DE POZO ALMONTE\r\n\r\nESTUDIO MODIFICACIÓN PLAN REGULADOR COMUNAL DE POZO ALMONTE Y\r\nFORMULACIÓN PLAN SECCIONAL LA TIRANA\r\nDescripción de la Obra: Plan Regulador de la comuna de Pozo Almonte, es un instrumento de\r\nplaniicación territorial que orienta el proceso de desarrollo físico y funcional del área urbana\r\nde la comuna de Pozo Almonte, y se encuentra compuesto por la presente Ordenanza,\r\nMemoria Explicativa, Estudio de Factibilidad de Agua Potable y Alcantarillado y Planos, los\r\nque constituyen un solo cuerpo legal , de acuerdo a lo dispuesto por la Ley General de\r\nUrbanismo y Construcciones, y su Ordenanza General.\r\n\r\nESTUDIO MODIFICACIÓN PLAN REGULADOR COMUNAL DE\r\nPOZO ALMONTE Y FORMULACIÓN PLAN SECCIONAL LA TIRANA\r\n\r\nSECPLAC\r\n\r\nMONTO\r\n\r\n$ 202.000.000.-\r\n\r\nESTADO\r\n\r\nEJECUCION\r\n\r\nPág. 056"
+ },
+ {
+  "id": "d0208",
+  "comuna": "primavera",
+  "nombre_documento": "decreto_alcaldicio_292_designa_contraparte_tecnica_plan_regulador_de_la_comunal",
+  "archivo": "primavera_decreto_alcaldicio_292_designa_contraparte_tecnica_plan_regulador_de_la_comunal___DECRETO-N292-B.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0873",
+  "comuna": "puchuncavi",
+  "nombre_documento": "1455_diario_oficial_07092011_decreto_alcaldicio_n_1455_de_22082011_aprueba_proye",
+  "archivo": "puchuncavi_1455_diario_oficial_07092011_decreto_alcaldicio_n_1455_de_22082011_aprueba_proye__enmienda.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 2,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z2",
+   "Z2a",
+   "ZONA"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 7 de Septiembre de 2011\r\n\r\nNº 40.055\r\n\r\nArtículo 31.- El quórum para sesionar será de un\r\ntercio de los consejeros en ejercicio. Los acuerdos se\r\nadoptarán por la mayoría de los consejeros presentes,\r\nsalvo que la ley exija un quórum especial.\r\nSi dentro de los quince minutos inmediatamente\r\nsiguientes a la hora de la citación no se reuniere el\r\nquórum mínimo para entrar en sesión, el Secretario\r\nMunicipal dejará constancia de ello en el Acta respectiva, indicando la nómina de consejeros presentes y\r\ndeclarará fracasada la sesión. Se levantará la sesión\r\ntoda vez que ella quede con un quórum inferior al\r\nrequerido para sesionar.\r\nToda elección que resulte en empate deberá ser\r\nrepetida. De persistir el empate corresponderá al alcalde ejercer el voto dirimente.\r\nTÍTULO VI\r\nDe la reforma del reglamento del Consejo\r\nArtículo 32.- El presente Reglamento podrá ser\r\nmodificado por los dos tercios de los miembros del\r\nConcejo Municipal, previo informe del Consejo Comunal de Organizaciones de la Sociedad Civil.\r\nPara dichos efectos, el Alcalde, junto a la proposición que realice al Concejo Municipal, entregará\r\nésta a cada uno de los miembros del Consejo, quedando convocado éste de pleno derecho a sesión extraordinaria, en la cual se acordará el informe.\r\nDicha sesión de Consejo deberá realizarse no\r\nantes de quince ni después de treinta días de efectuada\r\nla proposición de reforma al Concejo Municipal.\r\nArtículo 33.- Los plazos del "
+ },
+ {
+  "id": "d0874",
+  "comuna": "puchuncavi",
+  "nombre_documento": "1576_diario_oficial_05092009_decreto_alcaldicio_n_1859_de_28082009_actualizacion",
+  "archivo": "puchuncavi_1576_diario_oficial_05092009_decreto_alcaldicio_n_1859_de_28082009_actualizacion__planregulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 19,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, ordenanza_local_txt, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Página 14\r\n\r\n(13926)\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 5 de Septiembre de 2009\r\n\r\nNº 39.455\r\n\r\nCAPÍTULO V\r\n\r\nMUNICIPALIDAD DE PUCHUNCAVÍ\r\n\r\nDe los servicios veterinarios municipales\r\n\r\nAPRUEBA PROYECTO ‘‘ACTUALIZACIÓN PLAN REGULADOR, COMUNA DE\r\nPUCHUNCAVÍ’’\r\n\r\nArtículo 30º: La Municipalidad de Las Condes, a través de su Departamento de\r\nHigiene Ambiental, podrá prestar servicios veterinarios por sí mismo o a través de terceros,\r\na perros y gatos, para lo cual podrá organizar campañas masivas para la vacunación\r\nantirrábica, control de garrapatas, identificación animal u otras, que contribuyan a la\r\nprotección de la salud pública, al fomento de la tenencia responsable y a la salud animal de\r\nestas mascotas.\r\nAsimismo, podrá también impartir cursos de educación, obediencia y adiestramiento\r\ncanino, prestar servicios veterinarios para la atención primaria y tenencia responsable de perros\r\ny gatos, como asimismo, realizar servicios de esterilización y castración.\r\nArtículo 31º: Los requisitos para solicitar los servicios veterinarios y adiestramiento\r\no educación canina que preste la municipalidad, serán definidos por la Dirección de\r\nDesarrollo Comunitario y el Departamento de Higiene Ambiental que, para este efecto,\r\nelaborará y desarrollará los programas municipales destinados para estos fines, cuya\r\nvigencia será anual.\r\nCAPÍTULO VI\r\nDe los caniles municipales\r\nArtículo 32º: La municipalidad dispondrá de un recinto destinado a caniles municipales,\r\nlos cuales"
+ },
+ {
+  "id": "d1230",
+  "comuna": "puchuncavi",
+  "nombre_documento": "504_aprueba_proyecto_enmienda_al_plan_regulador_localidad_de_horcon_comuna_de_pu",
+  "archivo": "puchuncavi_504_aprueba_proyecto_enmienda_al_plan_regulador_localidad_de_horcon_comuna_de_pu__DA504-22.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 7,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0209",
+  "comuna": "pucon",
+  "nombre_documento": "140_aprueba_enmienda_al_plano_regulador_comunal_de_pucon",
+  "archivo": "pucon_140_aprueba_enmienda_al_plano_regulador_comunal_de_pucon__2263188.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 4,
+   "altura_maxima": 8,
+   "agrupamiento": 1,
+   "antejardin": 2,
+   "rasante": 4,
+   "distanciamiento": 8,
+   "zonificacion": 2,
+   "usos_de_suelo": 4,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-3",
+   "Z-3A",
+   "Z3",
+   "ZONA",
+   "ZR-4"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.465\r\n\r\n|\r\n\r\nMartes 31 de Enero de 2023\r\n\r\n|\r\n\r\nPágina 1 de 6\r\n\r\nNormas Generales\r\nCVE 2263188\r\n\r\nMUNICIPALIDAD DE PUCÓN\r\n\r\nAPRUÉBESE ENMIENDA A PLAN REGULADOR COMUNAL DE LA COMUNA\r\nDE PUCÓN\r\nNúm. 140 exento.- Pucón, 17 de enero de 2023.\r\nVistos:\r\n1. El decreto exento Nº 3.389 de fecha 14 de diciembre de 2022, mediante el cual se\r\naprueba el Presupuesto Municipal para el año 2023;\r\n2. El programa denominado \"Programa de fortalecimiento de infraestructura pública 2022\";\r\n3. El decreto exento Nº 3.050 de fecha 25 de diciembre del 2019, que aprueba el Diseño de\r\nAnteproyecto Centro Cultural de la comuna de Pucón;\r\n4. El Ord. Seremi Vivienda y Urbanismo Regional Nº 148, de fecha 29 de enero del 2020;\r\n5. La resolución Nº 4 de fecha 18 de febrero de 1994, que promulga el Plan Regulador;\r\n6. Ley Nº 21.202, General de Urbanismo y Construcciones (LGUC), Art. 45º y su\r\nOrdenanza General (OGUC), Art. 2.1.13., decreto 458 y DFL 458 del Ministerio de Vivienda y\r\nUrbanismo;\r\n7. Lo dispuesto en DDU 398/0054 de fecha 5 febrero de 2018, la cual instruye la\r\nelaboración de enmiendas a un Plan Regulador comunal;\r\n8. Concesión Ministerio de Bienes Nacionales a través de resolución exenta Nº 993 de fecha\r\n11.06.2014, concede uso gratuito del inmueble fiscal ubicado en calle Caupolicán lote B2-2\r\nesquina Gerónimo de Aldere"
+ },
+ {
+  "id": "d0210",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_1_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_1_lamina_descriptiva_plan_regulador__11e920_216cf5_PTE_ALTO_1_%20Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0211",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_2_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_2_lamina_descriptiva_plan_regulador__cfb2f1_PTE_ALTO_2_%20Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0212",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_3_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_3_lamina_descriptiva_plan_regulador__63e45f_PTE_ALTO_3_%20Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0213",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_4_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_4_lamina_descriptiva_plan_regulador__5ace3d_PTE_ALTO_4%20_Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0214",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_5_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_5_lamina_descriptiva_plan_regulador__6bd1a2_Y__Cad_PTEALTO5%20Model%20(1.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0215",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_6_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_6_lamina_descriptiva_plan_regulador__56f5c2_PTE_ALTO_6_%20Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0216",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_7_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_7_lamina_descriptiva_plan_regulador__1daa1f_PTE_ALTO_7_Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0217",
+  "comuna": "puente_alto",
+  "nombre_documento": "ordenanza_8_lamina_descriptiva_plan_regulador",
+  "archivo": "puente_alto_ordenanza_8_lamina_descriptiva_plan_regulador__edf4bb_PTE_ALTO_8_%20Model.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

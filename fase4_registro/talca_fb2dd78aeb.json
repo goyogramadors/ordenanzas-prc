@@ -1,0 +1,28 @@
+{
+  "id": "talca_fb2dd78aeb",
+  "comuna": "talca",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\talca_2081_aprueba_proyecto_plan_seccional_modificacion_parte_de_la_zona_z_6_del_plan___Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto 2081/2004 Talca, gemelo del decreto 1822: Plan Seccional Modificacion parte Zona Z-6, crea subzona Z-6H1 (3,68 ha). MISMOS VALORES que Z-6H2/Z-6H3: predial min 200 m2, frente 8 m, ocupacion 60%, CC 1,2, agrupamiento aislado/pareado/continuo (max 60% deslinde), altura 9,0 m, antejardin optativo. Mismos usos permitidos y exigencias generales (franja proteccion 10 m + via 8 m).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:13:08",
+  "fin": "2026-07-15T18:16:53",
+  "resultado": {
+    "archivo": "extraccion_normas\\talca\\talca_2081_subzona_z6h1_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Z-6H1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: decreto gemelo de 1822, mismos valores para Z-6H1 que Z-6H2/Z-6H3. Usos y exigencias generales referenciados al documento hermano para evitar duplicacion textual."
+  }
+}

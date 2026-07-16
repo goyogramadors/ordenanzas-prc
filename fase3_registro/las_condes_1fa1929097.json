@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_1fa1929097",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.3193.25jul2007.pdf",
+  "nombre": "las_condes_decreto.3193.25jul2007.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 2,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:52:01",
+  "fin": "2026-07-15T07:53:24",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: este archivo (decreto.3193.25jul2007.pdf, 2 pags) es SOLO el acto administrativo que APRUEBA el proyecto 'Modificacion N4 al PRC Las Condes' (planos UEe1 en Campanario, UVO en Av. Americo Vespucio, poligonos ABCDA/FGHIF) y remite a 'Memoria Explicativa, Planos MRCLC-04 y Texto Resolutivo Aprobatorio, los que se adjuntan a este decreto formando parte integrante de el' -- esos documentos con las normas NO estan en este PDF (ambas paginas repiten el mismo texto administrativo). Existe otro archivo catalogado con el mismo numero de decreto (las_condes_dec.alcaldicio_n_3193_25_jul2007.pdf, id las_condes_39fc446900) que SI contiene contenido normativo real y ya fue registrado por esta sesion; verificar si corresponde al mismo Texto Resolutivo o si falta contenido adicional de esta Modificacion N4 (UEe1/UVO)."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_2f3a067161",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.3591.14oct2022.pdf",
+  "nombre": "las_condes_decreto.3591.14oct2022.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:56:08",
+  "fin": "2026-07-14T16:03:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        8
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 3591 (14-10-2022) Las Condes - ES EL DECRETO QUE EL 346/2023 RECTIFICA (ese quedo FALLIDO por tabla ausente; esta es la fuente). p7: tabla completa del sector S-EAb3': densidad bruta max 840 hab/ha, subdivision predial min 1.500 m2, coef. constructibilidad 2,0, COS 0,4, rasante 70, altura max 5 pisos, distanciamiento OGUC, agrupamiento aislado sin adosamiento. p8: continua la fila (altura maxima 17,5 m). Ademas en p7, en prosa (art.9): las viviendas sociales y el equipamiento municipal NO REQUIEREN ANTEJARDIN. Confirmado en render."
+  }
+}

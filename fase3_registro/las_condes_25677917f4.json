@@ -1,0 +1,29 @@
+{
+  "id": "las_condes_25677917f4",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Texto_Refundido_SEREMI_firmado.pdf",
+  "nombre": "las_condes_Texto_Refundido_SEREMI_firmado.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 96,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:54:35",
+  "fin": "2026-07-14T16:00:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        11
+      ],
+      [
+        17,
+        88
+      ]
+    ],
+    "paginas_utiles": 73,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TEXTO REFUNDIDO ORDENANZA PRC LAS CONDES (SEREMI firmado, 96 pags) - EL DOCUMENTO MAESTRO DE LA COMUNA. Todo en TEXTO VECTORIAL (sin tablas-imagen; verificado con render de p11,17,30,43,60,87,88,89). p11: art.15 Dotacion Minima de Estacionamientos (formato lista, no grilla). p17: Tabla A/B para Predio Existente Remanente de Densificacion (densidad bruta max, subdivision predial min, CC, COS, rasante, altura, antejardin, distanciamiento, adosamiento, agrupamiento). p19-43: Cap.VI Zonificacion y Normas Urbanisticas POR ZONA (art.38), 20 zonas E-Ab1..E-e5, cada una con Tablas A/B/C/D/E segun densificacion. p44-87: art.40 Usos del Suelo Permitidos y Prohibidos, 18 CUADROS DE USO DE SUELO (U-V, U-V1, U-V1', U-V2, U-V2', U-V3, U-VO, U-C1, U-C1', U-C2, U-C2', U-C3, U-M, U-Ee1/2/3/5). p88: cuadro de la norma complementaria 'El Golf Sur' (art.42). p89-96: Cap.VII VIALIDAD, excluido."
+  }
+}

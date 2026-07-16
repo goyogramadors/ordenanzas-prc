@@ -1,0 +1,25 @@
+{
+  "id": "chanaral_592e85ad99",
+  "comuna": "chanaral",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chanaral_373_aprueba_plan_regulador_y_seccional_comunal_chanaral__do-20050413.pdf",
+  "nombre": "chanaral_373_aprueba_plan_regulador_y_seccional_comunal_chanaral__do-20050413.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 36,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:10:38",
+  "fin": "2026-07-15T08:13:11",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        9,
+        13
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 373 exento (17.03.2004), publicado DO 13.04.2005, aprueba Plan Regulador y Seccional Comunal de Chanaral (firmado Alcalde Hector Volta Rojas, sin mezcla de otra comuna). Cuadros de Normas de Urbanizacion y Edificacion pp.9-12 por zona ZU-1..ZU-9, ZE-1, ZE-2 (superficie predio, frente minimo, altura max/pisos, CC, COS por tramos 1-2 pisos/mas de 2/area libre, sistema agrupacion A-P-C, rasante y distanciamiento OGUC, antejardin minimo, adosamiento max %). Ej ZU-1: predio 300-500m2, frente 15m, CC 2.0-3.5, COS 75/40/30, adosamiento max 70%. p.13 Cuadro Z12 sintesis de densidad (hab/hect) y morfologia por zona. Excluidas del rango: pp.4-5 cuadros de deslindes/coordenadas (L1-L5) y pp.14-17 cuadros de vialidad (V1-V9), no son normas de zona."
+  }
+}

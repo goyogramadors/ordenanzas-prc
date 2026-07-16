@@ -1,0 +1,28 @@
+{
+  "id": "cauquenes_3dcb951602",
+  "comuna": "cauquenes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cauquenes_3519_enmienda_n_1_al_plan_regulador_comunal_de_cauquenes__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda N1 PRC Cauquenes. Tabla real pero de UNA fila: zona ZM3 (Mixta Residencial y Equipamiento Educacional), Normas de Subdivision y Edificacion -> Altura maxima 18 m. El decreto aclara que el resto de la norma de ZM3 queda inalterado.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:08:51",
+  "fin": "2026-07-15T14:10:05",
+  "resultado": {
+    "archivo": "extraccion_normas\\cauquenes\\cauquenes_3519_enmienda_n1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZM3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmienda de una sola norma (altura maxima 18m) para ZM3; resto de la tabla ZM3 no modificado y no presente en el documento. Verificado contra nota_fase3: coincide."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "quilicura_0a2c5905c3",
+  "comuna": "quilicura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quilicura_acta_12_1_enmienda_plan_regulador_comunal__3bf9a227-f7b1-454b-af86-bd6a41019fc8.pdf",
+  "nombre": "quilicura_acta_12_1_enmienda_plan_regulador_comunal__3bf9a227-f7b1-454b-af86-bd6a41019fc8.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:17:21",
+  "fin": "2026-07-14T21:19:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        9
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "ES UN ACTA DE AUDIENCIA (Sesion Extraordinaria N12 del Concejo Municipal, 11-10-2017), NO el decreto final: transcribe la presentacion de la Enmienda al PRC en discusion, con valores PROPUESTOS en prosa: zona H1 (altura actual 15 m/5 pisos -> propone 6 pisos), zona H2 (altura actual 7 m/2 pisos -> propone incremento), zona I3 (normada por decretos supremos caducados -> propone 18 m/6 pisos, en concordancia con H1). Tambien antejardines: permite construccion en antejardin en 3 vias (Manuel Antonio Matta tramo San Martin-El Parque, entre otras). Promedio densidad actual 53-83 hab/ha. CONFIANZA MEDIA: son valores en DISCUSION/propuesta en audiencia publica, no necesariamente el texto final aprobado -- verificar si existe el decreto definitivo de esta enmienda en la cola."
+  }
+}

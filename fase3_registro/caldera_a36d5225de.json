@@ -1,0 +1,37 @@
+{
+  "id": "caldera_a36d5225de",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_decreto_alcaldicio_ordenanza_local_actualizacion_plan_regulador_comuna_de_calder__Decreto N°2827-2012 - APRUEBA PLANO SECCIONAL Y ENMIENDAS AL PLAN REGULADOR.pdf",
+  "nombre": "caldera_decreto_alcaldicio_ordenanza_local_actualizacion_plan_regulador_comuna_de_calder__Decreto N°2827-2012 - APRUEBA PLANO SECCIONAL Y ENMIENDAS AL PLAN REGULADOR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 65,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:09:51",
+  "fin": "2026-07-15T08:11:28",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        15,
+        50
+      ],
+      [
+        63,
+        64
+      ]
+    ],
+    "paginas_utiles": 40,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "CALDERA: DUPLICADO de sin_comuna_a0a3c83d43 (mismo Decreto 2827-2012, Aprueba Plano Seccional y Enmiendas al PRC, mismas 65 paginas exactas), pero esta copia es un ESCANEO PURO sin capa OCR (0 caracteres en las 65 paginas), mientras la otra tenia OCR legible. Dado que el conteo de paginas es identico (65), la paginacion deberia coincidir: Art 21 Normas Urbanisticas por Zona en p15-50 (23 zonas urbanas U-1 a U-23 mas zonas de riesgo-proteccion-conservacion historica), tabla de enmiendas en p2, Art 5-6 adosamiento-antejardin en p9, Art 37 estacionamientos en p63-64. CONFIANZA MEDIA: no se verifico visualmente esta copia especifica, se asume misma paginacion que el duplicado ya confirmado. La fase siguiente deberia verificar 2-3 paginas antes de usar este rango a ciegas."
+  }
+}

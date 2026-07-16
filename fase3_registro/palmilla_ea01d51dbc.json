@@ -1,0 +1,20 @@
+{
+  "id": "palmilla_ea01d51dbc",
+  "comuna": "palmilla",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\palmilla_ordenanza_que_aprueba_el_plan_regulador_de_la_comuna_de_palmilla_vigente__b253d327-de0c-4865-8cae-9b373e841ebd.pdf",
+  "nombre": "palmilla_ordenanza_que_aprueba_el_plan_regulador_de_la_comuna_de_palmilla_vigente__b253d327-de0c-4865-8cae-9b373e841ebd.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:41:34",
+  "fin": "2026-07-15T08:44:24",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Oficio 064/2015, Palmilla, 1 pag. Carta respuesta a solicitud de transparencia (Ley 20.285): informa que la ordenanza del PRC solicitada esta disponible en el portal de transparencia externo, no la adjunta. No transcribe norma urbanistica alguna. Verificado visualmente pagina unica."
+  }
+}

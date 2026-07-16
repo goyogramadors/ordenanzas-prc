@@ -1,0 +1,37 @@
+{
+  "id": "santiago_67cb8cc8d6",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_11.-Acuerdo-N_C2_B0407.pdf",
+  "nombre": "santiago_11.-Acuerdo-N_C2_B0407.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:55:05",
+  "fin": "2026-07-15T12:58:03",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        5
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        15,
+        15
+      ],
+      [
+        17,
+        17
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Acuerdo N407 de Concejo (acta votacion observaciones a Anteproyecto modificacion PRC Santiago) + Informe N32 anexo (pag11-18 repite mismo contenido). No trae tabla/grilla de normas por zona; valores puntuales solo dentro de texto narrativo de observaciones: pag5/13 Obs12 altura Subzona B4R/B7bR (24m propuesto vs 16m/6 pisos solicitado), Obs13 COS Zona Conservacion Historica B3 (0.7 vs 0.6 propuesto), Obs14 COS SE B5 (1 vs 0.7 solicitado); pag9 Obs28 rasante ZICH (60 vs 45 grados); pag15 Obs29 alturas maximas Subzona AR/A1R (41.5 y 35.5), Obs31 rasante 60 grados y distanciamiento 6m proteccion patrimonial; pag17 Obs34 altura maxima Subzonas R (70% altura actual normada), Obs35 rasante 45 en subzona R. Cifras dispersas dentro de acta de votacion (mayoria de observaciones RECHAZADAS, no incorporadas al texto final) - confianza MEDIA."
+  }
+}

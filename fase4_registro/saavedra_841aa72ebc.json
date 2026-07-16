@@ -1,0 +1,33 @@
+{
+  "id": "saavedra_841aa72ebc",
+  "comuna": "saavedra",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\saavedra_1_aprueba_plan_regulador_y_ordenanza_local_de_puerto_saaveda__download.aspx.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "PRC histórico 1963 (Puerto Saavedra, DO 1964): Título III Zonificación (6 zonas: residenciales, administrativa, equipamiento urbano, áreas verdes, industrial-inexistente, cooperativa agrícola) + Título IV Art.8-10 superficies edificables 45%, antejardín/medianeras 3m, alturas por tipo edificio (vivienda 1 piso, escuela 8m, iglesia 12m, edificios públicos 7m), cierros 1.60m máx, pareamientos - todo en texto nativo articulado",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:05:20",
+  "fin": "2026-07-15T18:09:45",
+  "resultado": {
+    "archivo": "extraccion_normas\\saavedra\\saavedra_1_prc_1963_6zonas_pag1-2.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "Areas Residenciales",
+      "Area Administrativa",
+      "Area Equipamiento Urbano",
+      "Areas Verdes",
+      "Areas Industriales",
+      "Area Cooperativa Agricola"
+    ],
+    "confianza": "ALTA",
+    "nota": "PRC historico 1963, 6 zonas completas: residenciales (superficie 45%, antejardin 3m, 1 piso, cierros 1,6m), administrativa (7m), equipamiento urbano (por tipo edificio: escuela 8m, iglesia 12m, edif publicos 7m), areas verdes (sin numeros), industrial (no existe), cooperativa agricola (predial min 9000m2 o excepcion 19 viviendas en zona no inundable). Texto nativo completo. Coincide con nota_fase3."
+  }
+}

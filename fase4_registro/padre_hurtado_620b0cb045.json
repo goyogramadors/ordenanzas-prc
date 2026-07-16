@@ -1,0 +1,28 @@
+{
+  "id": "padre_hurtado_620b0cb045",
+  "comuna": "padre_hurtado",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\padre_hurtado_decreto_alcaldicio_999_promulga_la_modificacion_al_plan_regulador_comunal_de_pad__884f5e2b-c53c-4381-89a5-e43e66da378e.pdf",
+  "rangos": [
+    [
+      3,
+      3
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto Alcaldicio999/2019, pag3: texto aprobatorio con tabla completa Zona E2-1 Equipamiento Comunitario -superficie predial minima, COS, coef.constructibilidad, altura maxima, densidad maxima, agrupamiento- mas tabla de usos de suelo permitidos/prohibidos. Pag4 solo cierre y firmas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:22:33",
+  "fin": "2026-07-15T14:28:28",
+  "resultado": {
+    "archivo": "extraccion_normas\\padre_hurtado\\padre_hurtado_999_zona_e2-1_equipamiento_comunitario_pag3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E2-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro completo Zona E2-1 (condiciones edificacion + usos de suelo permitidos/prohibidos) transcrito desde render, confirma nota_fase3."
+  }
+}

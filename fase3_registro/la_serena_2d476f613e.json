@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_2d476f613e",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_1054_cierre_de_calles_pasajes_o_conjuntos_habitacionales__doc_34_1054_30082021122536.pdf",
+  "nombre": "la_serena_1054_cierre_de_calles_pasajes_o_conjuntos_habitacionales__doc_34_1054_30082021122536.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:20:05",
+  "fin": "2026-07-15T08:23:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 1054, 26-ago-2021: modifica la Ordenanza sobre Cierre de Calles, Pasajes o Conjuntos Habitacionales por Motivos de Seguridad Ciudadana (Decreto Alcaldicio 929/2015). Agrega inciso al Art 19 sobre rebaja de derechos durante vigencia del permiso. Ordenanza de seguridad ciudadana/cierre de calles, no PRC. Verificado visualmente, documento de 1 pagina."
+  }
+}

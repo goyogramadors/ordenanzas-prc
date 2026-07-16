@@ -1,0 +1,20 @@
+{
+  "id": "punta_arenas_08b17e8cae",
+  "comuna": "punta_arenas",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\punta_arenas_1045_establece_dejar_sin_efecto_las_declaratoria_de_utilidad_publica_correspondi__Exportar.pdf",
+  "nombre": "punta_arenas_1045_establece_dejar_sin_efecto_las_declaratoria_de_utilidad_publica_correspondi__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:17:01",
+  "fin": "2026-07-14T21:18:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "solo deja sin efecto declaratorias de utilidad pública de vías estructurales; la lista de vías referida ('como sigue:') no está en el texto extraído (posible tabla faltante), pero de todos modos no serían normas urbanísticas de zona sino declaratorias viales"
+  }
+}

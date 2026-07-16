@@ -1,0 +1,25 @@
+{
+  "id": "curico_ae14f9d4de",
+  "comuna": "curico",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curico_239_aprueba_modificacion_del_plano_regulador__239.pdf",
+  "nombre": "curico_239_aprueba_modificacion_del_plano_regulador__239.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:13:51",
+  "fin": "2026-07-15T08:15:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        6
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Pag1-2 portada Diario Oficial (avisos varios, extracto breve Decreto239 al final pag2). Pag3-6 Decreto Exento N230 (25-ene-2013) aprueba definitivamente Enmienda N1 al Art.4.1.3 Ordenanza Local PRC Curico: tablas completas Normas de Subdivision y Edificacion por Usos para zonas ZCC, ZU-1 a ZU-11, ZI(Industrial), ZE-2(Equipamiento Comercial): superficie predial minima, COS, coef.constructibilidad, agrupamiento, distanciamiento, altura maxima, antejardin, densidad maxima, altura de cierros."
+  }
+}

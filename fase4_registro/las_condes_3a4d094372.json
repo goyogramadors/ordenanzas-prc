@@ -1,0 +1,29 @@
+{
+  "id": "las_condes_3a4d094372",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_USO-DE-SUELO.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "PLANO MODIFICACION 7 PRC, LAMINA DE USOS DE SUELO (M.R.C.L.C.-07), Las Condes, ago-2009 (mismo par que la_condes_3a2cadd910, lamina de edificacion). Leyenda define zonas de USO DE SUELO: UV (Zona de Uso de Suelo de Vivienda), UM (Usos Comercio y Equipamientos de Escala Metropolitana), UEe3 (Parques Intercomunales), Parque Pie Andino. Muestra situacion anterior y situacion que se aprueba para el mismo poligono ABCDE sector San Carlos de Apoquindo. Tabla/leyenda de USOS DE SUELO por zona, uno de los tipos de norma objetivo. Verificado visualmente, documento de 1 pagina (2 laminas comparativas).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:17:18",
+  "fin": "2026-07-15T14:22:20",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_modificacion7_lamina_uso_de_suelo.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "UV",
+      "UM"
+    ],
+    "confianza": "ALTA",
+    "nota": "Plano grafico par del anterior (misma modificacion 7, mismo poligono ABCDE): leyenda de usos de suelo UV (vivienda), UM (comercio/equipamientos escala metropolitana), UEe3 (parques intercomunales). Sin valores numericos de edificacion (estan, si existen, en la lamina de edificacion del mismo par, que tampoco los trae). Coincide con nota_fase3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "padre_hurtado_0e9ec0466a",
+  "comuna": "padre_hurtado",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\padre_hurtado_1195_modificacion_plan_regulador__do-20150410.pdf",
+  "nombre": "padre_hurtado_1195_modificacion_plan_regulador__do-20150410.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 84,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:07:59",
+  "fin": "2026-07-14T21:12:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Edicion completa Diario Oficial (84 pags, N41.128, 10-04-2015: Cuerpo I + Cuerpo II + Suplemento Marcas y Patentes INAPI). Padre Hurtado aparece SOLO en p35: Decreto Alcaldicio 1195/2015 'Promulga nomina de terrenos destinados a circulacion cuya declaratoria de utilidad publica ha quedado sin efecto'. El cuadro (Via/Tramo/Ancho/Observaciones) es 100% VIALIDAD (elimina declaratoria de utilidad publica en 12 vias), sin usos de suelo ni COS/CC/altura/densidad. Grep de las 84 pags confirma 0 hits fuera de esta referencia vial. Si se busca la ordenanza con las normas por zona: la fuente es la Resolucion GORE 92/2004 (DO 04-02-2005) = padre_hurtado_b291127d0a, ya registrada."
+  }
+}

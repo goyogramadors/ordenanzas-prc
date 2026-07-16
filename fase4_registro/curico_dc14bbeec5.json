@@ -1,0 +1,28 @@
+{
+  "id": "curico_dc14bbeec5",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_1056_apruebese_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador__1056.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "CURICO: Diario Oficial 28-mar-2026, decreto 1056 exento, ENMIENDA N4 a la Ordenanza Local del PRC. Norma en pag 2, EN TEXTO PLANO (no imagen): incrementa en 20 por ciento la altura maxima de edificacion de la ZONA ZU-1 (Zona Urbana Central 1) del area urbana de Curico, sumando 2,80 m y quedando en 16,80 m; NO aplica a las localidades de Sarmiento, La Obra, Los Niches ni Cordillerilla. Pag 3 = CUADRO DE COORDENADAS de los vertices del poligono ABCDEFGHIJKLMNoPQA donde rige la enmienda (incluida en el rango: delimita el area de aplicacion). Solo afecta a ZU-1, ningun otro parametro.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:43:12",
+  "fin": "2026-07-15T14:45:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\curico\\curico_1056_enmienda4_altura_zu1_pag2-3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: altura +20% (+2,80m) = 16,80m para ZU-1, excluye Sarmiento/La Obra/Los Niches/Cordillerilla. Cuadro completo de 30 vertices del poligono de aplicacion transcrito desde p3."
+  }
+}

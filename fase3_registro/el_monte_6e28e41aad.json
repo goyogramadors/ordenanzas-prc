@@ -1,0 +1,20 @@
+{
+  "id": "el_monte_6e28e41aad",
+  "comuna": "el_monte",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_monte_decreto_alcaldicio_11_contratacion_directa_proveedor_erick_poblete_meza_arriendo__a5c55dc5-55a2-485d-8768-ceb90b3f9108.pdf",
+  "nombre": "el_monte_decreto_alcaldicio_11_contratacion_directa_proveedor_erick_poblete_meza_arriendo__a5c55dc5-55a2-485d-8768-ceb90b3f9108.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:13:58",
+  "fin": "2026-07-15T08:15:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 11 (05.01.2022), I.Municipalidad de El Monte. Autoriza contratacion directa de arriendo de pantalla 3x2 para ceremonia del Plan Regulador. Puramente administrativo-presupuestario, sin norma urbanistica."
+  }
+}

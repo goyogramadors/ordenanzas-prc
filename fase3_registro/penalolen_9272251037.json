@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_9272251037",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_SM2.pdf",
+  "nombre": "penalolen_Zona_SM2.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:44:44",
+  "fin": "2026-07-15T08:45:18",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Extracto 'Zona SM-2'. Tabla usos permitidos/excluidos + 'Condiciones de Subdivisión Predial y de Edificación' completa por destino (vivienda, equip. regional/interurbana, equip. comunal, equip. vecinal, industria/almacenamiento inofensivo): predial mínima 120-1500 m2, frente predial 7-25m, ocupación suelo 70%, coef. constructibilidad 1.0-2.8, densidad 385 hab/há (vivienda), sistema agrupamiento, antejardín, estacionamientos."
+  }
+}

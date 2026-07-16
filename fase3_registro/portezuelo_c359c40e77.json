@@ -1,0 +1,25 @@
+{
+  "id": "portezuelo_c359c40e77",
+  "comuna": "portezuelo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\portezuelo_ordenanza_ordenanza_local_plan_regulador_comunal_de_portezuelo__prc.mod.pdf",
+  "nombre": "portezuelo_ordenanza_ordenanza_local_plan_regulador_comunal_de_portezuelo__prc.mod.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 42,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:01:56",
+  "fin": "2026-07-15T08:03:32",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        19
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Articulado Art.29 Cap.IV Zonificacion, Usos de Suelo y Normas Especificas. Cubre 11 zonas con normas completas (subdivision predial minima, COS, CC, agrupamiento, altura max, densidad, antejardin, usos permitidos/prohibidos): ZHM,ZHMC,ZE,ZE1(salud),ZE2(deportivo),ZPI(industrial),ZEXH-1,ZEXH-2,ZEXHMP,ZPU,ZP,ZR. Empieza pag12 Zonas del Area Consolidada, termina pag19 con ZR; pag20 Cap.V Vialidad. Desde pag21 memoria explicativa de modificacion posterior 2011 que solo cita zona ZE existente como contexto, sin tabla nueva (modificacion afecta solo plano)."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lo_barnechea_d60e51dc96",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_537_promulga_modificacion_n_9_al_plan_regulador_comunal_de_lo_barnechea_sector_c__Exportar.pdf",
+  "nombre": "lo_barnechea_537_promulga_modificacion_n_9_al_plan_regulador_comunal_de_lo_barnechea_sector_c__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 34,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:56:52",
+  "fin": "2026-07-15T08:06:30",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        26,
+        33
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "texto+visual",
+    "nota": "Decreto 537, LO BARNECHEA (2018), Modificacion N9 Sector C. Tablas NORMAS URBANISTICAS/PERMITIDO por zona en pp.26-33: PA1 Pueblo Farellones (predial 600m2, antejardin 5m, COS 0.45, CC 1, agrup. Aislado, altura 2p/7.5m, densidad 145 hab/ha), PA2 Nuevo Farellones (predial 1700m2, COS 0.45, CC 1.2, altura 4p/14m, densidad 240 hab/ha), zonas equipamiento pp.29-30 (predial 600m2, CC 1.8-2.4 con incentivo, altura 3-4p/10.5-14m), PB3 Parque Nieve Farellones p.32 (predial 4000m2, COS 0.05, CC 0.1, altura 2p/10.5m, sin adosamientos), zonas finales p.33 (predial 700m2, COS 0.60, CC 2.4, altura 4p/14m y 6p/21m, densidad 210/340 hab/ha). p.25 es indice de zonas sin valores (excluido). Paginas de bajo char-count 9,16,21 verificadas: son coordenadas UTM de limite urbano, cuadros de estacionamiento y quebradas de riesgo, no tablas de normas (correctamente excluidas). Sin trampa de comuna ajena ni remision a Diario Oficial: todo el contenido numerico esta en el archivo."
+  }
+}

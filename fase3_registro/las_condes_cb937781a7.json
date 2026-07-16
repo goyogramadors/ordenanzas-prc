@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_cb937781a7",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.4675.05nov2013.pdf",
+  "nombre": "las_condes_decreto.4675.05nov2013.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:31:52",
+  "fin": "2026-07-15T08:33:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto4675 (05nov2013). Pag1 solo vistos/considerandos. Pag2 tabla '1.Condiciones de Edificacion' y pag3 tabla '2.Condiciones de Usos de Suelo' para poligono Cerro Apoquindo, columnas Categoria/Individualizacion/Situacion Anterior/Situacion que se aprueba (reclasifica zona a Ee2/UEe2, remite a articulo40 Ordenanza Local para valores)."
+  }
+}

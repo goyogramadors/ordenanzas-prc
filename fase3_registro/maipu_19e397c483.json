@@ -1,0 +1,20 @@
+{
+  "id": "maipu_19e397c483",
+  "comuna": "maipu",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maipu_5069_modificacion_al_plan_regulador_comunal_2004_prorrogas_afectaciones_a_utilid__Publ_diario_decreto_5069_11_2009.pdf",
+  "nombre": "maipu_5069_modificacion_al_plan_regulador_comunal_2004_prorrogas_afectaciones_a_utilid__Publ_diario_decreto_5069_11_2009.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:37:11",
+  "fin": "2026-07-15T08:40:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto5069(2009), Prorroga Vialidad Colectora y Afectaciones a Utilidad Publica. Ambas paginas cuadro de VIALIDAD (tramos calles, ancho calzada, distancias lineas oficiales, afectaciones ensanche/apertura), NO tabla de normas de zona (sin usos suelo/COS/CC/altura)."
+  }
+}

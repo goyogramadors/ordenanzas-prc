@@ -1,0 +1,25 @@
+{
+  "id": "lautaro_15f6fd39f5",
+  "comuna": "lautaro",
+  "ruta": "Ordenanzas ordenadas\\lautaro_decreto_3385_promulga_aprobacion_de_enmienda_al_plan_regulador_de_la_comuna_de_l__3385.pdf",
+  "nombre": "lautaro_decreto_3385_promulga_aprobacion_de_enmienda_al_plan_regulador_de_la_comuna_de_l__3385.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:34:23",
+  "fin": "2026-07-15T08:36:00",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Adm N3385/2017 promulga Enmienda al PRC de Lautaro: modifica art.19 Zona ZE-2 (Areas de Extension Urbana). Norma completa en texto (no tabla grafica): usos permitidos/prohibidos, superficie predial minima 200m2, ocupacion de suelo max 70%, agrupamiento aislado/pareado, altura max 8m. Paginas 2-3."
+  }
+}

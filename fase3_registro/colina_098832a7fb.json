@@ -1,0 +1,25 @@
+{
+  "id": "colina_098832a7fb",
+  "comuna": "colina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\colina_e_62911_plan_regulador_comunal_de_colina__Exportar.pdf",
+  "nombre": "colina_e_62911_plan_regulador_comunal_de_colina__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 63,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:31:29",
+  "fin": "2026-07-14T15:35:32",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        21,
+        62
+      ]
+    ],
+    "paginas_utiles": 42,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ORDENANZA COMPLETA PRC Colina (63 pags). Cap.IV Macrozonificacion/Zonificacion/Usos y Normas Especificas: arts.4.2.1 a 4.2.36, una zona por articulo, p21 (zona A1) a p61-62 (zona R7, luego arranca Cap.V Vialidad). 36 zonas: A1-A13 (con variantes a/b/condicionadas), B1a-B5, C1-C2, E1-E4, R1-R7. Casi todas EN TEXTO PLANO. EXCEPCION: la zona A2 (art.4.2.2, PAGINA 22, solo 812 chars) esta embebida como IMAGEN -> hay que transcribirla mirando el render, pdftotext se la salta (pasa de A1 a A3). ADEMAS: 6 cuadros de apoyo NO estan en este PDF (estacionamientos min. art.3.8 p9, equipamiento art.3.17 p15, zona AC p37-38, quebradas p56, fajas alta tension p59, vialidad art.5.3 p63): el documento solo dice 'VER DIARIO OFICIAL DE 26.03.2010' -> son inextraibles de aqui, hay que buscar ese DO aparte."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e5fcdd017c",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PL_lamina-01_PLANO-REGULADOR.pdf",
+  "nombre": "las_condes_PL_lamina-01_PLANO-REGULADOR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:34:11",
+  "fin": "2026-07-15T08:36:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Lamina N1 Plano de Edificacion MPRCLC 2020 (Modificacion N11): plano cartografico a color con simbologia de zonas (E-Ab1,E-Am2,E-Aa3, sectores especiales) y recuadro de aprobacion. Solo zonificacion grafica georreferenciada, sin tabla numerica COS/CC/altura/usos."
+  }
+}

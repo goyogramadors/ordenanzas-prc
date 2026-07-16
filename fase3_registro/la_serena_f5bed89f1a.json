@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_f5bed89f1a",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3738_ordenanza_derechos_municipales__doc_34_05082020045945.pdf",
+  "nombre": "la_serena_3738_ordenanza_derechos_municipales__doc_34_05082020045945.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:26:31",
+  "fin": "2026-07-15T08:27:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 3738/2016 aprueba Ordenanza sobre Derechos Municipales por Permisos, Concesiones y Servicios: tablas de tarifas por tramites municipales, no normas urbanisticas de zonificacion."
+  }
+}

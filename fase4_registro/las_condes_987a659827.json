@@ -1,0 +1,26 @@
+{
+  "id": "las_condes_987a659827",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_MEMORIA-MODIFICACION-7-PRC.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "MEMORIA MODIFICACION N7 PRC de Las Condes, ago-2009 (memoria del mismo par de planos ya registrados: las_condes_3a2cadd910 edificacion y las_condes_3a4d094372 uso de suelo). Pagina 4, seccion 'Calculo de Densidad en el Proyecto': cita valor real de DENSIDAD para la actual area de edificacion Eab4: 'varia entre 2 y 25 viv/ha', usado para calcular perdida de poblacion (14 a 177 viviendas, 8 a 708 hab/ha) y verificar cumplimiento del minimo de 150 hab/ha del Plan Regulador Metropolitano de Santiago. Paginas 2-3 describen objetivos de la modificacion (ampliacion area UM usos comercio/equipamiento, modificacion trazado Avenida Plaza). Verificado visualmente las 4 paginas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:13:51",
+  "fin": "2026-07-15T23:20:40",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_memoria_modificacion7_densidad_eab4_pag2-4.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "ALTA",
+    "nota": "Memoria de fundamentacion del par ya registrado (lamina edificacion + uso de suelo, Modificacion 7). No define zona nueva: solo objetivos (ampliacion UM, trazado Av. Plaza) y calculo de densidad Eab4 (2-25 viv/ha, resultado 156,24 hab/ha > minimo 150 PRMS). Coincide con nota_fase3."
+  }
+}

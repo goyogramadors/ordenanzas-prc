@@ -1,0 +1,20 @@
+{
+  "id": "santiago_05297d9a33",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\santiago_1540_ratifica_aprobacion_del_plano_seccional_que_rectifica_los_limites_del_area___DEC SECC 2da. 1540.pdf",
+  "nombre": "santiago_1540_ratifica_aprobacion_del_plano_seccional_que_rectifica_los_limites_del_area___DEC SECC 2da. 1540.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:53:49",
+  "fin": "2026-07-15T12:55:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Secc.2da N°1540/2009: ratifica aprobación de Plano Seccional que rectifica los límites del Área Verde Proyectada (esquina Fanor Velasco/Manuel Rodríguez Norte/Moneda), manteniendo igual superficie afecta a utilidad pública (170,37 m2). Exclusivamente ajuste de límite de área verde, sin parámetros de zona."
+  }
+}

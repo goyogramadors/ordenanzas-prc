@@ -1,0 +1,20 @@
+{
+  "id": "antuco_1e7dd28879",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_rectifica_decreto_alcaldicio_n_1159_de_fecha_23_de_febrero_de_2026_que_a__1871.pdf",
+  "nombre": "antuco_decreto_rectifica_decreto_alcaldicio_n_1159_de_fecha_23_de_febrero_de_2026_que_a__1871.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:08:18",
+  "fin": "2026-07-15T08:10:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 1871/2026, rectifica Decreto 1159/2026 (tenencia responsable mascotas), corrige numero correlativo y dato telefono. Documento completo 2p revisado: sin tablas de normas urbanisticas."
+  }
+}

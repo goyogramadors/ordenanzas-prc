@@ -1,0 +1,25 @@
+{
+  "id": "quillon_e5d21637ca",
+  "comuna": "quillon",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quillon_2143_aprueba_la_enmienda_a_plano_regulador__Exportar.pdf",
+  "nombre": "quillon_2143_aprueba_la_enmienda_a_plano_regulador__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:17:21",
+  "fin": "2026-07-14T21:18:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 2143 Quillon (2014): enmienda breve que renombra la zona ZE (sector sur poniente) a ZONA ZE-1, permitiendo equipamiento y educacional. Norma minima (cambio de uso de suelo), sin cuadro de condiciones de edificacion. Confianza MEDIA por lo escueto."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e3881b9b8f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_9.-38-2020-Ord.-Alc.-N-14-328-del-7DIC20-Modif.-N-10-PRC.pdf",
+  "nombre": "las_condes_9.-38-2020-Ord.-Alc.-N-14-328-del-7DIC20-Modif.-N-10-PRC.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:33:28",
+  "fin": "2026-07-15T08:35:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord Alc N14/328, 7-dic-2020: oficio del Alcalde(S) respondiendo observacion ciudadana (consulta publica/EAE) sobre el Informe Ambiental de la Modificacion N10 al PRC, referida a capacidad vial y estacionamientos en poligono Paul Harris/Santa Zita/Incahuasi/Punitaqui. Correspondencia administrativa, no contiene tabla de parametros normativos. Verificado visualmente, documento de 1 pagina."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "machali_7dad07ed4e",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_1220_aprueba_modificacion_al_plan_regulador_comunal_de_machali_en_su_tramitacion__1.220.pdf",
+  "rangos": [
+    [
+      6,
+      8
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Doc 'EN SU TRAMITACION N1' SI contiene modificaciones sustantivas a Ordenanza Local (Tema N2). Pag3-5 tienen Cuadro6 Vialidad (calles/anchos), no normas de zona, descartada. 3 tablas de normas confirmadas por render (texto bajo/nulo, insertas como imagen): pag6 ZU-1 Zona Residencial Casco Fundacional (art.4.1-57); pag7 ZU-6 Zona Residencial 6 (art.4.1-62) + inicio ZU-7; pag8 ZU-7 Zona Residencial 7 (art.4.1-63, tabla superior) + ZE-1 Zona Equipamiento y Servicios Publicos (art.4.1-69, tabla inferior). Columnas completas: usos permitidos/prohibidos, superficie predial minima, densidad bruta max, COS, coef.constructibilidad, agrupamiento, altura max, antejardin. Pag9 solo texto condicion general antejardin ZE-1, sin tabla.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:23:05",
+  "fin": "2026-07-15T23:30:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\machali\\machali_1220_tramitacion1_zonas_zu1_zu6_zu7_ze1_pag6-8.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: 4 zonas con cuadros COMPLETOS de reemplazo (no Dice/Debe decir, sino tabla nueva integra), incluye Actividades Productivas e Infraestructura ademas de Residencial/Equipamiento. Cuadro6 Vialidad (p3-5) correctamente excluido. Superpone con machali_95 (decreto distinto, mismas zonas ZU-1/ZE-1) -- ambos documentos reales y validos, tramitaciones separadas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_f699b4fdf5",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_8-e-Carta-certificadas-Juntas-de-Vecinos.pdf",
+  "nombre": "las_condes_8-e-Carta-certificadas-Juntas-de-Vecinos.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:34:11",
+  "fin": "2026-07-15T08:36:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Listado Carta Certificada Expreso - Oficio AU N4/2021, Direccion Asesoria Urbana: nomina de 63 Juntas de Vecinos notificadas sobre Modificacion N11 (nombre organizacion, presidente, direccion). Documento procedimental/administrativo, sin normas urbanisticas."
+  }
+}

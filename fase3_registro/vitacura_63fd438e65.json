@@ -1,0 +1,20 @@
+{
+  "id": "vitacura_63fd438e65",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_32969_modifica_plan_regulador_comunal__06.12.07_Pag_10.pdf",
+  "nombre": "vitacura_32969_modifica_plan_regulador_comunal__06.12.07_Pag_10.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:37:56",
+  "fin": "2026-07-14T21:39:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "VITACURA: *** CONTAMINACION: el PDF es una edicion del Diario Oficial (6-dic-2007) *** que arranca con tipos de cambio del Banco Central; el decreto de Vitacura (Modificacion N20 al PRC) aparece despues. Es la incorporacion del CAPITULO SEXTO DE LA PUBLICIDAD a la Ordenanza Local (nuevo Art 48 y siguientes, sobre instalacion de propaganda y publicidad). No fija usos de suelo, COS, CC, altura, predial minima ni agrupamiento: es reglamentacion de publicidad y letreros, fuera de la definicion de norma urbanistica de esta fase."
+  }
+}

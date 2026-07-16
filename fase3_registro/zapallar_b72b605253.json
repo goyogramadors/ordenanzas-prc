@@ -1,0 +1,25 @@
+{
+  "id": "zapallar_b72b605253",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_126_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__126.pdf",
+  "nombre": "zapallar_acuerdo_126_acuerda_no_acoger_observacion_modificacion_del_plan_regulador_comuna__126.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T13:01:44",
+  "fin": "2026-07-15T13:08:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Acuerdo126: acoge obs.18-2 letras B,C,D, modificando anchos/franjas de proteccion de quebradas ZEP-3: Q12.B.2 de 60m a franja 50m; Q13.B y Q13.B.1 de 60m a franja 35m; ajuste Q13.B.2.1 (mas de 17.5m desde eje hacia el sur). Cifras normativas concretas de distanciamiento/proteccion."
+  }
+}

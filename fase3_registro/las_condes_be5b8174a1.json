@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_be5b8174a1",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2.-46d-VIV-SANTA-ZITA_ESTUDIO-DE-EQUIPAMIENTO-FINAL-ENE2021.pdf",
+  "nombre": "las_condes_2.-46d-VIV-SANTA-ZITA_ESTUDIO-DE-EQUIPAMIENTO-FINAL-ENE2021.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 62,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:55:06",
+  "fin": "2026-07-15T07:57:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Estudio de Suficiencia de Equipamiento para proyecto vivienda social Santa Zita (modificacion N10 PRC, zona S-E-Ab3). Texto completo revisado (62p, 36 con texto). Solo menciona densidad/constructibilidad/altura/eliminacion antejardines narrativamente como objetivo (lineas ~55,~76), sin tabla de valores. Resto son catastros/cuadros de cobertura de equipamiento (salud, deporte, educacion, seguridad, areas verdes, transporte) con radios de influencia -no tabla normativa de zona. Revisados tramos inicio/1-4/1-2/3-4-final. 24 paginas escaneadas son figuras/mapas por seccion, no anexo normativo oculto."
+  }
+}

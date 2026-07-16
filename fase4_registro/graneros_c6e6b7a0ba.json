@@ -1,0 +1,28 @@
+{
+  "id": "graneros_c6e6b7a0ba",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_alcaldicio_964_enmienda_al_plan_regulador_comunal__73cf2f26-dfd4-4a42-9694-8d0fe85dd818.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto Exento 964, Graneros. Norma en PROSA dentro del Visto N5 (no hay cuadro): Enmienda N1, sub-zona ZH2-A (Zona Habitacional Media A, sector calle Gabriela Mistral) -> ANTEJARDIN 3,0 metros. Unica norma del documento. Render confirma que no hay tabla-imagen.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:12:00",
+  "fin": "2026-07-15T14:13:31",
+  "resultado": {
+    "archivo": "extraccion_normas\\graneros\\graneros_964_enmienda_zh2a_antejardin_pag1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZH2-A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Norma en prosa dentro de Visto N5, unica norma del documento: antejardin 3,0 m para ZH2-A. Render confirma sin tabla-imagen. Decreto 964 es solo la aprobacion de publicacion; el contenido sustantivo referencia Decreto 494/2024."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chillan_viejo_dda5333694",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_viejo_4539_aprueba_modificacion_del_plan_regulador_comunal_de_chillan_viejo__publicacion_do_41240_24_08_2015_pag_11.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "DO 41.240 (24-08-2015) Cuerpo I-11: pagina que MEZCLA avisos ajenos (SEA Atacama, tabla de tipos de cambio del Banco Central). El bloque de Chillan Viejo esta en la columna DERECHA: decreto 4.593 (el nombre del archivo dice 4539: discrepancia a revisar) modifica el cuadro de normas urbanisticas de la ZONA ZM-1 (art.12 Ordenanza) permitiendo Equipamiento clase Seguridad, excepto carceles y centros de detencion. Norma en prosa (uso de suelo). AL TRANSCRIBIR: tomar solo el bloque Municipalidad de Chillan Viejo, ignorar la tabla del Banco Central.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:10:30",
+  "fin": "2026-07-15T14:11:51",
+  "resultado": {
+    "archivo": "extraccion_normas\\chillan_viejo\\chillan_viejo_4593_modificacion_prc_zm1_pag11.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZM-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Pagina DO mezcla avisos ajenos (SEA Atacama, Banco Central); bloque Chillan Viejo en columna derecha. Discrepancia confirmada: decreto real es N4.593, no 4539 como dice el archivo. Solo agrega uso Equipamiento-Seguridad (excepto carceles) a ZM-1."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "arauco_ebca67629f",
+  "comuna": "arauco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arauco_7920_apruebase_enmienda_al_plan_regulador_comunal_de_arauco__DTO7920_14DIC2018.pdf",
+  "nombre": "arauco_7920_apruebase_enmienda_al_plan_regulador_comunal_de_arauco__DTO7920_14DIC2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:59:39",
+  "fin": "2026-07-14T13:01:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda PRC Arauco: cuadro Donde dice / Debe decir en p2 (IMAGEN; el texto los muestra vacios y paginas_con_imagen viene vacio). Columnas: zona, superficie predial minima, frente predial, % ocupacion, coef constructibilidad, agrupamiento, altura. Zonas D (equip. especial) y EXS (extension): altura 7 -> 8,4 m (+20%). Enmienda art.19 Cap.IV Parrafo 3."
+  }
+}

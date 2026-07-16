@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_ea7c117ec4",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_461_promulgacion_de_modificacion_n9_del_plan_regulador_comunal_de_la_florida_apr__Exportar.pdf",
+  "nombre": "la_florida_461_promulgacion_de_modificacion_n9_del_plan_regulador_comunal_de_la_florida_apr__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:47:03",
+  "fin": "2026-07-14T15:51:32",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        10
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA FLORIDA: Decreto 461 exento (2015, BCN LeyChile, 11p), Modificacion N9 al PRC. *** TRAMPA LEYCHILE MASIVA: 15+ CUADROS DE NORMA, TODOS COMO IMAGEN, en p3-p10 *** pdftotext solo devuelve la frase anunciadora ('por las siguientes nuevas tablas:') seguida de PUNTOS SOLITARIOS, uno por tabla. Contenido: p3-4 estacionamientos por uso (Art 15); p5 cuadro 'Areas Caracteristicas de Edificacion' (siglas E-AB1 a E-A1) + inicio condiciones de edificacion; p5-p7 LAS 12 ZONAS E-AB1..E-A1 con predial minima, COS, CC, altura, agrupamiento, rasante, distancia a medianero, antejardin, estacionamientos y densidad bruta; p8-9 usos de suelo de U-Vev1 y U-Vev2; p10 zona nueva ESP-4 Precordillera (usos + condiciones: COS 0,014, CC 0,014, coef. suelo natural 0,972, rasante 70 grados, altura 8 m, antejardin 8, agrupamiento aislado). LA FASE SIGUIENTE DEBE RENDERIZAR A ALTA RESOLUCION: no hay atajo de texto, cada celda esta solo en la imagen. Las 11 pags fueron miradas."
+  }
+}

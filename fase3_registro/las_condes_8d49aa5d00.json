@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_8d49aa5d00",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.2974.05jul2007.pdf",
+  "nombre": "las_condes_decreto.2974.05jul2007.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:30:59",
+  "fin": "2026-07-15T08:32:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Secc 1a N2974, 5-jul-2007: APRUEBA el Plano Seccional Centro Comercial Mall Plaza, que detalla zonificacion del PRC en area de edificacion Ee1 y zona de uso de suelo UEe1. El decreto es solo el acto aprobatorio administrativo; remite al plano grafico (no incluido en este PDF de 1 pagina) para el detalle. No transcribe parametros normativos en el texto. Similar a patron de norma inalcanzable/referenciada no incluida. Verificado visualmente, documento de 1 pagina."
+  }
+}

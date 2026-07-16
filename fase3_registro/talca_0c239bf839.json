@@ -1,0 +1,20 @@
+{
+  "id": "talca_0c239bf839",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_alcaldicio_365_concejo_acuerda_la_calendarizacion_expuesta_por_la_consul__365.pdf",
+  "nombre": "talca_decreto_alcaldicio_365_concejo_acuerda_la_calendarizacion_expuesta_por_la_consul__365.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:57:15",
+  "fin": "2026-07-15T13:01:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio365 (25/01/2016), 1p integra: solo calendarizacion de actividades participativas (talleres, audiencia publica) para modificacion PRC Borde Rio Claro. Sin tabla ni articulos de normas."
+  }
+}

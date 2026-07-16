@@ -1,0 +1,20 @@
+{
+  "id": "retiro_9edede32c3",
+  "comuna": "retiro",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\retiro_plan_de_desarrollo_comunal_2013_2016__MODIFICACION_ORDENANZA_PARTICIPACION_CIUDADANA.pdf",
+  "nombre": "retiro_plan_de_desarrollo_comunal_2013_2016__MODIFICACION_ORDENANZA_PARTICIPACION_CIUDADANA.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 17,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:16:28",
+  "fin": "2026-07-15T12:19:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 2314/1 (22-ago-2011, 17p): modifica la Ordenanza Municipal de Participación Ciudadana de Retiro (cambios de nomenclatura: CESCO -> Consejo Comunal de Organizaciones de la Sociedad Civil, Oficina de Partes -> OIRS, etc). Ordenanza de participación ciudadana, no de zonificación — no contiene norma urbanística."
+  }
+}

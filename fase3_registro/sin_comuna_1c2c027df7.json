@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_1c2c027df7",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\AN57FF~1.PDF",
+  "nombre": "AN57FF~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T12:54:02",
+  "fin": "2026-07-14T12:56:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ANTUCO: ordenanza municipal de extraccion de aridos en pozos lastreros (2022), NO es PRC. Texto completo de 7 pags revisado: 0 coincidencias de constructibilidad/ocupacion/predial minima/altura/agrupamiento/densidad/usos de suelo/zonificacion. Titulos: normas generales, prohibiciones, derechos municipales, recuperacion, sanciones."
+  }
+}

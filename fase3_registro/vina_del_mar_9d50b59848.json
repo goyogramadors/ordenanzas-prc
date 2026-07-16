@@ -1,0 +1,25 @@
+{
+  "id": "vina_del_mar_9d50b59848",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\vina_del_mar_783_otorga_aprobacion_a_modificacion_al_plan_regulador_comunal_fundo_naval_las_s__do-20110202.pdf",
+  "nombre": "vina_del_mar_783_otorga_aprobacion_a_modificacion_al_plan_regulador_comunal_fundo_naval_las_s__do-20110202.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 88,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:07:06",
+  "fin": "2026-07-15T08:13:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        27,
+        33
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA comuna ajena: decreto Viña del Mar 783 (modificación Fundo Naval Las Salinas) ocupa solo pág14-33 de edición DO de 88 páginas (desde pág34 es Servicio Electoral San Pedro de la Paz, contenido ajeno). Ordenanza Local (Art.43-47) con tablas normativas por zona: pág27-28 coordenadas/vialidad, pág29-33 zonas V11-a/b/c y E10-E13 con superficie predial mínima, densidad, COS, CC, agrupamiento, distanciamiento, altura máxima, antejardines"
+  }
+}

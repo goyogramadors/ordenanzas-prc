@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_f0060704e8",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_2482_aprueba_plan_regulador_comunal_de_chiguayante_zona_zrd_2014__Exportar.pdf",
+  "nombre": "chiguayante_2482_aprueba_plan_regulador_comunal_de_chiguayante_zona_zrd_2014__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:07:46",
+  "fin": "2026-07-14T15:25:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Nueva zona ZRE (Especial Residencia y Equipamiento), art.26 Areas Especiales. p1 fin: usos permitidos en texto. p2: cuadro CONDICIONES DE SUBDIVISION, URBANIZACION Y EDIFICACION como IMAGEN (el texto solo deja un punto solitario): predial min 200 m2, densidad 280 hab/ha, COS 0,6, CC 2, agrupamiento, distanciamientos, altura 12 m residencial / 9 m otros, antejardin 3 m."
+  }
+}

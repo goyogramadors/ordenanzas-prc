@@ -1,0 +1,28 @@
+{
+  "id": "copiapo_255ce55501",
+  "comuna": "copiapo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\copiapo_14092_introduce_enmienda_al_plan_regulador_comunal_de_copiapo_sector_rio_copiapo__2533976.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "COPIAPO: Diario Oficial 22-ago-2024, Enmienda al art 17 de la Ordenanza 'Modificacion PRC de Copiapo', sector Rio Copiapo, zona ZU-RIO-2 'Entre Puentes y Tornini'. *** TRAMPA LEYCHILE-DO CONFIRMADA ***: el texto dice 'donde dice:' y 'debe decir:' seguidos de NADA. Los cuatro recuadros de norma son IMAGENES, todos en la PAGINA 2, y pdftotext no devuelve ni un caracter. Contienen: Altura Maxima 24,5 m pasa a 28 m; Altura Maxima 7 pisos pasa a 8 pisos; Altura Minima primer piso comercial 4,5 m pasa a 3,6 m; Coeficiente de Constructibilidad 2,25 (se mantiene). Confirmado visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:42:18",
+  "fin": "2026-07-15T14:43:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\copiapo\\copiapo_14092_enmienda_zu_rio2_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-RIO-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa LeyChile-DO confirmada (donde dice/debe decir vacios en texto, 4 recuadros imagen). Altura 24,5->28m, 7->8 pisos, altura minima 1er piso 4,5->3,6m, CC 2,25 se mantiene. Coincide con nota_fase3."
+  }
+}

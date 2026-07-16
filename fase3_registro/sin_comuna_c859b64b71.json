@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_c859b64b71",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\REFFC5~1.PDF",
+  "nombre": "REFFC5~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:54:40",
+  "fin": "2026-07-14T12:57:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "COMUNA REAL = RENGO (cola lo trae SIN_COMUNA). Decreto Alcaldicio 34/2015: INICIO DE PROCESO de Modificacion N5 (no sustancial) al PRC. Puro tramite: lista 16 temas, recuadros para diario y carta a juntas de vecinos. Las tablas son listados de titulos de tema (tema/zona/titulo), SIN un solo valor normativo. Temas 12 y 16 anuncian bajar superficie predial minima en ZH7/ZH9/ZH10 pero no dan cifras. Verificado texto 6/6 pags + render visual p3 y p6."
+  }
+}

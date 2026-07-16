@@ -1,0 +1,33 @@
+{
+  "id": "paine_8393f49edb",
+  "comuna": "paine",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\paine_256_aprobacion_del_plan_regulador_comunal_de_paine__Public_Diario_Oficial_Aprueba_Plan_Regulador_Comunal.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Enmienda que modifica puntualmente Antejardin Minimo en Art.11(ZU-1),12(ZU-2),13(ZU-3),14(ZU-4),15(ZU-5),22(ZAP) de la Ordenanza Local de Paine. No trae tabla completa (COS/CC/altura), solo modifica una celda por zona via texto.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:52:56",
+  "fin": "2026-07-15T17:50:39",
+  "resultado": {
+    "archivo": "extraccion_normas\\paine\\paine_256_enmienda_antejardin_6zonas_pag3-4.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZAP"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Enmienda puntual de antejardin en 6 zonas (5->S/A o 3->S/A en ZU1-5, 10->3 en ZAP), mas eliminacion de Disposiciones Especiales Antejardin en ZU-2/3/4. Sin tabla completa COS/CC/altura (remite al decreto 823/2014 ya vigente). Coincide con nota_fase3."
+  }
+}

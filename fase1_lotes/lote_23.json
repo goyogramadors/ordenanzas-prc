@@ -1,0 +1,912 @@
+[
+ {
+  "id": "d0708",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_4485_28dic2004",
+  "archivo": "las_condes_D.O.4485.28dic2004.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 34,
+   "ocupacion_suelo": 36,
+   "agrupamiento": 36,
+   "zonificacion": 2,
+   "usos_de_suelo": 16,
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, zonificacion)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Referencia\r\ndel\r\nDocumento:\r\nDiario Oficial/Normas Generales/Año 2005/DO 03/02/2005 DCTO 4.485 2005 MUNICIPALIDAD DE LAS CONDES\r\n\r\nAPRUEBA PLANO SECCIONAL DE LA ZONA DE USO DE SUELO VIVIENDA 2, PS-U-V2\r\nNúm. 4.485 Secc. 1ª.- Las Condes, 28 de diciembre de 2004.- Vistos: Lo dispuesto en el inciso primero del artículo 46º de la Ley General de Urbanismo y Construcciones y\r\nen el artículo 2.1.14 de la Ordenanza General de Urbanismo y Construcciones; la necesidad de estudios más detallados para fijar con exactitud la zonificación y el uso de\r\nsuelo detallado en las zonas de uso de suelo de la comuna de Las Condes; la necesidad de fijar con exactitud los trazados y anchos de calles, especificando sus categorías y\r\nnomenclatura de acuerdo al artículo 7.1.1 de la Ordenanza del Plan Regulador Metropolitano de Santiago; el decreto alcaldicio sección 1ª Nº 3.325 de fecha 13 de septiembre\r\nde 2004; el primer y segundo aviso de prensa, que comunica la exposición pública del proyecto, publicados los días 15 y 24 de septiembre de 2004 respectivamente; las\r\nobservaciones recibidas por el municipio 6 de ellas dentro de plazo y una fuera de él; los acuerdos de Concejo Municipal adoptados en sesión extraordinaria Nº 86, de fecha\r\n22 de diciembre de 2004, para cada una de las observaciones contenidas en dichas cartas; los acuerdos Nº 97a, 97b, 97c, respecto a observaciones generales de la comunidad\r\ny los acuerdos específicos respecto a los seccionales PS-U-V, PS-U-M y PS-U-C2, Nº 97d, 97e, 97f,"
+ },
+ {
+  "id": "d0709",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_4486_28dic2004",
+  "archivo": "las_condes_D.O.4486.28dic2004.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 28,
+   "ocupacion_suelo": 28,
+   "agrupamiento": 25,
+   "zonificacion": 2,
+   "usos_de_suelo": 17,
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, zonificacion)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Referencia\r\ndel\r\nDocumento:\r\nDiario Oficial/Normas Generales/Año 2005/DO 03/02/2005 DCTO 4.486 2005 MUNICIPALIDAD DE LAS CONDES\r\n\r\nAPRUEBA PLANO SECCIONAL DE LA ZONA DE USO DE SUELO VIVIENDA 3, PS-U-V3\r\nNúm. 4.486 Secc. 1ª.- Las Condes, 28 de diciembre de 2004.- Vistos: Lo dispuesto en el inciso primero del artículo 46º de la Ley General de Urbanismo y Construcciones y\r\nen el artículo 2.1.14 de la Ordenanza General de Urbanismo y Construcciones; la necesidad de estudios más detallados para fijar con exactitud la zonificación y el uso de\r\nsuelo detallado en las zonas de uso de suelo de la comuna de Las Condes; la necesidad de fijar con exactitud los trazados y anchos de calles, especificando sus categorías y\r\nnomenclatura de acuerdo al artículo 7.1.1 de la Ordenanza del Plan Regulador Metropolitano de Santiago; el decreto alcaldicio sección 1ª Nº 3.325 de fecha 13 de septiembre\r\nde 2004; el primer y segundo aviso de prensa, que comunica la exposición pública del proyecto, publicados los días 15 y 24 de septiembre de 2004 respectivamente; las\r\nobservaciones recibidas por el municipio 6 de ellas dentro de plazo y una fuera de él; los acuerdos de Concejo Municipal adoptados en sesión extraordinaria Nº 86, de fecha\r\n22 de diciembre de 2004, para cada una de las observaciones contenidas en dichas cartas; los acuerdos Nº 97a, 97b, 97c, respecto a observaciones generales de la comunidad\r\ny los acuerdos específicos respecto a los seccionales PS-U-V, PS-U-M y PS-U-C2, Nº 97d, 97e, 97f,"
+ },
+ {
+  "id": "d0710",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_8_30may1995",
+  "archivo": "las_condes_D.O.8.30may1995.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 17,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "altura_maxima": 6,
+   "agrupamiento": 21,
+   "antejardin": 7,
+   "rasante": 8,
+   "adosamiento": 1,
+   "distanciamiento": 4,
+   "zonificacion": 1,
+   "usos_de_suelo": 8,
+   "articulado": 42,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 11 senales normativas (constructibilidad, altura_maxima, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "J-.\r\n\r\n. :'·~·\r\n\r\nDIARIO OFICIAL DE LA REPUllLICA DE CHILE ..\r\nMartcs 13 ifo Junio dc .19.95\r\n... . '· ·\r\n\r\nPúgina\r\n\r\n(6451)\r\n\r\nArticulo S.· La inobservancia de las normas e.Je esta Orc.Jenanzu ser\r\nsancionada de acuerdo a la Ley General de Urbanismo Y Construcciones.\r\n\r\nGobierno ~cgfonal Metropolitano\r\nAPRUEBA PLAN REGULAI;ÓR COMUN.AL DE CAS CONDES\r\n\r\n. CAPITULO 11\r\n\r\n(R~soluéión) ·\r\n\r\nDescripción ·del Límite Urbano\r\n\r\nNúm. 08195.- Sa~tiago, 30 de Mayo de 1995.· Vistos:\r\n\r\nArtículo 6.- El límite ele! área de ap!ica.ción del Plan enunciac!o .e.n e.1 artículo\r\n2 ele esta Ordenanza, se define 'de conformidad a la s1gu1entc dcscnpc16n.\r\n\r\na) El Ord. N2 1.157/05.05.95, del Secretario Ministerial :Metropolitano de\r\nVivienda .y Urbanism·o , que remite e informa favorableinente los antec·e dentes y\r\ndocumentos que confor:man la modificación al Plan Regulador Comunal de Las\r\nCondes, con las adecuaciones y rectificaciones hechas .para ' salvar las observaciones ·fom1uladas parí. la , Contraloríli ~ General de ·· la ' Repúbliéa;·.\r\n.\r\n· b) El Ord ,..N2 668109.03.95 ,, del Secretario : Ministeriál Metropolil~no de\r\nVivienda· y Urbanismo al Alcalde de Las Condes; .·\r\n..\r\n·\r\nc) El Acuerdo N2 46, del 07.03.95, der Concejo Municipal de Las Condes,\r\nque modifica el Acuerdo Ni 159 de 1993;\r\n·\r\nd) El Ord. Alc.- :N2 11/432, del 22.03 :95, del Alcalde. de Las Condes al\r\nSecretario Ministerial Metropolitano de Vivienda y Urbanismo;\r\ne) El Oficio N2 005985116.02.95, 'del .Contralor. Gene.ral .de l"
+ },
+ {
+  "id": "d0711",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_n3218_04dic2003",
+  "archivo": "las_condes_D.O.N3218.04dic2003.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 37,
+   "ocupacion_suelo": 37,
+   "predial_minima": 33,
+   "altura_maxima": 73,
+   "densidad": 32,
+   "agrupamiento": 95,
+   "antejardin": 42,
+   "rasante": 37,
+   "adosamiento": 46,
+   "distanciamiento": 40,
+   "zonificacion": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 1,
+   "articulado": 34
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 14 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 37.728\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 5 de Diciembre de 2003\r\n\r\nPROMULGA TEXTO RESOLUTIVO DE LA ‘‘MODIFICACION Nº 2 DEL PLAN REGULADOR COMUNAL DE LAS CONDES’’\r\nNúm. 3.218.- Las Condes, 4 de diciembre de 2003.- Vistos y Teniendo presente: El proyecto\r\nde Modificación N°2 del Plan Regulador Comunal de Las Condes, elaborado por la Municipalidad;\r\nlas publicaciones efectuadas por el Alcalde, los días 18 y 22 de Agosto de 2001; los seminarios públicos\r\nrealizados los días Miércoles 5 y 12 de Septiembre de 2001 en el Instituto Cultural de Las Condes; el\r\nCertificado emitido con fecha 30.05.2003 por el Secretario Municipal, que acredita haberse cumplido\r\ncon el período de exposición pública del proyecto de Modificación N°2 del Plan Regulador Comunal\r\nde Las Condes y la fecha de los avisos publicados; El Certificado emitido con fecha 30.05.2003 por\r\nel Secretario Municipal, que acredita haberse recibido 154 cartas con observaciones de los interesados\r\ndentro de plazo legal y 7 fuera de plazo; Los acuerdos N° 01/2002 al 53/2002 del Concejo Municipal\r\nadoptados en Sesión Extraordinaria N° 56 celebrada con fecha 02 de Enero de 2002, que se pronuncia\r\nsobre las observaciones formuladas por los interesados al proyecto de Modificación N° 2 del Plan\r\nRegulador Comunal de Las Condes; el acuerdo N° 53-A adoptado en Sesión Extraordinaria N° 57 con\r\nfecha 16.01.2002 del Concejo Municipal de Las Condes, en que aprueba el proyecto de Modificación\r\nN° 2 del Plan Regulador C"
+ },
+ {
+  "id": "d0712",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_n_3218_04dic2003",
+  "archivo": "las_condes_D.O.N_3218.04dic2003.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 37,
+   "ocupacion_suelo": 37,
+   "predial_minima": 33,
+   "altura_maxima": 73,
+   "densidad": 32,
+   "agrupamiento": 95,
+   "antejardin": 42,
+   "rasante": 37,
+   "adosamiento": 46,
+   "distanciamiento": 40,
+   "zonificacion": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 1,
+   "articulado": 34
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 14 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 37.728\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 5 de Diciembre de 2003\r\n\r\nPROMULGA TEXTO RESOLUTIVO DE LA ‘‘MODIFICACION Nº 2 DEL PLAN REGULADOR COMUNAL DE LAS CONDES’’\r\nNúm. 3.218.- Las Condes, 4 de diciembre de 2003.- Vistos y Teniendo presente: El proyecto\r\nde Modificación N°2 del Plan Regulador Comunal de Las Condes, elaborado por la Municipalidad;\r\nlas publicaciones efectuadas por el Alcalde, los días 18 y 22 de Agosto de 2001; los seminarios públicos\r\nrealizados los días Miércoles 5 y 12 de Septiembre de 2001 en el Instituto Cultural de Las Condes; el\r\nCertificado emitido con fecha 30.05.2003 por el Secretario Municipal, que acredita haberse cumplido\r\ncon el período de exposición pública del proyecto de Modificación N°2 del Plan Regulador Comunal\r\nde Las Condes y la fecha de los avisos publicados; El Certificado emitido con fecha 30.05.2003 por\r\nel Secretario Municipal, que acredita haberse recibido 154 cartas con observaciones de los interesados\r\ndentro de plazo legal y 7 fuera de plazo; Los acuerdos N° 01/2002 al 53/2002 del Concejo Municipal\r\nadoptados en Sesión Extraordinaria N° 56 celebrada con fecha 02 de Enero de 2002, que se pronuncia\r\nsobre las observaciones formuladas por los interesados al proyecto de Modificación N° 2 del Plan\r\nRegulador Comunal de Las Condes; el acuerdo N° 53-A adoptado en Sesión Extraordinaria N° 57 con\r\nfecha 16.01.2002 del Concejo Municipal de Las Condes, en que aprueba el proyecto de Modificación\r\nN° 2 del Plan Regulador C"
+ },
+ {
+  "id": "d0713",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_ley21078_15feb2018",
+  "archivo": "las_condes_D.O.ley21078-15feb2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 10,
+   "normas_urbanisticas": 3,
+   "articulado": 39,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, normas_urbanisticas, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.984\r\n\r\n|\r\n\r\nJueves 15 de Febrero de 2018\r\n\r\n|\r\n\r\nPágina 1 de 13\r\n\r\nNormas Generales\r\nCVE 1353323\r\n\r\nMINISTERIO DE VIVIENDA Y URBANISMO\r\n\r\nLEY NÚM. 21.078\r\nSOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL\r\nAUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO\r\nTeniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente\r\nProyecto de ley:\r\n“ Artículo primero .- Modifícase el decreto con fuerza de ley N° 458, de 1975, del\r\nMinisterio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, de la\r\nsiguiente forma:\r\n1. Modifícase el artículo 3 en el siguiente sentido:\r\na) Derógase su inciso cuarto, pasando los actuales incisos quinto y sexto a ser cuarto y\r\nquinto, respectivamente.\r\nb) Reemplázase en su inciso quinto, que pasa a ser cuarto, la frase “y los Reglamentos de\r\nInstalaciones Sanitarias de Agua Potable y Alcantarillado, y de Pavimentación” por la frase “y\r\nlas normas sobre pavimentación”.\r\nc) Reemplázanse en su inciso sexto, que pasa a ser quinto, las expresiones “Los decretos\r\nsupremos mencionados en los dos últimos incisos precedentes, se dictarán”, por la frase “El\r\ndecreto supremo mencionado en el inciso precedente se dictará”.\r\n2. Agrégase a continuación de la denominación del Capítulo II del Título II, “De la\r\nPlanificación Urbana en particular”, el siguien"
+ },
+ {
+  "id": "d0714",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_n729_25ene2011",
+  "archivo": "las_condes_D.O.n729_25ene2011.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "agrupamiento": 2,
+   "antejardin": 10,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 38,
+   "articulado": 24,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, agrupamiento, antejardin, rasante)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 729\r\n:28-01-2011\r\n:25-01-2011\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:PROMULGA EL TEXTO APROBATORIO DEL PROYECTO DE MODIFICACIÓN\r\nNº8 AL PLAN REGULADOR COMUNAL\r\n:Unica\r\nDe : 28-01-2011\r\n:28-01-2011\r\n:1022441\r\n:http://www.leychile.cl/N?i=1022441&f=2011-01-28&p=\r\n\r\nPROMULGA EL TEXTO APROBATORIO DEL PROYECTO DE MODIFICACIÓN Nº8 AL PLAN REGULADOR\r\nCOMUNAL\r\nSección 1ª Núm. 729 .- Las Condes, 25 de enero de 2011.- Vistos y Teniendo\r\nPresente : Lo dispuesto en el Artículo 43 de la Ley General de Urbanismo y\r\nConstrucciones y en el Artículo 2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones; el acta de la Sesión Extraordinaria Nº138 del Concejo Municipal de\r\nfecha 3 de Junio de 2010; el acuerdo de Concejo Municipal Nº 86/2010 adoptado en la\r\nSesión Extraordinaria Nº138 de fecha 3 de Junio de 2010, que da inicio a la\r\ntramitación legal del proyecto de Modificación Nº8 al Plan Regulador Comunal de\r\nLas Condes; el Decreto Alcaldicio Secc. 1ª Nº2511 de fecha 3 de junio de 2010, que\r\nautoriza el inicio del proceso de tramitación del proyecto de modificación Nº 8 al\r\nPlan Regulador de Las Condes; El oficio A.U. Nº 65 de fecha 04.06.2010, que informa\r\nsobre los alcances del proyecto de Modificación Nº8 a las 43 organizaciones\r\nterritoriales comunales enviado por carta certificada; las publicaciones de fecha 4 y\r\n8 de junio de 2010 que citan a la primera Audiencia"
+ },
+ {
+  "id": "d0715",
+  "comuna": "las_condes",
+  "nombre_documento": "d_oficial_dec_8676_18dic2017",
+  "archivo": "las_condes_D.OFICIAL-DEC.8676-18DIC2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, antejardin, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.942\r\n\r\n|\r\n\r\nMiércoles 27 de Diciembre de 2017\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1325113\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICA DECRETO ALCALDICIO SECCIÓN 1ª N° 1.132, DE 2015\r\nNúm. 8.676 Secc. 1ª.- Las Condes, 18 de diciembre de 2017.\r\nVistos:\r\n1°. La Ley N° 20.791, que modifica la Ley General de Urbanismo y Construcciones en\r\nmateria de Afectaciones de Utilidad Pública de los Planes Reguladores, publicada en el Diario\r\nOficial con fecha 29 de octubre de 2014.\r\n2°. El decreto alcaldicio Sección 1ª N° 1.132, de 24 de abril de 2015, que elimina en el\r\nartículo 45 de la Ordenanza Local del Plan Regulador Comunal de Las Condes, del cuadro de\r\n\"Vialidad Comunal\", la afectación a utilidad pública de determinadas vías y/o tramos de vías\r\nclasificadas como colectoras de servicio y locales, publicado en el Diario Oficial el 12 de\r\nnoviembre de 2015.\r\n3°. El dictamen N° 27.708, de 14 de abril de 2016, que se pronuncia sobre la juridicidad del\r\ndecreto alcaldicio Sección 1ª N° 1.132, de 24 de abril de 2015, complementado por el dictamen\r\nN° 85.867, de 28 de noviembre de 2016, ambos de la Contraloría General de la República.\r\n4°. Las facultades que me otorgan los artículos 56, 63 y demás pertinentes de la Ley N°\r\n18.695, Orgánica Constitucional de Municipalidades, el artículo transitorio de la Le"
+ },
+ {
+  "id": "d0716",
+  "comuna": "las_condes",
+  "nombre_documento": "d_oficial_3632_22may2018",
+  "archivo": "las_condes_D.OFICIAL.3632.22MAY2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "agrupamiento": 4,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.083\r\n\r\n|\r\n\r\nViernes 15 de Junio de 2018\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nAvisos\r\nCVE 1412637\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nEXTRACTO DE DECRETO ALCALDICIO SECC. 1ª N° 3.632, DE 22 DE\r\nMAYO DE 2018, DE LA MUNICIPALIDAD DE LAS CONDES, QUE DA INICIO\r\nAL PROCEDIMIENTO DE EVALUACIÓN AMBIENTAL ESTRATÉGICA DEL\r\nPROYECTO DE MODIFICACIÓN N° 10 DEL PLAN REGULADOR COMUNAL\r\nDE LAS CONDES\r\nA. ÓRGANO RESPONSABLE DE LA POLÍTICA, PLAN O INSTRUMENTO DE\r\nORDENAMIENTO TERRITORIAL:\r\nMunicipalidad de Las Condes.\r\nB. RESUMEN DE LOS ANTECEDENTES DEL PLAN REGULADOR COMUNAL\r\nDE LAS CONDES QUE SE PRETENDE MODIFICAR:\r\nB. 1. Fines o metas que se busca alcanzar con la modificación del Plan Regulador\r\nComunal de Las Condes.\r\nLa modificación del instrumento de planificación comunal pretende variar las\r\ncondiciones urbanísticas aplicables al terreno ubicado en calle Santa Zita N° 9402,\r\npolígono delimitado por las calles Santa Zita, Incahuasi, Punitaqui y Avda. Paul Harris\r\nSur, con una superficie aproximada de 2.063 m², estableciendo una nueva Subárea\r\nEAb3' (Edificación Aislada Baja N°3').\r\nLo anterior, a fin de consolidar un proyecto de construcción de aproximadamente 60\r\nviviendas sociales (departamentos), ubicado en un terreno dentro del polígono delimitado\r\npor las calles Santa Zita, Incahuasi, Punitaqui y Avda. Paul Harris Sur, p"
+ },
+ {
+  "id": "d0717",
+  "comuna": "las_condes",
+  "nombre_documento": "d_oficial_3084_03may2018",
+  "archivo": "las_condes_D.Oficial-3084.03may2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.057\r\n\r\n|\r\n\r\nMartes 15 de Mayo de 2018\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1395375\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nCORRIGE DECRETO ALCALDICIO SECCIÓN 1ª N° 8.676, DE 2017\r\nSecc. 1ª Núm. 3.084.- Las Condes, 3 de mayo de 2018.\r\nVistos:\r\n1°. La ley N° 20.791, que modifica la Ley General de Urbanismo y Construcciones en\r\nmateria de Afectaciones de Utilidad Pública de los Planes Reguladores, publicada en el Diario\r\nOficial con fecha 29 de octubre de 2014.\r\n2°. El decreto alcaldicio sección 1ª N° 1.132, de 24 de abril de 2015, que elimina en el\r\nartículo 45 de la Ordenanza Local del Plan Regulador Comunal de Las Condes, del cuadro de\r\n\"Vialidad Comunal\", la afectación a utilidad pública de determinadas vías y/o tramos de vías\r\nclasificadas como colectoras de servicio y locales, publicado en el Diario Oficial el 12 de\r\nnoviembre de 2015.\r\n3°. El dictamen N° 27.708, de 14 de abril de 2016, que se pronuncia sobre la juridicidad del\r\ndecreto alcaldicio sección 1ª N° 1.132, de 24 de abril de 2015, complementado por el dictamen\r\nN° 85.867, de 28 de noviembre de 2016, ambos de la Contraloría General de la República.\r\n4°. El decreto alcaldicio Secc. 1a N° 8.676, de 18 de diciembre de 2017;\r\n5°. El dictamen N° 9.187, de 9 de abril de 2018, que ordena corregir el decreto alcaldicio\r\nSecc. 1ª N° 8.676, de "
+ },
+ {
+  "id": "d0718",
+  "comuna": "las_condes",
+  "nombre_documento": "d_oficial_966_21feb2014",
+  "archivo": "las_condes_D.Oficial.966.21feb2014.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 22,
+   "antejardin": 8,
+   "distanciamiento": 4,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 16,
+   "ordenanza_local_txt": 1,
+   "articulado": 29
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, ocupacion_suelo, altura_maxima, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 21 de Marzo de 2014\r\n\r\nNº 40.813\r\n\r\n“Reglamento para préstamos de excepción.”\r\nDefinición:\r\nLos préstamos de excepción son aquellos que se otorgarán a solicitud de usuarios que presenten una especie individual, cuyo avalúo permita un crédito superior\r\na $200.000 y con un máximo de $500.000.\r\nEn principio, este tipo de crédito será otorgado exclusivamente en la Unidad\r\nde Crédito Matriz, considerando para esta determinación que dicha Unidad cuenta\r\ncon los medios de prueba que permiten contar con la seguridad de un correcto análisis de la prenda a recibir como garantía prendaria. Por consiguiente, si en otras\r\nUnidades cercanas a la Región Metropolitana se presenta una especie que reúna\r\nlas características para optar a un crédito de excepción, será obligación del Tasador\r\ninformar al cliente respecto de esta posibilidad y le sugerirá concurrir a la Unidad\r\nque los genera.\r\nEjemplo:\r\n\r\n1) Procedimiento:\r\n1.1. Ante la presentación de una prenda que reúna las condiciones para un préstamo de excepción, corresponderá al Tasador Jefe de la Unidad periciar y determinar\r\nlas características de la especie, como así también su avalúo y monto del crédito.\r\n1.2. Obtenida la confirmación por parte del Tasador Jefe respecto a que el avalúo\r\nde la prenda es lo suficientemente alto como para ofrecer un crédito de excepción,\r\nprevio al ingreso de la operación al sistema informático OCP requerirá en la sección\r\nla presencia del Administrador de "
+ },
+ {
+  "id": "d0719",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_do_1132_24abr2016",
+  "archivo": "las_condes_DEC.DO-1132-24abr2016.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 15,
+   "ordenanza_local_txt": 12,
+   "articulado": 20
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, antejardin, normas_urbanisticas, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 41.305\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 12 de Noviembre de 2015\r\n(IdDO 966569)\r\n\r\nTIPO DE CAMBIO PARA EFECTOS DEL NÚMERO 7 DEL CAPÍTULO\r\nI DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES\r\nEl tipo de cambio “dólar acuerdo” a que se refiere el inciso primero del\r\nNº7 del Capítulo I del Compendio de Normas de Cambios Internacionales fue\r\nde $801,43 por dólar, moneda de los Estados Unidos de América, para el día 11 de\r\nnoviembre de 2015.\r\nSantiago, 11 de noviembre de 2015.- Juan Pablo Araya Marco, Ministro de Fe.\r\n\r\nMunicipalidad de Las Condes\r\n(IdDO 965567)\r\n\r\nELIMINA EN EL ARTÍCULO 45 DE LA ORDENANZA LOCAL DEL PLAN\r\nREGULADOR COMUNAL, CUADRO DE “VIALIDAD COMUNAL”, LO\r\nQUE INDICA\r\nNúm. 1.132 Secc. 1a.- Las Condes, 24 de abril de 2015.\r\nVistos:\r\nLa resolución N° 8/95, del Gobierno Regional Metropolitano de Santiago, de fecha\r\n30 de mayo de 1995, que aprueba el Plan Regulador Comunal de Las Condes, publicado\r\nen Diario Oficial de fecha 13 de junio de 1995; el decreto alcaldicio Secc.1° N° 3.218, de\r\nfecha 4 de diciembre de 2003, que promulga el Texto Resolutivo de la Modificación\r\nN° 2 del Plan Regulador Comunal, publicado en Diario Oficial de fecha 5 de diciembre\r\nde 2003; decreto alcaldicio Secc.1° N° 2.952, de fecha 30 de julio de 2004, que promulga\r\nel Texto Resolutivo de la Modificación N° 3 del Plan Regulador Comunal vía enmienda,\r\npublicado en Diario Oficial de fecha 6 de agosto de 2004; decreto alcaldicio Secc.1°\r\nN° 4.480, de fecha 28 de diciembre "
+ },
+ {
+  "id": "d0720",
+  "comuna": "las_condes",
+  "nombre_documento": "ordenanza_edif_5dic2003",
+  "archivo": "las_condes_ORDENANZA_EDIF.5dic2003.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 38,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 6,
+   "agrupamiento": 27,
+   "antejardin": 9,
+   "rasante": 2,
+   "distanciamiento": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 16
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "TEXTO RESOLUTIVO.\r\nPROYECTO DE MODIFICACIÓN Nº 2\r\nDEL PLAN REGULADOR DE LA COMUNA\r\nDE LAS CONDES\r\n\r\nPUBLICADO EN DIARIO OFICIAL\r\n5 DICIEMBRE 2003\r\n\r\n\fPROYECTO DE MODIFICACIÓN Nº 2 DEL\r\nPLAN REGULADOR COMUNAL DE LAS CONDES.\r\nArtículo único: Modificase el Plan Regulador Comunal de Las Condes, aprobado por\r\nResolución Nº 8195 del Gobierno Regional Metropolitano de 30 de Mayo\r\nde 1995, publicado en el Diario Oficial de 13 de Junio de 1995, en el\r\nsentido de reformular la zonificación de algunos sectores, crear tres nuevas\r\náreas de edificación y eliminar cuatro, ajustar condiciones técnico urbanísticas de las zonas y áreas, ajustar los anchos de tramos de algunas\r\nvías, todo de acuerdo a lo graficado en los planos MRCLC-02, Plano Nºl ,\r\nPlano de Edificación, láminas l y 2; Plano Nº2, Plano Usos de Suelo,\r\nláminas 1 y 2, y Plano N°3, Plano Vialidad, láminas 1 y 2, que en este acto\r\nse aprueban, y que reemplazan al plano PRCLC-93, láminas 1,2 y 3, que en\r\neste acto se derogan.\r\nModificase la Ordenanza Local del Plan Regulador Comunal de Las\r\nCondes, en el siguiente sentido.\r\n\r\n1.\r\n\r\nElimínase en el artículo 7 \"Definiciones y normas generales\", la definición de \"Predio\r\nRemanente\" y agrégansc las definiciones de \"Predio Existente\", \"Predio Existente\r\nResidual de Densificación\", \"Local Existente\" y \"Franja de Profundidad Máxima\",\r\nintercaladas en orden alfabético donde corresponda.\r\n\r\nPredio Existente : Aquel cuyas características de tamaño, frente y fondo\r\nno hayan sido alteradas co"
+ },
+ {
+  "id": "d0721",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_seremi_n2099_del_2_8_23",
+  "archivo": "las_condes_Ord.-SEREMI-N2099-del-2.8.23.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 15,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ORD. N° : 2099\r\nANT.\r\n: Ord. Alc. N°14/162 de Alcalde (s)\r\nMunicipalidad de Las Condes de fecha\r\n28.04.2023.\r\nRemite\r\nExpediente\r\nModificación N°11 al Plan Regulador de\r\nLas Condes.\r\nOFICIO ELECTRÓNICO\r\n\r\nMAT.\r\n\r\n: (DDUI)(PCHJ)(EPL) - LAS CONDES Art.\r\n2.1.11 OGUC. Acusa recibo y solicita\r\ntanto documentos faltantes, como\r\nacreditar documentación enviada que se\r\nindica, del proyecto de Modificación N°11\r\nal Plan Regulador Comunal de Las\r\nCondes. Ingreso N° 0101153 de\r\n02.05.2023.\r\n\r\nADJ.\r\n\r\n: No hay\r\n\r\nSantiago, 02 agosto 2023\r\nDANIELA PEÑALOZA RAMOS\r\nALCALDESA MUNICIPALIDAD DE LAS CONDES\r\nROCIO ANDRADE CASTRO\r\nSECRETARIA MINISTERIAL METROPOLITANA DE VIVIENDA Y\r\nURBANISMO\r\n\r\nA\r\n\r\n:\r\n\r\nDE\r\n\r\n:\r\n\r\nI.\r\n\r\nMediante el ANT. usted remitió a esta Secretaría Ministerial Metropolitana de Vivienda y\r\nUrbanismo la Modificación N°11 al Plan Regulador Comunal de Las Condes, para trámite oficial\r\nde revisión e informe técnico.\r\nLos documentos recibidos son los siguientes:\r\nA. Antecedentes Administrativos: (Digitalizados en PDF):\r\n1)\r\n\r\n2)\r\n\r\n3)\r\n\r\n4)\r\n\r\nINICIO DEL ESTUDIO:\r\nOrd. A.U. N°58 del Departamento de Asesoría Urbana de la Municipalidad de Las Condes\r\nde fecha 16.08.2017, al Alcalde por el cual solicita el inicio del estudio tendiente a iniciar\r\nproceso de modificaciones al Plan Regulador Comunal para actualizarlo incorporando los\r\nrequerimientos de la Contraloría General de la República.\r\nDecreto Alc. Secc.1°. N° 6559 de fecha 06 de septiembre de 2017, por el cual se inicia\r\nel estud"
+ },
+ {
+  "id": "d0722",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_seremi_n846_del_17_4_24",
+  "archivo": "las_condes_Ord.-SEREMI-N846-del-17.4.24.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 19,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "OFICIO ELECTRÓNICO\r\n\r\nORD. N° : 846\r\nANT.\r\n: 1.- ORD. ALC. N° 14/162 de fecha\r\n28.04.2023, que remite expediente\r\nModificación N° 11 al Plan Regulador de\r\nLas Condes 2.- ORD. N° 2099 de fecha\r\nagosto 2023 de SEREMI MINVU a\r\nmunicipio, que acusa recibo y solicita\r\ndocumentos faltantes. 3.ORD. ALC.\r\nN° 14/357de fecha agosto 2023, que\r\nremite\r\ndocumentos\r\nfaltantes\r\ny\r\nacreditación de aquellos enviados,\r\nrespecto del proyecto de Modificación N°\r\n11 al Plan Regulador Comunal de Las\r\nCondes. 4.-ORD.N°\r\n63 de fecha\r\n10.01.2024 de SEREMI MINVU a\r\nmunicipio que remite observaciones, 5.ORD.ALC. N° 14/57/2024 de fecha\r\n30.01.2024,\r\nque\r\nresponde\r\nobservaciones.\r\nMAT.\r\n\r\n: (DDUI)(EPL)(GIF) - LAS CONDES Art. 43\r\nLGUC y Art. 2.1.11 OGUC. Emite Informe\r\nTécnico\r\nDesfavorable\r\nal\r\nproyecto\r\nModificación N°11 al Plan Regulador\r\nComunal de Las Condes. Ingreso N°\r\n0100242 de fecha 31.01.2024\r\n\r\nADJ.\r\n\r\n: No hay\r\n\r\nSantiago, 17 abril 2024\r\nDANIELA PEÑALOZA RAMOS\r\nALCALDESA MUNICIPALIDAD DE LAS CONDES\r\nCAROLINA A. CASANOVA ROMERO\r\nSECRETARIA MINISTERIAL METROPOLITANA DE VIVIENDA Y\r\nURBANISMO\r\n\r\nA\r\n\r\n:\r\n\r\nDE\r\n\r\n:\r\n\r\nI.\r\n\r\nMediante el documento del ANT. 1 usted remitió a esta Secretaría Ministerial\r\nMetropolitana de Vivienda y Urbanismo la Modificación N°11 al Plan Regulador Comunal\r\nde Las Condes, para trámite oficial de revisión e informe técnico.\r\nLos documentos recibidos son los siguientes:\r\nA. Antecedentes Administrativos: (Digitalizados en PDF):\r\n1)\r\n\r\nINICIO DEL ESTUDIO:\r\nOrd. A.U. N°58 del"
+ },
+ {
+  "id": "d0723",
+  "comuna": "las_condes",
+  "nombre_documento": "plan_salud_2010",
+  "archivo": "las_condes_PLAN.SALUD.2010.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 82,
+  "paginas_escaneadas": 33,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN DE SALUD\r\n\r\n1\r\n_____________________________________________\r\nPlan de Salud de Las Condes 2010\r\n\r\n\fÍndice\r\n\r\nÍndice ................................................................................................................................................................ 2\r\nI.\r\n\r\n– INTRODUCCIÓN ................................................................................................................................ 4\r\n\r\nII.\r\n\r\nDIAGNÓSTICO POBLACIONAL ........................................................................................................ 5\r\n\r\n1.\r\n\r\nSituación general de la población ................................................................................................... 5\r\n\r\n2.\r\n\r\nNivel de Pobreza comunal ................................................................................................................. 6\r\n\r\n3.\r\n\r\nIngresos Habitantes de la Comuna ................................................................................................. 6\r\n\r\n4.\r\nProyección afiliación a sistema previsional de salud Casen 2000 de datos de Población\r\nde Censo 2002 ................................................................................................................................................ 6\r\n5.\r\n\r\nPoblación inscrita y Validados por Fonasa Años 2005 -2009:................................................. 7\r\n\r\nIII.\r\n\r\nATENCIÓN PRIMARIA DE SALUD ..........................................................................."
+ },
+ {
+  "id": "d0724",
+  "comuna": "las_condes",
+  "nombre_documento": "plan_de_desarrollo_comunal_2022_2025_las_condes",
+  "archivo": "las_condes_Plan-de-Desarrollo-Comunal-2022-2025-Las-Condes.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 371,
+  "paginas_escaneadas": 22,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Plan de Desarrollo Comunal\r\n2022-2025\r\nSecretaría Comunal de Planificación\r\nDiciembre 2021\r\n\r\n\f\fÍndice\r\n1.\r\n2.\r\n3.\r\n\r\n4.\r\n\r\n5\r\n\r\n6\r\n\r\nIntroducción\r\nCaracterización de la comuna y la Municipalidad\r\nFunciones Privativas de la Municipalidad\r\n3.1 Elaboración del Plan de Desarrollo Comunal\r\n3.2 Elaboración del Plan Regulador Comunal\r\n3.3 Plan de Inversiones en Infraestructura de Movilidad y Espacios Públicos (PIIMEP)\r\nDiagnóstico Estratégico por áreas\r\n4.1\r\nDesarrollo Institucional\r\n4.2\r\nDesarrollo Social y Humano\r\n4.2.1 Seguridad Ciudadana\r\n4.2.2 Educación\r\n4.2.3 Salud\r\n4.2.4 Asistencia Social y Participación Comunitaria\r\n4.2.5 Cultura, Deporte y Recreación\r\n4.2.6 Promoción de la Equidad de Género\r\n4.3\r\nDesarrollo Económico\r\n4.4\r\nDesarrollo Urbano\r\n4.4.1 Urbanización y Viabilidad Urbana\r\n4.4.2 Áreas Verdes\r\n4.4.3 Patrimonio Arquitectónico y Urbanístico\r\n4.4.4 Construcción de Viviendas Sociales y Espacios Públicos\r\n4.4.5 Tránsito y Transporte Público\r\n4.5\r\nDesarrollo Sostenible\r\nPlan de Desarrollo Comunal 2022-2025\r\n5.1\r\nPilares Estratégicos de la Estrategia Municipal\r\n5.2\r\nEstructura del Plan de Desarrollo Comunal\r\n5.3\r\nVisión y Misión comunal\r\n5.4\r\nCartera de Iniciativas de Inversión\r\nAnexos\r\n\r\n\f1. Introducción\r\nLa Ley Orgánica Constitucional de Municipalidades establece que las Municipalidades son\r\n“corporaciones autónomas de derecho público, con personalidad jurídica y patrimonio propio, cuya\r\nfinalidad es satisfacer las necesidades de la comunidad local y asegurar su particip"
+ },
+ {
+  "id": "d0725",
+  "comuna": "las_condes",
+  "nombre_documento": "sesion_extraord_03_noviembre_2021",
+  "archivo": "las_condes_SESION-EXTRAORD.-03-NOVIEMBRE-2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 19,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "COSOC\r\n\r\nCONSEJO COMUNAL DE ORGANIZACIONES DE LA SOCIEDAD CIVIL\r\nSESION EXTRAORDINARIA\r\nMIERCOLES 03 NOVIEMBRE DE 2021\r\nEn Las Condes, a 03 de noviembre de 2021, siendo las 15:30 horas, se da inicio a la sesión\r\nextraordinaria del Consejo Comunal de Organizaciones de la Sociedad Civil de Las Condes, siendo\r\npresidida por don José María Eyzaguirre, Vicepresidente del COSOC, con la presencia de los\r\nsiguientes Consejeros:\r\nRepresentantes de Entidades Relevantes para el Progreso Económico, Social y Cultural\r\nNicolás Trujillo Valenzuela, Andrés Young Barrueto, Marianne Stein Calderón y Sergio Huidobro\r\nCorbet.\r\nRepresentantes de Asociaciones Gremiales y Organizaciones Sindicales\r\nAntonio Gutiérrez Prieto, Felipe Cádiz Bouch y María Carolina Rodríguez Pinochet.\r\nRepresentantes de Organizaciones Comunitarias Territoriales\r\nAlejandra Alonso Ilardi, Claudio Kerravcic Betancourt, Leonor Cabrera Báez, María Angélica\r\nOrtiz Sobarzo, Jaime Figueroa Unzueta, Mónica Gana Valladares, Gertrud Stehr Hott y Harold\r\nFritz Balzer.\r\nRepresentantes de Organizaciones Comunitarias Funcionales\r\nIrlanda Valenzuela Valenzuela, María Patricia Fuentes Muñoz, Betania Fernández-Niño Gallardo,\r\nFrancesca Gorrini Tesser y Juan Pérez García.\r\nRepresentantes de Organizaciones de Interés Público\r\nMireya Pérez Rojas, María Eugenia Cuadra Laínez, Santiago Torrejón Silva y Carmen Gloria\r\nSanhueza Dueñas.\r\nExcusan su asistencia los siguientes consejeros, señores: Lorenzo Solano Pérez, Ruth Chávez Dotte\r\ny Nadia Ser"
+ },
+ {
+  "id": "d0726",
+  "comuna": "las_condes",
+  "nombre_documento": "texto_refundido_seremi_firmado",
+  "archivo": "las_condes_Texto_Refundido_SEREMI_firmado.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 96,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 1,
+   "agrupamiento": 32,
+   "antejardin": 2,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 4,
+   "zonificacion": 4,
+   "usos_de_suelo": 26,
+   "articulado": 55,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MODIFICACIÓN\r\nPLAN REGULADOR COMUNAL DE LAS CONDES\r\nTEXTO REFUNDIDO\r\nMODIFICACIÓN N° 11\r\n\r\nDiciembre 2022\r\n\r\n\fÍNDICE\r\nPÁGINA\r\n\r\nCAPÍTULO I\r\nNormas de Competencia e Identificación del Instrumento\r\n\r\n4\r\n\r\nArtículo 1.\r\n\r\nContenido del Presente Instrumento de Planificación Territorial.\r\n\r\n4\r\n\r\nArtículo 2.\r\nArtículo 3.\r\n\r\nÁrea Territorial Normada por el Plan\r\nIdentificación de las Zonas, Subzonas y Sectores que Integran el Plan.\r\nArtículo 3.1 Zonas, Subzonas y Sectores de Edificación\r\nArtículo 3.2 Zonas y Subzonas de Usos del Suelo\r\nArtículo 3.3 Zonas de Protección de Recursos de Valor Patrimonial Cultural\r\nLímites de Zonas, Subzonas y Sectores según Planos\r\n\r\n4\r\n5\r\n5\r\n6\r\n7\r\n8\r\n\r\nArtículo 4.\r\n\r\nCAPÍTULO II\r\nNormas de Aplicación General\r\n\r\n9\r\n\r\nArtículo 5.\r\nArtículo 6.\r\nArtículo 7.\r\nArtículo 8.\r\nArtículo 9.\r\nArtículo 10.\r\nArtículo 11.\r\nArtículo 12.\r\nArtículo 13.\r\nArtículo 14.\r\n\r\n9\r\n9\r\n9\r\n9\r\n9\r\n9\r\n9\r\n10\r\n10\r\n10\r\n\r\nDe los Antejardines\r\nDe los Cierros y Ochavos\r\nSistema de Agrupamiento y Adosamiento\r\nAlturas Máximas de Edificación\r\nProfundidad Máxima Sistema de Agrupamiento Continuo\r\nDe los Cuerpos Salientes o Volados\r\nDe las Construcciones y Características de los Espacios Públicos\r\nConstrucciones en Subterráneos\r\nDe la Publicidad\r\nDe los Terminales de Locomoción Colectiva Urbana\r\n\r\nCAPÍTULO III\r\nNormas Generales sobre Estacionamientos\r\n\r\n11\r\n\r\nArtículo 15. Dotación Mínima de Estacionamientos\r\n\r\n11\r\n\r\nCAPÍTULO IV\r\nDe los Incentivos de Normas Urbanísticas\r\n\r\n12\r\n\r\nArtículo 16.\r\nArtícu"
+ },
+ {
+  "id": "d0727",
+  "comuna": "las_condes",
+  "nombre_documento": "texto_resolutivo_mod_11_vf_corregida_firmado",
+  "archivo": "las_condes_Texto_Resolutivo_Mod_11_vf_corregida_firmado.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 101,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "altura_maxima": 1,
+   "agrupamiento": 36,
+   "antejardin": 2,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 4,
+   "zonificacion": 3,
+   "usos_de_suelo": 26,
+   "articulado": 64
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (ocupacion_suelo, predial_minima, altura_maxima, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MODIFICACIÓN\r\nPLAN REGULADOR COMUNAL DE LAS CONDES\r\nTEXTO APROBATORIO\r\nMODIFICACIÓN N° 11\r\n\r\nDiciembre 2022\r\n\r\n\fArtículo Único :\r\nModifíquese el Plan Regulador Comunal de Las Condes aprobado por Resolución N°\r\n8/95 del Gobierno Regional Metropolitano de Santiago, de mayo de 1995. Publicado en el diario oficial de\r\nfecha 13 de junio de 1995 y sus modificaciones posteriores, de acuerdo a la Memoria explicativa, el\r\npresente Texto aprobatorio y lo graficado en los Planos MPRCLC-2020 (N °1 al N° 3), que por este acto se\r\naprueban, los que conforman un solo cuerpo normativo, según se dispone a continuación:\r\n\r\n1.-\r\n\r\nModificase la Ordenanza del Plan Regulador de Las Condes en la siguiente forma:\r\n1.1.\r\n\r\nRemplácese el Índice vigente del Plan Regulador Comunal de Las Condes por el siguiente:\r\n\r\nCAPÍTULO I\r\nNormas de Competencia e Identificación del Instrumento\r\nArtículo 1.\r\nArtículo 2.\r\nArtículo 3.\r\n\r\nArtículo 4.\r\n\r\nContenido del Presente Instrumento de Planificación Territorial.\r\nÁrea Territorial Normada por el Plan\r\nIdentificación de las Zonas, Subzonas y Sectores que Integran el Plan.\r\nArtículo 3.1 Zonas, Subzonas y Sectores de Edificación\r\nArtículo 3.2 Zonas y Subzonas de Usos del Suelo\r\nArtículo 3.3 Zonas de Protección de Recursos de Valor Patrimonial Cultural\r\nLímites de Zonas, Subzonas y Sectores según Planos\r\n\r\nCAPÍTULO II\r\nNormas de Aplicación General\r\nArtículo 5.\r\nArtículo 6.\r\nArtículo 7.\r\nArtículo 8.\r\nArtículo 9.\r\nArtículo 10.\r\nArtículo 11.\r\nArtículo 12.\r\nArtículo 13.\r\nA"
+ },
+ {
+  "id": "d0728",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_1022_d_o_18feb2017",
+  "archivo": "las_condes_dec.1022-D.O-18feb2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.688\r\n\r\n|\r\n\r\nSábado 18 de Febrero de 2017\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1184194\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICA DECRETO ALCALDICIO SECCIÓN 1a N° 966, DE 2014\r\nSecc. 1a Núm. 1.022.- Las Condes, 14 de febrero de 2017.\r\nVistos:\r\n1º. El decreto alcaldicio sección 1 a Nº 729, de fecha 25 de enero de 2011, que promulga el\r\nTexto Aprobatorio de la Modificación Nº 8 al Plan Regulador Comunal de Las Condes,\r\npublicado en el Diario Oficial el 28 de enero de 2011.\r\n2º. El decreto alcaldicio sección 1 a Nº 966, de fecha 21 de febrero de 2014, publicado en el\r\nDiario Oficial el 21 de marzo de 2014.\r\n3º. El Dictamen Nº 85.862, de 28 de noviembre de 2016, de la Contraloría General de la\r\nRepública, que se pronuncia sobre la juridicidad del decreto alcaldicio sección 1 a Nº 966, de\r\n2014, de la Municipalidad de Las Condes.\r\n4º. Las facultades que me otorgan los artículos 56, 63 y demás pertinentes del DFL Nº 1, del\r\nMinisterio del Interior, de fecha 9 de mayo de 2006, publicado en el Diario Oficial de fecha 26\r\nde julio de 2006, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.695,\r\nOrgánica Constitucional de Municipalidades, en relación con el decreto alcaldicio Sección 1 a Nº\r\n4.949, de 20 de diciembre de 2010.\r\nDecreto:\r\n1º. Deróguense los numerales 1.2, 1.3, 1.4, "
+ },
+ {
+  "id": "d0729",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_1071_5feb2008",
+  "archivo": "las_condes_dec.alcaldicio_n_1071_5feb2008.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 1071\r\n:08-02-2008\r\n:05-02-2008\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:APRUEBA PLANO SECCIONAL SECTOR HERMANOS CABOT\r\n:Unica\r\nDe : 08-02-2008\r\n:08-02-2008\r\n:269164\r\n:http://www.leychile.cl/N?i=269164&f=2008-02-08&p=\r\n\r\nAPRUEBA PLANO SECCIONAL SECTOR HERMANOS CABOT\r\nSección 1ª Núm. 1.071.- Las Condes, 5 de febrero de 2008.- Vistos y teniendo\r\npresente: Lo dispuesto en el artículo 46 de la Ley General de Urbanismo y\r\nConstrucciones, y en el artículo 2.1.14 de la Ordenanza General de Urbanismo y\r\nConstrucciones; Sesión Ordinaria Nº 572, del Concejo Municipal, de fecha 11 de\r\njulio de 2007, acuerdo Nº 86/2007, que acepta estudiar un Plano Seccional para el\r\nsector de Hermanos Cabot, en Comisión de Urbanismo; Sesión Ordinaria Nº 583, del\r\nConcejo Municipal, acuerdo Nº 125/2007, de fecha 7 de noviembre de 2007, ordena\r\niniciar el proceso de aprobación; decreto alcaldicio Secc. 1ª Nº 4.517, de fecha\r\n13 de noviembre de 2007, Sesión Ordinaria Nº 10, del Consejo Económico y Social,\r\nde fecha 13 de noviembre de 2007, Providencia Nº 15.287, de fecha 30 de diciembre de\r\n2007, con observaciones al proyecto, certificado del Secretario Municipal de fecha 14\r\nde enero de 2008, acreditando que se recibió una observación al proyecto, Oficio AU\r\nNº 03, de fecha 22 de enero de 2008, donde se responde observación al proyecto,\r\nacuerdo Nº 17/2008, de Sesión Ordinaria Nº 591, del C"
+ },
+ {
+  "id": "d0730",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_2952_30jul2004",
+  "archivo": "las_condes_dec.alcaldicio_n_2952_30jul2004.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 2952\r\n:06-08-2004\r\n:30-07-2004\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:APRUEBA MODIFICACION Nº3 AL PLAN REGULADOR COMUNAL DE\r\nLAS CONDES\r\n:Unica\r\nDe : 06-08-2004\r\n:06-08-2004\r\n:228669\r\n:http://www.leychile.cl/N?i=228669&f=2004-08-06&p=\r\n\r\nAPRUEBA MODIFICACION Nº3 AL PLAN REGULADOR COMUNAL DE LAS CONDES\r\nNúm. Secc. 1ª. Nº 2.952.- Las Condes, 30 de julio de 2004.Vistos: El proyecto de modificación Nº 3 al Plan Regulador Comunal de Las\r\nCondes por la vía de la enmienda elaborado por el Departamento de Asesoría Urbana.\r\nLa publicación informativa de prensa realizada con fecha 14 de enero de 2004 en que\r\nse avisa a la comunidad de la propuesta de modificación Nº 3 al Plan Regulador\r\nComunal por la vía de la enmienda, en la que se informa del lugar donde retirar en\r\nforma gratuita copias del texto resolutivo y la memoria del proyecto; el Ord. Alc.\r\nNº 4/40 de fecha 13 de enero de 2004, que comunica a la junta de vecinos los\r\nalcances del proyecto de enmienda al Plan Regulador de Las Condes; la primera\r\naudiencia pública efectuada en la sala de sesiones municipal el día 21 de enero de\r\n2004; la primera consulta de opinión al Consejo Económico y Social de la comuna de\r\nLas Condes, en sesión citada expresamente para este efecto con fecha 7 de abril de\r\n2004; los avisos de prensa de fecha 8 y 13 de abril de 2004, que comunican el lugar\r\nen que se realizará la exposició"
+ },
+ {
+  "id": "d0731",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_2974_5jul2007",
+  "archivo": "las_condes_dec.alcaldicio_n_2974_5jul2007.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 3,
+   "usos_de_suelo": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 2974\r\n:13-07-2007\r\n:05-07-2007\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:APRUEBA \"PLANO SECCIONAL CENTRO COMERCIAL MALL PLAZA\"\r\n:Unica\r\nDe : 13-07-2007\r\n:13-07-2007\r\n:262648\r\n:http://www.leychile.cl/N?i=262648&f=2007-07-13&p=\r\n\r\nAPRUEBA \"PLANO SECCIONAL CENTRO COMERCIAL MALL PLAZA\"\r\nNúm. 2.974.- Sección 1ª.- Las Condes, 5 de julio de 2007.- Vistos y teniendo\r\npresente: Lo dispuesto en el artículo 46 de la Ley General de Urbanismo y\r\nConstrucciones y en los artículos 2.1.14 de la Ordenanza General de Urbanismo y\r\nConstrucciones; Acuerdo Nº 115/06 de la 549ª. Sesión Ordinaria del Concejo\r\nMunicipal de fecha 20 de noviembre de 2006, que aprobó el inicio de la tramitación\r\ndel proyecto \"Plano Seccional Centro Comercial Mall Plaza\"; la necesidad de estudios\r\nmás detallados para fijar con exactitud la zonificación y el uso de suelo para el\r\nárea UEe1 y área de Edificación Ee1, en el sector de Av. Cristóbal Colón por el\r\nSur, Av. Padre Hurtado por el Oriente, pasaje Río Molina y Río Congo por el Norte y\r\nTalavera de La Reina por el poniente; Lo señalado en el Art. 2.1.36 de la Ordenanza\r\nGeneral de Urbanismo y Construcciones que faculta a la Municipalidad para autorizar\r\nequipamiento de mayor escala en vías de menor categoría; Decreto Alc. Secc.\r\n1ª. Nº 1347 de fecha 14 de marzo de 2007 que ordenó iniciar el proceso; Primer y\r\nSegundo aviso de prensa de 15 y 23 de mar"
+ },
+ {
+  "id": "d0732",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_3193_25_jul2007",
+  "archivo": "las_condes_dec.alcaldicio_n_3193_25_jul2007.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 6,
+   "usos_de_suelo": 17,
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (constructibilidad, agrupamiento, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 3193\r\n:02-08-2007\r\n:25-07-2007\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:APRUEBA PROYECTO DE MODIFICACION PLAN REGULADOR COMUNAL\r\n:Unica\r\nDe : 02-08-2007\r\n:02-08-2007\r\n:263241\r\n:http://www.leychile.cl/N?i=263241&f=2007-08-02&p=\r\n\r\nAPRUEBA PROYECTO DE MODIFICACION PLAN REGULADOR COMUNAL\r\nNúm. 3.193 Secc. 1ª.- Las Condes, 25 de julio de 2007.- Vistos y teniendo\r\npresente: Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y\r\nConstrucciones y en los artículos 2.1.11 y 2.1.13 de la Ordenanza General de\r\nUrbanismo y Construcciones; acuerdo Nº 2 adoptado en la 460º Sesión Ordinaria del\r\nConcejo Municipal de fecha 14 de enero de 2004, que aprueba dar inicio al estudio de\r\nla Modificación Nº 4 al Plan Regulador Comunal; Sesión Ordinaria Nº 3 del CESCO\r\nde fecha 5 de abril de 2004 que toma conocimiento; decreto alcaldicio, Sección 1ª.\r\nNº 3663 de fecha 22 de octubre de 2004 ordena iniciar el procedimiento, se informe a\r\nlas Juntas de Vecinos por carta certificada, se cite a una Primera Audiencia Pública\r\na celebrarse el 3 de noviembre de 2004 y se publique por medio de avisos en la prensa\r\nescrita; decreto alcaldicio Nº 1973 del 26 de mayo de 2005, ordena publicar un\r\nPrimer Aviso el día 27 de mayo de 2005 y un Segundo Aviso el día 6 de junio de\r\n2005, citando a la comunidad a una Exposición Pública durante 30 días; resolución\r\nexenta Nº 615 del 23 de octubre"
+ },
+ {
+  "id": "d0733",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_3360_11ago2010",
+  "archivo": "las_condes_dec.alcaldicio_n_3360_11ago2010.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 5,
+   "usos_de_suelo": 7,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nUltima Modificación\r\nURL\r\n\r\n:Decreto 3360\r\n:14-08-2010\r\n:11-08-2010\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:ASIGNA A 60 VÍAS DE LA COMUNA DE LAS CONDES LAS NUEVAS\r\nNORMAS URBANÍSTICAS DE EDIFICACIÓN Y USOS DE SUELO\r\n:Unica\r\nDe : 14-08-2010\r\n:14-08-2010\r\n:1016231\r\n:04-JUN-2012 Decreto 1811\r\n:http://www.leychile.cl/N?i=1016231&f=2010-08-14&p=\r\n\r\nASIGNA A 60 VÍAS DE LA COMUNA DE LAS CONDES LAS NUEVAS NORMAS URBANÍSTICAS DE\r\nEDIFICACIÓN Y USOS DE SUELO\r\nSección 1ª Núm. 3.360.- Las Condes, 11 de agosto de 2010.- Vistos y\r\nConsiderando:\r\n1.\r\nQue la Ley General de Urbanismo y Construcciones en su artículo 59º declaraba\r\nde utilidad pública todos los terrenos consultados en el Plan Regulador, destinados\r\na vialidad, áreas verdes y equipamiento, con el objeto de permitir su expropiación,\r\nsin establecer plazos para que los inmuebles gravados fueran expropiados.\r\n2.\r\nQue el 13 de febrero de 2004 entró en vigencia la Ley Nº 19.939 que reemplazó\r\nel artículo 59º de la Ley General de Urbanismo y Construcciones, fijando plazos de\r\ncaducidad diferenciados para los terrenos consultados en los Planes Reguladores\r\nComunales e Intercomunales destinados sólo a vías expresas, troncales, colectoras,\r\nlocales y de servicio, parques intercomunales y comunales incluidos sus ensanches.\r\n3.\r\nQue la Ley Nº 19.939 estableció que las declaratorias de utilidad pública en\r\nlas áreas urbanas destinadas a ví"
+ },
+ {
+  "id": "d0734",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_3904_13_sep2007",
+  "archivo": "las_condes_dec.alcaldicio_n_3904_13_sep2007.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 17,
+   "ordenanza_local_txt": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (agrupamiento, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 3904\r\n:20-09-2007\r\n:13-09-2007\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:APRUEBA PLANO SECCIONAL NUEVA LAS CONDES\r\n:Unica\r\nDe : 20-09-2007\r\n:20-09-2007\r\n:264733\r\n:http://www.leychile.cl/N?i=264733&f=2007-09-20&p=\r\n\r\nAPRUEBA PLANO SECCIONAL NUEVA LAS CONDES\r\nSección 1ª Nº 3.904.- Las Condes, 13 de septiembre de 2007.- Vistos y\r\nteniendo presente: Lo dispuesto en el artículo 46 de la Ley General de Urbanismo y\r\nConstrucciones y en los artículos 2.1.14 de la Ordenanza General de Urbanismo y\r\nConstrucciones; Acuerdo Nº 44 adoptado en Sesión Ordinaria Nº 562 del Concejo\r\nMunicipal de fecha 4 de abril de 2007 que aprueba dar inicio a la tramitación del\r\nproyecto; la necesidad de estudios más detallados para fijar con exactitud la\r\nzonificación y el uso de suelo para el área UC2, en el área delimitada por el\r\npolígono ABCDA, graficado en el plano PS-UC2-NLC denominado \"Plano Seccional Nueva\r\nLas Condes\"; decreto Alc. Secc. 1ª Nº 2.596 del 31 de mayo de 2007 que ordenó\r\niniciar el proceso; Primer y Segundo Aviso de prensa de 1 y 11 de Junio de 2007,\r\ncomunicando una Exposición Pública durante 30 días, desde el 14 de junio, hasta el\r\n14 de julio de 2007; Certificado del Secretario Municipal de fecha 3 de agosto de\r\n2007, acreditando que no se recibieron observaciones de la Comunidad durante los 15\r\ndías siguientes al término de la exposición pública; Acuerdo Nº 104/2007"
+ },
+ {
+  "id": "d0735",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_alcaldicio_n_4480_28dic2004",
+  "archivo": "las_condes_dec.alcaldicio_n_4480_28dic2004.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 2,
+   "usos_de_suelo": 15,
+   "ordenanza_local_txt": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 4480\r\n:03-02-2005\r\n:28-12-2004\r\n:MUNICIPALIDAD DE LAS CONDES\r\n:APRUEBA PLANO SECCIONAL DE LA ZONA DE USO DE SUELO\r\nMETROPOLITANO, PS-U-M\r\n:Unica\r\nDe : 03-02-2005\r\n:03-02-2005\r\n:235223\r\n:http://www.leychile.cl/N?i=235223&f=2005-02-03&p=\r\n\r\nAPRUEBA PLANO SECCIONAL DE LA ZONA DE USO DE SUELO METROPOLITANO, PS-U-M\r\nNúm. 4.480 Secc. 1ª.- Las Condes, 28 de diciembre de 2004.- Vistos: Lo\r\ndispuesto en el inciso primero del artículo 46º de la Ley General de Urbanismo y\r\nConstrucciones y en el artículo 2.1.14 de la Ordenanza General de Urbanismo y\r\nConstrucciones; la necesidad de estudios más detallados para fijar con exactitud la\r\nzonificación y el uso de suelo detallado en las zonas de uso de suelo de la comuna\r\nde Las Condes; la necesidad de fijar con exactitud los trazados y anchos de calles,\r\nespecificando sus categorías y nomenclatura de acuerdo al artículo 7.1.1 de la\r\nOrdenanza del Plan Regulador Metropolitano de Santiago; el decreto alcaldicio\r\nsección 1ª Nº 3.325 de fecha 13 de septiembre de 2004; el primer y segundo aviso\r\nde prensa, que comunica la exposición pública del proyecto, publicados los días 15\r\ny 24 de septiembre de 2004 respectivamente; las observaciones recibidas por el\r\nmunicipio 6 de ellas dentro de plazo y una fuera de él; los acuerdos de Concejo\r\nMunicipal adoptados en sesión extraordinaria Nº 86, de fecha 22 de diciembre de\r\n2004, "
+ }
+]

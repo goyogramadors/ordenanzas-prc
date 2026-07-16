@@ -1,0 +1,29 @@
+{
+  "id": "santiago_ae6370389f",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_Memoria-Explicativa.pdf",
+  "nombre": "santiago_Memoria-Explicativa.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 43,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:05:06",
+  "fin": "2026-07-15T08:07:23",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        37,
+        37
+      ],
+      [
+        40,
+        40
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Memoria Explicativa modificacion PRC Santiago 'Ajuste de Normas Urbanisticas Poblacion Centenario'. Aunque es doc de fundamentacion/diagnostico, SI incluye la propuesta normativa final: modifica art.30 Ordenanza Local creando el Sector Especial D11. p37 (Cap.V Anteproyecto, propuesta) y p40 (Cap.VI Proyecto, version final) traen la MISMA tabla en TEXTO real (bordes nativos, no imagen): predial min 150m2, COS 1,0, CC 2,0, densidad max 895 hab/ha, agrupamiento continuo, altura max 5,5m; usos de suelo remiten a los del Sector Especial D5. Resto del documento (43p) es diagnostico/consulta vecinal/planos sin otras tablas normativas."
+  }
+}

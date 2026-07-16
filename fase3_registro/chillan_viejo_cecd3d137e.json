@@ -1,0 +1,20 @@
+{
+  "id": "chillan_viejo_cecd3d137e",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_viejo_decreto_alcaldicio_el_inciso_quinto_del_articulo_26_del_decreto_ley_n_3063_sobre__D.A. N° 10164.pdf",
+  "nombre": "chillan_viejo_decreto_alcaldicio_el_inciso_quinto_del_articulo_26_del_decreto_ley_n_3063_sobre__D.A. N° 10164.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:30:45",
+  "fin": "2026-07-14T15:35:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "NO ES PRC: D.A. 10164/2023 es la ORDENANZA SOBRE PATENTES MUNICIPALES PROVISORIAS (18 arts + transitoria): requisitos sanitarios, listado de ~150 actividades economicas, caducidad, fiscalizacion. Solo cita 'normas sobre uso de suelo / Plano Regulador' de forma generica, sin valores. Render p11 = pagina de firmas. Candidato a descarte."
+  }
+}

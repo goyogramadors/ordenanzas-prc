@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_586d8c9a17",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_7-k-2doaviso-ModifN11-publicado-02nov2021.pdf",
+  "nombre": "las_condes_7-k-2doaviso-ModifN11-publicado-02nov2021.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:29:25",
+  "fin": "2026-07-15T08:31:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Pagina de diario Las Ultimas Noticias (Deportes), seccion futbol; aviso municipal es recuadro pequeno (2do aviso exposicion publica Modif.N11 PRCLC) sin cuadro de normas, solo texto plazos y lugar exposicion."
+  }
+}

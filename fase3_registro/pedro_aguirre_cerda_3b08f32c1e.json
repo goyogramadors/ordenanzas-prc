@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_3b08f32c1e",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pedro_aguirre_cerda_14529_modifica_ordenanza_del_plan_regulador_comuna_de_santiago__diario 10.11.18 plan reg 2 (1)Santiago.pdf",
+  "nombre": "pedro_aguirre_cerda_14529_modifica_ordenanza_del_plan_regulador_comuna_de_santiago__diario 10.11.18 plan reg 2 (1)Santiago.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:09:38",
+  "fin": "2026-07-14T21:12:05",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Comuna real=Pedro Aguirre Cerda ('vigente para la comuna de Pedro Aguirre Cerda' explicito en el decreto); 'Plan Regulador Comunal de Santiago' es solo nombre historico del instrumento, NO comuna ajena. Modifica Art.25: sustituye linea del cuadro Estandares Estacionamiento Vehicular segun Uso de Suelo (estandar I, vivienda edificio colectivo). Tabla acotada a estacionamientos, valor de reemplazo probablemente en imagen pag.2."
+  }
+}

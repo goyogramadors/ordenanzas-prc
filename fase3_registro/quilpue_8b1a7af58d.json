@@ -1,0 +1,20 @@
+{
+  "id": "quilpue_8b1a7af58d",
+  "comuna": "quilpue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quilpue_1769_aprueba_fe_de_errata_del_plan_regulador_comunal__1769.pdf",
+  "nombre": "quilpue_1769_aprueba_fe_de_errata_del_plan_regulador_comunal__1769.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:19:20",
+  "fin": "2026-07-14T21:19:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Decreto 1769 (2020) es una FE DE ERRATA del PRC Quilpue (actualizacion promulgada por decreto 2732/2019), y el propio texto aclara 'no alteran ni modifican su normativa'. Solo corrige errores de transcripcion de NOMENCLATURA en los planos (EI->EIa zona Equip. Intercomunal; AVC2->AVC4 Area Verde Comunal Privada; simbologia de ZR4,ZR5,ZR6,ZR7,ZR9,ZR10,ZRM2,ZM3,ZE1) y nombres de calles en el cuadro de vialidad (art.9.2). Sin valores de norma. La ordenanza real es el decreto 2732/2019 (buscar en la cola)."
+  }
+}

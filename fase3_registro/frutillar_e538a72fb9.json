@@ -1,0 +1,25 @@
+{
+  "id": "frutillar_e538a72fb9",
+  "comuna": "frutillar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\frutillar_decreto_ley_chile_decreto_150_05_nov_1983_ministerio_de_vivienda_y_urbanismo_bib__Exportar.pdf",
+  "nombre": "frutillar_decreto_ley_chile_decreto_150_05_nov_1983_ministerio_de_vivienda_y_urbanismo_bib__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:41:13",
+  "fin": "2026-07-14T16:01:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        8
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "FRUTILLAR: Decreto 150 (05-nov-1983, MINVU, BCN LeyChile, 11p), PRC de Frutillar. Normas en p6-8: Art 10 (Cap III, Parrafo 2) en PROSA por zona, 9 zonas (H-1, H-2, T, TR, C, K, DR, I, V), cada una con usos permitidos y prohibidos, subdivision predial, frente minimo, ocupacion de suelo, altura y rasante, antejardin y sistema de agrupamiento. EXCEPCION A LA TRAMPA BCN: el texto se extrae integro y coincide con el render (las 11 pags fueron miradas). OJO: el Art 11 (cuadro resumen de condiciones de subdivision y edificacion) NO ESTA en el PDF: dice 'NOTA: VER DIARIO OFICIAL DE 05.11.1983. PAGINA 4'. No lo busques como imagen, simplemente BCN no lo digitalizo; pero los parametros completos igual estan en la prosa del Art 10. p2-5 son coordenadas del limite urbano, p10 vialidad."
+  }
+}

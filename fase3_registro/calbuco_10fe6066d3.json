@@ -1,0 +1,25 @@
+{
+  "id": "calbuco_10fe6066d3",
+  "comuna": "calbuco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\calbuco_4077_aprueba_enmienda_012018_al_plan_regulador_comunal_de_calbuco_sector_15_de_s__Exportar.pdf",
+  "nombre": "calbuco_4077_aprueba_enmienda_012018_al_plan_regulador_comunal_de_calbuco_sector_15_de_s__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:01:17",
+  "fin": "2026-07-14T13:04:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda 01/2018 PRC Calbuco (sector 15 de Septiembre). SOLO usos de suelo: agrega usos permitidos (comercio, culto y cultura, deporte, educacion, social) a la zona ZI-1 ya vigente; NO toca predial/ocupacion/constructibilidad/altura/densidad/antejardin. Cuenta como norma (usos de suelo). p3 es plano + tabla de coordenadas UTM del poligono, NO normas."
+  }
+}

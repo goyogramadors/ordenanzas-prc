@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_ea4e0d678e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4486.28dic2004.pdf",
+  "nombre": "las_condes_D.O.4486.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:56:09",
+  "fin": "2026-07-14T20:56:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        11
+      ]
+    ],
+    "paginas_utiles": 11,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.4486/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Vivienda 3 (PS-U-V3) y DETALLA el art.40 del PRC Las Condes con el cuadro de usos de suelo de la zona U-V3 en TEXTO extraible (matriz uso/clase/actividad/condiciones x categoria de via). Mismo formato que los decretos 4475/4476/4478 ya registrados. 6 apariciones del cuadro en el documento."
+  }
+}

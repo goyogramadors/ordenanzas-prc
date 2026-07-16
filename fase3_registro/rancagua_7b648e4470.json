@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_7b648e4470",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_3490_complementado_por_decreto_alcaldicio_4558_dispuso_expropiacion_para_efectos__2016-11-D-3490.pdf",
+  "nombre": "rancagua_3490_complementado_por_decreto_alcaldicio_4558_dispuso_expropiacion_para_efectos__2016-11-D-3490.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:13:04",
+  "fin": "2026-07-15T12:14:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Extracto Decreto Alcaldicio 3.490 (24-ago-2016, 2p, Diario Oficial): dispone expropiación de parte del inmueble Santa Mónica 800 (Lote A, 1.710,67 m2) para cumplir normas del PRC de Rancagua, fija indemnización provisoria $30.069.738. Acto de expropiación con listado de 36 propietarios y deslindes — no contiene tabla de normas urbanísticas."
+  }
+}

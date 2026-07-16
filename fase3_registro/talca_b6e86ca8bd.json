@@ -1,0 +1,20 @@
+{
+  "id": "talca_b6e86ca8bd",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_alcaldicio_modifiquese_los_vistos_del_decreto_alcaldicio_no_5267_de_fech__5678.pdf",
+  "nombre": "talca_decreto_alcaldicio_modifiquese_los_vistos_del_decreto_alcaldicio_no_5267_de_fech__5678.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:58:14",
+  "fin": "2026-07-15T13:00:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 5678/2025: corrige error de tipeo en fechas (2055 por 2025) de los Vistos del Decreto 5267/2025 (aprobacion Segunda Enmienda Ordenanza PRC Talca). Solo correccion administrativa de fechas, sin valores de norma."
+  }
+}

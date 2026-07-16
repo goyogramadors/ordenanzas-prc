@@ -1,0 +1,20 @@
+{
+  "id": "san_clemente_e6f05ea7fd",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_clemente_acuerdo_592_sesion_ordinaria_n_29_segun_acuerdo_n_323_aprueba_iniciar_el_proceso__ACUERDO%20323.pdf",
+  "nombre": "san_clemente_acuerdo_592_sesion_ordinaria_n_29_segun_acuerdo_n_323_aprueba_iniciar_el_proceso__ACUERDO%20323.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:19:27",
+  "fin": "2026-07-15T12:54:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Certificado N592: certifica que Concejo Municipal adopto acuerdo N323 aprobando iniciar proceso de Primera Enmienda al PRC. Solo tramite administrativo de inicio, sin tabla de normas."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "la_reina_b772cc928e",
+  "comuna": "la_reina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_reina_1516_modificacion_2010_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "nombre": "la_reina_1516_modificacion_2010_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 36,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:52:01",
+  "fin": "2026-07-15T07:57:07",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        9,
+        27
+      ],
+      [
+        32,
+        35
+      ]
+    ],
+    "paginas_utiles": 23,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion 2010 PRC La Reina (Decreto 1516, 36 pags, plano PRCLR-01/2010). TODO EN TEXTO REAL (conteo bajo por formato tabular, no imagen). p9-27: normas urbanisticas por zona, cuadros 1-8+ y tablas 1,15-18,21: Zona A (predial 300 m2, COS 0,4/0,5 esquina, CC 1,0, altura 9 m, densidad 150 hab/ha, agrupamiento aislado/pareado, antejardin 5/3 m), Zona B (art.24.4.1), Zonas Polo de Equipamiento PC-1 a PC-6, ZEE (COS 0,4, CC 2, altura 9 m). Zonas I, J-1, M, R remiten a normas ya vigentes sin tabla propia. p28-30: Vialidad (vias expresas/troncales/colectoras/servicio), EXCLUIDO. p32-35: ESTACIONAMIENTOS minimos por zona (A,D,G,H,I,J-1,O,E,K,PC,PV) y por equipamiento (deporte, esparcimiento, comercio, servicios, salud) + zona F + infraestructura + bicicletas -- SI cuenta como norma."
+  }
+}

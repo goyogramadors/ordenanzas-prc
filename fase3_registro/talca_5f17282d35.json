@@ -1,0 +1,20 @@
+{
+  "id": "talca_5f17282d35",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_alcaldicio_5372_dispone_el_inicio_y_aprueba_plan_de_trabajo_para_el_proc__5372.pdf",
+  "nombre": "talca_decreto_alcaldicio_5372_dispone_el_inicio_y_aprueba_plan_de_trabajo_para_el_proc__5372.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:57:15",
+  "fin": "2026-07-15T13:01:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio5372 (12/07/2024), 11p revisadas TODAS: dispone inicio y aprueba Plan de Trabajo Etapa1 (Preparacion) Actualizacion PRC. Contenido 100% narrativo/metodologico (vistos, diagnostico, equipo tecnico, EAE, participacion). Pag10-11 tabla pero es cronograma de actividades (fechas 2024-2028), no parametros urbanisticos."
+  }
+}

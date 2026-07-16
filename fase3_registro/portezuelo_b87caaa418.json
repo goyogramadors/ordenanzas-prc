@@ -1,0 +1,25 @@
+{
+  "id": "portezuelo_b87caaa418",
+  "comuna": "portezuelo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\portezuelo_ordenanza_plan_regulador_comunal_de_la_comuna_de_portezuelo__prc1.pdf",
+  "nombre": "portezuelo_ordenanza_plan_regulador_comunal_de_la_comuna_de_portezuelo__prc1.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 35,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:14:30",
+  "fin": "2026-07-14T21:17:06",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        25
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ordenanza PRC Portezuelo (35 pags) - VERSION LIMPIA en texto (mejor que el DO escaneado). Cap.III define terminos (art.7 COS/CC, art.11 antejardines por zona segun art.29). Cap.IV Zonificacion: p19-25 TODAS las zonas con usos permitidos/prohibidos + condiciones (predial min, COS, CC, agrupamiento, altura, densidad, antejardin): ZHM (COS 0,8-1,0, CC 3,0, densidad 250-400 hab/ha en altura), ZE1 (Equip. Salud), ZPI (Productiva Industrial), ZEXH-1 (Extension Habitacional, altura 12 m, densidad 100 hab/ha), ZEXHMP (predial 500 m2, COS 0,5), ZPU (Parcelas Urbanas, altura libre, densidad 40 hab/ha). p26 en adelante: Cap.V Vialidad, EXCLUIDO. p28-32: DUPLICADO -- es un escaneo-imagen del mismo Diario Oficial (mismos valores char-por-char que portezuelo_8c6567cc76, ya registrado): no hace falta re-transcribir, usar la version de texto p19-25. p33-35: Contraloria General, toma de razon (cierre administrativo, sin normas)."
+  }
+}

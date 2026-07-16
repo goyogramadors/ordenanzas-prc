@@ -1,0 +1,25 @@
+{
+  "id": "arica_3a9a1fd9d6",
+  "comuna": "arica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arica_resumen_ejecutivo_modificacion_plan_regulador_comunal__Resumen-PRC.pdf",
+  "nombre": "arica_resumen_ejecutivo_modificacion_plan_regulador_comunal__Resumen-PRC.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 52,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:00:13",
+  "fin": "2026-07-14T13:05:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        47
+      ]
+    ],
+    "paginas_utiles": 35,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ARICA: Resumen ejecutivo de la Modificacion del PRC (abr-2017). Seccion 2.3 'Zonificacion de usos de suelo y normas urbanisticas por zona' = pags 13-47. NO hay cuadro columnar COS/CC: las normas vienen en PROSA, un ARTICULO POR ZONA (ZC-1, ZSC-1..6, ZR-1..4, ZM, ZMM-x, ZMP-x, ZE-x, ZCH/ICH/MH) con altura maxima, densidad Hab/Ha, agrupamiento, antejardin, subdivision predial minima y usos. Las cifras concretas arrancan en pag 18 y cierran en 47 (donde empieza 2.4 Vialidad). Rango parte en 13 (inicio de seccion) por precaucion. 12 pags con imagen miradas una a una: p9/p11/p12 mapas+cuadros de superficie (Ha/%), p14/p34/p50/p51/p52 planos puros, p26 criterios de riesgo tsunami, p29/p42/p46 mapa + texto de normas. La tabla columnar clasica, si se necesita, esta en la Ordenanza Local (documento aparte: ver arica_35367f1a8d)."
+  }
+}

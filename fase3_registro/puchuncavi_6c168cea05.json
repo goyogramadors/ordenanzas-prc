@@ -1,0 +1,25 @@
+{
+  "id": "puchuncavi_6c168cea05",
+  "comuna": "puchuncavi",
+  "ruta": "Ordenanzas ordenadas\\puchuncavi_504_aprueba_proyecto_enmienda_al_plan_regulador_localidad_de_horcon_comuna_de_pu__DA504-22.pdf",
+  "nombre": "puchuncavi_504_aprueba_proyecto_enmienda_al_plan_regulador_localidad_de_horcon_comuna_de_pu__DA504-22.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:11:21",
+  "fin": "2026-07-15T12:12:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        7
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Doc 7p (decreto1p + memoria explicativa4p + ordenanza local2p). Pag5 Art.1 texto normativo + tablas calculo de cabida zona Z4a (contexto). Pag6 portada Ordenanza Local. Pag7 Cap.I Art.1 completo con tabla normas urbanisticas Zona Z4a: usos permitidos/prohibidos, subdivision predial minima 800m2, COS 0.25, constructibilidad 0.25, agrupamiento aislado, altura max 10m, antejardin 3m, densidad bruta max 60 Hab/Ha."
+  }
+}

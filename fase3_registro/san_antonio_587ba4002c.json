@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_587ba4002c",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_2025_N_C2_B01.345_APRUEBA_20PLAN_20COMUNAL_20PARA_20REDUCCI_C3_93N_20DEL_20RIESGO_20DE_20DESASTRES....pdf",
+  "nombre": "san_antonio_2025_N_C2_B01.345_APRUEBA_20PLAN_20COMUNAL_20PARA_20REDUCCI_C3_93N_20DEL_20RIESGO_20DE_20DESASTRES....pdf",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:26:50",
+  "fin": "2026-07-14T21:28:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "aprueba Plan Comunal de Reducción del Riesgo de Desastres (SENAPRED/Ley 21.364), sin relación con normas urbanísticas de zonas"
+  }
+}

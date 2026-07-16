@@ -1,0 +1,28 @@
+{
+  "id": "chiguayante_fe9e66a6e3",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_1391_aprueba_modificaciones_de_plan_regulador_comunal_y_ordenanza_local_de_plan___Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "CHIGUAYANTE: Decreto 1391-2007 (copia LeyChile-BCN) que aprueba modificacion del PRC creando la Zona Especial de Equipamiento, Areas Verdes y Espacios Publicos ZU8-3. Normas en p1 (usos permitidos y prohibidos) y p2 (Condiciones de Subdivision, Urbanizacion y Edificacion: predial minima 200 m2, COS 0,6, CC 3,0, agrupamiento, altura maxima 21 m, antejardin, cierros). Ambas paginas miradas: aqui NO hay tabla-imagen (a diferencia de otros LeyChile del corpus), el formato es lista de texto plano monoespaciado, extraible con pdftotext.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:40:55",
+  "fin": "2026-07-15T14:43:04",
+  "resultado": {
+    "archivo": "extraccion_normas\\chiguayante\\chiguayante_1391_nueva_zona_zu8-3_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU8-3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmado sin trampa: ambas paginas texto plano monoespaciado real (pdftotext), sin tabla-imagen a diferencia de otros LeyChile del corpus. Nueva zona ZU8-3 completa (usos+condiciones). Numeral 3 Densidad ausente del propio cuadro original, marcado explicitamente, no inventado."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "talca_3bf1398e77",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_3920_apruebase_en_forma_definitiva_via_enmienda_a_la_ordenanza_local_del_plan_re__3920.pdf_1496170476650.pdf",
+  "nombre": "talca_3920_apruebase_en_forma_definitiva_via_enmienda_a_la_ordenanza_local_del_plan_re__3920.pdf_1496170476650.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:57:15",
+  "fin": "2026-07-15T12:58:44",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        11
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio N3920 aprueba Enmienda N1 a Ordenanza Local PRC Talca. Pag1-2 vistos/considerandos. Pag3 modificaciones articulos generales (cuerpos salientes, cierros). Pag4 tabla estacionamientos por uso de suelo + inicio Cap.IV Zonificacion y Normas Urbanisticas. Pag5-11 tabla completa por zona (ZONA U-1 Centro Comercial hasta ZONA U-22 Agricultura y Agroindustria): superficie predial minima, densidad max, COS, coef.constructibilidad, altura max, agrupamiento, distanciamiento, antejardin -incluye subtablas infraestructura (transporte/sanitaria/energia). Pag11 firma Alcalde 23/08/2016."
+  }
+}

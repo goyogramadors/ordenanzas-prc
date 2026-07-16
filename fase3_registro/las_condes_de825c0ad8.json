@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_de825c0ad8",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_17-Ord.Alc.N14-222-del-03go2021-a-Seremi-MMA.pdf",
+  "nombre": "las_condes_17-Ord.Alc.N14-222-del-03go2021-a-Seremi-MMA.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:33:28",
+  "fin": "2026-07-15T08:34:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord Alc N14/222, 3-ago-2021: oficio del Alcalde(S) a SEREMI Metropolitana del Medio Ambiente, solicitando ratificar que la Modificacion N11 al PRC no requiere Evaluacion Ambiental Estrategica. Describe en terminos generales el contenido de la Mod. N11 (reestructuracion Art 38 de incentivos, reconversion de densidad neta a bruta, actualizacion Art 40 usos de suelo) pero declara expresamente que NO se incrementa altura, densidad, coeficiente de constructibilidad ni coeficiente de ocupacion de suelo en ninguna zona -- es decir, no transcribe valores nuevos, solo confirma que los vigentes no cambian. No es tabla de normas. Verificado visualmente 5 de 5 paginas."
+  }
+}

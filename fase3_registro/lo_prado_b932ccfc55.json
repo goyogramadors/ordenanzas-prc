@@ -1,0 +1,20 @@
+{
+  "id": "lo_prado_b932ccfc55",
+  "comuna": "lo_prado",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_prado_decreto_exento_1021_actualizacion_plan_regulador_de_lo_prado__e75e5727-40e2-455d-a12b-6cc40420b837.pdf",
+  "nombre": "lo_prado_decreto_exento_1021_actualizacion_plan_regulador_de_lo_prado__e75e5727-40e2-455d-a12b-6cc40420b837.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 21,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:56:52",
+  "fin": "2026-07-15T08:05:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto+visual",
+    "nota": "Decreto Exento 1021 (28.05.2020): aprueba y ratifica Convenio Mandato con GORE Metropolitano para FINANCIAR la actualizacion futura del PRC de Lo Prado (Codigo BIP 40008928-0, estudio en 6 etapas aun no redactado a la fecha). Paginas 2-21 (100% imagen, todas renderizadas y revisadas): memorandum SECPLA, Resolucion 20 de Contraloria, y texto completo del convenio con firmas. Unico cuadro numerico es financiero (FUENTE/ITEM/APORTE, TOTAL 230.000 M$), no normativo. Documento administrativo-financiero por naturaleza: nunca iba a contener normas urbanisticas (no es caso de tabla ausente/remitida a otra publicacion, sino ausencia de objeto normativo, analogo a las_condes_05d01031c6)."
+  }
+}

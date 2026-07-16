@@ -1,0 +1,25 @@
+{
+  "id": "valparaiso_428b4f1119",
+  "comuna": "valparaiso",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valparaiso_3306_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141119.pdf",
+  "nombre": "valparaiso_3306_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141119.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 20,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:35:11",
+  "fin": "2026-07-14T21:37:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        14
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "modificación PRC Valparaíso: pág13-14 dos zonas de conservación histórica ZCHLF (Loteos Fundacionales Cerros Anfiteatro) y ZCHP y E (Placeres y Esperanza) con usos permitidos/prohibidos, superficie predial mínima, % ocupación suelo, densidad, sistema agrupamiento, alturas, distanciamientos; texto nativo completo"
+  }
+}

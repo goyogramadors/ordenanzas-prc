@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_d987bb92eb",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curacautin__ver_detalle_ver_ordenanza__ordenanza_terminal_rodoviario_curacautin.pdf",
+  "nombre": "curacautin__ver_detalle_ver_ordenanza__ordenanza_terminal_rodoviario_curacautin.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:36:29",
+  "fin": "2026-07-14T15:39:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza de funcionamiento del TERMINAL RODOVIARIO de Curacautin (Dec.Ex.1965/2023), escaneada: andenes, locatarios, garantias de arriendo, sanciones. Su unica tabla son garantias en UTM por modulo (venta de pasajes 3,5 UTM, cafeteria 2 UTM). Ajena al PRC. Muestreadas visualmente p1,4,7,10,13."
+  }
+}

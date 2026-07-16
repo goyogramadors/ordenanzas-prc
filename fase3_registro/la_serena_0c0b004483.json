@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_0c0b004483",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_3885_apruebese_ordenanza_comunal__doc_34_3885_25082014014515.pdf",
+  "nombre": "la_serena_3885_apruebese_ordenanza_comunal__doc_34_3885_25082014014515.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 22,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:19:11",
+  "fin": "2026-07-15T08:21:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 3885/11 (26.10.2011), Municipalidad de La Serena (Alcalde Raul Saldivar Auger): Aprueba Ordenanza Comunal sobre Derechos Municipales por Permisos, Concesiones y Servicios (tarifario: retiro escombros, veterinaria/canil, agua potable rural, estacionamientos, derechos de subdivision/loteo/permiso de obra segun % avaluo fiscal, publicidad/toldos/kioscos, aseo). Revisadas las 22 paginas completas: no es un instrumento de planificacion territorial (PRC/Ordenanza Local), es materia tributaria/administrativa municipal. Sin usos de suelo, COS, CC, altura, agrupamiento, antejardin, densidad, distanciamiento ni predial minimo."
+  }
+}

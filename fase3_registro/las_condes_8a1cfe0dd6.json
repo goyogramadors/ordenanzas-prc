@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_8a1cfe0dd6",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.1755.06may2016.pdf",
+  "nombre": "las_condes_D.O.1755.06may2016.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:59:22",
+  "fin": "2026-07-14T16:02:25",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "SOLO VIALIDAD: DO 1755 (06-05-2016). p1 mezcla avisos AJENOS (Comision Clasificadora de Riesgo, tablas de fondos mutuos); el bloque de Las Condes arranca al final de p1. p2: dos cuadros 'Donde dice / Debe decir' de la calle Fray Jorge con columnas Cod./Nombre de via/Desde/Hasta/Clasificacion/Ancho Min L.O./N Pistas/Distancia eje a L.O. = VIALIDAD, excluido. Cero parametros de zona."
+  }
+}

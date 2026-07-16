@@ -1,0 +1,20 @@
+{
+  "id": "santiago_b463cefa38",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_12.-Dcto-Secc-2da-N_C2_B08465.pdf",
+  "nombre": "santiago_12.-Dcto-Secc-2da-N_C2_B08465.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:56:08",
+  "fin": "2026-07-15T12:58:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Secc.2da N8465 (07-nov-2022, 2p): 'DÉJESE SIN EFECTO' la suspensión previa (Decreto 3831/2021) y 'REINÍCIESE' el proceso de aprobación municipal de la Modificación PRC Santiago 'Corrección de la Zonificación Especial...'. Acto administrativo procedimental puro, no contiene cuadro de normas urbanísticas."
+  }
+}

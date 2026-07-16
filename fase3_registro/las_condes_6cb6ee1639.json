@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_6cb6ee1639",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2021-Oficio-AU-N4-del-21.10.21-Modif-N11-a-PRC.-.pdf",
+  "nombre": "las_condes_2021-Oficio-AU-N4-del-21.10.21-Modif-N11-a-PRC.-.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:30:45",
+  "fin": "2026-07-15T08:32:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio AU N4/2021 de Direccion Asesoria Urbana Las Condes a Juntas de Vecinos: comunica inicio del proceso participativo de la Modificacion N11 al PRC, describe objetivos/contenidos y confirma que no altera normas urbanisticas vigentes (COS,CC,altura,densidad). Incluye listado de juntas de vecinos p.6. No contiene cuadro de valores de normas."
+  }
+}

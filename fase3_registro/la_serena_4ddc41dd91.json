@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_4ddc41dd91",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2428_otorgamiento_patentes_alcoholes_modificacion__doc_34_2428_21092015073359.pdf",
+  "nombre": "la_serena_2428_otorgamiento_patentes_alcoholes_modificacion__doc_34_2428_21092015073359.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:22:41",
+  "fin": "2026-07-15T08:24:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.2428/2015 modifica la Ordenanza sobre OTORGAMIENTO DE PATENTES DE ALCOHOLES de La Serena (plazos de renovacion y fiscalizacion). Ajena al PRC."
+  }
+}

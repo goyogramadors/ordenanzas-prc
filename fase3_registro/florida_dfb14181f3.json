@@ -1,0 +1,25 @@
+{
+  "id": "florida_dfb14181f3",
+  "comuna": "florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\florida_ordenanza_contiene_las_normas_referentes_al_limite_urbano_zonificacion_y_usos_de__ORDENANZA FLORIDA PRC.pdf",
+  "nombre": "florida_ordenanza_contiene_las_normas_referentes_al_limite_urbano_zonificacion_y_usos_de__ORDENANZA FLORIDA PRC.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 34,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:41:13",
+  "fin": "2026-07-14T15:44:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        16,
+        27
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "FLORIDA: Ordenanza Local del PRC, Cap IV 'Zonificacion, usos de suelo y normas urbanisticas especificas'. Pags 16-27, UNA ZONA POR PAGINA, 13 zonas: ZH-1 (p16), ZH-2 (17), ZH-3 (18), ZH-4 (19), ZH-5 (20), ZHCC centro civico (21), ZEXH-1 (22), ZEXH-2 (23), ZEXHC (24), ZER equipamiento recreativo (25), ZAP actividades productivas (26), ZIS y ZEC juntas (27). Cada zona trae 3 bloques: USOS PERMITIDOS, USOS PROHIBIDOS y CONDICIONES URBANISTICAS (predial minima, densidad, COS, CC, agrupamiento, altura, antejardin). TEXTO NATIVO FIABLE: pdftotext -layout ya trae todos los valores completos y en orden, no requiere OCR visual. Excluidas: p28-31 cuadro de vialidad estructurante y p32-34 perfiles tipo de vialidad (diagramas de corte). 11 pags verificadas visualmente."
+  }
+}

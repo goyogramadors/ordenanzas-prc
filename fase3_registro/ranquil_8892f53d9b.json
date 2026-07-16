@@ -1,0 +1,20 @@
+{
+  "id": "ranquil_8892f53d9b",
+  "comuna": "ranquil",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\ranquil_ordenanza_aprueba_ordenanza_de_plan_regulador__OrdenanzaPlanReg-Aprueba.pdf",
+  "nombre": "ranquil_ordenanza_aprueba_ordenanza_de_plan_regulador__OrdenanzaPlanReg-Aprueba.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:22:57",
+  "fin": "2026-07-14T21:25:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "PDF de solo 2 páginas (confirmado con pdfinfo): resolución que aprueba el PRC pero el texto de la Ordenanza Local incluido llega solo hasta Artículo 4 (Capítulo I Disposiciones Generales) - documento truncado/incompleto, no alcanza el capítulo de zonificación/normas. Buscar el texto completo de la Ordenanza en otra fuente"
+  }
+}

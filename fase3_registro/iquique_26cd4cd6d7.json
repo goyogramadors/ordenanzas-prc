@@ -1,0 +1,25 @@
+{
+  "id": "iquique_26cd4cd6d7",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_11_promulgase_la_modificacion_al_plan_regulador_de_la_comuna_de_iquique_secciona__Exportar.pdf",
+  "nombre": "iquique_11_promulgase_la_modificacion_al_plan_regulador_de_la_comuna_de_iquique_secciona__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:43:05",
+  "fin": "2026-07-14T15:46:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "IQUIQUE: Resolucion 11 (1997, BCN LeyChile, 3p) que promulga la modificacion al PRC, Ordenanza del PLAN SECCIONAL SUR (zona M-6 Costanera). *** NORMA PARCIALMENTE INALCANZABLE ***: la pag 2 SI trae en texto los usos de suelo de la nueva Sub Zona M-6.1 Costanera (permitidos: restoranes, equipamientos turisticos complementarios, areas verdes y paseos peatonales; prohibidos: todos los demas), sus limites geograficos, y normas genericas de estacionamientos (Art 1). PERO los CUADROS del Art 33 (Normas Especificas) NO ESTAN EN EL PDF: el documento dice DOS VECES 'NOTA: Ver Cuadros en Diario Oficial N 35.792, pag. 28 del martes 17 de junio de 1997'. Ademas el Art 5 queda cortado a mitad de frase en la p3 ('...el siguiente.') y sigue la firma. Rango = pag 2 (lo unico transcrito). Para completar las normas especificas de M-6.1 hay que ir al Diario Oficial 35.792 p28, que no forma parte del corpus. Verificado visualmente."
+  }
+}

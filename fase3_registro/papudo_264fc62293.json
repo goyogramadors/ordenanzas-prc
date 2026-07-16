@@ -1,0 +1,25 @@
+{
+  "id": "papudo_264fc62293",
+  "comuna": "papudo",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\papudo_31_aprueba_modificacion_al_plan_regulador_comunal_de_papudo_seccional_punta_puya__punta_puyai.pdf",
+  "nombre": "papudo_31_aprueba_modificacion_al_plan_regulador_comunal_de_papudo_seccional_punta_puya__punta_puyai.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:08:51",
+  "fin": "2026-07-14T21:13:30",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PAPUDO: *** CONTAMINACION CONFIRMADA: el PDF de 24p es la EDICION COMPLETA del Diario Oficial 35.410 (6-mar-1996) ***, no solo el decreto. El decreto 31 (aprueba modificacion al PRC, Seccional Punta Puyai) ocupa SOLO p3-4; p5-24 son avisos de marcas comerciales y otros decretos ministeriales sin relacion, no tocar. Normas en p3 (Cap III, zonificacion: 6 zonas R1A, AVE, ACO, AE, ARBM, ARE) y p4 (normas especificas por zona, literales a-h: uso permitido y prohibido, predial minima, frente predial minimo, porcentaje maximo de ocupacion de suelo, antejardin minimo, agrupamiento, rasantes). Texto nativo, NO imagen (pdftotext -layout lo desordena por columnas pero esta completo). p4 tambien trae Cap IV Vialidad (cuadro de vias, excluido). Cierra en p4 con formula de toma de razon."
+  }
+}

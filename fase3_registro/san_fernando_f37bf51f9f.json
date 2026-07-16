@@ -1,0 +1,25 @@
+{
+  "id": "san_fernando_f37bf51f9f",
+  "comuna": "san_fernando",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_fernando_1698_plan_regulador_y_ordenanza_municipal__Exportar.pdf",
+  "nombre": "san_fernando_1698_plan_regulador_y_ordenanza_municipal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 23,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:28:57",
+  "fin": "2026-07-14T21:31:08",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        19
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "!!ALERTA CRITICA (patron ya visto en Quinta de Tilcoco)!! El CUADRO NUMERICO PRINCIPAL (superficie predial minima, COS, coef. constructibilidad, altura, agrupamiento) esta AUSENTE en las 13 zonas del PRC San Fernando (ZU-0 a ZU-9, ZE-1 a ZE-4): cada zona dice literalmente 'Cuadro de normas urbanisticas: VER D.O. DE FECHA 10.09.1998'. Verificado texto+render de p14 (no es imagen oculta, es una omision real del documento BCN/leychile). SI HAY contenido real y usable: Usos de Suelo Permitidos/Prohibidos completos por zona (p14 ZU-1 Comercial, ZU-2; p15 ZU-3/ZU-4; p16 ZU-5/ZU-6/ZU-7; p17 ZU-8/ZU-9/ZU-0; p18 ZE-1/ZE-2; p19 ZE-3/ZE-4) y algunas 'disposiciones complementarias' con datos sueltos (densidad min/max, predial de casos especiales). p19-20 en adelante: Zonas ZR de restriccion (oleoductos, lineas alta tension, rios, aerodromos), sin cuadro de edificacion. REQUIERE URGENTE conseguir el Diario Oficial del 10-09-1998 para completar COS/CC/altura de las 13 zonas."
+  }
+}

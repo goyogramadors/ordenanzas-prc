@@ -1,0 +1,20 @@
+{
+  "id": "renaico_22355d623a",
+  "comuna": "renaico",
+  "ruta": "Ordenanzas ordenadas\\renaico_decreto_alcaldicio_1050_apruebase_plan_regulador__dec1050alc1606.pdf",
+  "nombre": "renaico_decreto_alcaldicio_1050_apruebase_plan_regulador__dec1050alc1606.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:14:18",
+  "fin": "2026-07-15T12:20:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 1050, 16-jun-2020, Renaico, 3 pags. APRUEBA el 'Plan Regulador de la Comuna de Renaico' y da por cumplido el proceso de Evaluacion Ambiental Estrategica. El decreto aprueba 'en conformidad a lo indicado en la Ordenanza y los Planos PRC-09209-1' pero NO transcribe el texto de la Ordenanza ni incluye el Plano en este PDF -- solo lista indicadores metodologicos genericos de la EAE (ej. 'Coeficiente de Ocupacion de Suelo maximo', 'Altura de Edificacion maxima', 'Densidad de proyecto hab/ha') como CRITERIOS de evaluacion ambiental, no como valores normativos por zona. Norma inalcanzable desde este PDF. Verificado visualmente paginas 1-3 de 3."
+  }
+}

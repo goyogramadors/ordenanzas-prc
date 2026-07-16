@@ -1,0 +1,36 @@
+{
+  "id": "frutillar_e538a72fb9",
+  "comuna": "frutillar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\frutillar_decreto_ley_chile_decreto_150_05_nov_1983_ministerio_de_vivienda_y_urbanismo_bib__Exportar.pdf",
+  "rangos": [
+    [
+      6,
+      8
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "FRUTILLAR: Decreto 150 (05-nov-1983, MINVU, BCN LeyChile, 11p), PRC de Frutillar. Normas en p6-8: Art 10 (Cap III, Parrafo 2) en PROSA por zona, 9 zonas (H-1, H-2, T, TR, C, K, DR, I, V), cada una con usos permitidos y prohibidos, subdivision predial, frente minimo, ocupacion de suelo, altura y rasante, antejardin y sistema de agrupamiento. EXCEPCION A LA TRAMPA BCN: el texto se extrae integro y coincide con el render (las 11 pags fueron miradas). OJO: el Art 11 (cuadro resumen de condiciones de subdivision y edificacion) NO ESTA en el PDF: dice 'NOTA: VER DIARIO OFICIAL DE 05.11.1983. PAGINA 4'. No lo busques como imagen, simplemente BCN no lo digitalizo; pero los parametros completos igual estan en la prosa del Art 10. p2-5 son coordenadas del limite urbano, p10 vialidad.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:07:07",
+  "fin": "2026-07-15T23:13:37",
+  "resultado": {
+    "archivo": "extraccion_normas\\frutillar\\frutillar_150_prc1983_9zonas_pag6-8.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "H-1",
+      "H-2",
+      "T",
+      "TR",
+      "C",
+      "K",
+      "DR",
+      "I",
+      "V"
+    ],
+    "confianza": "ALTA",
+    "nota": "9 zonas completas en prosa (art.10): predial 160-2000m2, ocupacion 10-70%, rasante 30-60 grados, antejardin 2-10m, agrupamiento variado. Art.11 (cuadro resumen) no digitalizado por BCN pero valores ya estan en prosa del art.10, transcritos integros. Zona V sin condiciones (forestacion). Coincide con nota_fase3."
+  }
+}

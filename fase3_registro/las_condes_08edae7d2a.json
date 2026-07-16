@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_08edae7d2a",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PLADECO_2018-2021.pdf",
+  "nombre": "las_condes_PLADECO_2018-2021.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 127,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:51:55",
+  "fin": "2026-07-14T15:52:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: es el PLADECO 2018-2021 (Plan de Desarrollo Comunal) de Las Condes, 127 pags: diagnostico comunal, lineamientos estrategicos, programas y presupuesto. Instrumento de gestion, NO instrumento de planificacion territorial. Grep sobre las 127 pags: 0 hits reales en las senales urbanisticas (el unico hit es una frase de patrimonio arquitectonico, sin valores). Las tablas del documento son de poblacion, presupuesto e indicadores. Candidato a descarte del corpus."
+  }
+}

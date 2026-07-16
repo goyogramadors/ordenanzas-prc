@@ -1,0 +1,28 @@
+{
+  "id": "graneros_4b7251a8ac",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_alcaldicio_494_apruebase_la_enmienda_no1_al_plan_regulador_comunal__c44f802f-efa2-4eaf-98b0-ac7f3674a665.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto 494/2024 aprueba Enmienda N1 PRC Graneros: crea sub-zona ZH2-A 'Zona Habitacional Densidad Media A' (p.3 art.2-3). Cuadro completo de norma urbanistica p.4: predial minimo 250m2, densidad 160 hab/ha, COS 0.5/0.6, CC 1/1.5, altura 9m, agrupamiento aislado/pareado, antejardin 3m, mas usos de suelo permitidos/prohibidos.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:44:03",
+  "fin": "2026-07-15T14:46:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\graneros\\graneros_494_enmienda_n1_zh2a_pag3-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZH2-A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Crea sub-zona ZH2-A: predial 250m2, densidad 160 hab/ha, COS 0,5/0,6, CC 1/1,5, altura 9m, aislado/pareado, antejardin 3m. Usos de suelo completos con prohibiciones especificas. Coincide con nota_fase3."
+  }
+}

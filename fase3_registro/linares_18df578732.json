@@ -1,0 +1,25 @@
+{
+  "id": "linares_18df578732",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\linares_decreto_modificacion_ordenanza_local_plan_regulador_comunal_de_linares__ORD_4_MODIF.pdf",
+  "nombre": "linares_decreto_modificacion_ordenanza_local_plan_regulador_comunal_de_linares__ORD_4_MODIF.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 22,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:00:39",
+  "fin": "2026-07-14T21:02:54",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        9,
+        16
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ordenanza Local modificada, PRC Linares (22 pags, escaneo OCR). TODO EN TEXTO PLANO (no imagen). p9-13: art.10 Zonificacion, cuadros completos Z-1 a Z-9 (usos permitidos/prohibidos + Normas de Subdivision y Edificacion: superficie predial minima, densidad bruta max, COS por vivienda/otros usos, coef. constructibilidad, agrupamiento, altura max, profundidad, continuidad, antejardin). p14: ZE Zona Equipamiento y ZAP Zona Actividades Productivas. p15: ZAV Zona Areas Verdes. p16: zonas no edificables y faja de proteccion ferroviaria (art.13, descriptivo). p17-21: Cap.IV Vialidad (art.14-15), EXCLUIDO. p22: Cap.V transitorio (via expresa Ruta 5 Sur) + firmas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lo_espejo_ad4e07cbe3",
+  "comuna": "lo_espejo",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_espejo_agradeceria_indiarme_la_situacion_o_el_estado_de_la_elaboracion_del_plan_regulad__c6c88705-879b-4248-a422-ccc2283a8f42.pdf",
+  "nombre": "lo_espejo_agradeceria_indiarme_la_situacion_o_el_estado_de_la_elaboracion_del_plan_regulad__c6c88705-879b-4248-a422-ccc2283a8f42.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:35:32",
+  "fin": "2026-07-15T08:38:37",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Resolucion N287/2621/2021, 3-nov-2021, Secretaria Municipal de Lo Espejo: ACCEDE A RESPUESTA DE SOLICITUD DE ACCESO A LA INFORMACION (Ley de Transparencia N20.285) en respuesta a solicitud ciudadana MU145T0002621 que preguntaba 'la situacion o el estado de la elaboracion del Plan Regulador Comunal'. Confirma que Lo Espejo NO tiene PRC propio aprobado (esta en elaboracion). Es resolucion administrativa de transparencia, no documento del PRC. Verificado visualmente 2 de 2 paginas."
+  }
+}

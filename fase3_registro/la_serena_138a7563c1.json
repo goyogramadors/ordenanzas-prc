@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_138a7563c1",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_7_ordenanza_municipal_de_derechos_periodo_2024__doc_34_7_10112023103339.pdf",
+  "nombre": "la_serena_7_ordenanza_municipal_de_derechos_periodo_2024__doc_34_7_10112023103339.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 30,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:19:27",
+  "fin": "2026-07-15T08:21:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza municipal de derechos periodo 2024 (decreto7/2023): tablas de tarifas/derechos en UTM y % de presupuesto/avaluo por permisos edificacion, subdivisiones, certificados, publicidad, uso instalaciones deportivas/culturales. Confirmado pag1,6,11,16,21,26. Sin tabla de usos de suelo/COS/constructibilidad/altura."
+  }
+}

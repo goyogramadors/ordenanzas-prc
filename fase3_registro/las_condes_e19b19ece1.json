@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e19b19ece1",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3084.03may2018.pdf",
+  "nombre": "las_condes_decreto.3084.03may2018.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:33:28",
+  "fin": "2026-07-15T08:35:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alc Secc 1a N3084, 3-may-2018: corrige el Decreto 8676/2017 (ya registrado sin tablas), rectificando el tramo de Calle Alcantara (de Isabel la Catolica a Bilbao, no Vaticano a Bilbao) y agregando Calle Fray Jorge al listado de vias que pierden afectacion a utilidad publica. Mismo patron vialidad-only: no trae usos de suelo, COS, CC, altura, agrupamiento, antejardin, densidad, distanciamiento ni rasantes. Verificado visualmente 2 de 2 paginas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "talcahuano_f8d0cb9d0f",
+  "comuna": "talcahuano",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talcahuano_247_promulga_plan_regulador_comunal_de_talcahuano__do-20060131.pdf",
+  "nombre": "talcahuano_247_promulga_plan_regulador_comunal_de_talcahuano__do-20060131.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 64,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:32:39",
+  "fin": "2026-07-14T21:38:48",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        33
+      ]
+    ],
+    "paginas_utiles": 22,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "TRAMPA comuna ajena: PRC completo Talcahuano, Cap.IV (Art.42) pág12-33 con cuadros usos de suelo + condiciones subdivisión y edificación por zona (ZH,ZHEQ,ZEQ,ZE,ZCA,ZAV,ZI,ZPC/ZPEA/ZPEI,ZAP,ZSC,ZIn,ZC,ZII y extensiones ZEX*, zonas protección ZPBcC/P/R,ZPBc-1/2,ZPBL,ZPCe,ZPDr,ZPDu,ZPM,ZNE); texto nativo con valores reales COS/CC/subdivisión. Pág34-36 vialidad estructurante (fuera de alcance). IMPORTANTE: desde pág36 el PDF contiene OTRA ordenanza (Puerto Varas, apicultura) y desde pág39 son 'Escrituras Sociales' (constituciones de sociedades) de la misma edición del Diario Oficial, sin relación con Talcahuano - confirmado"
+  }
+}

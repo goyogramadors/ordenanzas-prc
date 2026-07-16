@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_0634447602",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.6559.06sep2017.pdf",
+  "nombre": "las_condes_decreto.6559.06sep2017.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:27:07",
+  "fin": "2026-07-15T08:29:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto6559/2017: INICIESE estudio para adecuaciones al IPT (ajuste instrucciones Contraloria), nombra comision, dispone contratacion asesorias externas, plazo 180 dias. Decreto de inicio de estudio, sin tabla de normas."
+  }
+}

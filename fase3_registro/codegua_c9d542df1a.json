@@ -1,0 +1,25 @@
+{
+  "id": "codegua_c9d542df1a",
+  "comuna": "codegua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\codegua_decreto_28_reemplaza_decreto_alcaldicio_n_122018_dom_de_fecha_26_de_febrero_del___Decreto_2028_20DOM_202018.pdf",
+  "nombre": "codegua_decreto_28_reemplaza_decreto_alcaldicio_n_122018_dom_de_fecha_26_de_febrero_del___Decreto_2028_20DOM_202018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:30:50",
+  "fin": "2026-07-14T15:34:46",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        26
+      ]
+    ],
+    "paginas_utiles": 12,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.28/2018 aprueba PRC Codegua y La Compania + Ordenanza Local. ESCANEADO (EPSON Scan) con capa OCR NO CONFIABLE: el OCR transpone/invierte los valores ('9'0' por 0,9; '8'0' por 0,8; encabezados al reves). LA FASE SIGUIENTE DEBE RENDERIZAR, NO USAR EL TEXTO. p1-14 descartadas (decreto, seguimiento ambiental, coordenadas de limite urbano, vialidad estructurante). p15-16 Cap.IV Normas Urbanisticas Generales (tabla de estacionamientos por uso). p17-26 Cap.V ZONIFICACION: 12 zonas (ZH1-ZH4, ZM1-ZM3, ZE, ZED, ZIS, AV, ZCH), cada una con tabla de usos permitidos/prohibidos + tabla de normas urbanisticas (predial min, densidad, COS, CC, altura, agrupamiento, distanciamiento, adosamiento, antejardin). Valores leidos: ZH4 COS 0,35/0,6, CC 1/1,5, altura 10,5m; ZED predial 1.000m2, COS 0,8; ZCH1 predial 500m2, dens 80 hab/ha, altura 7/10,5m."
+  }
+}

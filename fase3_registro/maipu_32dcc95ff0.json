@@ -1,0 +1,25 @@
+{
+  "id": "maipu_32dcc95ff0",
+  "comuna": "maipu",
+  "ruta": "Ordenanzas ordenadas\\maipu_1984_primera_modificacion_al_plan_regulador_comunal_2004_sector_el_almendral__Publ_diario_decreto_1984_05_2007.pdf",
+  "nombre": "maipu_1984_primera_modificacion_al_plan_regulador_comunal_2004_sector_el_almendral__Publ_diario_decreto_1984_05_2007.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:58:27",
+  "fin": "2026-07-15T08:00:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        7
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Documento duplica el mismo decreto 1984/2007 dos veces. Pag1-4 (escaneadas, copia limpia productos.doe.cl): pag3 tabla completa 'Condiciones de edificacion y subdivision' columna ZE-12 (superficie predial minima, COS, coef.constructibilidad, altura max, agrupamiento, rasante, distanciamiento, adosamiento), pag4 cierra tabla (antejardin minimo, densidad habitacional) + firma. Pag5-7 edicion completa Diario Oficial 05-06-2007: pag7 repite mismo decreto/tabla ZE-12 + cuadro resumen 13 predios modificados, Art.41 Zonas de Uso Especial PRC Maipu. Preferir extraccion de pag3-4 (version limpia), usar 5-7 como respaldo."
+  }
+}

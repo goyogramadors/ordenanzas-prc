@@ -1,0 +1,20 @@
+{
+  "id": "quintero_3b851b4c0a",
+  "comuna": "quintero",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quintero_1191_desafecta_la_declaratoria_de_utilidad_publica_contemplada_en_el_plan_regula__do-20151003.pdf",
+  "nombre": "quintero_1191_desafecta_la_declaratoria_de_utilidad_publica_contemplada_en_el_plan_regula__do-20151003.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:20:58",
+  "fin": "2026-07-14T21:21:39",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "TRAMPA comuna ajena: PDF recorta 2 páginas de edición DO 03-oct-2015 (portada+sumario y la página con el decreto). Contenido de Quintero: solo desafecta declaratoria utilidad pública para ensanche Av. Normandie 4m, sin cuadro normativo. La página también trae decreto de Lo Barnechea (ajuste polígono zona E, sin tabla) y inicio de ordenanza de Doñihue (tarifas municipales, irrelevante)"
+  }
+}

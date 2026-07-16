@@ -1,0 +1,30 @@
+{
+  "id": "el_carmen_c9f04620bc",
+  "comuna": "el_carmen",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_carmen_39546_plano_regulador_comuna_el_carmen__Publicacion Diario Oficial.pdf",
+  "rangos": [
+    [
+      6,
+      6
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "FUENTE PARCIAL - OJO. p6: cuadros IMAGEN del Cap.II De la Zonificacion (art.34): ZR (predial 300 m2, COS 0,6, CC 2,0, altura 7 m, antejardin 3 m, densidad 160/300/450 hab/ha), ZE-1 y ZE-2 (predial 200 m2, COS 0,8, CC 5,0, altura 21 m). PERO EL PDF ESTA INCOMPLETO: los encabezados del DO saltan (p6 fisica=pagina 10; p7=14; p9=17; p11=22), faltan las paginas 11-13, 16 y 19-21 del Diario Oficial. Las tablas de ZE-4 (art.30) y ZCH conservacion historica (art.36) NUNCA aparecen. ADEMAS p11 NO ES DE EL CARMEN: es del PRC de CABRERO (Resolucion 148) publicado a continuacion en el mismo DO. p3 = coordenadas de limite urbano + vialidad (excluidas). Requiere buscar el PRC de El Carmen completo para las zonas faltantes.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:11:35",
+  "fin": "2026-07-15T14:13:26",
+  "resultado": {
+    "archivo": "extraccion_normas\\el_carmen\\el_carmen_39546_plan_regulador_pag6.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "ZR",
+      "ZE-1",
+      "ZE-2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "FUENTE INCOMPLETA (confirma nota_fase3): faltan paginas 11-13,16,19-21 del DO; ZE-4 (art.30) y ZCH (art.36) NUNCA aparecen en este PDF -> zonas ausentes, no fallidas por error de transcripcion. p11 del PDF pertenece a Cabrero, no a El Carmen (ya excluido, no se toco). Se transcribio texto completo (usos + condiciones) de ZR, ZE-1 y ZE-2 desde p6. Requiere fase posterior buscar el PRC completo de El Carmen para ZE-4 y ZCH."
+  }
+}

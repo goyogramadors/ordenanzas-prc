@@ -1,0 +1,25 @@
+{
+  "id": "graneros_4b7251a8ac",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_alcaldicio_494_apruebase_la_enmienda_no1_al_plan_regulador_comunal__c44f802f-efa2-4eaf-98b0-ac7f3674a665.pdf",
+  "nombre": "graneros_decreto_alcaldicio_494_apruebase_la_enmienda_no1_al_plan_regulador_comunal__c44f802f-efa2-4eaf-98b0-ac7f3674a665.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:16:18",
+  "fin": "2026-07-15T08:21:06",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 494/2024 aprueba Enmienda N1 PRC Graneros: crea sub-zona ZH2-A 'Zona Habitacional Densidad Media A' (p.3 art.2-3). Cuadro completo de norma urbanistica p.4: predial minimo 250m2, densidad 160 hab/ha, COS 0.5/0.6, CC 1/1.5, altura 9m, agrupamiento aislado/pareado, antejardin 3m, mas usos de suelo permitidos/prohibidos."
+  }
+}

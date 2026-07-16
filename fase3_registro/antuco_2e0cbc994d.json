@@ -1,0 +1,20 @@
+{
+  "id": "antuco_2e0cbc994d",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antuco_decreto_aprueba_ordenanza_municipal_sobre_autorizacion_de_transporte_de_basuras___Decreto_2049_2017.pdf",
+  "nombre": "antuco_decreto_aprueba_ordenanza_municipal_sobre_autorizacion_de_transporte_de_basuras___Decreto_2049_2017.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:58:23",
+  "fin": "2026-07-14T13:01:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza municipal de transporte de basuras, desechos y escombros (incluye formularios). Ajena al PRC."
+  }
+}

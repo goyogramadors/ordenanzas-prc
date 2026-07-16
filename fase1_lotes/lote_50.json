@@ -1,0 +1,654 @@
+[
+ {
+  "id": "d0278",
+  "comuna": "san_joaquin",
+  "nombre_documento": "1084_apruebese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin_plano_se",
+  "archivo": "san_joaquin_1084_apruebese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin_plano_se__DECRETO_1084.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0279",
+  "comuna": "san_joaquin",
+  "nombre_documento": "2037_apruebese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin_plano_se",
+  "archivo": "san_joaquin_2037_apruebese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin_plano_se__DECRETO_2037.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0280",
+  "comuna": "san_joaquin",
+  "nombre_documento": "453_el_honorable_concejo_en_sesion_ordinaaraia_n_832011_acordo_aprobar_el_plano",
+  "archivo": "san_joaquin_453_el_honorable_concejo_en_sesion_ordinaaraia_n_832011_acordo_aprobar_el_plano___DECRETO_453.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0281",
+  "comuna": "san_joaquin",
+  "nombre_documento": "814_apruebese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin_plano_sec",
+  "archivo": "san_joaquin_814_apruebese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin_plano_sec__DECRETO_814.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0282",
+  "comuna": "san_joaquin",
+  "nombre_documento": "acta_6_presentacion_actualizacion_del_plan_regulador_comunal_de_san_joaquin",
+  "archivo": "san_joaquin_acta_6_presentacion_actualizacion_del_plan_regulador_comunal_de_san_joaquin__EXT06.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 3,
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "articulado": 2,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE SAN JOAQUIN\r\nSECRETARIA MUNICIPAL\r\n\r\nACTA SESIÓN EXTRAORDINARIA Nº 06 / 2016 – 2020\r\nCorrespondiente a la sesión ordinaria Nº 19/2016-2020 celebrada por el Honorable\r\nConcejo Municipal de San Joaquín el día sábado 05 de agosto 2017 y que contó con la\r\nsiguiente asistencia:\r\n- Sr. SERGIO ECHEVERRIA GARCIA\r\n- Sr. CRISTOBAL LABRA BASSA\r\n- Sr. VÍCTOR CONTRERAS VICENCIO.\r\n- Sr. RAMÓN ORTIZ SEGUEL.\r\n- Sr. ALBERTO LIRA\r\n- Sr. FERNANDO SAAVEDRA\r\n- Sra. ROSARIO CAMPUSANO\r\no\r\n\r\nSra. Elizabeth Galleguillos Medina y Sr. Gustavo Arias Campos no asisten por razones\r\nmédicas.\r\n\r\nPUNTO UNICO:\r\n•\r\n\r\nPRESENTACIÓN: ACTUALIZACIÓN DEL PLAN REGULADOR COMUNAL DE\r\nSAN JOAQUÍN.\r\n\r\n\r\n❖Presidente del Concejo, Sr. Sergio Echeverría García, quien abre la sesión siendo las\r\n10:35 hrs.❖Secretario del Concejo es don Eric Leyton Rivas, Secretario Municipal.-\r\n\r\nPresentes en la sala, la Directora de Secplan, Sra. Victoria Pino, la Directora de\r\nObras, Sra. Pascale Molinet, el Arquitecto de la Dirección Desarrollo Urbano e\r\nInfraestructura, Sr. Christian Yáñez y la Asesora Urbana, Sra. Jimena Thayer.\r\n\r\n-\r\n\r\nSr. Echeverría, hace una breve introducción señalando que en la presentación se\r\nexplicarán aspectos del Plan Regulador Comunal, Presentación de la empresa\r\nHabiterra Ltda., y se responderá ronda de preguntas.\r\n\r\n-\r\n\r\nLa Sra. Jimena Thayer hace entrega al Honorable Concejo, la Carta Gantt del\r\nproyecto.\r\nEn un primer momento se desarrolla una presentación por parte de la encargada de\r\nA"
+ },
+ {
+  "id": "d0283",
+  "comuna": "san_joaquin",
+  "nombre_documento": "decreto_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_pla",
+  "archivo": "san_joaquin_decreto_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_pla__RectificacionDO05_07_2014.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0960",
+  "comuna": "san_joaquin",
+  "nombre_documento": "2342_aprueba_y_promulga_la_modificacion_al_plan_regulador_comunal_de_san_joaquin",
+  "archivo": "san_joaquin_2342_aprueba_y_promulga_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DO13092019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-1",
+   "Z-1A",
+   "ZONA"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.454\r\n\r\n|\r\n\r\nViernes 13 de Septiembre de 2019\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 1653336\r\n\r\nMUNICIPALIDAD DE SAN JOAQUÍN\r\n\r\nAPRUEBA Y PROMULGA MODIFICACIÓN AL PLAN REGULADOR\r\nCOMUNAL DE SAN JOAQUÍN\r\nSan Joaquín, 5 de septiembre de 2019.- La Alcaldía de San Joaquín hoy decretó lo\r\nsiguiente:\r\nNúm. 2.342 Secc. 1ª.\r\nVistos:\r\n1) Certificado Nº0254/2016-2020 de fecha 18.05.2018 del Secretario Municipal (S), de\r\nacuerdo tomado por el Concejo Municipal para el inicio de tramitación de la modificación al plan\r\nregulador comunal de San Joaquín \"Sector Madeco-Mademsa\", en sesión ordinaria\r\nNº053/2016-2020 de fecha 17.05.2018. 2) Decreto alcaldicio Nº999 del 30.05.2018 que ratifica\r\nel acuerdo del Concejo Municipal para dar inicio a proceso de aprobación de la Modificación al\r\nPRC de San Joaquín \"Sector Madeco-Mademsa\". 3) Decreto alcaldicio Nº1.113 del 13.06.2018\r\nque establece el inicio de la Evaluación Ambiental Estratégica de la modificación al Plan\r\nRegulador de San Joaquín \"Sector Madeco-Mademsa\". 4) La publicación en el Diario Las\r\nUltimas Noticias del 28.06.2018, del extracto administrativo de inicio de Evaluación Ambiental\r\nEstratégica (EAE). 5) La publicación en el Diario Oficial del 29.06.2018, del extracto\r\nadministrativo de inicio de EAE. 6) Oficio ordinario Nº1200/56 del 18.06.2019 de Al"
+ },
+ {
+  "id": "d0961",
+  "comuna": "san_joaquin",
+  "nombre_documento": "2838_promulguese_la_aprobacion_de_la_actualizacion_al_plan_regulador_comunal_de",
+  "archivo": "san_joaquin_2838_promulguese_la_aprobacion_de_la_actualizacion_al_plan_regulador_comunal_de___2838.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 26,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "densidad": 5,
+   "agrupamiento": 1,
+   "normas_urbanisticas": 7,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 41,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAPP",
+   "ZAPR",
+   "ZAV",
+   "ZE",
+   "ZED",
+   "ZI",
+   "ZU12",
+   "ZU2a",
+   "ZU2b",
+   "ZU4",
+   "ZU5",
+   "ZU6"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (constructibilidad, densidad, agrupamiento, normas_urbanisticas)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.495\r\n\r\nMiércoles 6 de Noviembre de 2019\r\n\r\nPágina 1 de 26\r\n\r\nNormas Generales\r\nCVE 1677039\r\nMUNICIPALIDAD DE SAN JOAQUÍN\r\nPROMULGA LA APROBACIÓN DE LA ACTUALIZACIÓN AL PLAN REGULADOR\r\nCOMUNAL DE SAN JOAQUÍN\r\nSan Joaquín, 24 de octubre de 2019.- La Alcaldía de San Joaquín, hoy decretó lo siguiente:\r\nNúm. 2.838 Sección 1a.\r\nVistos:\r\n1) Decreto Alcaldicio N°2628 del 01.12.2016, que aprueba convenio suscrito entre el Gobierno\r\nRegional Metropolitano de Santiago y la Municipalidad de San Joaquín, para la ejecución de la iniciativa\r\ndenominada “Actualización Plan Regulador Comunal de San Joaquín”, código BIP N°30128684-0. 2)\r\nDecreto alcaldicio Nº1841 del 01.09.2017 que establece el inicio del procedimiento de la Evaluación\r\nAmbiental Estratégica de la Actualización del Plan Regulador de San Joaquín. 3) La publicación en el\r\nDiario “La Cuarta” del 28.09.2017, del extracto acto administrativo de inicio del proceso de Evaluación\r\nAmbiental Estratégica (EAE). 4) La publicación en el Diario Oficial del 29.09.2017, del extracto acto\r\nadministrativo de inicio del proceso de EAE. 5) Oficio ordinario N°1200/117 del 22.09.2017 de Alcalde\r\nde San Joaquín a Secretario Regional de Medio Ambiente RMS que envía decreto de inicio EAE. 6) Oficio\r\nordinario RRNN N°819 del 18.10.2017 de Secretario Regional de Medio Ambiente RMS que toma\r\nconocimiento del inicio del proceso de formulación de PRC de San Joaquín, al cua"
+ },
+ {
+  "id": "d0962",
+  "comuna": "san_joaquin",
+  "nombre_documento": "914_apruebese_y_promulgese_la_modificacion_al_plan_regulador_comunal_de_san_joaq",
+  "archivo": "san_joaquin_914_apruebese_y_promulgese_la_modificacion_al_plan_regulador_comunal_de_san_joaq__DECRETO_914.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z2",
+   "Z2A"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nEdición de 32 páginas\r\n\r\nSrntiago, Jueves 13 de Jlnio de 2013\r\nEdición de 2 Cuerpos\r\n\r\nNúm.40.583.Año CXXXVI - N\" 815.596 (M.R.)\r\n\r\nEjempludel día $375.- (VA incluido)\r\n\r\nAtrmado\r\n\r\nSUMARIO\r\n\r\nNúm. I publicado el I de Mam de 1877\r\n\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\n\r\n$785.- (IVA incluido)\r\n\r\nMINISTERIODE\r\nDESARROLLO SOCIAL\r\n\r\nSubsecretaría de\r\nRedes Asistenciales\r\n\r\nnamiento térmico de viviendas\r\ny fija la distribución de recursos\r\n................P. I 3\r\n\r\nNormas Generales\r\n\r\nSubsecretaría de\r\n\r\nServicios Sociales\r\n\r\nPODEREIECUTIVO\r\n\r\nMINISTERIO DE\r\nIIACIEAIDA\r\nSuperintendeneia de Bancos e\r\nInslituciones Financieras\r\nCertificado número 6/2013.Determina interés coniente por\r\nel lapso que indica ............. P.2\r\n\r\nDecreto número 8.- Acepta renuncia voluntaria de don Crisúán\r\nIgnacio Callejas Rodríguez al cargo de Sec¡etario Regional Ministerial Región del Libertridor Bernardo O'Higgins ................. P. 10\r\nDecreto número 23.- Designa\r\nnuevo representante del Ministerio de Desa¡rollo Social ante la\r\nComisión de Desarrollo de Isla de\r\nPascua................................. P.10\r\n\r\nNacional de Aduanas\r\n\r\nMINISTERIODEL\r\nDirección Nacional\r\n\r\nTRABAJO Y\r\nPREYISIÓNSOCIAL\r\n\r\nResolución número 5.234\r\nexenta.- Defoga resoluciones\r\n\r\nSubsecretaría de\r\n\r\nN'2.488, de 1984 y N\" 1.986, de\r\n\r\nPrevisión Social\r\n\r\nI 985, y establece \"Procedimien-\r\n\r\nto de Control de Desiinaciones\r\nAdumeras que amparen gráneles líquidos, Medicione"
+ },
+ {
+  "id": "d1262",
+  "comuna": "san_joaquin",
+  "nombre_documento": "1203_promulga_la_modificacion_al_plan_regulador_comunal_de_san_joaquin",
+  "archivo": "san_joaquin_1203_promulga_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DIARIO_OFICIAL28-05-2016.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1263",
+  "comuna": "san_joaquin",
+  "nombre_documento": "1206_promulguese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_s",
+  "archivo": "san_joaquin_1206_promulguese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_s__DECRETO_1206.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1264",
+  "comuna": "san_joaquin",
+  "nombre_documento": "1648_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_san_joaquin",
+  "archivo": "san_joaquin_1648_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_san_joaquin__DO04-09-2015.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1265",
+  "comuna": "san_joaquin",
+  "nombre_documento": "1696_apruebese_la_enmienda_al_plan_regulador_comunal_de_san_joaquin_eliminacion",
+  "archivo": "san_joaquin_1696_apruebese_la_enmienda_al_plan_regulador_comunal_de_san_joaquin_eliminacion___DECRETO_1696.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1266",
+  "comuna": "san_joaquin",
+  "nombre_documento": "306_aprueba_y_promulga_modificacion_al_plan_regulador_de_san_joaquin",
+  "archivo": "san_joaquin_306_aprueba_y_promulga_modificacion_al_plan_regulador_de_san_joaquin__DECRETO_306.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1267",
+  "comuna": "san_joaquin",
+  "nombre_documento": "352_apruebese_y_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joa",
+  "archivo": "san_joaquin_352_apruebese_y_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joa__DO19-02-2016.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1268",
+  "comuna": "san_joaquin",
+  "nombre_documento": "352_texto_aprobatorio_de_modificacion_al_plan_regulador_comunal_de_san_joaquin_v",
+  "archivo": "san_joaquin_352_texto_aprobatorio_de_modificacion_al_plan_regulador_comunal_de_san_joaquin_v__DO10-03-2016.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1269",
+  "comuna": "san_joaquin",
+  "nombre_documento": "452_promulgese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_san",
+  "archivo": "san_joaquin_452_promulgese_la_aprobacion_de_la_modificacion_al_plan_regulador_comunal_de_san__DECRETO_452.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1270",
+  "comuna": "san_joaquin",
+  "nombre_documento": "752_deja_sin_efecto_las_afectaciones_a_utilidad_publica_del_plan_regulador_comun",
+  "archivo": "san_joaquin_752_deja_sin_efecto_las_afectaciones_a_utilidad_publica_del_plan_regulador_comun__DECRETO_752.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1271",
+  "comuna": "san_joaquin",
+  "nombre_documento": "788_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_plan_re",
+  "archivo": "san_joaquin_788_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_plan_re__DO13_06_2014.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1272",
+  "comuna": "san_joaquin",
+  "nombre_documento": "795_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin",
+  "archivo": "san_joaquin_795_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DIARIO_OFICIAL19-04-2016.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1273",
+  "comuna": "san_joaquin",
+  "nombre_documento": "873_asignese_nuevas_normas_urbanisticas_a_los_terrenos_cuyas_declaraciones_de_ut",
+  "archivo": "san_joaquin_873_asignese_nuevas_normas_urbanisticas_a_los_terrenos_cuyas_declaraciones_de_ut__DECRETO_873.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1274",
+  "comuna": "san_joaquin",
+  "nombre_documento": "decreto_alcaldicio_2838_promulguese_la_aprobacion_de_la_actualizacion_al_plan_re",
+  "archivo": "san_joaquin_decreto_alcaldicio_2838_promulguese_la_aprobacion_de_la_actualizacion_al_plan_re__2838.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

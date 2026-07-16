@@ -1,0 +1,20 @@
+{
+  "id": "tucapel_b5bd5afb83",
+  "comuna": "tucapel",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\tucapel_decreto_799_autoriza_trato_directo_y_regulariza_contratacion_de_servicio_de_publ__1679923896.pdf",
+  "nombre": "tucapel_decreto_799_autoriza_trato_directo_y_regulariza_contratacion_de_servicio_de_publ__1679923896.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T13:00:03",
+  "fin": "2026-07-15T13:01:04",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 799/2023: autoriza trato directo y regulariza pago de factura por publicación en el Diario Oficial del extracto de inicio del procedimiento de Evaluación Ambiental Estratégica (EAE) del PRC de Tucapel. Puramente administrativo (orden de compra), sin contenido normativo."
+  }
+}

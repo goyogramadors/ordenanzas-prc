@@ -1,0 +1,20 @@
+{
+  "id": "tocopilla_31e9c76e49",
+  "comuna": "tocopilla",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\tocopilla__la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador___f4337ed5-4afb-4f2b-a0e7-c68ef2d77423.pdf",
+  "nombre": "tocopilla__la_comuna_cuenta_con_un_plan_regulador_comunal_si_cuenta_con_un_plan_regulador___f4337ed5-4afb-4f2b-a0e7-c68ef2d77423.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:58:32",
+  "fin": "2026-07-15T13:00:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Oficio Ordinario 1065/2017 (16-nov-2017, 2p): respuesta a una Solicitud de Acceso a la Información Pública sobre el estado del PRC de Tocopilla (vigente desde 2001, con 3 modificaciones seccionales). Documento de transparencia/respuesta administrativa, no contiene tabla de normas urbanísticas."
+  }
+}

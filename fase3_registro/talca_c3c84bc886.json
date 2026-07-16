@@ -1,0 +1,20 @@
+{
+  "id": "talca_c3c84bc886",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_alcaldicio_5228_ordena_el_retiro_de_todos_los_soportes_publicitarios_ins__5228.pdf",
+  "nombre": "talca_decreto_alcaldicio_5228_ordena_el_retiro_de_todos_los_soportes_publicitarios_ins__5228.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:58:14",
+  "fin": "2026-07-15T13:00:08",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 5228: ordena el retiro de soportes publicitarios instalados sin permiso municipal. Ordenanza de publicidad/carteles, no PRC ni normas urbanisticas de zona."
+  }
+}

@@ -1,0 +1,443 @@
+[
+ {
+  "id": "d0354",
+  "comuna": "las_condes",
+  "nombre_documento": "9_j_1eraviso_modifn11_publicado_22oct2021",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_9-j-1eraviso-ModifN11-publicado-22oct2021.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es el '1er aviso' de publicacion de la Modificacion N11 (otro ejemplar), 1 pagina escaneada, tramite de publicacion.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0696",
+  "comuna": "las_condes",
+  "nombre_documento": "9_lam_2_art_41_graf_vereda_oriente_h_de_magallanes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_9_LAM.2_ART.41_GRAF._VEREDA_ORIENTE_H.DE_MAGALLANES.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 3
+  },
+  "codigos_zona": [
+   "ZA"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica (Art. 41 grafico) del plano de uso de suelo en vereda oriente de H. de Magallanes, sin cuadro normativo de texto",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nINO\r\nS\r\nTO\r\nEC\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nMON\r\n\r\nROE\r\n\r\nRON\r\n\r\nORIENTE DE CALLE HERNANDO DE MAGALLANES\r\nENTRE AVDA. MARTIN DE ZAMORA Y CALLE LOS\r\nPOZOS\r\n\r\nL NOV\r\nOA\r\n\r\nRIS\r\nTIN\r\nA\r\n\r\nORR\r\nA\r\n\r\nCES\r\nVALL\r\nE\r\n\r\nS\r\n\r\nS\r\nMONR\r\n\r\nBAR\r\nRO\r\nS\r\n\r\nAR\r\n\r\nAND\r\n\r\nZA\r\nS\r\n\r\nMANUE\r\n\r\nCES\r\nVALL\r\nE\r\n\r\nR SO\r\nTTA\r\n\r\nA. C\r\n\r\nA. C\r\n\r\nMANUE\r\n\r\nS\r\nLA\r\n\r\nRON\r\n\r\nVICTO\r\n\r\nQU\r\nIT\r\n\r\nL NOV\r\n\r\nOA\r\n\r\n60\r\n\r\nRIS\r\nT\r\n\r\nMON\r\nROE\r\n\r\nGA\r\nR\r\n\r\nGA\r\nRZ\r\nAS\r\n\r\nINA\r\nBAR\r\nRO\r\nS\r\n\r\nAND\r\nORR\r\nA\r\n\r\nAS\r\n\r\nPLANO DE USO DE SUELO\r\n\r\nLA\r\nS\r\n\r\nTO\r\nEC\r\nQU\r\nIT\r\n\r\nMONR\r\nOE\r\n\r\nOE\r\n\r\n2\r\nv\r\nU\r\n\r\n2\r\nv\r\nU\r\n\r\nSIMBOLOGIA\r\n\r\nUEe1\r\n\r\nUEe1\r\n\r\n60\r\n\r\n60\r\n\r\n2\r\nv\r\nU\r\n\r\n60\r\n\r\nSITUACION ACTUAL\r\n\r\n60\r\nMAYE\r\nCURA\r\n\r\nRUSOE\r\n\r\nUC1\r\n\r\nAPROBACION MUNICIPAL\r\n\r\n60\r\n\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL , FUE SANCIONADA POR DECRETO ALCALDICIO 966\r\nCON FECHA_ _21\r\n_ _ _ _ _ DE _ _ _ _FEBRERO\r\n_ _ _ _ _ _ _ _ _ _2014 DE LA MUNICIPALIDAD DE LAS CONDES.\r\n\r\nOE\r\nCRUS\r\nNSON\r\n\r\nZA\r\n\r\n60\r\nPIACEN\r\n\r\nOE\r\nCRUS\r\n\r\nVEDRA\r\n\r\n60\r\n\r\nNSON\r\nROBI\r\n\r\nSITUACION ANTERIOR\r\n\r\nPONTE\r\n\r\nPIACEN\r\n\r\nZA\r\n\r\n60\r\n\r\nUC1\r\n\r\n60\r\n\r\nROBI\r\n\r\nROBIN\r\nSON C\r\n\r\nRUSOE\r\n\r\n60\r\n\r\n60\r\n\r\n60\r\n\r\nVEDRA\r\n\r\n60\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\n\r\nROBIN\r\nSON C\r\n\r\n60\r\n\r\nM P R C L C - 2010\r\n\r\nLOS TR\r\n\r\n2\r\nv\r\nU\r\n\r\n60\r\n\r\nURA\r\n\r\n60\r\n\r\nOYANO\r\n\r\n60\r\n\r\nS\r\n"
+ },
+ {
+  "id": "d0368",
+  "comuna": "las_condes",
+  "nombre_documento": "corporacion_educacion_salud_plan_anual_educacion2009",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_corporacion.educacion-salud.plan.anual.educacion2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 123,
+  "paginas_escaneadas": 12,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "Plan Anual de Educacion Municipal (PADEM) 2009 de la Corporacion, no relacionado al PRC.",
+  "texto_primeras_paginas": "PLAN ANUAL DE\r\nEDUCACION MUNICIPAL\r\n\r\nPADEM 2009\r\n\r\nCorporación de Educación y Salud de Las Condes\r\nPADEM 2009\r\n\r\n1\r\n\r\n\fINDICE:\r\n\r\n6\r\n\r\nI.- INTRODUCCIÓN\r\n\r\nII.- DIAGNOSTICO:\r\n1.- Antecedentes generales Comuna de Las Condes\r\n2.- Organización política de la Comuna\r\n3.- Indicadores Demográficos de la Comuna\r\n4.- Antecedentes económicos de la Comuna\r\n\r\n8\r\n8\r\n9\r\n13\r\n\r\nIII.- EDUCACIÓN EN LA COMUNA DE LAS CONDES:\r\n1.- Oferta Educacional en la Comuna\r\n2.- Nivel de escolaridad de la comuna\r\n3.- Educación Municipal\r\n4.- Colegios concesionados a sociedades de profesores\r\n5.- Proyección de matrícula 2008\r\n6.- Nivel de escolaridad de los padres y apoderados\r\n7.- Ingresos familiares\r\n8.- Distribución de Ingreso por colegio\r\n9.- Comuna de procedencia de los alumnos en educación municipal\r\n10.-Tipo de vivienda de alumnado en Educación Municipal\r\n11.- Constitución familiar de la población escolar municipal\r\n12.- Población Escolar 2008\r\n\r\n15\r\n15\r\n16\r\n16\r\n17\r\n18\r\n21\r\n22\r\n23\r\n23\r\n24\r\n25\r\n\r\nIV.- RENDIMIENTO ESCOLAR Y OTROS INDICADORES RELACIONADOS\r\n1.- Puntaje SIMCE 4º Básico 2006 – 2007\r\n2.- Puntajes SIMCE 8º Básico 2006- 2007\r\n3.- Resultados comparativos con promedios nacionales\r\n4.- Evolución SIMCE 8º básico\r\n5.- Evolución SIMCE 2º Medio\r\n6.- Resultados colegios municipales por curso\r\n7.- Puntajes más altos obtenidos en 8º Básicos\r\n8.- Porcentaje de logro en Simce 4º Básico\r\n\r\nCorporación de Edu"
+ },
+ {
+  "id": "d0369",
+  "comuna": "las_condes",
+  "nombre_documento": "corporacion_educacion_salud_plan_salud_2009",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_corporacion.educacion-salud.plan.salud.2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 41,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "Plan de Salud 2009 de la Corporacion de Educacion y Salud, no relacionado al PRC.",
+  "texto_primeras_paginas": "PLAN DE SALUD\r\n2009\r\n\r\n1\r\nPlan de Salud 2009\r\nCorporación de Educación y Salud de Las Condes\r\n\r\n\fINDICE:\r\nINTRODUCCIÓN____________________________________________________ 2\r\n\r\nI. Diagnóstico Poblacional____________________________________________ 4\r\n\r\nII. Atención Primaria de Salud _________________________________________ 6\r\n1.\r\n2.\r\n3.\r\n4.\r\n5.\r\n6.\r\n7.\r\n8.\r\n\r\nBases Conceptuales ________________________________________ 6\r\nValores que fundamentan nuestra acción ________________________ 7\r\nOferta de servicios o canasta de prestaciones ___________________ 10\r\nProgramas Comunales _____________________________________ 12\r\nÍndices de actividad de atención primaria para el año 2008 _________ 16\r\nGes_____________________________________________________ 17\r\nControles de calidad _______________________________________ 18\r\nCentros de Salud __________________________________________ 18\r\na. Centro de Salud Apoquindo ____________________________ 18\r\nb. Centro de Salud Familiar Dr. Aníbal Ariztía _______________ 19\r\nc. Servicio de Atención Primaria de Urgencias (SAPU) _________ 21\r\n\r\nIII. Atención Secundaria de Salud______________________________________ 23\r\n1.\r\n2.\r\n3.\r\n4.\r\n5.\r\n6.\r\n\r\nCentro de Imágenes _______________________________________ 23\r\nCentro de Rehabilitación del Adulto Mayor (RAM)_________________ 25\r\nCosam Las Condes ________________________________________ 26\r\nLaboratorio Clínico"
+ },
+ {
+  "id": "d0713",
+  "comuna": "las_condes",
+  "nombre_documento": "d_o_ley21078_15feb2018",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.ley21078-15feb2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "agrupamiento": 10,
+   "normas_urbanisticas": 3,
+   "articulado": 39,
+   "limite_urbano": 6
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "Es la Ley 21.078, ley nacional que modifica la LGUC sobre transparencia del mercado del suelo e impuesto por ampliacion del limite urbano; no es ordenanza ni modificacion especifica del PRC de Las Condes ni fija coeficientes de zona.",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.984\r\n\r\n|\r\n\r\nJueves 15 de Febrero de 2018\r\n\r\n|\r\n\r\nPágina 1 de 13\r\n\r\nNormas Generales\r\nCVE 1353323\r\n\r\nMINISTERIO DE VIVIENDA Y URBANISMO\r\n\r\nLEY NÚM. 21.078\r\nSOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL\r\nAUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO\r\nTeniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente\r\nProyecto de ley:\r\n“ Artículo primero .- Modifícase el decreto con fuerza de ley N° 458, de 1975, del\r\nMinisterio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, de la\r\nsiguiente forma:\r\n1. Modifícase el artículo 3 en el siguiente sentido:\r\na) Derógase su inciso cuarto, pasando los actuales incisos quinto y sexto a ser cuarto y\r\nquinto, respectivamente.\r\nb) Reemplázase en su inciso quinto, que pasa a ser cuarto, la frase “y los Reglamentos de\r\nInstalaciones Sanitarias de Agua Potable y Alcantarillado, y de Pavimentación” por la frase “y\r\nlas normas sobre pavimentación”.\r\nc) Reemplázanse en su inciso sexto, que pasa a ser quinto, las expresiones “Los decretos\r\nsupremos mencionados en los dos últimos incisos precedentes, se dictarán”, por la frase “El\r\ndecreto supremo mencionado en el inciso precedente se dictará”.\r\n2. Agrégase a continuación de la"
+ },
+ {
+  "id": "d0716",
+  "comuna": "las_condes",
+  "nombre_documento": "d_oficial_3632_22may2018",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.OFICIAL.3632.22MAY2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "agrupamiento": 4,
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Decreto que solo da inicio al procedimiento de evaluacion ambiental estrategica de la futura Modificacion N10; no promulga normas.",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.083\r\n\r\n|\r\n\r\nViernes 15 de Junio de 2018\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nAvisos\r\nCVE 1412637\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nEXTRACTO DE DECRETO ALCALDICIO SECC. 1ª N° 3.632, DE 22 DE\r\nMAYO DE 2018, DE LA MUNICIPALIDAD DE LAS CONDES, QUE DA INICIO\r\nAL PROCEDIMIENTO DE EVALUACIÓN AMBIENTAL ESTRATÉGICA DEL\r\nPROYECTO DE MODIFICACIÓN N° 10 DEL PLAN REGULADOR COMUNAL\r\nDE LAS CONDES\r\nA. ÓRGANO RESPONSABLE DE LA POLÍTICA, PLAN O INSTRUMENTO DE\r\nORDENAMIENTO TERRITORIAL:\r\nMunicipalidad de Las Condes.\r\nB. RESUMEN DE LOS ANTECEDENTES DEL PLAN REGULADOR COMUNAL\r\nDE LAS CONDES QUE SE PRETENDE MODIFICAR:\r\nB. 1. Fines o metas que se busca alcanzar con la modificación del Plan Regulador\r\nComunal de Las Condes.\r\nLa modificación del instrumento de planificación comunal pretende variar las\r\ncondiciones urbanísticas aplicables al terreno ubicado en calle Santa Zita N° 9402,\r\npolígono delimitado por las calles Santa Zita, Incahuasi, Punitaqui y Avda. Paul Harris\r\nSur, con una superficie aproximada de 2.063 m², estableciendo una nueva Subárea\r\nEAb3' (Edificación Aislada Baja N°3').\r\nLo anterior, a fin de consolidar un proyecto de construcción de aproximadamente 60\r\nviviendas sociales (departamentos), ubicado en un terreno dentro"
+ },
+ {
+  "id": "d0728",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_1022_d_o_18feb2017",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.1022-D.O-18feb2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Verificado con extraccion completa: decreto 1022/2017 DEROGA los numerales sustantivos (1.2 a 1.31.7) del decreto 966/2014 y ordena iniciar estudios tecnicos para una futura modificacion; deja sin efecto cambios previos, no fija normas nuevas.",
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.688\r\n\r\n|\r\n\r\nSábado 18 de Febrero de 2017\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1184194\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICA DECRETO ALCALDICIO SECCIÓN 1a N° 966, DE 2014\r\nSecc. 1a Núm. 1.022.- Las Condes, 14 de febrero de 2017.\r\nVistos:\r\n1º. El decreto alcaldicio sección 1 a Nº 729, de fecha 25 de enero de 2011, que promulga el\r\nTexto Aprobatorio de la Modificación Nº 8 al Plan Regulador Comunal de Las Condes,\r\npublicado en el Diario Oficial el 28 de enero de 2011.\r\n2º. El decreto alcaldicio sección 1 a Nº 966, de fecha 21 de febrero de 2014, publicado en el\r\nDiario Oficial el 21 de marzo de 2014.\r\n3º. El Dictamen Nº 85.862, de 28 de noviembre de 2016, de la Contraloría General de la\r\nRepública, que se pronuncia sobre la juridicidad del decreto alcaldicio sección 1 a Nº 966, de\r\n2014, de la Municipalidad de Las Condes.\r\n4º. Las facultades que me otorgan los artículos 56, 63 y demás pertinentes del DFL Nº 1, del\r\nMinisterio del Interior, de fecha 9 de mayo de 2006, publicado en el Diario Oficial de fecha 26\r\nde julio de 2006, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.695,\r\nOrgánica Constitucional de Municipalidades, en relación con el decreto alcaldicio Secció"
+ },
+ {
+  "id": "d1128",
+  "comuna": "las_condes",
+  "nombre_documento": "dec_n8494_12_12_2017",
+  "ruta": "Ordenanzas ordenadas\\las_condes_dec-N8494-12-12-2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "El decreto solo INICIA el procedimiento administrativo de la Modificación N°10 (cita a audiencia pública, exposición al público por 30 días, publicación de avisos). No aprueba ni promulga norma alguna; es puro trámite de inicio de proceso, calza exacto con el ejemplo de la taxonomía.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1130",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_1022_14feb2017",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.1022.14feb2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "El decreto deroga (deja sin efecto) numerales del Decreto 966/2014 sin fijar norma sustitutiva alguna, y solo ordena iniciar estudios técnicos para un futuro proyecto de modificación. Coincide literalmente con el ejemplo 'deja sin efecto' / inicio de proceso de la taxonomía, sin contenido normativo propio.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0737",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_1369_12abr2023",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.1369.12abr2023.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 3
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Texto completo revisado: el decreto solo Ratifica el acuerdo N279/2022 (Modif. N11) y lo remite a SEREMI Minvu; no contiene tabla de normas ni texto aprobatorio.",
+  "texto_primeras_paginas": "b ';'\r\n\r\n!$$J\r\n\r\nd=..:!-R\r\nM EJOR\r\n\r\nPARA TODOS\r\n\r\n-> >-71\r\nMunicipalidad de Las Condes\r\nDirección Jur'ñdica\r\nDirección de .A8ésoría Urbana\r\n\r\n.PNA, J'6P,S\\P''\r\n\\\r\n\r\nOFICI\r\n\r\nDE\r\n\r\n,(o 'Z,2,..t'\\\r\nDECRETO\r\n\r\nALC.\r\n\r\nLAS DONDES,\r\n\r\nSECC.\r\n\r\nla NO\r\n\r\n.1 2 ABR 2023\r\n\r\nl El DecretoAlcaldicioSecciónl ' N' 6.559, de fecha 6 de septiembrede 2017, de la\r\nMunicipalidad de Las Condes, que dispone realizar las adecuaciones pertinentes al\r\nPlan Regulador de la comuna de Las Condes de manera de ajustarlo a los varios\r\n\r\ndictámenes emitidos por la Contraloría General de la República e iniciar al\r\nprocedimiento para la elaboración del proyecto de modificación N' ll\r\nRegulador Comunal de Las Condesa\r\n\r\nal Plan\r\n\r\n2. El acuerdo N' 196/2021 del Concejo Municipal de Las Condes, que autoriza dar\r\ninicio al proceso de tramitación administrativa del proyecto de modificación N' l l\r\ndel Plan Regulador Comunal, adoptado en la 1085' Sesión Ordinaria del Concejo\r\nMunicipal, celebrada el 07 de octubre de 2021 l\r\n\r\nL\r\n\r\n3. El expediente del proyecto de Modificación N' ll al Plan Regulador Comunal de\r\nLas Condesa compuesto de antecedentes administrativos y técnicos (Memoria\r\nExplicativa, Planos de Zonificación, Texto Aprobatorio y Texto Refundido);\r\n\r\n4. El acuerdo N' 279/2022 del Concejo Municipal de Las Condes que aprueba el\r\nProyecto de Modificación N' ll al Plan Regulador Comunal de Las Condes,\r\nadopta"
+ },
+ {
+  "id": "d0738",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_2022_23abr2021",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.2022.23abr2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Texto completo revisado: el decreto solo Ratifica el acuerdo N316/2020 (Modif. N10) y lo remite a SEREMI Minvu a peticion de esta; es paso previo administrativo, la promulgacion real esta en d0742.",
+  "texto_primeras_paginas": "362\r\nMUNICIPALIDAD DE LAS CONDES\r\nDirección Jurídica\r\n\r\nq(\"''WWF''\"'\r\nOFICINA\r\n\r\nVISTOS\r\n\r\n403ZSA\r\n\r\nDECRETO ALC. SECC. I' N' ¿.l\r\nLAS CONDES.\r\n\r\n}'z'z,\r\n\r\n2 3 ABR\r\n\r\nERAND\r\n\r\nJ 8494 de fecha 12 de diciembre de 2017, que dio inicio al procedimiento\r\nadministrativo Dara la aprobación del Proyectode Modificación N' 10 al Plan ReguladorComunalde las\r\nCondes, correspondiente al área delimitada por avenida Paul Harris por el norte, calle Santa Zeta por el\r\noriente, calle Incahuasi por el sur y calle Punitaqui por el poniente.\r\n2\r\n\r\nE] Acuerdo N' 316/2020 del Concejo Municipal que aprueba el Proyecto de Modificación N'10 al Plan\r\nRegulador Comunal de Las Condes, adoptado en la Sesión Ordinaria N' 1057 del Concejo Municipal de\r\nfecha 17.12.2020.\r\n\r\nEl ORD. 1029 de 29.03.2021, de la Seremi Minvu, que señalaen su punto lll, leña d), lo siguiente: \"Falta el\r\n\r\n3.\r\n\r\nDecreto Alcaldicio que ratifjlca la aprobación mediante Acuerdo N' 3 16/2020 del Concejo Municipal el\r\nproyecto de modificación N' 10 al PRC de Las Condes.\"\r\nEl Decreto Alcaldicio Sección I' N' 2.175 de 30 de marzo de 2020, que establece el orden de subrogancia\r\ndel cargo de Alcalde; y en uso de las facultades que me confieren los artículos 56 y 63 del D.F.L N' l del\r\nMinisterio del Interior de fecha 9 de Mayo de 2006, publicado en el Diario Oficial de 26 de Julio de 2006,\r\n\r\n4.\r\n\r\nque Hijael Texto Refundido, Coordinado y Sis"
+ },
+ {
+  "id": "d0741",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_346_07feb2023",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.346.07feb2023.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Texto completo revisado: es una fe de erratas al amparo del art.62 Ley 19.880 que corrige un error de copia (punto cardinal 'oriente' por 'poniente') en el Decreto N3591/2022; no reproduce la tabla de normas ni agrega normativa nueva.",
+  "texto_primeras_paginas": "MEJOR PARA TODOS\r\n\r\n87$$$'}\r\n\r\nW\r\n\r\nDirección Ju\r\nDepartamento d$\r\n\r\n'39F'i\r\n\r\nica\r\nesoria Urbana\r\n\r\nPLb\r\n\r\n,400qü'l\r\nDECRETO ALC. SECC.I' N'\r\n\r\n/\r\n\r\n8 7 FEB 2823\r\n\r\nLAS CONDES,\r\n\r\nI' N' 3.591, de fecha 14 de octubre de 2022, de la\r\nMunicipalidad deLas Condes,que promulga la Modificación N' 10al Plan Regulador\r\nComunal de Las Condes, compuesto por Memoria Explicativa; Plano de Detalle Zona\r\nS-Ab3' Modificación M.P.R.C.L.C. N' l0/2017, que grafica la Ordenanzay, el Texto\r\nAprobatorio, este último publicado en el Diario Oficial con fecha 4 de noviembre de\r\n2022!\r\n\r\n#'\r\n2\r\n\r\nQue, el numeral 2 de la parte resolutiva del decreto antes citado, señala en su punto\r\nnúmero 3, referente a] CAPITULO\r\n\r\nIV \"Zona/icacfóny.AXormas .Espec#?cas\", que: \".E/z\r\n\r\ne! sector delimitadopor avenidaPaul Harris por e! norte; calle SantaZira por el\r\noriente; calle Incahuasi por el sur y calle Punitaqui por el oriente, los proyectos\r\ncalificados por ta Dirección de Obras Municipales como viviendas sociales, podrán\r\noptar por las condiciones urbanísticas señaladas en la siguiente tabla: '' ,\r\n3.\r\n\r\nQue, en dicho numeral, existe un error en el punto cardinal de calle Punitaqui, toda vez\r\n\r\nque éste debe decir calle Punitaqui por el poniente y no \"ca//e .Ruhi/aqu¿\r\npo/\" e/\r\naria/z/e\", de acuerdo con el polígono graficado en los planos y en el resto de los\r\ndocumentosque forman parte del expedientede la Modi"
+ },
+ {
+  "id": "d1139",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_3632_22may2018",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3632.22may2018.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Decreto Secc. 1a N 3632 (Las Condes, 22-may-2018) 'INICIESE el procedimiento de Evaluacion Ambiental Estrategica relativo al Proyecto de Modificacion N10 del PRC de Las Condes'. Es literalmente el acto de INICIO de un tramite (EAE previa) para una futura modificacion; aunque menciona que la Modificacion N10 versara sobre antejardin minimo, coeficiente de constructibilidad, altura maxima y densidad maxima, este decreto en si mismo no aprueba ni promulga ninguna norma urbanistica, solo abre el procedimiento administrativo. Coincide exactamente con la definicion de TRAMITE_ADMINISTRATIVO ('inicio de proceso...').",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1144",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_4498_19dic2025",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.4498.19dic2025.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "El decreto trata sobre el PLADECO (Plan de Desarrollo Comunal), que es un instrumento de gestion municipal/estrategico, no el Plan Regulador Comunal (PRC). No contiene normas urbanisticas de edificacion, uso de suelo, coeficientes ni zonificacion; solo prorroga la vigencia administrativa de un plan de desarrollo distinto al PRC.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1146",
+  "comuna": "las_condes",
+  "nombre_documento": "decreto_6559_06sep2017",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.6559.06sep2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "El decreto solo ordena INICIAR el estudio de adecuaciones al instrumento de planificacion territorial (nombra comision, dispone contratacion de asesorias externas, fija plazo de 180 dias). No aprueba ni modifica ninguna norma urbanistica; es el puntapie inicial de un proceso futuro.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0355",
+  "comuna": "las_condes",
+  "nombre_documento": "lamina_1_edificacion_28febrero2010",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_LAMINA-1-EDIFICACION-28Febrero2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "limite_urbano": 1
+  },
+  "codigos_zona": [
+   "ZA",
+   "ZAR",
+   "ZC",
+   "ZONA",
+   "ZT",
+   "ZUR"
+  ],
+  "puntaje_normativo": 4,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina 1 de edificacion del PRC 2010; el texto extraido son coordenadas y codigos de zona propios de un plano, sin cuadro normativo articulado.",
+  "texto_primeras_paginas": "350.000\r\n\r\n352.000\r\n\r\n358.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n360.000\r\n\r\n360.000\r\n\r\n362.000\r\n\r\nEAb1\r\n\r\n362.000\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\n40\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\n50\r\n80-60\r\n\r\nB\r\n\r\nEAm1`\r\n\r\nEe1\r\n\r\nEA\r\n\r\nm\r\n1`\r\n\r\nEAm1\r\n\r\nEe\r\n\r\nEAm1\r\n\r\n1\r\n\r\no\r\nEe5\r\n\r\n80-60\r\n\r\nEAa + ca\r\n\r\no\r\n\r\nEAa + cm\r\n\r\nEAb1\r\n\r\nEAb4\r\n\r\nEe3\r\n\r\nEAb3\r\n\r\nEAa2\r\n50\r\n\r\nEe2\r\n\r\nEAb2\r\n\r\nESTADIO\r\nPALESTINO\r\n\r\nEAa4\r\n\r\n1\r\n\r\n50\r\n\r\nm2\r\n\r\nS TRAN\r\n\r\nO\r\nNIM\r\nRO\r\n\r\nAZA\r\n\r\nA\r\nDE\r\nTE\r\nRE\r\nLDE\r\n\r\nAVDA.\r\nLA\r\n\r\nLEA\r\n\r\nRU\r\n\r\nRS\r\n\r\nSO\r\n\r\nRL\r\n\r\nUL\r\n\r\nAS\r\n\r\nRO\r\n\r\nEDIFICACION AISLADA BAJA\r\n\r\nUA\r\n\r\nRE\r\nZ\r\n\r\nEAb1\r\n\r\nSA\r\n\r\nOJ\r\nNIT\r\n\r\nEe2\r\n\r\nRE\r\n\r\nUA\r\n\r\n20\r\n\r\nEe1\r\n\r\nESTADIO ISRAELITA\r\n\r\nZ\r\n\r\nEA\r\n\r\nERETE\r\nP\r\n\r\nEe1\r\n\r\nG\r\nDE\r\n\r\nRO\r\nED\r\n\r\nAM\r\n\r\nEAb2\r\n\r\nEAb4\r\n\r\nEDIFICACION ESPECIAL\r\n\r\nEAb3\r\n\r\nEAm4\r\n\r\nEe1\r\n\r\nEe1 EQUIPAMIENTO INTERCOMUNAL Y\r\nCOMUNAL\r\nEAb4\r\n\r\nEe3\r\n\r\n1\r\n\r\nS\r\nRO\r\n\r\nOA\r\nL NOV\r\n\r\nPje.Isla moc\r\n\r\nha\r\n\r\nDiaguitas\r\n\r\n6.302.000\r\n\r\na\r\nisc\r\nnc\r\n\r\niv\r\n\r\nPje\r\n\r\nH\r\n\r\nar\r\n\r\nad\r\n\r\nris\r\n\r\n.F\r\n\r\nra\r\n\r\nia\r\nav\r\n\r\nul\r\nPj\r\ne.\r\nPa\r\n\r\ns\r\nrri\r\nHa\r\nul\r\ne.\r\nPa\r\nPj\r\n\r\nZi\r\nta\r\nta\r\nSa\r\nn\r\n\r\nui\r\nta\r\nq\r\nni\r\nPu\r\n\r\nN\r\nIO\r\nNS\r\nTE\r\nTA\r\nAL\r\nRE\r\n\r\nD\r\n\r\nta\r\n\r\ner\r\no\r\nLu\r\nc\r\n\r\nLas Tres Marias\r\n\r\nEe1\r\n\r\nEe1\r\n\r\nSECRETARIO\r\n\r\nSECRETARIA\r\n\r\nLas Pleyades\r\n\r\nMINISTERIAL\r\n\r\nMUNICIPAL\r\n\r\nMETROPOLITANA\r\n5787\r\n\r\nDE VIVIENDA Y\r\n23\r\n\r\nURBANISMO\r\n\r\nDICIEMBRE\r\n\r\nVIAL\r\n\r\n4\r\n\r\nCLARO\r\n\r\nEe3\r\n\r\nCENTRO\r\nENERGIA NUCLEAR\r\n\r\nJAIME TELLEZ TELLEZ (s)\r\n\r\n6.300"
+ },
+ {
+  "id": "d0356",
+  "comuna": "las_condes",
+  "nombre_documento": "lamina_2_uso_de_suelo_28febrero2010",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_LAMINA-2-USO-DE-SUELO-28Febrero2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 7,
+   "limite_urbano": 1
+  },
+  "codigos_zona": [
+   "ZA",
+   "ZAR",
+   "ZC",
+   "ZONA",
+   "ZT",
+   "ZUR"
+  ],
+  "puntaje_normativo": 4,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina 2 de uso de suelo del PRC 2010; plano grafico con simbologia de zonas, sin articulado normativo.",
+  "texto_primeras_paginas": "350.000\r\n\r\n352.000\r\n\r\n358.000\r\n\r\n360.000\r\n\r\n360.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n362.000\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\n60\r\n\r\n362.000\r\n\r\nUV\r\n\r\nUV\r\n\r\n50\r\n\r\n60\r\nUC\r\n2\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\n50\r\n\r\nPLANO DE USO DE SUELO\r\n\r\n80-60\r\n\r\nUC2\r\n\r\nUC1\r\nUC1\r\n\r\n30\r\n\r\n50\r\n\r\n2\r\n5\r\n\r\n2\r\nUC\r\n60\r\n\r\nUV\r\n\r\nUEe1\r\n\r\nUV\r\n\r\n15\r\n\r\nUV\r\n\r\ne\r\nUE\r\n\r\nUv1\r\n\r\no\r\n\r\n1\r\n\r\nUvO\r\n\r\nUSO DE VIVIENDA Y EQUIPAMIENTO\r\nDE OFICINA\r\n\r\nUv3\r\n\r\nUSO DE VIVIENDA Y EQUIPAMIENTO\r\nDE OFICINA RESTRINGIDO\r\n\r\nUV\r\n\r\nZONA DE USO DE SUELO DE VIVIENDA\r\n\r\n80-60\r\n\r\nUEe5\r\n\r\n60\r\n60\r\n\r\nZONAS DE USO DE SUELO VIVIENDA\r\n\r\nUC2\r\n\r\nUC2\r\n\r\n2\r\nUC\r\n\r\nUvO\r\n\r\nUC2\r\n\r\nUC\r\n\r\nUC1\r\n\r\nUV\r\n\r\nUEe2\r\n\r\n50\r\n\r\n60\r\n\r\nEe\r\n\r\n1\r\n\r\nUEe2\r\n\r\no\r\n\r\nO\r\nNIM\r\nRO\r\n\r\nLAS\r\n\r\nAZA\r\n\r\nRS\r\n\r\nTE\r\nRE\r\nLDE\r\n\r\nAVDA.\r\n\r\nA\r\nDE\r\n\r\nRU\r\n\r\nUL\r\n\r\nRL\r\n\r\nZ\r\n\r\nAU\r\n\r\nRA\r\n\r\nRO\r\n\r\n80-60\r\n\r\nUEe2\r\n\r\nZ\r\nRE\r\n\r\nO DE ALD\r\nGERONIM\r\n\r\nUEe1\r\n\r\nPE\r\n\r\nO\r\nDR\r\n\r\nB\r\nAM\r\nEG\r\n\r\nUM\r\n\r\nOA\r\n\r\nUv1\r\n\r\nUM\r\n\r\n50\r\n\r\nUE\r\n\r\nUEe1\r\n\r\nUV\r\nUEe3\r\n60\r\n\r\nUC2\r\n\r\nEN\r\nIBS\r\n\r\nUC2\r\n\r\nUEe1\r\n\r\nS\r\n\r\n6.302.000\r\n\r\nca\r\ncis\r\n\r\nar\r\n\r\nPje\r\n\r\nris\r\n\r\n.F\r\n\r\nra\r\nn\r\n\r\nia\r\nad\r\nav\r\n\r\nH\r\n\r\niv\r\n\r\nPa\r\n\r\nul\r\n\r\nR\r\n\r\nris\r\n\r\ne.\r\n\r\nar\r\n\r\nPj\r\n\r\nlH\r\nau\r\ne.\r\nP\r\nPj\r\n\r\nZi\r\nta\r\n\r\ni\r\n\r\na\r\n\r\nqu\r\nni\r\nta\r\nPu\r\n\r\nZi\r\nta\r\nnt\r\na\r\n\r\nro\r\n\r\nN\r\n\r\nLu\r\nce\r\n\r\nLas Tres Marias\r\n\r\n10\r\n\r\n00\r\n\r\nPje.Lucaro\r\n\r\nUEe1\r\nVIA LACTEA\r\n\r\nUEe1\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO\r\n\r\nSECRETARIA\r\n\r\nLas Pleyades\r\n\r\nMINISTERIAL\r\n\r\nMUNICIPAL\r\n\r\nMETROPOLITANA\r\n5787\r\n\r\nD"
+ },
+ {
+  "id": "d0357",
+  "comuna": "las_condes",
+  "nombre_documento": "lamina_3_vialidad_28febrero2010",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_LAMINA-3-VIALIDAD-28Febrero2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "limite_urbano": 1
+  },
+  "codigos_zona": [
+   "ICH",
+   "ZA",
+   "ZAR",
+   "ZC",
+   "ZMAN",
+   "ZONA",
+   "ZT",
+   "ZU",
+   "ZUR"
+  ],
+  "puntaje_normativo": 5,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina 3 de vialidad del PRC 2010; plano grafico con simbologia vial, sin articulado normativo.",
+  "texto_primeras_paginas": "352.000\r\n\r\n360.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n3O\r\n\r\nT-\r\n\r\n15\r\n\r\n15\r\n360.000\r\n\r\n30,09\r\n\r\n8O\r\n\r\nO\r\nE10\r\n80-60\r\n\r\n71\r\nE-\r\n\r\n3\r\nT-\r\n\r\n25\r\n\r\nO\r\n\r\n50\r\n\r\n15\r\n\r\nM EJ O R\r\n\r\n50\r\n\r\n15\r\n\r\nE-71 O\r\n\r\nO\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\n8\r\n-6\r\n\r\nT-\r\n\r\nE-71\r\n\r\nPLANO DE VIALIDAD\r\n\r\n40\r\n32\r\n\r\nO\r\n\r\n20\r\n\r\n2\r\nT-\r\n\r\n75\r\n\r\n20\r\n\r\n15\r\n\r\nT-6\r\n\r\n45-64\r\n\r\n9O\r\n\r\n20\r\n24\r\n\r\n45\r\n\r\nT-68 O\r\n\r\nO\r\n\r\nT-3\r\n\r\n32\r\n\r\nO\r\n\r\n30\r\n\r\n25\r\n20\r\n\r\n45\r\n\r\nO\r\n\r\n24\r\n\r\n30\r\n\r\n32\r\n\r\n18\r\n\r\n6\r\nT-6\r\n\r\n15\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nO\r\n\r\nT-67\r\n\r\nO\r\n-10\r\n\r\n15\r\n\r\nO\r\n\r\nT\r\n\r\n25\r\n\r\nE\r\n\r\nO\r\nE-10\r\n\r\nO\r\n\r\nT-6\r\n9O\r\n\r\n8O\r\nT -2\r\n\r\nT-3 O\r\n\r\nE\r\n\r\n0O\r\n-1\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\n25\r\n\r\n20\r\n\r\n48\r\n\r\n67\r\n\r\n20\r\n15\r\n\r\n48\r\n\r\n25\r\nT45\r\n\r\n15\r\n\r\nT-28 O\r\n40\r\n\r\n25\r\n\r\n6\r\nT-\r\n\r\n30\r\n\r\nT-28 O\r\n\r\n64\r\n\r\nO\r\n\r\n362.000\r\n\r\n8O\r\n\r\nE-1\r\n\r\n50\r\n\r\n7\r\nT-6\r\n\r\n15\r\n\r\n358.000\r\n\r\n362.000\r\n\r\nE-18 O\r\n\r\n350.000\r\n\r\n24\r\n\r\nVIALIDAD EXISTENTE\r\n\r\nO\r\n\r\nTE\r\nALD\r\nTE\r\nRE\r\n\r\n8O\r\nT-6\r\nRAS\r\nANQUE\r\n\r\nSO\r\nR\r\n\r\nUR\r\n\r\nLA\r\n\r\nSU\r\n\r\nRA\r\n\r\nEZ\r\n\r\n15\r\n\r\nO\r\nT-6\r\n0\r\n\r\ncas\r\n\r\n6.302.000\r\n\r\n900\r\nTA\r\n\r\nca\r\ncis\r\n\r\nH\r\n\r\nPje\r\n\r\nar\r\nris\r\n\r\n.F\r\nra\r\nn\r\n\r\nia\r\niv\r\nad\r\nav\r\n\r\nPa\r\n\r\nul\r\n\r\nR\r\n\r\nris\r\n\r\ne.\r\n\r\nul\r\nHa\r\nr\r\n\r\nPj\r\n\r\nPa\r\nPj\r\ne.\r\n\r\nZi\r\nta\r\na\r\n\r\nta\r\nni\r\nPu\r\n\r\nnt\r\nSa\r\n\r\nqu\r\n\r\ni\r\n\r\nPje.Lucaro\r\n\r\nC\r\n\r\nta\r\n\r\nN\r\n\r\nO\r\n\r\nTA\r\n\r\n30\r\n\r\nZi\r\nnt\r\na\r\n\r\n10\r\n\r\n00\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO\r\n\r\nMUNICIPAL\r\n\r\nLu\r\n\r\nce\r\n\r\nro\r\n\r\nSa\r\n\r\nSECRETARIA\r\n\r\nMINISTERIAL\r\n\r\nMETROPOLITANA DE VIVIENDA Y\r\n5787\r\n\r\nL"
+ },
+ {
+  "id": "d1124",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_alc_n14_357_del_24_8_23_a_seremi_minvu",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Ord.-Alc.-N14-357-del-24.8.23-a-SEREMI-MINVU.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Confirmado por referencia cruzada en el texto de d1125 (mismo N° de oficio 14/357 y fecha 24.8.23): remite acreditación de documentación faltante del expediente de Modificación N°11; trámite administrativo sin normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1125",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_alc_n14_57_del_30_1_24_a_seremi_minvu_v2",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Ord.-Alc.-N14-57-del-30.1.24-a-SEREMI-MINVU-v2.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 31,
+  "paginas_escaneadas": 29,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Texto extraído (pág.1 y 2-8) confirma que es un oficio que responde a observaciones de SEREMI sobre la Modificación N°11, solicita mesa de trabajo y aclaración de plazos; no contiene articulado normativo, solo remite planos CAD como anexo escaneado.",
+  "texto_primeras_paginas": "e\r\n\r\nMEJOR PARA TODOS\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\nDIRECCIÓNDEASESORÍAURBANA\r\n.PÜ.\r\n\r\nORD. ALC. Ng\r\nANT.\r\n\r\nl\r\n\r\nORD.ALC N' 14/162, de fecha 28 de abril de\r\n\r\n2023,que remite el expediente\r\nde la\r\nModificación N' ll al Plan Regulador Comunal\r\nde Las Condes.\r\n2\r\n\r\nORD. N' 2099 de fecha agosto 2023, de la\r\nSEREMl-MINVU, que solicita documentos\r\nfalta ntes.\r\n\r\n3\r\n\r\nORD. ALC N' 14/357 de fecha agosto 2023,\r\nque remite acreditación de documentación\r\nsolicitada, documentos faltantes, en relación\r\ncon el proyecto de modificación N' ll al Plan\r\nReguladorComunal de LasCondes.\r\n\r\n4\r\n\r\nORDN' 63 de fecha 10 de enero de 2024, de\r\nla SEREMl-MINVU, que emite observaciones al\r\nproyecto de modificación N' ll\r\nRegulador Comunal de Las Condes.\r\n\r\nal\r\n\r\nPlan\r\n\r\nMAT.: Remite\r\n\r\nrespuesta\r\npara las observaciones\r\ncontenidas en el ORD N' 63 de fecha 10 de enero\r\n\r\nde 2024, de la SEREMl-MINVUy adjunta planos en\r\nversión CAD georeferenciados.\r\n\r\n3 0 ENE 2024\r\nDE\r\n\r\nJUAN MANUEL MASFERRERVIDAL\r\nALCALDE (S) DE LA MUNICIPALIDAD\r\n\r\nA:\r\n\r\nDE LAS CONDES\r\n\r\nSRA. CAROLINA A. CASANOVA ROMERO.\r\nSECRETARIAREGIONAL MINISTERIAL METROPOLITANA DEL MINISTERIO DE VIVIENDA Y\r\n\r\nURBANISMO.\r\n\r\nl\r\n\r\nMediante documento señalado en el ANT., esa Secretaría Regional Ministerial\r\nMetropolitana del Ministerio de Vivienda y Urbanismo(SEREMl-MINVU),\r\nremitió a esta Municipalidad\r\nsus observaciones a] proyecto de Modificación N' "
+ },
+ {
+  "id": "d0721",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_seremi_n2099_del_2_8_23",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Ord.-SEREMI-N2099-del-2.8.23.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 15,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "articulado": 13
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio de SEREMI que acusa recibo y solicita documentos faltantes del expediente de Modificacion N11; tramite de revision, no promulga normas.",
+  "texto_primeras_paginas": "ORD. N° : 2099\r\nANT.\r\n: Ord. Alc. N°14/162 de Alcalde (s)\r\nMunicipalidad de Las Condes de fecha\r\n28.04.2023.\r\nRemite\r\nExpediente\r\nModificación N°11 al Plan Regulador de\r\nLas Condes.\r\nOFICIO ELECTRÓNICO\r\n\r\nMAT.\r\n\r\n: (DDUI)(PCHJ)(EPL) - LAS CONDES Art.\r\n2.1.11 OGUC. Acusa recibo y solicita\r\ntanto documentos faltantes, como\r\nacreditar documentación enviada que se\r\nindica, del proyecto de Modificación N°11\r\nal Plan Regulador Comunal de Las\r\nCondes. Ingreso N° 0101153 de\r\n02.05.2023.\r\n\r\nADJ.\r\n\r\n: No hay\r\n\r\nSantiago, 02 agosto 2023\r\nDANIELA PEÑALOZA RAMOS\r\nALCALDESA MUNICIPALIDAD DE LAS CONDES\r\nROCIO ANDRADE CASTRO\r\nSECRETARIA MINISTERIAL METROPOLITANA DE VIVIENDA Y\r\nURBANISMO\r\n\r\nA\r\n\r\n:\r\n\r\nDE\r\n\r\n:\r\n\r\nI.\r\n\r\nMediante el ANT. usted remitió a esta Secretaría Ministerial Metropolitana de Vivienda y\r\nUrbanismo la Modificación N°11 al Plan Regulador Comunal de Las Condes, para trámite oficial\r\nde revisión e informe técnico.\r\nLos documentos recibidos son los siguientes:\r\nA. Antecedentes Administrativos: (Digitalizados en PDF):\r\n1)\r\n\r\n2)\r\n\r\n3)\r\n\r\n4)\r\n\r\nINICIO DEL ESTUDIO:\r\nOrd. A.U. N°58 del Departamento de Asesoría Urbana de la Municipalidad de Las Condes\r\nde fecha 16.08.2017, al Alcalde por el cual solicita el inicio del estudio tendiente a iniciar\r\nproceso de modificaciones al Plan Regulador Comunal para actualizarlo incorporando los\r\nrequerimientos de la Contraloría General de la Repúblic"
+ },
+ {
+  "id": "d1126",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_seremi_n63_del_10_1_24",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Ord.-SEREMI-N63-del-10.1.24.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 26,
+  "paginas_escaneadas": 26,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Ambas paginas muestran gestion administrativa interna: una hoja de ruta/providencia de Oficina de Partes dirigida a la Alcaldesa (enero 2024) y un listado de 'Providencias' que dan cuenta del ingreso de correos electronicos y presentaciones de vecinos/propietarios/representantes sobre un proceso de consulta (abril 2022). No se observa articulado normativo ni cuadros de zonificacion en las paginas muestreadas; parece ser un Ordinario de SEREMI que traslada/resume observaciones ciudadanas, no un decreto que aprueba normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0722",
+  "comuna": "las_condes",
+  "nombre_documento": "ord_seremi_n846_del_17_4_24",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Ord.-SEREMI-N846-del-17.4.24.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 19,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "articulado": 14
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio de SEREMI que emite Informe Tecnico Desfavorable al proyecto de Modificacion N11; evaluacion de tramite, no es norma vigente.",
+  "texto_primeras_paginas": "OFICIO ELECTRÓNICO\r\n\r\nORD. N° : 846\r\nANT.\r\n: 1.- ORD. ALC. N° 14/162 de fecha\r\n28.04.2023, que remite expediente\r\nModificación N° 11 al Plan Regulador de\r\nLas Condes 2.- ORD. N° 2099 de fecha\r\nagosto 2023 de SEREMI MINVU a\r\nmunicipio, que acusa recibo y solicita\r\ndocumentos faltantes. 3.ORD. ALC.\r\nN° 14/357de fecha agosto 2023, que\r\nremite\r\ndocumentos\r\nfaltantes\r\ny\r\nacreditación de aquellos enviados,\r\nrespecto del proyecto de Modificación N°\r\n11 al Plan Regulador Comunal de Las\r\nCondes. 4.-ORD.N°\r\n63 de fecha\r\n10.01.2024 de SEREMI MINVU a\r\nmunicipio que remite observaciones, 5.ORD.ALC. N° 14/57/2024 de fecha\r\n30.01.2024,\r\nque\r\nresponde\r\nobservaciones.\r\nMAT.\r\n\r\n: (DDUI)(EPL)(GIF) - LAS CONDES Art. 43\r\nLGUC y Art. 2.1.11 OGUC. Emite Informe\r\nTécnico\r\nDesfavorable\r\nal\r\nproyecto\r\nModificación N°11 al Plan Regulador\r\nComunal de Las Condes. Ingreso N°\r\n0100242 de fecha 31.01.2024\r\n\r\nADJ.\r\n\r\n: No hay\r\n\r\nSantiago, 17 abril 2024\r\nDANIELA PEÑALOZA RAMOS\r\nALCALDESA MUNICIPALIDAD DE LAS CONDES\r\nCAROLINA A. CASANOVA ROMERO\r\nSECRETARIA MINISTERIAL METROPOLITANA DE VIVIENDA Y\r\nURBANISMO\r\n\r\nA\r\n\r\n:\r\n\r\nDE\r\n\r\n:\r\n\r\nI.\r\n\r\nMediante el documento del ANT. 1 usted remitió a esta Secretaría Ministerial\r\nMetropolitana de Vivienda y Urbanismo la Modificación N°11 al Plan Regulador Comunal\r\nde Las Condes, para trámite oficial de revisión e informe técnico.\r\nLos documentos recibidos son los siguientes:\r\nA. "
+ },
+ {
+  "id": "d0359",
+  "comuna": "las_condes",
+  "nombre_documento": "padem_2010",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PADEM.2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 169,
+  "paginas_escaneadas": 11,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "OTRO_TEMA_MUNICIPAL",
+  "motivo_del_descarte": "PADEM 2010, plan anual de educacion municipal, no relacionado al PRC.",
+  "texto_primeras_paginas": "_____________________________________________________________\r\n1\r\n\r\n\f_____________________________________________________________\r\n2\r\n\r\n\fINDICE:\r\n\r\nINTRODUCCIÓN ________________________________________________________ 7\r\nI.\r\n\r\nDIAGNÓSTICO ______________________________________________________ 9\r\n\r\n1\r\n\r\nAntecedentes Generales Comuna de Las Condes ___________________________ 10\r\n1.1\r\n\r\n2\r\n\r\nOrganización Política de la Comuna_______________________________________ 10\r\n\r\nIndicadores Demográficos de la Comuna _________________________________ 12\r\n2.1\r\n\r\nTasa Crecimiento Población 1999-2009 ____________________________________ 12\r\n\r\n2.2\r\n\r\nProyección de Población 2010 – 2020______________________________________ 13\r\n\r\n2.3\r\n\r\nProyección de Población por Edades al año 2009 ____________________________ 14\r\n\r\n2.4\r\n\r\nPoblación Comunal por Género y Edad ____________________________________ 15\r\n\r\n2.5\r\n\r\nEvolución de los habitantes de Las Condes por Género _______________________ 16\r\n\r\n2.6\r\n\r\nPoblación en Edad Escolar al año 2009: ____________________________________ 17\r\n\r\n2.7\r\n\r\nProyección Población en Edad Escolar 2000 a 2020 __________________________ 18\r\n\r\n2.8\r\n\r\nAntecedentes Económicos de la Comuna ___________________________________ 19\r\n\r\n2.8.1\r\n2.8.2\r\n2.8.3\r\n\r\nNivel de Pobreza_____________________________________________________________ 19\r\nIngresos Habitantes de la Comuna __________"
+ },
+ {
+  "id": "d0365",
+  "comuna": "las_condes",
+  "nombre_documento": "pl_lamina_01_plano_regulador",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PL_lamina-01_PLANO-REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina 01 del plano regulador; documento grafico escaneado segun el nombre.",
+  "texto_primeras_paginas": ""
+ }
+]

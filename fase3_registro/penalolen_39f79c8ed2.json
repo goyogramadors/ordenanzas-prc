@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_39f79c8ed2",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_r5.pdf",
+  "nombre": "penalolen_Zona_r5.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:44:32",
+  "fin": "2026-07-15T08:45:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Zona R5 - Zona Habitacional Norte. Cuadro usos de suelo (equipamiento escala vecinal, pag 1) y Normas Especificas para vivienda (pag 2): superficie predial minima 800m2, frente 20m, agrupamiento aislado, COS 0.2, CC 0.5, altura maxima 9m, densidad bruta maxima 50 hab/ha, distanciamiento 3m, antejardin 5m."
+  }
+}

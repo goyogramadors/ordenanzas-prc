@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_e16899e9a3",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_ZHM-4.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ficha 'Zona Habitacional Mixta N4 (Z-HM-4)' Peñalolen, 2 pags escaneadas. Pag1: tabla usos de suelo permitidos por escala (mayor/mediano/menor). Pag2: tabla completa de normas Z-HM-4 (d=150 hab/ha): densidad bruta min/max, sistema agrupamiento, subdivision predial minima, frente minimo, %ocup suelo, %area libre, coef constructibilidad, altura maxima, distanciamiento, rasante, adosamiento, cierros, antejardin -- para vivienda unifamiliar, vivienda colectiva y equipamiento intercomunal/comunal/vecinal. Verificado visualmente paginas 1-2 de 2.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:59:49",
+  "fin": "2026-07-15T18:03:15",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_zhm4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZHM-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa ZHM-4: usos de suelo + tabla completa normas urbanisticas para 5 usos de suelo + restricciones. Verificado contra nota_fase3: coincide."
+  }
+}

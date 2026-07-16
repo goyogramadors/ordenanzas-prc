@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_2cad6c4c9a",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_92_apruebese_ordenanza__doc_34_92_19012018055849.pdf",
+  "nombre": "la_serena_92_apruebese_ordenanza__doc_34_92_19012018055849.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:20:05",
+  "fin": "2026-07-15T08:23:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 92, 19-ene-2018: ORDENANZA SOBRE OTORGAMIENTO DE PATENTES DE ALCOHOLES. Titulo I Generalidades, arts 1-3 sobre pago de patentes y multas. Cita Ley 19925 Expendio y Consumo de Bebidas Alcoholicas y DL 3063 Rentas Municipales. Sin relacion con normas urbanisticas/PRC. Verificado visualmente pagina 1 de 9."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_ebbd366f29",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_873_asignese_nuevas_normas_urbanisticas_a_los_terrenos_cuyas_declaraciones_de_ut__DECRETO_873.pdf",
+  "nombre": "san_joaquin_873_asignese_nuevas_normas_urbanisticas_a_los_terrenos_cuyas_declaraciones_de_ut__DECRETO_873.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:53:28",
+  "fin": "2026-07-15T12:55:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 873 (28-may-2012, Diario Oficial N40.289, Cuerpo I pp.5-6): 'Asigna nuevas normas urbanísticas a terrenos cuyas declaratorias de utilidad pública caducaron'. La Tabla A (p.6, Cuerpo I-6) asigna a cada tramo de vía de San Joaquín (Rivas, Castelar Sur, Pasaje Río Valdivia, Magdalena, Av.Central, etc.) solo una 'Zona Propuesta' (código) más ancho vial — es tabla de vialidad/reclasificación de uso, sin cuadro de COS/CC/altura/agrupamiento propio (esos valores viven en la Ordenanza para la zona asignada, no en este decreto). Excluida por convención de tablas de vialidad. Tablas B y C de la misma página son de otras entidades (Plan Regulador Metropolitano de Santiago, Parque Isabel Riquelme) — comuna/ámbito ajeno."
+  }
+}

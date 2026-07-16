@@ -1,0 +1,20 @@
+{
+  "id": "antuco_750d5f92e0",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_aprueba_ordenanza_municipal_sobre_alimentacion_saludable_y_promocion_de___Decreto_9914_2018.pdf",
+  "nombre": "antuco_decreto_aprueba_ordenanza_municipal_sobre_alimentacion_saludable_y_promocion_de___Decreto_9914_2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:59:39",
+  "fin": "2026-07-14T13:00:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Ordenanza municipal sobre alimentacion saludable y promocion de actividad fisica (Decreto 9914/2018). Texto completo 5/5 pags: 0 hits urbanisticos."
+  }
+}

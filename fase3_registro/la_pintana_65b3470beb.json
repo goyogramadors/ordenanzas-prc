@@ -1,0 +1,20 @@
+{
+  "id": "la_pintana_65b3470beb",
+  "comuna": "la_pintana",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_pintana_decreto_2294_aprueba_bases_y_llama_a_propuesta_publica_actualizacion_plan_regula__2294.pdf",
+  "nombre": "la_pintana_decreto_2294_aprueba_bases_y_llama_a_propuesta_publica_actualizacion_plan_regula__2294.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:48:56",
+  "fin": "2026-07-14T15:51:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: Decreto 2294 aprueba BASES y llama a propuesta publica de licitacion para el estudio 'Actualizacion PRC La Pintana'; designa comision evaluadora. p3 (63 chars) renderizada: casi en blanco, solo el link de validacion de firma electronica. Sin normas."
+  }
+}

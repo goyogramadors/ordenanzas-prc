@@ -1,0 +1,25 @@
+{
+  "id": "el_bosque_b9671e13b5",
+  "comuna": "el_bosque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_bosque_126_enmienda_plan_regulador_comuna_de_el_bosque__Plan_2026_6631.pdf",
+  "nombre": "el_bosque_126_enmienda_plan_regulador_comuna_de_el_bosque__Plan_2026_6631.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:37:36",
+  "fin": "2026-07-14T15:48:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        6
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Texto REFUNDIDO (DO 44.360) de la MISMA enmienda que el_bosque_3e5f3087fc, repaginado. Normas en texto: p2 ZONA C, p3 ZONA H, p4 ZONA R + inicio ZONA 1-2-3, p5 ZONA 1-2-3 completa + inicio ZONA 4, p6 ZONA 4 + Zona Seccional Lo Moreno Z-A/Z-B (aqui termina el art.2). p7-11 VIALIDAD (excluidas). p12 proteccion aeronautica. DUPLICADO NORMATIVO: basta transcribir uno de los dos documentos."
+  }
+}

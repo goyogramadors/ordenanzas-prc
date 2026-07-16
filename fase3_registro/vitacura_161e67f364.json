@@ -1,0 +1,25 @@
+{
+  "id": "vitacura_161e67f364",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\vitacura_ordenanza_texto_refundido_de_la_ordenanza_del_plano_regulador_de_la_comuna_de_vi__59_99_1999.pdf",
+  "nombre": "vitacura_ordenanza_texto_refundido_de_la_ordenanza_del_plano_regulador_de_la_comuna_de_vi__59_99_1999.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 88,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:37:56",
+  "fin": "2026-07-14T21:41:12",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        30,
+        76
+      ]
+    ],
+    "paginas_utiles": 47,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "VITACURA: Texto Refundido de la Ordenanza del PRC (1999, actualizado a 2016, 88p). Cap IV Zonificacion y Normas Especificas, nucleo en p30-76: seccion 3 Condiciones de Edificacion por Areas (Art 41, Cuadros 9 a 47, p30-56), una tabla por cada Area de Edificacion (E-Ab1, etc, incluye variantes de Densificacion) con subdivision predial minima, coef constructibilidad, coef ocupacion suelo, rasante, altura maxima, antejardin, distanciamiento, adosamiento, densidad neta maxima; seccion 4 Usos del Suelo Permitidos por Zonas (Art 43, Cuadros 48 a 63, p57-76), una tabla por cada una de las 10 Zonas de Uso de Suelo (tipo de uso, clase, actividades permitidas y prohibidas, restricciones RUS). TEXTO NATIVO LIMPIO, pdftotext extrae las 47 tablas de forma clara y tabular, sin trampa. El documento tiene indice explicito 'LISTADO DE CUADROS' (72 en total) en p1-4, muy util para la fase siguiente. Excluidos: Cuadros 4-5 (p21-22, estacionamientos), Cuadros 64-72 (p77-85, vialidad y nomenclatura de vias), Cap VI Publicidad (p86-88)."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "san_bernardo_7c8f8911e4",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_6387_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "nombre": "san_bernardo_6387_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:27:10",
+  "fin": "2026-07-14T21:28:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SAN BERNARDO: Decreto 6387 exento (BCN LeyChile, 2017), Enmienda N1 al PRC y Localidad de Lo Herrera, Zona ZU 1.1 Plaza de Armas. Norma en p2-3, TEXTO PLANO completo: modifica en el Art 55 (Titulo IV Cap 2, Condiciones de Subdivision y Edificacion) el Coeficiente de Constructibilidad a 3,5; Rasantes y distanciamiento (angulo 60 grados, aplicado desde 12 m de altura de adosamiento; retranqueo 2,5 m sobre el cuarto piso; distanciamiento minimo 6 m al deslinde posterior y 4 m a los laterales); y Densidad Bruta Maxima 1.600 hab por ha. Documento completo en 3 paginas."
+  }
+}

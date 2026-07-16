@@ -1,0 +1,28 @@
+{
+  "id": "vitacura_774f1c25ff",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_3646_promulga_modificacion_n_32_al_plan_regulador_comunal_de_vitacura_areas_verd__PUBLICACIÓN DIARIO OFICIAL 03.04.2018.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "VITACURA: Diario Oficial 3-abr-2018, Modificacion N32 al PRC, Areas Verdes Costanera Sur Oriente. Norma en texto plano completo: reasigna el poligono ABCDEFGHIA a la condicion de edificacion Especial N2 Parques Metropolitanos (E-e2, Lamina 1) y a la zona de uso de suelo Equipamiento Especial N2 Parques Metropolitanos (U-Ee2, Lamina 2). Es asignacion de zona-uso a un poligono especifico (remite a los parametros ya existentes de E-e2 y U-Ee2 en la ordenanza base), mismo mecanismo que casos ya registrados de Puerto Montt-Concepcion-Conchali. Documento completo en 2 paginas relevantes (de 3).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:17:07",
+  "fin": "2026-07-15T23:04:37",
+  "resultado": {
+    "archivo": "extraccion_normas\\vitacura\\vitacura_3646_modificacion32_areas_verdes_costanera_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E-e2/U-Ee2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: asignacion de zona-uso (E-e2 edificacion + U-Ee2 uso suelo, Parques Metropolitanos) a poligono especifico, sin valores numericos propios en este acto. Mismo mecanismo que Puerto Montt/Concepcion/Conchali ya registrados."
+  }
+}

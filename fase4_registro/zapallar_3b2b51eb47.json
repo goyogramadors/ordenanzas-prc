@@ -1,0 +1,28 @@
+{
+  "id": "zapallar_3b2b51eb47",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_118_aprueba_aplicacion_del_articulo_n23_del_plan_regulador_comunal__118.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Certificado Acuerdo 118/2023 (05-abr-2023, 1p): aprueba la Aplicación del Artículo 23 del PRC de Zapallar (modificación de rasante) para predios Rol 2-3, 2-4, 2-28, 2-33 en Ruta E-30-F N2000. Valores reales asignados: Edificación 2 y 6 rasante +10° (Rol 2-33 y 2-29); Edificación 4 y 5 rasante 0° (Rol 2-4); Edificación 3 y 1 rasante +10° en existencia (Rol 2-3 y 2-28). Es una aplicación puntual de norma de rasante a predios específicos, análoga al precedente freirina_549e2ad04b — no es cuadro completo de zona.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:38:50",
+  "fin": "2026-07-15T14:40:36",
+  "resultado": {
+    "archivo": "extraccion_normas\\zapallar\\zapallar_acuerdo118_rasante_ruta_e30f_pag1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "NORMA-PUNTUAL-RASANTE-RUTA-E30F"
+    ],
+    "confianza": "ALTA",
+    "nota": "Aplicacion puntual de rasante a 4 predios especificos (Rol 2-3,2-4,2-28,2-33), 3 valores distintos (+10 casas, 0 viviendas, +10 existencia), confirma nota_fase3 exacta."
+  }
+}

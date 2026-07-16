@@ -1,0 +1,25 @@
+{
+  "id": "puerto_montt_598c7b39dd",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_orden_general_ordenanza_local_prc_pmo_el_texto_de_la_ordenanza_local_de_la_plan___Ordenanza-Local-incorpora-enmienda.pdf_1767705534568.pdf",
+  "nombre": "puerto_montt_orden_general_ordenanza_local_prc_pmo_el_texto_de_la_ordenanza_local_de_la_plan___Ordenanza-Local-incorpora-enmienda.pdf_1767705534568.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 114,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:15:28",
+  "fin": "2026-07-14T21:18:53",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        38,
+        114
+      ]
+    ],
+    "paginas_utiles": 77,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Version REFUNDIDA/mas reciente que la ordenanza 2008 (title metadata 'ORDENANZA LOCAL REFUNDIDA ENMIENDA', portada 'ENMIENDA PUBLICADA D.O. 25.10.2016', notas 'PRC 2016' en tablas). Titulo VI 'ZONIFICACION Y NORMAS ESPECIFICAS' pag40-42 (Cap.1 indice 60 zonas ZC/CB/R/AP/RI/etc.), Cap.2 Normas Especificas Art.36 desde pag42: tabla completa por zona (usos permitidos/prohibidos, superficie predial minima, agrupamiento, antejardin, COS, coef.constructibilidad, altura max, distanciamientos, densidad bruta) hasta zona 60 IE en pag113. Pag114 solo firma. Contenido tabular denso real: pag40-113."
+  }
+}

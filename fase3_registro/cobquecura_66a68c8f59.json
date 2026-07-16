@@ -1,0 +1,20 @@
+{
+  "id": "cobquecura_66a68c8f59",
+  "comuna": "cobquecura",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cobquecura_sin_numero_plan_regulador_comunal__cfc2e81f-91fc-4b6a-9ac5-6ddff0f28775.pdf",
+  "nombre": "cobquecura_sin_numero_plan_regulador_comunal__cfc2e81f-91fc-4b6a-9ac5-6ddff0f28775.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:10:54",
+  "fin": "2026-07-15T08:12:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "es el PLANO PRC-01 (mapa de zonificación gráfico con cuadro de simbología de tipos de área), no la ordenanza/texto normativo; no contiene tabla de valores COS/CC/altura"
+  }
+}

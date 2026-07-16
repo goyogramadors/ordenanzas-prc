@@ -1,0 +1,1370 @@
+{
+ "d0211": {
+  "id": "d0211",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es la lamina cartografica N°02 de 08 del Plan Regulador Comunal de Puente Alto: solo muestra el mapa de zonificacion con una tabla de SIMBOLOGIA que da nombre de zona, uso general y densidad (Hab/Ha), sin cuadro normativo con coeficientes de constructibilidad, ocupacion de suelo, altura maxima ni sistema de agrupamiento. Es grafica pura, no el texto de la ordenanza.",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE PUENTE ALTO', LAMINA N 02DE 08, escala 1:5000, con zonificacion (ZONA H1-H6, R1-R6, E(i), E(c), HE(m), INF, AV, IM, II, MH) delimitando el limite comunal con Pirque cerca del rio Maipo. A la derecha tabla SIMBOLOGIA (nombre de zona + uso + densidad Hab/Ha) y SIMBOLOS CARTOGRAFICOS, plano de ubicacion y cajetin de la Ilustre Municipalidad de Puente Alto."
+ },
+ "d0212": {
+  "id": "d0212",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Misma serie que d0211: lamina N°03 de 08 del Plan Regulador Comunal de Puente Alto, solo mapa de zonificacion con la misma tabla SIMBOLOGIA generica (zona/uso/densidad), sin cuadro normativo detallado (COS, CC, altura, antejardin, rasantes).",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE PUENTE ALTO', LAMINA N 03DE 08, escala 1:5000, zona H2 junto al Canal San Francisco y limite con comuna de Pirque, con la misma tabla SIMBOLOGIA (ZONA H1-H6, R1-R6, E(i), E(c), HE(m), INF, AV, IM, II, MH) y cajetin municipal."
+ },
+ "d0213": {
+  "id": "d0213",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Misma serie: lamina N°04 de 08 del Plan Regulador Comunal de Puente Alto, mapa de zonificacion con tabla SIMBOLOGIA identica a las otras laminas, sin cuadro normativo con coeficientes urbanisticos.",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE PUENTE ALTO', LAMINA N 04DE 08, escala 1:5000, muestra zonas H1, R5, IM1, INF2 en el limite con las comunas de La Florida y La Pintana, con la misma tabla SIMBOLOGIA y cajetin municipal."
+ },
+ "d0214": {
+  "id": "d0214",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Misma serie: lamina N°05 de 08 (orientacion vertical/rotada) del Plan Regulador Comunal de Puente Alto, mapa de zonificacion urbana densa con tabla SIMBOLOGIA generica, sin cuadro normativo con coeficientes.",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE PUENTE ALTO', LAMINA N 05DE 08 (orientacion apaisada rotada), escala 1:5000, sector urbano denso con zonas H3, E(i)3, HE(m)2, H2, H5, tabla SIMBOLOGIA al pie y cajetin municipal."
+ },
+ "d0215": {
+  "id": "d0215",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Misma serie: lamina N°06 de 08 del Plan Regulador Comunal de Puente Alto, sector cordillerano/rural (Zona de Preservacion Ecologica, R1, H5) con tabla SIMBOLOGIA generica, sin cuadro normativo de coeficientes.",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE PUENTE ALTO', LAMINA N 06DE 08, escala 1:5000, sector precordillerano limitando con San Jose de Maipo y Pirque, zonas R1, H5, E(i)2, E(i)3, HET1, AV2, tabla SIMBOLOGIA y cajetin municipal."
+ },
+ "d0216": {
+  "id": "d0216",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Misma serie: lamina N°07 de 08 del Plan Regulador Comunal de Puente Alto, mapa de zonificacion limitando con La Florida, con tabla SIMBOLOGIA generica identica a las demas laminas, sin cuadro normativo de coeficientes.",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE PUENTE ALTO', LAMINA N 07DE 08, escala 1:5000, zonas H1, H2, R4, E(i)3, AV1, E(c)1 en el limite con La Florida, tabla SIMBOLOGIA a la derecha y cajetin de la Ilustre Municipalidad de Puente Alto."
+ },
+ "d0017": {
+  "id": "d0017",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "La pagina 7 (del cuerpo, ~35%) trae el encabezado 'ENMIENDA PRC ARAUCO - SECRETARIA COMUNAL DE PLANIFICACION' con planos de detalle de zonas (ER, EXO, EXP, EXS) y texto normativo explicito: usos permitidos y prohibidos para 'Equipamiento Deportivo D' y para la 'Zona de Extension Urbana: Oriente EXO, Poniente EXP, Sur EXS'. Es articulado normativo real de una enmienda al PRC de Arauco.",
+  "que_se_ve": "Pagina 1: un ACTA de sesion extraordinaria del Consejo Comunal de Organizaciones de la Sociedad Civil de Arauco (13-ago-2018), lista de asistentes, sin relacion aparente con normas urbanisticas (probablemente un documento distinto anexado al mismo PDF). Pagina 7: encabezado 'ENMIENDA PRC ARAUCO / SECRETARIA COMUNAL DE PLANIFICACION', 4 recortes de plano con zonas ER/EXO/EXP/EXS, y texto con listas de 'Usos permitidos' / 'Usos prohibidos' por zona, firmado y timbrado por la Municipalidad de Arauco."
+ },
+ "d0047": {
+  "id": "d0047",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "Es un decreto (N.9789, 06-sep-2016) que complementa el Decreto N.7458 de 2016 'que promulga Modificacion Plan Regulador Comuna de Chillan', fijando la fecha en que dicho instrumento de planificacion deja sin efecto al PRC anterior. No trae tablas de coeficientes, pero forma parte del acto legal que da vigencia a una modificacion del PRC (analogo al caso de decretos de una pagina que promulgan modificaciones: el cuerpo normativo esta en el decreto original/anexo que complementa).",
+  "que_se_ve": "Decreto N.9789 de la I. Municipalidad de Chillan (06-sep-2016), titulado 'COMPLEMENTA DECRETO N.7458 DE FECHA 07 DE JULIO DE 2016 QUE PROMULGA MODIFICACION PLAN REGULADOR COMUNA DE CHILLAN, REGION DEL BIO BIO'. Texto legal tipo VISTOS/CONSIDERANDO/DECRETO, sin tablas ni planos, agrega un parrafo sobre la fecha de vigencia y deja sin efecto la resolucion que aprobo el PRC anterior a partir de la publicacion en el Diario Oficial. Firmado por el Alcalde y Secretario Municipal."
+ },
+ "d0050": {
+  "id": "d0050",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una lamina grafica del Plan Regulador Comunal de Chillan Viejo con zonificacion por colores y una tabla de 'SIMBOLOGIA' que solo asocia colores a nombres de zona (ZH-1 a ZH-6, ZE-1 a ZE-3, Zona Mixta, Zona Industrial, Zona de Equipamiento, etc.), sin coeficientes de constructibilidad, ocupacion de suelo, altura ni otros parametros numericos. Es unicamente el plano, no el texto de la ordenanza.",
+  "que_se_ve": "Plano 'PLAN REGULADOR COMUNAL - CHILLAN VIEJO' con 5 recortes de mapa (Chillan Viejo, Nebuco-Los Colihues, Quillay, Rucapequen 2, Rucapequen), zonificacion coloreada, cuadro de simbologia con codigos de zona (ZH-1...ZH-6, ZI, ZE-1...ZE-3, AV, Zona Mixta), cuadro de inmuebles de conservacion historica, y bloque de aprobaciones/firmas de SEREMI MINVU y Concejo Municipal. No hay cuadro normativo con parametros numericos."
+ },
+ "d0054": {
+  "id": "d0054",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un plano tipo carta/blueprint escaneado del borde costero de Cobquecura (Colmuyao, Taucu, Cobquecura, Buchupureo, Pullay) con un 'CUADRO DE SIMBOLOGIA' generico y bloque de aprobaciones, sin texto articulado ni tabla de coeficientes urbanisticos visible.",
+  "que_se_ve": "Lamina apaisada titulada 'PLAN REGULADOR COMUNAL DE COBQUECURA', I. Municipalidad de Cobquecura, escala 1:10.000, fechado noviembre de 1999, muestra el borde costero con curvas de nivel y limites urbanos de varias localidades, cuadro de simbologia pequeno en la esquina inferior izquierda y cuadro de aprobaciones en la esquina superior derecha. Es solo el plano (mapa), sin ordenanza de texto."
+ },
+ "d0060": {
+  "id": "d0060",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Muestra un mapa de zonificacion titulado 'PROYECTO P.R.C. COLINA - Zonificacion Areas Urbanas Comunales' con leyenda de colores por tipo de zona (residencial mixta alta 1-7, equipamiento, area verde, etc.), pero no se aprecia una tabla con coeficientes numericos (CC, COS, altura, densidad). Es un proyecto (aun no necesariamente el instrumento aprobado) y solo la lamina grafica.",
+  "que_se_ve": "Plano vertical 'PROYECTO P.R.C. COLINA / Zonificacion Areas Urbanas Comunales', con zonificacion coloreada del area urbana de Colina y sectores (Santa Elena, Chicureo, Colina Esmeralda, etc.), leyenda de simbologia con codigos de zona (A1-A9, equipamiento, vialidad, area verde/no edificable) y recuadro de titulo 'PLAN REGULADOR COMUNAL DE COLINA / ZONIFICACION'. No se observa cuadro normativo con parametros."
+ },
+ "d0065": {
+  "id": "d0065",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina 1 es el Decreto Exento N.941 (19-oct-2006) de la Municipalidad de Collipulli que RATIFICA el Acuerdo del Concejo Municipal 'que aprueba en forma definitiva el Plan Regulador Comunal de Collipulli'. Pagina 2 es el Certificado de Acuerdo Concejo Municipal N.96-26 que certifica la aprobacion definitiva por unanimidad del 'PLAN REGULADOR COMUNAL DE COLLIPULLI' para presentarlo a la SEREMI MINVU. Es el acto formal de aprobacion de un PRC completo; el cuerpo normativo (ordenanza y planos) va anexo/publicado junto con este decreto en el Diario Oficial, tal como indica el nombre del archivo.",
+  "que_se_ve": "Pagina 1: Decreto Exento N.941 de la Municipalidad de Collipulli (19-oct-2006), texto VISTOS/CONSIDERANDO/DECRETO que ratifica el acuerdo de Concejo que aprueba en forma definitiva el Plan Regulador Comunal de Collipulli, firmado por el Alcalde (S) y el Secretario Municipal, con timbres. Pagina 2: Certificado de Acuerdo Concejo Municipal N.96-26, firmado por el Secretario Municipal como Ministro de Fe, que certifica que en sesion ordinaria N.26 del 14-sep-2006 el Concejo aprobo por unanimidad el 'PLAN REGULADOR COMUNAL DE COLLIPULLI', para presentar a la SEREMI de Vivienda y Urbanismo de la Araucania."
+ },
+ "d0093": {
+  "id": "d0093",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un decreto que deniega una solicitud de acceso a información (Ley de Transparencia) sobre la Memoria de Actualización del PRC; el propio texto indica que esa actualización 'aun no se encuentra aprobada ni promulgada'. No aprueba ni contiene normas urbanísticas.",
+  "que_se_ve": "Pagina 1: Decreto Alcaldicio N.458 de la I. Municipalidad de Diego de Almagro (17/02/2022), titulo 'DENIEGA LA SOLICITUD DE ACCESO A LA INFORMACION FOLIO MU080T0000663 PRESENTADA POR DON NELSON DIAZ DIAZ', vistos y considerandos citando Ley de Transparencia N.20.285. Pagina 2: continua el considerando (indica que la actualizacion del PRC de Diego de Almagro 2017 'aun no se encuentra aprobada ni promulgada, por cuanto no es posible la entrega'), parte resolutiva DENIEGA la entrega, firmas de Secretario Municipal y Alcalde. Sin tablas ni articulado normativo."
+ },
+ "d0112": {
+  "id": "d0112",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "El decreto promulga el Acuerdo N.56 del Concejo y aprueba el 'Resumen ejecutivo y planos de propuesta de IMAGEN OBJETIVO' del PRC conforme al articulo 28 octies de la LGUC, que es una etapa participativa preliminar en la elaboracion de un nuevo PRC, no la aprobacion final de normas urbanisticas (no fija coeficientes, alturas ni zonas normativas).",
+  "que_se_ve": "Decreto Exento Secc. 2da N.603 de la Municipalidad de Estacion Central (03/06/2022), tres articulos: 1. PROMULGASE el Acuerdo N.56 del Concejo Municipal 'Aprobar Plano Regulador'; 2. APRUEBASE Resumen ejecutivo y planos de propuesta de imagen objetivo del Plan Regulador comunal (articulo 28 octies LGUC); 3. Anotese y comuniquese. Firmado por Administrador Municipal y Secretario Municipal (S). Solo texto de decreto, sin tablas ni cuadro normativo."
+ },
+ "d0118": {
+  "id": "d0118",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es la lamina grafica de zonificacion del PRC de Graneros (localidad Graneros), con simbologia de zonas (ZH, ZM, ZI, ZC, ZERD, etc.) y cuadro de aprobacion municipal/SEREMI, pero sin tabla de coeficientes normativos (constructibilidad, ocupacion de suelo, altura, etc.) en la pagina.",
+  "que_se_ve": "Plano PRCGRA-06106 'PLAN REGULADOR COMUNAL DE GRANEROS - LOCALIDAD DE GRANEROS', escala 1:5.000, Ilustre Municipalidad de Graneros, Direccion de Obras. Mapa de zonificacion urbana a color con leyenda 'Simbologia Normativa Comunal' (zonas ZH1-ZH4 habitacionales, ZM1-ZM4 mixtas, ZI1-ZI2 industrial, ZCH1-ZCH2/ICH conservacion historica, ZERD equipamiento recreacional-deportivo, ZEE equipamiento educacional, ZEC equipamiento comunal, ZET, ZIS, area de riesgo Ri-1, areas verdes AV) y recuadro de aprobacion municipal/SEREMI con firmas y timbres. No muestra cuadro de coeficientes urbanisticos."
+ },
+ "d0119": {
+  "id": "d0119",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es la lamina grafica de zonificacion de la localidad La Compania (comuna Graneros), con simbologia de zonas pero sin tabla de coeficientes normativos en esta pagina.",
+  "que_se_ve": "Plano PRCLC-GRA-06106 'PLAN REGULADOR COMUNAL DE GRANEROS - LOCALIDAD DE LA COMPANIA', escala 1:5.000, Ilustre Municipalidad de Graneros. Mapa de zonificacion a color con leyenda 'Simbologia Normativa Comunal' (zonas ZH5-ZH8 habitacionales, AV areas verdes, ICH inmueble conservacion historica, ZCH3, ZM3 zona mixta centro, ZERD equipamiento recreacional-deportivo, area de riesgo Ri-1, faja proteccion linea alta tension PLAT) y recuadro de aprobacion municipal/SEREMI con firmas y timbres. No hay tabla de coeficientes urbanisticos visible."
+ },
+ "d0126": {
+  "id": "d0126",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una rectificacion puramente administrativa que corrige el numero del decreto citado en una publicacion anterior sobre la Modificacion N.2 al PRC de Huechuraba ('Donde dice Decreto: debe decir Decreto N.1.805...'); no aprueba, modifica ni transcribe normas urbanisticas por si misma, solo corrige una referencia de cita.",
+  "que_se_ve": "Pagina del Diario Oficial de la Republica de Chile (referencia DO 09/10/2009, publicacion original 29/09/2009), seccion Municipalidades / Municipalidad de Huechuraba, titulo 'RECTIFICACION': 'Rectifica aprobacion de Modificacion N.2 al Plan Regulador Comunal de Huechuraba publicado en el Diario Oficial el 29 de septiembre de 2009. Donde dice Decreto: Debe decir Decreto N.1.805 de fecha 25.09.2009.- Fernando Salame Saldias, Alcalde (S).' Un solo parrafo, sin tablas ni articulado."
+ },
+ "d0130": {
+  "id": "d0130",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El propio oficio declara explicitamente que la comuna de La Cruz NO cuenta con plan regulador vigente y que el estudio esta en elaboracion (consultora Prociudad, desarrollo previsto hasta fines de 2021); es un documento puramente informativo para transparencia activa, sin contenido normativo.",
+  "que_se_ve": "Oficio Ord. N.48/2020 (07/02/2020) de la I. Municipalidad de La Cruz, de Eugenio Carvajal Ramos (Director de Obras S) a la Alcaldesa Maite Larrondo Laborde, materia 'informa lo que indica'. Texto: informa para el portal de transparencia activa que 'la comuna de La Cruz no cuenta con plan regulador vigente y que se encuentra en proceso de elaboracion por parte de la consultora Prociudad', proyecto 'Estudio plan regulador comuna de La Cruz', desarrollo contemplado hasta fines del 2021. Carta de una pagina, sin tablas ni normas."
+ },
+ "d0247": {
+  "id": "d0247",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "El documento es la edicion completa (64 paginas) del Diario Oficial N40.063 del 16-sep-2011. La portada/sumario (p1) lista explicitamente bajo 'Municipalidad de Rengo': 'Decreto alcaldicio numero 810 (MD).- Aprueba Plano Seccional N2... P.14 / Certificado numero 733', que coincide exactamente con el nombre del archivo (810_md_plano_seccional_no2_al_plan_regulador_comunal_de_rengo). Es decir, dentro de esta edicion SI existe el decreto que aprueba un Plano Seccional al PRC de Rengo, aunque la pagina renderizada (p22 = Cuerpo II-6) corresponde a otra seccion de la misma edicion (extractos de telecomunicaciones ENTEL) y no muestra el decreto en si. Confianza MEDIA porque no se vio la pagina 14 real del decreto, solo la referencia en el sumario.",
+  "que_se_ve": "p1: Portada Diario Oficial N40.063, 16-sep-2011, edicion de 64 paginas, con Sumario que incluye 'Municipalidad de Rengo: Decreto alcaldicio N809 (MD) Aprueba Plano Seccional N1 P.14, Certificado N732, Decreto alcaldicio N810 (MD) Aprueba Plano Seccional N2 P.14, Certificado N733'. p22 (Cuerpo II-6): tablas tecnicas de estaciones base de telefonia movil de la Subsecretaria de Telecomunicaciones (ENTEL PCS), sin relacion aparente con el decreto de Rengo, es otra seccion de la misma edicion."
+ },
+ "d0261": {
+  "id": "d0261",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una simple Orden de Compra municipal (formulario administrativo de adquisiciones) sin ningun contenido normativo urbanistico.",
+  "que_se_ve": "Orden de Compra y/o Trabajo N24307 de la I. Municipalidad de Retiro, Depto. Educacion, fechada 31-ago-2016, a nombre de 'Eduardo Plana Zenteno' (Parral), por compra de banderas, escarapelas y cintas tricolor, total $62.610. Formulario con timbres y firmas de Director de Educacion, Finanzas y Alcalde."
+ },
+ "d0262": {
+  "id": "d0262",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Otra Orden de Compra municipal identica en formato a d0261, tambien sin contenido normativo urbanistico.",
+  "que_se_ve": "Orden de Compra y/o Trabajo N24304 de la I. Municipalidad de Retiro, Depto. Educacion, fechada 31-ago-2016, a nombre de 'Eduardo Plana Zenteno' (Parral), por compra de 14 banderas chilenas, total $111.860. Mismo formato administrativo con timbres de Director Educacion, Finanzas y Alcalde."
+ },
+ "d0280": {
+  "id": "d0280",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto municipal publicado en el Diario Oficial que aprueba formalmente un Plano Seccional del PRC y asigna a predios especificos la zona Z-13 con normas urbanisticas propias (residencial mixta con densificacion, equipamiento y actividades productivas), remitiendo al detalle en la Memoria Explicativa del Plano Seccional. Es un acto que aprueba/modifica normas urbanisticas.",
+  "que_se_ve": "Pagina del Diario Oficial (Cuerpo I-11), jueves 14-abr-2011. Bajo 'Municipalidades > Municipalidad de San Joaquin': Decreto N453 'Aprueba Plano Seccional Vicuna Mackenna N01-11' - fija el uso de suelo y normativa urbana de los predios roles 4801-001 y 4801-002, asimilandolos a la zona Z-13 'Residencial mixta con Densificacion, Equipamiento y Actividades Productivas' de la Ordenanza del Plan Regulador Comunal de San Joaquin. Firmado por el Alcalde y Secretario Municipal."
+ },
+ "d0286": {
+  "id": "d0286",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Aunque es una lamina de plano, trae adosado un cuadro normativo completo (usos de suelo permitidos por zona y condiciones de edificacion: superficie predial minima, frente predial minimo, antejardin, rasantes) para las zonas H-1, H-2, EC y ZR, con firmas de aprobacion de la Seremi MINVU. Esto excede el criterio de 'plano sin cuadro normativo', por lo que se trata del instrumento normativo mismo (plano + ordenanza) del PRC de Santa Maria.",
+  "que_se_ve": "Lamina 'Plano Regulador Comunal de Santa Maria' (I. Municipalidad de Santa Maria), escala 1:5.000, con zonificacion grafica (zonas H-1, H-2, EC, ZR) y, en la esquina inferior, un cuadro normativo con columnas 'Usos de Suelo' (permitidos por zona) y 'Condiciones de Edificacion' (superficie predial minima, frente predial minimo, antejardin, rasantes, con referencias a articulos de la ordenanza), ademas de recuadro de firmas/timbres de aprobacion de la Seremi MINVU y del Ministerio de Bienes Nacionales (fechas 1982-1983)."
+ },
+ "d0289": {
+  "id": "d0289",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto municipal que ratifica una modificacion acotada (rectificacion de limites de un area verde proyectada) del Plan Regulador Comunal de Santiago, manteniendo la superficie afecta a utilidad publica. Es un cambio puntual al PRC, calza con la definicion de enmienda.",
+  "que_se_ve": "Decreto N1540 de la I. Municipalidad de Santiago, Secretaria Municipal, Santiago 22-sep-2009: 'RATIFICASE la aprobacion del Plano Seccional, que rectifica los Limites del Area Verde Proyectada por el Plan Regulador Comunal de Santiago', ubicada en la esquina sur oriente de calle Fanor Velasco entre Manuel Rodriguez Norte y Moneda, manteniendo igual superficie afecta a utilidad publica (170,37 m2). Firmado por el Secretario Municipal y la Alcaldesa (S)."
+ },
+ "d0132": {
+  "id": "d0132",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El decreto asigna/fija nuevas normas urbanísticas a predios específicos (cuya declaratoria de utilidad pública caducó) conforme al PRC vigente de La Florida, en virtud del art. 59 de la LGUC, remitiendo a una 'tabla de asignación de normas urbanísticas' (no visible en las páginas capturadas, pero el texto del acto es explícitamente normativo, y una nota indica que fue posteriormente modificada por Decreto 2792 Exento de 2012).",
+  "que_se_ve": "Página 1 (BCN/LeyChile): 'Decreto 374 EXENTO - ASIGNA NUEVAS NORMAS URBANÍSTICAS - MUNICIPALIDAD DE LA FLORIDA', 26-ene-2011. Cita el PRC de La Florida (Res. N°47/2000) y el art. 59 LGUC; ordena asignar nuevas normas urbanísticas a predios afectados 'según tabla que a continuación se detalla'. Página 3: cierre del decreto (firma Alcalde Jorge Gajardo y Secretaria Municipal), nota sobre rectificación de la tabla por Decreto 2792 Exento de 30-ago-2012."
+ },
+ "d0134": {
+  "id": "d0134",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "MEDIA",
+  "motivo": "Es fundamentalmente un plano gráfico, pero su leyenda de zonificación incluye superficie predial mínima por zona (250 a 10.000 m²), que es uno de los parámetros normativos urbanísticos explícitamente buscados, por lo que no encaja limpiamente en PLANO_LAMINA (definido como 'sin cuadro normativo'). Es un documento de 1951, posiblemente histórico y superado por PRC posteriores, y no se ve ordenanza articulada asociada (solo hay 1 página en el índice). Ante la duda se escala.",
+  "que_se_ve": "Plano a color 'COMUNA DE LA GRANJA - PLANO OFICIAL DE URBANIZACIÓN - ÍNDICE GENERAL' escala 1:5.000, fechado 1951 (firma 'Concejo Municipal... 1951'). Muestra trazado de calles y manzanas, con leyenda 'ZONIFICACIÓN' listando 10 zonas (Centros Vecinales, Especial, Residencial, Huertos Familiares, Quintas Residenciales, Parcelas, Agrícolas, Industrial Mixta, Área Verde) cada una con una superficie predial en m², y leyenda de 'Trazados' (existentes/aperturas nuevas/ensanches). No se ve texto de ordenanza ni articulado."
+ },
+ "d0139": {
+  "id": "d0139",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es una ordenanza local articulada (Títulos, Artículos), complementaria del PRC vigente (D.S. N°92/1981), que regula usos de suelo no preferenciales/permitidos por sector de la comuna -uno de los parámetros normativos urbanísticos explícitamente buscados (usos de suelo permitidos/prohibidos)-, con criterios detallados de impacto urbano.",
+  "que_se_ve": "Página 1: 'MUNICIPALIDAD DE LA REINA - DECRETO N° 89', 3-feb-1987. Título 'ORDENANZA sobre Implantación de Usos No Preferenciales en diversos sectores de la Comuna', dictada como complementaria del Plan Regulador Comunal (D.S. N°92/1981). Articulado visible: Título I, Art. 1 (objeto), Art. 2 (condiciones de autorización), Art. 3 (protección de interferencias). Página 2: Art. 4-6, criterios de impacto urbano (ecológicos, morfológicos, físico-funcionales, sociales) y comienzo del Título II sobre autorización de actividades no preferentes."
+ },
+ "d0143": {
+  "id": "d0143",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Regula requisitos administrativos/personales para obtener permiso de ocupación de bien nacional de uso público para kioscos de venta de diarios y revistas (persona natural, mayoría de edad, residencia comunal, sin antecedentes penales, documentos a presentar); no contiene coeficientes de constructibilidad, alturas, densidades, usos de suelo de zonas ni ningún parámetro urbanístico del PRC.",
+  "que_se_ve": "Decreto N° 111, La Serena, 30-ene-2017. 'MODIFÍQUESE la Ordenanza Local de Kioscos de Ventas de Diarios y Revistas' (texto refundido Decreto 1388/2005). Modifica el artículo 4° (elimina causal de 'situación socioeconómica precaria') y el artículo 6° (ajusta trámite de informe social) de dicha ordenanza. Firmado por Secretario Municipal y Alcalde de La Serena."
+ },
+ "d0195": {
+  "id": "d0195",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "ESCALAR",
+  "confianza": "MEDIA",
+  "motivo": "Es una ordenanza ambiental de protección de un humedal urbano, dictada en base a la Ley N°19.300 y Ley N°21.202 (no es una modificación del PRC). Sin embargo, este tipo de ordenanzas suele definir una zona de protección con usos de suelo/construcción restringidos o prohibidos dentro de sus límites -lo cual sí calzaría en la lista de normas urbanísticas buscadas (usos de suelo permitidos/prohibidos, zonas)-, pero esto no se puede confirmar con las 2 páginas vistas de un total de 6 (faltan los artículos posteriores al Art. 4, que podrían contener esas restricciones). Se escala por la duda razonable, siguiendo la regla de oro.",
+  "que_se_ve": "Página 1: 'LA SERENA, 27 JUL. 2023'. Vistos y considerandos citando Ley N°21.202 (protección de humedales urbanos), Res. N°833/2022 del Ministerio de Medio Ambiente que reconoce de oficio el Humedal Urbano Río Elqui (Altovalsol-Desembocadura), y Ley N°19.300. Página 2: 'ORDENANZA N° 6 - ORDENANZA DE PROTECCIÓN DE HUMEDAL URBANO DESEMBOCADURA RÍO ELQUI, ALTOVALSOL-DESEMBOCADURA'. Título I Disposiciones Generales (Art. 1 objeto, Art. 2 marco legal, Art. 3 principios) y comienzo del Título II Definiciones (Art. 4: ave playera migratoria, biodiversidad, comunidad local...). No se alcanza a ver el resto del articulado (documento de 6 páginas)."
+ },
+ "d0206": {
+  "id": "d0206",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Documento completo del Plan Regulador Comunal aprobado, que incluye tanto el plano de zonificación oficial (con timbres de aprobación de SEREMI MINVU, Secretario Municipal, Alcalde y Director SECPLA) como la Ordenanza Local con cuadros normativos de usos de suelo permitidos por cada zona -exactamente los parámetros normativos urbanísticos buscados (zonas, usos de suelo permitidos)-.",
+  "que_se_ve": "Documento de 32 páginas. Página 1: Plano 'PLAN REGULADOR COMUNAL DE PIRQUE - LOCALIDAD DE CONCHA Y TORO', lámina PRCP-1, escala 1:5.000, fecha noviembre 2015, con zonificación coloreada (ZM-1 Centro Cívico, ZM-2 Zona Mixta Residencial/Equipamiento, ZH-1/ZH-2 Zona Residencial, ZE-1 Equipamiento Metropolitano, ZE-2 Equipamiento Recreacional Deportivo, ZP-1/ZP-E Actividades Productivas) y timbres de aprobación oficial (SEREMI MINVU Ord. N°596, Secretario Municipal, Alcalde, Director SECPLA, Decreto Alcaldicio 1297/2015). Página 11: 'PLAN REGULADOR COMUNAL DE PIRQUE - Ordenanza Local', cuadro 'ZONA ZM-1: CENTRO CÍVICO - USOS DE SUELO PERMITIDOS' con tabla detallada de destinos y actividades permitidas (Residencial, Equipamiento: Científico, Comercio, Culto y Cultura, Deporte, Educación, Salud, Seguridad, Servicios, Social; Espacio Público; Área Verde)."
+ },
+ "d0217": {
+  "id": "d0217",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Es literalmente un plano cartografico (lamina 08 de 08) del Plan Regulador Comunal de Puente Alto, con recuadro de simbologia/leyenda de zonas (H1-H6, R1-R6, AV, INF, IM, E(i), E(c), HET, HE(m), MH) que indica densidad (Hab/Ha) por zona pero remite las normas cuantitativas (coef. constructibilidad, altura, etc.) a articulos del Plan Regulador Metropolitano de Santiago (P.R.M.S.), un instrumento externo. No contiene cuadro normativo propio con coeficientes/alturas. Es cartografia de apoyo, probablemente parte de un paquete cuya Ordenanza Local (texto articulado) es un documento distinto no incluido aqui.",
+  "que_se_ve": "Plano titulado 'PLAN REGULADOR / COMUNAL DE PUENTE ALTO', Lamina N. 08 DE 08, escala 1:5000, mostrando limites comunales con La Florida y San Jose de Maipo, curvas de nivel, zona 'Zona de Preservacion Ecologica', zonas H5/R2/R1 en el sector poblado, recuadro SIMBOLOGIA con 20+ codigos de zona (color, nombre, uso, densidad Hab/Ha, articulo P.R.M.S. de referencia), recuadro de simbolos cartograficos, plano de ubicacion pequeno, y cajetin de promulgacion/aprobacion municipal (Ilustre Municipalidad de Puente Alto)."
+ },
+ "d0221": {
+  "id": "d0221",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Documento de una sola pagina que es puramente el plano/mapa coloreado del Plan Regulador Comunal de Quellon, con leyenda de zonas de uso de suelo, areas de edificacion, areas especiales y areas de proteccion, pero sin tabla de coeficientes de constructibilidad, ocupacion de suelo, alturas maximas ni otros parametros numericos por zona. Es la lamina cartografica, no la ordenanza de texto.",
+  "que_se_ve": "Plano titulado 'PLAN REGULADOR COMUNAL DE QUELLON', codigo 'QUB-01/03', mostrando la bahia de Quellon y zonificacion urbana con colores (residencial, mixto, expansion, proteccion), cajetin de aprobacion (Ilustre Municipalidad de Quellon, SEREMI MINVU Los Lagos), leyenda de simbologia basica y de zonas (codificacion tipo '1Ez-1', etc.) sin valores numericos de coeficientes ni alturas."
+ },
+ "d0232": {
+  "id": "d0232",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El Decreto Alcaldicio N3880 de Quintero (18-jul-2024) aprueba una 'Modificacion de Convenio Mandato Completo' con el Gobierno Regional de Valparaiso para financiar el estudio 'ACTUALIZACION PLAN REGULADOR COMUNAL DE QUINTERO' (aumento de presupuesto y plazo de ejecucion). Es un tramite administrativo-presupuestario sobre el proceso de actualizacion del PRC, no contiene ni aprueba normas urbanisticas.",
+  "que_se_ve": "Pagina 1: encabezado 'DECRETO ALCALDICIO N3880, QUINTERO, 18 JUL. 2024' con vistos numerados 1 a 13 sobre convenios de transferencia, resoluciones del Gobierno Regional y una tabla de montos (Gastos Administrativos, Consultorias, Total). Pagina 2 (final del decreto): mas vistos, considerandos, y el DECRETO propiamente tal: 'APRUEBASE... la Modificacion de Convenio Mandato... para la ejecucion del proyecto ACTUALIZACION PLAN REGULADOR COMUNAL DE QUINTERO', firmado por Secretaria Municipal y Alcalde. No hay tablas de zonificacion ni parametros urbanisticos."
+ },
+ "d0244": {
+  "id": "d0244",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Publicacion en el Diario Oficial (18-feb-2012) cuyo sumario indica explicitamente: 'Municipalidad de Rengo - Decreto alcaldicio numero 123.- Aprueba plan regulador de la comuna de Rengo ... P.4', coincidiendo con el nombre del archivo '123_md_plano_seccional_no3_al_plan_regulador_comunal_de_rengo'. Es un decreto que aprueba un Plano Seccional N3 (modificacion) al PRC de Rengo. Las imagenes capturadas (p1 y p2) no llegaron a la pagina 4 donde esta el texto del decreto, pero el sumario es prueba suficiente segun la regla de decretos que aprueban modificaciones.",
+  "que_se_ve": "Pagina 1: portada del Diario Oficial N40.191 (Santiago, sabado 18 de febrero de 2012), con sumario de 'Municipalidades / Municipalidad de Rengo: Decreto alcaldicio numero 123.- Aprueba plan regulador de la comuna de Rengo ... P.4'. Pagina 2: contenido de Ministerio del Interior/Educacion/Hacienda no relacionado con Rengo (la pagina 4 real del decreto no fue capturada en la muestra)."
+ },
+ "d0245": {
+  "id": "d0245",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Publicacion en el Diario Oficial (4-ago-2012) cuyo sumario indica: 'Municipalidad de Rengo - Decreto alcaldicio numero 769 (MD).- Aprueba Plano Seccional N4 sobre el Plano Regulador Comunal ... P.17', coincidiendo con el nombre del archivo '769_md_plano_seccional_no4_al_plan_regulador_comunal_de_rengo'. Documento hermano de d0246 (mismo emisor, mismo patron, mismo tipo de decreto de Rengo confirmado con texto completo), lo que da alta confianza pese a que la pagina de muestra 9 no corresponde a la pagina 17 real del decreto.",
+  "que_se_ve": "Pagina 1: portada del Diario Oficial N40.329 (Santiago, sabado 4 de agosto de 2012), sumario con 'Municipalidad de Rengo: Decreto alcaldicio numero 769 (MD).- Aprueba Plano Seccional N4 sobre el Plano Regulador Comunal ... P.17'. Pagina 9 (muestra): tabla de evaluacion de desempeno laboral no relacionada con Rengo (pagina de otro contenido del mismo Diario Oficial, no la pagina 17 del decreto)."
+ },
+ "d0246": {
+  "id": "d0246",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Texto completo visible del decreto: 'MUNICIPALIDAD DE RENGO - APRUEBA PLANO SECCIONAL N5 SOBRE EL PLANO REGULADOR COMUNAL DE RENGO', Decreto Alcaldicio N801/(MD) del 26-jul-2012, que fija perfiles transversales de calles (Presidente Federico Errazuriz Echaurren, Presidente Pedro Montt, Presidente Jose Manuel Balmaceda, Arturo Alessandri Palma) modificando el Plan Regulador Comunal de Rengo, firmado por el Alcalde. Es un decreto que aprueba una modificacion (plano seccional) al PRC con contenido normativo (perfiles viales).",
+  "que_se_ve": "Pagina 1: portada Diario Oficial N40.336 (Santiago, lunes 13 de agosto de 2012), sumario 'Municipalidad de Rengo: Decreto alcaldicio numero 801/(MD).- Aprueba Plano Seccional N5 sobre el Plano Regulador Comunal de Rengo ... P.4'. Pagina 4: texto integro del decreto 'APRUEBA PLANO SECCIONAL N5 SOBRE EL PLANO REGULADOR COMUNAL DE RENGO', con vistos, considerandos y decreto que fija perfiles transversales de 4 calles del Plan Regulador Comunal de Rengo, firmado por Alcalde y Secretaria Municipal."
+ },
+ "d0455": {
+  "id": "d0455",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una respuesta de la Municipalidad de Palmilla (Oficio N°220, Ley de Transparencia) a una solicitud ciudadana preguntando si la comuna tiene PRC. El memorándum adjunto (N°1068) solo informa que el PRC se elaboró en 2004 y está vigente/publicado en la web; no transcribe ni adjunta articulado ni tablas normativas. Es puro trámite de transparencia, no el cuerpo normativo.",
+  "que_se_ve": "P1: Oficio N°220 de la Alcaldesa de Palmilla dando respuesta a solicitud de información pública (Ley de Transparencia) sobre existencia de PRC. P2: Memorándum N°1068 de la Dirección de Obras Municipales de Palmilla indicando que el PRC se elaboró en 2004, está vigente y publicado en la web municipal, sin actualizaciones. No hay tablas ni articulado normativo."
+ },
+ "d0457": {
+  "id": "d0457",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Otro oficio de respuesta a solicitud de transparencia (Oficio N°170) de la misma Municipalidad de Palmilla, esta vez pidiendo 'planos, memoria y ordenanza' del PRC. La respuesta solo indica dónde bajar los archivos del portal de transparencia (Punto N°10); no contiene ni adjunta el texto de la ordenanza.",
+  "que_se_ve": "Oficio N°170 de la Alcaldesa de Palmilla respondiendo solicitud de información sobre 'Plan regulador comunal, planos memoria y ordenanza', indicando que esos documentos están disponibles en el portal de Transparencia Activa municipal (punto N°10) y explicando cómo acceder. No incluye el contenido normativo, solo la referencia de dónde buscarlo."
+ },
+ "d0466": {
+  "id": "d0466",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "P1 es una carta de entrega (Dirección de Obras de La Cisterna, 1991) que remite exactamente 'Ordenanza Plan Regulador Comunal', 'Modificación Ordenanza Plan Regulador Comunal' y 'Copia Plano Regulador'. P14 confirma que el archivo contiene el articulado real: es una página del Diario Oficial (1983) con los Artículos 21° y 22° de la ordenanza y una tabla normativa de vialidad estructurante con anchos de vía por tramo (ej. Panamericana Sur 100 m), es decir normas urbanísticas efectivas, no solo un plano.",
+  "que_se_ve": "P1: carta 'ENTREGA DE ANTECEDENTES COMUNA PEDRO AGUIRRE CERDA' de la Ilustre Municipalidad de La Cisterna, Dirección de Obras Municipales (septiembre 1991), que lista como adjuntos: 1) Ordenanza Plan Regulador Comunal, 2) Modificación Ordenanza Plan Regulador Comunal, 3) Copia Plano Regulador. P14: página del Diario Oficial de Chile (martes 18 de octubre de 1983) con Artículo 21° y 22° del articulado de la ordenanza, incluyendo una tabla 'Nombre de la vía / Tramo estructurante / Ancho del Tramo (M)' que fija anchos de vías estructurantes (norma urbanística de vialidad)."
+ },
+ "d0479": {
+  "id": "d0479",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un decreto de la Municipalidad de Curacautín que modifica la Ordenanza Sobre Derechos Municipales por Permisos, Concesiones y Servicios Municipales (tarifas en UTM por uso de canchas, cementerios, ferias, etc.). No tiene relación con el Plan Regulador Comunal ni contiene norma urbanística alguna (coeficientes, alturas, usos de suelo, zonas).",
+  "que_se_ve": "P1: Decreto Ex. N°2.990 (30/10/2023) de la I. Municipalidad de Curacautín que modifica la 'Ordenanza Sobre Derechos Municipales por Permisos, Concesiones y Servicios Municipales', con tabla de tarifas en UTM por uso de canchas deportivas. P3: continuación del mismo decreto con tablas de tarifas por venta ambulante y derechos de cementerio (valor por m2, construcción de tumba). Es un tema de derechos/tarifas municipales, no de urbanismo."
+ },
+ "d0480": {
+  "id": "d0480",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto y acuerdo de concejo de Curacautín que modifican la ordenanza de derechos municipales por los módulos de la Feria de Abasto (tarifas en UTM por módulo). No aprueba ni contiene normas urbanísticas del PRC.",
+  "que_se_ve": "P1: Decreto Ex. N°2.991 (30/10/2023) de Curacautín, 'Modifica Ordenanza Para el Funcionamiento y Derechos Municipales por Contraprestación de Módulos Feria de Abasto', con tabla de tarifas mensuales en UTM por tipo de módulo (artesanía, frutería, carnicería, etc.). P3: Acuerdo N°254/2023 del Concejo Municipal aprobando la misma modificación, con la tabla de tarifas actualizada y firmas de concejales. Tema de derechos/tarifas municipales de feria, no de zonificación."
+ },
+ "d0481": {
+  "id": "d0481",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto de Curacautín que aprueba la ordenanza de funcionamiento y derechos municipales por los módulos del Centro de Exposición de Artesanía (concesión de puestos a artesanos). El articulado visto (Cap. II y III) trata de asignación de módulos, postulación y criterios de selección, sin ninguna norma urbanística de edificación o zonificación.",
+  "que_se_ve": "P1: Decreto Ex. N°519 (23/04/2021) de la Municipalidad de Curacautín, 'Aprueba Ordenanza para el Funcionamiento y Derechos Municipales por Contraprestación de Módulos Centro de Exposición de Artesanía'. P4: articulado de la ordenanza (Capítulo II 'De los Módulos' y Capítulo III 'De la Asignación de Módulos'), con artículos 9 a 17 sobre concesión, postulación y criterios de puntaje para artesanos. Tema administrativo/comercial, no urbanístico."
+ },
+ "d0292": {
+  "id": "d0292",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Certificado de Acuerdo N171/2017 de la Secretaria Municipal de Sierra Gorda que certifica que el Concejo Municipal APROBO la Modificacion plano regulador de la comuna en sesion del 28-nov-2017. Es el acto que aprueba la modificacion (aunque no se ven coeficientes, el cuerpo normativo suele venir en anexo, segun regla del prompt).",
+  "que_se_ve": "Pagina unica: CERTIFICADO DE ACUERDO NRO. 171/2017, membrete Municipalidad de Sierra Gorda / Concejo Municipal. Texto: 'BARBARA SILVA LERIS, SECRETARIA MUNICIPAL... CERTIFICA: Que en Sesion Extraordinaria N07... segun acuerdo N171, el Honorable Cuerpo de Concejales APROBO Modificacion plano regulador de la comuna de Sierra Gorda.' Firma y timbre. No hay tablas ni planos, es solo el acta de certificacion."
+ },
+ "d0298": {
+  "id": "d0298",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "BAJA",
+  "motivo": "Acuerdo N516 del Concejo de Talcahuano que aprueba un 'Plano de Detalle' del PRC para un tramo de calle especifico. No se ve el plano mismo ni se puede confirmar si trae cuadro normativo (coeficientes) o es solo alineacion vial. Ante la duda no se descarta.",
+  "que_se_ve": "Pagina unica con membrete Municipalidad y escudo de Talcahuano, fecha 18-dic-2019. Texto: 'N516/VISTOS...ACUERDO: Por unanimidad... se aprueba el Plano de Detalle del Plan Regulador Comunal de Talcahuano, correspondiente a la calle German Riesco entre Av. Colon y Desiderio Garcia.' Firma del Secretario Municipal. No hay tablas ni el plano adjunto visible, solo el acta."
+ },
+ "d0299": {
+  "id": "d0299",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un oficio de respuesta a una Solicitud de Acceso a la Informacion Publica (Ley de Transparencia) sobre si la comuna cuenta con PRC. Es puramente informativo, no aprueba ni contiene ninguna norma urbanistica.",
+  "que_se_ve": "Pagina 1: Oficio ORD 1065/2017 de Ilustre Municipalidad de Tocopilla, de Jaime Silva Hellinger (Alcalde S) a Cristian Quilodran Diaz, respondiendo solicitud MU322T0000420 sobre existencia y estado del PRC. Enumera respuestas: PRC vigente desde Resolucion 47 de 2001, en tramite modificacion de area industrial, 3 modificaciones seccionales historicas. Pagina 2: continua listando que el plan esta publicado en la web municipal, firma del Alcalde (S) y timbre. No hay tablas normativas ni decreto aprobatorio, es solo una carta informativa."
+ },
+ "d0312": {
+  "id": "d0312",
+  "categoria": "PRI_INTERCOMUNAL",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Plano oficial MINVU del Plan Intercomunal Villarrica-Pucon, con simbologia de zonas de uso de suelo (vivienda, hotelera, parque residencial, proteccion forestal, agricola, etc.), sellos de aprobacion Regional Ministerial e Intendencia, y nota indicando que se complementa con el anteproyecto de ordenanza local.",
+  "que_se_ve": "Plano tecnico apaisado con encabezado 'MINVU - DIVISION DE DESARROLLO URBANO - PLAN INTERCOMUNAL VILLARRICA-PUCON, incluye 3 unidades territoriales A-B-y-C, este plano se complementa con el anteproyecto de ordenanza local'. Muestra el Lago Villarrica con las localidades de Villarrica y Pucon, lineas de zonas coloreadas/tramadas, tabla de SIMBOLOGIA (zona de vivienda, zona hotelera, zona de parque residencial, zona de campismo, zona de areas verdes, zona de proteccion forestal, zona agricola), bloques de 'Aprobacion Regional Ministerial IX Region', 'Aprobacion Intendencia IX Region' y 'Aprobaciones Municipales' con firmas. Sello 'R-IX MINVU PLANO N1'."
+ },
+ "d0319": {
+  "id": "d0319",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El sumario de portada del Diario Oficial lista explicitamente el decreto de interes: 'Municipalidad de Vina del Mar - Decreto alcaldicio numero 12.029.- Complementa y rectifica Ordenanza sobre Roles de Propiedades Gravadas y Alturas Maximas Permitidas en los Miradores' (coincide con nombre_documento). Trata sobre alturas maximas de edificacion, norma urbanistica directa.",
+  "que_se_ve": "Pagina 1: portada del DIARIO OFICIAL DE LA REPUBLICA DE CHILE, Santiago Miercoles 5 de Octubre de 2011, Num 40.078, edicion de 28 paginas. En el SUMARIO, columna derecha bajo 'MUNICIPALIDADES / Municipalidad de Vina del Mar' aparece: 'Decreto alcaldicio numero 12.029.- Complementa y rectifica Ordenanza sobre Roles de Propiedades Gravadas y Alturas Maximas Permitidas en los Miradores.......P.11'. Debajo se transcribe otro decreto (Ministerio de Salud, no relacionado). Pagina 9 (imagen renderizada) muestra articulado de un Reglamento de Consejo Consultivo de Salud (Titulo III, articulos 18 a 28), tema no relacionado al PRC; el decreto de Vina del Mar de interes esta en la pagina 11, no capturada en las imagenes disponibles."
+ },
+ "d0342": {
+  "id": "d0342",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "BAJA",
+  "motivo": "Es el plano del Plan Seccional Localidad de Ignao (Lago Ranco), con zonas delimitadas (ZU-1, ZU-2, ZEx-1, ZEx-2, ZE-1, ZR-3, ZR-4, ZR-5) y bloques de aprobacion municipal/regional/intendencia, pero solo tiene leyenda de categorias de zona (simbologia normativa), sin cuadro numerico de coeficientes o alturas visible. El nombre de archivo sugiere que el decreto original aprobo 'plano Y ordenanza' pero este PDF de 1 pagina solo contiene el plano; no se puede confirmar si la ordenanza con los parametros numericos existe en otro documento del corpus.",
+  "que_se_ve": "Plano tecnico titulado 'PLAN REGULADOR COMUNAL DE LAGO RANCO - PLAN SECCIONAL LOCALIDAD DE IGNAO', codigo SEC-IGNAO-01-98. Muestra un poligono urbano dividido en zonas rotuladas ZU-1, ZU-2, ZEx-1, ZEx-2, ZE-1, ZR-3 y Area Rural circundante, con vertices numerados 1-13 y tramos de deslinde. Panel lateral derecho con bloques de 'Aprobacion Ilustre Municipalidad de Lago Ranco', 'Equipo de Estudio Plan Seccional', 'Informe Secretaria Regional Ministerial MINVU X Region', 'Aprobacion Intendente X Region de Los Lagos', 'Archivo Conservador de Bienes Raices' (todos con espacios en blanco sin completar fecha/numero de resolucion), y una 'SIMBOLOGIA NORMATIVA' que lista categorias (Areas Consolidadas ZU-1/ZU-2, Areas de Extension Urbana ZEx-1/ZEx-2, Areas Especiales ZE-1, Areas de Restriccion ZR-3/ZR-4/ZR-5) sin valores numericos de coeficientes ni alturas."
+ },
+ "d0410": {
+  "id": "d0410",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una Resolucion N541/2015 de la Oficina de Transparencia Municipal de Maipu que DENIEGA la entrega de informacion solicitada sobre cambios en el plan regulador comunal (barrio Maipu Centro), invocando causal de reserva del articulo 21 N1 letra b de la Ley de Transparencia. No contiene ni aprueba norma urbanistica alguna, es puramente un tramite de acceso a informacion.",
+  "que_se_ve": "Pagina 1: encabezado Ilustre Municipalidad de Maipu, titulo 'DENIEGA ENTREGA DE INFORMACION SOLICITADA POR DON IGNACIO JOANNON JOHNSON...', Resolucion N541/2015, vistos y considerandos sobre solicitud de info de cambios en el PRC. Pagina 2: parte resolutiva 'DENIEGASE la entrega de informacion...', firma del Director de Asesoria Juridica. Sin tablas normativas, sin coeficientes ni zonas."
+ },
+ "d0413": {
+  "id": "d0413",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "MEDIA",
+  "motivo": "El Decreto N205 de Maria Pinto (mayo 2022) 'pone termino al proceso de Evaluacion Ambiental Estrategica (EAE)' de la Actualizacion del PRC; es un cierre de etapa ambiental previa a la aprobacion final, no el acto que promulga la modificacion. La pagina 18 (de 52) muestra una tabla de zonas con solo superficie en m2/hectareas (ZH1, ZH2, ZAV, ZIS, ZAI, ZM), sin coeficientes de constructibilidad, alturas, densidades u otros parametros normativos. Dado que el documento tiene 52 paginas y solo se vieron 2, no se puede descartar que mas adelante contenga el cuerpo normativo o cuadro completo de la actualizacion del PRC; ante la duda se escala.",
+  "que_se_ve": "Pagina 1: encabezado Municipalidad de Maria Pinto, 'DECRETO N205 - Pone termino al proceso de Evaluacion Ambiental Estrategica del Instrumento de Planificacion Territorial, denominado Actualizacion del Plan Regulador Comunal, comuna de Maria Pinto', vistos sobre Ley 19.300, EAE, licitacion y adjudicacion del estudio. Pagina 18: tabla 'Zona / Nombre zona / Area (m2, Hectareas)' con ZH1, ZH2, ZAV, ZIS, ZAI, ZM y tablas de organismos convocados a mesas intersectoriales de participacion (OAE)."
+ },
+ "d0415": {
+  "id": "d0415",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Publicado en el Diario Oficial, es el decreto que PROMULGA oficialmente la 'Modificacion del Plan Regulador Comunal de Melipilla, Prorroga de Declaratorias de Utilidad Publica de Terrenos Urbanos...Destinados a Vialidad Estructurante'. Incluye el Texto Aprobatorio con 'Articulo unico.- Modifiquese el Plan Regulador Comunal...' y tablas de vias con anchos entre lineas oficiales (normas de vialidad estructurante, que son parte del articulado normativo del PRC).",
+  "que_se_ve": "Pagina 1: Diario Oficial de la Republica de Chile, 2 de marzo de 2012, 'MUNICIPALIDAD DE MELIPILLA - PROMULGA MODIFICACION DEL PLAN REGULADOR COMUNAL DE MELIPILLA, PRORROGA DE DECLARATORIAS DE UTILIDAD PUBLICA...', vistos numerados 1 a 16 sobre el proceso de aprobacion (audiencias, concejo, avisos de prensa). Pagina 2: parte 'Decreto: 1. Promulguese oficialmente...2. Publiquese integro el texto aprobatorio...', firma del Alcalde, luego 'TEXTO APROBATORIO - Articulo unico.- Modifiquese el Plan Regulador Comunal de Melipilla...' con tablas de vias (Norte-Sur, Oriente-Poniente) indicando anchos entre lineas oficiales existentes/proyectados."
+ },
+ "d0418": {
+  "id": "d0418",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un Decreto Alcaldicio (N18725) que APRUEBA UN CONTRATO DE CONSULTORIA para realizar el 'Estudio Actualizacion Plan Regulador Comunal de Monte Patria' (adjudicacion de licitacion a la empresa Geodessus Spa). No aprueba ni contiene normas urbanisticas, es un tramite de contratacion/licitacion previo a que exista siquiera un anteproyecto de PRC.",
+  "que_se_ve": "Pagina 1: Decreto Alcaldicio N18725 de Monte Patria (10-dic-2021), 'Mat. Otras: APRUEBA CONTRATO CONSULTORIA ESTUDIO ACTUALIZACION PLAN REGULADOR COMUNAL DE MONTE PATRIA', vistos sobre licitacion ID 2997-32-LQ21, adjudicacion a consultor Geodessus Spa. Pagina 3: texto del 'CONTRATO DE CONSULTORIA Actualizacion Plan Regulador Comunal de Monte Patria' entre el consultor y la I. Municipalidad, clausulas Primero y Segundo sobre objeto del contrato (elaborar anteproyecto)."
+ },
+ "d0419": {
+  "id": "d0419",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alcaldicio N1430 de Nancagua que 'APRUEBASE el INICIO DEL PROCESO de aprobacion del Plan Regulador Comunal de la comuna de Nancagua' (la comuna actualmente NO CUENTA con PRC). Es explicitamente el inicio de un proceso administrativo, designa al Director de Obras Municipales como responsable y delega facultades; coincide exactamente con la categoria TRAMITE_ADMINISTRATIVO ('inicio de proceso...SIN normas') de la taxonomia. Aun menciona que el futuro PRC contendra coeficientes, rasantes, alturas, etc., pero eso es una enumeracion de lo que se normara a futuro, no normas ya aprobadas.",
+  "que_se_ve": "Pagina 1: Decreto Alcaldicio N1430 de Nancagua (09-may-2018), vistos y considerandos indicando que 'la comuna de Nancagua no cuenta con Plan Regulador Comunal' y que existe necesidad de normar; 'DECRETO: 1. APRUEBASE el inicio del proceso de aprobacion del Plan Regulador Comunal...'. Pagina 2: continua el decreto detallando que el futuro PRC contendra disposiciones sobre limite urbano, usos de suelo, zonificacion, coeficiente de constructibilidad, rasantes, alturas, etc.; designa responsable (Director de Obras Municipales) y delega facultades; firmas de Alcalde y Secretario Municipal."
+ },
+ "d0450": {
+  "id": "d0450",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Pese a que el nombre de archivo es 'plano_regulador_comunal', el contenido real es un Decreto Alcaldicio (N968/2023) de Padre Hurtado que APRUEBA la 'Ordenanza Municipal de Participacion Ciudadana' de la comuna, totalmente ajena al Plan Regulador Comunal. Es una trampa de nombre de archivo. La pagina 6 confirma articulado sobre organizaciones comunitarias funcionales y presupuestos participativos, sin ninguna norma urbanistica.",
+  "que_se_ve": "Pagina 1: Decreto Alcadicio N968/2023 de Padre Hurtado (mayo 2023), 'LA ALCALDIA DE PADRE HURTADO DECRETA...DECRETO: 1.- Apruebese la Ordenanza Municipal de Participacion Ciudadana de la Municipalidad de Padre Hurtado. 2.- Publiquese la Ordenanza...'. Pagina 6: articulado de dicha ordenanza, 'Parrafo 4 - DE LA PARTICIPACION DE LAS ORGANIZACIONES COMUNITARIAS FUNCIONALES Y DE LAS PERSONAS NATURALES' (articulos 33 a 38) y 'Parrafo 5 - DE LOS PRESUPUESTOS PARTICIPATIVOS' (articulo 39); nada relacionado con zonificacion, coeficientes o normas de edificacion."
+ },
+ "d0343": {
+  "id": "d0343",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es el extracto de un decreto alcaldicio que rectifica un decreto anterior de enmienda al PRC de Laja, estableciendo expresamente que se permite el uso 'salud' en la zona de equipamiento deportivo ZED para un lote individualizado (rol 300-1). Es un acto normativo concreto sobre uso de suelo permitido en una zona del PRC, aunque acotado a un predio específico.",
+  "que_se_ve": "Extracto de Decreto N° 598, de 06.02.2013, Municipalidad de Laja (vista tipo LeyChile/BCN). Texto: 'Rectifíquese decreto alcaldicio N° 2.777, del 22.09.2011, en el sentido de establecer que la enmienda al Plan Regulador Comunal de Laja (PRCL) permite el uso salud en la zona equipamiento deportivo ZED en que se encuentra el lote individualizado con el rol de avalúo 300-1 de la comuna de Laja.' Firmado por el Alcalde José Pinto Albornoz y la Secretaria Municipal Karina Sepúlveda Mora. No hay tablas ni planos, es solo el texto del extracto."
+ },
+ "d0344": {
+  "id": "d0344",
+  "categoria": "PLANO_LAMINA",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es la lámina gráfica del Plan Regulador Comunal de Laja (PRCL-01), con la zonificación pintada y su simbología (nombres y colores de zonas: ZCC, ZR-1/2/3, ZRM-1, ZC, ZTES, ZM-1, ZED, ZEE, ZEC-1/2, ZISC, ZAP-1/2, ZAPC-1, zonas de extensión Zex*, zonas de riesgo ZRi-1 a ZRi-4, ZPdr, ZAM) y la vialidad, pero sin cuadro numérico de normas urbanísticas (sin coeficientes de constructibilidad, ocupación de suelo, alturas, densidades, etc.). El documento completo consta de una sola página (esta lámina).",
+  "que_se_ve": "Plano a color 'PLAN REGULADOR COMUNAL DE LAJA', escala 1:5.000, lámina PRCL-01, consultor CC LTDA, con recuadro de simbología de zonificación y usos de suelo, vialidad y conectividad, espacios públicos y leyenda de carta base, más cajetín con logos de Gobierno de Chile y Municipalidad de Laja."
+ },
+ "d0376": {
+  "id": "d0376",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Pese a que el nombre de archivo dice 'plano_regulador', el contenido de las dos páginas revisadas (p1 y p4, de 13 totales) corresponde íntegramente a una Ordenanza Municipal sobre Participación Ciudadana (audiencias públicas y plebiscitos comunales) de Linares, sin coeficientes, zonas, alturas ni ningún parámetro urbanístico de edificación. Es un tema ajeno a las normas del PRC.",
+  "que_se_ve": "Página 1: Decreto Exento N° 3591 (Asesoría Jurídica), Municipalidad de Linares, Linares 24 de agosto de 2011, que deroga la Ordenanza sobre Participación Ciudadana anterior (Decreto 2511 de 1999) y aprueba una nueva 'ORDENANZA MUNICIPAL SOBRE PARTICIPACIÓN CIUDADANA', Título I 'Disposiciones Generales' (Art. 1 a 4). Página 4: continúa el articulado (Art. 20 a 22 sobre audiencias públicas) y comienza el 'CAPÍTULO II PLEBISCITOS COMUNALES' (Art. 23 a 29) regulando cómo se convocan y realizan plebiscitos comunales, quórums y plazos."
+ },
+ "d0402": {
+  "id": "d0402",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un oficio de trámite mediante el cual el Alcalde remite el Plan Regulador Comunal a la SEREMI de Vivienda y Urbanismo 'para su evaluación', es decir, antes de su aprobación formal. No aprueba ni contiene normas urbanísticas por sí mismo, solo transmite un paquete de documentos (planos, memoria, ordenanza local) para revisión de la autoridad regional.",
+  "que_se_ve": "Oficio N° 501 de la Municipalidad de Los Sauces, 21 de julio de 2015, dirigido por el Alcalde Gastón Mella Arzola a la Sra. Romina Tuma Zeidan, SEREMI de Vivienda y Urbanismo de La Araucanía. MAT.: 'ADJUNTA PLAN REGULADOR COMUNAL'. Texto: presenta para evaluación el Plan Regulador Comunal de Los Sauces, adjuntando 6 ejemplares de planos, memoria explicativa, ordenanza local, participación ciudadana y libro de asistencia. Firma y timbre del Alcalde."
+ },
+ "d0403": {
+  "id": "d0403",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "MEDIA",
+  "motivo": "El documento se titula 'Informe Memoria Explicativa', que típicamente es el estudio técnico/diagnóstico y de justificación que acompaña al PRC, distinto de la Ordenanza Local (documento vinculante que fija las normas de edificación por zona). Las dos páginas revisadas (portada casi en blanco y una tabla de proyección de equipamiento comunitario, sin coeficientes de constructibilidad/ocupación/altura) no muestran normas urbanísticas de edificación. Sin embargo, es un documento extenso (107 páginas) del cual solo se vieron 2, por lo que no se puede descartar que en capítulos posteriores (propuesta/imagen objetivo) incluya el cuadro normativo de zonas propuesto para Machalí. Se escala por precaución dado el alto volumen no revisado y el riesgo de dejar una comuna sin normas por descarte erróneo.",
+  "que_se_ve": "Página 1: portada casi en blanco con logo de la Municipalidad de Machalí, Dirección de Obras Municipales, encabezado tenue 'Plan Regulador Comuna [Machalí] y Coya' y el título '1. Memoria del Plan Regulador Comunal.' Página 37: encabezado 'PLAN REGULADOR COMUNAL DE MACHALÍ - MEMORIA DEL PLAN', con 'Cuadro 2.5-2: Usos de Suelo Recomendado en Escenarios de Desarrollo', tabla de proyecciones de equipamiento (salud, educación, seguridad, áreas verdes, deporte) para escenarios tendencial/óptimo/actual (años 2002 y 2030), sin parámetros de edificación (CC, COS, altura, densidad)."
+ },
+ "d0409": {
+  "id": "d0409",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una resolución de la Oficina de Transparencia Municipal que responde a una solicitud ciudadana de acceso a la información (Ley 20.285) sobre la zonificación de un predio específico según el Plano Regulador Vigente, entregando parcialmente la información y denegando otra parte por estar en trámite. No aprueba ni contiene normas urbanísticas generales, es gestión de una solicitud de transparencia.",
+  "que_se_ve": "Páginas 1-2: Resolución N°160/2016 de la I. Municipalidad de Maipú (Dirección Asesoría Jurídica / Oficina de Transparencia Municipal), 13 de abril de 2016, 'ACCEDE A LA ENTREGA PARCIAL DE LA INFORMACIÓN SOLICITADA POR DOÑA DIANA DONOSO PINEDA' respecto a la actualización del Plano Regulador Vigente en la comuna, para confirmar tipificación y zonificación de un domicilio particular (dato tarjado). Cita la Ley de Transparencia N°20.285, considerandos y resuelve: accede a entregar copia del Memorándum N°298 de SECPLA sobre zonificación del predio, y deniega otra parte de la información por estar en un expediente en trámite (Art. 21 N°1 letra b)."
+ },
+ "d0685": {
+  "id": "d0685",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Es un estudio técnico de respaldo (inventario de equipamiento comunal existente) para justificar una modificación del PRC en el sector Santa Zita, Las Condes; no es el decreto/ordenanza que aprueba normas, y el contenido visto es descriptivo (inventario de instalaciones), no prescriptivo (no hay coeficientes, alturas ni usos permitidos).",
+  "que_se_ve": "Portada: 'ESTUDIO DE EQUIPAMIENTO COMUNAL PARA TERRENO SANTA ZITA N°9402 Y N°9432', I. Municipalidad de Las Condes, Dirección de Asesoría Urbana, Enero 2021. Página interior (p.21 de 62): sección 4.9 'Equipamiento Deporte' con Cuadro N°4-4 listando instalaciones deportivas existentes (estadios, multicanchas, piscinas) con dirección y superficie — inventario de equipamiento existente, no cuadro normativo de zonificación."
+ },
+ "d0689": {
+  "id": "d0689",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Es un estudio técnico vial (conteos y proyecciones de viajes) que respalda la misma modificación del PRC en Las Condes (sector Santa Zita); no contiene ni aprueba normas urbanísticas, solo datos de tránsito.",
+  "que_se_ve": "Portada: 'ESTUDIO DE CAPACIDAD VIAL - MODIFICACION DEL PLAN REGULADOR, SECTOR SANTA ZITA, COMUNA LAS CONDES', preparado por Urbano Proyectos para Municipalidad de Las Condes, Enero 2021. Página 32 (de 94): Cuadro N°5.11 'Total de viajes generados en punta mañana por categoría de ingreso, año 2015' — tabla de datos de tránsito por zona, sin contenido normativo."
+ },
+ "d0865": {
+  "id": "d0865",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es el decreto alcaldicio publicado en el Diario Oficial que aprueba formalmente el Plan Regulador Comunal de Pirque junto con su Ordenanza Local; la página 3 muestra el arranque explícito del articulado de la ordenanza (Capítulo I, Artículo 1° Generalidades).",
+  "que_se_ve": "Diario Oficial, Cuerpo I-12, 23-dic-2015: 'Municipalidad de Pirque - APRUEBA PLAN REGULADOR COMUNAL DE PIRQUE EN CONFORMIDAD A LO INDICADO EN LA ORDENANZA Y EL PLANO PRCP-1', Decreto N°1.297, con extenso listado de vistos y considerandos. Página 3: texto resolutivo 'Apruébase el Plan Regulador Comunal de Pirque... Apruébase la Ordenanza Local del Plan Regulador Comunal de Pirque: CAPÍTULO I Disposiciones Generales, Artículo 1° Generalidades...'."
+ },
+ "d0971": {
+  "id": "d0971",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "BAJA",
+  "motivo": "El documento se autodenomina 'Memoria Explicativa' (diagnóstico y fundamentación), no 'Ordenanza' ni 'Decreto'; la muestra en p.53 confirma contenido diagnóstico de condiciones existentes, pero al ser un documento de 152 páginas no se puede descartar que más adelante incluya un Cuadro Normativo o el texto de la Ordenanza como anexo. Por la regla de oro (errores asimétricos), se escala en vez de descartar.",
+  "que_se_ve": "Portada: 'MEMORIA EXPLICATIVA - Modificación Plan Regulador Comunal de San Miguel', Noviembre 2016. Página 53 de 152: texto descriptivo de diagnóstico urbano por zonas ('Zona 4', 'Zona 5'), describiendo actividad productiva, tamaño de predios, estratos socioeconómicos y sistema de agrupamiento EXISTENTE (observado, no normado) — es narrativa de diagnóstico, no un cuadro normativo con parámetros a aplicar."
+ },
+ "d1023": {
+  "id": "d1023",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es la publicación en el Diario Oficial del decreto que promulga una modificación del PRC de Vitacura, con articulado y cuadro normativo de usos de suelo explícitos y completos.",
+  "que_se_ve": "Diario Oficial N°42.122, 2-ago-2018: 'MUNICIPALIDAD DE VITACURA - PROMULGA MODIFICACIÓN N° 33 AL PLAN REGULADOR COMUNAL DE VITACURA', Decreto N°1.684 ('Actualización del Artículo 43'). Página 3: articulado explícito — modifica artículos 29 y 30, deroga 32 y 33, reemplaza el Cuadro 8 'Zonas de Usos de Suelo' (siglas U-V, U-PVEV, U-PVO, U-POC, U-PC, U-Ee1 a U-Ee4, U-AVPC) y transcribe el nuevo Artículo 43 completo con las 10 zonas de uso de suelo."
+ },
+ "d1037": {
+  "id": "d1037",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un decreto que autoriza el INICIO de un trámite (ingreso del informe de evaluación ambiental estratégica al Ministerio de Medio Ambiente) para una futura actualización del PRC; no aprueba ni contiene norma urbanística alguna, es puramente procedimental.",
+  "que_se_ve": "Decreto Alcaldicio N°7565 de la I. Municipalidad de Quillota, 06-ago-2018, firmado por Secretario Municipal y Alcalde: 'PROMÚLGASE el Acuerdo N°250/18... que dice: Por unanimidad se aprueba autorizar el inicio del proceso aprobatorio del Informe de Evaluación Ambiental Estratégica del Estudio: Actualización Plan Regulador Comunal de Quillota, mediante su ingreso al Ministerio de Medio Ambiente.' Documento de una sola página."
+ },
+ "d1038": {
+  "id": "d1038",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto solo aprueba una modificación al convenio de financiamiento (mandato) entre el Gobierno Regional de Valparaíso y la Municipalidad de Quintero para ejecutar el futuro estudio 'Actualización Plan Regulador Comunal de Quintero'; no contiene ni aprueba ninguna norma urbanística, solo montos, plazos e items presupuestarios del convenio.",
+  "que_se_ve": "Decreto Alcaldicio N°3880 de Quintero (18-jul-2024). Página 1: extensos 'Vistos' sobre convenios de transferencia FNDR y una tabla con montos (Gastos Administrativos, Consultorías, Total) del convenio mandato. Página 2: cuerpo del decreto 'APRUEBASE...la Modificación de Convenio Mandato...para la ejecución del proyecto...Actualización Plan Regulador Comunal de Quintero', firmas de Secretario Municipal y Alcalde. No hay articulado normativo ni cuadro de zonas."
+ },
+ "d1039": {
+  "id": "d1039",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto solo da inicio a la tramitación de la Modificación N°6 al PRC de Rengo (formulación y consulta de la Imagen Objetivo), listando temas a modificar a futuro, sin aprobar ninguna norma todavía.",
+  "que_se_ve": "Decreto Alcaldicio N°1247/(MD) de Rengo (16-nov-2020). Página 1: 'Vistos/Considerando' con el historial de decretos del PRC de Rengo. Página 3: cuerpo 'DECRETO: 1. Iníciese tramitación de Modificación N°6 al Plan Regulador Comunal de Rengo...con la formulación y consulta de la Imagen Objetivo' y tabla con 9 temas modificatorios propuestos (redefinición zona conservación histórica, zona universitaria, destino culto en ZH3/ZH6/ZH9, etc.). Es inicio de trámite, no aprobación de norma."
+ },
+ "d1040": {
+  "id": "d1040",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto solo da inicio a la tramitación de la Enmienda N°7 para las zonas ZH3 y ZH5, convocando a audiencia pública y consulta al CESCO; no aprueba ninguna norma urbanística en este acto.",
+  "que_se_ve": "Decreto Alcaldicio N°0580/(MD) de Rengo (04-abr-2019). Página 1: 'Vistos/Considerando' sobre el historial del PRC de Rengo. Página 2: cuerpo 'DECRETO: 1. Iníciese tramitación de Enmienda N°7 para zonas residenciales ZH3 y ZH5...2. Cítese a una audiencia pública...3. Cítese a sesión al Consejo Económico y Social Comunal...'. Es inicio de trámite de enmienda, sin contenido normativo aprobado aún."
+ },
+ "d1041": {
+  "id": "d1041",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "La página 1 es el decreto que promulga la aprobación completa del Plan Regulador Comunal de Colina (PRCC); la página del cuerpo (p.17) muestra articulado de la Ordenanza Local con normas urbanísticas reales (densidades brutas por zona, requisitos de Estudio de Impacto Urbano).",
+  "que_se_ve": "Decreto N° E-629/2010 de Colina (08-mar-2010): 'DECRETO: 1.- Promúlgase...la aprobación del Plan Regulador Comunal de Colina, en adelante el PRCC.' En la página 17 se ve el articulado de la Ordenanza Local: Artículo 3.15 'Sobre los EIU en Zonas Residenciales Mixtas Condicionadas' con exigencias de densidad bruta (2% de superficie a 300-400 Hab/Há, 3% a 401-500 Hab/Há) y Artículo 3.16 sobre EIU en Zonas de Equipamiento Metropolitano Condicionado."
+ },
+ "d1043": {
+  "id": "d1043",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El decreto modifica expresamente el artículo 21 de la Ordenanza Local del PRC de Concepción, cambiando el guarismo del antejardín de la zona 4.1 de 5 a 2 metros: es una enmienda puntual con norma urbanística concreta y verificable.",
+  "que_se_ve": "Decreto Alcaldicio N°135/2016 de Concepción (17-mar-2016). Página 1: extensos 'Vistos' sobre el Decreto Alcaldicio N°148/2004 (nuevo Plan Regulador Comunal de Concepción) y la tramitación de la '2ª Enmienda al Plan Regulador, Sector Sur Ribera Norte Zona 4.1' (audiencias públicas, acuerdos del Concejo). Página 2: 'ARTÍCULO ÚNICO: En las condiciones urbanísticas de la zona 4.1...en el ítem Antejardín, reemplácese el guarismo \"5\" por el guarismo 2.'"
+ },
+ "d1047": {
+  "id": "d1047",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El sumario del Diario Oficial cita expresamente 'Resolución número 93 afecta.- Invalida resolución que indica y reemplaza por la presente resolución que promulga Plan Regulador Comunal de Curicó'; la página del cuerpo (p.12) contiene tablas de coordenadas de límite urbano de localidades del plan (Cordillerilla, Los Niches), confirmando que es contenido normativo del PRC y no un mero trámite.",
+  "que_se_ve": "Portada del Diario Oficial de la República de Chile N°40.025 (martes 2 de agosto de 2011), con el sumario listando bajo 'Gobierno Regional VII Región del Maule - Resolución número 93 afecta.- Invalida resolución que indica y reemplaza por la presente resolución que promulga Plan Regulador Comunal de Curicó...P.10'. En la página 12 del cuerpo (documento de 36 páginas) se ven tablas de coordenadas (Norte/Este) que describen el 'Límite Urbano Localidad de Cordillerilla' y 'Límite Urbano Localidad de Los Niches', parte de la memoria/plano del PRC de Curicó."
+ },
+ "d0482": {
+  "id": "d0482",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una ordenanza sobre funcionamiento y derechos municipales por contraprestacion de modulos de la Feria de Abastos de Curacautin: regula locales comerciales, rubros, dimensiones de puestos y banos del recinto ferial. No contiene coeficientes, alturas, densidades, usos de suelo ni zonas del PRC.",
+  "que_se_ve": "p1: Decreto Ex. N 673 de la I. Municipalidad de Curacautin (31/05/2021), REF: Ordenanza para el funcionamiento y derechos municipales por contraprestacion de modulos Feria de Abastos, con Vistos y Considerando citando DL 3063/1979 y Ley 18.695. p3 (cuerpo): texto de la Ordenanza, Capitulo I Disposiciones Generales, articulos 1 a 4 describiendo infraestructura, numero de locales comerciales por rubro (artesania, verduleria, pescados, carniceria, lacteos) y dimensiones en m2 de cocinerias."
+ },
+ "d0483": {
+  "id": "d0483",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Modifica una ordenanza municipal sobre derechos de arriendo/uso del Terminal Rodoviario (cambia tarifa de cafeteria de 3 a 2 UTM mensual). Es una ordenanza de derechos municipales sobre un servicio comunal, no del Plan Regulador Comunal.",
+  "que_se_ve": "p1: Decreto Ex. N 2.992 (30/10/2023), Municipalidad de Curacautin, 'Modifica Ordenanza Municipal Terminal Rodoviario Curacautin', con tabla que cambia tarifa de Cafeteria de 3 UTM a 2 UTM mensual. p2: Acuerdo N 255/2023 del Concejo Municipal aprobando la misma modificacion, con la misma tabla de tarifas y firmas."
+ },
+ "d0484": {
+  "id": "d0484",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto exento de la Municipalidad de La Florida que aprueba la Modificacion N9 del Plan Regulador Comunal, con extenso listado de Vistos y Considerando sobre el proceso de aprobacion (audiencias, COSOC, publicaciones). En pagina interior se reemplaza la tabla del articulo 26 'Areas Caracteristicas de Edificacion' con siglas de zonas (E-AB1 a E-AA2, E-A1), tipo de edificacion (Aislada), densidad y edificacion complementaria (pareada/continua): normas urbanisticas explicitas.",
+  "que_se_ve": "p1: Decreto Exento N (aprox. 401) de la Municipalidad de La Florida, 04-FEB-2015, Vistos y Considerando extenso relatando el proceso de aprobacion de la Modificacion N9 del Plan Regulador (audiencias publicas, publicaciones en diario, COSOC, observaciones ciudadanas, Acuerdo del Concejo N372). p4: cuerpo del decreto modificando articulos del PRC, incluye tabla completa 'Areas Caracteristicas de Edificacion' con columnas Sigla, Tipo de Edificacion, Densidad y Edificacion Complementaria para 12 zonas (E-AB1 a E-A1)."
+ },
+ "d0514": {
+  "id": "d0514",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Resumen ejecutivo (anteproyecto final) de la Modificacion del Plan Regulador Comunal de Arica. Aunque no es el decreto de promulgacion, contiene descripcion normativa extensa y explicita: define la zona ZC-1 con altura maxima de 14 m en fachada continua (hasta 21 m con cuerpo aislado adicional), densidad maxima de 400 Hab/Ha, ausencia de antejardin, y subzonas como ZC-1A. Es contenido normativo urbanistico real, no solo tramite.",
+  "que_se_ve": "p1 (portada): 'RESUMEN EJECUTIVO - MODIFICACION PLAN REGULADOR COMUNAL ARICA - ANTEPROYECTO FINAL', Municipalidad de Arica, Abril de 2017. p18 (cuerpo): texto describiendo zonas de centro y subcentro, con parrafo dedicado a la 'Zona Centro Fundacional (ZC-1)': altura maxima de 14 m en edificacion continua sin antejardin, posibilidad de cuerpo aislado adicional hasta 21 m, densidad maxima de 400 Hab/Ha (100 viviendas/ha), y mencion de subzona ZC-1A (Centro Borde Costero)."
+ },
+ "d0644": {
+  "id": "d0644",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Decreto 1280 Exento de La Florida (2015) que 'revoca declaratorias de utilidad publica de las nuevas afectaciones' de vialidad/plazas/parques del PRC vigente, en el marco de la Ley 20.791 sobre caducidad de declaratorias de utilidad publica. Es un acto de desafectacion (equivalente a 'deja sin efecto'), no fija ni modifica coeficientes, alturas, densidades ni usos de suelo. El texto corta en 'segun listado que a continuacion se detalla:' seguido de un punto solitario -patron de tabla oculta como imagen (ver nota de memoria sobre trampa LeyChile)-, por lo que el listado especifico de calles/predios desafectados podria estar en paginas no muestreadas (3-4) como imagen; no se pudo verificar su contenido.",
+  "que_se_ve": "p1: pagina de LeyChile/BCN, 'Decreto 1280 EXENTO - Revoca declaratorias de utilidad publica de las nuevas afectaciones, de acuerdo al Plan Regulador Comunal vigente - Municipalidad de La Florida', Publicacion 28-ABR-2015. Cuerpo del decreto citando Ley 20.791 y circulares DDU 277/279. p2: continua el Considerando sobre vias comunales y metropolitanas (PRMS), y el resolutivo '1. Revocase las declaratorias de utilidad publica... segun listado que a continuacion se detalla:' seguido de un punto solitario, sin tabla visible en esta pagina."
+ },
+ "d0683": {
+  "id": "d0683",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "MEDIA",
+  "motivo": "Es un Informe Ambiental (Evaluacion Ambiental Estrategica) de la Modificacion N10 del Plan Regulador Comunal de Las Condes (2019), documento de acompanamiento tecnico-ambiental, no la ordenanza ni el decreto de promulgacion. En la pagina muestreada si aparece un dato normativo concreto (reduccion de densidad bruta maxima permitida de 800 hab/ha a 500 hab/ha), pero el resto del contenido visto es narrativo (politica energetica, participacion ciudadana) mas que un cuadro normativo completo por zonas. Documento de 77 paginas: no es posible descartar que contenga mas normas en secciones no muestreadas ni confirmar que sea la fuente primaria de las normas de la Modificacion N10 (que probablemente esten en la Ordenanza/Memoria separada). Se escala por la naturaleza hibrida del documento (informe ambiental con contenido normativo parcial).",
+  "que_se_ve": "p1 (portada): 'INFORME AMBIENTAL - MODIFICACION N10 DEL PLAN REGULADOR COMUNAL DE LAS CONDES', Septiembre 2019, con enlace para observaciones ciudadanas (arcg.is/rvCH), indicando que aun esta en etapa de consulta/anteproyecto. p26: texto sobre revision de densidad ('se disminuyo la densidad bruta maxima permitida de 800 hab/ha a 500 hab/ha'), seccion 6.3.3 SEREMI Energia (politica energetica, eficiencia energetica en vivienda social) y seccion 6.4 Resultados del Proceso de Participacion Ciudadana - mayormente narrativo, no un cuadro normativo por zonas."
+ },
+ "d1074": {
+  "id": "d1074",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto 1119 de La Serena (30-may-2025) aprueba anexos y declaracion jurada de la Ordenanza N.15 sobre Subvenciones y Aportes municipales; la pagina 4 es un formulario de postulacion a subvencion (educacion, cultura, deportiva). No hay ninguna referencia a normas de edificacion, zonas o Plan Regulador.",
+  "que_se_ve": "P1: Decreto N.1119, La Serena 30 mayo 2025, 'APRUEBASE los Anexos (4) y Declaracion Jurada de la ORDENANZA N.15, SOBRE SUBVENCIONES Y APORTES DE LA ILUSTRE MUNICIPALIDAD DE LA SERENA', firmado por Secretario Municipal y Alcaldesa. P4 (anexo): formulario en blanco para solicitar subvencion, con casillas Educacion/Cultura/Deportiva/Otra y tabla de costos a rellenar."
+ },
+ "d1080": {
+  "id": "d1080",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto 193 modifica la Ordenanza N.1 'Derechos Municipales por Permisos, Concesiones y Servicios' agregando un cobro por ocupacion de bien nacional de uso publico (estacion de servicio bencinera). Es tarifario municipal, no normativa de construccion ni modificacion del PRC.",
+  "que_se_ve": "Pagina unica: Decreto N.193, La Serena 18 feb 2021, 'MODIFICASE la Ordenanza N.1, sobre Derechos Municipales por Permisos, Concesiones y Servicios... incorporar... Estacion de Servicio Bencinera, por m2, diario 0,001 UTM'. Documento de una sola pagina, firmado, sin tablas de zonificacion ni coeficientes de edificacion."
+ },
+ "d1082": {
+  "id": "d1082",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "El titulo 'Ordenanza de Administracion Territorial del Sector Avenida del Mar' podria sugerir zonificacion, pero el articulado revisado (arts. 1 a 6) regula unicamente el otorgamiento de permisos para instalaciones temporales (kioscos/stands) en la playa: expediente tecnico, Comision evaluadora, plazos de postulacion. No hay coeficientes, alturas, usos de suelo ni cuadro normativo del PRC.",
+  "que_se_ve": "P1: Decreto N.2457/13, La Serena 23 jul 2013, deroga la ordenanza anterior y aprueba la 'ORDENANZA DE ADMINISTRACION TERRITORIAL DEL SECTOR AVENIDA DEL MAR DE LA SERENA', arts. 1-4 sobre objeto, delimitacion del sector y actividades temporales (kioscos/stands, plazo maximo 90 dias). P2: arts. 4 (cont.) a 6, requisitos del expediente tecnico (planos, patente de arquitecto, certificado electrico), composicion y funcionamiento de la Comision Municipal Avenida del Mar, plazos de postulacion (25 jul-30 sep)."
+ },
+ "d1085": {
+  "id": "d1085",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto 3885/11 aprueba la 'Ordenanza Comunal sobre Derechos Municipales por Permisos, Concesiones y Servicios' (Ordenanza N.1): liquidacion y pago de derechos, devoluciones, tablas de tarifas por bodegaje de vehiculos y patentes de actividades (circos). Es tarifario municipal, no normativa urbanistica.",
+  "que_se_ve": "P1: Decreto N.3885/11, La Serena 26 oct 2011, 'APRUEBESE la Ordenanza Comunal sobre Derechos Municipales por Permisos, Concesiones y Servicios', Ordenanza N.1, arts. 1-4 (objeto, liquidacion y pago, devolucion de derechos, definiciones de sectores centro/subcentro). P7: art. 9 y 10 con tablas de tarifas UTM por bodegaje de vehiculos abandonados (motos, autos, camiones, etc.) y art. 11 tabla de derechos por funcionamiento de circos. Sin coeficientes de edificacion ni zonas del PRC."
+ },
+ "d1086": {
+  "id": "d1086",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto 3980 aprueba una ordenanza municipal sobre autorizacion de transporte de basuras, desechos, escombros o residuos. Tema de aseo/transporte de residuos, ajeno al Plan Regulador Comunal.",
+  "que_se_ve": "P1: Decreto N.3980, La Serena 24 nov 2016, 'APRUEBESE la siguiente Ordenanza Municipal sobre AUTORIZACION DE TRANSPORTE DE BASURAS, DESECHOS, ESCOMBROS O RESIDUOS DE CUALQUIER TIPO', arts. 1-2 sobre solicitud de autorizacion a DISERCO. P2: arts. 3-5, condiciones de transporte (contenedores, sacos), excepciones para reciclaje, requisitos del formulario de solicitud. Ningun contenido de zonificacion ni coeficientes."
+ },
+ "d1090": {
+  "id": "d1090",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Ordenanza N.5 regula el cierre o implementacion de medidas de control de acceso (rejas/porton) en calles, pasajes o conjuntos habitacionales por motivos de seguridad. Es una ordenanza de seguridad vecinal, no de edificacion ni zonificacion del PRC.",
+  "que_se_ve": "P1: Decreto s/n, La Serena 13 dic 2022, 'ORDENANZA SOBRE CIERRE O IMPLEMENTACION DE LAS MEDIDAS DE CONTROL DE ACCESO EN CALLES, PASAJES O CONJUNTOS HABITACIONALES, URBANOS O RURALES, POR MOTIVOS DE SEGURIDAD', Ordenanza N.5, Titulo I art.1 (objeto). P2: art. 2 y 3, requisitos para autorizar cierres (ancho de calzada menor a 7 m, horarios maximos de cierre, prohibicion en zonas patrimoniales), diseno del proyecto de cierre. Sin coeficientes de constructibilidad, alturas ni zonas del PRC."
+ },
+ "d1048": {
+  "id": "d1048",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un acto de adjudicación (trato directo) de un contrato de consultoría para elaborar EN EL FUTURO una modificación del PRC de Curicó; no aprueba ni promulga norma alguna, solo encarga el estudio a Habiterra S.A. Coincide exactamente con el ejemplo de la taxonomía 'licitación/adjudicación'.",
+  "que_se_ve": "Decreto N° 1806 de la I. Municipalidad de Curicó, 06 oct 2011, firmado por el Alcalde Hugo Rey Martínez. Adjudica bajo modalidad de trato directo y emergencia calificada la elaboración de 'Modificación y Adecuaciones del Plan Regulador de Curicó' a la consultora Habiterra S.A. por $10.000.000, plazo de ejecución 180 días. Sin tablas normativas, solo cláusulas administrativas de adjudicación (designación de unidad técnica, financiamiento, forma de pago)."
+ },
+ "d1054": {
+  "id": "d1054",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El nombre del archivo menciona 'plan regulador comunal' pero el contenido real del decreto es la aprobación de un Plan Comunal de Seguridad Pública (prevención del delito), sin relación alguna con normas urbanísticas del PRC.",
+  "que_se_ve": "Decreto Alcaldicio Sección Segunda N° 41, Municipalidad de Estación Central, 11 ene 2024. Título explícito: 'APRUEBA LA ACTUALIZACIÓN DEL PLAN COMUNAL DE SEGURIDAD PÚBLICA'. Contenido sobre reducción de delitos, violencia contra la mujer, protección de niños/niñas/adolescentes, infracciones a la ley de drogas y seguridad en el eje comercial Alameda. Página 2 continúa con la parte resolutiva: aprueba el plan y ordena remitirlo a la Subsecretaría de Prevención del Delito. No hay ninguna referencia a coeficientes, zonas o usos de suelo."
+ },
+ "d1069": {
+  "id": "d1069",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Contiene la promulgación de una enmienda al PRC con tabla de parámetros urbanísticos específicos (antejardín, distancia a medianeros) para la Zona ZAA-1.",
+  "que_se_ve": "Publicación en el Diario Oficial (lunes 8 junio 2015), sección Municipalidad de La Florida: 'PROMULGA ENMIENDA N° 10, AL PLAN REGULADOR COMUNAL, ZONA EAA-1', decreto exento N° 1.747 del 2 junio 2015. Página 2 (continuación en cuerpo del diario) contiene el 'Artículo único: Enmiéndese el Plan Regulador Comunal de La Florida... Zona Z-AA1 (zona de edificación aislada alta)' con tabla: Antejardín = 3 m construcción obligatoria sobre línea de edificación; Distancia a medianeros = Según O.G.U.C."
+ },
+ "d1070": {
+  "id": "d1070",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es el decreto que aprueba/promulga la Modificación N°5 del PRC de La Florida y su texto aprobatorio incluye tabla con coeficientes urbanísticos (COS, coeficiente de constructibilidad, superficie predial mínima) para zonas de equipamiento.",
+  "que_se_ve": "Página 1: Decreto Exento N° 766, Municipalidad de La Florida, 11 mar 2013, encabezado 'MODIFICACIÓN N°5 PLAN REGULADOR COMUNAL DE LA FLORIDA - TEXTO APROBATORIO ENERO 2013', extenso listado de vistos y considerandos del proceso de aprobación. Página 8: articulado normativo, punto 17 'Modifícase el artículo 39 Condiciones de Edificación', con tabla 'Condiciones de edificación para los equipamientos' que fija Superficie Predial Mínima (300 m²), Coeficiente de Ocupación de Suelo (0,6) y Coeficiente de Constructibilidad (3 / 2 / 1,5 / 1,2) según tipo de equipamiento."
+ },
+ "d1071": {
+  "id": "d1071",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es la respuesta formal a una solicitud ciudadana de transparencia (Ley 20.285) que entrega un listado de enlaces a documentos, no el contenido normativo mismo. Coincide con el ejemplo explícito de la taxonomía 'solicitud ciudadana de transparencia'.",
+  "que_se_ve": "Página 1: Oficio N° 063-DJ del Director Jurídico de la Municipalidad de La Florida, 29 enero 2025, respondiendo una solicitud de información Ley 20.285 (Expediente N° 484). Página 3: captura de pantalla de un portal web municipal titulado 'PLAN REGULADOR COMUNAL, SECCIONALES ANTERIORES A LA APROBACIÓN DEL PRC 2001' con un listado de documentos (enlaces) sin desplegar su contenido, seguido del texto 'Con lo informado se da por concluido el presente procedimiento administrativo'."
+ },
+ "d1072": {
+  "id": "d1072",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto publicado en el Diario Oficial que aprueba modificaciones textuales a la Ordenanza del PRC de La Granja, incluyendo un cambio concreto de densidad máxima permitida en una zona específica.",
+  "que_se_ve": "Diario Oficial, lunes 25 de mayo de 2009, sección Municipalidad de La Granja: 'MODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL EN LOS ARTÍCULOS QUE INDICA', Núm. 1.076, 29 abril 2009. Aprueba enmiendas a la Ordenanza Local (Capítulo III, artículo 12° sobre Bienes Nacionales de Uso Público). Página 2 continúa con Capítulo IV, artículo 21 'Zona B: Borde de Avda. Santa Rosa y Avda. Américo Vespucio', sustituyendo Densidad Máxima Permitida de 800 Hab./Há por 960 Hab./Há."
+ },
+ "d1094": {
+  "id": "d1094",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto aprueba una Ordenanza sobre Otorgamiento de Patentes de Alcoholes (expendio de bebidas alcoholicas), materia ajena a normas urbanisticas del PRC.",
+  "que_se_ve": "Pagina 1: Decreto N 92 de la I. Municipalidad de La Serena (19 ene 2018): 'APRUEBESE la siguiente ORDENANZA SOBRE OTORGAMIENTO DE PATENTES DE ALCOHOLES', Titulo I Generalidades, articulos 1-3 sobre pago semestral de patentes y responsables del pago. Pagina 3: continua articulado (Art 9-12) sobre restricciones de ubicacion de locales de expendio de alcohol, patentes temporales, informe de Sernatur, autorizaciones para fondas en Fiestas Patrias. No hay tablas de zonas ni coeficientes urbanisticos."
+ },
+ "d1097": {
+  "id": "d1097",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es una resolucion que deniega una solicitud de transparencia sobre los antecedentes de una modificacion del PRC que aun esta en tramite de aprobacion; no contiene ni promulga normas urbanisticas.",
+  "que_se_ve": "Pagina 1: Decreto Exento N 2927 de la Municipalidad de Lago Ranco (8 oct 2025), 'REF.: DENIEGA TOTALMENTE SOLICITUD DE INFORMACION N MU128T0001539', vistos y considerandos citando Ley 20.285 de Transparencia; se refiere a una solicitud ciudadana pidiendo 'Antecedentes de la Modificacion del Plan Regulador Comunal de Lago Ranco... Memoria Explicativa ano 2025'. Pagina 2: explica que la modificacion del PRC aun esta en tramite de revision de instancias regionales (SEREMI, CORE, Contraloria, Diario Oficial) y por eso se deniega el acceso por tratarse de antecedentes previos a una resolucion (causal art. 21 N1 letra b Ley 20.285). Es puramente un oficio de respuesta a solicitud de transparencia, sin articulado normativo."
+ },
+ "d1102": {
+  "id": "d1102",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto fija el reglamento de organizacion interna administrativa del municipio (estructura de direcciones, secciones de finanzas, egresos, cobranzas), no normas urbanisticas del PRC, pese a que el nombre de archivo sugiere 'departamento plan regulador'.",
+  "que_se_ve": "Pagina 1: Decreto Secc. 1a N 1947 de la Municipalidad de Las Condes (9 jun 2025): 'FIJA NUEVO REGLAMENTO DE ORGANIZACION INTERNA DE LA MUNICIPALIDAD DE LAS CONDES', con vistos que citan acuerdos de concejo y decretos previos sobre el Reglamento de Organizacion Interna. Pagina 40 (de 115): continua el articulado del reglamento describiendo funciones de la Seccion de Egresos y Seccion de Cobranzas (pagos, cheques, cobranza judicial de deudores morosos, convenios de pago). No hay contenido de zonificacion, coeficientes ni usos de suelo."
+ },
+ "d1109": {
+  "id": "d1109",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un oficio (Ord. Alc. 14/15) que remite el proyecto de Modificacion N11 al PRC de Las Condes a la SEREMI Minvu para asesoria tecnica previa; el propio texto aclara expresamente que esta modificacion NO cambia densidad, altura, coeficiente de constructibilidad ni coeficiente de ocupacion de suelo, es decir no aprueba normas nuevas, solo tramita revision tecnica.",
+  "que_se_ve": "Pagina 1: Ord. Alc. N 14/15 (8 ene 2020) de la Municipalidad de Las Condes dirigido al Seremi Metropolitano de Vivienda y Urbanismo: 'Envia de acuerdo al articulo 2.1.12 de la OGUC para opinion tecnica... el proyecto de adecuacion del Plan Regulador Comunal vigente al marco normativo... sin ajustes sustantivos de la normativa urbanistica vigente'. Pagina 3: continua enumerando ajustes (ej. simplificar art. 40 sobre usos de suelo, ajustar planos) y concluye explicitamente 'esta modificacion no considera cambios a las normas urbanisticas vigentes de densidad, altura, coeficiente de constructibilidad, coeficiente de ocupacion de suelo... por lo cual no requiere Evaluacion Ambiental Estrategica'. Firmado por el Alcalde Joaquin Lavin Infante."
+ },
+ "d1111": {
+  "id": "d1111",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "Es la Memoria Explicativa que contiene el Texto Refundido del Plan Regulador Comunal de Las Condes (Proyecto de Modificacion N8), con articulado detallado que fija normas urbanisticas concretas (antejardines, franjas inexcavadas, proyectos de densificacion). Se marca MEDIA porque es la memoria/proyecto de 2010 y no se confirmo en estas 2 paginas el decreto final de promulgacion, pero el contenido normativo esta presente y es extraible.",
+  "que_se_ve": "Pagina 1 (portada): 'MEMORIA EXPLICATIVA. PROYECTO DE MODIFICACION N8. TEXTO REFUNDIDO DEL PLAN REGULADOR COMUNAL DE LAS CONDES. JUNIO 2010', con timbre de recepcion de la Municipalidad de Las Condes (Departamento de Asesoria Urbana) 11 jun 2010. Pagina 9: articulado real con normas urbanisticas: Articulo 21 (areas especiales, equipamiento, superficies de espacios privados), Articulo 22 (definicion de proyectos de densificacion segun tablas del art. 38), Articulo 23 (antejardin, diferencia maxima de nivel de 0.60 m entre espacio publico y privado), Articulo 25 (franjas inexcavadas: 'al menos 1 metro' y 'al menos 2 metros' de ancho). Hay articulado normativo real, no solo texto explicativo generico."
+ },
+ "d1114": {
+  "id": "d1114",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un oficio (Ord. Alc. 14/46) donde la Municipalidad de Las Condes se desiste de un recurso de reposicion y solicita aclaracion a la SEREMI Minvu sobre difusion de la exposicion publica de la Modificacion N11 al PRC; es correspondencia procedimental sobre publicidad del tramite, sin articulado de normas urbanisticas.",
+  "que_se_ve": "Pagina 1: Ord. Alc. N 14/46 (17 feb 2022) de la Municipalidad de Las Condes a la Seremi Metropolitana de Vivienda y Urbanismo: 'Solicita aclaracion de Ord. N285... la Municipalidad de Las Condes viene en desistirse de su Recurso de Reposicion... solicitando en su reemplazo, la aclaracion del Ord. N285'; contexto: exposicion publica del proyecto de Modificacion N11 al PRC y su publicacion en el Portal Unico de Informacion. Pagina 3: continua argumentando sobre fechas de inicio formal del tramite (Decreto Alcaldicio Secc 1a N6559 de 2017) y su relacion con la Ley 21.078 (art. 28 octies LGUC), concluye solicitando formalmente la aclaracion; firmado por el Alcalde (S) Juan Ignacio Jaramillo Michaelis. Puro tramite administrativo/correspondencia, sin tablas normativas."
+ },
+ "d1116": {
+  "id": "d1116",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es la Memoria Explicativa del Proyecto de Modificacion N.10 al PRC de Las Condes (Las Condes, dic 2020). La pagina de cuerpo muestra mapas de 'situacion anterior' vs 'situacion actual' del terreno y texto explicando que las nuevas condiciones urbanisticas que asigna la modificacion permiten aumentar la capacidad edificatoria (coeficiente de constructibilidad/densidad) del predio Santa Zita N.9402 hasta 60 unidades. Documenta el contenido normativo de una modificacion de PRC.",
+  "que_se_ve": "P1 (portada): logo Municipalidad de Las Condes, titulo 'MEMORIA EXPLICATIVA. PROYECTO DE MODIFICACION N.10 AL PLAN REGULADOR DE LA COMUNA DE LAS CONDES', area delimitada por Av. Paul Harris/Sta. Zita/Incahuasi/Punitaqui, fecha diciembre 2020. P6: dos pianos comparativos (situacion anterior EAb3/EAm2/Ee1 vs situacion actual con sector que se modifica marcado) y parrafo explicando aumento de capacidad edificatoria del terreno por la nueva normativa."
+ },
+ "d1121": {
+  "id": "d1121",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Seccion 1a N.729 de Las Condes (25 ene 2011) que aprueba/da curso al Texto Refundido de la Modificacion N.8 al PRC. La pagina de cuerpo (p12 de 37) contiene articulado normativo real: modifica el Art.38 sobre coeficiente de constructibilidad (incremento hasta 10% por cableado subterraneo) y agrega tabla de antejardines variables por via (nombre de via, incremento en metros, costado).",
+  "que_se_ve": "P1: encabezado 'Secretaria Comunal de Planificacion - Departamento de Asesoria Urbana', 'DECRETO SECCION 1a N.: 729', Las Condes 25 ENE 2011, extenso 'VISTOS Y TENIENDO PRESENTE' relatando la tramitacion legal del proyecto de Modificacion N.8 al Plan Regulador Comunal (audiencias publicas, acuerdos de concejo, exposicion publica). P12: texto normativo articulado 'Modificase el articulo 38...' sobre coeficiente de constructibilidad y una tabla extensa de antejardines por nombre de via con columnas Desde/Hasta/Incremento/Costado."
+ },
+ "d1122": {
+  "id": "d1122",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Memoria de la Modificacion N.7 al PRC de Las Condes (agosto 2009). El cuerpo describe el objetivo normativo de la modificacion: ampliacion del area UM de usos de Comercio y Equipamientos de Escala Metropolitana Instituciones para un sector delimitado, es decir cambia usos de suelo permitidos en una zona.",
+  "que_se_ve": "P1 (portada): sello 'PROYECTO INFORMADO MEDIANTE OF. ORD N.3816... SECRETARIA MINISTERIAL METROPOLITANA DE VIVIENDA Y URBANISMO', titulo 'MEMORIA MODIFICACION N.7 PLAN REGULADOR COMUNAL DE LAS CONDES', agosto 2009, sello municipal Asesoria Urbana. P2: seccion '1.- GENERALIDADES' (historial de modificaciones previas N.2 a N.6) y '2.- OBJETIVO DE LA MODIFICACION' detallando 2.1 Ampliacion del area UM Usos Comercio y Equipamientos de Escala Metropolitana, con sello 'ES COPIA FIEL DEL ORIGINAL' fechado 14 ENE 2010."
+ },
+ "d1123": {
+  "id": "d1123",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Memoria Explicativa de la Rectificacion al Proyecto de Modificacion N.8 al PRC (publicado en Diario Oficial 28 ene 2011), enero 2014 - corrige el Decreto Alcaldicio N.729 (=d1121). Es un cambio acotado (enmienda) que incluye correccion sustantiva de normas: fija antejardin de 3 metros aplicable a pasajes y areas verdes.",
+  "que_se_ve": "P1 (portada): logo Las Condes, titulo 'Memoria Explicativa. Rectificacion al Proyecto de Modificacion N.8 al Plan Regulador Comunal publicado en Diario Oficial de fecha 28 de enero de 2011', Enero de 2014. P4: texto legal citando Ley 19.880 e informe de la Contraloria/Division Juridica MINVU que autoriza la rectificacion, y detalle de correcciones al Decreto Alcaldicio N.729 (fechas de planos seccionales PS-U-M, PS-U-V, etc., y correccion sustantiva del numeral 4 sobre antejardin de 3 metros para pasajes y areas verdes)."
+ },
+ "d1126": {
+  "id": "d1126",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Ambas paginas muestran gestion administrativa interna: una hoja de ruta/providencia de Oficina de Partes dirigida a la Alcaldesa (enero 2024) y un listado de 'Providencias' que dan cuenta del ingreso de correos electronicos y presentaciones de vecinos/propietarios/representantes sobre un proceso de consulta (abril 2022). No se observa articulado normativo ni cuadros de zonificacion en las paginas muestreadas; parece ser un Ordinario de SEREMI que traslada/resume observaciones ciudadanas, no un decreto que aprueba normas.",
+  "que_se_ve": "P1: formulario interno 'MUNICIPALIDAD DE LAS CONDES - OFICINA DE PARTES', Providencia N.190, 10 ENE 2024, dirigida a 'SRA. ALCALDESA', con lista de unidades municipales y casillas de instruccion (Decretar, Tomar Conocimiento, etc.), marcada 'Direccion de Asesoria Urbana'. P9: listado consecutivo de 'Providencia N.1595... 1624 de la Oficina de Partes' dando cuenta del ingreso de correos electronicos y presentaciones de distintos vecinos, representantes de inmobiliarias (Cencosud, Hotel Manquehue) y comunidades sobre observaciones a un proyecto, abril 2022."
+ },
+ "d1127": {
+  "id": "d1127",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina del Diario Oficial (13 nov 2013) con decreto municipal de Las Condes que asigna de manera complementaria al Decreto Alcaldicio Seccion 1a N.3360/2010 nueva normativa urbanistica para el poligono Cerro Apoquindo, incluyendo dos tablas normativas explicitas: 'Condiciones de Edificacion' y 'Condiciones de Uso de Suelo' (zona, categoria, situacion anterior/que se aprueba).",
+  "que_se_ve": "Pagina de Diario Oficial N.40.705, miercoles 13 de noviembre de 2013, seccion Municipalidades, 'MUNICIPALIDAD DE LAS CONDES - ASIGNA DE MANERA COMPLEMENTARIA AL DECRETO ALCALDICIO SECCION 1a N.3.360, DE 2010, NUEVA NORMATIVA URBANISTICA PARA POLIGONO QUE INDICA', con relato de vistos/considerandos y dos tablas: '1. Condiciones de Edificacion' y '2. Condiciones de Uso de Suelo' para el Area Verde Cerro Apoquindo (categoria Intercomunal y Comunal, situacion anterior PHCLC vs situacion que se aprueba PRMS/Ordenanza Local)."
+ },
+ "d1128": {
+  "id": "d1128",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto solo INICIA el procedimiento administrativo de la Modificación N°10 (cita a audiencia pública, exposición al público por 30 días, publicación de avisos). No aprueba ni promulga norma alguna; es puro trámite de inicio de proceso, calza exacto con el ejemplo de la taxonomía.",
+  "que_se_ve": "Decreto Alc. Secc. 1a N°8494, Las Condes, 12-dic-2017. Vistos mencionan que se requiere modificar antejardín mínimo, coeficiente de constructibilidad, altura máxima y densidad máxima del polígono Paul Harris-Santa Zita-Incahuasi-Punitaqui. Parte decretoria: '1. INICIESE el procedimiento administrativo...', '3. CÍTASE a audiencia pública', '5. EXPÓNGASE... por 30 días', '8. PUBLÍQUESE'. Firma alcalde Joaquín Lavín Infante. No hay tablas normativas ni texto aprobatorio."
+ },
+ "d1129": {
+  "id": "d1129",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "La página 8 muestra tablas normativas reales (antejardines por calle: Desde/Hasta/Incremento/Costado) que rectifican el artículo 38 letra b) del PRC. Un decreto posterior (D.1132/2015) describe explícitamente a este Decreto 966/2014 como el que 'rectifica errores y enmienda imperfecciones' en la Ordenanza Local.",
+  "que_se_ve": "Decreto Alc. Secc. 1a N°966, Las Condes, 21-feb-2014. Página 1: largo listado de vistos con historial completo de decretos del PRC de Las Condes (Modificaciones 2, 3, planos seccionales por zona, etc.). Página 8: tablas 'Debe decir / Donde dice' con columnas Nombre de la Vía, Desde, Hasta, Incremento, Costado(s) — rectificación de antejardines para calles como Vaticano, Vicuña, Nevería, Andrés Bello, Av. Francisco Bilbao, Av. Vitacura, Boccaccio."
+ },
+ "d1130": {
+  "id": "d1130",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto deroga (deja sin efecto) numerales del Decreto 966/2014 sin fijar norma sustitutiva alguna, y solo ordena iniciar estudios técnicos para un futuro proyecto de modificación. Coincide literalmente con el ejemplo 'deja sin efecto' / inicio de proceso de la taxonomía, sin contenido normativo propio.",
+  "que_se_ve": "Decreto Alc. Secc. 1a N°1022, Las Condes, 14-feb-2017. Vistos citan Decreto 729/2011 (Modif. N°8), Decreto 966/2014 y Dictamen Contraloría N°85.862/2016. Decreta: '1. Deróguense los numerales 1.2 a 1.31.7... del Decreto 966... quedando vigentes solo los numerales 1, 1.1, 2 y 3'; '2. Inícense los estudios técnicos ambiental-estratégico, de capacidad vial y sanitaria, tendientes a iniciar un proyecto de modificación al PRC'. No hay tablas ni cuadros normativos."
+ },
+ "d1131": {
+  "id": "d1131",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El decreto aprueba explícitamente un Plano Seccional y reemplaza en el artículo 38 la tabla normativa aplicable al área de edificación EAm4 (sector Hermanos Cabot), fijando la tabla A) como aplicable en reemplazo de la tabla C). Es un acto de modificación normativa directa del PRC.",
+  "que_se_ve": "Decreto Sección 1a N°1071, Las Condes, 05-feb-2008 (imagen algo oscura/fotocopiada pero legible). 'APRUÉBASE el Plano Seccional Sector Hermanos Cabot'. Artículo único: modifica el PRC de Las Condes reemplazando en el área EAm4 el inciso que antecede a la tabla C). Página 2: 'Reemplázase en el artículo 38, en el Área EAm4: Edificación Aislada media N°4... se aplicará la tabla A)'. Firma Alcalde Subrogante."
+ },
+ "d1132": {
+  "id": "d1132",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El decreto (visible en continuación de página siguiente no capturada, pero cuyo inicio del articulado se aprecia) elimina del cuadro de 'Vialidad Comunal' (artículo 45 de la Ordenanza Local) afectaciones a utilidad pública de vías específicas, en cumplimiento de la Ley 20.791 sobre caducidad de afectaciones. Es una modificación normativa concreta de la ordenanza.",
+  "que_se_ve": "Decreto Alc. Secc. 1a N°1132, Las Condes, 24-abr-2015. Página 1: listado extenso de vistos con todo el historial normativo del PRC de Las Condes. Página 2 (numerada como p.2 del documento, contenido de vistos que continúa): referencias a Decreto 173/2010 (Modif. N°7), Decreto 3360/2010 (afectaciones a utilidad pública), Decreto 729/2011 (Modif. N°8), Ley 20.791 sobre caducidad de afectaciones; termina con inicio del decreto: '1. Elimínase en el artículo 45, de la Ordenanza Local del PRC, cuadro de Vialidad Comunal, la afectación a utilidad pública, para la siguiente...' (tabla cortada al pie de página)."
+ },
+ "d1133": {
+  "id": "d1133",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Los vistos narran el trámite completo de la Modificación N°7 al PRC (audiencias públicas, acuerdo del Concejo que aprueba el Texto Resolutivo, calificación ambiental favorable, informe técnico SEREMI e Informe Jurídico N°1882), culminando en la facultad del alcalde para decretar. Es con altísima probabilidad el decreto que promulga la Modificación N°7, aunque las 2 páginas capturadas no alcanzan a mostrar la cláusula operativa 'DECRETO:' final (el documento tiene 4 páginas en total).",
+  "que_se_ve": "Decreto Sección 1a N°173, Las Condes, 11-ene-2010. Vistos extensísimos (2 páginas completas) narrando cronológicamente desde el Acuerdo N°30/2006 que inicia el proceso de la Modificación N°7, pasando por audiencias públicas, observaciones, Resolución Exenta N°315 de calificación ambiental favorable, Acuerdo N°84/2008 del Concejo que aprueba el Texto Resolutivo de la Modificación N°7, Ordinario N°3816/2009 de la SEREMI que informa favorablemente, e Informe Jurídico N°1882/2009. No se alcanza a ver el texto del articulado aprobatorio en las páginas capturadas (p.1 y p.2 de 4)."
+ },
+ "d1140": {
+  "id": "d1140",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "Los 'Vistos' citan la Ley 19.939 y Ley 20.791 sobre desafectacion de utilidad publica, y mencionan explicitamente el precedente Decreto Alcaldicio 3.360/2010 'que asigna a 60 vias de la Comuna de Las Condes, nuevas normas urbanisticas de edificacion y usos de suelo', ademas del Ordinario Alcaldicio 4/216 que solicita informe sobre 'las normas de edificacion y uso de suelo que corresponde asignar a las franjas de afectacion a utilidad publica'. El patron es identico al de d1145 (mismo tipo de decreto que si contiene tabla de reasignacion de normas). No se vio la seccion operativa 'DECRETO:' (paginas 3-6 no incluidas en el muestreo), por eso confianza MEDIA y no ALTA, pero el contenido apunta con fuerza a que es un decreto que asigna nuevas normas urbanisticas.",
+  "que_se_ve": "Pagina 1: encabezado Decreto Alc. Secc. 1a N 3709, Las Condes, 24 MAY 2018, con sello 'Oficina de Partes'; lista extensa de 'VISTOS' (7 items) sobre el PRC de Las Condes (Res. 8/95), Ley 19.939, Ley 20.331, MPRMS-99, Decreto 3.360/2010 que asigno normas urbanisticas a 60 vias, y Ley 20.791 sobre utilidad publica. Pagina 2: continuacion de 'VISTOS' (items 8-15) citando circulares DDU del MINVU y resoluciones de la Seremi Minvu sobre desafectacion de utilidad publica y asignacion de nueva normativa urbanistica a las franjas desafectadas."
+ },
+ "d1141": {
+  "id": "d1141",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto completo de una sola pagina que aprueba un Plano Seccional que fija la zonificacion y uso de suelo (zona UC2) para un poligono especifico de la comuna. Es un instrumento de planificacion territorial que modifica/detalla el PRC, cumpliendo la definicion de MODIFICACION_PRC.",
+  "que_se_ve": "Decreto Alc. Seccion 1a N 3904, Las Condes, 13 SEP 2007. Titulo 'Plano Seccional Nueva Las Condes'. Cuerpo: 'DECRETO: 1.- APRUEBASE el Plano Seccional Nueva Las Condes, que detalla la zona de uso de suelo UC2, para el area delimitada al norte por Av. Presidente Riesco, al oriente por Av. Manquehue, al sur por calle Cerro El Plomo y al poniente por Av. Alonso de Cordova, poligono ABCDA, graficado en el plano PS-UC2-NLC.' 2.- PUBLIQUESE. Firmado por el Alcalde y Secretario Municipal."
+ },
+ "d1142": {
+  "id": "d1142",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto completo de una sola pagina, gemelo del d1141, que aprueba otro Plano Seccional fijando zonificacion/uso de suelo (zona UC-2) para un poligono distinto. Mismo tipo de acto normativo urbanistico.",
+  "que_se_ve": "Decreto Alc. Seccion 1a N 3905, Las Condes, 13 SEP 2007. Titulo 'Plano Seccional Portal La Reina'. Cuerpo: 'DECRETO: 1.- APRUEBASE el Plano Seccional Portal La Reina para el poligono definido por calle Manuel Claro Vial (norte), Avda. Padre Hurtado (oriente), Avda. Francisco Bilbao (sur) y pasaje Enrique Bunster (poniente), que detalla el uso de suelo en la zona UC-2... graficado en el plano US-UC2-PLR.' 2.- PUBLIQUESE. Firmado por Alcalde y Secretario Municipal."
+ },
+ "d1143": {
+  "id": "d1143",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto completo de una sola pagina que aprueba el Plano Seccional de la Zona de Uso de Suelo Metropolitano (PS-U-M), instrumento que fija zonificacion y usos de suelo tras un proceso de exposicion publica y acuerdos del Concejo Municipal. Es claramente una modificacion/complemento normativo del PRC.",
+  "que_se_ve": "Decreto Secc. 1era N 4480, Las Condes, 28 DIC 2004. Vistos: necesidad de fijar con exactitud zonificacion y uso de suelo, trazados de calles segun Ordenanza del PRMS, exposicion publica del proyecto, acuerdos del Concejo N 97a-97i y N 106. DECRETO: 1. APRUEBASE el Plano Seccional de la Zona de Uso de Suelo Metropolitano, PS-U-M, conformado por texto resolutivo, memoria y plano. 2. PUBLIQUESE. Firmado por Alcalde Francisco de la Maza y Secretario Municipal Jorge Vergara."
+ },
+ "d1144": {
+  "id": "d1144",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto trata sobre el PLADECO (Plan de Desarrollo Comunal), que es un instrumento de gestion municipal/estrategico, no el Plan Regulador Comunal (PRC). No contiene normas urbanisticas de edificacion, uso de suelo, coeficientes ni zonificacion; solo prorroga la vigencia administrativa de un plan de desarrollo distinto al PRC.",
+  "que_se_ve": "Decreto Alc. Secc. 1a N 4498, Las Condes, 19 DIC 2025. Materia: 'ESTABLECE PRORROGA DE LA VIGENCIA DEL PLAN DE DESARROLLO COMUNAL DE LAS CONDES PERIODO 2022-2025'. Vistos y Considerando sobre el PLADECO vigente. DECRETO: 1. PRORROGASE la vigencia del PLADECO 2022-2025 por un ano adicional hasta el 31 dic 2026. 2. DEJASE ESTABLECIDO que el Plan no ha sufrido modificaciones. 3. PUBLIQUESE. Firmado por Alcaldesa Catalina San Martin Cavada y Secretaria Municipal (S) Olivia Zelaya Ely."
+ },
+ "d1145": {
+  "id": "d1145",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Contiene una tabla explicita de 'Condiciones de Usos de Suelo' que compara la 'Situacion Anterior' (Zona UEe3, uso de suelo Edificacion especial N3) con la 'Situacion que se aprueba' (Zona UEe2, uso de suelo Edificacion especial N2) para el area Cerro Apoquindo, ademas de asignar normativa urbanistica segun el articulo 40 del cuadro de usos de suelo UEe2. Es un cambio de zonificacion normativa clasico dentro del PRC.",
+  "que_se_ve": "Pagina 1: Decreto Alc. Secc. 1a N 4675, Las Condes, 05 NOV 2013. Vistos extensos sobre desafectacion de utilidad publica de areas verdes, Ley 19.939, Ley 20.331, proyecto MPRMS.94, y necesidad de otorgar nuevas condiciones urbanisticas al area verde intercomunal Cerro Apoquindo. Pagina 3: tabla '2. Condiciones de Usos de Suelo' con columnas Nombre del Area Verde / Categoria / Individualizacion del terreno / Situacion Anterior / Situacion que se aprueba, mostrando el cambio de zona UEe3 a UEe2 para Cerro Apoquindo; seguida de clausulas PUBLIQUESE y ARCHIVESE, firmado por Alcalde (S) Omar Saffie Lamas."
+ },
+ "d1134": {
+  "id": "d1134",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alc. Secc. 1a N 1755 (Las Condes, 6-may-2016) rectifica el Decreto Alcaldicio 1.132/2015 -que introdujo modificaciones al PRC de Las Condes-, corrigiendo en el cuadro normativo de vialidad (calle Fray Jorge) los valores de 'Distancia eje a L.O.' y 'Ancho Min. L.O.'. Contiene cuadros normativos reales (Ancho Min L.O., N de pistas, Distancia eje a L.O.), es decir modifica una norma urbanistica de vialidad del PRC.",
+  "que_se_ve": "P1: encabezado Municipalidad de Las Condes, Decreto Alc. Secc. 1a N 1755, 6 mayo 2016. Vistos citan el Decreto 1.132/2015 que modifica el PRC. Cuerpo: 'Rectifícase... los cuadros titulados Donde dice / Debe decir, la Distancia eje a L.O... resultando un Ancho Min. L.O. de 15 metros', con dos tablas de vialidad (columnas: N Cod, Nombre Via, Desde, Hasta, Clasificacion, Ancho Min L.O., N Pistas, Distancia Eje a L.O. por Norte/Sur/Oriente/Poniente). P2: continua el articulado (numerales 2 a 4), firma del Alcalde Francisco de la Maza Chadwick y Secretario Municipal, sello 'Direccion de Control'."
+ },
+ "d1135": {
+  "id": "d1135",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Secc. 1a N 2952 (Las Condes, 30-jul-2004) aprueba el texto resolutivo de la Modificacion N3 al PRC de Las Condes 'por la via de la enmienda'. La pagina 2 trae el titulo explicito 'Texto de Enmienda - Plan Regulador Comunal de Las Condes' y enmienda el inciso quinto del articulo 41 de la Ordenanza Local, agregando la calle La Pastora a la nomina de vias con actividades de funcionamiento nocturno y fijando un tope de carga de ocupacion de 250 personas. Es el acto que aprueba una enmienda normativa del PRC.",
+  "que_se_ve": "P1 (calidad baja, fotocopia oscura con anotacion manuscrita 'Publicado el 6-8-04 en Diario Oficial'): encabezado Alcaldia/Direccion Comunal de Planificacion, Depto Asesoria Urbana, Decreto Secc. 1a N 2952, Las Condes 30 jul 2004. Extenso 'Vistos' describiendo el proceso de enmienda N3 (audiencias publicas, CONAMA, Concejo Municipal) y 'Decreto: Apruebase el siguiente texto resolutivo de la Modificacion N3 al Plan Regulador Comunal de Las Condes, por la via de la enmienda'. P2: titulo 'Texto de Enmienda - Plan Regulador Comunal de Las Condes', articulo unico que enmienda el PRC (Resolucion 8/95) y el inciso quinto del articulo 41 de la Ordenanza, agregando calle La Pastora entre Lavalle e Isidora Goyenechea para funcionamiento nocturno, tope 250 personas de carga de ocupacion; sello Secretario Municipal."
+ },
+ "d1136": {
+  "id": "d1136",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Seccion 1a N 2974 (Las Condes, 5-jul-2007) aprueba el 'Plano Seccional Centro Comercial Mall Plaza', que segun el propio texto 'detalla la zonificacion del Plan Regulador Comunal, en el Area de edificacion Ee1 y la zona de uso del suelo UEe1'. Es el acto de aprobacion de un plano seccional que fija norma urbanistica (area de edificacion / zona de uso de suelo) para un sector especifico; aunque de una sola pagina, es el decreto que aprueba la norma, no un mero tramite.",
+  "que_se_ve": "Documento de 1 pagina: encabezado Las Condes Comuna Ciudad, sello 'Secretaria Municipal Copia Informativa Se Ha Dictado', Decreto Seccion 1a N 2974, Las Condes 5 jul 2007. Vistos citan el articulo 46 LGUC, el inicio de tramitacion del 'Plano Seccional Centro Comercial Mall Plaza' para fijar zonificacion y uso de suelo del area UEe1/Ee1 (entre Av. Cristobal Colon, Padre Hurtado, Rio Molina/Rio Congo y Talavera de la Reina). Decreto: '1.- Apruebase el Plano Seccional Centro Comercial Mall Plaza, que detalla la zonificacion del PRC, en el Area de edificacion Ee1 y la zona de uso del suelo UEe1'. Firma Alcalde y Secretario Municipal (S), sello Direccion de Control."
+ },
+ "d1137": {
+  "id": "d1137",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alc. Secc. 1a N 3084 (Las Condes, 3-may-2018) corrige el Decreto Alcaldicio 8.676/2017 -que a su vez deriva del Decreto 1.132/2015 que elimino en el articulo 45 de la Ordenanza Local del PRC (cuadro 'Vialidad Comunal') la afectacion a utilidad publica de ciertas vias-. Rectifica nombres de calles afectadas (Alcantara, y agrega calle Fray Jorge) dentro de ese cuadro normativo de vialidad del PRC. Es una modificacion/rectificacion de norma urbanistica de vialidad.",
+  "que_se_ve": "P1: encabezado Direccion Juridica/Asesoria Urbana Las Condes, sello 'Oficina de Partes', Decreto Alc. Secc. 1a N 3084, Las Condes 3 mayo 2018. Vistos citan Ley 20.791 (afectaciones de utilidad publica de PRC), Decreto 1.132/2015 que elimino en el art. 45 de la Ordenanza Local del PRC del cuadro 'Vialidad Comunal' la afectacion de ciertas vias, Dictamenes de Contraloria, y Decreto 8.676/2017. Decreto: 'Corrijase el Decreto Alcaldicio Secc. 1a N 8.676/2017: a) Rectificase... Calle Alcantara entre Isabel la Catolica y Avda. Francisco Bilbao; b) Agregase... la Calle Fray Jorge entre Avda. Camino la Posada y calle Camino la Vina'. P2: cierre '5. Archivese...', firmas Alcalde y Secretario Municipal con sellos oficiales."
+ },
+ "d1138": {
+  "id": "d1138",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alc. Secc. 1a N 3360 (Las Condes, 11-ago-2010) sobre actualizacion/rectificacion de materias de vialidad tanto en la Ordenanza como en los planos constitutivos del PRC (referencia a MPRMS-99). La pagina de cuerpo (p4) muestra el 'Listado de Vias' completo, con columnas de situacion anterior y propuesta que incluyen Area de Edificacion y Zona de Uso de Suelo por tramo de calle (codigos UV0, UV1, UV2, UC2, EAa1, EAb2, etc.) -es decir, contiene y modifica el cuadro normativo de zonificacion asociado a la vialidad comunal del PRC.",
+  "que_se_ve": "P1: encabezado Las Condes, sello 'Secretaria Municipal Copia Informativa Se Ha Dictado', Decreto Alc. Secc. 1a N 3360, Las Condes 11 ago 2010. Vistos y considerando sobre el articulo 59 LGUC, Ley 19.939, Ley 20.331 (prorroga de declaratorias de utilidad publica) y la modificacion MPRMS-99 'Actualizacion de la Vialidad Metropolitana' aprobada por el Gobierno Regional Metropolitano. P4 (cuerpo, ~1/3 del documento): tabla extensa 'LISTADO DE VIAS' con columnas Nombre/Tramo, Situacion Anterior (perfil, categoria, tipo, orientacion) y Situacion Propuesta (sub-tramo, Area de Edificacion N/S/O/P, Zona de Uso de Suelo N/S/O/P) para calles como Alcides de Gasperi, Alcantara, Avenida Plaza, Flor de Azucena, Badajoz, con codigos de zona UVO, UV1, UV2, UC2, EAa1, EAb2, etc."
+ },
+ "d1139": {
+  "id": "d1139",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto Secc. 1a N 3632 (Las Condes, 22-may-2018) 'INICIESE el procedimiento de Evaluacion Ambiental Estrategica relativo al Proyecto de Modificacion N10 del PRC de Las Condes'. Es literalmente el acto de INICIO de un tramite (EAE previa) para una futura modificacion; aunque menciona que la Modificacion N10 versara sobre antejardin minimo, coeficiente de constructibilidad, altura maxima y densidad maxima, este decreto en si mismo no aprueba ni promulga ninguna norma urbanistica, solo abre el procedimiento administrativo. Coincide exactamente con la definicion de TRAMITE_ADMINISTRATIVO ('inicio de proceso...').",
+  "que_se_ve": "P1: Municipalidad de Las Condes, Alcaldia, sello 'Oficina de Partes', Decreto Secc. 1a N 3632, Las Condes 22 may 2018. Vistos citan el Decreto Alc. Secc. 1a N 8.494/2017 que inicio el procedimiento del Proyecto de Modificacion N10 al PRC (area Av. Paul Harris, Santa Zita, Incahuasi, Punitaqui, poligono A-B-C-D-A) 'referidas, entre otras, al antejardin minimo, coeficiente de constructibilidad, altura de construccion maxima y densidad maxima'; ademas cita normativa de vivienda social y de Evaluacion Ambiental Estrategica (Ley 19.300). P2: Decreto propiamente tal: '1. INICIESE el procedimiento de Evaluacion Ambiental Estrategica relativo al Proyecto de Modificacion N10...'; '2. TENGASE como parte integrante... el Anexo Comunica Inicio...'; '3. REMITASE...'; '4. PUBLIQUESE un extracto...'. Firma Alcalde Subrogante y Secretario Municipal. No hay tablas ni cuadros normativos, solo texto de tramite."
+ },
+ "d1177": {
+  "id": "d1177",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Portada dice literalmente 'ORDENANZA LOCAL PLAN REGULADOR PEÑALOLEN', y la pagina 3 es el cuerpo articulado (Decreto MINVU N.55, 28-abril-1989) con capitulos de macroareas, zonificacion, restricciones y un listado extenso de zonas (R.1, R.2, R.3, C.C., S.H.1, S.H.2, I.E., E.Q., Z.1...). Es el texto refundido/modificatorio completo de la ordenanza local del PRC de Penalolen.",
+  "que_se_ve": "Pagina 1: portada mecanografiada 'ORDENANZA LOCAL PLAN REGULADOR PEÑALOLEN', Ministerio de Vivienda y Urbanismo, Decreto N.55 del 28 de abril de 1989 que 'modifica plan intercomunal de santiago y aprueba plan regulador comunal de penalolen', con articulos 1 a 6 sobre limite urbano y descripcion de puntos/tramos. Pagina 3: continuacion del articulado (Art. 27 a 29) con capitulos de Restricciones (puertos aereos, quebradas, cauces, suelo agricola, pendientes, inundacion) y el inicio del listado de Zonas (Zona R.1, R.2, R.3, C.C., S.H.1, S.H.2, Areas de Extension Zona Z.1)."
+ },
+ "d1186": {
+  "id": "d1186",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Ficha normativa completa de una zona especial del PRC de Penalolen: 'ZONA A.R.1 - RESTRICCION DE LOS PUERTOS AEREOS', con tabla de usos permitidos/excluidos y tabla de 'CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION' con superficie predial minima, frente predial, ocupacion maxima de suelo, coeficiente maximo de constructibilidad, densidad, sistema de agrupamiento (Aislado), rasantes, altura maxima de edificacion y antejardin minimo.",
+  "que_se_ve": "Pagina unica titulada 'AREAS ESPECIALES. ZONA A.R.1 RESTRICCION DE LOS PUERTOS AEREOS'. Contiene tabla de usos permitidos/excluidos por tipo de equipamiento y escala, y tabla de condiciones de subdivision predial y edificacion para Vivienda/Industria/Equipamiento con columnas: superficie predial minima, frente predial minimo, ocupacion maxima de suelo, coeficiente maximo de construccion, densidad, sistema de agrupamiento, rasantes/distanciamiento, altura maxima de edificacion, antejardin minimo, estacionamientos."
+ },
+ "d1187": {
+  "id": "d1187",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Ficha normativa de 'ZONA A.R.3 - PRESERVACION DEL MEDIO AMBIENTE NATURAL Y CULTURAL' con tabla de condiciones de subdivision predial y edificacion: superficie predial minima 20.000 m2, frente predial minimo 100 m, ocupacion maxima de suelo 2.5%, coeficiente maximo de constructibilidad 0.025, sistema de agrupamiento Aislado, antejardin minimo 10 m.",
+  "que_se_ve": "Pagina unica 'ZONA A.R.3. PRESERVACION DEL MEDIO AMBIENTE NATURAL Y CULTURAL' con tabla de usos permitidos/excluidos y tabla de condiciones de subdivision predial y edificacion con valores numericos concretos (superficie predial minima 20.000 m2, ocupacion 2.5%, coeficiente 0.025, sistema aislado, antejardin 10 m)."
+ },
+ "d1188": {
+  "id": "d1188",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Ficha normativa de 'Zona CC' con usos permitidos/excluidos por escala y dos bloques de condiciones de subdivision predial y edificacion (equipamiento escala regional/interurbana y escala comunal/vecinal): superficie predial minima, frente predial, ocupacion maxima de suelo, coeficiente maximo de constructibilidad, sistema de agrupamiento, rasantes, altura de edificacion, antejardin minimo.",
+  "que_se_ve": "Pagina unica titulada 'Zona CC' con tabla de usos permitidos/excluidos (equipamiento por escala regional/comunal/vecinal) y dos listados de 'Condiciones de Subdivision Predial y de Edificacion' -para equipamiento escala regional e interurbana y para escala comunal y vecinal- con valores de superficie predial minima (5000 m2 y 2000 m2), ocupacion de suelo (10% y 14%), coeficiente de constructibilidad (0.20 y 0.28), sistema aislado y antejardin 10 m."
+ },
+ "d1189": {
+  "id": "d1189",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Ficha normativa 'Zona E1 - Zona de Equipamiento Intercomunal' con tabla extensa de usos de suelo permitidos por escala (intercomunal/comunal/vecinal) y en la pagina 2 'Normas Especificas' con superficie predial minima 800 m2, sistema de agrupamiento Aislado, coeficiente de ocupacion de suelo 0.3-0.4, coeficiente de constructibilidad 0.8-2.0, altura maxima 9-15 m, densidad bruta maxima 50 hab/ha, distanciamiento y antejardin, tanto para vivienda como para equipamiento.",
+  "que_se_ve": "Pagina 1: 'Zona E1 Zona de Equipamiento Intercomunal', usos de suelo permitidos (vivienda hasta 30%, tabla extensa de equipamiento por escala intercomunal/comunal/vecinal: salud, educacion, seguridad, culto, cultura, areas verdes, deporte, comercio, servicios). Pagina 2: 'Normas Especificas' con dos tablas (Para vivienda / Para equipamiento) listando superficie predial minima, frente predial, sistema de agrupamiento, coeficiente de ocupacion de suelo, coeficiente de constructibilidad, altura maxima de edificacion, densidad bruta maxima, rasante, distanciamiento y antejardin."
+ },
+ "d1190": {
+  "id": "d1190",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Ficha normativa 'Zona E1a' con tabla de usos permitidos (vivienda y equipamiento completo por tipo/actividad) y en la pagina 2 tablas de 'Condiciones de Subdivision Predial y de Edificacion' separadas para vivienda y equipamiento: superficie predial minima 800 m2, sistema de agrupamiento Aislado, coeficiente de ocupacion de suelo 0.3-0.4, coeficiente de constructibilidad 0.8-2.0, altura maxima 9-15 m, densidad bruta maxima 50 hab/ha, distanciamiento y antejardin (5 m y 25 m).",
+  "que_se_ve": "Pagina 1: 'Zona E1a', Usos de Suelo, Usos Permitidos: Vivienda y tabla extensa de Equipamiento por tipo/actividad (salud, educacion, seguridad, culto y cultura, social, deporte, esparcimiento, comercio, servicios). Pagina 2: continuacion de tabla de servicios/talleres artesanales, Areas Verdes, y 'CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION' con 'Normas Especificas para Vivienda' y 'Normas Especificas para Equipamiento' -superficie predial minima 800 m2, sistema aislado, coeficiente de ocupacion de suelo, coeficiente de constructibilidad, altura maxima de edificacion, densidad bruta maxima, rasante, distanciamiento y antejardin (5 m para vivienda, 25 m para equipamiento)."
+ },
+ "d1191": {
+  "id": "d1191",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Cuadro normativo completo de la Zona E2: usos de suelo permitidos, tabla de equipamiento por clase, y normas especificas (superficie predial minima, sistema de agrupamiento, coeficiente de ocupacion de suelo 0.3, coeficiente de constructibilidad 0.6, altura maxima 2 pisos/7.50m, densidad 70 hab/Ha, rasante, distanciamiento, antejardin 5m, estacionamientos).",
+  "que_se_ve": "Pagina 1: titulo 'Zona E2 Zona Mixta Residencial, Equipamiento Menor y Areas Verdes', lista de usos permitidos y tabla de equipamiento por clase (Salud, Educacion, Seguridad, Culto y Cultura, Social, Deportes, Comercio, Servicios). Pagina 2 (numerada '2'): continuacion con tabla de normas especificas de edificacion (adosamiento, COS 0.3, CC 0.6, altura, densidad 70 hab/Ha, rasante, distanciamiento, antejardin 5m, estacionamientos, superficie edificada minima) y normas para areas verdes."
+ },
+ "d1192": {
+  "id": "d1192",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina unica pero con cuadro normativo completo para tres escalas de equipamiento (regional-interurbana-comunal, vecinal) incluyendo superficie predial minima, ocupacion maxima de suelo, coeficiente de constructibilidad, sistema de agrupamiento, antejardin y estacionamientos.",
+  "que_se_ve": "Titulo 'Zona EQ', usos permitidos (vivienda, equipamiento, transporte), tabla de usos excluidos por tipo/escala (Regional-Interurbana/Comunal/Vecinal), y tres bloques de condiciones de subdivision predial y edificacion (para vivienda, equipamiento escala regional/interurbana/comunal, equipamiento escala vecinal) con valores numericos de COS, coeficiente de constructibilidad, antejardin, etc."
+ },
+ "d1193": {
+  "id": "d1193",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Cuadro normativo detallado por escala (regional-interurbana, comunal, vecinal) para Zona I.E. con superficie predial minima, frente predial, ocupacion maxima de suelo, coeficiente de constructibilidad, sistema de agrupamiento, altura, antejardin y estacionamientos.",
+  "que_se_ve": "Titulo 'Zona I.E.', usos permitidos (equipamiento, industria y almacenamiento inofensivo, transporte), usos excluidos (vivienda salvo cuidador), tabla de equipamiento por tipo/escala, y cuatro bloques de condiciones de subdivision predial y edificacion con parametros numericos (ocupacion 50-70%, coeficiente de constructibilidad 1.0-1.5, antejardin 5m)."
+ },
+ "d1194": {
+  "id": "d1194",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "Contiene tabla de usos de suelo permitidos por clase/actividad de la Zona PE, propia de una ordenanza local; no muestra en esta pagina los coeficientes numericos (COS, CC, altura) pero es evidente que forma parte de la misma serie normativa (zona_e2, zona_eq, zona_ie, zona_sm1, zona_sm2) que si los contiene, por lo que se asume continuidad del mismo cuerpo normativo.",
+  "que_se_ve": "Titulo 'ZONA PE', tabla 'USOS DE SUELO PERMITIDOS' con columnas Clase/Actividad (Cientifico, Educacion, Culto y Cultura, Deporte y Recreacion). No se ve cuadro de coeficientes en esta unica pagina disponible."
+ },
+ "d1195": {
+  "id": "d1195",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Cuadro normativo completo para Zona SM-1 con superficie predial minima, frente predial, ocupacion maxima de suelo, coeficiente de constructibilidad (2.8 y 1.20-1.4), densidad (385 hab/ha), sistema de agrupamiento, antejardin y estacionamientos, desagregado por vivienda y por escala de equipamiento.",
+  "que_se_ve": "Titulo 'Zona SM - 1', usos permitidos y excluidos con tabla de equipamiento por escala, y cuatro bloques de condiciones de subdivision predial y edificacion (vivienda, equipamiento escala regional/interurbana, comunal, vecinal) con valores numericos completos de COS, CC, densidad, antejardin, etc."
+ },
+ "d1196": {
+  "id": "d1196",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Cuadro normativo completo para Zona SM-2, analogo al de SM-1, con superficie predial minima, ocupacion maxima de suelo, coeficiente de constructibilidad, densidad 385 hab/ha, sistema de agrupamiento, antejardin y estacionamientos para vivienda, equipamiento (comunal, regional/interurbana, vecinal) e industria inofensiva.",
+  "que_se_ve": "Titulo 'Zona SM - 2', usos permitidos y excluidos con tabla de equipamiento por escala, y cinco bloques de condiciones de subdivision predial y edificacion (vivienda, equipamiento comunal, regional/interurbana, vecinal, industria y almacenamiento inofensivo) con valores numericos completos."
+ },
+ "d1197": {
+  "id": "d1197",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina 1 titulada 'ZONA DE EQUIPAMIENTO INTERCOMUNAL: Z-E' con cuadro de usos de suelo permitidos por escala; pagina 2 tiene el cuadro normativo completo 'ZONA DE EQUIPAMIENTO INTERCOMUNAL Z-E d=700 hab/ha' con superficie predial, frente, ocupacion de suelo, coeficiente de constructibilidad, densidad, sistema de agrupamiento, altura maxima, rasante, antejardin y estacionamientos.",
+  "que_se_ve": "Ficha de zona del PRC de Penalolen: p1 titulo 'ZONA DE EQUIPAMIENTO INTERCOMUNAL: Z-E' con tabla de usos permitidos por tipo/escala (salud, educacion, comercio, etc); p2 tabla normativa con columnas Densidad, Sistema de Agrupamiento, Subdivision predial minima, Frente minimo, %Ocup de suelo, %Area libre, Coef de construccion, Altura maxima, Distanciamiento, Rasante, Adosamiento, Cierros, Antejardin, para Vivienda Unifamiliar/Colectiva y Equipamiento Intercomunal/Comunal/Vecinal."
+ },
+ "d1198": {
+  "id": "d1198",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina unica titulada 'AREAS DE EXTENSION URBANA - Primera Prioridad - ZONA Z.1' con cuadro completo de usos permitidos/excluidos y cuadro de condiciones de subdivision predial y edificacion (superficie predial, frente, ocupacion, coeficiente de constructibilidad, densidad, sistema de agrupamiento, rasantes, altura maxima, antejardin, estacionamientos).",
+  "que_se_ve": "Ficha normativa de zona: titulo 'AREAS DE EXTENSION URBANA Primera Prioridad. ZONA Z.1', tabla de usos permitidos y usos excluidos por escala, y tabla 'CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION' con parametros urbanisticos completos para Vivienda y Equipamiento por escala."
+ },
+ "d1199": {
+  "id": "d1199",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina 1 titulada 'HABITACIONAL MIXTA - N.1: ZHM-1' con cuadro de usos permitidos por escala; pagina 2 cuadro normativo 'ZONA HABITACIONAL MIXTA - N.1 Z-HM-1 d=700 hab/ha' con densidad, coeficiente de constructibilidad, altura maxima, sistema de agrupamiento, antejardin, etc.",
+  "que_se_ve": "Ficha de zona ZHM-1 del PRC de Penalolen: p1 tabla de usos de suelo permitidos por tipo/escala y usos prohibidos; p2 tabla normativa completa con Densidad, Sistema de Agrupamiento, Subdivision predial, Frente minimo, %Ocup suelo, %Area libre, Coeficiente de construccion, Altura maxima, Distanciamiento, Rasante, Adosamiento, Cierros, Antejardin para Vivienda Unifamiliar/Colectiva y Equipamiento."
+ },
+ "d1200": {
+  "id": "d1200",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Misma estructura que ZHM-1: p1 'HABITACIONAL MIXTA - N.2: ZHM-2' con usos permitidos/prohibidos; p2 cuadro normativo 'ZONA HABITACIONAL MIXTA - N.2 Z-HM-2 d=300 hab/ha' con todos los parametros de edificacion.",
+  "que_se_ve": "Ficha de zona ZHM-2: p1 tabla usos de suelo permitidos por escala y usos prohibidos; p2 tabla normativa con Densidad bruta (250-300 h/h), Sistema de Agrupamiento (Aislado/Pareado/Continuo), Subdivision predial, Frente minimo, %Ocupacion suelo, %Area libre, Coeficiente de construccion, Altura maxima (2 pisos+mansarda hasta 9 pisos), Rasante, Antejardin, Cierros."
+ },
+ "d1201": {
+  "id": "d1201",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Misma estructura: p1 'HABITACIONAL MIXTA - N.3: ZHM-3' con usos permitidos; p2 cuadro normativo 'ZONA HABITACIONAL MIXTA - N.3 Z-HM-3 d=200 hab/ha' con parametros de edificacion completos.",
+  "que_se_ve": "Ficha de zona ZHM-3: p1 tabla de usos de suelo permitidos por tipo/escala y usos prohibidos; p2 tabla normativa con Densidad bruta (125-200 h/h), Sistema de Agrupamiento, Subdivision predial minima, Frente minimo, %Ocupacion suelo, Coeficiente de construccion, Altura maxima, Distanciamiento, Rasante, Adosamiento, Cierros, Antejardin."
+ },
+ "d1202": {
+  "id": "d1202",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Misma estructura: p1 'HABITACIONAL MIXTA - N.4: ZHM-4' con usos permitidos; p2 cuadro normativo 'ZONA HABITACIONAL MIXTA - N.4 Z-HM-4 d=150 hab/ha' con parametros de edificacion completos.",
+  "que_se_ve": "Ficha de zona ZHM-4: p1 tabla de usos de suelo permitidos por tipo/escala; p2 tabla normativa con Densidad bruta (100-150 h/h), Sistema de Agrupamiento, Subdivision predial, Frente minimo, %Ocupacion de suelo, Coeficiente de construccion, Altura maxima (hasta 4 pisos), Distanciamiento, Rasante, Antejardin, Cierros."
+ },
+ "d1146": {
+  "id": "d1146",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto solo ordena INICIAR el estudio de adecuaciones al instrumento de planificacion territorial (nombra comision, dispone contratacion de asesorias externas, fija plazo de 180 dias). No aprueba ni modifica ninguna norma urbanistica; es el puntapie inicial de un proceso futuro.",
+  "que_se_ve": "Pagina 1: Decreto Alcaldicio Secc. 1a N 6559, Municipalidad de Las Condes, 06 SEP 2017. Vistos citan dictamenes de Contraloria; decreto dice 'INICIESE el estudio tendiente a efectuar las adecuaciones al instrumento de planificacion territorial de Las Condes'. Pagina 2: continua el decreto (nombra comision, dispone asesorias externas, plazo 180 dias) y termina con firma del Alcalde Joaquin Lavin Infante y Secretario Municipal. No hay tablas normativas ni cuadros de zonas."
+ },
+ "d1147": {
+  "id": "d1147",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El decreto modifica el articulo 45 de la Ordenanza Local del Plan Regulador Comunal (cuadro de Vialidad Comunal), eliminando la afectacion a utilidad publica de una nomina de calles, y ademas dispone que el incremento de antejardin del articulo 38 de la misma Ordenanza no se aplique a esas vias. Antejardin y vialidad normada son parametros urbanisticos explicitos del checklist.",
+  "que_se_ve": "Pagina 1: Decreto Alcaldicio Secc. 1a N 8676, Las Condes, 18 DIC 2017. Vistos citan Ley 20.791 y Decreto 1132/2015. Decreto: 'Modificase el Decreto Alcaldicio... derogando cuadros... Eliminase en el articulo 45 de la Ordenanza Local del Plan Regulador Comunal, cuadro de Vialidad Comunal, la afectacion a utilidad publica' con lista de calles (Alcantara, Boccaccio, Fray Leon, etc.). Pagina 2: continua derogando inciso segundo, y aclara que 'el incremento de antejardines establecido en el articulo 38 de la Ordenanza Local... no se aplica a las vias contenidas en el presente decreto'; firma Alcalde Joaquin Lavin Infante."
+ },
+ "d1148": {
+  "id": "d1148",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "BAJA",
+  "motivo": "El decreto aprueba y ratifica 'complementaciones y modificaciones a la MEMORIA' del Plan Regulador (no a la Ordenanza), dentro del proceso de adopcion del nuevo PRC de 1993-94. El contenido mostrado (capitulo de vialidad, calculo de densidad global de 145,27 hab/ha para justificar el proyecto) es mas bien analitico/justificativo que una norma vinculante por zona. No queda claro si esta memoria trae aparejada una norma de aplicacion directa o es solo texto explicativo; se prefiere escalar a descartar.",
+  "que_se_ve": "Pagina 1: Decreto Secc. 1a N 955, Municipalidad de Las Condes, 30 MAY 1994. Vistos citan DFL 458/1976, DS 47/1992, proposicion del nuevo Plan Regulador expuesta a la comunidad en 1993, acuerdos del Concejo N 159 y 160. Decreto: 'APRUEBASE Y RATIFIQUESE las siguientes complementaciones y modificaciones a la MEMORIA del Plan Regulador de Las Condes' (complementa capitulo 8 letra e vialidad). Pagina 3: punto 4, reemplaza parrafos de la pagina 100 de la Memoria con calculo de poblacion/densidad (636.870 habitantes, 4.384 ha, 145,27 hab/ha) comparado con el Plan Metropolitano; firma Alcalde y Secretario Municipal. No se ven cuadros de zonas ni coeficientes por zona, solo texto explicativo de la Memoria."
+ },
+ "d1167": {
+  "id": "d1167",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "La portada identifica explicitamente el documento como 'PLAN REGULADOR COMUNAL DE MULCHEN - ORDENANZA LOCAL', con timbre de la Direccion de Obras Municipales de Mulchen. Es el cuerpo normativo del PRC.",
+  "que_se_ve": "Pagina 1: portada mecanografiada 'PLAN REGULADOR COMUNAL DE MULCHEN' y debajo 'ORDENANZA LOCAL', con timbre circular de Direccion de Obras Municipales, Mulchen. Pagina 7 (cuerpo, ~35%): tabla 'PUNTO / DESCRIPCION DEL PUNTO / TRAMO / DESCRIPCION DEL TRAMO' describiendo puntos limitrofes (interseccion de rios, caminos) para definir el limite urbano/comunal; no son coeficientes de zona sino descripcion de deslindes."
+ },
+ "d1168": {
+  "id": "d1168",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Misma portada que d1167: 'PLAN REGULADOR COMUNAL DE MULCHEN - ORDENANZA LOCAL' con timbre de Direccion de Obras Municipales de Mulchen. Es el cuerpo normativo del PRC (posible copia o version distinta del mismo documento).",
+  "que_se_ve": "Pagina 1: portada identica a d1167, 'PLAN REGULADOR COMUNAL DE MULCHEN' / 'ORDENANZA LOCAL', timbre Direccion de Obras Municipales Mulchen. Pagina 9 (cuerpo, ~35%): tabla 'PUNTO / DESCRIPCION DEL PUNTO / TRAMO / DESCRIPCION DEL TRAMO' con puntos 16 y 17 describiendo lineas paralelas a caminos vecinales y longitudinales; misma naturaleza de deslindes que en d1167."
+ },
+ "d1171": {
+  "id": "d1171",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "El decreto adjudica una licitacion publica (N 76/2023) para contratar a un consultor que elabore la 'Actualizacion Plan Regulador Comunal de Ovalle'. Es un acto de adjudicacion/licitacion administrativa, no aprueba ninguna norma urbanistica todavia.",
+  "que_se_ve": "Pagina 1: Decreto Exento N 4.576, Ovalle, 01 de septiembre de 2023, con logo municipal 'Ovalle #OvalleVamosXmas'. Vistos detallan todo el proceso de licitacion (bases, preguntas y respuestas, actas de apertura, evaluacion de ofertas). Decreto: 'ADJUDICASE la Licitacion Publica N 76/2023, denominada ACTUALIZACION PLAN REGULADOR COMUNAL DE OVALLE... al oferente INFRACON CONSULTORES LIMITADA'. Pagina 3: clausulas sobre garantia de fiel cumplimiento del contrato (fecha de vencimiento, glosa, forma de restitucion), firmas de Secretario Municipal y Alcalde. Es puramente administrativo/contractual, sin normas urbanisticas."
+ },
+ "d1209": {
+  "id": "d1209",
+  "categoria": "PRI_INTERCOMUNAL",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "La pagina (unica) muestra un cuadro normativo titulado 'SECTOR GEOGRAFICO: ORIENTE' con subsectores de Penalolen (Alto, Bajo, Lo Hermida) y columnas de usos de suelo permitidos, tramo, coeficiente maximo de constructibilidad, % max ocupacion de suelo y superficie predial minima -- son normas urbanisticas reales. El nombre de archivo 'zonas_prms' sugiere que es un extracto de zonificacion del Plan Regulador Metropolitano de Santiago (instrumento intercomunal) aplicado a Penalolen, no un PRC comunal propio; no se ve portada/decreto que lo confirme, de ahi confianza MEDIA.",
+  "que_se_ve": "Pagina unica sin encabezado de decreto visible: tres tablas normativas apiladas bajo el titulo 'SECTOR GEOGRAFICO: ORIENTE', para los subsectores 'Penalolen Alto' (Tramo B), 'Penalolen Bajo' (Tramo C) y 'Lo Hermida' (Tramos F/F2), cada una con columnas Usos de suelo permitidos / Coef. Maximo de Const. / % Max Ocup. Suelo / Superficie Minima Predial."
+ },
+ "d1219": {
+  "id": "d1219",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina 1 es la portada del Decreto Exento N.4415 de la I. Municipalidad de Pichilemu titulado 'APRUEBA CORRECCION A PLANOS DE LA ENMIENDA AL PLAN REGULADOR COMUNAL DE PICHILEMU, SECTOR CENTRO'. Pagina 2 (cuerpo del decreto) contiene cambios normativos concretos: frente minimo, % de transparencia de cierros, tamano predial minimo y densidad (hab/ha) para zonas A2-sc y A5-pv. Es exactamente el tipo de acto que aprueba/corrige una enmienda al PRC con parametros urbanisticos.",
+  "que_se_ve": "P1: portada/considerandos y vistos del Decreto Exento que aprueba correccion a planos de la Enmienda al PRC de Pichilemu, Sector Centro, con membrete municipal. P2: cuerpo del Decreto Exento N.4415 con tabla de reemplazos normativos (Frente Minimo, Cierros %, Tamano predial minimo, Densidad hab/ha) para zonas A2-sc y A5-pv, firmado por Alcalde y Secretaria Municipal."
+ },
+ "d1227": {
+  "id": "d1227",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Publicacion en el Diario Oficial del Ministerio de Vivienda y Urbanismo titulada 'APRUEBA PLAN REGULADOR COMUNAL DE PITRUFQUEN', con el decreto y el texto completo de la Ordenanza Local (Capitulo I Disposiciones Generales, articulos 1 a 5 sobre ambito de aplicacion, area territorial, etc.). La pagina 2 continua con el Capitulo IV 'Disposiciones generales para las zonas urbanas y areas de restriccion' (ocupacion de suelo, cierros, equipamiento) y tablas de vialidad estructurante. Es el cuerpo normativo completo del PRC.",
+  "que_se_ve": "P1: pagina del Diario Oficial (31.785, 25-nov-1983) con decreto del Minvu 'APRUEBA PLAN REGULADOR COMUNAL DE PITRUFQUEN' e inicio del texto de la Ordenanza Local (Capitulo I, articulos 1-5). P2: continuacion, Capitulo IV con articulos 9-14 sobre ocupacion de suelo y equipamiento, Capitulo V de Vialidad con tabla de anchos de vias entre calles."
+ },
+ "d1230": {
+  "id": "d1230",
+  "categoria": "ENMIENDA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alcaldicio N.00504 de la Municipalidad de Puchuncavi que 'APRUEBASE PROYECTO ENMIENDA AL PLAN REGULADOR, LOCALIDAD DE HORCON, COMUNA DE PUCHUNCAVI', modificando explicitamente una fraccion de zona Z4 a Z4a y aumentando en 30% la ocupacion de suelo -- norma urbanistica concreta (COS). Pagina 2 es la portada de la Memoria de esa misma enmienda, confirmando el objeto.",
+  "que_se_ve": "P1: Decreto Alcaldicio N.00504 (22-abr-2022) de Puchuncavi, 'ESTA ALCALDIA DECRETO HOY LO QUE SIGUE', que aprueba la Enmienda al Plan Regulador localidad de Horcon modificando zona Z4 a Z4a y aumentando 30% la ocupacion de suelo, con firmas de Secretario Municipal y Alcalde (S). P2: portada de 'MEMORIA ENMIENDA PLAN REGULADOR COMUNA DE PUCHUNCAVI, LOCALIDAD DE HORCON', I. Municipalidad de Puchuncavi, Secplan, 2022."
+ },
+ "d1235": {
+  "id": "d1235",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Publicacion en el Diario Oficial titulada 'APRUEBA MODIFICACION N.20 AL PLAN REGULADOR COMUNAL DE RANCAGUA SECTOR EX RUTA 5 SUR', con 5 temas de modificacion listados (plano oficial, areas urbanas intercomunales, zonificacion, estacionamientos, vialidad). La pagina interior muestra el cuadro normativo completo de la nueva 'ZONA BR-M2' con usos de suelo permitidos/prohibidos, superficie predial minima, densidad maxima, sistema de agrupamiento, antejardin, distanciamientos, altura maxima, rasante y coeficientes de constructibilidad y de ocupacion de suelo.",
+  "que_se_ve": "P1: Diario Oficial N.41.655 (11-ene-2017), Municipalidad de Rancagua, decreto exento 5.415 que 'APRUEBA MODIFICACION N.20 AL PLAN REGULADOR COMUNAL DE RANCAGUA SECTOR EX RUTA 5 SUR' con los 5 temas de la modificacion. P10: cuadro normativo completo de la 'ZONA BR-M2 Zona Mixta Borde Ruta 2' con usos de suelo permitidos/prohibidos y parametros (superficie predial minima, densidad maxima, sistema de agrupamiento, antejardines, alturas, rasante, coeficientes de constructibilidad y ocupacion de suelo)."
+ },
+ "d1237": {
+  "id": "d1237",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "MEDIA",
+  "motivo": "Decreto Exento N.2238 de la Municipalidad de Rancagua que 'ASIGNANSE las condiciones de la Zona R2 establecidas en el articulo 29 de la Ordenanza del Plan Regulador Comunal de Rancagua' a un predio cuya zona EQ-PU2 (afectacion a utilidad publica) caduco, y ordena 'INCORPORESE la correccion en Plano Regulador Comunal'. Es el acto formal que fija/asigna la norma urbanistica aplicable a un area del plano (siguiendo el patron de 'asigna nuevas normas urbanisticas' que el prompt indica NO descartar aunque sea acotado a un predio); no se ve un cuadro nuevo de parametros porque remite a la Zona R2 ya existente en la Ordenanza vigente.",
+  "que_se_ve": "P1: Oficio/considerandos de Rancagua (7-may-2019) explicando que la zona EQ-PU2 del predio Rol 785-30 caduco por vencimiento de la declaratoria de utilidad publica (Art. 59 LGUC) y que corresponde asignarle las condiciones de la Zona R2 de la Ordenanza del PRC de Rancagua. P2: Decreto Exento N.2238 propiamente tal: 'I. ASIGNANSE las condiciones de la Zona R2... II. INCORPORESE la correccion en Plano Regulador Comunal... III. NOTIFIQUESE... IV. PUBLIQUESE', firmado por Administrador y Secretario Municipal (S)."
+ },
+ "d1203": {
+  "id": "d1203",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Es una pagina de la ordenanza local del PRC de Penalolen dedicada a la Zona Habitacional Mixta N5 (ZHM-5). La p1 lista usos de suelo permitidos y prohibidos, la p2 trae la tabla normativa completa de la zona: densidad bruta min/max, sistema de agrupamiento, subdivision predial minima, frente minimo, % ocupacion de suelo, % area libre, coeficiente de construccion, altura maxima, distanciamiento, rasante, adosamiento, cierros y antejardin, diferenciado por vivienda unifamiliar, vivienda colectiva y equipamiento intercomunal/comunal/vecinal.",
+  "que_se_ve": "p1: encabezado 'ZONA HABITACIONAL MIXTA - N 5: ZHM-5' con punto 1 'Usos del Suelo Permitidos' (Habitacional) y tabla 1.2 Equipamiento por escala Mayor/Mediano/Menor, mas punto 2 'Usos del suelo Prohibido'. p2: encabezado '6. ZONA HABITACIONAL MIXTA - N5  Z-HM-5  d=100 hab/ha' con tabla normativa completa de coeficientes urbanisticos por tipo de uso de suelo, y seccion de Restricciones."
+ },
+ "d1204": {
+  "id": "d1204",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina de la ordenanza local del PRC de Penalolen para la Zona R1: define usos permitidos/excluidos y las condiciones de subdivision predial y edificacion (superficie predial minima, frente, ocupacion de suelo, coeficiente de constructibilidad, densidad, sistema de agrupamiento, rasantes, altura, antejardin, estacionamientos) para vivienda y para equipamiento en las tres escalas (regional/interurbana, comunal, vecinal).",
+  "que_se_ve": "Pagina unica titulada 'Zona R1' con tabla de Usos Excluidos de equipamiento por escala (Regional-Interurbana, Comunal, Vecinal), y cuatro bloques de 'CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION': Para Vivienda, Para Equipamiento Escala Regional e Interurbana, Para Equipamiento Escala Comunal, Para Equipamiento Escala Vecinal, cada uno con superficie predial minima, frente minimo, ocupacion maxima de suelo, coeficiente maximo de constructibilidad, densidad, sistema de agrupamiento, rasantes, altura de edificacion, antejardin minimo y estacionamientos."
+ },
+ "d1205": {
+  "id": "d1205",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "La p1 es la pagina de la ordenanza local del PRC de Penalolen para la Zona R3 con usos permitidos/excluidos y condiciones completas de subdivision predial y edificacion (superficie predial, coeficiente de constructibilidad, ocupacion de suelo, densidad, agrupamiento, altura, antejardin) para vivienda y equipamiento en tres escalas, por lo que basta para que el documento sirva aunque la p3 (extraida a ~35%) corresponda a otra seccion del expediente (tabla de areas deportivas de la Ordenanza PRMS).",
+  "que_se_ve": "p1: encabezado 'Zona R3' con tabla de Usos Excluidos por escala de equipamiento y cuatro bloques de 'CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION' (Vivienda, Equipamiento Escala Mediana/Comunal, Escala Mayor/Regional, Escala Basica y Menor/Vecinal) con coeficientes urbanisticos. p3: pagina distinta con encabezado 'Secretaria Ministerial Metropolitana de Vivienda y Urbanismo - ... Ordenanza PRMS', tabla de areas deportivas por comuna (incluye fila Penalolen: Estadio Asociacion Nacional de Futbol Profesional, Estadio Sergio Eguiguren, Estadio Quilin), pie 'TEXTO ACTUALIZADO - AGOSTO 2005' y 'PAGINA 27 DE 145'."
+ },
+ "d1206": {
+  "id": "d1206",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina de la ordenanza local del PRC de Penalolen para la Zona R5 (Zona Habitacional Norte): define usos de suelo permitidos y excluidos, y en la p2 trae las Normas Especificas completas para vivienda (superficie predial minima, frente, sistema de agrupamiento, adosamiento, coeficiente de ocupacion de suelo, coeficiente de constructibilidad, altura maxima, densidad bruta maxima, rasante, distanciamiento, antejardin).",
+  "que_se_ve": "p1: titulo 'Zona R5 Zona Habitacional Norte', 'Usos de suelo Permitidos' (a. Vivienda, b. Equipamiento nivel Vecinal en predios que enfrentan Av. Antipuren) y tabla de tipos de equipamiento vecinal permitido (salud, educacion, seguridad, culto, cultura, organizaciones comunitarias, areas verdes, esparcimiento, comercio, servicios artesanales). p2: 'Usos de Suelo Excluidos' y 'Normas Especificas' para vivienda con lista de parametros: superficie predial minima 800 m2, frente 20m, agrupamiento aislado, COS 0.2, coef. constructibilidad 0.5, altura maxima 9m, densidad bruta maxima 50 hab/ha, rasante segun OGUC, distanciamiento 3m, antejardin 5m."
+ },
+ "d1207": {
+  "id": "d1207",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina de la ordenanza local del PRC de Penalolen para la Zona R6 (Zona Habitacional Sur): define uso de suelo permitido (vivienda) y trae Normas Especificas completas con todos los coeficientes urbanisticos de la zona.",
+  "que_se_ve": "Pagina unica titulada 'Zona R6 Zona Habitacional Sur', con 'Usos de suelo Permitidos: a) Vivienda', 'Usos de Suelo Excluidos: Todos los no indicados expresamente como permitidos' y 'Normas especificas': superficie predial minima 1.700 m2, frente predial minimo 30m, sistema de agrupamiento aislado, adosamiento no se permite, coeficiente de ocupacion de suelo 0.15, coeficiente de constructibilidad 0.4, altura maxima de edificacion 9m, densidad bruta maxima 25 hab/ha, rasante segun OGUC, distanciamiento 3m, antejardin 5m."
+ },
+ "d1208": {
+  "id": "d1208",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Pagina de la ordenanza local del PRC de Penalolen para la Zona R7 (Residencial Exclusiva): define usos permitidos (residencial, areas verdes) y trae Normas Especificas completas para vivienda y para areas verdes con todos los coeficientes urbanisticos.",
+  "que_se_ve": "Pagina unica titulada 'Zona R7 Residencial Exclusiva', con 'Tipos de usos de suelo permitidos' (Residencial, Areas Verdes), 'Usos de Suelo Excluidos', 'Normas Especificas para vivienda' (superficie predial minima 600 m2, agrupamiento aislado, adosamiento con altura maxima 3m y longitud maxima 20% del deslinde comun, coeficiente de ocupacion de suelo 0.3, coeficiente de constructibilidad 0.5, altura maxima 2 pisos + mansarda y 9m maximo, densidad bruta maxima 70 hab/ha, rasante, distanciamiento 3m, antejardin 5m, estacionamientos segun PRMS-D) y 'Normas Especificas para Areas Verdes' (superficie predial minima 300 m2)."
+ },
+ "d1319": {
+  "id": "d1319",
+  "categoria": "OTRO_TEMA_MUNICIPAL",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Portada es un Decreto de la I. Municipalidad de La Serena (11 MAR 2016) que aprueba el 'REGLAMENTO MUNICIPAL DE TRANSPARENCIA', fundado en la ley 20.285 sobre Acceso a la Informacion Publica. La pagina interior (p.11 de 33) desarrolla articulado sobre solicitudes de informacion, plazos, encargados de transparencia, etc. No hay ninguna relacion con normas urbanisticas, PRC, zonas, coeficientes ni usos de suelo.",
+  "que_se_ve": "P1: encabezado 'La Serena', timbre de recepcion 'ADMINISTRADOR MUNICIPAL 14 MAR 2016', 'DECRETO N (manuscrito)', vistos y considerandos citando leyes 20.285, 19.628, 19.880, 18.575, 18.695 y la LGUC solo de pasada; texto del decreto: 'APRUEBESE el siguiente REGLAMENTO MUNICIPAL DE TRANSPARENCIA', Titulo I 'Normas Generales', Articulos 1 a 4 sobre acceso a informacion publica. P11: Articulos 18 a 22 sobre procedimiento de respuesta a solicitudes de informacion, plazos, comunicacion a terceros. Sin tablas de zonificacion ni coeficientes."
+ },
+ "d1320": {
+  "id": "d1320",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Documento de La Serena titulado 'MEMORIA Y DISPOSICIONES REGLAMENTARIAS - PLANO DE DETALLE AVENIDA FRANCISCO DE AGUIRRE, CENTRO HISTORICO LA SERENA'. La pagina 8 de 23 contiene el cuadro normativo completo de la Zona ZPT-1 (Zona Centro): usos de suelo permitidos/prohibidos por clase (residencial, equipamiento, comercio, etc.) y la tabla 'Normas de Subdivision y Edificacion' con superficie predial minima (800 m2), coeficiente de ocupacion de suelo (0.6), coeficiente de constructibilidad (3), sistema de agrupamiento (continuo), altura maxima de edificacion (14 m y 4 pisos), densidad bruta maxima (1.200 hab/ha), ochavos y cuerpos salientes. Esto es exactamente el tipo de norma urbanistica que se busca.",
+  "que_se_ve": "P1: portada institucional con escudo de La Serena, titulo 'MEMORIA Y DISPOSICIONES REGLAMENTARIAS - PLANO DE DETALLE AVENIDA FRANCISCO DE AGUIRRE CENTRO HISTORICO LA SERENA - ILUSTRE MUNICIPALIDAD DE LA SERENA'. P8 (de 23, pie 'Departamento de Asesoria Urbana - Secretaria Comunal de Planificacion'): tabla 'ZONA ZPT-1 Zona Centro' con columnas Usos de Suelo / Permitidos / Prohibidos, y tabla 'Normas de Subdivision y Edificacion' con coeficientes de ocupacion de suelo y constructibilidad, altura maxima, densidad, sistema de agrupamiento, antejardin/ochavos y cuerpos salientes."
+ },
+ "d1321": {
+  "id": "d1321",
+  "categoria": "INDETERMINADO",
+  "sirve": "ESCALAR",
+  "confianza": "MEDIA",
+  "motivo": "Documento muy extenso (364 paginas, capa de texto real) tambien de La Serena, mismo nombre base 'doc_65' que d1320 (posible mismo tramite/anexo del sector Centro Historico). Las dos paginas muestreadas (p1 y p127) son 'FICHAS DE VALOR INMUEBLE DE VALOR HISTORICO' -- catalogo de inmuebles de conservacion historica (ICH_01, ICH_64) con foto, plano de ubicacion y evaluacion patrimonial, pero SIN coeficientes, alturas ni usos de suelo en las paginas vistas. La designacion de Inmuebles de Conservacion Historica es materia normativa del PRC (protege inmuebles de demolicion/alteracion), por lo que este catalogo probablemente es el anexo tecnico de una ordenanza/modificacion del PRC de La Serena para la Zona/Centro Historico -- pero no se pudo confirmar en las 2 paginas revisadas si el documento incluye el decreto de aprobacion o el articulado normativo que le da caracter de acto aprobado (podria ser solo el estudio/soporte tecnico, no el acto normativo en si). Ante la duda se escala en vez de descartar.",
+  "que_se_ve": "P1: encabezado 'FICHAS DE INMUEBLES DE CONSERVACION HISTORICA DE LA SERENA', 'FICHA DE VALOR INMUEBLE DE VALOR HISTORICO', Rol 82-10, comuna La Serena, calle Pedro Pablo Munoz, denominacion 'Liceo Gabriel Gonzalez Videla' (ICH_01), con plano de ubicacion, fotos del inmueble y tabla de evaluacion de atributos patrimoniales (valor urbano, arquitectonico, historico, economico-social) con puntuacion. P127: misma plantilla, ficha ICH_64 'Casa Carpintero Alvarez', calle Cantournet, con fotos, plano de ubicacion y tabla de evaluacion. Ninguna de las dos paginas muestra cuadro de coeficientes de edificacion ni texto de decreto/aprobacion."
+ },
+ "d1289": {
+  "id": "d1289",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "ESCALAR",
+  "confianza": "BAJA",
+  "motivo": "Decreto Secc. 2da N°5074 (Santiago, 02-jul-2025) cuyos Vistos/Considerandos citan el Acuerdo N°339 (inicio de proceso de enmienda 'Barrios República y Corte Suprema') y discuten los criterios del Art. 28 sexies LGUC y Art. 2.1.4 bis OGUC para determinar la 'necesidad de realizar la actualizacion' del PRC. Solo se disponia de pagina 1 (Vistos/Considerando) y pagina 3 (cierre 'ANOTESE y transcribase', firmas), faltando la pagina 2 con la clausula resolutiva 'DECRETO:' que diria exactamente que se resuelve. No se puede confirmar si aprueba/promulga normas o si solo constata la necesidad de actualizar (tramite). Se escala por la regla de oro ante la duda.",
+  "que_se_ve": "Pagina 1: encabezado STGO, Secretaria Comunal de Planificacion / Subdireccion de Asesoria Urbana, 'DECRETO SECC. 2DA. N° 5074', Santiago 02 JUL 2025, con Vistos extensos (Ley 19.880, DFL1, DFL458, DS47, DS57, Resolucion 26, Acuerdo N°339 del Concejo del 14-ago-2024 y Decreto Secc 2da N°8431 del 09-sep-2024, ambos sobre 'Enmienda Ajuste de Normas Urbanisticas en Sectores de los Barrios Republica y Corte Suprema') y Considerandos 1-3 sobre el plazo de actualizacion periodica de 10 años (Art 28 sexies LGUC) y los parametros del Art 2.1.4 bis OGUC. Pagina 3: cierre 'ANOTESE y transcribase a la Administracion Municipal...', firmas de Patricio Ossa Cortes (Secretario Municipal) y Mario Desbordes Jimenez (Alcalde de Santiago). No hay tablas de coeficientes visibles en las paginas mostradas."
+ },
+ "d1290": {
+  "id": "d1290",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es literalmente un acuerdo de concejo que 'AUTORIZA EL INICIO DEL PROCESO DE ENMIENDA' del PRC de Santiago; no aprueba ni contiene normas urbanisticas, solo da inicio al tramite. Coincide exactamente con la categoria TRAMITE_ADMINISTRATIVO de la taxonomia.",
+  "que_se_ve": "Pagina 1: encabezado 'Vivamos bien STGO', Secretaria Municipal / Departamento de Asuntos del Concejo Municipal, 'ACUERDO N°339', titulo 'AUTORIZA EL INICIO DEL PROCESO DE ENMIENDA DEL PLAN REGULADOR COMUNAL DE SANTIAGO (PRCS), DENOMINADO ENMIENDA AJUSTE DE NORMAS URBANISTICAS EN SECTORES DE LOS BARRIOS REPUBLICA Y CORTE SUPREMA', Santiago agosto 14 de 2024, texto del acuerdo del Concejo, listado de concejales que votaron a favor, sello municipal. Pagina 2: cierre 'Lo que comunico a US...', firma de Mauricio Oros Bravo (Secretario Municipal S), distribucion. No hay tablas normativas ni cuadros de zonas."
+ },
+ "d1298": {
+  "id": "d1298",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto que literalmente 'PROMULGASE la modificacion del Plan Regulador Comunal de Santiago' e incluye un cuadro normativo completo (superficie de subdivision minima, coeficiente de ocupacion de suelo, coeficiente de constructibilidad, densidad maxima, sistema de agrupamiento, altura maxima de edificacion) para el nuevo Sector Especial D11 'Poblacion Centenario'. Coincide exactamente con MODIFICACION_PRC.",
+  "que_se_ve": "Pagina 1: encabezado STGO, Subdireccion de Asesoria Urbana SECPLAN, 'SECC. 2DA. N° 6847', Santiago 24 NOV 2021, extensos Vistos (Decreto Alcaldicio 1753/2019, Acuerdos 229 y 424/2019, Acuerdo 57/2021, Decreto 3.035/2021, oficios SEREMI MINVU RM) y el texto 'DECRETO: 1. PROMULGASE la modificacion del Plan Regulador Comunal de Santiago... conforme al proyecto de modificacion Ajuste de Normas Urbanisticas Poblacion Centenario' y '2.- Apruebese el plano N°176...'. Pagina 2: continua '3.1.1 Incorporese en la Zona D... nuevo Sector Especial D11 Poblacion Centenario' con tabla de 'Condicionantes de subdivision y edificacion' (superficie minima 150 m2, coeficiente ocupacion suelo 1.0, coeficiente constructibilidad 2.0, densidad maxima 895 hab/ha, sistema de agrupamiento continuo, altura maxima 5.5 m), cierre y firmas de Patricio Ossa Cortes (Secretario Municipal) e Iraci Hassler Jacob (Alcaldesa de Santiago)."
+ },
+ "d1313": {
+  "id": "d1313",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alcaldicio que ordena 'ACTUALICESE la informacion contenida en el Capitulo V Vialidad, Art. 21 de la Ordenanza Local del Plan Regulador Comunal de Villa Alemana', incorporando una tabla normativa (anchos oficiales de vias estructurantes) que pasa a formar parte integrante del Plan Regulador. Es una modificacion formal y puntual del texto de la ordenanza (capitulo de vialidad), por lo que sirve como norma urbanistica vigente (anchos entre lineas oficiales, condicion EP/EE/PP).",
+  "que_se_ve": "Pagina 1: 'ILUSTRE MUNICIPALIDAD VILLA ALEMANA', Villa Alemana 14 de julio de 2017, 'DECRETO ALCALDICIO N°946', Vistos (Decreto Alcaldicio 619/2002 que promulga el PRC de Villa Alemana, Ley 20.791, Decreto Alcaldicio 753/2015, Resolucion Afecta N°31/4/128/2013 que promulga el PRI de Valparaiso), y 'DECRETO: 1. ACTUALICESE la informacion contenida en el Capitulo V Vialidad, Art. 21 de la Ordenanza Local... respecto del listado de vias que conforman la vialidad estructurante... 3. La informacion actualizada es la conformada por las vias identificadas en el cuadro Tabla Situacion Actualizada Vialidad Estructurante...'. Firmas de Patricio Torres Palominos (Secretario Municipal) y Jose Sabat Marcos (Alcalde). Pagina 5 (de 14, corresponde al anexo): tabla 'LISTADO VIALIDAD ESTRUCTURANTE ART. 21 PRC VIGENTE' con columnas de ubicacion, nombre de via, categoria, tramo (desde/hasta), condicion (EP/EE/PP) y anchos entre lineas oficiales (existente, proyectado, total) en metros, con observaciones sobre aplicacion de Ley 20.791."
+ },
+ "d1315": {
+  "id": "d1315",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "MEDIA",
+  "motivo": "Es un oficio (ORD N°038) de la SEREMI MINVU Araucania a la DOM de Pucon que 'Interpreta normas del Plan Regulador Intercomunal Villarrica Pucon' en respuesta a una consulta de privados sobre franjas de seguridad de 50 m. Concluye que ciertos articulos del PRI (22, 23, 29) exceden su competencia y quedan tacitamente derogados por la OGUC posterior. No aprueba, promulga ni modifica formalmente el PRI; es una opinion/interpretacion tecnica puntual para un caso, por lo que se clasifica como tramite administrativo (no crea norma nueva). Confianza media porque el contenido si discute articulos normativos del PRI vigente.",
+  "que_se_ve": "Pagina 1: membrete SEREMI Region de la Araucania, Ministerio de Vivienda y Urbanismo, 'ORD. 0038', ANT: Ord. 261 DOM Villarrica y cartas de privados, 'MAT.: Interpreta normas del Plan regulador Intercomunal Villarrica Pucon', Temuco 10 ENE 2019, dirigido a la Directora de Obras Municipales de Pucon, texto que relata la solicitud sobre 'franja libre' y 'franja de seguridad' de 50 metros en la Unidad Territorial C del PRI Villarrica Pucon, firma de Paz Serra Freire (Secretaria Regional Ministerial). Pagina 3 (ultima, de 3): continua el analisis tecnico citando el Decreto 2/2005 del Ministerio de Defensa (linea de aguas maximas) y concluye que los articulos 22, 23 y 29 del PRI exceden su competencia por contradecir la OGUC posterior, existiendo derogacion tacita; firman Augusto Bratz R. (Arquitecto Informante) y Maria Elena Harsha Abuhadba (Arquitecto Jefe DDUI MINVU Araucania). No hay tablas de zonas ni cuadro normativo, es texto corrido."
+ },
+ "d1316": {
+  "id": "d1316",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Publicacion en el Diario Oficial del Decreto Alcaldicio N°11.447 de Viña del Mar que 'Aprueba ordenanza sobre roles de las propiedades gravadas y alturas maximas permitidas en los miradores regulados por el Plan Regulador Comunal de Viña del Mar'. La pagina del cuerpo muestra articulado con formulas para calcular la altura maxima de edificacion segun distancia a miradores y listados de roles de propiedades afectas, lo que constituye norma urbanistica de altura maxima vigente del PRC. Sirve=SI.",
+  "que_se_ve": "Pagina 1: portada del Diario Oficial de la Republica de Chile, Santiago martes 20 de septiembre de 2011, N°40.065, seccion 'MUNICIPALIDADES - Municipalidad de Viña del Mar: Decreto alcaldicio numero 11.447.- Aprueba ordenanza sobre roles de las propiedades gravadas y alturas maximas permitidas en los miradores regulados por el Plan Regulador Comunal de Viña del Mar'. Pagina 4 (cuerpo I-4): listados numerados de calles/sectores con roles de propiedades (Cerro Castillo, Recreo, Variante Agua Santa, Los Almendros, etc.) y sus distancias a miradores en metros; 'Articulo 3°: Dispónese que las alturas maximas de edificacion permitidas para cada predio se determinaran segun formulas H=(Z2-Z1)-(0,05*D1) o H=(Z2-Z1)-5'; 'Articulo 4°' con listado de miradores y sus alturas sobre el nivel del mar; 'Articulo 5°' sobre predios con prohibicion de edificacion; firma de Virginia Reginato Bozzo (Alcaldesa) y Adison Gonzalez Vergara (Secretario Municipal S)."
+ },
+ "d1241": {
+  "id": "d1241",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Alcaldicio N°1050 de Renaico APRUEBA formalmente el Plan Regulador Comunal ('APRUEBASE el Plan Regulador de la Comuna de Renaico en conformidad a la Ordenanza y los Planos PRC-09209-1') y da por cumplido el proceso de EAE. Es el acto de aprobación de normas urbanísticas (el articulado va en anexo/Ordenanza referenciada); la propia página 3 lista los indicadores normativos que contendrá (Coeficiente de Ocupación de Suelo máximo, Altura de Edificación máxima, Densidad, Subdivisión predial mínima).",
+  "que_se_ve": "p1: encabezado 'MUNICIPALIDAD DE RENAICO - ALCALDÍA', 'DECRETO ALCALDICIO N° 1050 QUE APRUEBA PLAN REGULADOR Y EAE DEL PLAN REGULADOR DE LA COMUNA DE RENAICO', Renaico 16 de junio 2020, extensos VISTOS y CONSIDERANDO sobre el proceso de Evaluación Ambiental Estratégica (oficios SEREMI Medio Ambiente, informes ambientales). p3: listado previo de indicadores normativos (Densidad Habitacional, Coeficiente de Ocupación de Suelo máximo, Altura de Edificación máxima, Subdivisión predial mínima, Densidad proyecto hab/há) y luego el texto del DECRETO: '1. APRUEBASE el Plan Regulador de la Comuna de Renaico...' y '2. Dese por Cumplido el Proceso de Evaluación Ambiental Estratégica', con firmas de Secretario Municipal y Alcalde."
+ },
+ "d1251": {
+  "id": "d1251",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto N°147 (1980) del Ministerio de Vivienda y Urbanismo aprueba el nuevo Plan Regulador Comunal de Salamanca y transcribe en su Artículo 2° el texto completo de la Ordenanza Local. La página 8 muestra un cuadro normativo de usos de suelo/equipamiento por escala (regional, comunal, vecinal), parte del articulado de la ordenanza.",
+  "que_se_ve": "p1: timbres 'MINISTERIO DE VIVIENDA Y URBANISMO' y 'MUNICIPALIDAD DE SALAMANCA - DIRECCIÓN DE OBRAS', título 'APRUEBA PLAN REGULADOR COMUNAL DE SALAMANCA', Santiago 22 ago 1980, Decreto N°147; Artículo 1° aprueba el nuevo Plan Regulador Comunal con Memoria Explicativa, Estudio de Factibilidad de Agua Potable y Alcantarillado, Ordenanza Local y Plano P.R.S.-1 escala 1:5.000; Artículo 2° inicia la transcripción del texto de la Ordenanza Local. p8: tabla de equipamientos por 'ESCALA REGIONAL / ESCALA COMUNAL / ESCALA VECINAL' (Cultura, Organización Comunitaria, Áreas Verdes, Deportes, Esparcimiento y turismo, Comercio Minorista) — cuadro normativo de usos de suelo permitidos."
+ },
+ "d1261": {
+  "id": "d1261",
+  "categoria": "ORDENANZA_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "El documento contiene el texto completo articulado de la Ordenanza Local del Plan Regulador Comunal de San Felipe, con artículos normativos detallados (exigencias de estacionamientos, cálculo de superficies, condiciones constructivas) visibles en la página interior.",
+  "que_se_ve": "p1: decreto administrativo de la Municipalidad de San Felipe (27 may 2011) que 'ASIGNESE el N°48 a la ORDENANZA DEL PLAN REGULADOR COMUNAL DE SAN FELIPE, de fecha 13.10.1998' — es un acto de numeración/registro, no de aprobación de fondo. p16: página con encabezado 'Ordenanza Local Comuna de San Felipe', ARTICULO 28 (condiciones de estacionamientos: accesos, largo mínimo, pavimentos, árboles) y ARTICULO 29 (espacios para carga/descarga de vehículos, definición de superficie útil construida, remisión a tablas de estándares de estacionamiento) — articulado normativo pleno."
+ },
+ "d1275": {
+  "id": "d1275",
+  "categoria": "MODIFICACION_PRC",
+  "sirve": "SI",
+  "confianza": "ALTA",
+  "motivo": "Decreto Secc. 2da de la Municipalidad de Santiago (02.07.2025) que resuelve el expediente de modificación al PRC de Santiago denominada 'Corrección de la Zonificación Especial, Actualización de Inmuebles de Conservación Histórica y otras modificaciones y actualizaciones del Texto de la Ordenanza Local', tras años de tramitación (acuerdos de Concejo, informes SEREMI, EAE). Es el acto que aprueba/promulga cambios normativos al PRC.",
+  "que_se_ve": "p1: 'SECRETARÍA COMUNAL DE PLANIFICACIÓN - SUBDIRECCIÓN DE ASESORÍA URBANA', 'DECRETO SECC. 2DA. N° 6073', Santiago 02 jul 2025, extensos VISTOS que narran toda la historia del expediente de modificación PRCS desde 2019 (Decreto que inicia el proceso, Acuerdos del Concejo, Ord. de SEREMI MINVU con informe técnico desfavorable y respuestas). p2: continúa el relato de vistos (Ord. N°03, N°3.016, N°10, N°462, N°507) y arranca CONSIDERANDO citando Ley 19.880 y art. 28 sexies del DFL 458 sobre actualización periódica de instrumentos de planificación territorial."
+ },
+ "d1276": {
+  "id": "d1276",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Es un oficio (Ord. N°10) del Asesor Urbanista de la Municipalidad de Santiago a la SEREMI Metropolitana solicitando aclaración de una observación dentro del trámite de modificación del PRC. Es correspondencia interna de tramitación, sin contenido normativo ni acto de aprobación.",
+  "que_se_ve": "p1: 'ORD.: N° 10', membrete STGO SECPLAN, listado ANT. con el historial de oficios/memorándums del expediente de Modificación PRCS (informes de Contraloría, SEREMI, respuestas municipales), fecha Santiago 23 dic 2024, dirigido a Carolina Casanova Romero (SEREMI Metropolitana MINVU) desde Mauricio Valenzuela Verdugo (Asesor Urbanista), materia 'Solicita aclaración de observación remitida en Ord. N°3016 de 2024'. p3: 'Comprobante de Ingreso de Documento' de Oficina de Partes SEREMI Metropolitana con código de barras, folio 20242711785010292 5, materia idéntica — es un recibo administrativo de ingreso de correspondencia."
+ },
+ "d1288": {
+  "id": "d1288",
+  "categoria": "TRAMITE_ADMINISTRATIVO",
+  "sirve": "NO",
+  "confianza": "ALTA",
+  "motivo": "Decreto Secc. 2da N°3104 (2019) de la Municipalidad de Santiago que 'AUTORICESE el inicio de la Modificación al Plan Regulador Comunal de Santiago'. Es el acto que da INICIO al proceso de modificación (no la aprobación final), y no contiene ni aprueba norma urbanística alguna.",
+  "que_se_ve": "p1: 'SECRETARÍA MUNICIPAL - DEPARTAMENTO DE ASUNTOS MUNICIPALES', 'SECC. 2DA. N°3104', Santiago 2 abr 2019, DECRETO: '1.- AUTORICESE el inicio de la Modificación al Plan Regulador Comunal de Santiago... referida al estudio para la denominada CORRECCIÓN DE LA ZONIFICACIÓN ESPECIAL, ACTUALIZACIÓN DE INMUEBLES DE CONSERVACIÓN HISTÓRICA...'; '2.- DÉJESE establecido que se incluye lo observado por Contraloría (Informe N°729/2018)'; '3.- La Subdirección de Asesoría Urbana deberá efectuar el procedimiento...'. p2: 'ANÓTESE y transcríbase a la Administración Municipal...' con firmas del Secretario Municipal y del Alcalde Felipe Alessandri Vergara — puro trámite de inicio, sin normas aprobadas."
+ }
+}

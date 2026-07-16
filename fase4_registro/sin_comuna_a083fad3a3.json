@@ -1,0 +1,28 @@
+{
+  "id": "sin_comuna_a083fad3a3",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\LO696E~1.PDF",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "COMUNA REAL = LO BARNECHEA (DO 41.271, 01-10-2015, Cuerpo I-7, pagina que mezcla titulos representativos de indices financieros -Comision Clasificadora de Riesgo-, NO atribuir eso a Lo Barnechea). Decreto 5655/2015, Modificacion N20 PRC Lo Barnechea (MPRC-LB-20): (a) reemplaza filas del cuadro de usos de suelo del art.20 (matriz de zonas A-O por tipo: vivienda, salud, educacion, deportes, esparcimiento, social, culto-cultura, comercio, servicios, industria). (b-e) CREA la ZONA LL 'Equipamiento de Culto' (6 sitios/parroquias listados con poligonos), agrega Nota N8 (altura maxima 20 m nave central de culto, 30 m campanarios) a zonas A/B/L/M. Cuadro COMPLETO de la Zona LL: usos permitidos (culto-cultura: templos, museos, bibliotecas) + CONDICIONES DE EDIFICACION (antejardin 5 m, COS 0,6, CC 1,0, agrupamiento aislado, altura 10,5 m/2 pisos, rasante 70 grados, OGUC distanciamiento/adosamiento). Todo en TEXTO REAL, sin imagen. [comuna corregida en revision Fase4: era SIN_COMUNA]",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:49:24",
+  "fin": "2026-07-15T14:52:39",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_decreto5655_zona_ll_culto_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "LL"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 5655/2015 MPRC-LB-20 genuinamente de Lo Barnechea (encabezado explicito). Crea zona LL Equipamiento de Culto: antejardin 5m, COS 0,6, CC 1,0, aislada, altura 10,5m/2pisos, rasante 70/OGUC. Matriz completa de usos por zona (art.20) transcrita. OJO: solo 5 sitios visibles en la tabla renderizada, nota_fase3 decia 6 -- posible sexto sitio fuera del rango asignado, reportar a fase siguiente. Nota N8 de altura culto (20m nave/30m campanario) tambien transcrita."
+  }
+}

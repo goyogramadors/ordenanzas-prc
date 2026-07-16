@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_e3024ebd91",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4479.28dic2004.pdf",
+  "nombre": "las_condes_D.O.4479.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:55:50",
+  "fin": "2026-07-14T20:57:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        4
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: Diario Oficial 28-dic-2004 (decreto 4.479), aprueba el Plano Seccional de la Zona de Uso de Suelo Especial 5, PS-U-Ee5. Norma en p2-4, EN TEXTO PLANO (sin trampa): detalla en el Cap IV Art 40 el 'CUADRO DE USOS DE SUELO ZONA U-Ee5', con columnas por tipo de via (local, servicio, colectora, troncal, expresa) y por cada clase (salud, educacion, culto y cultura, etc.) las actividades permitidas y sus condiciones (a veces con COS y CC incrustados en el texto de la condicion, no como columna aparte, por eso un grep exacto por 'coeficiente de constructibilidad' puede fallar)."
+  }
+}

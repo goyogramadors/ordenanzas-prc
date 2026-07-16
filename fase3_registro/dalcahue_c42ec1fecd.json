@@ -1,0 +1,20 @@
+{
+  "id": "dalcahue_c42ec1fecd",
+  "comuna": "dalcahue",
+  "ruta": "Ordenanzas ordenadas\\dalcahue_decreto_alcaldicio_1748_ordena_publicacion_medio_comunicacional_local_plan_regul__1748.pdf",
+  "nombre": "dalcahue_decreto_alcaldicio_1748_ordena_publicacion_medio_comunicacional_local_plan_regul__1748.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:13:51",
+  "fin": "2026-07-15T08:15:43",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "DESAJUSTE: nombre de archivo sugiere Decreto Alcaldicio N1748 pero contenido real es Certificado N1675 (16-nov-2018) de Directora de Obras Dalcahue que CERTIFICA que por siniestro/incendio municipal (Decreto1857) NO se cuenta con Decreto1748 ni Decreto1792 (documentos extraviados). El PDF no es el decreto sino certificado de inexistencia. Trampa nueva: documentos perdidos por incendio municipal -posible gap permanente en el corpus para esta comuna."
+  }
+}

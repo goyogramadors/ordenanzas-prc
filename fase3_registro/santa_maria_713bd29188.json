@@ -1,0 +1,25 @@
+{
+  "id": "santa_maria_713bd29188",
+  "comuna": "santa_maria",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\santa_maria_atribuciones_esenciales__PLANO REGULADOR COMUNAL 01.12.1982.pdf",
+  "nombre": "santa_maria_atribuciones_esenciales__PLANO REGULADOR COMUNAL 01.12.1982.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Confianza MEDIA: se acepta verificacion visual ya hecha por Fase 1 (motivo del CSV), no se rerenderizo aqui. Nombre de archivo enganoso ('atribuciones_esenciales', patron generico del portal de transparencia) pero el contenido real es el plano + ordenanza del PRC de Santa Maria (1982): cuadro normativo completo (usos de suelo, superficie predial minima, frente predial minimo, antejardin, rasantes) para zonas H-1, H-2, EC y ZR, con firma de aprobacion SEREMI MINVU. Confirma que Fase 1 correctamente ignoro el nombre y evaluo el contenido.",
+    "paginas_utiles": 1
+  }
+}

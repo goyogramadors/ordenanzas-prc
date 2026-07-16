@@ -1,0 +1,25 @@
+{
+  "id": "pirque_b19cae1223",
+  "comuna": "pirque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pirque_1297_aprueba_plan_regulador_comunal_de_pirque__planregulador_1297.pdf",
+  "nombre": "pirque_1297_aprueba_plan_regulador_comunal_de_pirque__planregulador_1297.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:59:37",
+  "fin": "2026-07-15T08:03:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        8
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PIRQUE: Decreto 1297 (2015), aprueba el PRC. Cap IV Art 11, p5-8: TABLA-IMAGEN CONFIRMADA (cero coincidencias de COS-CC-superficie en el texto pese a que las tablas existen extensas; solo pasan los titulos de zona). 8 zonas del area urbana: ZM-1 Centro Civico (COS 0,2-0,3, CC 0,4-0,9, altura 10,5-12m, densidad 180 hab-ha), ZM-2, ZH-1 residencial baja densidad (COS 0,4-0,3, altura 9-7m), ZH-2 residencial (COS 0,6-0,4, altura 7m), ZE-1 (COS 0,05, altura 7m), ZE-2 equipamiento recreacional-deportivo, ZP-1 actividades productivas (COS 0,1, altura 3,5m), ZP-E (predial minima 1.500 m2, COS 0,4, CC 0,6, altura 10,5m). Todas con usos permitidos-prohibidos y normas de subdivision-edificacion. Cierra en p8 al empezar el listado de inmuebles de conservacion historica y Cap V Vialidad (excluidos). LA FASE SIGUIENTE DEBE USAR VISION: todo el bloque p5-8 es imagen, no texto seleccionable. 4 pags verificadas visualmente."
+  }
+}

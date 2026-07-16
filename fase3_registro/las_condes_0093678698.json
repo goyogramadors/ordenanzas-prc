@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_0093678698",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.3632.22may2018.pdf",
+  "nombre": "las_condes_decreto.3632.22may2018.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:27:07",
+  "fin": "2026-07-15T08:29:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto3632/2018: INICIA EAE para Modificacion N10 PRC (sub area EAb3, terreno SERVIU Santa Zita). Memoria explicativa, plano situacion actual/anterior (pag4, esquematico sin cuadro valores), cronograma etapas (pag8, no tabla normas). Solo indica que adoptara normativa 'del area EAm2' sin transcribir COS/CC/altura/densidad en cuadro."
+  }
+}

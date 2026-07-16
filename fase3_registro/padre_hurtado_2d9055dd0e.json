@@ -1,0 +1,20 @@
+{
+  "id": "padre_hurtado_2d9055dd0e",
+  "comuna": "padre_hurtado",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\padre_hurtado_4059_promulga_modificacion_al_plano_regulador_comunas_zonas_a_y_b1__Noviembre 2015.pdf_1458059518865.pdf",
+  "nombre": "padre_hurtado_4059_promulga_modificacion_al_plano_regulador_comunas_zonas_a_y_b1__Noviembre 2015.pdf_1458059518865.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:40:36",
+  "fin": "2026-07-15T08:42:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto4059 (publicacion DO 20-nov-2015): promulga modificacion PRC Zonas A y B1, pero texto aprobatorio SOLO cambia zonificacion de un poligono (de Zona A pasa a Zona B1) sin tabla de parametros urbanisticos. Revisadas 5 paginas completas, sin cuadro de normas."
+  }
+}

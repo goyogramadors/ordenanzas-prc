@@ -1,0 +1,28 @@
+{
+  "id": "lautaro_15f6fd39f5",
+  "comuna": "lautaro",
+  "ruta": "Ordenanzas ordenadas\\lautaro_decreto_3385_promulga_aprobacion_de_enmienda_al_plan_regulador_de_la_comuna_de_l__3385.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto Adm N3385/2017 promulga Enmienda al PRC de Lautaro: modifica art.19 Zona ZE-2 (Areas de Extension Urbana). Norma completa en texto (no tabla grafica): usos permitidos/prohibidos, superficie predial minima 200m2, ocupacion de suelo max 70%, agrupamiento aislado/pareado, altura max 8m. Paginas 2-3.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:49:10",
+  "fin": "2026-07-15T14:51:26",
+  "resultado": {
+    "archivo": "extraccion_normas\\lautaro\\lautaro_3385_enmienda_zona_ze2_pag2-3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: cuadro completo de usos de suelo y condiciones de edificacion de ZE-2 reescrito integramente (predial 200m2, ocup 70%, aislado/pareado, altura 8m)."
+  }
+}

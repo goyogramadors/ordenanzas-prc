@@ -1,0 +1,25 @@
+{
+  "id": "los_lagos_4ececfecdd",
+  "comuna": "los_lagos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\los_lagos_144_el_decreto_n_144_de_280695_de_la_i_municipalidad_de_los_lagos_por_el_cual_ap__Ordenanza_Comunal_PRC_LOS_LAGOS.pdf",
+  "nombre": "los_lagos_144_el_decreto_n_144_de_280695_de_la_i_municipalidad_de_los_lagos_por_el_cual_ap__Ordenanza_Comunal_PRC_LOS_LAGOS.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:03:14",
+  "fin": "2026-07-14T21:04:59",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        6
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ORDENANZA ORIGINAL PRC Los Lagos (Decreto 144/1995, publicado DO 31-12-1996, 8 pags catalogadas = paginas fisicas 16-23 del DO aprox). Normas EN TEXTO (OCR de columnas, algo desordenado pero legible). p5-6: TODAS las zonas con usos permitidos/prohibidos + Normas Especificas (superficie predial min, frente predial min, COS, densidad bruta, agrupamiento, altura max, antejardin min): ZU-1 a ZU-7 (urbanas), ZEx-1 a ZEx-5 (extension urbana/industrial), ZP-1 a ZP-7 (proteccion: faja via ferrea, Ruta 5 Sur, riesgo inundacion, ESSAL, ENDESA, cementerio, pendientes). p6 tail: arranca art.26 vialidad estructurante (cuadro de calles), ya es tabla de VIALIDAD. p7-8: continua vialidad (art.26-27) y CIERRA el decreto Los Lagos ('Tomese razon... Rabindranath Quinteros'); INMEDIATAMENTE DESPUES, en la misma pagina 8, arranca un aviso DE OTRA COMUNA: 'MUNICIPALIDAD DE EL BOSQUE - MODIFICA ORDENANZA N9 SOBRE SERVICIO DOMICILIARIO DE ASEO' -- es tema de aseo, no PRC, y de otra comuna; NO atribuir a Los Lagos (trampa 'comuna ajena' del Diario Oficial)."
+  }
+}

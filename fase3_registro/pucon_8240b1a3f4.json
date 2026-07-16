@@ -1,0 +1,25 @@
+{
+  "id": "pucon_8240b1a3f4",
+  "comuna": "pucon",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pucon_140_aprueba_enmienda_al_plano_regulador_comunal_de_pucon__2263188.pdf",
+  "nombre": "pucon_140_aprueba_enmienda_al_plano_regulador_comunal_de_pucon__2263188.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:15:27",
+  "fin": "2026-07-14T21:17:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        4
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.140/2023 (DO) Enmienda PRC Pucon. Formato 'Donde dice/Debe decir': modifica art.13 estacionamientos (comercio/equipamiento: 1 c/50m2 -> 1 c/100m2 en la nueva zona) y crea ZONA Z-3A (segrega un lote de la Zona Z-3, deslindes catastrales completos) con tabla completa: usos permitidos (vivienda, equipamiento turismo/esparcimiento/comercio/organizacion comunitaria/cultura y educacion/servicios publicos), prohibidos (todo lo no permitido), ocupacion 20%->26%, distanciamiento segun art.2.6.3 OGUC, altura 3 pisos -> 4 pisos y 12,60m, antejardin 3,0m. p5-6 EXCLUIDAS (solo planos/imagenes de zonificacion actual y propuesta, sin texto de tabla)."
+  }
+}

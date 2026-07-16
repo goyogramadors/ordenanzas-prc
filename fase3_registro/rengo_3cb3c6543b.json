@@ -1,0 +1,25 @@
+{
+  "id": "rengo_3cb3c6543b",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_2015_md_enmienda_n8_plan_regulador_comunal__publicación en el Diario Oficial Enmienda 8_15.01.2020.pdf",
+  "nombre": "rengo_2015_md_enmienda_n8_plan_regulador_comunal__publicación en el Diario Oficial Enmienda 8_15.01.2020.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:23:12",
+  "fin": "2026-07-14T21:24:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        3
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "RENGO: Diario Oficial 15-ene-2020, decreto 2015(MD), Enmienda N8 al PRC. Normas en texto plano: Art 38 ZH3 (usos condicionados: agrega condicion de expendio de bebidas alcoholicas en predios frente a vialidad estructurante de las Modificaciones N2, N3 y N5), Art 41 ZH6 Zona Residencial Mixta (agrega equipamiento tipo servicios como uso permitido), Art 45 ZE Zona de Equipamiento (agrega equipamiento tipo comercio como uso permitido). Solo modifica usos de suelo, no toca COS-CC-altura. Documento completo en 3 paginas."
+  }
+}

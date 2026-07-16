@@ -1,0 +1,25 @@
+{
+  "id": "vitacura_add0a6917e",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_33202_promulga_modificacion_no_25_al_plan_regulador_comunal_denominada_sector_av__DO_10.pdf",
+  "nombre": "vitacura_33202_promulga_modificacion_no_25_al_plan_regulador_comunal_denominada_sector_av__DO_10.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:38:03",
+  "fin": "2026-07-14T21:41:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "TRAMPA comuna ajena: página de DO 22-oct-2010 con múltiples avisos no relacionados (Poder Judicial, Banco Central tipos de cambio, Municipalidad Santa Cruz expropiación). Contenido Vitacura Mod.25 'Sector Av. Carolina Rabat': agrega un nuevo renglón al Cuadro 55 Zona U-Ee1 (equipamiento educacional) - Costanera Norte/Av.Santa María 6400/Educacional - contenido normativo mínimo (una fila de tabla existente, no cuadro completo de zona)"
+  }
+}

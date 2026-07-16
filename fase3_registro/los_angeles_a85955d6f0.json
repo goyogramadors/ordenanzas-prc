@@ -1,0 +1,20 @@
+{
+  "id": "los_angeles_a85955d6f0",
+  "comuna": "los_angeles",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\los_angeles_acuerdo_454_18_aprueba_solicitud_de_junta_de_vecinos_no_36_de_chacayal_sur_para___052.Quincuag%C3%A9sima-segunda-s.o.-04.06.2018.pdf",
+  "nombre": "los_angeles_acuerdo_454_18_aprueba_solicitud_de_junta_de_vecinos_no_36_de_chacayal_sur_para___052.Quincuag%C3%A9sima-segunda-s.o.-04.06.2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 51,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:03:14",
+  "fin": "2026-07-14T21:03:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Acta de la Quincuagesima Segunda Sesion Ordinaria del Concejo Municipal de Los Angeles (04-06-2018, 51 pags): aprobacion de actas anteriores, correspondencia, solicitud de la Junta de Vecinos N36 de Chacayal Sur. Grep de las 51 pags: 0 hits urbanisticos. Candidato a descarte."
+  }
+}

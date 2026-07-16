@@ -1,0 +1,25 @@
+{
+  "id": "nunoa_fee5aea7f6",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_647_promulga_aprobacion_de_modificacion_no_17_al_plan_regulador_comunal_de_nunoa__1399804.pdf",
+  "nombre": "nunoa_647_promulga_aprobacion_de_modificacion_no_17_al_plan_regulador_comunal_de_nunoa__1399804.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:07:55",
+  "fin": "2026-07-14T21:09:03",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        5
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Mod.N.17 PRC Nunoa (DO 18-may-2018). p3-4: crea Zona Z-1C con usos de suelo permitidos completos (residencial todo tipo + equipamiento por clase cientifico/comercio/culto/deporte/educacion/salud/seguridad/servicios/social); normas de edificacion y subdivision para uso residencial = las de equipamiento en la misma zona (remision interna). p4: modifica art.26 restricciones de altura por aerodromo/helipuerto (proyectos >7 pisos requieren certificado DGAC). p5: agrega ZT5 Villa Olimpica como zona tipica/pintoresca (proteccion patrimonial, sin parametros nuevos). Todo en TEXTO."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "san_miguel_c2c283522d",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_miguel_2208_suprime_articulos_de_ordenanza_local_del_plan_regulador__ACUERDO%202208.pdf",
+  "nombre": "san_miguel_2208_suprime_articulos_de_ordenanza_local_del_plan_regulador__ACUERDO%202208.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:53:28",
+  "fin": "2026-07-15T12:55:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Acuerdo 2.208 (27-oct-2020, 3p): SUPRIME de la Ordenanza Local del PRC de San Miguel los artículos 3,4,5,7,20,21,22,23,26,28,29 y 30, por observación de Contraloría (Ofic. E21323/2020) de que esos artículos solo reproducían disposiciones de la LGUC/OGUC o excedían las competencias de un Plan Regulador Comunal (ej. diseño de vialidad regional a cargo de SERVIU/MOP). Ninguno de los artículos suprimidos contenía cuadro de COS/CC/altura/agrupamiento por zona — son artículos generales/definicionales, no norma urbanística de zona."
+  }
+}

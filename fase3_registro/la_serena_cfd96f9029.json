@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_cfd96f9029",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_10_fijase_el_texto_de_la_ordenanza_sobre_derechos_municipales_por_permisos_y_ser__doc_34_10_30102024082111.pdf",
+  "nombre": "la_serena_10_fijase_el_texto_de_la_ordenanza_sobre_derechos_municipales_por_permisos_y_ser__doc_34_10_30102024082111.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 31,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:25:48",
+  "fin": "2026-07-15T08:26:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Ordenanza N10 (30.10.2024), I.Municipalidad de La Serena. Fija texto Ordenanza sobre Derechos Municipales por Permisos y Servicios vigente 2025 (mismo patron tarifario recurrente de esta comuna). No es instrumento de planificacion territorial."
+  }
+}

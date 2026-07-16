@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_05d01031c6",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_12.-46h-2020-Carta-N-4331-11NOV20-Modif.-N-10-PRCLC.pdf",
+  "nombre": "las_condes_12.-46h-2020-Carta-N-4331-11NOV20-Modif.-N-10-PRCLC.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:52:01",
+  "fin": "2026-07-15T07:56:24",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES NORMA URBANISTICA: carta N4331/2020 de Aguas Cordillera (empresa sanitaria) al Alcalde de Las Condes, informando la FACTIBILIDAD de agua potable y alcantarillado para la Modificacion N10 del PRC. Contiene tablas de dotacion de agua potable y caudal de aguas servidas por area geografica (poblacion, nivel de atencion l/hab/dia, volumen max por cliente) -- son datos de infraestructura sanitaria, no COS/CC/altura/usos de suelo. Es parte del expediente tecnico (estudio de factibilidad sanitaria exigido por el art.42 LGUC), no la norma en si."
+  }
+}

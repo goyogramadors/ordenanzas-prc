@@ -1,0 +1,808 @@
+[
+ {
+  "id": "d0017",
+  "comuna": "arauco",
+  "nombre_documento": "el_proyecto_de_plan_regulador_comunal",
+  "archivo": "arauco_el_proyecto_de_plan_regulador_comunal__2daa2ffb-430a-4ba5-81f2-722e27cad4cd.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 20,
+  "paginas_escaneadas": 20,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0508",
+  "comuna": "arauco",
+  "nombre_documento": "110_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regula",
+  "archivo": "arauco_110_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regula__resolucion110modificaplanregulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 1,
+   "agrupamiento": 12,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 8,
+   "ordenanza_local_txt": 1,
+   "articulado": 16,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-2",
+   "Z1",
+   "ZA-1",
+   "ZE",
+   "ZE-3",
+   "ZE-4",
+   "ZE4",
+   "ZH\r\n1",
+   "ZH 2",
+   "ZH-1",
+   "ZH-2",
+   "ZH1"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 2 de Octubre de 2014\r\n\r\nCuerpo 1- 8\r\n\r\nGobierno Regional Region del Biobio\r\nDEJA SIN EFECTO RESOLUCION No 25 DE 2014 Y PROMULGA\r\n\"MODIFICACIONDELPLANREGULADOR COMUNALDEARAUCO,\r\nAREAURBANAHORCONES\"\r\n(Resolucion)\r\nNum. 110.- Concepcion, 4 de agosto de 2014.- Considerando:\r\n\r\n2)\r\n\r\n3)\r\n\r\n4)\r\n\r\n5)\r\n\r\n6)\r\n\r\nEl proyecto de Modificacion del Plan Regulador Comunal de Arauco, Area\r\nUrbana Horcones,que consta dela Memoria Explicativae Informe Ambiental,\r\nEstudio de Factibilidad, decreto alcaldicio y el Plano MH-02 Area Urbana\r\nHorcones, confeccionado a escala 1:20.000 por la Municipalidad de Arauco.\r\nEl Ord. No 626 del 20 de junio de 2011 de Alcalde de Arauco al Secretario\r\nRegional Ministerial del Medio Ambiente que informa de la modificacion\r\ndel Plan Regulador Comunal de Arauco, Area Urbana de Horcones y solicita\r\nasistencia tecnica para la revision del Informe Ambiental.\r\nEl Ord. No 315 del 10 de agosto de 2011 del Secretario Regional Ministerial\r\ndel Medio Ambiente al Alcalde de Arauco, el cual envia observaciones al\r\nInforme Ambiental en respuesta al Ord.No 626 de 20 de junio de 2011 de\r\nAlcalde de Arauco.\r\nEl Ord. No 004 y No 005 del 4 de enero de 2012 del Alcalde de Arauco a\r\nlos Servicios Publicos que se indican y a las Juntas de Vecinos de Arauco,\r\nrespectivamente, informando mediante carta certificada del procedimiento\r\nde aprobacion de la modificacion del Plan Regulador Comunal y de su\r\nEvaluacion Ambiental Estrategica.\r\nQue m"
+ },
+ {
+  "id": "d0509",
+  "comuna": "arauco",
+  "nombre_documento": "1377_fija_nuevas_normas_urbanisticas_a_terrenos_desafectados_de_declaratoria_de",
+  "archivo": "arauco_1377_fija_nuevas_normas_urbanisticas_a_terrenos_desafectados_de_declaratoria_de___Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1377, ARAUCO (2010)\r\n\r\nDecreto 1377\r\nFIJA NUEVAS NORMAS URBANÍSTICAS A TERRENOS DESAFECTADOS DE\r\nDECLARATORIA DE UTILIDAD PÚBLICA DEL PLAN REGULADOR COMUNAL DE\r\nARAUCO\r\nMUNICIPALIDAD DE ARAUCO\r\nPublicación: 14-AGO-2010 | Promulgación: 10-AGO-2010\r\nVersión: Única De : 14-AGO-2010\r\nUrl Corta: https://bcn.cl/3l4gq\r\n\r\nFIJA NUEVAS NORMAS URBANÍSTICAS A TERRENOS DESAFECTADOS DE DECLARATORIA DE UTILIDAD\r\nPÚBLICA DEL PLAN REGULADOR COMUNAL DE ARAUCO\r\nNúm. 1.377.- Arauco, 10 de agosto de 2010.- Vistos:\r\n1.\r\nLas facultades que me confiere la Ley Nº 18.695, \"Orgánica Constitucional de\r\nMunicipalidades\".\r\n2.\r\nLo dispuesto en Articulo 59 del DFL Nº 458 (V y U) de 1976, Ley General de\r\nUrbanismo y Construcciones y en su Ordenanza General de Urbanismo y Construcciones.\r\nConsiderando: El Ord. N° 1437/ DDUI N°405 de fecha 27 de julio de 2010 del\r\nSecretario Regional Ministerial de Vivienda y Urbanismo que acompaña el Informe\r\nFavorable de la Seremi de Vivienda y Urbanismo,\r\nDecreto:\r\n1.\r\n\r\nModifíquese el Plan Regulador Comunal de Arauco,\r\naprobado por D.S. N° 23 (V y U) de fecha 05/02/88 y\r\npublicado en el Diario Oficial de 24/03/88, de\r\nacuerdo a lo señalado en el Artículo 59º del DFL Nº\r\n458 (V y U) de 1976, en el sentido siguiente:\r\n\r\na)\r\nEl terreno declarado de utilidad pública como Área Verde ubicado en el Cerro\r\nLos Castaños se asimila la zona EXP\r\nb)\r\nEl terreno declarado de utilidad pública como Área Verde ubicado entre las\r\ncalles Yungay, Los Duraznos, Caupolican y O'Higgins "
+ },
+ {
+  "id": "d0510",
+  "comuna": "arauco",
+  "nombre_documento": "1526_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regul",
+  "archivo": "arauco_1526_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regul__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1526, ARAUCO (2015)\r\n\r\nDecreto 1526\r\nDEJA SIN EFECTO DECLARATORIAS DE UTILIDAD PÚBLICA EN RELACIÓN AL\r\nPLAN REGULADOR COMUNAL DE ARAUCO, SEGÚN SE INDICA\r\nMUNICIPALIDAD DE ARAUCO\r\nPublicación: 03-JUN-2015 | Promulgación: 29-ABR-2015\r\nVersión: Única De : 03-JUN-2015\r\nUrl Corta: https://bcn.cl/3qplq\r\n\r\nDEJA SIN EFECTO DECLARATORIAS DE UTILIDAD PÚBLICA EN RELACIÓN AL PLAN REGULADOR\r\nCOMUNAL DE ARAUCO, SEGÚN SE INDICA\r\nNúm. 1.526.- Arauco, 29 de abril de 2015.\r\nVistos:\r\n1.- El artículo transitorio Ley 20.791, que modifica la Ley General de\r\nUrbanismo y Construcciones en materia de afectaciones de utilidad pública de Planes\r\nReguladores.\r\n2.- Las atribuciones que me confiere la Ley Nº 18.695 \"Orgánica Constitucional\r\nde Municipalidades\".\r\nConsiderando:\r\n1.- La circular Ord. Nº 654, de fecha 18 de diciembre de 2014, de la División\r\nde Desarrollo Urbano (MINVU) sobre declaratoria de utilidad pública, art. 59 LGUC y\r\nart. transitorio Ley 20.791.\r\nDecreto:\r\n1.- Déjese sin efecto las declaratorias de utilidad pública que a\r\ncontinuación se indican, en relación al Plan Regulador Comunal de Arauco, aprobado\r\npor DS Nº23 (V. y U.), de fecha 5 de febrero de 1988, y publicado en Diario Oficial\r\nde 24 de marzo de 1988, en conformidad al procedimiento regulado por los incisos\r\nsegundo y tercero del artículo transitorio de la Ley Nº 20.791.\r\n.\r\n\r\nBiblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Jul-2026\r\n\r\npágina 1 de 2\r\n\r\n\fDecreto 1526, ARAUCO (201"
+ },
+ {
+  "id": "d0511",
+  "comuna": "arauco",
+  "nombre_documento": "3881_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regul",
+  "archivo": "arauco_3881_deja_sin_efecto_declaratorias_de_utilidad_publica_en_relacion_al_plan_regul__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3881, ARAUCO (2013)\r\n\r\nDecreto 3881\r\nMODIFICA DECRETO ALCALDICIO Nº 791, DE 2011\r\nMUNICIPALIDAD DE ARAUCO\r\nPublicación: 30-DIC-2013 | Promulgación: 25-NOV-2013\r\nVersión: Única De : 30-DIC-2013\r\nUrl Corta: https://bcn.cl/3mnn8\r\n\r\nMODIFICA DECRETO ALCALDICIO Nº 791, DE 2011\r\nNúm. 3.881.- Arauco, 25 de noviembre de 2013.- Vistos:\r\na) Lo dispuesto en los artículos 3º y 4º del DFL Nº 1, texto refundido y\r\nsistematizado de la Ley Nº 18.290, Ley de Tránsito;\r\nb) Las atribuciones establecidas en los artículos Nº 63, letra i), Nº 65\r\nletras c) y k) de la Ley Nº 18.695, \"Orgánica Constitucional de Municipalidades\".\r\nConsiderando:\r\nI. La necesidad de modificar decreto, a fin de permitir su aplicación práctica\r\na los casos de camiones que transitan con carros de arrastre con carga no superior a\r\nlos límites permitidos.\r\nII. La actual ejecución del proyecto \"Construcción Mejoramiento Interconexión\r\nVial P-20 P-10, Arauco\", que generará una alternativa de tránsito vial, que\r\npermitirá evitar el tránsito de camiones de carga con alto tonelaje por la ciudad\r\nde Arauco.\r\nDecreto:\r\n1) Modifíquese decreto alcaldicio Nº 791, de fecha 11 de marzo de 2011, en los\r\nartículos que a continuación se detallan, los que en su nuevo texto definitivo\r\nreemplazan a los anteriores:\r\n\"Artículo 1º\r\nSuspéndase el tránsito de camiones y vehículos con carga superior a 20\r\ntoneladas por calle Cochrane, en toda su extensión.\r\nAsimismo, se suspende el tránsito de camiones y vehículos con carga superior a\r\n15"
+ },
+ {
+  "id": "d0512",
+  "comuna": "arauco",
+  "nombre_documento": "7920_apruebase_enmienda_al_plan_regulador_comunal_de_arauco",
+  "archivo": "arauco_7920_apruebase_enmienda_al_plan_regulador_comunal_de_arauco__DTO7920_14DIC2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 7920\r\n:14-12-2018\r\n:29-10-2018\r\n:MUNICIPALIDAD DE ARAUCO\r\n:APRUÉBASE ENMIENDA AL PLAN REGULADOR COMUNAL DE ARAUCO\r\n:Única\r\nDe : 14-12-2018\r\n:14-12-2018\r\n:1126646\r\n:https://www.leychile.cl/N?i=1126646&f=2018-12-14&p=\r\n\r\nAPRUÉBASE ENMIENDA AL PLAN REGULADOR COMUNAL DE ARAUCO\r\nNúm. 7.920.- Arauco, 29 de octubre de 2018.\r\nVistos:\r\n1. El Plan Regulador Comunal de Arauco, aprobado por DS Nº 23 (V. y U.), de\r\nfecha 5 de febrero de 1988 y publicado en Diario Oficial de 24 de marzo de 1988.\r\n2. La modificación del Plan Regulador Comunal de Arauco, aprobado por DS Nº 95\r\n(V. y U.) de fecha 30 de mayo de 1988 y publicado en el Diario Oficial con fecha 2 de\r\njulio de 1988.\r\n3. La modificación del Plan Regulador Comunal de Arauco, área urbana de\r\nHorcones, mediante resolución Nº 110 de fecha 4 de agosto de 2014 publicada en el\r\nDiario Oficial el 2 de octubre de 2014.\r\n4. La modificación del Plan Regulador Comunal de Arauco mediante decreto\r\nalcaldicio Nº 1.526 de fecha 29 de abril de 2015 publicada en el Diario Oficial el 3\r\nde junio de 2015.\r\n5. El acuerdo de la Sesión Nº 67, Ordinaria del H. Concejo Municipal, de fecha\r\n31 de julio de 2018, en el cual se aprueba, por unanimidad de sus integrantes, dar\r\ninicio al proceso de la Enmienda al Plan Regulador Comunal de Arauco con el objeto de\r\nincrementar en 20% la altura máxima de edificación permitida en las zonas z"
+ },
+ {
+  "id": "d0513",
+  "comuna": "arica",
+  "nombre_documento": "ordenanza_ordenanza_plan_regulador_comunal_de_arica",
+  "archivo": "arica_ordenanza_ordenanza_plan_regulador_comunal_de_arica__ORDENANZA_PLAN_REGULADOR.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 86,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "{)\r\n-1 6 MAR 2illHL\r\n\r\n-\r\n\r\nCONiRAL(if~iA GENEá'A¡-­\r\nREGI01III\\l DE !1f\\I:';A y ¡;N~~~t\\I:l)r,l\\\r\n\r\nTOMA DE RAZON\r\nRECEPCfON\r\nJurldica\r\n\r\nr,~\r\n\r\n\"\r\n\r\nTome Razón\r\ny flegistro\r\n\r\nV.U.O.P.I\r\n\r\nr' ,\r\nAuditoría\r\nAdministrativa\r\n\r\nARICA Y PARINACOTA\r\nG081ERNO\r\n\r\nJJ.J.\r\n\r\nREGIONAL\r\n\r\nContabilidad\r\n\r\nPROMULGA \"PLAN REGULADOR COMUNAL DE\r\nARICA\"\r\n\r\nRESOLUCION AFECTA W\r\nARICA,\r\n\r\n004\r\n\r\nO3 MAR. 2009\r\n\r\nVISTOS:\r\n\r\n1. Los artículos 43 y 61 del Decreto con Fuerza de Ley W 458 (V Y U) de 1976 Ley General de\r\nUrbanismo y Construcciones; los artículos 2.1.10 al 2.1.11 del Decreto Supremo W 47 (V Y\r\nU) de 1992 Ordenanza General de Urbanismo y Construcciones, modificado por el D.S. W 75\r\n(V. YU.) de 2001, por el D.S. W 217 (V. YU.) de 2001 y por el D.S. W 33 de 2002; el artículo\r\n65 del Decreto Ley W 1939;\r\n\r\n2. El Decreto con Fuerza de Ley W 1, de 2000, que fija el texto refundido, coordinado y\r\nsistematizado de la ley W 18.757, Orgánica Constitucional de Bases Generales de\r\nAdministración del Estado; lo dispuesto en la Ley W 18.695 de 1988 Orgánica\r\nConstitucional de Municipalidades y sus modificaciones posteriores; el Decreto con Fuerza\r\nde Ley W 1, de 2005, que fijó el texto refundido, coordinado, sistematizado y actualizado de\r\nla ley W 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional; el\r\nDecreto Ley W 573, de 1974, sobre Estatuto de Gobierno y Administración Interiores del\r\nEstado; ley W 20.175, que crea la Región XV de Arica y Parinacota y Provincia del\r\nTamarug"
+ },
+ {
+  "id": "d0514",
+  "comuna": "arica",
+  "nombre_documento": "resumen_ejecutivo_modificacion_plan_regulador_comunal",
+  "archivo": "arica_resumen_ejecutivo_modificacion_plan_regulador_comunal__Resumen-PRC.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 52,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 1,
+   "normas_urbanisticas": 4,
+   "zonificacion": 9,
+   "usos_de_suelo": 7,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "RESUMEN EJECUTIVO\r\nMODIFICACIÓN PLAN REGULADOR COMUNAL\r\nARICA\r\nANTEPROYECTO FINAL\r\n\r\nAbril de 2017\r\n\r\n\fMODIFICACIÓN PLAN REGULADOR COMUNAL DE ARICA\r\nRESUMEN EJECUTIVO\r\nINDICE:\r\n1.\r\n\r\nINTRODUCCIÓN Y OBJETIVOS DEL PLAN ............................................................................................. 2\r\n1.1 Aspectos generales .............................................................................................................................. 2\r\n1.2 Objetivos y fundamentos del Plan........................................................................................................... 3\r\n1.2.1 Objetivos generales del instrumento .............................................................................................. 3\r\n1.2.2 Objetivos específicos ..................................................................................................................... 3\r\n\r\n2.\r\n\r\nPROYECTO DE PLAN REGULADOR COMUNAL ...................................................................................... 4\r\n2.1 Lineamientos de Planificación. ............................................................................................................. 4\r\n2.2 La ampliación y definición de Límite Urbano .......................................................................................... 7\r\n2.3 La zonificación de usos de suelo y condiciones urbanísticas por zona ................................................ 12\r\n2.3.1 Propuesta de Zonificación área urbana ciud"
+ },
+ {
+  "id": "d0018",
+  "comuna": "buin",
+  "nombre_documento": "2347_da_inicio_a_proceso_de_invalidacion_de_los_decretos_alcaldicios_correspondi",
+  "archivo": "buin_2347_da_inicio_a_proceso_de_invalidacion_de_los_decretos_alcaldicios_correspondi__2496077.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 8
+  },
+  "senales_tramite": {
+   "txt_inicio": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.860\r\n\r\n|\r\n\r\nLunes 27 de Mayo de 2024\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 2496077\r\n\r\nMUNICIPALIDAD DE BUIN\r\n\r\nDA INICIO A PROCESO DE INVALIDACIÓN DE LOS DECRETOS ALCALDICIOS\r\nQUE INDICA\r\nNúm. 1.789.- Buin, 16 de mayo de 2024.\r\nVistos:\r\nLas facultades que me otorgan los Arts. 5 letra k), 6, 12 y 63 letra i) de la Ley N° 18.695,\r\nOrgánica Constitucional de Municipalidades y sus modificaciones; DFL N° 458, de 1975, Ley\r\nGeneral de Urbanismo y Construcciones; DS (V. y U.) N° 47, de 1992, Ordenanza General de\r\nUrbanismo y Construcciones; Ley N° 19.880 que Establece Bases de los Procedimientos\r\nAdministrativos que rigen los actos de los Órganos de la Administración del Estado.\r\nConsiderando:\r\n1.- Por medio del decreto alcaldicio N° 2.202, de fecha 7 de julio de 2023, se aprueba el\r\nresumen ejecutivo y los planos de imagen objetivo del “Plan Regulador Comunal para Buin en\r\nsus Áreas Urbanizables y de Desarrollo Prioritario” e inicia la Consulta Pública de Imagen\r\nobjetivo, por un periodo de 30 días.\r\n2.- El decreto alcaldicio, N° 2.388 de fecha 25 de julio de 2023, se aprueba la prórroga de\r\n15 días de la consulta pública “Plan Regulador Comunal para Buin en sus Áreas Urbanizables y\r\nde Desarrollo Prioritario”.\r\n3.- El decreto alcaldicio N° 3.400 de fecha 20 de octubre de 2023, que ratifica el Acue"
+ },
+ {
+  "id": "d0019",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_115_estudio_capacidad_vial_plan_regulador_entre_utp_consultores_spa_c",
+  "archivo": "buin_resolucion_115_estudio_capacidad_vial_plan_regulador_entre_utp_consultores_spa_c__115_UTP%20ARISTO%20CONSULTORES%20CON%20FASEUNO.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0020",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_129_estudio_de_capacidad_vial_plan_regulador_comunal_entre_utp_aristo",
+  "archivo": "buin_resolucion_129_estudio_de_capacidad_vial_plan_regulador_comunal_entre_utp_aristo__129_UTP%20Aristo%20Consultores%20y%20otros.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 20,
+  "paginas_escaneadas": 20,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0021",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_275_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_275_estudio_capacidad_vial_plan_regulador_comunal__TC%20275.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 58,
+  "paginas_escaneadas": 58,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0022",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_354_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_354_estudio_capacidad_vial_plan_regulador_comunal__TC%20354.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0023",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_376_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_376_estudio_capacidad_vial_plan_regulador_comunal__TC%20376.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0024",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_395_estudio_de_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_395_estudio_de_capacidad_vial_plan_regulador_comunal__TC%20395.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0025",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_400_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_400_estudio_capacidad_vial_plan_regulador_comunal__TC%20400.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "LE23"
+ },
+ {
+  "id": "d0026",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_41_aumento_plazo_estudio_capacidad_vial_plan_regulador_entre_aristo_c",
+  "archivo": "buin_resolucion_41_aumento_plazo_estudio_capacidad_vial_plan_regulador_entre_aristo_c__41_UTP%20ARISTO%20FASEUNO.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0027",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_444_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_444_estudio_capacidad_vial_plan_regulador_comunal__TC%20444.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0028",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_454_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_454_estudio_capacidad_vial_plan_regulador_comunal__TC%20454.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0029",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_478_estudio_capacidad_vial_plan_regulador_comunal",
+  "archivo": "buin_resolucion_478_estudio_capacidad_vial_plan_regulador_comunal__TC%20478.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0030",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_87_modificacion_evaluacion_ambiental_estrategica_plan_regulador_comun",
+  "archivo": "buin_resolucion_87_modificacion_evaluacion_ambiental_estrategica_plan_regulador_comun__87_Patricio%20Contreras.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0031",
+  "comuna": "buin",
+  "nombre_documento": "resolucion_926_acuerdo_n_131_aprueba_dar_inicio_a_la_elaboracion_del_plan_regula",
+  "archivo": "buin_resolucion_926_acuerdo_n_131_aprueba_dar_inicio_a_la_elaboracion_del_plan_regula__926.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "i\r\n\r\n.il\r\n\r\nE, BUIN\r\n\r\nry,\r\n\r\nYtq vbq\r\n\r\nSecreterie IVlunicioal\r\n\r\n[5 ABR zon\r\ncl Zb\r\nDECRETo ALCALDICIo *\"\r\n/ vlsros: Las facultades que me otorgan los Arts. 5,\r\n\r\nBUIN,\r\n\r\n12, 63 letras i) y Art. 65 letra b) de la Ley N' 1.8.695 de 1988, Ley Orgánica Constitucional de\r\nMunicipalidades y sus modificaciones.\r\n\r\nCONSIDERANDO 1.- Que por Decreto N\" 2773 de fecha 23 de octubre 2018, el Sr. Alcalde\r\ndelega en el Administrador Municipal Sr. fuan Astudillo Araya, atribuciones y facultades\r\nAlcaldicias.\r\n2.- El Memorándum N\" 271 de fecha 0L de Abril de 2022, dela Secretaria\r\nComunal de Planificación, solicita aprobación del Concejo Municipal, para dar inicio a la\r\nelaboración del Plan Regulador Comunal.\r\n3.- ElAcuerdo N\" 131 de la Sesión Ordinaria N'42 del Conceio Municipal\r\n\r\nde fecha 04 de Abril de 2022.\r\n\r\nDECRETO\r\n\r\nApruébese ACUERDO N\" 131 de la Sesión Ordinaria N\" 42 del Concejo\r\nMunicipal de fecha 04 de Abril de 2022, que por unanimidad de los miembros del Concejo, se\r\naprueba dar inicio a la elaboración del Plan Regulador Comunal en sus áreas de urbanizables\r\ny de Desarrollo Prioritario, que resuelva problemáticas puntuales de planificación en\r\nde la comuna.\r\nsectores es\r\n¡ecíficos\r\n\r\nI\r\n\r\nANórEsE,coMUNfQUEsEYARcHfvEsE\r\n\r\nulD AO\r\n\r\nI\r\n\r\nu\r\n\r\nt\\\r\n\r\nrx l/,\r\n{\r\n\r\n¡DOR\r\n\r\nI\r\nRÓNIMO úeRrrur coRMAz\r\nABOGADO\r\nSECRETARIO MUNICIPAL\r\n\r\nI A\r\nTRADOR MUNICIPAL\r\n\r\nL\r\n\r\nPor Orden del Sr. Alcalde\r\n\r\nC\r\n\r\nDA\r\n5EC\r\n\r\nlu\r\nArchivo SECMU\r\n\r\nILUSTRE\r\n\r\n}'IUNI€IPALIDAD\r\n\r\nDE\r\n\r\nBUIN"
+ },
+ {
+  "id": "d0515",
+  "comuna": "buin",
+  "nombre_documento": "3269_plan_regulador_comunal_para_buin_en_sus_areas_urbanizables_y_de_desarrallo",
+  "archivo": "buin_3269_plan_regulador_comunal_para_buin_en_sus_areas_urbanizables_y_de_desarrallo___2237138.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 3,
+   "usos_de_suelo": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZCH"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 43.431\r\n\r\n|\r\n\r\nMiércoles 21 de Diciembre de 2022\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 2237138\r\n\r\nMUNICIPALIDAD DE BUIN\r\n\r\n“PLAN REGULADOR COMUNAL PARA BUIN EN SUS ÁREAS\r\nURBANIZABLES Y DE DESARROLLO PRIORITARIO”, COMUNICA INICIO\r\nDEL PROCESO DE EVALUACIÓN AMBIENTAL ESTRATÉGICA\r\na) Órgano Responsable: Ilustre Municipalidad de Buin.\r\nb) Resumen de sus antecedentes: La Ilustre Municipalidad de Buin a través del\r\ndecreto alcaldicio N° 3269 del 16 de noviembre de 2022, ha dado inicio al proceso de\r\nEvaluación Ambiental Estratégica del Estudio \"Plan Regulador Comunal para Buin en\r\nsus Áreas Urbanizables y de Desarrollo Prioritario\". Este tiene por objetivo regular la\r\nexpansión urbana sostenida que ha tenido la comuna por el desarrollo inmobiliario, a\r\ntravés de la definición de normas urbanas básicas en el sector de la Conurbación\r\nBuin-Maipo-Linderos, y el área urbana de Alto Jahuel, que contenga los lineamientos y\r\nobjetivos necesarios para el desarrollo comunal y la imagen de ciudad sustentable\r\ndefinida bajo los estándares ambientales del Pladeco 2021 - 2028.\r\nEn específico, busca regular el proceso de expansión urbana en los sectores de\r\nNuevo Buin, Buin Oriente, Linderos, Villaseca, Maipo y Alto Jahuel a través de la\r\ndefinición de normas urbanísticas para el uso del suelo y la creación de subcentros\r\n"
+ },
+ {
+  "id": "d0516",
+  "comuna": "bulnes",
+  "nombre_documento": "125_promulgacion_del_plan_regulador_comuna_de_bulnes",
+  "archivo": "bulnes_125_promulgacion_del_plan_regulador_comuna_de_bulnes__PUBLICACIoN_D.O._PRC_BULNES_06.10.2015.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "agrupamiento": 5,
+   "normas_urbanisticas": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 16,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZCU",
+   "ZED",
+   "ZES",
+   "ZH-1",
+   "ZH-2",
+   "ZH-3",
+   "ZHMC",
+   "ZHMP",
+   "ZONA"
+  ],
+  "puntaje_normativo": 10,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 10 senales normativas (altura_maxima, agrupamiento, normas_urbanisticas, zonificacion)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.275.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nConsejo de la Sociedad Civil del Ministerio\r\nSecretaría General de Gobierno............. P.9\r\n\r\nNormas Generales\r\n\r\nMINISTERIO DEL TRABAJO Y\r\nPREVISIÓN SOCIAL\r\n\r\nPODER EJECUTIVO\r\nMINISTERIO DEL INTERIOR Y\r\nSEGURIDAD PÚBLICA\r\nDecreto número 1.103, de 2015.Nombra Intendente de la Región de\r\nValparaíso a don Gabriel Alejandro Aldoney\r\nVargas. .................................................P.1\r\nGobierno Regional Región del Biobío\r\nResolución número 125, de 2015.Deja sin efecto resolución N° 18, de\r\n2013, del Gobierno Regional del Biobío,\r\ny promulga Plan Regulador Comunal de\r\nBulnes..................................................P.2\r\nMINISTERIO DE HACIENDA\r\nDecreto número 311 exento, de\r\n2015.- Establece medida de salvaguardia\r\nprovisional a las importaciones de\r\nmercancías que indica..........................P.8\r\nMINISTERIO SECRETARÍA\r\nGENERAL DE GOBIERNO\r\n\r\nDecreto número 51, de 2015.Modifica decreto N° 28, de 2011, que\r\nestablece componentes, líneas de acción,\r\nprocedimientos, modalidades y mecanismos\r\nde control del Programa de Formación en el\r\nPuesto de Trabajo. ................................. P.9\r\nMINISTERIO DE OBRAS PÚBLICAS\r\nD e c r e t o n ú m e r o 2 0 3 , d e 2 0 1 5.Designa transitoria y provisionalmente\r\nD"
+ },
+ {
+  "id": "d0032",
+  "comuna": "cabildo",
+  "nombre_documento": "1349_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_cabildo",
+  "archivo": "cabildo_1349_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_cabildo__Enmienda Nro 1 Plan Regulador comunal de Cabildo.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 2,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.980\r\n\r\n|\r\n\r\nMiércoles 16 de Junio de 2021\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1961119\r\n\r\nMUNICIPALIDAD DE CABILDO\r\n\r\nAPRUEBA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE CABILDO\r\nNúm. 1.349.- Cabildo, 5 de mayo de 2021.\r\nVistos:\r\nLa Ley 18.695, Orgánica Constitucional de Municipalidades y sus modificaciones; la\r\nresolución 7/2019, de la Contraloría General de la República; la Sentencia de Proclamación del\r\nTribunal Electoral Regional de Valparaíso, de fecha 1 de diciembre de 2016, que proclama la\r\nelección del Alcalde de esta Municipalidad; decreto alcaldicio Nº 1.152, de fecha 15 de abril de\r\n2021, que deja constancia de su subrogancia del cargo de Alcalde por motivo que indica; Plan\r\nRegulador Comunal de Cabildo aprobado por decreto supremo (OO.PP.) Nº 1.615, de 30 de\r\nnoviembre de 1965, publicado en el Diario Oficial de 5 de enero de 1966 y sus posteriores\r\nmodificaciones; lo dispuesto en el artículo 45, inciso 2, número 1 de la Ley General de\r\nUrbanismo y Construcciones, que faculta a las municipalidades para realizar modificaciones a\r\nlos planes reguladores comunales a través del procedimiento de enmienda, en las materias que\r\nindica; lo dispuesto en el artículo 2.1.13 inciso 2 de la Ordenanza General de Urbanismo y\r\nConstrucciones, que faculta al Concejo Municipal para autorizar enmiend"
+ },
+ {
+  "id": "d0517",
+  "comuna": "calbuco",
+  "nombre_documento": "4077_aprueba_enmienda_012018_al_plan_regulador_comunal_de_calbuco_sector_15_de_s",
+  "archivo": "calbuco_4077_aprueba_enmienda_012018_al_plan_regulador_comunal_de_calbuco_sector_15_de_s__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZI-1"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 4077, CALBUCO (2019)\r\n\r\nDecreto 4077\r\nAPRUEBA ENMIENDA 01/2018 AL PLAN REGULADOR COMUNAL DE CALBUCO,\r\nSECTOR 15 DE SEPTIEMBRE\r\nMUNICIPALIDAD DE CALBUCO\r\nFecha Publicación: 13-JUL-2019 | Fecha Promulgación: 25-JUN-2019\r\nTipo Versión: Única De : 13-JUL-2019\r\nUrl Corta: https://bcn.cl/3mvbr\r\n\r\nAPRUEBA ENMIENDA 01/2018 AL PLAN REGULADOR COMUNAL DE CALBUCO, SECTOR 15 DE\r\nSEPTIEMBRE\r\nNúm. 4.077.- Calbuco, 25 de junio de 2019.\r\nVistos y teniendo presente:\r\n1) El oficio Nº 1621-16, del 15 de noviembre 2016 del Tribunal Electoral\r\nRegional, Décima Región de Los Lagos, que remite Fallo y Acta Proclamación Alcalde\r\nElecto Rubén Cárdenas Gómez.\r\n2) El oficio Nº 1829-16, del 17 de noviembre de 2016 del Tribunal Electoral\r\nRegional, Décima Región de Los Lagos, que remite Fallo y Acta Proclamación\r\nConcejales Electos: Sr. Pedro Yáñez Uribe, Sr. Juan Francisco Calbucoy Guerrero,\r\nSr. Óscar González Almonacid, Sr. Sergio García Álvarez, Sr. Iván Vásquez\r\nGómez, Sr. Manuel Oyarzo Barría; El Acta Constitutiva Concejo Municipal Calbuco,\r\nfecha 6 de diciembre de 2016.\r\n3) El decreto alcaldicio Nº 6.093, de la Ilustre Municipalidad de Calbuco, con\r\nfecha 6 de diciembre de 2016, que \"Promulga Acta constitutiva del Concejo Municipal\r\nde Calbuco y la parte del Fallo del Tribunal Electoral Regional, Décima Región de\r\nLos Lagos\".\r\n4) El decreto alcaldicio Nº 6.094, de la Ilustre Municipalidad de Calbuco, con\r\nfecha 6 de diciembre de 2016, mediante el cual Rubén Cárdenas Gómez asume como\r\nAlcald"
+ }
+]

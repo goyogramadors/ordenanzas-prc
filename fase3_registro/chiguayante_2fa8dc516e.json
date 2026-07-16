@@ -1,0 +1,20 @@
+{
+  "id": "chiguayante_2fa8dc516e",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_decreto_alcaldicio_637_promulga_plan_regulador_comunal_de_chiguayante__ENMIENDAS_20Y_20MODIFICACIONES_20PLAN_20REGULADOR.pdf",
+  "nombre": "chiguayante_decreto_alcaldicio_637_promulga_plan_regulador_comunal_de_chiguayante__ENMIENDAS_20Y_20MODIFICACIONES_20PLAN_20REGULADOR.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:07:00",
+  "fin": "2026-07-14T15:29:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ficha cronologica de Asesoria Urbana: solo lista los decretos de modificaciones/enmiendas del PRC (numeros y fechas de publicacion en Diario Oficial, 2006-2018). No transcribe ningun valor normativo. Util como indice historico, no como fuente de normas."
+  }
+}

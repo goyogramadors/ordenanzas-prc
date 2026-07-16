@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_911e4e5547",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_576_rectifica_el_articulo_n_20_de_la_ordenanza_local_del_plan_regulador_comunal___Exportar.pdf",
+  "nombre": "la_serena_576_rectifica_el_articulo_n_20_de_la_ordenanza_local_del_plan_regulador_comunal___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:50:54",
+  "fin": "2026-07-14T15:55:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "SOLO VIALIDAD: Decreto 576 (26-05-2021) rectifica la MISMA fila del Cuadro 9 de vialidad (Av. El Jardin) que el decreto 624 (07-06-2021), pero en sentido OPUESTO. El 624, por ser posterior, es el estado final. Ninguno aporta norma urbanistica."
+  }
+}

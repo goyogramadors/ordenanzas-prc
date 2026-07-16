@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_61dc7a8086",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.7321.16dic2020.pdf",
+  "nombre": "las_condes_decreto.7321.16dic2020.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:57:42",
+  "fin": "2026-07-14T16:01:23",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        13
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LAS CONDES: Decreto 7321 (dic-2020) que pone TERMINO a la Evaluacion Ambiental Estrategica de la Modificacion N10 al PRC (predio SERVIU de calle Santa Zita, 2.063 m2, para vivienda social). No es la ordenanza completa, pero en la Seccion G 'Opcion de Desarrollo Escogida' fija las normas de la zona nueva EAm2. Norma en p12-13: 'Tabla N10 Normas urbanisticas EAm2' con predial minima 1.500 m2, densidad maxima neta 300 viv por ha, CC 1.6, COS 0.4, coeficiente de area libre 0.4, rasante 70 grados, altura maxima 5 pisos y 17,5 m, antejardin 7 m; continua en p13 con distanciamiento (OGUC) y adosamiento (aislado, no se permite). Sin trampa, verificado en render; sello municipal de Las Condes confirmado (sin contaminacion de otra comuna). Las p10-11 son indicadores de seguimiento ambiental, NO normas. Es la ficha de UNA sola zona."
+  }
+}

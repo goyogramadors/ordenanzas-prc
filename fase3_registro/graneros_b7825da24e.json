@@ -1,0 +1,20 @@
+{
+  "id": "graneros_b7825da24e",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_alcaldicio_1091_inicio_aprobacion_plan_regulador__45aa604b-a0fc-4916-a1b0-c98595463b38.pdf",
+  "nombre": "graneros_decreto_alcaldicio_1091_inicio_aprobacion_plan_regulador__45aa604b-a0fc-4916-a1b0-c98595463b38.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:16:34",
+  "fin": "2026-07-15T08:18:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio N1091 (02-NOV-2015): dispone INICIO de tramitacion de Modificacion PRC Graneros (art.2.1.11 OGUC). Tramite administrativo de inicio, solo considerandos/vistos/decreto 1 articulo. Sin tabla ni articulos de normas."
+  }
+}

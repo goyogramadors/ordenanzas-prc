@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_ac8e8af059",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_795_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DIARIO_OFICIAL19-04-2016.pdf",
+  "nombre": "san_joaquin_795_promulguese_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DIARIO_OFICIAL19-04-2016.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:53:23",
+  "fin": "2026-07-15T12:54:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 795/2016 (Diario Oficial 19-abr-2016): promulga modificacion PRC San Joaquin 'Modificacion de zonas entre calle Embajador Noel y Av. Pdte Salvador Allende', sustituye normativa de Zonas Z-4/Z-5 por Zona Z-3 en poligono A-B-C-D-E-F. No reproduce cuadro de normas (COS/CC/altura); remite a Memoria Explicativa y Plano PRSJ-7 no incluidos."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "las_condes_3ab17477f3",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.173.11ene2010.pdf",
+  "rangos": [
+    [
+      3,
+      3
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Dec.Secc.1.173/2010 promulga Modificacion N.7 PRC Las Condes. p3 (Decreto puntos 1-4): reasigna poligono A-B-C-D-E-A de zona UV a UM (uso suelo) y a EAb4 (edificacion aislada baja N.4); agrega texto al art.38 Cap.IV con parametro concreto: equipamiento de educacion/cultura/salud en terrenos >5ha del poligono definido, altura maxima 5 pisos y 17,50m. p4 EXCLUIDA (tabla de vialidad, cuadro Av.Plaza). Confianza MEDIA: mezcla reasignacion de zona (sin valores) con un parametro puntual de altura si transcrito.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:18:50",
+  "fin": "2026-07-15T14:20:34",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_173_modificacion7_poligono_um_eab4_pag3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "UM",
+      "E-Ab4"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Mezcla reasignacion de zona de uso de suelo (UV->UM, sin valores propios en este acto) con parametro puntual de altura (5 pisos/17,50m) para equipamiento educacion/cultura/salud en terrenos >=5ha dentro de poligono especifico de E-Ab4. p4 excluida (vialidad, no norma de zona)."
+  }
+}

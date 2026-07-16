@@ -1,0 +1,25 @@
+{
+  "id": "quinta_normal_f5915afe6f",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_649_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "quinta_normal_649_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:19:29",
+  "fin": "2026-07-14T21:22:09",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        9
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "QUINTA NORMAL: Decreto 649 (2002, BCN LeyChile, 9p), Modifica Ordenanza del PRC: incorpora la ZONA E (parte de la zona E reglamentada antes en el PRC de Santiago). Normas en p4-9, EN TEXTO PLANO RICO Y COMPLETO (sin trampa, 3 delatores verificados como frases 'reemplazase el texto del articulo X por lo siguiente' seguidas SI de contenido real): Zona E completa con usos permitidos y prohibidos, y Condiciones de Subdivision Predial y Edificacion separadas por uso (para vivienda: predial minima 100 m2, frente 6 m, ocupacion 80 por ciento, agrupamiento aislado-pareado-continuo, altura 15 m pareado y 18 m continuo, antejardin optativo, estacionamientos segun PRMS; para equipamiento menor de combustibles; para industria y terminales de transporte: predial minima 1.500 m2, frente 25 m, agrupamiento aislado, ocupacion 70 por ciento, antejardin 5-10 m; para otros usos permitidos: predial minima 300 m2, frente 12 m, ocupacion 70 por ciento). p1-3 son considerandos y la reforma de articulos generales (limite urbano, poligono con coordenadas de puntos y tramos 5a-5e y 6, listado de zonas). p4 imagen declarada es solo logo BCN."
+  }
+}

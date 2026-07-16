@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_ea49c18e26",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-5.pdf",
+  "nombre": "penalolen_Zona_EQ-5.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:12:22",
+  "fin": "2026-07-14T21:14:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Extracto Zona EQ-5 del PRC Peñalolen (Asesoria Urbana-SECPLA): area de inestabilidad estructural (rellenos artificiales/pozos de extraccion). Tabla 'Condiciones de Subdivision y de Edificacion' por pozo (Quebrada De Macul/Canal Las Perdices): usos de suelo permitidos, superficie predial minima 3,00 ha, ocupacion maxima 10%, coef. constructibilidad 0,1. Tabla en TEXTO."
+  }
+}

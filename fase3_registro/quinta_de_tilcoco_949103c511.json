@@ -1,0 +1,25 @@
+{
+  "id": "quinta_de_tilcoco_949103c511",
+  "comuna": "quinta_de_tilcoco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_de_tilcoco_24_aprueba_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "quinta_de_tilcoco_24_aprueba_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:19:20",
+  "fin": "2026-07-14T21:20:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        6
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "!!ALERTA CRITICA!! El CUADRO PRINCIPAL del PRC (art.23: usos de suelo permitidos/prohibidos + condiciones de subdivision y edificacion para TODAS las 11 zonas: ZU-1 a ZU-5, ZTE-1, ZTE-2, ZR, ZE-1 a ZE-4) esta AUSENTE de este PDF: el texto dice literalmente 'NOTA: VER DIARIO OFICIAL N.35.344 DEL DIA LUNES 18 DE DICIEMBRE DE 1995, PAGINAS 17-18'. Tambien esta ausente el cuadro de vialidad estructurante (art.26, mismo DO pagina 18) pero eso no importa por ser vialidad. Lo UNICO que SI aparece con valores reales en este PDF es el art.17 (p6): normas de servicentros/expendio de combustibles (predial min 1.500 m2 si via <15m, accesos 5 m, angulo 70, agrupamiento aislado) y GARAJES Y TALLERES MECANICOS (predial min 500 m2, frente 15 m, aislado). REQUIERE URGENTE conseguir el Diario Oficial 35.344 (18-12-1995) paginas 17-18 para no dejar Quinta de Tilcoco sin sus normas de zona."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_18321aca38",
+  "comuna": "la_serena",
+  "ruta": "descargas\\la_serena\\proactiva_externa\\doc_34_04072016025558.pdf",
+  "nombre": "doc_34_04072016025558.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 33,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:19:27",
+  "fin": "2026-07-15T08:20:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Documento es DECRETO que aprueba Reglamento Municipal de Transparencia de La Serena (acceso a informacion publica, Ley 20285), no un PRC. Pag1 decreto con vistos citando ley20285, decreto13/2009, ley19628. Pag15 tabla de items de transparencia activa (Estructura Organica, Personal y Remuneraciones, Adquisiciones) sin relacion a zonas de edificacion. Muestreadas pag1,15,33 (33 total). Sin tablas de normas urbanisticas."
+  }
+}

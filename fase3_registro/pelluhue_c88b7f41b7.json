@@ -1,0 +1,25 @@
+{
+  "id": "pelluhue_c88b7f41b7",
+  "comuna": "pelluhue",
+  "ruta": "Ordenanzas ordenadas\\pelluhue_decreto_6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue__Decreto_PRC_Pelluhue.pdf",
+  "nombre": "pelluhue_decreto_6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue__Decreto_PRC_Pelluhue.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 27,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:43:27",
+  "fin": "2026-07-15T08:45:38",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        20
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Titulo4 Zonificacion Usos de Suelo y Normas Especificas (Art4.1 pag6) lista 14 zonas (ZC,ZU-1/2/3,ZAC,ZTBC-1/2,ZAV,ZE-1/2/3,ZAP,ZP-1/2). Cada zona ~1 pagina con tabla USOS DE SUELO + tabla NORMAS URBANISTICAS DE SUBDIVISION Y EDIFICACION (superficie predial minima, COS, coef.constructibilidad, altura maxima, agrupamiento, antejardin, densidad bruta). Confirmado inicio pag7 (ZC Zona Centro) y fin pag20 (ZP-2 Zona Proteccion Natural2); pag21 Titulo5 Vialidad Urbana Estructurante, excluida."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chanaral_8c84efc72a",
+  "comuna": "chanaral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chanaral_6714_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu5__Publicacion Diario Oficial - I.Municipalidad de Chañaral.-.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "CHANARAL: Diario Oficial 10-dic-2016, enmienda al PRC, Zona Urbana ZU5 (subzonas ZU-5.1 y 5.2, sector quebradas y pendientes). Aqui las normas SI vienen en texto plano (a diferencia de la enmienda ZU4.1, que las trae como imagen): modifica en el Cuadro de Normas de Urbanizacion del Art 21 el coef. de constructibilidad (1,4 -> 1,8), la ocupacion de suelo (40% -> 50%) y el antejardin (3m -> opcional). Documento de 1 pagina, texto completo leido.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:10:04",
+  "fin": "2026-07-15T14:11:28",
+  "resultado": {
+    "archivo": "extraccion_normas\\chanaral\\chanaral_6714_enmienda_zu5_pag1.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZU-5.1",
+      "ZU-5.2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmienda parcial en texto plano (no imagen): CC 1.4->1.8, ocupacion 40%->50%, antejardin 3m->opcional. Resto de parametros de la zona no vienen en este acto. Coincide con nota_fase3."
+  }
+}

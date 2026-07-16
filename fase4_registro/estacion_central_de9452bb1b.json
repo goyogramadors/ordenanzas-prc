@@ -1,0 +1,30 @@
+{
+  "id": "estacion_central_de9452bb1b",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_decreto_alcaldicio_366_modificase_el_plan_regulador_comunal_de_santiago_vigente___decreto_366.pdf",
+  "rangos": [
+    [
+      6,
+      8
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "ESTACION CENTRAL: Decreto Alcaldicio 366 (abr-2018) que aprueba la MODIFICACION N2 al PRC de Santiago vigente para Estacion Central, incorporando el Sector Ex Quinta Normal y Alameda Poniente con TRES zonas nuevas. Normas en p6-8: ZONA Z-LBO (p6-7: usos de suelo + altura 31,50 m, densidad bruta 3000 hab/ha, antejardines 10 m y 3 m segun tramo), ZONA Z-RI (p7-8: altura 14,00 m, densidad 1500 hab/ha, antejardin 3,00 m) y ZONA Z-RB (p8: altura 11,50 m, densidad 1000 hab/ha). OJO: estas zonas SOLO fijan altura, densidad y antejardin; NO traen COS, CC ni agrupamiento. Texto fiel, NO es tabla-imagen (7 pags verificadas visualmente). Excluidas: p4-6 tabla de limites geograficos del poligono y p9 vialidad intercomunal.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:07:07",
+  "fin": "2026-07-15T23:13:36",
+  "resultado": {
+    "archivo": "extraccion_normas\\estacion_central\\estacion_central_366_sector_quintanormal_alamedapte_pag6-8.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "Z-LBO",
+      "Z-RI",
+      "Z-RB"
+    ],
+    "confianza": "ALTA",
+    "nota": "3 zonas nuevas con usos completos (residencial/equipamiento/actividades productivas) + normas urbanisticas: Z-LBO altura 31,5m/densidad 3000 hab-ha/antejardin 10-3m, Z-RI altura 14m/densidad 1500/antejardin 3m, Z-RB altura 11,5m/densidad 1000. CONFIRMADO: ninguna trae COS/CC/agrupamiento. Texto nativo sin trampa. Coincide con nota_fase3."
+  }
+}

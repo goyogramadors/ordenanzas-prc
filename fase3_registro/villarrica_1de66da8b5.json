@@ -1,0 +1,25 @@
+{
+  "id": "villarrica_1de66da8b5",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_resolucion_47_modifica_plan_regulador_comunal_de_villarrica__modificacion_ordenanza_local_2003.pdf",
+  "nombre": "villarrica_resolucion_47_modifica_plan_regulador_comunal_de_villarrica__modificacion_ordenanza_local_2003.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:35:12",
+  "fin": "2026-07-14T21:37:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        7
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Resolucion 47/2003 (SEREMI Vivienda IX Region) modifica PRC Villarrica: 'Ampliacion Limites Urbanos y Zonas Z-4, Z-4E, ZE-5, ZE-5A, ZR-1A, SZ-1b, Z-2, Z-3, Z-2E'. TODO EN TEXTO REAL, disperso en varios articulos: p2-4 coordenadas de limite urbano (excluido, es deslinde). p5-6: art.12 modifica cuadro de zonas, agrega ZE-5A; G.6-G.8: agrega usos de suelo permitidos en Z-2/Z-2E/Z-4/Z-4E/ZE-5/ZE-6; SUSTITUYE en ZE-5 la Altura Maxima de Edificacion de 12 a 21 m; crea nueva ZONA ZE-5A con Usos del Suelo y Superficie/Frente Predial Minimo. p7: normas de Portales/Marquesinas para SZ-1a/SZ-1b, distanciamiento Z-2/Z-2E, Paseo Peatonal Camino a Freire 10 m."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "villa_alemana_ac70ec87e6",
+  "comuna": "villa_alemana",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\villa_alemana_decreto_alcaldicio_31_llama_a_propuesta_publica_n022016_denominada_actualizacion__2016ad31.pdf",
+  "nombre": "villa_alemana_decreto_alcaldicio_31_llama_a_propuesta_publica_n022016_denominada_actualizacion__2016ad31.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T13:00:17",
+  "fin": "2026-07-15T13:02:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 31/2016: LLAMASE a Propuesta Publica N02/2016 'Actualizacion Plan Regulador Comunal Villa Alemana'. Documento de bases de licitacion (financiamiento, plazos, comision evaluadora), no contiene normas urbanisticas."
+  }
+}

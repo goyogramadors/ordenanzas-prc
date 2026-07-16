@@ -1,0 +1,20 @@
+{
+  "id": "santiago_d309b4c52f",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_16.-Acuerdo-N_C2_B0176.pdf",
+  "nombre": "santiago_16.-Acuerdo-N_C2_B0176.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 21,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:56:41",
+  "fin": "2026-07-15T12:58:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Acuerdo N176 del Concejo de Santiago, 10-abr-2019, 21 pags (incluye Resumen Ejecutivo del Proyecto e Informe N9 de la Comision de Barrios). APRUEBA RESUMEN EJECUTIVO del proyecto de modificacion 'Correccion de la Zonificacion Especial, Actualizacion de ICH y otras modificaciones...' -- documento diagnostico/preparatorio (imagen objetivo, objetivos del proyecto, diagnostico de inconsistencias de zonificacion) que describe QUE se va a corregir, sin fijar aun los valores normativos finales. Incluye una 'Tabla de Actividades Productivas (TAP) N1' que es solo un listado CIIU de giros/actividades economicas clasificadas (no usos de suelo con parametros COS/CC/altura por zona) y que ademas es la version VIGENTE que se propone actualizar, no la nueva. Sin tablas de normas urbanisticas aprobadas. Verificado visualmente paginas 1,5,10,15,21 de 21."
+  }
+}

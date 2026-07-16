@@ -1,0 +1,25 @@
+{
+  "id": "la_granja_bff7eceaa2",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_granja_417_promulga_la_aprobacion_a_la_modificacion_n_1_al_plan_regulador_comunal_de_la__1555500.pdf",
+  "nombre": "la_granja_417_promulga_la_aprobacion_a_la_modificacion_n_1_al_plan_regulador_comunal_de_la__1555500.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:47:03",
+  "fin": "2026-07-14T15:49:32",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA GRANJA: Diario Oficial 5-mar-2019, decreto 417 que promulga la MODIFICACION N1 al PRC (PRCLG 2012) para la ZONA ZC-1 (Equipamiento Metropolitano). Normas en pag 3: modifica el Cap IV Zonificacion, Parrafo 2, Art 24, numeral 1, zona ZC-1, reescribiendo DOS CUADROS: 'usos de suelo permitidos' (elimina las Estaciones de Intercambio Modal y Terminales Externos del equipamiento) y 'usos de suelo prohibidos' (los agrega como prohibidos en infraestructura de transporte, actividades productivas y equipamiento). Los cuadros estan como TEXTO en recuadros, verificados en render. OJO: solo cambia USOS DE SUELO, no toca COS, CC ni altura, por eso un filtro por palabras clave de coeficientes NO lo detecta. Pags 1-2 considerandos, pag 4 cierre."
+  }
+}

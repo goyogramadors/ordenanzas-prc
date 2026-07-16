@@ -1,0 +1,25 @@
+{
+  "id": "el_carmen_c9f04620bc",
+  "comuna": "el_carmen",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_carmen_39546_plano_regulador_comuna_el_carmen__Publicacion Diario Oficial.pdf",
+  "nombre": "el_carmen_39546_plano_regulador_comuna_el_carmen__Publicacion Diario Oficial.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:37:36",
+  "fin": "2026-07-14T15:48:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        6
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "FUENTE PARCIAL - OJO. p6: cuadros IMAGEN del Cap.II De la Zonificacion (art.34): ZR (predial 300 m2, COS 0,6, CC 2,0, altura 7 m, antejardin 3 m, densidad 160/300/450 hab/ha), ZE-1 y ZE-2 (predial 200 m2, COS 0,8, CC 5,0, altura 21 m). PERO EL PDF ESTA INCOMPLETO: los encabezados del DO saltan (p6 fisica=pagina 10; p7=14; p9=17; p11=22), faltan las paginas 11-13, 16 y 19-21 del Diario Oficial. Las tablas de ZE-4 (art.30) y ZCH conservacion historica (art.36) NUNCA aparecen. ADEMAS p11 NO ES DE EL CARMEN: es del PRC de CABRERO (Resolucion 148) publicado a continuacion en el mismo DO. p3 = coordenadas de limite urbano + vialidad (excluidas). Requiere buscar el PRC de El Carmen completo para las zonas faltantes."
+  }
+}

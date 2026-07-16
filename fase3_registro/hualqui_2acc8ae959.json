@@ -1,0 +1,25 @@
+{
+  "id": "hualqui_2acc8ae959",
+  "comuna": "hualqui",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\hualqui_982_aprueba_enmienda_n_1_plan_regulador_comunal_de_hualqui_que_deja_sin_exigenci__2483025.pdf",
+  "nombre": "hualqui_982_aprueba_enmienda_n_1_plan_regulador_comunal_de_hualqui_que_deja_sin_exigenci__2483025.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:41:45",
+  "fin": "2026-07-14T15:45:11",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda N1 PRC Hualqui. p1 solo vistos/considerando. p2: el decreto fija la norma en prosa -> 'Disminucion del 100% de la Norma Urbanistica Antejardin (NO SE EXIGE antejardin)' para la ZONA B3 Equipamiento de Cementerio (Hualqui, Quilacoya, Talcamavida). Texto nativo, sin imagen."
+  }
+}

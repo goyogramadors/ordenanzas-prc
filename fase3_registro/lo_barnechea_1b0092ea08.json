@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_1b0092ea08",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_3979_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_14-07-15_MPRC-LB-21_DECRETO_3979_09_07_2015.pdf",
+  "nombre": "lo_barnechea_3979_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_14-07-15_MPRC-LB-21_DECRETO_3979_09_07_2015.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:35:16",
+  "fin": "2026-07-15T08:39:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 3979/2015 (DO 14-07-2015), Modificación PRC Lo Barnechea MPRC-LB-21. Artículo único: deroga art. 22 de la Ordenanza Local del PRC. Es derogación pura, no fija norma nueva ni tabla de parámetros. (Nota: el mismo DO trae a continuación decreto 3980/MPRC-LB-24, documento distinto no correspondiente a este archivo.)"
+  }
+}

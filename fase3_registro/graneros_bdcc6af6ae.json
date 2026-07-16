@@ -1,0 +1,20 @@
+{
+  "id": "graneros_bdcc6af6ae",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_41498_plan_regulador_comunal_de_graneros__463b8d82-b5ff-4d5c-92b5-6aa25af41a66.pdf",
+  "nombre": "graneros_41498_plan_regulador_comunal_de_graneros__463b8d82-b5ff-4d5c-92b5-6aa25af41a66.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:16:34",
+  "fin": "2026-07-15T08:18:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Unica pagina es el PLANO PRCGRA-06106 Zonificacion Localidad de Graneros (escala 1:5000), con cuadro de simbologia normativa comunal (codigos ZH1-ZH4,ZM1-ZM4,ZI1-ZI2,ZEC,ZEE,ZERD,ICH,AV, areas de riesgo/vialidad). Es plano grafico con leyenda de codigos, NO tabla/articulos con parametros numericos (COS,CC,altura,densidad). No es el texto de la ordenanza."
+  }
+}

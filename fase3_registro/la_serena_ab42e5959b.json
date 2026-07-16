@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_ab42e5959b",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3000_ordenanza_contra_la_discriminacion_arbitraria__doc_34_24062019054833.pdf",
+  "nombre": "la_serena_3000_ordenanza_contra_la_discriminacion_arbitraria__doc_34_24062019054833.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:24:58",
+  "fin": "2026-07-15T08:25:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 3000/09 (24.08.2009), I.Municipalidad de La Serena. Aprueba Ordenanza Contra la Discriminacion Arbitraria. No es instrumento de planificacion territorial: sin norma urbanistica."
+  }
+}

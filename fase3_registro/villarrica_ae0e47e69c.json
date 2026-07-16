@@ -1,0 +1,25 @@
+{
+  "id": "villarrica_ae0e47e69c",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\villarrica_oficio_38_interpreta_normas_del_plan_regulador_intercomunal_villarrica_pucon__ord_38-2013_minvu.pdf",
+  "nombre": "villarrica_oficio_38_interpreta_normas_del_plan_regulador_intercomunal_villarrica_pucon__ord_38-2013_minvu.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T13:00:17",
+  "fin": "2026-07-15T13:02:31",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Ord 38/2013 SEREMI MINVU Araucania a DOM Pucon + Informe N1/2013 anexo: interpreta normas del Plan Regulador Intercomunal Villarrica-Pucon (D.S.605/1978). Discute restricciones de 'franja libre' y 'franja de seguridad' de 50 metros (Unidad Territorial C, arts 22/23/29) a lo largo de ribera del lago y costado norte de carretera Villarrica-Pucon; concluye que estos articulos EXCEDEN la competencia del instrumento intercomunal y quedan tacitamente derogados por la OGUC posterior. Valor de distanciamiento citado (50m) pero en contexto de invalidacion, no de cuadro de normas vigente - confianza MEDIA."
+  }
+}

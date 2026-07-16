@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_0b2562bc61",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_3904_13_sep2007.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_3904_13_sep2007.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:53:27",
+  "fin": "2026-07-14T15:55:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: Decreto 3904 (2007, BCN LeyChile, 3p) que APRUEBA EL PLANO SECCIONAL NUEVA LAS CONDES, detallando la zona de uso de suelo UC2 (poligono ABCDA entre Av. Pdte Riesco, Av. Manquehue, calle Cerro El Plomo y Av. Alonso de Cordova). *** NO HAY CUADRO DE NORMAS ***: la unica disposicion normativa es una frase repetida en el decreto y en el Acuerdo 104-2007: 'En esta area se podra emplazar equipamiento de escala mayor aun cuando las vias que enfrenten los proyectos tengan menor categoria'. Es una regla de uso de suelo para UC2, sin parametros (no fija COS, CC, altura ni predial minima). Se registra el rango por precaucion, pero la fase siguiente encontrara una regla en prosa, no una tabla. Cero delatores de tabla-imagen."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e30ea03da7",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_1071_5feb2008.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_1071_5feb2008.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:55:50",
+  "fin": "2026-07-14T20:57:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: decreto 1071 (feb-2008, BCN LeyChile, 2p), aprueba el Plano Seccional Sector Hermanos Cabot. NO trae una tabla nueva: solo reemplaza el inciso que PRECEDE a la tabla C ya existente en el Art 38 (area EAm4), estableciendo que en ese sector se aplicara la Tabla A (en vez de la B por defecto), y que proyectos de densificacion que consideren la manzana completa pueden optar a la Tabla C. Es un CAMBIO DE REGLA DE APLICACION entre tablas ya existentes en la Ordenanza base, no una tabla nueva que transcribir. Texto completo leido, sin delatores de tabla-imagen."
+  }
+}

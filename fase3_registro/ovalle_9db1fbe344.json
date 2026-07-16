@@ -1,0 +1,20 @@
+{
+  "id": "ovalle_9db1fbe344",
+  "comuna": "ovalle",
+  "ruta": "Ordenanzas ordenadas\\ovalle_decreto_exento_4576_ab_plan_regulador__4576.pdf",
+  "nombre": "ovalle_decreto_exento_4576_ab_plan_regulador__4576.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:40:36",
+  "fin": "2026-07-15T08:42:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento4576: ADJUDICA licitacion publica Actualizacion PRC Ovalle a consultora Infracon (monto, plazo, garantias). No es decreto de aprobacion de normas, es adjudicacion de contrato de estudio; sin tablas de zonas."
+  }
+}

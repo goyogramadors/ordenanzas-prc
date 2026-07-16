@@ -1,0 +1,20 @@
+{
+  "id": "antuco_0e19be3574",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_aprueba_modificacion_de_ordenanza_que_regula_otorgamiento_de_beca_munici__Decreto_1898_2019.pdf",
+  "nombre": "antuco_decreto_aprueba_modificacion_de_ordenanza_que_regula_otorgamiento_de_beca_munici__Decreto_1898_2019.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:08:18",
+  "fin": "2026-07-15T08:10:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 1898/2019, modifica ordenanza Beca Municipal Ensenanza Superior. Confirmado visual pag1,6-7,11-12 (arts.13-20, cierre sesion concejo con firmas): solo becas, sin tablas de normas urbanisticas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "san_joaquin_b6adcd9b07",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_1696_apruebese_la_enmienda_al_plan_regulador_comunal_de_san_joaquin_eliminacion___DECRETO_1696.pdf",
+  "nombre": "san_joaquin_1696_apruebese_la_enmienda_al_plan_regulador_comunal_de_san_joaquin_eliminacion___DECRETO_1696.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:53:28",
+  "fin": "2026-07-15T12:55:58",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "texto",
+    "nota": "Decreto 1696 (27-oct-2011, Diario Oficial): Enmienda al PRC de San Joaquín 'Eliminación de exigencia de antejardín y modificación de coeficiente de ocupación de suelo para uso de equipamiento en zona Z-3, Población Lautaro'. Valores reales embebidos en el texto resolutivo (p.2): (a) se elimina la exigencia de antejardín para edificaciones con uso de suelo de equipamiento de clases social y deporte en zona Z3/Población Lautaro; (b) se aumenta en 21,4% el COS, fijando explícitamente 'Porcentaje de ocupación de suelo para equipamiento de clase social y deportivo en el área correspondiente a la Población Lautaro: 85%'. Es una enmienda puntual (no cuadro completo de zona) análoga al precedente freirina_549e2ad04b/gorbea_942ca3c488."
+  }
+}

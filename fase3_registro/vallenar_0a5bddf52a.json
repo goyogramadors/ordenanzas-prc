@@ -1,0 +1,20 @@
+{
+  "id": "vallenar_0a5bddf52a",
+  "comuna": "vallenar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vallenar_decreto_exento_2065_aprueba_y_autoriza_continuidad_y_modificacion_calendarizacio__DEX.2065.pdf",
+  "nombre": "vallenar_decreto_exento_2065_aprueba_y_autoriza_continuidad_y_modificacion_calendarizacio__DEX.2065.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:33:58",
+  "fin": "2026-07-14T21:34:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.Ex.2065/2026: solo autoriza continuidad y modifica la calendarizacion del proceso de Actualizacion del PRC de Vallenar (aun en tramite). Puro tramite administrativo."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pichilemu_d8615858ec",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_1888_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a3__publicacion_zona3_2020.pdf",
+  "nombre": "pichilemu_1888_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a3__publicacion_zona3_2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:47:54",
+  "fin": "2026-07-15T12:10:30",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        4
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Exento 1888, 25-ago-2020, Pichilemu, Aprueba Enmienda PRC Zona A3, 4 pags (pags1-2 copia municipal, pags3-4 copia Diario Oficial N42.748 4-sep-2020, mismo texto). Cambio numerico concreto en poligono A-B-C-D: relocaliza Equipamiento de Seguridad y Cientifico, aumenta Coeficiente de Constructibilidad a 0,52, Ocupacion de Suelo a 52% y Altura Maxima de Edificacion a 10,8 metros. Verificado visualmente paginas 1-4 de 4."
+  }
+}

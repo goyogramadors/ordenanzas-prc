@@ -1,0 +1,20 @@
+{
+  "id": "padre_hurtado_aeaaba4ac8",
+  "comuna": "padre_hurtado",
+  "ruta": "Ordenanzas ordenadas\\padre_hurtado_872_promulga_modificacion_del_plan_regulador_para_la_relocalizacion_de_areas_ver__Diario Oficial Mayo 17.pdf",
+  "nombre": "padre_hurtado_872_promulga_modificacion_del_plan_regulador_para_la_relocalizacion_de_areas_ver__Diario Oficial Mayo 17.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:41:28",
+  "fin": "2026-07-15T08:42:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 872/2017 (DO 13-05-2017), 'Relocalización de Áreas Verdes y Vialidad Sector San Ignacio'. Solo relocaliza polígonos de áreas verdes (redistribuye Zona C2/B3 sin nuevos parámetros) y modifica plano de vialidad (tabla ancho existente/proyectado/antejardín de la Vía N°16 Alberto Hurtado). No fija tabla de normas de zona (COS/CC/altura/etc). Documento trae escaneo duplicado del mismo decreto (p1-3 versión DO, p4-6 versión municipal)."
+  }
+}

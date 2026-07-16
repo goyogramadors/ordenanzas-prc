@@ -1,0 +1,873 @@
+[
+ {
+  "id": "d0041",
+  "comuna": "cerrillos",
+  "nombre_documento": "9462019_plan_regulador_comunal_postergace_la_zona_c_del_plan_regulador_comunal_b",
+  "archivo": "cerrillos_9462019_plan_regulador_comunal_postergace_la_zona_c_del_plan_regulador_comunal_b__Mod. 946 2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "postergacion"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "postergacion de permisos: acto temporal, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.501\r\n\r\n|\r\n\r\nMiércoles 13 de Noviembre de 2019\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1680347\r\n\r\nMUNICIPALIDAD DE CERRILLOS\r\n\r\nMODIFICA DECRETO Nº 202/946 EXENTO, DE 2019\r\nNúm. 202/1.240 exento.- Cerrillos, 17 de octubre de 2019.\r\nVistos:\r\nLa providencia alcaldicia Nº 100/ /2019; el memorándum Nº 600/894/2019 de la Secretaría\r\nComunal de Planificación; el informe favorable de Seremi de Vivienda y Urbanismo Región\r\nMetropolitana, remitido mediante Ord. Nº3510 de fecha 23 de julio de 2019; el Ord.\r\nNº100/173/2019 de fecha 30/07/2019; el Ord. Nº4480 de Seremi de Vivienda y\r\nUrbanismo Región Metropolitana; la Ley 19.880 que establece las Bases de los Procedimientos\r\nAdministrativos que rigen los actos de los Órganos de Administración del Estado; la resolución\r\nNº1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del\r\ntrámite de toma de razón; las facultades que me confiere la ley Nº18.695, Orgánica\r\nConstitucional de Municipalidades.\r\nConsiderando:\r\nQue la Municipalidad de Cerrillos, mediante el Ord. Nº100/173/2019, informa a la Seremi\r\nde Vivienda y Urbanismo Región Metropolitana, que se ha detectado un error en su solicitud, en\r\ncuanto a la definición de los requisitos de provisión de estacionamientos para viviendas en\r\nedificios colectivos y/o acogidos a la"
+ },
+ {
+  "id": "d0042",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_214_contraparte_tecnicna_comision_tecnica_ad_hoc_del_estudio_actu",
+  "archivo": "cerrillos_decreto_exento_214_contraparte_tecnicna_comision_tecnica_ad_hoc_del_estudio_actu__202-0214-2022.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0043",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_880_comunitario_apoyo_proceso_consulta_publica_plan_regulador_com",
+  "archivo": "cerrillos_decreto_exento_880_comunitario_apoyo_proceso_consulta_publica_plan_regulador_com__202-0880-2023.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0044",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_946_postergace_la_zona_c_del_plan_regulador_comunal_barrio_buzeta",
+  "archivo": "cerrillos_decreto_exento_946_postergace_la_zona_c_del_plan_regulador_comunal_barrio_buzeta__202-0946-2019.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "postergacion"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "postergacion de permisos: acto temporal, sin normas urbanisticas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0536",
+  "comuna": "cerrillos",
+  "nombre_documento": "13352019_apruebase_enmienda_n1_plan_regulador_comunal_de_santiago_1991",
+  "archivo": "cerrillos_13352019_apruebase_enmienda_n1_plan_regulador_comunal_de_santiago_1991__DO 1335 ENMIENDA N°1 2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 3,
+   "altura_maxima": 6,
+   "agrupamiento": 10,
+   "rasante": 5,
+   "distanciamiento": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 17
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\n\r\nDE LA REPUBLICA DE CHILE\r\n\r\nMinisterio del Interior y Seguridad Publica\r\n\r\nSECCION\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nMartes 19 de Noviembre de 2019\r\n\r\nNim. 42.506\r\n\r\nPagina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1683074\r\n\r\nMUNICIPALIDAD DE CERRILLOS\r\n\r\nAPRUEBA ENMIENDA N' 1 AL PLAN REGULADOR COMUNAL DE SANTIAGO DE\r\n1990\r\nNum. 202/1.335 exento.- Cerrillos, 8 de noviembre de 2019.\r\n\r\nVistos:\r\nEl DFL N°458 de 1976, Ley General de Urbanismo y Construcciones; el DS N°47,\r\n\r\nOrdenanza General de Urbanismo y Construcciones, Ministerio de Vivienda y Urbanismo; la\r\n\r\nLey 19.880 que establece las Bases de los Procedimientos Administrativos que rigen los actos de\r\n\r\nlos Organos de Administracion del Estado,: la resolucion N°1.600, de 2008, de la Contraloria\r\nGeneral de la Repiblica, que fija normas sobre exencion del tramite de Toma de Razon; las\r\nfacultades que me.confiere la Ley N°1 8:695, Organica Constitucional de Municipalidades.\r\nConsiderando:\r\n\r\n- El Acuerdo de Concejo Municipal, Certificado N°012/2019, de fecha 31 de enero de 2019,\r\nque aprobo iniciar el proceso de Enmienda N'°1 al Plan Regulador Comunal de Santiago de 1990,\r\naprobado por resolucion N°26 de fecha 07/12/1989, publicado en el D.0. en fecha 27/01/1990,\r\nModificado por resoluci0n N°31 de fecha 12/07/1991, publicado en el D:0. en fecha 24/09/1991,\r\nvigente para ia comuna de Cerrillos.\r\n- Ei decreto exento N°202/121/2019, de fecha 1 de febrero de 2019, que ejecuta el Acuerdo\r\n"
+ },
+ {
+  "id": "d0537",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_121_inicio_de_enmienda_n1_plan_regulador_comunal_de_santiago",
+  "archivo": "cerrillos_decreto_exento_121_inicio_de_enmienda_n1_plan_regulador_comunal_de_santiago__202-0121-19.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "LMUI\r\n\r\nI MUNICIPALIDAD DE CERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N° 202/\r\n\r\nCerrilios,\r\nVIstos:\r\n\r\n000121 /2019\r\n\r\nG 1 FED, 2019\r\n\r\nLa Vigésima Sesion Extraordinaria del Concejo\r\nComunal, celebrada con fecha 31 de enero de 2019; el Certificado N°012/2019 de la\r\nSecretaria Municipal; lo dispuesto en los articulos 43° y 45° el D.F.L. N°458 de 1975\r\ndel Ministerio de Vivienda y Urbanismo, que aprueba la Ley General de Urbanismo y\r\nConstrucciones; la Ordenanza General de Urbanismo y Construcciones, en'especial\r\nsus puntos 2.1.4, 2.1.10 y 2.1.13; y las facultades que me confiere la Ley N°18.695,\r\nOrganica Constitucional de Municipalidades.\r\n\r\nCONSIdERAndO:\r\n\r\nEl Acuerdo sostenido por el H. Concejo\r\n\r\nMunicipal,\r\nde\r\n2019. en su Vigesima Sesion Extraordinaria celebrada con fecha 31 de enero\r\n\r\n·La voluntad institucional. de introducir una\r\n\r\nEnmienda al Plan Regulador Comunal de Santiago de 1991, en el sector Buzeta.\r\n\r\nDECRETO:\r\n1. Dése por iniciado el Proceso de Enmienda\r\n\r\nN°1 al Plan Regulador Comunal de Santiago de 1991, en el sector Buzeta, conforme\r\nlo establece la Ley General de Urbanismo y Construcciones y la Ordenanza General\r\nde Urbanismo y Construcciones.\r\n\r\n2.' La Secretaria Comunal de Planificacion a\r\n\r\ntraves de las Unidades Municipales que corresponda, procederan a materializar lo\r\ndispuesto en el presente decreto.\r\nANOTESE, COMUNiQUESE, PUBLiQUESE, CUMPLASE Y\r\nHECHO ARCHIVESE\r\n\r\nSECRETARIA\r\n\r\nMUNIOIPA\r\n\r\nOGECILIAULLOA CHACON\r\nSecretaria Municipal\r\nAAG/C"
+ },
+ {
+  "id": "d0538",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1220_actualizacion_plan_regulador_de_cerrillos",
+  "archivo": "cerrillos_decreto_exento_1220_actualizacion_plan_regulador_de_cerrillos__202-1220-2021.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CERRILLOS\r\nMunicipio Ciudadano\r\n\r\nI.MUNICIPALIDADDECERRILLOS\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\n0012-0\r\n\r\nDECRETO EXENTO N° 2021\r\n\r\nCerrillos,\r\n\r\n/2021\r\n\r\n1 I. NOV 2021\r\n\r\nVISTOS:\r\nLa Providencia Alcaldicia N° 100/ 1024/2021; el\r\n\r\nDecreto Exento N°202/0597/2018; Decreto Exento N°202/1438/2018; Decreto\r\nExento N°202/0261/2019; Decreto Exento N°202/0624/2019; Decreto Exento\r\n\r\nN°202/1403/2019;DecretoExentoN°202/1526/2019;DecretoExento\r\n\r\nN°202/0592/2021; Novena Sesion Ordinaria del Concejo Municipal de la Octava\r\nAdministracion; La Circular 20 del 26.07.2021 del Gobierno Regional Metropolitano\r\ny las facultades que me confiere la Ley N°18.695, Organica Constitucional de\r\nMunicipalidades.\r\nCOnSIdERANdO:\r\n\r\n1. Que, dado el contexto de Pandemia a\r\ncausa del Covid-19 se hacia imposible llevar a cabo las actividades de\r\nparticipacion ciudadana de la etapa 3 del estudio denominando \"Actualizacion Plan\r\n\r\nRegulador Comunal de Cerrillos\", por lo cual se suspendio la ejecucion del\r\nN°202/0592/2021.\r\n\r\n2.Que en la Novena Sesion Ordinaria del\r\n(SECPLAN) en conjunto con el adjudicatario (URBE Diseno y Gestion Urbana\r\nLimitada), presentaron un avance del proyecto correspondiendo a las etapas ya\r\nterminadas de la 1era a la 3era, reanudandose la ejecucion del proyecto como se\r\nestablecio en dicha sesion.\r\n\r\nDECRETO:\r\n\r\n1. Reanudese a contar de 26.09.2021 la\r\n\r\nejecucion del estudio denominado “Actualizacion Plan Regulador Comunal de\r\nCerrillos\" contratado con la empresa (URBE Diseno y Gestion Urbana"
+ },
+ {
+  "id": "d0539",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1335_apruebase_enmienda_n1_plan_regulador_comunal_de_santiago_199",
+  "archivo": "cerrillos_decreto_exento_1335_apruebase_enmienda_n1_plan_regulador_comunal_de_santiago_199__202-1335-2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 3,
+   "altura_maxima": 6,
+   "agrupamiento": 11,
+   "rasante": 5,
+   "distanciamiento": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 18
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I. MUNICIPALIDAD DE CERRILLOS\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\n001335\r\nDECRETO EXENTO N'202I\r\n\r\nCerrillos,\r\n\r\n12019\r\n\r\nr8 NOV 2019\r\n\r\nVISTOS:\r\n\r\nEl D.F.L. N°458 de 1976, Ley General de\r\nUrbanismo y Construcciones; el D.S. N°47, Ordenanza General de Urbanismo y\r\nConstrucciones, Ministerio de Vivienda y Urbanismo; la Ley 19.880 que establece las\r\nBases de los Procedimientos Administrativos que rigen los actos de los Organos de\r\nAdministracion del Estado; la Resolucion N°1.600, de 2008, de la Contraloria\r\n\r\nGeneral de la Republica, que fja normas sobre exencion del tramite de Toma de\r\nRazon; las facultades que me confiere la Ley N°18.695, Organica Constitucional de\r\nMunicipalidades.\r\n\r\nCONSIDERANDO:\r\n\r\n- El Acuerdo de Concejo Municipal, Certificado\r\nN°012/2019, de fecha 31 de Enero de 2019, que aprobo iniciar el proceso de\r\nEnmienda N'1 al Plan Regulador Comunal de Santiago de 1990, aprobado por\r\nResolucion N°26 de fecha 07/12/1989, publicado en el D.0. en fecha 27/01/1990,\r\nModificado por Resolucion N°31 de fecha 12/07/1991, publicado en el D.0. en fecha\r\n24/09/1991, vigente para la comuna de Cerrillos.\r\n- El Decreto Exento N°202/121/2019, de fecha 01\r\n\r\nde Febrero de 2019, que ejecuta el Acuerdo de Concejo Municipal, Certificado\r\n\r\nN°012/2019, de fecha 31 de Enero de 2019.\r\n\r\nEl despacho por el Municipio, de cartas\r\n\r\ncertificadas informativas dirigidas a las organizaciones territoriales de la comuna,\r\nespecialmente a los afectados, dando cuenta del proyecto de enmienda, de acuerdo\r"
+ },
+ {
+  "id": "d0540",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1403_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_1403_actualizacion_plan_regulador_comunal_cerrillos__202-1403-2019.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MU\r\n\r\nI.MUNICIPALIDADDECERRILLOS\r\n\r\n001403 12019\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N 202/\r\nCerrillos, 2 0 NOV 2019\r\n\r\nVISTOS:\r\n\r\nLaProvidencia AlcaldiciaN°100/2968/2019;ei\r\n\r\nMemorandum N°600/1001/2019 de la Secretaria Comunal de Planificacion; fotocopia\r\n\r\ndel Ordinario N°3342 DE 2019, del Gobierno Regional; los Decretos Exentos\r\nN°202/597/2018; N°202/1438/2018, N°202/261/2019 y N°202/624/2019; la Ley\r\n\r\nN°19.886 Bases Sobre Contratos Administrativos de Suministros y Prestacion de\r\nServicio; el D.S. del Ministerio de Hacienda N'250, de 2004 y sus modificaciones\r\n\r\nposteriores; y las facultades que me confiere la Ley N°18.695, Organica\r\nConstitucional de Municipalidades.\r\n\r\nCOnsIdErAndO:\r\nQue, mediante Decreto Exento N°202/597/2018 se\r\n\r\naprobo ei CONVENIO MANDATO para la ejecucion de la iniciativa de inversion\r\n(estudios) denominada \"ACTUALiZACION PLAN REGULADOR COMUNAL DE\r\nCERRILLOS\", C6digo IDI N° 30486986-0.\r\n\r\nQue por Decreto Exento N°202/1438/2018; se\r\n\r\nlamo a la propuesta Publica denominada \"ACTUALIZACION PLAN REGULADOR\r\nCOMUNAL CERRILLOs\", ID 812-61-LR18, adjudicada a la empresa Urbe Diseno y\r\nGestion Urbana Limitada, por Decreto Exento N°202/261/2019, cuyo contrato fue\r\nsancionado mediante Decreto Exento N°202/624/2019.\r\n\r\nLo consignado en el punto 5.5. Disminucion y\r\n\r\naumentos de items o Servicios, de las Bases Administrativas Generales.\r\nDECRETO:\r\n\r\n1. Autorizaselamodificacion al Contrato\r\n\r\ndenominado “ACTUALIZACION PLAN REGULADOR COMUNAL CERRILLOS\", ID\r"
+ },
+ {
+  "id": "d0541",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1438_actualizacion_plan_regulador_comunal_de_cerrillos",
+  "archivo": "cerrillos_decreto_exento_1438_actualizacion_plan_regulador_comunal_de_cerrillos__202-1438-2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 114,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 8
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CERRILLOS\r\n\r\nI.MUNICIPALIDADDECERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\n001438\r\n\r\nDECRETO EXENTO N°2021\r\n\r\n/2018\r\n\r\nCerrillos, - : 6010 2018\r\nVIstos:\r\n\r\nLa Providencia Alcaldicia N° 100/ 298l/2018; el decreto\r\nexento No 202/597/2018, donde se aprueba el convenio mandato para la ejecucion del\r\nproyecto denominado “Actualizacion Plan Regulador Comunal de Cerrillos, el Memorandum\r\n\r\nNo 600/1033/2018 de la Secretaria Comunal de Planificacion; copia del Ordinario No\r\n\r\n1000/363/2018 y 1000/431/2018 de la Direccion Asesoria Juridica; copia del Memorandum\r\nNo 1100/1762/2018 y No 1100/1802/2018 de la Direccion de Control; la Ley N° 19.886 Bases\r\n\r\nSobre Contratos Administrativos de Suministros y Prestacion de Servicios; el D.S. de\r\nHacienda N° 250, de 2004, y sus modificaciones posteriores; y las facultades que me\r\nconfiere la Ley N° 18.695, Organica Constitucional de Municipalidades.\r\n\r\nDECRETO:\r\n\r\n\"ACTUALIZACIONPLAN\r\n\r\n1.\r\n\r\nLlamese\r\n\r\nPropuesta\r\n\r\nPublica\r\n\r\ndenominada\r\n\r\nREGULADOR COMUNAL CERRILLOS\", cuyas bases\r\nadministrativas generales, itinerario, terminos tecnicos de referencia y anexos, se\r\n\r\nencuentran en documentos adjuntos, los que forman parte integrante del presente Decreto.\r\n\r\n2. La publicacion se hara el dia 06 de diciembre de\r\n\r\n2018, a traves del Portal www.mercadopublico.cl\r\n\r\n3. La recepcion de consultas sera desde el 06 de\r\ndiciembre\r\nal\r\n17\r\nde\r\ndiciembre\r\nde 2018, hasta las 14:00 horas, través del Portal\r\nwww.mercadopublico.cl.\r\n4. La respuesta a consultas sera el'di"
+ },
+ {
+  "id": "d0542",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1526_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_1526_actualizacion_plan_regulador_comunal_cerrillos__202-1526-2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "rasante": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 8
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDADDECERRILLOS\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N°202i\r\n\r\n001526\r\n\r\n1 2019\r\n\r\nCerrillos, 1 0.DIC 2019\r\nVIstOs:\r\n\r\nEl Memorandum N°1000/0424/2019 de la\r\n\r\nDireccion Juridica; los Decretos Exentos N°202/597/2018; N°202/1438/2018\r\nN°202/261/2019, N°202/624/2019 y N°202/1403/2019; la Ley N°19.886 Bases\r\nSobre Contratos Administrativos de Suministros y Prestacion de Servicio; el D.S.\r\ndel Ministerio de Hacienda N°250, de 2004 y sus modificaciones posteriores; y las\r\n\r\nfacultades que me confiere la Ley N°18.695, Organica Constitucional de\r\nMunicipalidades.\r\n\r\nCONSIDERANDO:\r\n\r\nDecreto\r\nmediante\r\nQue,\r\nExento\r\nN°202/597/2018 se aprobo el CONVENIO MANDATO para la ejecucion de la\r\n\r\niniciativa de inversion (estudios) denominada “\"ACTUALIZACION PLAN\r\nREGULADOR COMUNAL DE CERRILLOS\", C6digo IDI N° 30486986-0.\r\nN°202/1438/2018.\r\n\r\nse\r\n\r\namo\r\n\r\nQue\r\nａla\r\n\r\nmediante\r\n\r\nDecreto\r\n\r\nExento\r\n\r\npropuesta Publicadenominada\r\n\r\n\"ACTUALIZACION PLAN REGULADOR COMUNAL CERRILLOS\", ID 812-61LR18, adjudicada a la empresa Urbe Diseno y Gestion Urbana Limitada, por\r\nDecreto Exento N°202/261/2019, cuyo contrato fue aprobado mediante el Decreto\r\nExento N°202/624/2019 y autorizada su modificacion mediante el Decreto Exento\r\nN°202/1403/2019.\r\n\r\nDECRETO:\r\n\r\n1. Apruébase la Modificacion de Contrato para\r\n“ACTUALIZACION PLAN REGULADOR COMUNAL CERRILLOS\", ID 812-61LR18, de fecha 02 de diciembre de 2019, reducido a Escritura Publica ante el\r\nNotario Publico don Rene Antonio Santelices Gamboa, i"
+ },
+ {
+  "id": "d0543",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1536_actualizacion_plan_regulador_comunal_de_cerrillos",
+  "archivo": "cerrillos_decreto_exento_1536_actualizacion_plan_regulador_comunal_de_cerrillos__202-1536-2018.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "001536\r\n\r\nLMUNICIPALIDADDECERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N°202I\r\n\r\nCerrillos,\r\n\r\n1 2018\r\n\r\n2 7 tic.2018\r\n\r\nVIstos:\r\nLa Septuagésima Quinta Sesion Ordinaria del\r\n\r\nConcejo Municipal, de fecha 21 de diciembre de 2018; el Certificado N°159/2018 de\r\n\r\nla Secretaria Municipal; las Actas de Apertura Administrativa y Economica\r\n\r\nElectronica y de Evaluacion de la propuesta; los Decretos Exentos N°202/114/2018\r\n\r\ny N°202/977/2018; la Ley N°19.886 Bases Sobre Contratos Administrativos de\r\nSuministros y Prestacion de Servicio; el D.S. del Ministerio de Hacienda N°250, de\r\nN°18.695, Organica Constitucional de Municipalidades.\r\n\r\nCONSIdERANdO:\r\nQue, mediante Decreto Exento No 202/977/2018,\r\n\r\nse 2\r\n\r\nDESARROLLO COMUNAL DE CERRILLOS\", ID 812-44-LP18, cuya ejecucion fue\r\naprobada mediante convenio mandato suscrito con Gobierno Regional Metropolitano\r\nde Santiago, sancionado por Decreto Exento N°202/114/2018.\r\n\r\nE! acuerdo adoptado por el H. Concejo Municipal\r\nen su Septuagesima Quinta Sesion Ordinaria, de fecha 21 de diciembre de 2018.\r\nDECRETO:\r\n\r\n1. Adjudicase. la propuesta publica denominada\r\n\"ACTUALIZACION PLAN DE DESARROLLO COMUNAL DE CERRILLOS\", ID\r\n812-44-LP18, cuyo llamado fue aprobado por Decreto Exento N°202/977/2018, a la\r\n\r\nempresa Ingenieria Construccion y Servicios Mapocho Ltda., R.U.T.\r\n\r\nN°77.846.850-6, representada legalmente por don Ivan Hernandez de Aragon\r\nReyes, cedula de identidad.\r\npor la suma de $59.658.766.(cincuenta y nueve millones seiscientos "
+ },
+ {
+  "id": "d0544",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_1807_punto_2_actualizacion_plan_regulador",
+  "archivo": "cerrillos_decreto_exento_1807_punto_2_actualizacion_plan_regulador__202-1807-2022.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CERRILLOS\r\n\r\nMunicipio Ciudadano\r\n\r\ni. MUNICIPALIDAD DE CERRILLOS\r\nSECRETARiA MUNICIPAL\r\n\r\n001807.12022\r\n\r\nDECRETO EXENTO N°202/\r\n\r\nCerrillos, 1 3 DIC. 2022\r\nVISTOS:\r\n\r\nLa Providencia Alcaldicia N°100/ 284R/2022; lo\r\n\r\nindicado en el numeral 6.2. de las Bases Administrativas de la Licitacion ID 812-61LR18; el Decreto Exento N°202/434/2019; y, las facultades que me confiere la Ley\r\nN°18.695, Organica Constitucional de Municipalidades.\r\nConsIderandO:\r\n\r\n1. Que, segin consta en el Decreto Exento\r\n\r\nN°202/434/2019 se constituyo la Comision Técnica o Ad Hoc integrada por los\r\ndirectoreslas de. SECPLAN, Direccion de Obras Municipales, Asesoria Juridica y\r\nDireccion de Transito. Lo. anterior, para el control del contrato del estudio\r\n\"ACTUALIZACION’PLAN REGULADOR COMUNAL CERRILLOS\" . que fue\r\nsancionado mediante Decreto Exento N°202/624/2019, y modificado mediante el\r\nDecreto Exento N°202/1403/2019, el Decreto Exento N°202/1526/2019 y el Decreto\r\nExentoN°202/049/2022.\r\n\r\nEsta comision, entre otras funciones, debera\r\n\r\nrevisar los informes de avances, hacer observaciones a los mismos, fijar los plazos\r\npara solucionarlas y visar los estados de pago, ademas de todas las atribuciones que\r\nle otorguen tanto por las BAG como por los Términos Técnicos de referencia de la\r\nLicitaci0n 1D 812/61-LR18.\r\n\r\n2.\r\n\r\nQue, es necesario contar con profesionales\r\npor cada una de las unidades municipales mencionadas en el punto 1 anterior, que\r\nactué como contraparte tecnica\r\nen el desarrollo del estud"
+ },
+ {
+  "id": "d0545",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_261_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_261_actualizacion_plan_regulador_comunal_cerrillos__202-0261-2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 21,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE CERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N'2021\r\n\r\nCerrillos,\r\n\r\n000261\r\n\r\n1 2019\r\n\r\nT 3 MAR. 2019\r\n\r\nVISTOS:\r\n\r\nLa Octogésima Segunda Sesion Ordinaria del\r\nConcejo Municipal, realizada con fecha 07 de marzo de 2019; el Certificado\r\n\r\nN°023/2019 de la Secretaria Municipal; el Acta Electronica de Apertura\r\nAdministrativa; el Acta de Evaluacion; el Ord. N°0786 de 21 de febrero de 2019, del\r\n\r\nIntendente (s) de la Region Metropolitana de Santiago; el Decreto Exento\r\nN°202/1438/2018; la Ley N°19.886 Bases Sobre Contratos Administrativ0s de\r\n\r\n2004 y sus modificaciones posteriores; y las facultades que me confiere la Ley\r\nN°18.695, Organica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\n\r\nEl Acuerdo adoptado por el H. Concejo Municipal\r\n\r\nen su Octogesima Segunda Sesion Ordinaria, realizada con fecha 07 de marzo de\r\n2019.\r\n\r\nQue, por Decreto Exento N°202/1438/2018, se\r\n\r\naprobo\r\n\r\nREGULADOR COMUNAL CERRILLOS\", ID 812-61-LR18, codigo B.1.P. N°\r\n30486986.\r\n\r\nDecrEtO:\r\n\r\n1. Adjudicase a la empresa URBE DISENO Y\r\n\r\nGEsT1ON URBANA LTDA., R.U.T. N°78.462.500-1, representada legalmente por\r\ndon Félix de Amesti Marahrens, cedula de identidad N°6.284.820-0, el servicio\r\n\r\ndenominado'\"ACTUALIZACION PLAN REGULADOR COMUNAL CERRILLOS\", ID\r\n\r\n812-61-LR18, c6digo B.1.P. No 30486986, por la suma total de $236.500.000.(doscientos treinta y seis millones quinientos mil pesos) impuestos incluidos,\r\nMetropolitana de Santiago en un plazo de ejecucion de 550 dias corrido"
+ },
+ {
+  "id": "d0546",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_424_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_424_actualizacion_plan_regulador_comunal_cerrillos__202-0424-2023.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CERRLLOS\r\nMunicipio Ciudadano\r\n\r\nI.MUNICIPALIDAD DE CERRILLOS\r\nSECRETARiA MUNICIPAL\r\n\r\nDECRETO EXENTO N'°202/\r\n\r\nCerrillos,\r\n\r\n00042412023\r\n\r\n1 1 ABR 2023\r\n\r\nVIstOs:\r\n\r\nLa Quincuagésima Septima Sesion Ordinaria del\r\n\r\nConcejo Municipal de fecha 12 de enero de 2023; el Memorandum N600/590/2023\r\nde la Secretaria Comunal de Planificacion; los Decretos Exentos N°202/597/2018,\r\nN°202/1438/2018.\r\nN°202/261/2019,\r\nN°202/624/2019.\r\nN°202/1403/2019,\r\n\r\nN°202/1526/2019,N°202/592/2021,N°202/1220/2021y N°202/049/2022; la Circular\r\nN'20 del 26 de julio del 2018 del Gobierno Regional Metropolitano; y las facultades\r\nque me confiere la Ley N°18.695, Organica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\nmediante\r\nDecreto\r\nQue,\r\nExento\r\nN°202/597/2018 se aprobo el CONVENIO .MANDATO, suscrito entre la Ilustre\r\nMunicipalidad de Cerrillos y el Gobierno Regional Metropolitano de Santiago para la\r\n1.\r\n\r\nPLAN REGULADOR COMUNAL DE CERRILLOS\", C6dig0 IDI N° 30486986-0.\r\n\r\n2. Que, por Decreto Exento N°202/1438/2018,\r\nse Ilamo a la propuesta\r\nPublicadenominada“\"ACTUALIZACION\r\nPLAN\r\nREGULADOR COMUNAL CERRILLOS\", ID 812-61-LR18.\r\n3.\r\n\r\nQue, segun consta en el Decreto Exento\r\nN°202/261/2019 se adjudica la licitacion a la empresa Urbe Diseno y Gestion\r\nUrbana Limitada, Rut.\r\n\r\nEl contrato fue sancionado mediante Decreto\r\n\r\nExento N°202/624/2019.\r\n\r\n4. Que, segun consta en el Decreto Exento\r\n\r\nN°202/1403/2019 se autorizo la Modificacion de Contrato para “ACTUALIZACION\r\nPLAN REGULADOR COMUNAL CERRILLOS"
+ },
+ {
+  "id": "d0547",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_49_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_49_actualizacion_plan_regulador_comunal_cerrillos__202-0049-2022.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CERRLLOS\r\nMunicipio Ciudadano\r\n\r\n1,MUNICIPALIDADDECERRILLOS\r\n\r\n000049\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N° 2021\r\n\r\nCerrillos,\r\n\r\n12022.\r\n\r\n17 ENE 2022\r\n\r\nVIsTos:\r\nLa Providencia Alcaldicia N°100/2968/2019; el\r\n\r\nMemorandum N'600/902/2021 de la Secretaria Comunal de Planificacion; fotocopia\r\nN°202/597/2018,\r\n\r\nN°202/1438/2018,\r\n\r\nN°202/261/2019,\r\n\r\nN°202/624/2019,\r\n\r\nN°202/1403/2019,No202/1526/2019, N°202/592/2021 y No202/1220/2021; la Ley\r\nN°19.886 Bases Sobre Contratos Administrativos de Suministros y Prestacion de\r\nServicio; el D.S. del Ministerio de Hacienda N°250, de 2004 y sus modificaciones\r\nposteriores; y las facultades que me confiere la Ley N°18.695, Organica\r\nConstitucional de Municipalidades.\r\n\r\nConsIdERandO:\r\nmediante\r\nDecreto\r\n1. Que,\r\nExento\r\nN°202/597/2018 se aprobo el CONVENIO MANDATO, suscrito entre la Ilustre\r\n\r\nejecucion de la iniciativa de inversion (estudios) denominada \"AcTUALIZACION\r\n\r\nse\r\n\r\n2. Que, por Decreto Exento N°202/1438/2018,\r\n\r\nIlamo a la propuesta Publica denominada “\"ACTUALIZACIONPLAN\r\n\r\nREGULADOR COMUNAL CERRILLOS\", ID 812-61-LR18.\r\n\r\n3. Que, segun consta en el Decreto Exento\r\n\r\nN°202/261/2019 se adjudica la licitacion a la empresa Urbe Diseno y Gestion\r\nUrbana Limitada, Rut. 78.462.500-1. El contrato fue sancionado mediante Decreto\r\nExento N°202/624/2019.\r\n\r\n4. Que, segun consta en el Decreto Exento\r\n\r\nN°202/1403/2019 se autorizo la Modificacion de Contrato para “ACTUALIZACION\r\nPLAN REGULADOR COMUNAL CERRILLOs\" que consistio en la "
+ },
+ {
+  "id": "d0548",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_592_ejecucion_del_proyecto_actualizacion_plan_regulador_comunal_d",
+  "archivo": "cerrillos_decreto_exento_592_ejecucion_del_proyecto_actualizacion_plan_regulador_comunal_d__202-0592-2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "IMUNICIPALIDADDECERRILLOS\r\n\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N°2021\r\n\r\nCerrillos,\r\n\r\n000592\r\n1 2021\r\n\r\n14 MAYO 2021\r\n\r\nVISTOS:\r\nLa Providencia Alcaldicia No 100/ toy Z. /2021;\r\nel Decreto Exento No 202/0597/2018; el Decreto Exento No 202/1438/2018; el\r\n\r\nDecreto Exento No 202/0261/2019; el Decreto Exento No 202/0624/2019; la\r\n\r\nfacultades que me\r\nMunicipalidades.\r\n\r\nconfiere la Ley N°18.695, Organica Constitucional de\r\n\r\nCONSIDERANDO:\r\nQue dado el contexto de Pandemia a causa del\r\nCovid-19 que afecta actualmente al pais, hace casi imposible la realizacion de\r\njornadas presenciales de participacion ciudadana y lo relevante que son estas\r\n\r\njornadas para la ejecucion del proyecto denominado “Actualizacion Plan\r\nRegulador Comunal de Cerrillos\".\r\n\r\nUna vez terminada la “Etapa 3” de dicho\r\n\r\nproyecto, le corresponde por ley, al Honorable Concejo Municipal, la aprobacion\r\nde la \"Imagen Objetivo\", el que en la actualidad se encuentra en pleno proceso\r\neleccionario.\r\n\r\nDECRETO:\r\n\r\n1. Suspéndase la ejecucion de proyecto\r\n\r\ndenominado \"Actualizacion Plan Regulador Comunal de Cerrillos\", adjudicado\r\nmediante Decreto Exento No 202/0261/2019, a partir de la fecha 26 de marzo del\r\n\r\nano 2021, fecha aprobacion de la Etapa 3 de dicho proyecto.\r\n\r\n2. Una vez conformado, de acuerdo a lo\r\n\r\nestipulado por ley, el nuevo Concejo Municipal (Periodo 2021 - 2024), sera\r\n\r\nresponsabilidad de Unidad Técnica (SECPLAN), en conjunto con el Adjudicatario\r\n(URBE LTDA), presentar en Sesion Ordinaria "
+ },
+ {
+  "id": "d0549",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_597_actualizacion_plan_regulador_comunal_de_cerrillos",
+  "archivo": "cerrillos_decreto_exento_597_actualizacion_plan_regulador_comunal_de_cerrillos__202-0597-2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 21,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDADDE CERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\n000597\r\n\r\nDECRETO EXENTO N°202/\r\n\r\n12018\r\n\r\nCerrillos, ↓.5 JUN 2018\r\n\r\nVIstos:\r\n\r\nLa Quincuagesima Cuarta Sesion Ordinaria del\r\nConcejo Municipal de fecha 24 de mayo de 2018; el Certificado N°051/2018 de la\r\nSecretaria Municipal; la Providencia Alcaldicia N°100/1402/2018; la Resolucion\r\nExenta N°42 de 2018, del Gobierno Regional Region Metropotitana; y las facultades\r\nque me confiere la Ley N°18.695, Organica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\n\r\nQue, mediante Resolucion Exenta N°42 de\r\n\r\nfecha 20 de abril de 2018, del Gobierno Regional Region Metropolitana, se aprobo el\r\nConvenio Mandato para la ejecucion del proyecto denominado “AcTUALizACION\r\nPLAN REGULADOR COMUNAL DE CERRILLOS\", C6dig0 BIP N° 30486986-0,\r\nsuscrito con esta Municipalidad.\r\n\r\nEl Acuerdo adoptado por el H. Concejo\r\n\r\nMunicipal en su Quincuagésima Cuarta Sesion Ordinaria de fecha 24 de mayo de\r\n\r\n2018.\r\n\r\nDECRETO:\r\n\r\n1. Apruébase el Convenio Mandato, de fecha\r\n\r\n22 de marzo de 2018, suscrito entre la 1. Municipalidad de Cerrillos y el Gobierno\r\n\r\nRegional Metropoitano de Santiago, representado por su Intendenta y Organo\r\nEjecutivo dona KARLA RUBILAR BARAHONA, mediante el cual las partes han\r\nconvenido lo siguiente:\r\n\r\n1.1 Por este acto el Gobierno Regional\r\nencomienda en forman completa e irrevocable a la Unidad Técnica, la licitacion,\r\n\r\niniciativa de inversion (estudios) denominada “ACTUALIZACION\r\n\r\nREGULADOR COMUNAL DE CERRILLOS\", Cdigo ID"
+ },
+ {
+  "id": "d0550",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_624_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_624_actualizacion_plan_regulador_comunal_cerrillos__202-0624-2019.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "rasante": 2,
+   "ordenanza_local_txt": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 9
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDADDECERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N°202/\r\n\r\nCerrillos,\r\n\r\n000624\r\n\r\n/ 2019\r\n\r\n3 1 MAY 2019\r\n\r\nVIstOs:\r\n\r\nEl Memorandum N°1000/0129/2019dela\r\n\r\nDireccion Juridica; los Decretos Exentos N°202/597/2018; N°202/1438/2018 y\r\nN°202/261/2019; la Ley N°19.886 Bases Sobre Contratos Administrativ0s de\r\n\r\nde 2004 y sus modificaciones posteriores; y las facultades que me confiere la Ley\r\nN°18.695, Organica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\n\r\nmediante\r\nQue,\r\nDecreto\r\nExento\r\nN°202/597/2018 se aprobo el CONVENIO MANDATO para la ejecucion de la\r\n\r\niniciativa de inversion (estudios) denominada “ACTUALIZACION PLAN\r\nREGULADOR COMUNAL DE CERRILLOS\", C6digo IDI N° 30486986-0.\r\n\r\nQue\r\n\r\nmediante\r\n\r\nDecreto\r\nExento\r\nPublicadenominada\r\n\"ACTUALIZACION PLAN REGULADOR COMUNAL CERRILLOS\", ID 812-61LR18, adjudicada a la empresa Urbe Diseno y Gestion Urbana Limitada, por\r\nDecreto Exento N°202/261/2019.\r\nN°202/1438/2018.\r\n\r\nse\r\n\r\nala\r\n\r\npropuesta\r\n\r\nDECRETO:\r\n\r\n1. Apruébase el Contratodenominado\r\n\"ACTUALIZACION PLAN REGULADOR COMUNAL. CERRILLOS\", ID 812-61-\r\n\r\nLR18, de fecha 26 de abril de 2019, reducido a Escritura Publica ante el Notario\r\nPublico don Rene Antonio Santelices Gamboa, inscrito en el Repertorio N°261 de\r\n2019, suscrito entre la l. Municipalidad de Cerrillos y la empresa Urbe Diseno y\r\n\r\nGestion Urbana Limitada, R.U.T. N° R.U.T. N°78.462.500-1, representada\r\nlegalmente por don Félix de Amesti Marahrens, cedula de identidad I\r\nO, quienes han co"
+ },
+ {
+  "id": "d0551",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_858_actualizacion_plan_regulador_comunal_cerrillos",
+  "archivo": "cerrillos_decreto_exento_858_actualizacion_plan_regulador_comunal_cerrillos__202-0858-2023.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CERRILLOS\r\nMunicipio Ciudadano\r\n\r\nI.MUNICIPALIDAD DE CERRILLOS\r\nSECRETARiA MUNICIPAL\r\n\r\n000858\r\n/2023\r\n\r\nDECRETO EXENTO N 202/\r\n\r\nCerrillos, 27 JUL 2023\r\n\r\nVIstos:\r\n/2023; el\r\n\r\nLa Providencia Alcaldicia N°100/\r\n\r\nMemorandum N°600/1633/2023 de la Secretaria Comunal de Planificacion; los\r\n\r\nExentos\r\nDecretos\r\nN°202/597/2018,\r\nN°202/1438/2018,\r\nN°202/261/2019,\r\nN°202/624/2019,\r\nN°202/1403/2019,\r\nN°202/1526/2019,\r\nN°202/592/2021,\r\nN°202/1220/2021,\r\nN°202/049/2022,\r\nN°202/137/2022\r\nN°202/214/2022y\r\n\r\nN°202/424/2023; la Circular N°20 del 26 de julio del 2018 del Gobierno Regional\r\n\r\nMetropolitano; y las facultades que me confiere la Ley N°18.695, Organica\r\nConstitucionai de Municipalidades; la Ley N°19.886 Bases Sobre Contratoss\r\n\r\nAdministrativos de Suministros y Prestacion de Servicio; el D.S. del Ministerio de\r\nHacienda N°250, de 2004 y sus modificaciones posteriores; y las facultades que me\r\nconfiere la Ley N°18.695, Organica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\n1. ( Que,\r\n\r\nmediante\r\n\r\nDecreto\r\n\r\nExento\r\n\r\nN'°202/597/2018 se aprobo el CONVENIO MANDATO, suscrito entre la lustre\r\nMunicipalidad de Cerrillos y el Gobierno Regional Metropolitano de Santiago para la\r\n\r\nejecucion de la iniciativa de inversion (estudios) denominada “AcTUALIZACION\r\nPLAN REGULADOR COMUNAL.. DE CERRILLOS\", C6dig0 IDI N° 30486986-0.\r\nse\r\n\r\nllamo a la propuesta\r\n\r\n2.Que, por Decreto Exento N°202/1438/2018,\r\nPublica denominada“ACTUALIZACION\r\nPLAN\r\n\r\nREGULADOR COMUNAL CERRILLOS\", ID 812-61-LR1"
+ },
+ {
+  "id": "d0552",
+  "comuna": "cerrillos",
+  "nombre_documento": "decreto_exento_948_actualizacion_plan_regulador_de_cerrillos",
+  "archivo": "cerrillos_decreto_exento_948_actualizacion_plan_regulador_de_cerrillos__202-0948-2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "zonificacion": 5,
+   "usos_de_suelo": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (constructibilidad, ocupacion_suelo, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDADDECERRILLOS\r\nSECRETARIA MUNICIPAL\r\n\r\n000948\r\n\r\nDECRETO EXENTO N° 2021\r\n\r\n12021.\r\n\r\nCerrillos, 25 AG0 2021\r\nVIsTOS:\r\n1.\r\n\r\nEl Art. 7 bis de la Ley 20.417, que modifica la\r\n\r\nLey General del Bases Sobre el Medio Ambiente, 19.300, que establece 'que los\r\nInstrumentos de Planificacion Territorial, deben ser sometidos a una Evaluacion Ambiental\r\n\r\nEstrategica\r\n\r\n2.\r\n\r\nDecreto Exento N' 202/001438/2018 de fecha\r\n\r\n06 de diciembre de 2018, del Sr. Alcalde, que Ilama a licitacion al estudio\r\n\"ACTUALIZACION PLAN REGULADOR COMUNAL DE CERRILLOS\".\r\n\r\nDecreto Exento N° 202/000261/2019 de fecha\r\n\r\n13 de marzo de 2019, del Sr. Alcalde que adjudica el servicio denominado\r\n\r\n\"ACTUALIZACION PLAN REGULADOR COMUNAL DE CERRILLOS\", ID 812-61-LR18,\r\nCodigo BIP N° 30486986, a la Consultora URBE DISENO Y GESTION URBANA LTDA.\r\n\r\n4. : Decreto N° 32, de fecha 17 de agosto de\r\n\r\n2015, del Ministerio de Medio Ambiente, que aprueba el Reglamento para la Evaluacion\r\nAmbiental Estralegica, publicado en el Diario Oficial con fecha 04.11.2015.\r\n\r\n5.El Art. 14 del Decreto N° 32, de fecha 17 de\r\n\r\nagosto de 2015, del Ministerio de Medio Ambiente, que aprueba el Reglamento para la\r\nEvaluacion Ambiental Estrategica, publicado en el Diario Oficial con fecha 04;11.2015\r\n\r\nCOnSIdERAndO:\r\n\r\n1. Que, la Actualizacion al Plan Regulador\r\n\r\nComunal de Cerrllos persigue como' principal objetivo elaborar un instrumento de\r\nplanificacion comunal integral. Actualmente el territorio comunal esta normado por tres\r"
+ },
+ {
+  "id": "d0045",
+  "comuna": "chanaral",
+  "nombre_documento": "373_aprueba_plan_regulador_y_seccional_comunal_chanaral",
+  "archivo": "chanaral_373_aprueba_plan_regulador_y_seccional_comunal_chanaral__do-20050413.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 36,
+  "paginas_escaneadas": 36,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0553",
+  "comuna": "chanaral",
+  "nombre_documento": "1711_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu41",
+  "archivo": "chanaral_1711_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu41__1647596.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z4",
+   "ZONA",
+   "ZU4"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.446\r\n\r\n|\r\n\r\nMiércoles 4 de Septiembre de 2019\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1647596\r\n\r\nMUNICIPALIDAD DE CHAÑARAL\r\n\r\nPROMULGA ENMIENDA AL PLAN REGULADOR COMUNAL DE CHAÑARAL\r\nZONA URBANA ZU4.1\r\n(Extracto)\r\nSe Enmienda el Plan Regulador Comunal de Chañaral, Zona Urbana ZU4, aprobado\r\nmediante decreto exento Nº 1.711, del 9 de agosto del 2019.\r\nDando cumplimiento al artículos 45 de Ley General de Urbanismo y Construcciones y al\r\nArt. 2.1.13 de la Ordenanza General de Urbanismo y Construcciones, conforme a:\r\nAcuerdo Nº 100 de fecha 11/06/2019 de la Sesión Ordinaria Nº 17 del Concejo Municipal\r\nde Chañaral, refrendado por decreto alcaldicio Nº 1.270, del 14/06/2019;\r\nAcuerdo Nº 119 de fecha 06/08/2019 de la Sesión Ordinaria Nº 22 del Concejo Municipal\r\nde Chañaral, refrendado mediante decreto alcaldicio Nº 1.711, de fecha 09/08/2019.\r\nEnmiéndase la Ordenanza Local, el artículo que se indica, en cuadro referido a Zona Urbana\r\nZU4 en la Localidad de El Salado, según se señala:\r\nArtículo 21, Tipologías de Uso de Suelo, en el Cuadro Z4: Zona Urbana ZU4, Zona\r\nResidencial Preferente de Baja Densidad Barrios de Ampliación, Bellavista y Aeropuerto;\r\nagréguese la Subzona ZU4.1, lo siguiente:\r\n\r\nPublíquese, comuníquese y anótese.- Raúl Salas Aguilera, Alcalde.- Juan Barrera\r\nVelásquez, Secretario Mu"
+ },
+ {
+  "id": "d0554",
+  "comuna": "chanaral",
+  "nombre_documento": "6714_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu5",
+  "archivo": "chanaral_6714_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu5__Publicacion Diario Oficial - I.Municipalidad de Chañaral.-.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "antejardin": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z5",
+   "ZONA",
+   "ZU -5",
+   "ZU 5",
+   "ZU5"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.629\r\n\r\n|\r\n\r\nSábado 10 de Diciembre de 2016\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 1147189\r\n\r\nMUNICIPALIDAD DE CHAÑARAL\r\n\r\nPROMULGA ENMIENDA AL PLAN REGULADOR COMUNAL DE CHAÑARAL\r\nZONA URBANA ZU5\r\n(Extracto)\r\nSe enmienda el Plan Regulador Comunal de Chañaral, Zona Urbana ZU5, aprobado\r\nmediante decreto exento Nº 6.714, de 24 de noviembre de 2016.\r\nDando cumplimiento al artículo 45 de Ley General de Urbanismo y Construcciones y al Art.\r\n2.1.13 de la Ordenanza General de Urbanismo y Construcciones, conforme a:\r\nAcuerdo N° 105 de fecha 05/09/2016 de la Sesión Ordinaria Nº 27 del Concejo Municipal\r\nde Chañaral, refrendado por decreto alcaldicio N° 5.652 del 27/09/2016;\r\nAcuerdo N° 151 de fecha 21/11/2016 de la Sesión Ordinaria Nº 35 del Concejo Municipal\r\nde Chañaral, refrendado mediante decreto alcaldicio Nº 6.714 de fecha 24/11/2016.\r\nEnmiéndase la Ordenanza Local, el artículo que se indica, en cuadro referido a Zona Urbana\r\nZU 5, según se señala:\r\nArtículo 21, Tipologías de Uso de Suelo, en el cuadro Z5: Zona Urbana ZU -5.1 y 5.2 Zona\r\nResidencial de Baja Densidad, Sector Quebradas y Pendientes, lo siguiente:\r\nEn el Cuadro de Normas de Urbanización, modifíquense las disposiciones para el\r\nCoeficiente de Constructibilidad, la Ocupación de Suelo y el Antejardín, de la siguiente manera,\r\npara el Co"
+ },
+ {
+  "id": "d0555",
+  "comuna": "chanaral",
+  "nombre_documento": "decreto_ordenanza_plan_regulador_comunal_de_chanaral",
+  "archivo": "chanaral_decreto_ordenanza_plan_regulador_comunal_de_chanaral__ORDENANZA PLAN REGULADOR.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 55,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 8,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR COMUNAL. DE CHANARAL\r\n\r\nORDENANZA\r\nUNIDAD\r\n\r\nESCUELA\r\n\r\nCIUDAD\r\n\r\nDE\r\n\r\nDE\r\n\r\nASISTENCIA\r\n\r\nTECNICA\r\n\r\nCAPACITACION\r\n\r\nARQUITECTURA\r\nUSACH\r\nDE CHANARAL - TERCERA REGION DE ATACAMA - NOV. 2002\r\n\r\nURBA\r\n\r\nURBA\r\n\r\nANIST\r\nSECR\r\n\r\nREGION\r\n\r\nATACAMA\r\n\r\nDEPTO\r\nDES. URB.\r\n\r\nJEFE\r\n\r\n\fJEFE\r\n\r\nDE UR\r\n0EPTO\r\n\r\nERE\r\n\r\nREGIONAL\r\n\r\n·ATACAMA\r\nREGION\r\n\r\nAREAS DE PROTECCION DE AERODROMO( PAG. 50)\r\nANEXOS\r\n\r\nVIALIDAD ESTRUCTURANTE (PAG. 38)\r\n\r\nCAPITULO 5\r\n\r\nZONIFICACION.DE USOS DEL SUELO (PAG. 22)\r\n\r\nCAPITULO 4\r\n\r\nDEFINICIONES Y.NORMAS GENERALES (PAG. 7)\r\n\r\nCAPITULO 3\r\n\r\nLIMITE URBANO (PAG. : 2)\r\n\r\nCAPITULO 2\r\n\r\nDISPOSICIONES GENERALES (PAG.1)\r\nCAPITULO 1\r\nCONTENIBO\r\n\r\n\fESGUELADEARODNEURA USACH\r\n\r\nUNDADDEASISTENATEONICASN\r\nSLANREGUTADOF\r\n\r\nNANDOIELORES\r\n\r\nEGHAVARALNGVIEERE2002A\r\n\r\nVIVIEND,\r\n\r\nREGION\r\nATACAMA\r\nREGIONAL\r\n\r\nDEPTO\r\n\r\nOES. URE\r\n\r\nJEFE\r\n\r\n\fPLAN REGULADOR COMUNAL DE CHANARAL Pigina 1 de 51\r\n\r\nCAPITULO.1\r\n\r\nDISPOSIGIONES GENERALES\r\nArticulo 1\r\n\r\nDefinicion\r\nLa Ordenanza Local del Plan Regulador Comunal determina el\r\nlimite urbano del area sujeta a ordenamiento, las zonas que la\r\nintegran y los tipos de usos del suelo correspondientes a cada\r\nuna de ellas, las condiciones para la subdivision, urbanizacion\r\n\r\ny la edificacion, y la vialidad estructurante. La normativa de\r\n\r\nesta Ordenanza conforma un solo cuerpo legal con la\r\nplanimetria que grafica las determinaciones arriba senaladas.\r\n\r\nArticulo 2\r\n\r\nLimites\r\n\r\nLa Ordenanza norma el ordenamiento urbanistico del area\r\n\r\n"
+ },
+ {
+  "id": "d0046",
+  "comuna": "chepica",
+  "nombre_documento": "ordenanza_947_plano_regulador_comunal_chepica_urbano_para_descargar",
+  "archivo": "chepica_ordenanza_947_plano_regulador_comunal_chepica_urbano_para_descargar__plano%20prc%20chepica2.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0556",
+  "comuna": "chepica",
+  "nombre_documento": "79_aprueba_formulacion_del_plan_regulador_comunal_de_chepica_localidades_de_chep",
+  "archivo": "chepica_79_aprueba_formulacion_del_plan_regulador_comunal_de_chepica_localidades_de_chep__ORDENANZA LOCAL  DO 11_02_2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "ocupacion_suelo": 4,
+   "predial_minima": 4,
+   "altura_maxima": 1,
+   "densidad": 3,
+   "agrupamiento": 12,
+   "antejardin": 13,
+   "rasante": 4,
+   "adosamiento": 3,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 4,
+   "usos_de_suelo": 18,
+   "ordenanza_local_txt": 1,
+   "articulado": 61,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZAV",
+   "ZCH",
+   "ZCH-1",
+   "ZCH-2",
+   "ZE-1",
+   "ZE-2",
+   "ZES-1",
+   "ZES-2",
+   "ZEX",
+   "ZU",
+   "ZU-1",
+   "ZU-2"
+  ],
+  "puntaje_normativo": 18,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "D.O. 11-02-2009\r\n\r\n\fORDENANZALOCAL\r\nPLANREGULADORCOMUNALDECHEPICA\r\n\r\niNDICE\r\n\r\nArticulo 1.1.2-2. Los limites urbanos que fija el Presente Plan Regulador Comunal, de\r\nlos centros poblados de Chepica y Auquinco, aparecen graficados en los planos PRC-CHELOC y PRC-AUQ-LOC y descritos en el Titulo 2 de esta ordenanza.\r\n\r\nTITUL02\r\n\r\nTiTULO1 Disposiciones generales\r\nCapitulo 1Marco de Referencia\r\nParrafo 1.1 Jurisdiccion del Plan\r\nParrafo1.2 Ambito territorial del Plan\r\nTiTULO2Descripcion de Limites de Areas Urbanas\r\nTITULO3 Definiciones y normas generales\r\nCapitulo 1Definiciones generales\r\nCapitulo2\r\nDisposiciones generales\r\n\r\nDescripcion de Limites de Areas Urbanas\r\nLos limites de las Areas Urbanas se circunscriben a las poligonales que segrafican en los\r\n\r\nplanos PRC-CHE-LOC y PRC-AUQ-LOC, en sistema de coordinas UTM, Huso T9,Datum\r\nPSAD 56, y que se describe a continuacion:\r\nCuadro 2: Limite Urbano Localidad de Chepica\r\nTramo Descripcion\r\n\r\nPunto Deacripcion\r\n\r\nCapitulo 3,. Tipos de Usos de Suelo\r\nParrafo 3.2 Usos Residenciales\r\n\r\nperalela a 75m al nor poniente del eje geometrico\r\nde Calle 4 y linea imaginaria de proyeccion paralela\r\na 680m al nor oriente del eje geometrico de Av. 18\r\n\r\nParrafo 3.3 Equipamiento\r\nParrafo 3.4 Actividades Productivas\r\n\r\nde Septiembre.\r\n\r\nParrafo 3.5\r\nInfraestructura\r\nParrafo 3.6EspaciosPublicos\r\nParrafo3.7Areas Verdes\r\n\r\nimaginaria\r\nde\r\nproyeccionparalelaa680mal\r\n\r\nLinea\r\n\r\nparalela a 680 mt al nor oriente del eje, geometrico\r\n\r\nTITUL04 2Zonificaci"
+ }
+]

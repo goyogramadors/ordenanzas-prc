@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_428210500e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4476.28dic2004.pdf",
+  "nombre": "las_condes_D.O.4476.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:56:33",
+  "fin": "2026-07-14T15:58:53",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        9
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.4476/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Comercial 3 (PS-U-C3) y DETALLA el art.40 (Cap.IV Zonificacion y Normas Especificas) del PRC Las Condes con el cuadro de usos de suelo de la zona U-C3 en TEXTO extraible: matriz uso de suelo (tipo/clase/actividad/condiciones) cruzada por categoria de via (local, servicio, colectora, troncal, expresa). Cuadro extenso, ocupa casi todo el documento (p1-9). Es tabla de USOS por zona; no trae COS/CC/altura."
+  }
+}

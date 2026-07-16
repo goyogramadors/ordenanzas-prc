@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_f44a3779b7",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2101_animales_sueltos_en_la_via_publica__doc_34_2101_06062016081519.pdf",
+  "nombre": "la_serena_2101_animales_sueltos_en_la_via_publica__doc_34_2101_06062016081519.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:26:31",
+  "fin": "2026-07-15T08:27:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 2101/2016 aprueba Ordenanza Municipal sobre Animales Sueltos en la Via Publica. No relacionado a PRC."
+  }
+}

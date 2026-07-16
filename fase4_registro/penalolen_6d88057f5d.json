@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_6d88057f5d",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_R4.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Ficha Zona R4 (Asesoria Urbana-SECPLA), 1 pagina, texto directo sin imagen: usos permitidos + cuadro Condiciones Subdivision y Edificacion (densidad bruta max, superficie minima predial, %max ocupacion suelo, coef.max constructibilidad, altura max) Residencial/Equipamiento.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:26:07",
+  "fin": "2026-07-15T14:27:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_r4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "R4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: densidad 300 hab/ha, predial 2000m2, ocupacion 20/50%, CC 0,2/0,5, altura 4 pisos/14m residencial/equipamiento. Incluye exclusion de equipamiento esparcimiento-turismo (discotecas/moteles/etc). Coincide con nota_fase3."
+  }
+}

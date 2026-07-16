@@ -1,0 +1,20 @@
+{
+  "id": "nunoa_fa5f82ffb5",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_1890_promulgase_la_aprobacion_de_la_modificacion_no_16_al_plan_regulador_de_la_c__Exportar.pdf",
+  "nombre": "nunoa_1890_promulgase_la_aprobacion_de_la_modificacion_no_16_al_plan_regulador_de_la_c__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:07:26",
+  "fin": "2026-07-14T21:09:52",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "duplicado de modificación N16 (versión leychile), idéntico contenido a nunoa_47792b2efe: sin cuadro normativo propio, remite a zonas ya definidas en Mod. N15"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "el_tabo_145b174f59",
+  "comuna": "el_tabo",
+  "ruta": "Ordenanzas ordenadas\\el_tabo_2303_modifiquese_el_decreto_n_1737_de_fecha_11_julio_2018_que_aprueba_enmienda_a__2303.pdf",
+  "nombre": "el_tabo_2303_modifiquese_el_decreto_n_1737_de_fecha_11_julio_2018_que_aprueba_enmienda_a__2303.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:13:58",
+  "fin": "2026-07-15T08:15:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 2303 (07.09.2018), I.Municipalidad de El Tabo. Modifica Decreto 1737/2018 (Enmienda Zona Z3): corrige direccion del predio de 'Lote A-1 Av. Las Salinas' a 'calle Pedro Pablo Gonzalez N792'. Solo correccion de direccion, sin tabla de normas (menciona generico art.2.1.13 OGUC letra a sobre incremento/disminucion 20% altura y densidad como habilitacion legal, no como valor especifico)."
+  }
+}

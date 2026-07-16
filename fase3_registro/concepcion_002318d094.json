@@ -1,0 +1,20 @@
+{
+  "id": "concepcion_002318d094",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas Descargadas\\1-600\\concepcion_decreto_alcaldicio_268_posterga_selectivamente_el_otorgamiento_de_permisos_de_ed__effdfef0-e557-497b-aa0a-d68df1cb0a00.pdf",
+  "nombre": "concepcion_decreto_alcaldicio_268_posterga_selectivamente_el_otorgamiento_de_permisos_de_ed__effdfef0-e557-497b-aa0a-d68df1cb0a00.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:10:58",
+  "fin": "2026-07-15T08:12:30",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.268/2021 Concepcion: postergacion SELECTIVA de permisos de edificacion (3 meses) para predios que superen la altura maxima fijada 'en el cuadro contenido en plano AU-15 MOD 1/2020' y para zonas de nuevo parque comunal - el cuadro/plano referenciado NO esta en este PDF de 1 pagina. Vinculado al Anteproyecto de la 15.Modificacion (Acuerdo Concejo 413-66-2021). Norma inalcanzable desde este archivo."
+  }
+}

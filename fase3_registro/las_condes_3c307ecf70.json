@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_3c307ecf70",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PL_lamina-03_PLANO-REGULADOR.pdf",
+  "nombre": "las_condes_PL_lamina-03_PLANO-REGULADOR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:28:31",
+  "fin": "2026-07-15T08:31:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Lamina 03, Plan Regulador Comunal de Las Condes, Modificacion N18: Plano de Vialidad (M.P.R.C.L.C. 2020). Solo cartografia vial (simbologia de ensanches/aperturas/restriccion de quebrada/lineas alta tension), sin tabla de normas de zona (COS/CC/altura/predial)."
+  }
+}

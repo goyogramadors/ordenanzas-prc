@@ -1,0 +1,20 @@
+{
+  "id": "linares_8468924f8d",
+  "comuna": "linares",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\linares_2788_iniciese_el_estudio_de_expropiacion_con_el_objeto_de_analizar_y_continuar_e__Diario_of_2788.pdf",
+  "nombre": "linares_2788_iniciese_el_estudio_de_expropiacion_con_el_objeto_de_analizar_y_continuar_e__Diario_of_2788.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:55:11",
+  "fin": "2026-07-15T07:58:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LINARES: decreto exento (23-may-2023, 7p), 'Iniciese el estudio de expropiacion' de una faja de terreno afecta a utilidad publica (30 m de ancho, prolongacion de calle Rengo hasta Av. Circunvalacion, Rol de Avaluo 504-31), para dar cumplimiento al PRC. Es tramite de expropiacion, no fija normas urbanisticas por zona. Texto completo leido, sin tablas."
+  }
+}

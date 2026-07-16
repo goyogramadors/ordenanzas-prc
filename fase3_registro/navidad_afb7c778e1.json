@@ -1,0 +1,20 @@
+{
+  "id": "navidad_afb7c778e1",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_decreto_alcaldicio_556_resuelve_procedimiento_de_suspension_de_plazo_estudio_pla__5eb99960-657f-4877-94dd-c5a161d0e1ed.pdf",
+  "nombre": "navidad_decreto_alcaldicio_556_resuelve_procedimiento_de_suspension_de_plazo_estudio_pla__5eb99960-657f-4877-94dd-c5a161d0e1ed.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:06:23",
+  "fin": "2026-07-14T21:06:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "trámite administrativo: suspende plazo del estudio de reformulación del PRC (etapa diagnóstico), sin contenido normativo"
+  }
+}

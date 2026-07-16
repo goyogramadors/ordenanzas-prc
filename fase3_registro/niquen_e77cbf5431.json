@@ -1,0 +1,25 @@
+{
+  "id": "niquen_e77cbf5431",
+  "comuna": "niquen",
+  "ruta": "Ordenanzas ordenadas\\niquen_94_modifica_resolucion_n_121_de_15092008_que_promulga_plan_regulador_comunal_de___do-20090924.pdf",
+  "nombre": "niquen_94_modifica_resolucion_n_121_de_15092008_que_promulga_plan_regulador_comunal_de___do-20090924.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 60,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:40:29",
+  "fin": "2026-07-15T08:44:17",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        21
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Publicacion completa Diario Oficial (60 pag). Contenido de Niquen ocupa pag 13-21 (Resolucion 94 modifica cuadros de usos de suelo, luego Resolucion 121 promulga el PRC con texto completo de la Ordenanza Local); resto son avisos/decretos de otras comunas. Tablas de NORMAS URBANISTICAS por zona con valores reales (superficie predial minima, COS, CC, altura maxima, sistema de agrupamiento, antejardin, distanciamiento) estan en pag 19-21: cuadro USOS DE SUELO y cuadro EDIFICACION para cada zona (ZHMC, ZH-1, ZH-2, ZE, ZED, ZES, ZPI, ZEXH, ZPU, ZPD). Pag 13-14 (Resolucion 94) solo modifica tablas de vialidad y usos de suelo sin cifras de COS/CC/altura."
+  }
+}

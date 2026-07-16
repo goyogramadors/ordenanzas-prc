@@ -1,0 +1,20 @@
+{
+  "id": "la_cruz_22b9bd1e97",
+  "comuna": "la_cruz",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_cruz_14_plan_regulador__b8076334-ef81-4448-90b2-c685d52d17e9.pdf",
+  "nombre": "la_cruz_14_plan_regulador__b8076334-ef81-4448-90b2-c685d52d17e9.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:17:20",
+  "fin": "2026-07-15T08:19:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "HALLAZGO IMPORTANTE PARA LA BASE DE DATOS: Oficio Ord.48/2020 del Director de Obras de La Cruz al portal de transparencia declara explicitamente que 'la comuna de La Cruz NO CUENTA CON PLAN REGULADOR VIGENTE' y que se encuentra en proceso de elaboracion por la consultora Prociudad (proyecto 'Estudio Plan Regulador comuna de La Cruz'), con desarrollo contemplado hasta fines de 2021. Es decir: a la fecha de este oficio, La Cruz carece de PRC. Si el corpus no trae un PRC posterior a 2021 para esta comuna, la comuna deberia quedar marcada como SIN NORMA VIGENTE en la base de datos, no como 'no localizado'."
+  }
+}

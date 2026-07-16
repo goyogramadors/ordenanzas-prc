@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_96c69eb9f5",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1546_promulga_modificacion_no1_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "nombre": "lo_barnechea_1546_promulga_modificacion_no1_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:02:41",
+  "fin": "2026-07-14T21:04:17",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LO BARNECHEA: Decreto 1546 (2004, BCN LeyChile, 2p), 'MPRC-LB-01 Disminucion ancho via C38O Camino El Huinganal-Dos Poniente'. Es VIALIDAD pura (modifica el cuadro c. Vias Estructurantes Metropolitanas del Titulo III, art 11): no fija normas de uso de suelo ni parametros de edificacion por zona. Ademas la tabla de anchos ESTA AUSENTE del PDF: 'NOTA: VER DIARIO OFICIAL DE 25.11.2004. PAGINA 5'. Sin-tablas para efectos de normas urbanisticas por zona (aunque la tabla de vialidad, si se necesitara, esta inalcanzable desde este PDF)."
+  }
+}

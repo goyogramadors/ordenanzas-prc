@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_1fa1694433",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_2974_5jul2007.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_2974_5jul2007.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:54:35",
+  "fin": "2026-07-14T16:01:28",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (misma plantilla): Decreto 2.974 (05-07-2007) solo aprueba el Plano Seccional Centro Comercial Mall Plaza (area UEe1/Ee1) y remite el detalle a un plano grafico que NO esta en este PDF de 1 pagina. Sin COS/CC/altura/densidad en el texto. Requiere el seccional completo."
+  }
+}

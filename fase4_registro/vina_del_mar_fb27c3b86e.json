@@ -1,0 +1,20 @@
+{
+  "id": "vina_del_mar_fb27c3b86e",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vina_del_mar_10046_modificacion_al_plan_regulador_comunal_de_vina_del_mar__1113023.pdf",
+  "rangos": [
+    [
+      10,
+      12
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.10046/2016 (DO) modifica PRC Vina del Mar Sector Gomez Carreño y Ladera Sur Estero de Renaca. Crea 3 zonas nuevas via art.17: V.1 ZONA V12 (predial 240m2, COS 0,50, CC 1,2, altura 7 pisos/21m), V.2 ZONA E-12 (predial 500m2, COS 0,3, CC 1,0), V.3 ZONA EV (predial 300m2, COS 0,3, CC 0,5, altura 2 pisos/7m). Todo en TEXTO p10-12. p3-9 EXCLUIDAS: son imagen (jpeg) pero de tablas de COORDENADAS geograficas de areas de riesgo y poligonales A/B/C, no de normas urbanisticas. Confirmado encabezado 'MUNICIPALIDAD DE VIÑA DEL MAR' en todo el documento, sin mezcla de otra comuna.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "EN_PROCESO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-16T08:27:01",
+  "fin": null,
+  "resultado": null
+}

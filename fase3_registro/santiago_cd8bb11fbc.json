@@ -1,0 +1,25 @@
+{
+  "id": "santiago_cd8bb11fbc",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_Texto-aprobatorio.pdf",
+  "nombre": "santiago_Texto-aprobatorio.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:30:56",
+  "fin": "2026-07-14T21:33:04",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SANTIAGO: Texto Aprobatorio de la Modificacion al PRC, Ajuste de Normas Urbanisticas Poblacion Centenario (ago-2021). Crea el Sector Especial D11 Poblacion Centenario en la Zona D: usos de suelo (rigen los del Sector Especial D5) y condicionantes de subdivision y edificacion: superficie subdivision minima 150 m2, COS 1,0, CC 2,0, densidad maxima 895 hab por ha, agrupamiento continuo (no se permite aislada sobre la continua), altura maxima 5,5 m. Documento corto, 2 paginas, texto nativo. Contenido identico y mejor formateado en santiago_ef30f5c4bc."
+  }
+}

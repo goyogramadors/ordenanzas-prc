@@ -1,0 +1,20 @@
+{
+  "id": "parral_ecb881d6a1",
+  "comuna": "parral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\parral_decreto_5139_ordenese_el_inicio_de_la_etapa_de_preparacion_del_proceso_del_plan___Exento_5139.pdf",
+  "nombre": "parral_decreto_5139_ordenese_el_inicio_de_la_etapa_de_preparacion_del_proceso_del_plan___Exento_5139.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:08:51",
+  "fin": "2026-07-14T21:10:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PARRAL: decreto exento 5139 (oct-2025, 9p), ORDENA EL INICIO de la etapa de preparacion del proceso de actualizacion del PRC (el vigente tiene 35 anos) y APRUEBA el Plan de Trabajo (cronograma, proceso tecnico-normativo, EAE integrada). Es tramite de arranque del proceso, no contiene normas ni tablas. Solo 1 coincidencia aislada de señales en 9 paginas."
+  }
+}

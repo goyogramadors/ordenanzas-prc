@@ -1,0 +1,20 @@
+{
+  "id": "la_granja_618994eb55",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas ordenadas\\la_granja_1076_modifica_ordenanza_del_plan_regulador_comunal_en_los_articulos_que_indica__do-20090525.pdf",
+  "nombre": "la_granja_1076_modifica_ordenanza_del_plan_regulador_comunal_en_los_articulos_que_indica__do-20090525.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:17:48",
+  "fin": "2026-07-15T08:19:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial N39.369 (25.05.2009). p.1 (pagina impresa 6) es Municipalidad de La Granja: modifica Ordenanza del PRC Art.12 (Capitulo III, Definiciones y Normas Generales) sobre Bienes Nacionales de Uso Publico -- permite construcciones complementarias (kioscos, fuentes de agua, juegos infantiles, estructuras de techumbre para multicanchas). Es un cambio DEFINICIONAL/cualitativo, no un valor numerico de COS/CC/altura/predial. p.2 (pagina impresa 7) es TRAMPA COMUNA AJENA: pertenece a Municipalidad de Las Condes (Complementa Decreto Alcaldicio Seccion 1 N3684/2006, tablas de densificacion E-Ab4/E-Arm1 sector Lo Fontecilla) y Providencia (fija sentido unico transito), NO a La Granja. Sin cuadro numerico de normas atribuible a La Granja en este archivo."
+  }
+}

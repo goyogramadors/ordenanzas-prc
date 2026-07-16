@@ -1,0 +1,25 @@
+{
+  "id": "linares_9578417ea8",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\linares_decreto_ordenanza_municipal_del_plan_regulador_comunal_de_linares__ORD_N_4.pdf",
+  "nombre": "linares_decreto_ordenanza_municipal_del_plan_regulador_comunal_de_linares__ORD_N_4.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 20,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:35:11",
+  "fin": "2026-07-15T08:37:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        13
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Ordenanza Municipal del PRC de Linares, ORD N4 (encabezado Ilustre Municipalidad de Linares en cada pagina, sin comuna ajena ni desorden de columnas). Tablas de normas pp.8-13: Z-1/Z-2 (predial 240/200m2, COS 0.75, CC 4, agrupamiento Aislado-Pareado-Continuo, altura 10.5m/7m, antejardin 3m), Z-3/Z-4 (predial 160/200m2, COS 0.7/0.6, CC 2/2.5), Z-5/Z-6 (predial 120/160m2, COS 0.7, CC 1.2/2), Z-7/Z-8 (predial 500/200m2, COS 0.7/0.6, CC 2/2.5), Z-9/Z-10 (predial 250/1800m2, COS 0.5-0.7, CC 5/2/3, antejardin 3m/20m), ZE Equipamiento (predial 1500m2, COS 0.8, CC 3, distanciamiento 3m), ZAP Act.Productivas (predial 1000m2, COS 0.5, CC 0.7, distanciamiento 3m). p.7 indice de zonas sin valores (excluido), p.14+ Monumentos/ICH, pp.16-19 vialidad (excluidos)."
+  }
+}

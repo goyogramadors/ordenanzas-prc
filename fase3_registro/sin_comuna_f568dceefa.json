@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_f568dceefa",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\RE0B51~1.PDF",
+  "nombre": "RE0B51~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:07:34",
+  "fin": "2026-07-15T08:09:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 1247/MD (16.11.2020), I.Municipalidad de Rengo. Inicia tramitacion de Modificacion N6 al PRC de Rengo/Rosario/Esmeralda con formulacion y consulta de Imagen Objetivo (Art.45 LGUC). La unica tabla (p.3) lista 9 TEMAS modificatorios (redefinicion zona conservacion historica, zona universitaria, plan maestro barrio nororiente, redefinicion vial, incorporacion destino culto en ZH3/ZH6/ZH9, equipamiento mayor escala, redefinicion calle Correa, transformacion ZE a residencial Villa Parque, redefinicion vial Av.Las Torres) sin ningun valor numerico de norma (COS/CC/altura/predial). Es el inicio del procedimiento, no el resultado normativo."
+  }
+}

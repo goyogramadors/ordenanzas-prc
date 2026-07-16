@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_ab2243e7f8",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_SESION-EXTRAORD.-03-NOVIEMBRE-2021.pdf",
+  "nombre": "las_condes_SESION-EXTRAORD.-03-NOVIEMBRE-2021.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 19,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:00:34",
+  "fin": "2026-07-14T16:01:39",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES NORMATIVO: acta de SESION EXTRAORDINARIA del COSOC (Consejo Comunal de Organizaciones de la Sociedad Civil) de Las Condes, 03-11-2021, 19 pags. DISCUTE la Modificacion 11 del PRC y menciona incentivos (superficie predial minima, +30% constructibilidad, antejardines, altura de cierros 2,5 m), pero es una EXPOSICION en acta, no el texto normativo: no fija cuadros por zona. Los valores reales estan en el texto refundido (las_condes_25677917f4) y en la memoria (las_condes_208e2f4248). Util solo como contexto."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rancagua_6d8f185f4c",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_no_aplica_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua__Exportar.pdf",
+  "nombre": "rancagua_no_aplica_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:20:58",
+  "fin": "2026-07-14T21:22:13",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "fe de erratas Tramitación N16: reproduce completo usos de suelo permitidos y prohibidos de ZONA EX6 (Extensión urbana 6), texto nativo; no incluye cuadro numérico COS/CC/altura (solo usos)"
+  }
+}

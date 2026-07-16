@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_03db08bb67",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_236_aprueba_modificiacion_del_plan_regulador_comunal_de_rancagua_tramitacion_n17__Exportar.pdf",
+  "nombre": "rancagua_236_aprueba_modificiacion_del_plan_regulador_comunal_de_rancagua_tramitacion_n17__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:02:57",
+  "fin": "2026-07-15T08:03:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "modificación Tramitación N17: solo clasificación de vialidad estructurante (Art.32) y prórroga de declaratoria utilidad pública de parques y vías; tablas son de vialidad, no normas urbanísticas de zona"
+  }
+}

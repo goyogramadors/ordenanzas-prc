@@ -1,0 +1,422 @@
+[
+ {
+  "id": "d1112",
+  "comuna": "las_condes",
+  "nombre_documento": "2021_oficio_au_n4_del_21_10_21_modif_n11_a_prc",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2021-Oficio-AU-N4-del-21.10.21-Modif-N11-a-PRC.-.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio de Asesoría Urbana de 6 páginas sobre Modificación N°11 al PRC; por su brevedad es correspondencia de trámite, no el cuerpo normativo (patrón de oficios Alc.N14 confirmado como trámite en d1124/d1125 de la misma comuna).",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1113",
+  "comuna": "las_condes",
+  "nombre_documento": "2021_ord_alc_n14_365_modif_n11_al_prc",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2021-Ord.-Alc.-N14-365-Modif.-N11-al-PRC.-.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio Alc.N14-365 de 3 páginas sobre Modificación N°11 al PRC; por su brevedad es correspondencia de trámite dentro del expediente, no la ordenanza misma.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0687",
+  "comuna": "las_condes",
+  "nombre_documento": "2022_03_24_actual_cronograma_mod_11",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2022_03_24_Actual_Cronograma_Mod_11.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Cronograma de plazos del proceso de la Modificacion N11, documento puramente administrativo sin contenido normativo",
+  "texto_primeras_paginas": "ACTUALIZACIÓN\r\nCronograma Estimado para la Modificación N° 11 al Plan Regulador Comunal de Las Condes.\r\nActividad\r\nPreparación expediente Modificación N°\r\n11 para aprobación\r\nPresentación al Concejo Comunal para\r\ndar Inicio proceso de modificación N°11\r\nPRC de Las Condes\r\nEnvío cartas certificadas a organizaciones\r\nterritoriales\r\nConvocatoria 1° Audiencia Pública\r\n(Publicación avisos de prensa)\r\n\r\nPlazo (días)\r\n\r\nFecha inicio\r\n\r\nFecha termino\r\nJunio/2021\r\n\r\n1\r\n\r\n07/10/2021\r\n\r\n07/10/2021\r\n\r\n14\r\n\r\n08/10/2021\r\n\r\n22/10/2021\r\n\r\n2 avisos dif. (+7 días)\r\n\r\n22/10/2021\r\n\r\n02/11/2021\r\n\r\nConvocatoria a COSOC\r\n\r\n1\r\n\r\n03/11/2021\r\n\r\n03/11/2021\r\n\r\n1° Audiencia Publica\r\n\r\n1\r\n\r\n11/11/2021\r\n\r\n11/11/2021\r\n\r\n1\r\n\r\n02/12/2021\r\n\r\n10/12/2021\r\n\r\n133\r\n\r\n15/11/2021\r\n\r\n28/03/2021\r\n\r\nNueva convocatoria al COSOSC\r\n\r\n1\r\n\r\n04/01/2022\r\n\r\n04/01/2022\r\n\r\nConvocatoria Nueva Audiencia Pública\r\n\r\n2 avisos dif. (+7 días)\r\n\r\n04/01/2022\r\n\r\n14/01/2022\r\n\r\nNueva Audiencia Pública Informativa\r\n\r\n1\r\n\r\n20/01/2022\r\n\r\n20/01/2022\r\n\r\nConvocatoria 2° Audiencia Pública\r\n(Publicación avisos de prensa)\r\n\r\n2 avisos dif. (+7 días)\r\n\r\n14/03/2022\r\n\r\n22/03/2022\r\n\r\n2° Audiencia Publica\r\n\r\n1\r\n\r\n24/03/2022\r\n\r\n24/03/2022\r\n\r\n1\r\n\r\n05/04/2022\r\n\r\n05/04/2022\r\n\r\nhasta 15 días después de\r\n2° audiencia.\r\n\r\n25/03/2022\r\n\r\n08/04/2022\r\n\r\n25\r\n\r\n25/03/2022\r\n\r\n19/04/2022\r\n\r\nPresentación al concejo de Observaciones\r\n\r\n1 (desde 15 hasta 30 días\r\ndespués de 2"
+ },
+ {
+  "id": "d1114",
+  "comuna": "las_condes",
+  "nombre_documento": "2022_ord_alc_n14_46_del_17_2_22_ord_n285_2022",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2022-Ord.-Alc.-N14-46-del-17.2.22-ORD.-N285-2022.-.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es un oficio (Ord. Alc. 14/46) donde la Municipalidad de Las Condes se desiste de un recurso de reposicion y solicita aclaracion a la SEREMI Minvu sobre difusion de la exposicion publica de la Modificacion N11 al PRC; es correspondencia procedimental sobre publicidad del tramite, sin articulado de normas urbanisticas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0686",
+  "comuna": "las_condes",
+  "nombre_documento": "2022_ord_n706_del_25_3_22",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2022-Ord.-N706-del-25.3.22.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 9
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio de la SEREMI MINVU aclarando un tramite del articulo 4 LGUC sobre publicacion de antecedentes, no contiene normas urbanisticas",
+  "texto_primeras_paginas": "DEPARTAMENTO DE DESARROLLO URBANO\r\nE INFRAESTRUCTURA\r\nEquipo de Planificación (EPL)\r\nInterno Nº 334 - 2022\r\nIngreso N°0100388 de fecha 18.02.2022\r\n\r\n706 25.03.2022\r\n\r\nORD. Nº _____________________/\r\n\r\nANT.:\r\n1. Su Ord. Alc. N° 14/365, de fecha\r\n23.12.2021 de Municipalidad Las Condes\r\na Seremi Minvu.\r\n2. Su Ord. N° 285 de fecha 01.02.2022 de\r\nSeremi Minvu.\r\n3. Su Ord. Alc N° 14/35 de fecha 07.02.2022\r\nDE Municipalidad Las Condes a Seremi\r\nMinvu.\r\n4. Su Ord. Alc. N° 14/46 de fecha\r\n17.02.2022.\r\nMAT.: LAS CONDES: Artículo 4° LGUC. Solicita\r\naclaración de Ord. N° 285 de fecha\r\n01.02.2022 emitido por Seremi Minvu.\r\nSANTIAGO,\r\nDE:\r\n\r\nSECRETARIA MINISTERIAL METROPOLITANA DE VIVIENDA Y URBANISMO\r\n\r\nA:\r\n\r\nSR. JUAN IGNACIO JARAMILLO MICHAELIS\r\nALCALDE(S) MUNICIPALIDAD DE LAS CONDES\r\n\r\n1.\r\n\r\nEsta Secretaría Ministerial recibió su presentación citada en ANT.4, mediante la cual, de\r\nacuerdo con lo previsto en el artículo 4°de la Ley General de Urbanismo y Construcciones,\r\ninforma el desistimiento del Recurso de Reposición presentado mediante ANT. 3, y, al mismo\r\ntiempo solicita una aclaración respecto del ORD. N° 285 del 01.02.2022 de esta Seremi, el\r\ncual se emitió en respuesta al ORD Alc. N° 14/365 ingresado por Municipalidad de Las\r\nCondes, el cual informaba que en la actualidad se encuentra en desarrollo el proyecto\r\nModificación N° 11 del PRC de Las Condes y adjuntaba antecedentes para"
+ },
+ {
+  "id": "d1110",
+  "comuna": "las_condes",
+  "nombre_documento": "20_c_ord_alc_n4_265_del_07sep2017_a_cgr_inf_inicio_adecuac_al_prclc_dec_n6559_2017",
+  "ruta": "Ordenanzas ordenadas\\las_condes_20-c-Ord.Alc.N4-265-del-07sep2017-a-CGR-inf-inicio-adecuac-al-PRCLC-Dec.N6559-2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio a Contraloría que informa el inicio de un proceso de adecuación al PRCLC (Dec. N6559/2017); aviso de inicio de trámite, sin normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1115",
+  "comuna": "las_condes",
+  "nombre_documento": "22_a_inf_au_n58_del_16ago2017_al_sr_alcalde_solic_instruir_inicio_estudio_proceso_modif_pr",
+  "ruta": "Ordenanzas ordenadas\\las_condes_22-a-Inf.AU-N58-del-16ago2017-al-Sr.Alcalde-solic-instruir-inicio-estudio-proceso-modif-PR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Informe de Asesoría Urbana que solicita instruir el inicio del estudio de un proceso de modificación del PR; gestión de inicio de trámite, sin normas todavía.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0349",
+  "comuna": "las_condes",
+  "nombre_documento": "2_1er_aviso_modif_n11_publicado_04ene2022",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_2-1er.-aviso-Modif.-N11-publicado-04ene2022.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es el '1er aviso' de publicacion de la Modificacion N11, 1 pagina escaneada, tramite de publicacion sin normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0685",
+  "comuna": "las_condes",
+  "nombre_documento": "2_46d_viv_santa_zita_estudio_de_equipamiento_final_ene2021",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2.-46d-VIV-SANTA-ZITA_ESTUDIO-DE-EQUIPAMIENTO-FINAL-ENE2021.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 62,
+  "paginas_escaneadas": 24,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "agrupamiento": 2,
+   "antejardin": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 6,
+   "articulado": 3
+  },
+  "codigos_zona": [
+   "ZITA"
+  ],
+  "puntaje_normativo": 6,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es un estudio técnico de respaldo (inventario de equipamiento comunal existente) para justificar una modificación del PRC en el sector Santa Zita, Las Condes; no es el decreto/ordenanza que aprueba normas, y el contenido visto es descriptivo (inventario de instalaciones), no prescriptivo (no hay coeficientes, alturas ni usos permitidos).",
+  "texto_primeras_paginas": "ESTUDIO DE EQUIPAMIENTO COMUNAL\r\nPARA TERRENO SANTA ZITA N°9402 Y N°9432\r\n\r\nI. MUNICIPALIDAD DE LAS CONDES | DIRECCIÓN DE ASESORÍA URBANA | ENERO 2021\r\n\r\n\f1. INTRODUCCIÓN\r\nLa distribución en el espacio urbano del equipamiento, el tamaño del centro poblado y la atracción entre centros\r\nde abastecimiento y las concentraciones residenciales que actúan como lugares de consumo es una materia\r\nque tiene un largo desarrollo conceptual en la disciplina del urbanismo. Así como también lo es la dotación o\r\ncantidad de este equipamiento que debe disponer una comunidad en su entorno inmediato, próximo o cercano,\r\nlo que da cuenta del nivel de desarrollo que alcanzan las comunidades. Asociado al crecimiento de una\r\npoblación residencial se incrementan las demandas de necesidades, compra de bienes y servicios, salud,\r\nrecreación, educación, recreación, deporte, cultura que deben ser satisfechas por una oferta de servicios que\r\nbuscan localizarse a distancias eficientes respecto del tamaño y concentración de población.\r\nEn este contexto, si bien somos de opinión que un estudio de suficiencia de equipamiento no adquiere sentido\r\nen una modificación que abarca una porción tan menor del territorio comunal, igual se desarrolla el presente\r\ntrabajo para la manzana sometida al cambio de norma urbanística y al área de influencia que se determinó para\r\nla presente evaluación de suficiencia de equipam"
+ },
+ {
+  "id": "d0688",
+  "comuna": "las_condes",
+  "nombre_documento": "2_lam_1_edificacion_ee1_colegio_san_patricio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_2_LAM._1_EDIFICACION_Ee1_COLEGIO_SAN_PATRICIO.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 1
+  },
+  "codigos_zona": [
+   "ZA",
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica de rectificacion del plano de edificacion en torno al Colegio San Patricio, sin cuadro normativo de texto",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nTODOS\r\n\r\nPLANO DE\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nEAa + ca\r\n\r\nA\r\n\r\nNSON\r\nROBI\r\n\r\n60\r\n\r\nRTO\r\nROBE\r\n\r\nRTO\r\n\r\nROBE\r\n\r\nEAb2\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\nAPROBACION MUNICIPAL\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL FUE SANCIONADA POR DECRETO ALCALDICIO\r\n21\r\n966\r\nFEBRERO\r\n\r\nEe1\r\n\r\nEe1\r\n\r\nEe1\r\n\r\nJUAN P\r\n\r\nSITUACION ANTERIOR\r\n\r\nALAU\r\n\r\nO\r\nVICHAT\r\n\r\nHUARA\r\nHUARA\r\n-\r\n\r\nEL PI\r\nLLAN\r\n\r\nA\r\n\r\nMAYECUR\r\n\r\nUI\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nU\r\n\r\nEL TOQ\r\n\r\nCOMUNAL\r\n\r\nEAb2\r\n\r\nPALA\r\n\r\nPlanet\r\n\r\nEe1 EQUIPAMIENTO INTERCOMUNAL Y\r\n\r\nM P R C L C - 2010\r\n\r\nJUAN\r\n\r\nEe1\r\n\r\nES\r\nENES\r\nZ M\r\n\r\nLOPE\r\n\r\nLA\r\n\r\nO COX\r\nRICARD\r\n\r\nOPIL\r\n\r\nLONG\r\n\r\nA\r\n\r\nU\r\n\r\nPALA\r\n\r\nMAYECUR\r\n\r\nJUAN\r\n\r\nES\r\nENES\r\nZ M\r\n\r\nLOPE\r\n\r\n60\r\n\r\n60\r\n\r\nAntonio\r\n\r\nEDIFICACION ESPECIAL\r\n\r\nEe1\r\n\r\nCOX\r\n\r\nLA\r\n\r\nOPIL\r\n\r\nO\r\nRICARD\r\n\r\nLONG\r\n\r\n60\r\n\r\nMAYEC\r\nURA\r\n\r\nCRUS\r\n\r\nOE\r\n\r\nVEDRA\r\nPONTE\r\n\r\nPIACEN\r\n\r\nARQ\r\n\r\nZA\r\n\r\nUER\r\nI\r\n\r\nSIMBOLOGIA\r\n\r\nROBI\r\n\r\nNSON\r\n\r\nMAYEC\r\nURA\r\n\r\nCRUS\r\nO\r\n\r\nE\r\n\r\nVEDRA\r\nPONTE\r\n\r\nPIACEN\r\nZA\r\n\r\nEe1\r\n\r\nRECTIFICACION AL PLANO DE USO DE SUELO\r\nAL\r\nMPRCLC - 2010 APROBADO POR DECRETO\r\n729 DE FECHA 25 01 2011 Y\r\nPUBLICADO EN EL DIARIO OFICIAL CON\r\nFECHA 28 01 2011 PARA SU DESLINDE SUR\r\nCOLEGIO SAN PATRICIO ZONA Ee1\r\n\r\nMAYE\r\n\r\nROBIN\r\n\r\nCURA\r\n\r\nEAm4\r\n\r\nMAYE\r\n\r\nROBIN\r"
+ },
+ {
+  "id": "d0689",
+  "comuna": "las_condes",
+  "nombre_documento": "3_2021_ecv_urbano_santazita_ene2021",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_3.-2021-ECV-Urbano-SantaZita-ENE2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 94,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "normas_urbanisticas": 3,
+   "zonificacion": 1
+  },
+  "codigos_zona": [
+   "ZITA"
+  ],
+  "puntaje_normativo": 3,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es un estudio técnico vial (conteos y proyecciones de viajes) que respalda la misma modificación del PRC en Las Condes (sector Santa Zita); no contiene ni aprueba normas urbanísticas, solo datos de tránsito.",
+  "texto_primeras_paginas": "MUNICIPALIDAD DE LAS CONDES\r\n\r\nESTUDIO DE CAPACIDAD VIAL\r\nMODIFICACION DEL PLAN REGULADOR, SECTOR SANTA ZITA\r\nCOMUNA LAS CONDES\r\nREGIÓN METROPOLITANA\r\n\r\nENERO, 2021\r\n\r\nURBANO PROYECTOS\r\nBarros Errázuriz # 1953 Of. 903 – Providencia\r\nFono – Fax: 9125500 www.urbanoproyectos.com\r\n\r\n\fÍNDICE\r\n1.\r\n\r\nINTRODUCCIÓN ................................................................................................................................................. 1\r\n1.1\r\nPresentación ............................................................................................................................................... 1\r\n1.2\r\nAntecedentes Generales ............................................................................................................................. 2\r\n\r\n2.\r\n\r\nOBJETIVO ........................................................................................................................................................... 3\r\n\r\n3.\r\n\r\nMETODOLOGÍA .................................................................................................................................................. 5\r\n3.1\r\nPlanteamiento Metodológico General ......................................................................................................... 5\r\n3.2\r\nDiagnóstico General del Transporte y la Vialidad Comunal ................................................................"
+ },
+ {
+  "id": "d0690",
+  "comuna": "las_condes",
+  "nombre_documento": "3_lam_edif_uee1_dipreca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_3_LAM._EDIF_UEe1_DIPRECA.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 4
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica de rectificacion de deslindes del area de uso de suelo UEe1 DIPRECA, sin cuadro normativo",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nTODOS\r\n\r\nM\r\nLuis\r\ni\r\nLarra\r\natte\r\n\r\nUSO DE SUELO\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nn\r\n\r\nav\r\n\r\no\r\n\r\nindo\r\n\r\ne\r\n\r\nLarra\r\n\r\nerd\r\n\r\nPeum\r\n\r\nu\r\nApoq\r\nVital\r\n\r\ne\r\nMatt\r\nLuis\r\n\r\nLom\r\n\r\no Del\r\nCamin\r\n\r\nPLANO DE\r\n\r\nin\r\n\r\natt\r\nLuis M\r\n\r\nLoma\r\n\r\n50\r\n\r\ndel p\r\ne\r\n\r\numo\r\n\r\na\r\n\r\nm\r\n\r\nLo\r\nan\r\nlC\r\n\r\na\r\n\r\no\r\n\r\nel\r\n\r\nm\r\nLo\r\n\r\nrrain\r\n\r\nde\r\n\r\natte La\r\n\r\nverde\r\n\r\ndel p\r\neumo\r\n\r\nin\r\ne Larra\r\n\r\nverde\r\n\r\nLuis M\r\n\r\nLoma\r\n\r\ncolina\r\n\r\ncolina\r\n\r\nRECTIFICACION DE LOS DESLINDE NORTE- SUR ORIENTE Y PONIENTE DEL AREA DE USO DE SUELO\r\nUEe1 \"HOSPITAL DE LA CAJA DE PREVISION DE\r\nCARABINEROS DE CHILE (DIPRECA)\"\r\n\r\nlC\r\nde\r\no\r\nel\r\nan\r\n\r\ne.\r\nPj\r\n\r\nCerro la Gloria\r\n\r\nla\r\ncu\r\n\r\nes\r\na\r\n\r\nel\r\n\r\nLa Paz\r\n\r\nUEe1\r\n\r\nUEe1 EQUIPAMIENTO INTERCOMUNAL Y\r\nCOMUNAL\r\n\r\nLa Paz\r\n\r\na\r\nYoland\r\n\r\nUC3\r\n\r\nUC3\r\nUELA\r\nLA ESC\r\n\r\na nor t\r\ng\r\nl\r\no\r\n.\r\ne\r\nj\r\nP\r\n\r\nZONA DE USO DE SUELO EQUIPAMIENTOS ESPECIALES\r\n\r\nebrada\r\n\r\na\r\n\r\nUEe1\r\n\r\nLa Paz\r\n\r\nYoland\r\n\r\nRADA\r\n\r\nB\r\nLA QUE\r\nPje.la qu\r\n\r\nebrada\r\n\r\nLa Paz\r\n\r\nPje.la qu\r\n\r\nLa Quebrada interior\r\n\r\nBRADA\r\nLA QUE\r\n\r\nSIMBOLOGIA\r\n\r\nLa Quebrada interior\r\n\r\nUC3\r\n\r\nUC3\r\n\r\na\r\nPje. olg\r\n\r\nM P R C L C - 2010\r\n\r\nnorte\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\ne\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\nAPROBACION MUNICIPAL\r\nMarisol\r\n\r\na\r\nisc\r\nnc\r\nra\r\n.F\r\n\r\nPj\r\n\r\ne.\r\n\r\nFr\r\n\r\nan\r\n\r\ncis\r\n\r\nca\r\n\r\n50\r\n\r\nPj\r\ne\r\n\r\nMarisol\r\n\r\n50\r\n\r\nEL SECRETARIO M"
+ },
+ {
+  "id": "d0350",
+  "comuna": "las_condes",
+  "nombre_documento": "3_plano_referencial_alturas_de_edificacion",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_3-PLANO-REFERENCIAL-ALTURAS-DE-EDIFICACION.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Plano referencial de alturas de edificacion; es un documento grafico de referencia, no trae articulado.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0352",
+  "comuna": "las_condes",
+  "nombre_documento": "4_51_2021_certi_complementario_174_30ene21",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_4.-51-2021-Certi.complementario-174-30ENE21.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es un certificado de factibilidad de agua potable y alcantarillado de Aguas Andinas para un predio especifico, no es normativa del PRC.",
+  "texto_primeras_paginas": "AGUAS CORDILLERA\r\nNº174 –30.01.2021\r\n23.03.2018\r\nCERTIFICADO\r\n\r\nCertificado de Factibilidad\r\nSeñor(a)\r\nCristian Nelson\r\nReserva Cora 10\r\nComuna De Paine\r\n\r\nREF.: Certificado de factibilidad de servicio de agua\r\npotable y alcantarillado de aguas servidas para\r\nterreno ubicado en Santa zita 9402.\r\nComuna de Las Condes\r\nNúmero de solicitud 1-6559384162 del\r\n25/01/2021\r\n\r\nDe mi consideración:\r\nPor solicitud recibida el 25/01/2021, se ha solicitado a esta empresa certificado de factibilidad para\r\ndotar de agua potable y alcantarillado de aguas servidas a un terreno de 7500 m2, ubicado en Santa\r\nzita 9402, costado norponiente, entre Incahuasi y Av Paul Harris, comuna de Las Condes, en el cual\r\nse emplaza Edificio habitacional, con una población estimada total de 297 habitantes, lo cual equivale\r\na 735 metros cúbicos día.\r\n\r\nAl respecto, informamos lo siguiente:\r\n1. Para el abastecimiento de agua potable y alcantarillado de aguas servidas, las obras\r\nnecesarias son las siguientes:\r\n\r\n1.1. Agua Potable\r\na) Conectar el arranque y medidor de agua potable, a la cañería de AC de diámetro\r\nD=100 mm. Proyecto público N° 7-2, existente en costado norponiente de Santa Zita\r\ny de acuerdo al Estándar Técnico de Aguas Andinas S.A. correspondiente.\r\nc) La presión para el diseño de la instalación domiciliaria de agua potable, considerada\r\naguas abajo de la llave de paso que se ubica después del med"
+ },
+ {
+  "id": "d0691",
+  "comuna": "las_condes",
+  "nombre_documento": "4_lam_ee5_camino_otonal_n1218",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_4_LAM._Ee5_CAMINO_OTONAL_N1218.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica de rectificacion del area de edificacion Ee5 Camino Otonal, sin texto normativo",
+  "texto_primeras_paginas": "N\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\nPLANO DE\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nF\r\n\r\nF\r\n\r\nEDIFICACION\r\n\r\nRECTIFICACION AREA DE EDIFICACION Ee5\r\n\r\nEe3\r\n\r\nEe3\r\n\r\nSIMBOLOGIA\r\n\r\nEe5 AREAS DE INTERES\r\n\r\nEAb1\r\n\r\nEAb1\r\n\r\nPATRIMONIAL\r\n\r\nM P R C L C - 2010\r\n\r\nEe5\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nEAb2\r\n\r\nEAb2\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\nAPROBACION MUNICIPAL\r\n\r\nSITUACION ANTERIOR\r\n\r\nEe\r\n\r\nEe\r\n\r\n1\r\n\r\n1\r\n\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL FUE SANCIONADA POR DECRETO ALCALDICIO\r\n966\r\n21\r\nFEBRERO\r\n\r\nSITUACION ACTUAL\r\n\r\nPABLO DE LA LLERA MARTIN\r\nASESOR URBANO\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO MUNICIPAL\r\n\r\nOMAR SAFFIE LAMAS\r\nA L C A L D E (S)\r\nLAMINA\r\n\r\nRECTIFICACION AL PLANO\r\nDE EDIFICACION\r\nESCALA : 1 / 7500\r\n\r\nFECHA :\r\n\r\nFebrero 2014"
+ },
+ {
+  "id": "d0351",
+  "comuna": "las_condes",
+  "nombre_documento": "4_plano_referencial_de_densidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_4-PLANO-REFERENCIAL-DE-DENSIDAD.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Plano referencial de densidad; documento grafico de referencia, no trae articulado.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0692",
+  "comuna": "las_condes",
+  "nombre_documento": "5_lam_ee5_y_uee5_camino_otonal_n1218",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_5_LAM._Ee5_y_UEe5_CAMINO_OTONAL_N1218.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica de rectificacion de areas Ee5 y UEe5 Camino Otonal, sin texto normativo",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nTODOS\r\n\r\nPLANO DE USO DE SUELO\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nRECTIFICACION AREA DE EDIFICACION UEe5\r\n\r\nSIMBOLOGIA\r\n\r\nUV\r\n\r\nUV\r\n\r\nUV\r\n\r\nUV\r\n\r\nUEe5 USO DE INTERES PATRIMONIAL\r\n\r\nUEe5\r\n\r\nUV\r\n\r\nM P R C L C - 2010\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\nAPROBACION MUNICIPAL\r\n\r\nSITUACION ANTERIOR\r\n\r\nU\r\n\r\nU\r\n\r\nEe\r\n\r\nEe\r\n\r\n1\r\n\r\n1\r\n\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL , FUE SANCIONADA POR DECRETO ALCALDICIO 966\r\nCON FECHA_ _ _21\r\n_ _ _ _ DE _ _ _ _FEBRERO\r\n_ _ _ _ _ _ _ _ _ _2014 DE LA MUNICIPALIDAD DE LAS CONDES.\r\n\r\nSITUACION ACTUAL\r\n\r\nPABLO DE LA LLERA MARTIN\r\nASESOR URBANO\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO MUNICIPAL\r\n\r\nOMAR SAFFIE LAMAS\r\nA L C A L D E (S)\r\nLAMINA\r\n\r\nRECTIFICACION AL PLANO\r\nDE USO DE SUELO\r\nESCALA : 1 / 7500\r\n\r\nFECHA :\r\n\r\nFebrero 2014"
+ },
+ {
+  "id": "d0693",
+  "comuna": "las_condes",
+  "nombre_documento": "6_lam_uso_de_suelo_colego_san_patricio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_6_LAM._USO_DE_SUELO_COLEGO_SAN_PATRICIO.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 4
+  },
+  "codigos_zona": [
+   "ZA",
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica del plano de uso de suelo en torno al Colegio San Patricio, sin cuadro normativo de texto",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nTODOS\r\n\r\nES\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\nAPROBACION MUNICIPAL\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL FUE SANCIONADA POR DECRETO ALCALDICIO\r\n21\r\n966\r\nFEBRERO\r\n\r\nUEe1\r\n\r\nALAU\r\nJUAN P\r\n\r\nVICHATO\r\n\r\n- HUARA\r\nHUARA\r\n\r\nEL PI\r\nLLAN\r\n\r\nUI\r\n\r\nPlanet\r\nAntonio\r\n\r\nEL TOQ\r\n\r\nUEe1\r\n\r\nALAU\r\nJUAN P\r\n\r\nVICHAT\r\nO\r\n\r\n- HUARA\r\nHUARA\r\n\r\nEL PI\r\nLLAN\r\n\r\nUI\r\n\r\nA\r\n\r\nU\r\nPALA\r\n\r\nES\r\nMEN\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nU\r\n\r\n1\r\ne\r\nE\r\n\r\nPABLO DE LA LLERA MARTIN\r\nASESOR URBANO\r\n\r\n60\r\n\r\nAREA DE EQUIPAMIENTO\r\nINTERCOMUNAL Y COMUNAL\r\n\r\nM P R C L C - 2010\r\n\r\nUEe1\r\n\r\n1\r\ne\r\nE\r\n\r\nU\r\n\r\nMAYECUR\r\n\r\nJUAN\r\n\r\nPEZ\r\n\r\nEL TOQ\r\n\r\nA\r\n\r\nUEe1\r\n\r\nCOX\r\n\r\nLA\r\n\r\nES\r\n\r\nOPIL\r\n\r\nO\r\nRICARD\r\n\r\nLONG\r\n\r\nU\r\n\r\nA\r\n\r\nPALA\r\n\r\nES\r\nMEN\r\n\r\nMAYECUR\r\n\r\nJUAN\r\n\r\nZ\r\nLOPE\r\n\r\nPlanet\r\n\r\nMAYEC\r\nUR\r\n\r\nROBI\r\nNSON\r\n\r\nLO\r\nRTO\r\nROBE\r\n\r\nRTO\r\n\r\nROBE\r\n\r\nLA\r\n\r\nO COX\r\n\r\nOPIL\r\n\r\nRICARD\r\n\r\nLONG\r\n\r\nAntonio\r\n\r\nRECTIFICACION AL PLANO DE USO DE SUELO\r\nAL\r\nMPRCLC - 2010 APROBADO POR DECRETO\r\n729 DE FECHA 25 01 2011 Y\r\nPUBLICADO EN EL DIARIO OFICIAL CON\r\nFECHA 28 01 2011 PARA SU DESLINDE SUR\r\nCOLEGIO SAN PATRICIO ZONA UEe1\r\n\r\nZONAS DE USO DE SUELO EQUIPAMIENTOS\r\nESPECIALES\r\n\r\nUEe1\r\nUv2\r\n\r\nMAYE\r\nCURA\r\n\r\nUSOE\r\n\r\nCRUS\r\nOE\r\n\r\nVEDRA\r\n\r\nUEe1\r\n\r\nUv1\r\n\r\nUv1\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\n60\r\n\r\nUSO "
+ },
+ {
+  "id": "d1117",
+  "comuna": "las_condes",
+  "nombre_documento": "7_40_2020_ord_alc_n_14_330_del_7dic20_modif_n_10_prclc",
+  "ruta": "Ordenanzas ordenadas\\las_condes_7.-40-2020-Ord.-Alc.-N-14-330-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio Alc.N14-330 de 1 página sobre Modificación N°10 PRCLC; por su extrema brevedad es nota de trámite/remisión dentro de un paquete de expediente, no contiene normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0353",
+  "comuna": "las_condes",
+  "nombre_documento": "7_k_2doaviso_modifn11_publicado_02nov2021",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_7-k-2doaviso-ModifN11-publicado-02nov2021.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Es el '2do aviso' de publicacion de la Modificacion N11 (otro ejemplar), 1 pagina escaneada, tramite de publicacion.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0694",
+  "comuna": "las_condes",
+  "nombre_documento": "7_lam_uso_de_suelo_uee1_clinica_las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_7_LAM._USO_DE_SUELO_UEe1_CLINICA_LAS_CONDES.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 3
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica del plano de uso de suelo de la zona UEe1 Clinica Las Condes, con datos graficos de distancias pero sin articulado normativo",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nTODOS\r\n\r\nPLANO DE USO DE SUELO\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\n60\r\n\r\n60\r\nLA ZONA UEe1 \" CLINICA LAS CONDES\". ( CALLE LO\r\nFONTECILLA )\r\n\r\n60\r\nUC\r\n\r\n2\r\n\r\nUC\r\n\r\n2\r\n\r\n60\r\n\r\nSIMBOLOGIA\r\n\r\nUC2\r\n\r\nZONAS DE USO DE SUELO EQUIPAMIENTOS\r\nESPECIALES\r\n\r\nUC2\r\n\r\nCONDICION PARA PREDIOS\r\n\r\n7.5\r\n\r\n5\r\n\r\nM P R C L C - 2010\r\n\r\nUC2\r\nUC\r\n2\r\n\r\nUC\r\n2\r\n\r\n7.5\r\n\r\nUC2\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\n\r\n15\r\n\r\n5\r\n\r\n15\r\nAPROBACION MUNICIPAL\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL , FUE\r\nSANCIONADA POR DECRETO ALCALDICIO 966\r\nCON FECHA_ _ _21\r\n_ _ _ _ DE _ _ _ _FEBRERO\r\n_ _ _ _ _ _ _ _ _ _2014 DE LA MUNICIPALIDAD DE LAS CONDES.\r\n\r\nUEe5\r\n\r\nUEe5\r\n\r\no\r\n\r\no\r\nPABLO DE LA LLERA MARTIN\r\nASESOR URBANO\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO MUNICIPAL\r\n\r\nOMAR SAFFIE LAMAS\r\nA L C A L D E (S)\r\nLAMINA\r\n\r\nRECTIFICACION AL PLANO\r\nDE USO DE SUELO\r\n\r\nSITUACION ANTERIOR\r\n\r\nSITUACION ACTUAL\r\n\r\nESCALA : 1 / 7500\r\n\r\nFECHA :\r\n\r\nFebrero 2014"
+ },
+ {
+  "id": "d1119",
+  "comuna": "las_condes",
+  "nombre_documento": "8_39_2020_ord_alc_n_14_329_del_7dic20_modif_n_10_prclc",
+  "ruta": "Ordenanzas ordenadas\\las_condes_8.-39-2020-Ord.-Alc.-N-14-329-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio Alc.N14-329 de 1 página sobre Modificación N°10 PRCLC; por su extrema brevedad es nota de trámite/remisión dentro de un paquete de expediente, no contiene normas.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1118",
+  "comuna": "las_condes",
+  "nombre_documento": "8_e_carta_certificadas_juntas_de_vecinos",
+  "ruta": "Ordenanzas ordenadas\\las_condes_8-e-Carta-certificadas-Juntas-de-Vecinos.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Cartas certificadas a juntas de vecinos; notificación del proceso de consulta ciudadana, sin contenido normativo.",
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0695",
+  "comuna": "las_condes",
+  "nombre_documento": "8_lam_uso_de_suelo_um_clinica_san_carlos_de_apoq",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_8_LAM._USO_DE_SUELO_UM_CLINICA_SAN_CARLOS_DE_APOQ..pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "senales_normativas": {
+   "usos_de_suelo": 3
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "categoria_asignada": "PLANO_LAMINA",
+  "motivo_del_descarte": "Lamina grafica de rectificacion de limites de la zona UM Clinica San Carlos de Apoquindo, sin cuadro normativo",
+  "texto_primeras_paginas": "N\r\nASESORIA URBANA\r\n\r\nUM\r\n\r\nUM\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nTODOS\r\n\r\nPLANO DE\r\n\r\nUSO DE SUELO\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nRECTIFICA LOS LIMITES DE LA ZONA UM\r\nDEL EQUPAMIENTO EXISTENTE \"CLINICA\r\nSAN CARLOS DE APOQUINDO\"\r\n\r\nUEe1\r\nUEe1\r\nSIMBOLOGIA\r\nZONA DE USO DE SUELO COMERCIAL\r\nUM\r\n\r\nUSOS COMERCIO Y EQUIPAMIENTO\r\nDE ESCALA METROPOLITANA\r\nINSTITUCIONES\r\n\r\nUM\r\nUM\r\n\r\nM P R C L C - 2010\r\n\r\nMUNICIPALIDAD DE LAS CONDES\r\n\r\nMODIFICACION M. R. C. L. C. 2010\r\nAPROBACION MUNICIPAL\r\nEL SECRETARIO MUNICIPAL Y MINISTRO DE FE QUE SUSCRIBE, CERTIFICA QUE LA PRESENTE\r\nRECTIFICACION AL PLAN REGULADOR COMUNAL , FUE SANCIONADA POR DECRETO ALCALDICIO 966\r\nCON FECHA_ _ _21\r\n_ _ _ _ DE _ _ _ _FEBRERO\r\n_ _ _ _ _ _ _ _ _ _2014 DE LA MUNICIPALIDAD DE LAS CONDES.\r\n\r\nPABLO DE LA LLERA MARTIN\r\nASESOR URBANO\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO MUNICIPAL\r\n\r\nOMAR SAFFIE LAMAS\r\nA L C A L D E (S)\r\nLAMINA\r\n\r\nRECTIFICACION AL PLANO\r\nDE USO DE SUELO\r\n\r\nSITUACION ANTERIOR\r\n\r\nSITUACION ACTUAL\r\n\r\nESCALA : 1 / 7500\r\n\r\nFECHA : Febrero 2014"
+ },
+ {
+  "id": "d1120",
+  "comuna": "las_condes",
+  "nombre_documento": "9_38_2020_ord_alc_n_14_328_del_7dic20_modif_n_10_prc",
+  "ruta": "Ordenanzas ordenadas\\las_condes_9.-38-2020-Ord.-Alc.-N-14-328-del-7DIC20-Modif.-N-10-PRC.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "senales_normativas": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "categoria_asignada": "TRAMITE_ADMINISTRATIVO",
+  "motivo_del_descarte": "Oficio Alc.N14-328 de 1 página sobre Modificación N°10 PRC; por su extrema brevedad es nota de trámite/remisión dentro de un paquete de expediente, no contiene normas.",
+  "texto_primeras_paginas": ""
+ }
+]

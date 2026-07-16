@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_37135bc44a",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_plan.desarrollo.comunal.2010.pdf",
+  "nombre": "las_condes_plan.desarrollo.comunal.2010.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 93,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:56:08",
+  "fin": "2026-07-14T15:56:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Plan de Desarrollo Comunal (PLADECO) 2010 de Las Condes, 93 pags. Instrumento de gestion, no de planificacion territorial. Grep sobre el documento completo: 0 hits en coeficiente de constructibilidad / ocupacion / superficie predial / altura maxima de edificacion / sistema de agrupamiento. Sus tablas son de diagnostico (poblacion, presupuesto, indicadores). Candidato a descarte. SEGUNDO PLADECO de Las Condes en la cola (el otro es el 2018-2021)."
+  }
+}

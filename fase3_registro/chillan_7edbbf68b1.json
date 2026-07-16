@@ -1,0 +1,20 @@
+{
+  "id": "chillan_7edbbf68b1",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_2024637_modificacion_n2_2009_plan_regulador_comunal_de_chillan_renovacion_de_dec__Decreto 4637 - Mod Plan Regulador 2, Diario Oficial.pdf",
+  "nombre": "chillan_2024637_modificacion_n2_2009_plan_regulador_comunal_de_chillan_renovacion_de_dec__Decreto 4637 - Mod Plan Regulador 2, Diario Oficial.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:28:22",
+  "fin": "2026-07-14T15:34:24",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CHILLAN: Decreto 4637-2009 (Diario Oficial), Modificacion N2 al PRC = RENOVACION DE DECLARATORIA DE UTILIDAD PUBLICA DE VIALIDAD ESTRUCTURANTE. Contiene un cuadro 'Vias colectoras proyectadas' (nombre de via, desde, hasta, ancho, estado) que ES una tabla-imagen invisible a pdftotext, pero es VIALIDAD, no norma urbanistica: no hay usos de suelo, COS, CC ni altura en todo el documento. Verificado mirando el render. Sin-tablas para efectos de normas."
+  }
+}

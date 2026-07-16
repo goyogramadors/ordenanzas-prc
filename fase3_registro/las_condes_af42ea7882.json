@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_af42ea7882",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4474.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4474.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:04:27",
+  "fin": "2026-07-14T20:53:59",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (misma plantilla que 4475/4476/4484/4486): Decreto 4474 (28-12-2004) solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Comercial 1 (PS-U-C1) con anexos (texto resolutivo, memoria, plano) que NO estan en el archivo de 1 pagina. OJO: existe una version D.O.4474 (las_condes_363d018906) YA REGISTRADA que SI trae el cuadro (Zona U-C1) - usar esa como fuente. Este decreto de 1 pagina es redundante/inutil."
+  }
+}

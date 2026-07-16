@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_308c1c986d",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_559_y_764_modificacion_al_planregulador_comunal_de_rancagua_plan_seccional_n21_y__2372308.pdf",
+  "nombre": "rancagua_559_y_764_modificacion_al_planregulador_comunal_de_rancagua_plan_seccional_n21_y__2372308.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 67,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:20:58",
+  "fin": "2026-07-14T21:45:00",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [[18, 44], [65, 66]],
+    "paginas_utiles": 29,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "cuadros 'Normas de uso de suelo' y 'Normas de subdivisión predial y edificación' (COS, coef. constructibilidad, superficie predial mínima, densidad, altura máxima, sistema de agrupamiento, antejardín, distanciamientos, rasantes, ochavos) embebidos como imagen JPEG por zona (R1..R6, SM1..SM4, BR-M1..M5, BR-SM1-2, IA, IE, IT-1, EQS, EQ-SC, EQ-CB, EQ-CB1, EQ-PU-1, C1, CU, EX1-3, BRO, EQ-CBSO, RAM, Z11B-1, EQ-D, EQ-EDS) verificados visualmente en 20+ páginas muestreadas dentro de 18-44 y 65-66; el bloque 46-64 es tabla de renombre de calles/parques y ciclovías (irrelevante), y 1-17 es articulado/vistos sin tablas de normas"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "iquique_afce668e43",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_935_aprueba_modificacion_de_ordenanza_local_del_plan_regulador_comunal_de_iquiqu__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "IQUIQUE: Decreto 935 (nov-1989, BCN LeyChile, 1p) que aprueba una MODIFICACION PUNTUAL de la Ordenanza Local del PRC: sustituye en el articulo 23 el guarismo de superficie por unidad para uso de equipamiento con destino turistico, en el Subsector D-3 El Camino Bellavista (50 m2 por 100 m2) y en el Subsector F-2 Balneario (25 m2 por 100 m2). Norma minima pero real, EN TEXTO PLANO (no imagen). Pagina unica, verificada visualmente: aqui NO aplica la trampa BCN.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:12:10",
+  "fin": "2026-07-15T14:13:31",
+  "resultado": {
+    "archivo": "extraccion_normas\\iquique\\iquique_935_modificacion_d3_f2.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "D-3",
+      "F-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Modificacion puntual de superficie por unidad (equipamiento turistico) en subsectores D-3 (50 m2/100m2) y F-2 (25 m2/100m2). Texto plano, sin trampa BCN. Verificado contra nota_fase3: coincide."
+  }
+}

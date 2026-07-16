@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_61d2c60fae",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_8_ordenanza_para_educar_prevenir_y_sancionar_la_violencia_de_genero_contra_las_p__doc_34_8_07012025061248.pdf",
+  "nombre": "la_serena_8_ordenanza_para_educar_prevenir_y_sancionar_la_violencia_de_genero_contra_las_p__doc_34_8_07012025061248.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:23:31",
+  "fin": "2026-07-15T08:24:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza N8/2023 para educar, prevenir y sancionar la violencia de genero contra las personas en espacios publicos. No relacionado a PRC/normas urbanisticas."
+  }
+}

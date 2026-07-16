@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_b71df70e88",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_dec.alcaldicio.966.21feb2014.pdf",
+  "nombre": "las_condes_dec.alcaldicio.966.21feb2014.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:31:10",
+  "fin": "2026-07-15T08:34:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        9,
+        9
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alc.Secc.1a N966 (21.02.2014), Municipalidad de Las Condes: rectifica Decreto 729/2011 (Texto Aprobatorio Modificacion N8 al PRC), corrigiendo errores de forma. p.9 numeral 1.11 trae Tabla C completa: Densidad Maxima Neta 40 viv/ha, Subdivision Predial Minima 4.000 m2, CC 1.6, COS 0.30, Rasante 70, Altura maxima 5 pisos/17.5m, Antejardin 10m, Distanciamiento 11m, Agrupamiento Aislado -- aplicable al area delimitada por Avda. Charles Hamilton/Francisco de Asis/Francisco Bulnes Correa/Republica de Honduras (entorno Fundacion Cultural Las Condes). Excluidas del rango pp.3-8 y 12-23: cuadros de antejardin por calle especifica (formato Donde dice/Debe decir) y vialidad, no son norma de zona de uso de suelo. Sin comuna ajena."
+  }
+}

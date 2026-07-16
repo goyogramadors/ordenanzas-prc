@@ -1,0 +1,20 @@
+{
+  "id": "santiago_391987998f",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_18.-Dcto-Secc-2da-N_C2_B05074.pdf",
+  "nombre": "santiago_18.-Dcto-Secc-2da-N_C2_B05074.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:54:55",
+  "fin": "2026-07-15T12:56:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Secc.2da N5074, 2-jul-2025, Santiago, 3 pags. PONE TERMINO al procedimiento de Enmienda al PRC de Santiago 'Enmienda Ajuste de Normas Urbanisticas en Sectores de los Barrios Republica y Corte Suprema' (iniciado 09.09.2024, que solo modificaba altura maxima y coeficiente de constructibilidad en 3.23 ha), por razones de economia procedimental ante la proxima actualizacion integral obligatoria al 2028. NO aprueba la enmienda ni transcribe valores normativos -- es un decreto que cierra sin efecto el tramite. Verificado visualmente paginas 1-3 de 3."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_1d8fe2ea94",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_12-h-Acuerdo-N196-07oct21Concejo-Municipal.pdf",
+  "nombre": "las_condes_12-h-Acuerdo-N196-07oct21Concejo-Municipal.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:54:30",
+  "fin": "2026-07-14T15:56:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Acuerdo N.196/2021 del Concejo Municipal: solo da inicio a la tramitacion administrativa de la modificacion N.11 del PRC (art.43 LGUC). Puro tramite, sin norma alguna."
+  }
+}

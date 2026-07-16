@@ -1,0 +1,25 @@
+{
+  "id": "algarrobo_4c239069c1",
+  "comuna": "algarrobo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\algarrobo_3336_aprueba_la_modificacion_del_plan_regulador_comuna_de_algarrobo_singularizad__Exportar.pdf",
+  "nombre": "algarrobo_3336_aprueba_la_modificacion_del_plan_regulador_comuna_de_algarrobo_singularizad__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:54:40",
+  "fin": "2026-07-14T12:55:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion PRC zona ZSH3B (Deportivo Mirasol). p3: tabla usos de suelo permitidos/prohibidos + tabla coordenadas poligono; p4: cuadro condiciones de edificacion (subdiv 300m2, ocup 50%, constr 1,7, altura 77m, antejardin 5m, densidad 900 hab/ha) + estacionamientos. TABLAS SON IMAGEN pese a paginas_con_imagen vacio en la cola."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "talca_a8cf76dc23",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talca_44273_aprueba_modificaciones_via_enmienda_a_la_ordenanza_local_del_plan_regulado__Modificación Via Enmienda Ordenanza Plan Regulador Comunal Talca.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Modificacion PRC Talca (DO 44.273, 13-10-2025): crea SUB ZONA U-7A dentro de la Zona U-7 Equipamiento Deportivo Recreacional, agregando clase Seguridad (unidades policiales, centros deteccion, cuarteles bomberos) y subiendo COS de 0,3 a 0,4. p2: ZONA U-7 completa: predial min 2.500 m2, COS 0,3, CC 1,0, agrupamiento aislado, distanciamiento 5 m, altura segun rasante OGUC, adosamiento prohibido, antejardin 10 m; normas de infraestructura (transporte/sanitaria/energia): predial 2.500 m2, COS 0,4, distanciamiento 20 m, antejardin 15 m. p3: SUB ZONA U-7A con los mismos parametros salvo COS 0,4 (residencial y equipamiento). Todo en texto real.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:13:08",
+  "fin": "2026-07-15T18:16:53",
+  "resultado": {
+    "archivo": "extraccion_normas\\talca\\talca_44273_zona_u7_subzona_u7a_pag2-3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "U-7",
+      "U-7A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3, con mas detalle: usos de suelo completos por clase/actividad para ambas zonas (identicos salvo Seguridad agregada en U-7A). Normas infraestructura por tipo (transporte/sanitaria/energia) identicas en ambas. Unico cambio real: COS 0,3->0,4 en U-7A."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_e3b86c4765",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pichilemu_decreto_1459_apruebase_el_inicio_del_procedemiento_enmienda_al_plan_regulador_co__decreto1459_mayo2020.pdf",
+  "nombre": "pichilemu_decreto_1459_apruebase_el_inicio_del_procedemiento_enmienda_al_plan_regulador_co__decreto1459_mayo2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:47:54",
+  "fin": "2026-07-15T12:10:34",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Exento 1459, 25-may-2020, Pichilemu, 1 pag. APRUEBA solo el INICIO del procedimiento de 'Enmienda al Plan Regulador Comunal de Pichilemu, Zona A3' -- es el paso administrativo previo (art.45 LGUC), no transcribe ningun valor normativo; la enmienda con los valores concretos se aprueba despues en el decreto 1888/2020 (ver pichilemu_d8615858ec, con tablas). Verificado visualmente pagina unica."
+  }
+}

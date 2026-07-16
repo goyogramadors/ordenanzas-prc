@@ -1,0 +1,20 @@
+{
+  "id": "quillota_37d0cd79ad",
+  "comuna": "quillota",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quillota_decreto_alcaldicio_55_da_55_ac_4_plan_regulador__DA_2055_20AC_204_20PLAN_20REGULADOR_firmado_firmado.pdf",
+  "nombre": "quillota_decreto_alcaldicio_55_da_55_ac_4_plan_regulador__DA_2055_20AC_204_20PLAN_20REGULADOR_firmado_firmado.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:17:36",
+  "fin": "2026-07-14T21:18:26",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "D.A.55/2023: promulga acuerdo N.04/2023 que solo deja constancia de la ENTREGA al Concejo de la 'Propuesta Programatica del Plan Regulador'. Puro tramite administrativo, sin transcribir contenido normativo."
+  }
+}

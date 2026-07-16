@@ -1,0 +1,25 @@
+{
+  "id": "tolten_dd46197a2a",
+  "comuna": "tolten",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tolten_1305_aprueba_proyecto_parcial_plan_regulador_comunal_de_tolten_localidades_de_qu__download.aspx.pdf",
+  "nombre": "tolten_1305_aprueba_proyecto_parcial_plan_regulador_comunal_de_tolten_localidades_de_qu__download.aspx.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:33:55",
+  "fin": "2026-07-14T21:35:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TOLTEN: Diario Oficial 8-sep-2012, decreto MINVU 7, aprueba Proyecto Parcial del PRC de Toltén (localidades Queule y Villa OHiggins). *** CONTAMINACION: el PDF de 4p tiene material ajeno del IPS al inicio, pero el decreto de Toltén ocupa todo el documento en su mayoria ***. Cap IV Art 7 Zonificacion, p2-3: 7 zonas (Z-1, Z-2, Z-3 residenciales, ZM-1 mixta, ZE-1, ZE-2 equipamiento, ZAV area verde), cada una con usos permitidos-prohibidos y tabla de 'Normas de Subdivision Predial y de Edificacion' (predial minima, COS, CC, densidad bruta, agrupamiento, antejardin, altura maxima). *** TRAMPA CONFIRMADA: las tablas tienen bordes graficos, pdftotext solo extrae el encabezado 'Normas de Subdivision Predial y de Edificacion:' y NADA de las celdas (verificado visualmente con render de p2 y p3): la fase siguiente DEBE renderizar, no confiar en el texto. Valores confirmados en render: Z-1 (predial 200m2, COS 0.50, CC 0.60, densidad 180, aislado-pareado, antejardin 3m, altura 7.5m), Z-2 (300m2, COS 0.40, CC 0.50, densidad 150, antejardin 5m colectoras-2m otras, altura 7.5m), Z-3 (2500m2, COS 0.30, CC 0.40, densidad 20, aislado, antejardin 5m, altura 10.5m), ZM-1 (200m2, COS 0.40, CC 0.60, densidad 100, aislado-pareado, antejardin 2m, altura 7.5m), ZE-1 (800m2, COS 0.30, CC 0.60, aislado, antejardin 5m, altura segun rasantes), ZE-2 (300m2, COS 0.70, CC 3.00, aislado-pareado-continuo, antejardin 3m, altura 10.5m), ZAV (2000m2, COS 0.1, CC 0.1, aislado, antejardin 10m, altura 7m). Cierra en p3 al empezar Cap V Vialidad (cuadros de vias, excluidos)."
+  }
+}

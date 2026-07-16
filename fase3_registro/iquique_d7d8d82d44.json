@@ -1,0 +1,25 @@
+{
+  "id": "iquique_d7d8d82d44",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_264_aprueba_proyecto_de_modificacion_del_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "nombre": "iquique_264_aprueba_proyecto_de_modificacion_del_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:43:05",
+  "fin": "2026-07-14T15:46:53",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        11
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "IQUIQUE: Decreto 264 (BCN LeyChile, 12p) que aprueba el PLAN SECCIONAL BORDE COSTERO (Subzona A-2), modificando el PRC del DS 233-1981. Normas en pags 4-11, formato 'Etiqueta dos puntos Valor' por articulo y subsector (NO es cuadro ni imagen): Sector A-2.1 general (Art 20, p4), Remodelacion El Morro (Art 26, p5), El Morro (Art 31, p6-7), Balmaceda (Art 33, p7), Peninsula de Cavancha (Art 35, p7-8), Cavancha (Art 37, p8), Aeropuerto (Art 39, p9) e inmuebles hoteleros (Art 44, p11). Campos: usos permitidos y prohibidos, superficie predial minima, ocupacion maxima de suelo, coeficiente de constructibilidad, altura, rasantes, antejardin, cierros. EXCEPCION A LA TRAMPA BCN: texto integro y fiel, cero delatores, 9 pags verificadas visualmente. Excluida la tabla de vialidad (Art 42, p9-10)."
+  }
+}

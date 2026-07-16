@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_317ee987b9",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_E1a.pdf",
+  "nombre": "penalolen_Zona_E1a.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:43:33",
+  "fin": "2026-07-15T08:44:35",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Extracto 'Zona E1a'. P1: tabla usos de suelo permitidos (vivienda + equipamiento por tipo: salud, educación, seguridad, culto/cultura, social, deporte, esparcimiento/turismo, comercio, servicios) y áreas verdes. P2: tabla 'Condiciones de Subdivisión Predial y de Edificación' con Normas Específicas para Vivienda (predial min 800m2, COS 0.3, CC 0.8, altura 9m, densidad 50 Hab/Ha, distanciamiento 3m, antejardín 5m) y para Equipamiento (predial min 800m2, COS 0.4, CC 2.0, altura 15m, antejardín 25m)."
+  }
+}

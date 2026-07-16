@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_1260fd5afa",
+  "comuna": "la_serena",
+  "ruta": "descargas\\la_serena\\proactiva_externa\\doc_65__28122020121109.pdf",
+  "nombre": "doc_65__28122020121109.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 364,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:50:01",
+  "fin": "2026-07-14T15:53:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA SERENA: 364 paginas, pero NO es la ordenanza. Es el 'INFORME ICH 2.2_PRC2020' (asi lo dice la metadata del PDF): catalogo de 182 FICHAS DE INMUEBLES DE CONSERVACION HISTORICA, anexo patrimonial de la actualizacion del PRC 2020. Estructura homogenea: 182 fichas de exactamente 2 paginas cada una (182 x 2 = 364, cuadra exacto, no hay espacio para portada, indice ni ordenanza). Cada ficha describe UN inmueble (rol SII, fotos, valores patrimoniales, superficies del predio, materialidad, estado de conservacion). Grep sobre las 23.415 lineas del texto: CERO coincidencias de constructibilidad, ocupacion, usos de suelo, predial minima, altura maxima o normas urbanisticas, y ningun delator de tabla. Las normas reales de La Serena estan en OTRO documento (la Ordenanza Local del PRC)."
+  }
+}

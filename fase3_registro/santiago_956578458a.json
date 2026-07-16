@@ -1,0 +1,20 @@
+{
+  "id": "santiago_956578458a",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_07.-Ord-N_C2_B01062.pdf",
+  "nombre": "santiago_07.-Ord-N_C2_B01062.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:29:23",
+  "fin": "2026-07-14T21:32:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio SEREMI MINVU N1062, mismo proyecto Correccion Zonificacion Especial. Listado de antecedentes administrativos (decretos, cartas, actas). Menciona 'Anexo C: Asignacion de zonificacion y normas urbanisticas' solo como titulo de documento adjunto NO incluido en este PDF."
+  }
+}

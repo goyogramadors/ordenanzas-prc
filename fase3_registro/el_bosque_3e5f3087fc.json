@@ -1,0 +1,25 @@
+{
+  "id": "el_bosque_3e5f3087fc",
+  "comuna": "el_bosque",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_bosque_decreto_alcaldicio_4433_promulga_acuerdo_n696_de_concejo_municipal_que_aprobo_po__Acuerdo_2025_32023.pdf",
+  "nombre": "el_bosque_decreto_alcaldicio_4433_promulga_acuerdo_n696_de_concejo_municipal_que_aprobo_po__Acuerdo_2025_32023.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:37:36",
+  "fin": "2026-07-14T15:48:42",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        5
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Decreto Alcaldicio 4433 El Bosque. Normas EN TEXTO (no imagen). art.2 desde p2: ZONA C (COS 80%/78%, predial 600/300 m2, frente 15/10 m, sin antejardin); p3 ZONA H (altura 14,4 m, predial 400/160 m2) y ZONA R; p4 ZONA 1-2-3 Residencial-Equipamiento-Talleres (altura 8,4/16,8 m, predial 210 m2, densidad 600 hab/ha); p5 ZONA 4 (COS 70%, altura 9 m, predial 1.500 m2, densidad 450,8 hab/ha) + Zona Seccional Lo Moreno Z-A/Z-B. p6-9 VIALIDAD (excluidas). p10-11 restricciones de altura por servidumbre aeronautica del Aerodromo El Bosque (util si se quiere altura efectiva). REDUNDANTE con el_bosque_b9671e13b5."
+  }
+}

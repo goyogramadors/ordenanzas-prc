@@ -1,0 +1,20 @@
+{
+  "id": "navidad_4447f3f6ff",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_decreto_alcaldicio_690_suspension_de_plazo_de_etapa_parcial_estudio_reformulacio__bb04eb06-aa27-47a6-86f0-c176d1167808.pdf",
+  "nombre": "navidad_decreto_alcaldicio_690_suspension_de_plazo_de_etapa_parcial_estudio_reformulacio__bb04eb06-aa27-47a6-86f0-c176d1167808.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:06:03",
+  "fin": "2026-07-14T21:07:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 690/2025: suspende 45 dias plazo Etapa 4 Anteproyecto estudio reformulacion PRC (problemas cartografia base). Puro tramite."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "osorno_5a0061d947",
+  "comuna": "osorno",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\osorno_sn_convocatoria_de_participacion_ciudadana_para_actualizacion_del_plan_regulador__f227ea83-b92b-4a5c-882b-ba7bfea425c0.pdf",
+  "nombre": "osorno_sn_convocatoria_de_participacion_ciudadana_para_actualizacion_del_plan_regulador__f227ea83-b92b-4a5c-882b-ba7bfea425c0.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:59:02",
+  "fin": "2026-07-15T07:59:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Afiche/flyer de convocatoria a participacion ciudadana para la Actualizacion del PRC de Osorno (aun en proceso de desarrollo/diseño). Vision/mision institucional, cronograma del proceso, listado de documentos del expediente y formulario de contacto. Cero contenido normativo."
+  }
+}

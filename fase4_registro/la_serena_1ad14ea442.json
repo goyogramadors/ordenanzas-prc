@@ -1,0 +1,29 @@
+{
+  "id": "la_serena_1ad14ea442",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_serena_3932_aprueba_enmienda_no_6_y_modifica_ordenanza_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "LA SERENA: Decreto 3932-2008 (BCN, 3p), Enmienda N6 y modificacion de la Ordenanza del PRC. Norma en p2, TEXTO LIMPIO (sin trampa, verificado en render): tabla completa de condiciones urbanisticas para equipamiento educacional en la Zona Zoduc-12 (subdivision minima 1000 m2, frente predial 25 m, COS 0,7, CC 2,1, agrupamiento aislado o pareado, altura 9,00 m, antejardin 3 m general y 5 m frente a avenidas). *** FALTA UNA SEGUNDA TABLA ***: el decreto ordena reemplazar la tabla de la Zona ZC-12-2 (Parque Coll, Cendyr y otros) 'por la tabla que se adjunta', pero esa tabla NO aparece ni en texto ni como imagen (p3 pasa directo a publicacion y firmas). Buscarla en el Diario Oficial del 06-nov-2008 o en los anexos del decreto original.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:15:17",
+  "fin": "2026-07-15T14:17:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_serena\\la_serena_3932_enmienda_n6_zonas_educacion_pag2-3.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "Zoduc-12",
+      "ZC-12-2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Zoduc-12 completa y confirmada (texto limpio). ZC-12-2: CONFIRMADO que falta la tabla de condiciones urbanisticas -- el decreto remite a 'la tabla que se adjunta' pero no esta ni en texto ni imagen en las 3 paginas (p3 termina en firmas). Fase siguiente debe buscarla en DO del 06-11-2008 o anexos originales."
+  }
+}

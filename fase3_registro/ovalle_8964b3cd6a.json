@@ -1,0 +1,29 @@
+{
+  "id": "ovalle_8964b3cd6a",
+  "comuna": "ovalle",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\ovalle_9144_promulga_actualizacion_y_modificacion_al_plan_regulador_comunal_de_ovalle__Exportar.pdf",
+  "nombre": "ovalle_9144_promulga_actualizacion_y_modificacion_al_plan_regulador_comunal_de_ovalle__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 23,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:59:02",
+  "fin": "2026-07-15T08:04:48",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        14
+      ],
+      [
+        19,
+        19
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.9144/2016 promulga Actualizacion y Modificacion PRC Ovalle completo. TRAMPA CONFIRMADA: TODAS las tablas de normas son IMAGEN JPEG; art.13 dice literalmente 'Las normas urbanisticas aplicables en cada zona son las siguientes:' (p18) y queda casi en blanco -la tabla esta en p19-. p13-14 tabla ZCH1 (predial 300m2, densidad 200 hab/ha, ocup 0,6/1,0, CC 1,2/2,0, aislado, altura 10,5m, antejardin 4,5m) y ZCH2 (ocup 0,7/1,0, CC 0,7/1,4, continuo, altura 6,0m). p19: IMAGEN UNICA GIGANTE (600x6081px) apilando las 15 zonas restantes: ZC1-ZC4 (centrales), ZU1-ZU9 (urbanas), ZAP (actividades productivas), ZAV (area verde), con las mismas columnas (predial min, densidad bruta, ocupacion, CC, agrupamiento, altura, antejardin). EXCLUIDAS por no ser norma de zonificacion: p15 estacionamientos, p20 AR1/AR2 areas de riesgo, p21 vialidad (anchos de calles) - todas imagen tambien."
+  }
+}

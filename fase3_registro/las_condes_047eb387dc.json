@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_047eb387dc",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_4-PLANO-REFERENCIAL-DE-DENSIDAD.pdf",
+  "nombre": "las_condes_4-PLANO-REFERENCIAL-DE-DENSIDAD.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:27:07",
+  "fin": "2026-07-15T08:29:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Plano Explicativo Referencial de Densidad, Modificacion N11 PRC (No Oficial). Plano/mapa a color de toda la comuna con leyenda de rangos de densidad (hab/ha) por zona Edificacion Aislada Baja, identificada por color; no es tabla textual con usos suelo/COS/CC/altura/antejardin -plano cartografico con leyenda, no tabla de normas en sentido articulado."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_3b18b17a28",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_florida_112_complementa_decreto_exento_2514_de_fecha_20_de_enero_de_2016_que_promulga_la__PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_112.pdf",
+  "nombre": "la_florida_112_complementa_decreto_exento_2514_de_fecha_20_de_enero_de_2016_que_promulga_la__PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_112.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:44:33",
+  "fin": "2026-07-14T15:50:08",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 112 complementa el 3.514/2016 (La Florida). p1: enmienda en prosa 'Donde dice/Debe decir' -> altura maxima 12,6 m y agrega Densidad Bruta Maxima 156 viv/ha. p2: cuadro completo del AREA E-AM2 (Aislada Media densidad N2): predial min 500, COS 0,52 (0,60 vivienda existente), CC 1,56/10,5, altura 10,5, agrupamiento aislado, rasante 70, distancia medianeros 4, antejardin 5/5/3, estacionamientos art.15, densidad bruta max 130 y min 10, por filas Residencial/Equipamiento/Equipamiento Basico. Notas al pie fijan CC 2.028, altura 12,6, densidad 156, antejardin 0. Norma disponible en texto Y en imagen."
+  }
+}

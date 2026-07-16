@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_401a8a6f54",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\la_florida_decreto_exento_766_promulgase_modificacion_n_5_del_plan_regulador_comunal_de_la___Decreto-exento-766-promulgacion-modificacion-N_C2_B05-1.pdf",
+  "nombre": "la_florida_decreto_exento_766_promulgase_modificacion_n_5_del_plan_regulador_comunal_de_la___Decreto-exento-766-promulgacion-modificacion-N_C2_B05-1.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 25,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:17:48",
+  "fin": "2026-07-15T08:21:02",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        9,
+        25
+      ]
+    ],
+    "paginas_utiles": 17,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Exento 766, Municipalidad de La Florida (Alcalde Rodolfo Carter Fernandez): Promulga Modificacion N5 del PRC. Texto aprobatorio completo (no remite a Diario Oficial), sin comuna ajena. Nucleo de tablas de parametros pp.9-14: areas E-AB1..E-AA2, E-A1 con Superficie predial minima, COS, CC, Altura maxima, Sistema agrupamiento, Rasante, Distancia a medianero, Adosamiento, Antejardin, Densidad Bruta (ej. E-AB1: predial 1000m2, COS 0.26/0.60, CC 0.78, altura 8.40m, agrupamiento Aislado, antejardin 8m, densidad 10 viv/ha; E-AA1: predial 2000m2, COS 0.35/0.60, CC 2.2, altura 22.0m). pp.15-24 tablas complementarias de usos de suelo permitidos/prohibidos por zona (U-Vev1-4, U-EC1-4, ESP-1-3, RI-1) mas normas puntuales de Z-S (COS 0.60/0.80) y Sector Centro (predial 1000m2, CC 2.5, antejardin 5m, altura 7.5m) en pp.23-25."
+  }
+}

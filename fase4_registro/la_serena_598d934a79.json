@@ -1,0 +1,29 @@
+{
+  "id": "la_serena_598d934a79",
+  "comuna": "la_serena",
+  "ruta": "descargas\\la_serena\\proactiva_externa\\doc_65_06122023022817.pdf",
+  "rangos": [
+    [
+      8,
+      9
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Plano de Detalle Avenida Francisco de Aguirre, Centro Historico La Serena (Memoria y Disposiciones Reglamentarias). Cap 3.3: cuadros completos de normas urbanisticas para Zona ZPT-1 'Zona Centro' (p.8) y Zona ZPT-4 'Zona Pedro Pablo Muñoz' (p.9): usos de suelo permitidos/prohibidos, predial minimo 800m2, COS 0.6, CC 3 y 2.4, agrupamiento, altura 14m/4 pisos, densidad 1200 hab/ha, ochavos, cuerpos salientes. Tambien listados MH/ICH (monumentos/inmuebles de conservacion historica) p.7.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:46:12",
+  "fin": "2026-07-15T14:48:51",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_serena\\la_serena_plano_detalle_fco_aguirre_zpt1_zpt4_pag8-9.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZPT-1",
+      "ZPT-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "2 cuadros completos (usos de suelo + condiciones edificacion) transcritos, confirman y superan el detalle de nota_fase3. Unica diferencia entre zonas: CC (3 vs 2,4), agrupamiento (solo continuo vs aislado/pareado/continuo), cuerpos salientes linea edificacion (50cm vs 120cm), y usos prohibidos de comercio/salud/seguridad mas restrictivos en ZPT-4. Listados MH/ICH de p7 fuera del rango asignado, no transcritos."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "curacautin_ed7dc81e83",
+  "comuna": "curacautin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curacautin__modificacion_a_la_ordenanza_municipal_que_regula_el_transito_vehicular_horarios__modificacion_a_la_ordenanza_municipal_que_regula_el_transito.pdf",
+  "nombre": "curacautin__modificacion_a_la_ordenanza_municipal_que_regula_el_transito_vehicular_horarios__modificacion_a_la_ordenanza_municipal_que_regula_el_transito.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:36:44",
+  "fin": "2026-07-14T15:40:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: modifica la Ordenanza Municipal de TRANSITO VEHICULAR en la ruta R-785 (horarios de subida/bajada, uso de cadenas, acceso a Reserva Malalcahuello / Centro de Esqui Corralco, multas 1-5 UTM). Texto 4/4 pags. Cero contenido urbanistico. Candidato a descarte."
+  }
+}

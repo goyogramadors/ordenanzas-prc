@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_8de096ccad",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_2205_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_2205_03122018042132.pdf",
+  "nombre": "la_serena_2205_sobre_derechos_municipales_por_permisos_concesiones_y_servicios__doc_34_2205_03122018042132.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:23:59",
+  "fin": "2026-07-15T08:26:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto N2205 (30-nov-2018), rectificacion puntual art.17 N2 Ordenanza Derechos Municipales por Permisos, Concesiones y Servicios (corrige error tipografico). Confirmado pag1 unica. Sin tablas."
+  }
+}

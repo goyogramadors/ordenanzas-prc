@@ -1,0 +1,25 @@
+{
+  "id": "caldera_5a834c34a8",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_298_aprueba_modificacion_y_publicacion_al_estudio_modificacion_plan_regulador_co__Exportar.pdf",
+  "nombre": "caldera_298_aprueba_modificacion_y_publicacion_al_estudio_modificacion_plan_regulador_co__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:01:17",
+  "fin": "2026-07-14T13:06:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        10
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modif. PRC Caldera (estudio). Tablas narrativas por zona formato INTENSIDAD DE OCUPACION a) b) c), en texto plano (no imagen; verificado con render p3,4,9,10,11). 9 zonas con cuadro completo: U2H1, U2H2, U2H3, U2J1, U2J1-a, U2J2, U2J3, R21A, R21B-a (predial min, frente, ocupacion, constructibilidad, agrupamiento, altura, antejardin, densidad). p3 = tabla de limites (punto/tramo), NO norma. p11-12 = tabla de VIALIDAD (anchos de via), fuera del rango."
+  }
+}

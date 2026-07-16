@@ -1,0 +1,25 @@
+{
+  "id": "la_cisterna_c51731c1b8",
+  "comuna": "la_cisterna",
+  "ruta": "Ordenanzas ordenadas\\la_cisterna_decreto_3467_apruebase_modificacion_plan_regulador_de_la_cisterna__DEC3467.pdf",
+  "nombre": "la_cisterna_decreto_3467_apruebase_modificacion_plan_regulador_de_la_cisterna__DEC3467.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:17:20",
+  "fin": "2026-07-15T08:18:58",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        11
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.Alc.3467/2021 Modificacion N.1 PRC La Cisterna. Escaneado, OCR poco confiable, verificado por render. Art.4 (modifica art.19 letra d) Ordenanza Local): reemplaza el 'Cuadro C. Normas Urbanisticas y de Edificacion' de zonas ZU-1 a ZU-7. p8: ZU-1 (predial 1.000m2, COS 0,6/0,3 pisos sup., CC 3,0, aislado, altura 18,5m/7pisos, antejardin 5m, densidad 600 hab/ha) y ZU-2 (predial 500m2, mismo COS/CC, aislado/pareado/continuo, altura 18,5m aislado-pareado o 9m continuo, densidad 1.000 hab/ha). p9-10 zonas intermedias ZU-3 a ZU-6. p11 ZU-7 (predial 500m2, COS 0,6, CC 2,4, aislado, altura 12m/4pisos, antejardin 5m, densidad 1.000 hab/ha), cierra con firmas."
+  }
+}

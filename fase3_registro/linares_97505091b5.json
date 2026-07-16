@@ -1,0 +1,25 @@
+{
+  "id": "linares_97505091b5",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\linares_784_modifiquese_el_plan_regulador_comunal_de_linares_prcl_aprobado_por_resolucio__DIario_of_784.pdf",
+  "nombre": "linares_784_modifiquese_el_plan_regulador_comunal_de_linares_prcl_aprobado_por_resolucio__DIario_of_784.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:35:11",
+  "fin": "2026-07-15T08:37:42",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        8
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 784 (21.02.2019), Ilustre Municipalidad de Linares: Enmienda N1 al PRC de Linares (PRCL). Tablas 'Donde Dice' (norma 2017) y 'Reemplacese...por el siguiente' (norma nueva 2019) para zonas Z-1,Z-2,Z-4,Z-6,Z-8,Z-10 (pp.3-8): Superficie Predial Minima, Densidad Bruta Maxima, COS (vivienda/otros usos), CC, Sistema de Agrupamiento, Altura Maxima, Profundidad Minima Continuidad, Cierros, Ochavos, Antejardin. Z-3,Z-5,Z-7,Z-9 no modificadas por este decreto. Sin comuna ajena ni desorden de columnas, firmado Alcalde Mario Meza Vasquez."
+  }
+}

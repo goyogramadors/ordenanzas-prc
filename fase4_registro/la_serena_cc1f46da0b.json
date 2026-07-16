@@ -1,0 +1,26 @@
+{
+  "id": "la_serena_cc1f46da0b",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_1192_rectifica_el_articulo_18_de_la_ordenanza_local_del_plan_regulador_comunal_d__Exportar.pdf",
+  "rangos": [
+    [
+      6,
+      7
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto 1192/2023 La Serena, rectifica el art.18 (Cap.IV Declaratorias de Utilidad Publica) de la Ordenanza Local. TRAMPA: el texto anuncia 'agregar al final del cuadro...' y el agregado real es IMAGEN (verificado render p6): 'Se desafecta el Bien Nacional de Uso Publico, destinado a area verde: Predio ubicado en Circunvalacion Alvarez Zorrilla entre Vina del Mar y Valparaiso' -- esto reclasifica el predio de Area Verde a Equipamiento (sector Las Companias ZU-10-A, seguridad/cuartel bomberos), corrigiendo una omision de la actualizacion 2020. p7: TABLA (imagen) Parques Comunales PC1-PC8 con Sector/Ubicacion (listado geografico de utilidad publica, no valores dimensionales de zona). Confianza ALTA para el hallazgo de desafectacion; la tabla PC1-8 es mas bien vialidad/espacio publico.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:46:13",
+  "fin": "2026-07-15T14:49:15",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_serena\\la_serena_1192_rectifica_art18_v2_pag6-7.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "DUPLICADO (version texto) de la_serena_d7c4b7e8c3 ya registrado. Mismo contenido: tabla PC1-PC8 + desafectacion Circunvalacion Alvarez Zorrilla. Sin norma de zona (COS/CC/altura/usos). Coincide con nota_fase3."
+  }
+}

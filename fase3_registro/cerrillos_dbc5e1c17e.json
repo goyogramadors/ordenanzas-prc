@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_dbc5e1c17e",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_424_actualizacion_plan_regulador_comunal_cerrillos__202-0424-2023.pdf",
+  "nombre": "cerrillos_decreto_exento_424_actualizacion_plan_regulador_comunal_cerrillos__202-0424-2023.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:06:03",
+  "fin": "2026-07-14T15:28:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: Decreto 424/2023 autoriza SUSPENSION TEMPORAL del plazo del contrato del estudio 'Actualizacion PRC Cerrillos' (enero-marzo 2023, por epoca estival). No modifica normas. Texto 4/4 pags + render de p3 y p4 (p4 = Certificado N8/2023 de Secretaria Municipal, firma). Sin cuadros."
+  }
+}

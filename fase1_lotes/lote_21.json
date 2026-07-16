@@ -1,0 +1,803 @@
+[
+ {
+  "id": "d0346",
+  "comuna": "las_condes",
+  "nombre_documento": "1_2do_aviso_modif_n11_publicado_14ene2022",
+  "archivo": "las_condes_1-2do.-aviso-Modif.-N11-publicado-14ene2022.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0347",
+  "comuna": "las_condes",
+  "nombre_documento": "10_lam_3_plano_vialidad_modif_n8_dec_alc_729",
+  "archivo": "las_condes_10_LAM.3_PLANO_VIALIDAD_MODIF.N8_DEC.ALC.729.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZA",
+   "ZC",
+   "ZOS",
+   "ZT",
+   "ZUR"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "352.000\r\n\r\n360.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n362.000\r\n\r\n7\r\nT-6\r\n\r\n15\r\n\r\n30,09\r\n\r\n8O\r\n\r\nE-1\r\n\r\n50\r\n64\r\n\r\nO\r\n\r\nE-18 O\r\n\r\n350.000\r\n\r\n360.000\r\n\r\n362.000\r\n\r\n8O\r\n\r\n30\r\n\r\nO\r\n10\r\nE-\r\n\r\n15\r\n\r\n14\r\n\r\n32\r\n\r\n8\r\n-6\r\n\r\nT2\r\n\r\nT- 72 O\r\n\r\nT-72\r\n\r\nO\r\n\r\nO\r\n-10\r\n\r\n20\r\n\r\n15\r\n\r\nO\r\n\r\n15\r\n\r\nT\r\n\r\n5\r\n\r\n45-64\r\n\r\n18\r\n\r\nO\r\n\r\nE18\r\n\r\nT68\r\nO\r\n\r\nO\r\n\r\n5\r\n\r\nT\r\n-3 O\r\n\r\nT-3\r\n\r\nO\r\n\r\n40\r\n\r\n25\r\n30\r\n\r\n20\r\n\r\n8O\r\nT-6\r\nRAS\r\n\r\nAZA\r\n\r\n40\r\n62\r\n\r\n20\r\n\r\n40\r\n\r\n8\r\nE-1\r\n30\r\n\r\nOBSERVATORIO\r\nU. DE CHILE\r\n\r\n40\r\n\r\n20\r\n\r\n20\r\n\r\nO\r\n\r\n37\r\n\r\n40\r\n\r\n37\r\n\r\nSO\r\n\r\nRU\r\n\r\nRS\r\nU\r\n\r\nLA\r\nS\r\n\r\nUA\r\nRE\r\n\r\n40\r\n\r\nZ\r\n\r\nSO\r\n\r\nRL\r\nAU\r\n\r\nT\r\n\r\nRO\r\n\r\n20\r\n\r\nSA\r\n\r\n30\r\n\r\n62\r\n\r\nO\r\n\r\nRA\r\n\r\nJUA\r\n\r\n362.000\r\n\r\n37\r\n\r\n80-60\r\n\r\nT2\r\n\r\nE-18 O\r\n\r\nLAS\r\n\r\nT-37 O LEAS\r\n20\r\n\r\nO\r\n\r\n62\r\n\r\n40\r\n\r\nT-69 O\r\n\r\nTE\r\nRE\r\n\r\n75\r\n\r\n32\r\n\r\nO\r\nNIT\r\n\r\n360.000\r\n\r\nO\r\n-37\r\n\r\n22\r\n\r\n40\r\n\r\n37\r\n\r\n20\r\n\r\nO\r\n\r\nLDE\r\n\r\nEA\r\n\r\n18\r\n\r\nT-3 O\r\n\r\n1\r\nT-2\r\n\r\n8O\r\n\r\nOD\r\n\r\nE-1\r\n\r\n64\r\n25\r\n\r\nRID\r\nAST\r\n\r\nO\r\n\r\n67\r\n\r\n30\r\n\r\nO\r\n\r\n40\r\n\r\n15\r\n\r\nBE\r\n\r\n8O\r\n-6\r\n\r\n15\r\n50\r\n\r\n7O\r\nT-6\r\n\r\n30,09\r\n\r\nT-66 O\r\nNIM\r\nRO\r\nGE\r\n\r\n3\r\nT-\r\n\r\n10\r\n\r\n25\r\n\r\nT-\r\n\r\n30\r\n\r\nNA\r\n\r\nO\r\n\r\nO\r\nT-3\r\n\r\n37\r\n\r\n25\r\n\r\nT-3\r\n\r\nMPRCLC - 2010 APROBADO POR DECRETO\r\n729 DE FECHA 25 - 01-2011 Y\r\nPUBLICADO EN EL DIARIO OFICIAL CON\r\nFECHA 28 - 01-2011\r\n\r\n80-60\r\n\r\n45\r\n\r\n20\r\n\r\n45\r\n\r\n32\r\n\r\nAVDA.\r\n\r\nZ\r\nRE\r\n\r\n22\r\n\r\nO\r\n\r\nT-4\r\n\r\n30\r\n\r\nT-4 O\r\n\r\nO\r\n\r\n8O\r\nT-6\r\n\r\n4O\r\nT- 20\r\n\r\ncas\r\n\r\nha\r\n\r\nPje.Isla moc\r\n\r\n900\r\n\r\nIslas Gualte\r\n\r\nca\r\ncis\r\n\r\nlH\r\n\r\nar\r\n\r\nPje\r\n\r\nris\r\n\r\n.F\r\n\r\nra\r\nn\r\n\r\nia\r\nav\r\nad\r\n\r\nau\r\n\r\nR\r\niv\r\n\r\n.P\r\n\r\nau\r\nlH\r\n\r\nar\r\nri\r\n\r\ns\r\n\r\nPj\r\ne\r\n\r\ne.\r\nP\r\nPj\r\n\r\nui\r\n\r\nZi\r\nta\r\na\r\n\r\nta\r\nq\r\nni\r"
+ },
+ {
+  "id": "d0348",
+  "comuna": "las_condes",
+  "nombre_documento": "14_46a_2021_plano_modif_n_10_de_octubre_de_2017",
+  "archivo": "las_condes_14.-46a-2021-Plano-Modif.-N-10-de-octubre-de-2017.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PABLO\r\nALFONSO\r\nDE LA\r\nLLERA\r\nMARTIN\r\n\r\nFirmado digitalmente por\r\nPABLO ALFONSO DE LA LLERA\r\nMARTIN\r\nNombre de reconocimiento\r\n(DN): c=CL, o=E-Sign S.A.,\r\nou=Terms of use at\r\nwww.esign-la.com/\r\nacuerdoterceros, cn=PABLO\r\nALFONSO DE LA LLERA\r\nMARTIN,\r\nemail=delallera@lascondes.cl\r\nFecha: 2021.04.28 13:07:30\r\n-04'00'"
+ },
+ {
+  "id": "d0349",
+  "comuna": "las_condes",
+  "nombre_documento": "2_1er_aviso_modif_n11_publicado_04ene2022",
+  "archivo": "las_condes_2-1er.-aviso-Modif.-N11-publicado-04ene2022.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0350",
+  "comuna": "las_condes",
+  "nombre_documento": "3_plano_referencial_alturas_de_edificacion",
+  "archivo": "las_condes_3-PLANO-REFERENCIAL-ALTURAS-DE-EDIFICACION.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0351",
+  "comuna": "las_condes",
+  "nombre_documento": "4_plano_referencial_de_densidad",
+  "archivo": "las_condes_4-PLANO-REFERENCIAL-DE-DENSIDAD.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0352",
+  "comuna": "las_condes",
+  "nombre_documento": "4_51_2021_certi_complementario_174_30ene21",
+  "archivo": "las_condes_4.-51-2021-Certi.complementario-174-30ENE21.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "AGUAS CORDILLERA\r\nNº174 –30.01.2021\r\n23.03.2018\r\nCERTIFICADO\r\n\r\nCertificado de Factibilidad\r\nSeñor(a)\r\nCristian Nelson\r\nReserva Cora 10\r\nComuna De Paine\r\n\r\nREF.: Certificado de factibilidad de servicio de agua\r\npotable y alcantarillado de aguas servidas para\r\nterreno ubicado en Santa zita 9402.\r\nComuna de Las Condes\r\nNúmero de solicitud 1-6559384162 del\r\n25/01/2021\r\n\r\nDe mi consideración:\r\nPor solicitud recibida el 25/01/2021, se ha solicitado a esta empresa certificado de factibilidad para\r\ndotar de agua potable y alcantarillado de aguas servidas a un terreno de 7500 m2, ubicado en Santa\r\nzita 9402, costado norponiente, entre Incahuasi y Av Paul Harris, comuna de Las Condes, en el cual\r\nse emplaza Edificio habitacional, con una población estimada total de 297 habitantes, lo cual equivale\r\na 735 metros cúbicos día.\r\n\r\nAl respecto, informamos lo siguiente:\r\n1. Para el abastecimiento de agua potable y alcantarillado de aguas servidas, las obras\r\nnecesarias son las siguientes:\r\n\r\n1.1. Agua Potable\r\na) Conectar el arranque y medidor de agua potable, a la cañería de AC de diámetro\r\nD=100 mm. Proyecto público N° 7-2, existente en costado norponiente de Santa Zita\r\ny de acuerdo al Estándar Técnico de Aguas Andinas S.A. correspondiente.\r\nc) La presión para el diseño de la instalación domiciliaria de agua potable, considerada\r\naguas abajo de la llave de paso que se ubica después del medidor, será de 14 m.c.a.\r\npara el consumo máximo diario.\r\nd) Las condiciones para el diseño de redes "
+ },
+ {
+  "id": "d0353",
+  "comuna": "las_condes",
+  "nombre_documento": "7_k_2doaviso_modifn11_publicado_02nov2021",
+  "archivo": "las_condes_7-k-2doaviso-ModifN11-publicado-02nov2021.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0354",
+  "comuna": "las_condes",
+  "nombre_documento": "9_j_1eraviso_modifn11_publicado_22oct2021",
+  "archivo": "las_condes_9-j-1eraviso-ModifN11-publicado-22oct2021.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0355",
+  "comuna": "las_condes",
+  "nombre_documento": "lamina_1_edificacion_28febrero2010",
+  "archivo": "las_condes_LAMINA-1-EDIFICACION-28Febrero2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA",
+   "ZAR",
+   "ZC",
+   "ZONA",
+   "ZT",
+   "ZUR"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "350.000\r\n\r\n352.000\r\n\r\n358.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n360.000\r\n\r\n360.000\r\n\r\n362.000\r\n\r\nEAb1\r\n\r\n362.000\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\n40\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\n50\r\n80-60\r\n\r\nB\r\n\r\nEAm1`\r\n\r\nEe1\r\n\r\nEA\r\n\r\nm\r\n1`\r\n\r\nEAm1\r\n\r\nEe\r\n\r\nEAm1\r\n\r\n1\r\n\r\no\r\nEe5\r\n\r\n80-60\r\n\r\nEAa + ca\r\n\r\no\r\n\r\nEAa + cm\r\n\r\nEAb1\r\n\r\nEAb4\r\n\r\nEe3\r\n\r\nEAb3\r\n\r\nEAa2\r\n50\r\n\r\nEe2\r\n\r\nEAb2\r\n\r\nESTADIO\r\nPALESTINO\r\n\r\nEAa4\r\n\r\n1\r\n\r\n50\r\n\r\nm2\r\n\r\nS TRAN\r\n\r\nO\r\nNIM\r\nRO\r\n\r\nAZA\r\n\r\nA\r\nDE\r\nTE\r\nRE\r\nLDE\r\n\r\nAVDA.\r\nLA\r\n\r\nLEA\r\n\r\nRU\r\n\r\nRS\r\n\r\nSO\r\n\r\nRL\r\n\r\nUL\r\n\r\nAS\r\n\r\nRO\r\n\r\nEDIFICACION AISLADA BAJA\r\n\r\nUA\r\n\r\nRE\r\nZ\r\n\r\nEAb1\r\n\r\nSA\r\n\r\nOJ\r\nNIT\r\n\r\nEe2\r\n\r\nRE\r\n\r\nUA\r\n\r\n20\r\n\r\nEe1\r\n\r\nESTADIO ISRAELITA\r\n\r\nZ\r\n\r\nEA\r\n\r\nERETE\r\nP\r\n\r\nEe1\r\n\r\nG\r\nDE\r\n\r\nRO\r\nED\r\n\r\nAM\r\n\r\nEAb2\r\n\r\nEAb4\r\n\r\nEDIFICACION ESPECIAL\r\n\r\nEAb3\r\n\r\nEAm4\r\n\r\nEe1\r\n\r\nEe1 EQUIPAMIENTO INTERCOMUNAL Y\r\nCOMUNAL\r\nEAb4\r\n\r\nEe3\r\n\r\n1\r\n\r\nS\r\nRO\r\n\r\nOA\r\nL NOV\r\n\r\nPje.Isla moc\r\n\r\nha\r\n\r\nDiaguitas\r\n\r\n6.302.000\r\n\r\na\r\nisc\r\nnc\r\n\r\niv\r\n\r\nPje\r\n\r\nH\r\n\r\nar\r\n\r\nad\r\n\r\nris\r\n\r\n.F\r\n\r\nra\r\n\r\nia\r\nav\r\n\r\nul\r\nPj\r\ne.\r\nPa\r\n\r\ns\r\nrri\r\nHa\r\nul\r\ne.\r\nPa\r\nPj\r\n\r\nZi\r\nta\r\nta\r\nSa\r\nn\r\n\r\nui\r\nta\r\nq\r\nni\r\nPu\r\n\r\nN\r\nIO\r\nNS\r\nTE\r\nTA\r\nAL\r\nRE\r\n\r\nD\r\n\r\nta\r\n\r\ner\r\no\r\nLu\r\nc\r\n\r\nLas Tres Marias\r\n\r\nEe1\r\n\r\nEe1\r\n\r\nSECRETARIO\r\n\r\nSECRETARIA\r\n\r\nLas Pleyades\r\n\r\nMINISTERIAL\r\n\r\nMUNICIPAL\r\n\r\nMETROPOLITANA\r\n5787\r\n\r\nDE VIVIENDA Y\r\n23\r\n\r\nURBANISMO\r\n\r\nDICIEMBRE\r\n\r\nVIAL\r\n\r\n4\r\n\r\nCLARO\r\n\r\nEe3\r\n\r\nCENTRO\r\nENERGIA NUCLEAR\r\n\r\nJAIME TELLEZ TELLEZ (s)\r\n\r\n6.300.000\r\n\r\nEAm4\r\n\r\nPARQUE INTERCOMUNAL ORIENTE\r\n\r\nJEFE DEPARTAMENTO DESARROLLO URBANO E\r\nINFRAESTRUCTUR"
+ },
+ {
+  "id": "d0356",
+  "comuna": "las_condes",
+  "nombre_documento": "lamina_2_uso_de_suelo_28febrero2010",
+  "archivo": "las_condes_LAMINA-2-USO-DE-SUELO-28Febrero2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 7,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZA",
+   "ZAR",
+   "ZC",
+   "ZONA",
+   "ZT",
+   "ZUR"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "350.000\r\n\r\n352.000\r\n\r\n358.000\r\n\r\n360.000\r\n\r\n360.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n362.000\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\n60\r\n\r\n362.000\r\n\r\nUV\r\n\r\nUV\r\n\r\n50\r\n\r\n60\r\nUC\r\n2\r\n\r\nM EJ O R\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\n50\r\n\r\nPLANO DE USO DE SUELO\r\n\r\n80-60\r\n\r\nUC2\r\n\r\nUC1\r\nUC1\r\n\r\n30\r\n\r\n50\r\n\r\n2\r\n5\r\n\r\n2\r\nUC\r\n60\r\n\r\nUV\r\n\r\nUEe1\r\n\r\nUV\r\n\r\n15\r\n\r\nUV\r\n\r\ne\r\nUE\r\n\r\nUv1\r\n\r\no\r\n\r\n1\r\n\r\nUvO\r\n\r\nUSO DE VIVIENDA Y EQUIPAMIENTO\r\nDE OFICINA\r\n\r\nUv3\r\n\r\nUSO DE VIVIENDA Y EQUIPAMIENTO\r\nDE OFICINA RESTRINGIDO\r\n\r\nUV\r\n\r\nZONA DE USO DE SUELO DE VIVIENDA\r\n\r\n80-60\r\n\r\nUEe5\r\n\r\n60\r\n60\r\n\r\nZONAS DE USO DE SUELO VIVIENDA\r\n\r\nUC2\r\n\r\nUC2\r\n\r\n2\r\nUC\r\n\r\nUvO\r\n\r\nUC2\r\n\r\nUC\r\n\r\nUC1\r\n\r\nUV\r\n\r\nUEe2\r\n\r\n50\r\n\r\n60\r\n\r\nEe\r\n\r\n1\r\n\r\nUEe2\r\n\r\no\r\n\r\nO\r\nNIM\r\nRO\r\n\r\nLAS\r\n\r\nAZA\r\n\r\nRS\r\n\r\nTE\r\nRE\r\nLDE\r\n\r\nAVDA.\r\n\r\nA\r\nDE\r\n\r\nRU\r\n\r\nUL\r\n\r\nRL\r\n\r\nZ\r\n\r\nAU\r\n\r\nRA\r\n\r\nRO\r\n\r\n80-60\r\n\r\nUEe2\r\n\r\nZ\r\nRE\r\n\r\nO DE ALD\r\nGERONIM\r\n\r\nUEe1\r\n\r\nPE\r\n\r\nO\r\nDR\r\n\r\nB\r\nAM\r\nEG\r\n\r\nUM\r\n\r\nOA\r\n\r\nUv1\r\n\r\nUM\r\n\r\n50\r\n\r\nUE\r\n\r\nUEe1\r\n\r\nUV\r\nUEe3\r\n60\r\n\r\nUC2\r\n\r\nEN\r\nIBS\r\n\r\nUC2\r\n\r\nUEe1\r\n\r\nS\r\n\r\n6.302.000\r\n\r\nca\r\ncis\r\n\r\nar\r\n\r\nPje\r\n\r\nris\r\n\r\n.F\r\n\r\nra\r\nn\r\n\r\nia\r\nad\r\nav\r\n\r\nH\r\n\r\niv\r\n\r\nPa\r\n\r\nul\r\n\r\nR\r\n\r\nris\r\n\r\ne.\r\n\r\nar\r\n\r\nPj\r\n\r\nlH\r\nau\r\ne.\r\nP\r\nPj\r\n\r\nZi\r\nta\r\n\r\ni\r\n\r\na\r\n\r\nqu\r\nni\r\nta\r\nPu\r\n\r\nZi\r\nta\r\nnt\r\na\r\n\r\nro\r\n\r\nN\r\n\r\nLu\r\nce\r\n\r\nLas Tres Marias\r\n\r\n10\r\n\r\n00\r\n\r\nPje.Lucaro\r\n\r\nUEe1\r\nVIA LACTEA\r\n\r\nUEe1\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO\r\n\r\nSECRETARIA\r\n\r\nLas Pleyades\r\n\r\nMINISTERIAL\r\n\r\nMUNICIPAL\r\n\r\nMETROPOLITANA\r\n5787\r\n\r\nDE VIVIENDA Y\r\n23\r\n\r\nURBANISMO\r\n\r\nDICIEMBRE\r\n\r\n43.62\r\n\r\nUEe3\r\n\r\nJAIME TELLEZ TELLEZ (s)\r\n\r\n6.300.000\r"
+ },
+ {
+  "id": "d0357",
+  "comuna": "las_condes",
+  "nombre_documento": "lamina_3_vialidad_28febrero2010",
+  "archivo": "las_condes_LAMINA-3-VIALIDAD-28Febrero2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 1,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZA",
+   "ZAR",
+   "ZC",
+   "ZMAN",
+   "ZONA",
+   "ZT",
+   "ZU",
+   "ZUR"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "352.000\r\n\r\n360.000\r\n\r\n358.000\r\n\r\n356.000\r\n\r\n3O\r\n\r\nT-\r\n\r\n15\r\n\r\n15\r\n360.000\r\n\r\n30,09\r\n\r\n8O\r\n\r\nO\r\nE10\r\n80-60\r\n\r\n71\r\nE-\r\n\r\n3\r\nT-\r\n\r\n25\r\n\r\nO\r\n\r\n50\r\n\r\n15\r\n\r\nM EJ O R\r\n\r\n50\r\n\r\n15\r\n\r\nE-71 O\r\n\r\nO\r\n\r\nPARA\r\n\r\nTODOS\r\n\r\n8\r\n-6\r\n\r\nT-\r\n\r\nE-71\r\n\r\nPLANO DE VIALIDAD\r\n\r\n40\r\n32\r\n\r\nO\r\n\r\n20\r\n\r\n2\r\nT-\r\n\r\n75\r\n\r\n20\r\n\r\n15\r\n\r\nT-6\r\n\r\n45-64\r\n\r\n9O\r\n\r\n20\r\n24\r\n\r\n45\r\n\r\nT-68 O\r\n\r\nO\r\n\r\nT-3\r\n\r\n32\r\n\r\nO\r\n\r\n30\r\n\r\n25\r\n20\r\n\r\n45\r\n\r\nO\r\n\r\n24\r\n\r\n30\r\n\r\n32\r\n\r\n18\r\n\r\n6\r\nT-6\r\n\r\n15\r\n\r\nM P R C L C - 2010\r\n\r\nSIMBOLOGIA\r\n\r\nO\r\n\r\nT-67\r\n\r\nO\r\n-10\r\n\r\n15\r\n\r\nO\r\n\r\nT\r\n\r\n25\r\n\r\nE\r\n\r\nO\r\nE-10\r\n\r\nO\r\n\r\nT-6\r\n9O\r\n\r\n8O\r\nT -2\r\n\r\nT-3 O\r\n\r\nE\r\n\r\n0O\r\n-1\r\n\r\nPLAN REGULADOR COMUNAL\r\nDE\r\nLAS CONDES\r\n\r\nASESORIA URBANA\r\n\r\n25\r\n\r\n20\r\n\r\n48\r\n\r\n67\r\n\r\n20\r\n15\r\n\r\n48\r\n\r\n25\r\nT45\r\n\r\n15\r\n\r\nT-28 O\r\n40\r\n\r\n25\r\n\r\n6\r\nT-\r\n\r\n30\r\n\r\nT-28 O\r\n\r\n64\r\n\r\nO\r\n\r\n362.000\r\n\r\n8O\r\n\r\nE-1\r\n\r\n50\r\n\r\n7\r\nT-6\r\n\r\n15\r\n\r\n358.000\r\n\r\n362.000\r\n\r\nE-18 O\r\n\r\n350.000\r\n\r\n24\r\n\r\nVIALIDAD EXISTENTE\r\n\r\nO\r\n\r\nTE\r\nALD\r\nTE\r\nRE\r\n\r\n8O\r\nT-6\r\nRAS\r\nANQUE\r\n\r\nSO\r\nR\r\n\r\nUR\r\n\r\nLA\r\n\r\nSU\r\n\r\nRA\r\n\r\nEZ\r\n\r\n15\r\n\r\nO\r\nT-6\r\n0\r\n\r\ncas\r\n\r\n6.302.000\r\n\r\n900\r\nTA\r\n\r\nca\r\ncis\r\n\r\nH\r\n\r\nPje\r\n\r\nar\r\nris\r\n\r\n.F\r\nra\r\nn\r\n\r\nia\r\niv\r\nad\r\nav\r\n\r\nPa\r\n\r\nul\r\n\r\nR\r\n\r\nris\r\n\r\ne.\r\n\r\nul\r\nHa\r\nr\r\n\r\nPj\r\n\r\nPa\r\nPj\r\ne.\r\n\r\nZi\r\nta\r\na\r\n\r\nta\r\nni\r\nPu\r\n\r\nnt\r\nSa\r\n\r\nqu\r\n\r\ni\r\n\r\nPje.Lucaro\r\n\r\nC\r\n\r\nta\r\n\r\nN\r\n\r\nO\r\n\r\nTA\r\n\r\n30\r\n\r\nZi\r\nnt\r\na\r\n\r\n10\r\n\r\n00\r\n\r\nJORGE VERGARA GOMEZ\r\nSECRETARIO\r\n\r\nMUNICIPAL\r\n\r\nLu\r\n\r\nce\r\n\r\nro\r\n\r\nSa\r\n\r\nSECRETARIA\r\n\r\nMINISTERIAL\r\n\r\nMETROPOLITANA DE VIVIENDA Y\r\n5787\r\n\r\nLas Pleyades\r\n\r\n23\r\n\r\nURBANISMO\r\n\r\nDICIEMBRE\r\n\r\n25\r\n25\r\n\r\nVIAL\r\n\r\n52\r\n\r\n13\r\n\r\nT-9 O\r\n\r\nT-9 O\r\n\r\n30\r\n\r"
+ },
+ {
+  "id": "d0358",
+  "comuna": "las_condes",
+  "nombre_documento": "memoria_explicativa_mod_11_v_corregida_firmada",
+  "archivo": "las_condes_Memoria_Explicativa_Mod_11_v_corregida_firmada.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 54,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "densidad": 3,
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "normas_urbanisticas": 10,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 1,
+   "articulado": 20,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 11 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, densidad)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MODIFICACIÓN\r\nPLAN REGULADOR COMUNAL DE LAS CONDES\r\nMEMORIA EXPLICATIVA\r\nMODIFICACIÓN N° 11\r\n\r\nVersión Corregida con Acuerdos del Concejo Municipal y Presentada para\r\nAprobación del Concejo Municipal\r\nNoviembre de 2022\r\n\r\n\fModificación Plan Regulador Comunal de Las Condes\r\nMemoria explicativa\r\n\r\n1.\r\n\r\nINTRODUCCIÓN\r\n\r\nLa Municipalidad de Las Condes, ante la necesidad de actualizar su Plan Regulador Comunal (PRC),\r\nha elaborado una propuesta de modificación de su Instrumento de Planificación Territorial, con el\r\nobjetivo de ajustar y ordenar sus disposiciones a la normativa vigente de acuerdo a lo establecido\r\npor la Ley General de Urbanismo y Construcciones (LGUC) y su Ordenanza (OGUC).\r\nLas disposiciones del PRC de Las Condes han permitido hasta la fecha un desarrollo armónico de\r\nnuestra comuna, manteniendo una imagen urbana que se ha ido desarrollado y consolidando\r\nconforme a lo establecido por el instrumento. Nuestro principal objetivo como Municipalidad es\r\ncontar con un instrumento de planificación actualizado, pero sobre todo que permita regular\r\nnuestro territorio reconociendo sus particularidades geográficas, demográficas, sociales y\r\neconómicas.\r\nEsta modificación por lo tanto propone una nueva estructura del articulado de la Ordenanza del\r\nPRC, manteniendo los objetivos urbanísticos del plan regulador vigente, sin modificar las actuales\r\ncondiciones de edificación y urbanización que se encuentran establecidas.\r\nEntre los cambios legales y reglamentarios determinant"
+ },
+ {
+  "id": "d0359",
+  "comuna": "las_condes",
+  "nombre_documento": "padem_2010",
+  "archivo": "las_condes_PADEM.2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 169,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "_____________________________________________________________\r\n1\r\n\r\n\f_____________________________________________________________\r\n2\r\n\r\n\fINDICE:\r\n\r\nINTRODUCCIÓN ________________________________________________________ 7\r\nI.\r\n\r\nDIAGNÓSTICO ______________________________________________________ 9\r\n\r\n1\r\n\r\nAntecedentes Generales Comuna de Las Condes ___________________________ 10\r\n1.1\r\n\r\n2\r\n\r\nOrganización Política de la Comuna_______________________________________ 10\r\n\r\nIndicadores Demográficos de la Comuna _________________________________ 12\r\n2.1\r\n\r\nTasa Crecimiento Población 1999-2009 ____________________________________ 12\r\n\r\n2.2\r\n\r\nProyección de Población 2010 – 2020______________________________________ 13\r\n\r\n2.3\r\n\r\nProyección de Población por Edades al año 2009 ____________________________ 14\r\n\r\n2.4\r\n\r\nPoblación Comunal por Género y Edad ____________________________________ 15\r\n\r\n2.5\r\n\r\nEvolución de los habitantes de Las Condes por Género _______________________ 16\r\n\r\n2.6\r\n\r\nPoblación en Edad Escolar al año 2009: ____________________________________ 17\r\n\r\n2.7\r\n\r\nProyección Población en Edad Escolar 2000 a 2020 __________________________ 18\r\n\r\n2.8\r\n\r\nAntecedentes Económicos de la Comuna ___________________________________ 19\r\n\r\n2.8.1\r\n2.8.2\r\n2.8.3\r\n\r\nNivel de Pobreza_____________________________________________________________ 19\r\nIngresos Habitantes de la Comuna _______________________________________________ 19\r\nTipo de Vivienda _________________________________________"
+ },
+ {
+  "id": "d0360",
+  "comuna": "las_condes",
+  "nombre_documento": "pladeco_2014_2017",
+  "archivo": "las_condes_PLADECO_2014-2017.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 110,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "2014 – 2017\r\nPlan de Desarrollo Comunal\r\nOctubre 2013\r\n\r\n\f\fConcejo Municipalidad de Las Condes\r\n\r\n2013 – 2016\r\nFRANCISCO DE LA MAZA CHADWICK\r\nAlcalde\r\n\r\nConcejales\r\n\r\nCecilia Serrano G.\r\n\r\nCarlos Larrain H.\r\n\r\nMartita Fresno M.\r\n\r\nRegina Aste H.\r\n\r\nTomás Fuentes B.\r\n\r\nCarolina Cotapos N Cristián Velasco V.\r\n\r\nErnesto Fontaine F. David Jankelevich W\r\n\r\nFelipe de Pujadas A\r\n\r\n\fINDICE\r\n\r\nPlan de Desarrollo Comunal\r\n\r\n2014\r\nIntroducción al Plan de Desarrollo\r\nCapítulo I\r\nAntecedentes Generales de la Comuna\r\nlímites de la comuna\r\npoblación y vivienda\r\n\r\n1\r\n\r\n3\r\n4\r\n5\r\n\r\nCapitulo II\r\nPolíticas y Objetivos Generales\r\nobjetivos específicos\r\n\r\n6\r\n7\r\n9\r\n\r\ntarjeta vecino y atención al vecino\r\nmedio ambiente\r\npatrimonio\r\ngestión, administración y tecnología.\r\nteatro municipal de las condes\r\npolítica de recursos humanos\r\nsistema de compras públicas\r\nproyectos relevantes a desarrollar\r\n\r\n11\r\n12\r\n14\r\n16\r\n20\r\n21\r\n23\r\n24\r\n\r\nmisión\r\nobjetivos generales\r\n\r\nTranvía,\r\nPaso Inferior manquehue,\r\nRed de ciclovías\r\nEdificio Dirección de Tránsito,\r\nPiscinas comunales\r\nEdificio Patagonia Vilanova\r\n\r\nCapitulo III\r\nFunciones privativas de la Municipalidad\r\nelaboración del plan de desarrollo comunal\r\nelaboración del plan regulador comunal\r\nla promoción del desarrollo comunitario\r\nla aplicación de las disposiciones del tránsito y transporte público\r\nla aplicación de las disposiciones sobre construcción\r\ny urbanización\r\nel aseo y ornato de la comuna\r\naseo\r\náreas verdes\r\n\r\n30\r\n31\r\n32\r\n35\r\n37\r\n38\r\n41\r\n\r\n\fCapit"
+ },
+ {
+  "id": "d0361",
+  "comuna": "las_condes",
+  "nombre_documento": "pladeco_2018_2021",
+  "archivo": "las_condes_PLADECO_2018-2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 127,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "2018 – 2021\r\nPlan de Desarrollo Comunal\r\nOctubre 2017\r\n\r\n\f\fConcejo Municipalidad de Las Condes\r\n\r\n2016 – 2020\r\nJoaquín Lavín Infante\r\nAlcalde\r\n\r\n\fINDICE\r\n\r\nPlan de Desarrollo Comunal\r\n\r\n2018\r\nIntroducción al Plan de Desarrollo\r\nCapítulo I\r\nAntecedentes Generales de la Comuna\r\nlímites de la comuna\r\npoblación y vivienda\r\n\r\n1\r\n3\r\n4\r\n5\r\n\r\nCapitulo II\r\nPolíticas y Objetivos Generales\r\nmisión\r\nobjetivos generales para Las Condes\r\n\r\nplanteamiento del Alcalde\r\n\r\n6\r\n7\r\n8\r\n\r\nproyectos relevantes a desarrollar\r\n\r\n12\r\n\r\ncultura\r\n\r\n15\r\n\r\nelectromovilidad\r\nred de ciclovías\r\n\r\ntransporte y tranvía,\r\n\r\ncapital cultural\r\n\r\nteatro municipal de las condes\r\npatrimonio\r\n\r\nLas Condes Verde\r\n\r\ncerro Calán\r\nlaguna Cristalina\r\nparque Los Dominicos\r\nrutas verdes\r\nrutas peatonales accesibles\r\nmedio ambiente\r\n\r\n19\r\n20\r\n\r\n23\r\n24\r\n25\r\n26\r\n27\r\n28\r\n\r\nplan verano\r\ngestión, administración y tecnología.\r\n\r\n30\r\n31\r\n\r\ntarjeta vecino y atención al vecino\r\npolítica de recursos humanos\r\n\r\n37\r\n44\r\n\r\ntecnología de la información\r\n\r\n33\r\n\r\nCapitulo III\r\nFunciones privativas de la Municipalidad\r\nelaboración del plan de desarrollo comunal\r\nelaboración del plan regulador comunal\r\nla promoción del desarrollo comunitario\r\nla aplicación de las disposiciones del tránsito y transporte público\r\nla aplicación de las disposiciones sobre construcción\r\ny urbanización\r\nel aseo y ornato de la comuna\r\nreciclaje\r\náreas verdes\r\n\r\n46\r\n47\r\n48\r\n51\r\n53\r\n54\r\n56\r\n57\r\n\r\n\fCapitulo IV\r\nFunciones de la Municipalidad por sectores\r\na.\r\nb.\r\nc.\r\n\r\ned"
+ },
+ {
+  "id": "d0362",
+  "comuna": "las_condes",
+  "nombre_documento": "plano_modificacion_7_prc_lamina_edificacion",
+  "archivo": "las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_EDIFICACION.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0363",
+  "comuna": "las_condes",
+  "nombre_documento": "plano_modificacion_7_prc_lamina_uso_de_suelo",
+  "archivo": "las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_USO-DE-SUELO.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0364",
+  "comuna": "las_condes",
+  "nombre_documento": "plano_modificacion_7_prc_lamina_vialidad",
+  "archivo": "las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_VIALIDAD.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0365",
+  "comuna": "las_condes",
+  "nombre_documento": "pl_lamina_01_plano_regulador",
+  "archivo": "las_condes_PL_lamina-01_PLANO-REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0366",
+  "comuna": "las_condes",
+  "nombre_documento": "pl_lamina_02_plano_regulador",
+  "archivo": "las_condes_PL_lamina-02_PLANO-REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0367",
+  "comuna": "las_condes",
+  "nombre_documento": "pl_lamina_03_plano_regulador",
+  "archivo": "las_condes_PL_lamina-03_PLANO-REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0368",
+  "comuna": "las_condes",
+  "nombre_documento": "corporacion_educacion_salud_plan_anual_educacion2009",
+  "archivo": "las_condes_corporacion.educacion-salud.plan.anual.educacion2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 123,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN ANUAL DE\r\nEDUCACION MUNICIPAL\r\n\r\nPADEM 2009\r\n\r\nCorporación de Educación y Salud de Las Condes\r\nPADEM 2009\r\n\r\n1\r\n\r\n\fINDICE:\r\n\r\n6\r\n\r\nI.- INTRODUCCIÓN\r\n\r\nII.- DIAGNOSTICO:\r\n1.- Antecedentes generales Comuna de Las Condes\r\n2.- Organización política de la Comuna\r\n3.- Indicadores Demográficos de la Comuna\r\n4.- Antecedentes económicos de la Comuna\r\n\r\n8\r\n8\r\n9\r\n13\r\n\r\nIII.- EDUCACIÓN EN LA COMUNA DE LAS CONDES:\r\n1.- Oferta Educacional en la Comuna\r\n2.- Nivel de escolaridad de la comuna\r\n3.- Educación Municipal\r\n4.- Colegios concesionados a sociedades de profesores\r\n5.- Proyección de matrícula 2008\r\n6.- Nivel de escolaridad de los padres y apoderados\r\n7.- Ingresos familiares\r\n8.- Distribución de Ingreso por colegio\r\n9.- Comuna de procedencia de los alumnos en educación municipal\r\n10.-Tipo de vivienda de alumnado en Educación Municipal\r\n11.- Constitución familiar de la población escolar municipal\r\n12.- Población Escolar 2008\r\n\r\n15\r\n15\r\n16\r\n16\r\n17\r\n18\r\n21\r\n22\r\n23\r\n23\r\n24\r\n25\r\n\r\nIV.- RENDIMIENTO ESCOLAR Y OTROS INDICADORES RELACIONADOS\r\n1.- Puntaje SIMCE 4º Básico 2006 – 2007\r\n2.- Puntajes SIMCE 8º Básico 2006- 2007\r\n3.- Resultados comparativos con promedios nacionales\r\n4.- Evolución SIMCE 8º básico\r\n5.- Evolución SIMCE 2º Medio\r\n6.- Resultados colegios municipales por curso\r\n7.- Puntajes más altos obtenidos en 8º Básicos\r\n8.- Porcentaje de logro en Simce 4º Básico\r\n\r\nCorporación de Educación y Salud de Las Condes\r\nPADEM 2009\r\n\r\n28\r\n30\r\n31\r\n33\r\n34\r\n35\r\n36\r\n37\r\n\r\n2\r\n\r\n\f9.- Niveles de l"
+ },
+ {
+  "id": "d0369",
+  "comuna": "las_condes",
+  "nombre_documento": "corporacion_educacion_salud_plan_salud_2009",
+  "archivo": "las_condes_corporacion.educacion-salud.plan.salud.2009.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 41,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN DE SALUD\r\n2009\r\n\r\n1\r\nPlan de Salud 2009\r\nCorporación de Educación y Salud de Las Condes\r\n\r\n\fINDICE:\r\nINTRODUCCIÓN____________________________________________________ 2\r\n\r\nI. Diagnóstico Poblacional____________________________________________ 4\r\n\r\nII. Atención Primaria de Salud _________________________________________ 6\r\n1.\r\n2.\r\n3.\r\n4.\r\n5.\r\n6.\r\n7.\r\n8.\r\n\r\nBases Conceptuales ________________________________________ 6\r\nValores que fundamentan nuestra acción ________________________ 7\r\nOferta de servicios o canasta de prestaciones ___________________ 10\r\nProgramas Comunales _____________________________________ 12\r\nÍndices de actividad de atención primaria para el año 2008 _________ 16\r\nGes_____________________________________________________ 17\r\nControles de calidad _______________________________________ 18\r\nCentros de Salud __________________________________________ 18\r\na. Centro de Salud Apoquindo ____________________________ 18\r\nb. Centro de Salud Familiar Dr. Aníbal Ariztía _______________ 19\r\nc. Servicio de Atención Primaria de Urgencias (SAPU) _________ 21\r\n\r\nIII. Atención Secundaria de Salud______________________________________ 23\r\n1.\r\n2.\r\n3.\r\n4.\r\n5.\r\n6.\r\n\r\nCentro de Imágenes _______________________________________ 23\r\nCentro de Rehabilitación del Adulto Mayor (RAM)_________________ 25\r\nCosam Las Condes ________________________________________ 26\r\nLaboratorio Clínico _________________________________________ 29\r\nOftalmología ________________________________________"
+ },
+ {
+  "id": "d0370",
+  "comuna": "las_condes",
+  "nombre_documento": "plan_desarrollo_comunal_2006",
+  "archivo": "las_condes_plan.desarrollo.comunal.2006.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 107,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "2006\r\nPlan de Desarrollo Comunal\r\nPresupuesto\r\nPlan de Inversiones\r\nOctubre 2005\r\n\r\n\f\fConcejo Municipalidad de Las Condes\r\n\r\n2004 – 2008\r\nFRANCISCO DE LA MAZA CHADWICK\r\nAlcalde\r\n\r\nConcejales\r\n\r\nCarlos Larrain P.\r\n\r\nM. De la Luz Herrera C.\r\n\r\nJ. Antonio Rabat V.\r\n\r\nHugo Unda D.\r\n\r\nFelipe de Pujadas A\r\n\r\nCarolina Uribe G.\r\n\r\nMauricio Camus V.\r\n\r\nAlejandro Sepúlveda M.\r\n\r\n\fINDICE\r\nPlan de Desarrollo Comunal\r\nPresupuesto\r\nPlan de Inversiones\r\n\r\n2006\r\nPlan de Desarrollo Comunal\r\nIntroducción al Plan de Desarrollo\r\nCapítulo I\r\nAntecedentes Generales de la Comuna\r\npoblación y vivienda\r\nlímites de la comuna\r\n\r\n1\r\n3\r\n4\r\n5\r\n\r\nCapitulo II\r\nPolíticas y Objetivos Generales\r\nobjetivos específicos\r\n\r\n6\r\n8\r\n\r\npolítica de recursos humanos\r\nevolución del presupuesto municipal\r\nnuevo edificio centro cívico y teatro municipal\r\nedificio Padre Hurtado, Los Dominicos y casa Gandarillas\r\ngestión, administración y tecnología.\r\n\r\n10\r\n13\r\n15\r\n16\r\n17\r\n\r\nmisión y objetivos generales\r\n\r\nCapitulo III\r\nFunciones privativas de la Municipalidad\r\nelaboración del plan de desarrollo comunal\r\nelaboración del plan regulador comunal\r\nla promoción del desarrollo comunitario\r\nla aplicación de las disposiciones del tránsito y transporte público\r\nla aplicación de las disposiciones sobre construcción\r\ny urbanización\r\nel aseo y ornato de la comuna\r\naseo\r\náreas verdes\r\n\r\n20\r\n21\r\n22\r\n26\r\n28\r\n30\r\n32\r\n\r\nCapitulo IV\r\nFunciones de la Municipalidad por sectores\r\na.\r\n\r\neducación y cultura\r\neducación\r\ncultura\r\n\r\nb.\r\n\r\nsalud y med"
+ },
+ {
+  "id": "d0371",
+  "comuna": "las_condes",
+  "nombre_documento": "plan_desarrollo_comunal_2010",
+  "archivo": "las_condes_plan.desarrollo.comunal.2010.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 93,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Acuerdo Nº 196 B / 2009\r\nSe aprueba el Plan de Desarrollo Comunal 2010-2013\r\n\r\n2010 – 2013\r\nPlan de Desarrollo Comunal\r\nOctubre 2009\r\n\r\n\f\fConcejo Municipalidad de Las Condes\r\n\r\n2008 – 2012\r\nFRANCISCO DE LA MAZA CHADWICK\r\nAlcalde\r\n\r\nConcejales\r\n\r\nCarlos Larrain P.\r\n\r\nM. De la Luz Herrera C.\r\n\r\nDavid Jankelevich.\r\n\r\nCecilia Serrano\r\n\r\nFelipe de Pujadas A\r\n\r\n.\r\n\r\nMauricio Camus V.\r\n\r\nGabriel Flandez\r\n\r\nXimena Ossandon\r\n\r\n\fINDICE\r\nPlan de Desarrollo Comunal\r\n\r\n2 0 10\r\nIntroducción al Plan de Desarrollo\r\n\r\nCapítulo I\r\nAntecedentes Generales de la Comuna\r\npoblación y vivienda\r\nlímites de la comuna\r\n\r\n1\r\n\r\n3\r\n4\r\n5\r\n\r\nCapitulo II\r\nPolíticas y Objetivos Generales\r\nobjetivos específicos\r\n\r\n6\r\n8\r\n\r\npolítica de recursos humanos\r\nnuevas obras . edificios y espacio público\r\nmedio ambiente\r\npatrimonio\r\ngestión, administración y tecnología.\r\n\r\n10\r\n13\r\n18\r\n20\r\n22\r\n\r\nmisión y objetivos generales\r\n\r\nCapitulo III\r\nFunciones privativas de la Municipalidad\r\nelaboración del plan de desarrollo comunal\r\nelaboración del plan regulador comunal\r\nla promoción del desarrollo comunitario\r\nla aplicación de las disposiciones del tránsito y transporte público\r\nla aplicación de las disposiciones sobre construcción\r\ny urbanización\r\nel aseo y ornato de la comuna\r\naseo\r\náreas verdes\r\n\r\n25\r\n26\r\n27\r\n32\r\n34\r\n36\r\n39\r\n\r\n\fCapitulo IV\r\nFunciones de la Municipalidad por sectores\r\na.\r\n\r\neducación y cultura\r\neducación\r\ncultura\r\n\r\nb.\r\n\r\nsalud y medio ambiente\r\nsalud\r\nhigiene ambiental\r\n\r\nc.\r\n\r\n51\r\n56\r\n\r\nasistencia social y "
+ },
+ {
+  "id": "d0678",
+  "comuna": "las_condes",
+  "nombre_documento": "07_octubre_2021_ord_1085",
+  "archivo": "las_condes_07-OCTUBRE-2021-ORD.-1085.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 48,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 4
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "CONCEJO MUNICIPAL DE LAS CONDES\r\n\r\nSESION ORDINARIA N° 1085\r\nJUEVES 07 OCTUBRE 2021\r\nEn Las Condes, a 07 octubre de 2021, siendo las 15:30 horas, en nombre de Dios, se da inicio a la\r\nSesión Ordinaria N° 1085 del Concejo Municipal de Las Condes, mediante el Sistema Telemático,\r\nsiendo presidida por la Alcaldesa, señora Daniela Peñaloza Ramos, con la asistencia de los\r\nConcejales, señores: Sergio Melnick Israel, Julio Dittborn Cordua, Isidora Alcalde Egaña, Patricio\r\nBopp Tocornal, Catalina San Martín Cavada, Vanessa Kaiser Barents-Von Hohenhagen, Luis\r\nAntonio Hadad Acevedo, Javiera Kretschmer Soruco, Catalina Ugarte Millán y Marie Claude\r\nMayo de Goyeneche. Siendo su Secretario, Jorge Vergara Gómez, Secretario Municipal.\r\nAsisten los siguientes funcionarios municipales, señores: Juan Ignacio Jaramillo, Administrador\r\nMunicipal; Alejandro Contreras, Director de la SECPLAN; Rocío Crisosto, Directora de Obras\r\nMunicipales; Juan Francisco Reyes, Director de Desarrollo Comunitario; Oscar Arévalo, Director\r\nde Tránsito; Patricio Navarrete, Director Jurídico; Javiera Benítez, Directora de Seguridad Pública;\r\nPablo de la Llera, Director de Asesoría Urbana; Carlos Huidobro, Director de Infraestructura y\r\nServicios Públicos; Ricardo Gutiérrez, Secretario General de la Corporación de Educación y Salud;\r\nBernardita Undurraga, Directora de Educación; Edna Pizarro, Directora de Salud; Ramón Santos,\r\nJefe del Depto. de Patentes Municipales; Francisco Javier Hernández, Coordinador Técnico\r\n"
+ },
+ {
+  "id": "d0679",
+  "comuna": "las_condes",
+  "nombre_documento": "1_46c_texto_aprobatorio_modificacion_n_10_suscrito_a_u_abr2021",
+  "archivo": "las_condes_1.-46c-TEXTO-APROBATORIO-MODIFICACION-N-10-SUSCRITO-A.U.-ABR2021.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "altura_maxima": 2,
+   "densidad": 1,
+   "agrupamiento": 9,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 2,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 12,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "PROYECTO DE MODIFICACIÓN N° 10\r\nPLAN REGULADOR COMUNAL DE LAS CONDES\r\n\r\nTEXTO APROBATORIO:\r\n\r\nArtículo único: Modificase el Plan Regulador Comunal de Las Condes, aprobado por\r\nResolución N° 8/95 del Gobierno Regional Metropolitano de Santiago, de fecha 30 de mayo\r\nde 1995, publicado en el Diario Oficial de fecha 13 de junio de 1995, modificado según\r\nModificación N° 2, promulgada según Decreto Alcaldicio N° 3.218, de fecha 4 de diciembre\r\nde 2003, publicado en Diario Oficial de fecha 5 de diciembre de 2003; enmendado según\r\nModificación N°3, promulgada según Decreto Alcaldicio N° 2.952, de fecha 30 de julio de\r\n2004, publicado en Diario Oficial de fecha 6 de agosto de 2004; detallado según Plano\r\nSeccional de la Zona de Uso de Suelo Metropolitano, PS-U-M, aprobado por Decreto\r\nAlcaldicio N° 4.480 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario Oficial\r\nde fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso de\r\nSuelo Vivienda, PS-U-V. aprobado por Decreto Alcaldicio N° 4.483 Secc.1°, de fecha 28\r\nde diciembre de 2004, publicado en Diario Oficial de fecha 26 de enero de 2005; detallado\r\nsegún Plano Seccional de la Zona de Uso de Suelo Vivienda 1, PS-U-V1, aprobado por\r\nDecreto Alcaldicio N° 4.484 Secc.1°, de fecha 28 de diciembre de 2004, publicado en Diario\r\nOficial de fecha 26 de enero de 2005; detallado según Plano Seccional de la Zona de Uso\r\nde Suelo Vivienda 2, PS-U-V2, aprobado por Decreto Alcaldicio N° 4.485 Secc.1°, de fecha\r\n28 "
+ }
+]

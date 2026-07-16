@@ -1,0 +1,25 @@
+{
+  "id": "vina_del_mar_a9375d553a",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vina_del_mar_4595_aprueba_modificacion_al_plan_regulador_comunal_de_vina_del_mar_dano10949200__do-20160513.pdf",
+  "nombre": "vina_del_mar_4595_aprueba_modificacion_al_plan_regulador_comunal_de_vina_del_mar_dano10949200__do-20160513.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 76,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:35:37",
+  "fin": "2026-07-14T21:39:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        20
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "TRAMPA COMUNA AJENA: PDF es edicion completa del Diario Oficial. Pag1-13 decreto modificacion PRC de LO BARNECHEA (excluido, tiene su propio cuadro art.55 zonas G/I/K que NO es de Vina del Mar). Pag14-20: decreto alcaldicio 4595/2016 Vina del Mar Sector Poblacion Vergara. Tabla3 (coef.constructibilidad y densidad bruta) pag15. Art.9 pag16-20: articulado completo por zona (usos permitidos/prohibidos, superficie predial min, COS, coef.constructibilidad, agrupamiento, altura max, distanciamiento/retranqueo, antejardin, densidad bruta max, estacionamientos) para 7 zonas: V8,V9,E6-c,E6-c1,E7-c,E7-c1,E8-1. Pag21+ Cuerpo II DO contenido ajeno (concesiones, INAPI). Pag34-51 con chars altos son listados de marcas INAPI, no normas -falsa alarma."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "el_quisco_241a0f6f32",
+  "comuna": "el_quisco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_quisco_1688_promulga_actualizacion_del_plan_regulador_comunal_de_el_quisco__2645649.pdf",
+  "nombre": "el_quisco_1688_promulga_actualizacion_del_plan_regulador_comunal_de_el_quisco__2645649.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 66,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:37:36",
+  "fin": "2026-07-14T15:43:11",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        58
+      ]
+    ],
+    "paginas_utiles": 45,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "ORDENANZA COMPLETA PRC El Quisco (66 pags). El propio documento trae una TABLA DE CUADROS en p7-8 que indexa 112 cuadros: usarla como mapa. TODOS LOS CUADROS EN TEXTO NATIVO (no hay tabla-imagen; verificado con render de p14,15,35,46,57,58). p14: Cuadro 2 dotacion minima de estacionamientos. p15: Cap.III Zonificacion y Normas Especificas, arranca zona ZE1 (Cuadro 5). p15-57: 36 unidades normadas (24 zonas + 5 ICH + 4 ZT + 3 ZCH), dos cuadros por zona (Normas Usos de Suelo + Normas de Subdivision y Edificacion). Ultima norma: Cuadro 111, zona ZCH3 Poza Azul, termina en p58. EXCLUIDOS: Cuadro 1 (limite urbano, p9) y Cuadro 112 (red vial, p58-66)."
+  }
+}

@@ -1,0 +1,920 @@
+[
+ {
+  "id": "d0381",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1614_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_1614_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PROMULGA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_DE_LO_BARNECHEA_MPRC-LB-25_Decreto_1614_02-05-16 (1).pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 2,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 6,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Cuerpo I - 12\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 13 de Mayo de 2016\r\n\r\nCorte de Apelaciones de Concepción. Tribunal de Juicio Oral en lo Penal de\r\nCañete.- Llámese a concurso externo, por el término de diez días contados desde la\r\npublicación de este aviso en el Diario Oficial, para proveer el cargo de Jefe de Unidad\r\n- Jefe de Unidad de Causas, perteneciente a la Quinta Categoría de la Tercera Serie\r\ndel Escalafón Secundario del Poder Judicial, Grado XI de la Escala de Sueldos del\r\nPersonal Superior, vacante por promoción de don Claudio Alejandro Toloza Urrutia.\r\nLos interesados deben acreditar el cumplimiento de los requisitos legales e\r\ningresar sus antecedentes en la página www.poderjudicial.cl, a través del portal de\r\npostulaciones, que dispone de mayor información relativa al concurso.- Administrador\r\ndel Tribunal.\r\nCorte de Apelaciones de Concepción. Juzgado de Letras y Garantía de Lebu.Llámese a concurso interno, por el término de diez días contados desde la publicación\r\nde este aviso en el Diario Oficial, para proveer el cargo de Oficial 1º, perteneciente\r\na la Tercera Categoría del Escalafón de Empleados del Poder Judicial, Grado XII\r\nde la Escala de Sueldos del Personal de Empleados, vacante por promoción de don\r\nDavid Hernán Bravo Villarroel.\r\nLos interesados deben acreditar el cumplimiento de los requisitos legales e\r\ningresar sus antecedentes en la página www.poderjudicial.cl, a través del portal de\r\npostulaciones, que dispone de mayor informaci"
+ },
+ {
+  "id": "d0382",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "202_promulga_modificacion_n_28_zona_j_la_dehesa_al_plan_regulador_comunal_de_lo",
+  "archivo": "lo_barnechea_202_promulga_modificacion_n_28_zona_j_la_dehesa_al_plan_regulador_comunal_de_lo___DO_13_MARZO_2019_PLANO_REGULADOR.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 7
+  },
+  "senales_tramite": {
+   "txt_inicio": 2
+  },
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.303\r\n\r\n|\r\n\r\nMiércoles 13 de Marzo de 2019\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 1558994\r\n\r\nMUNICIPALIDAD DE LO BARNECHEA\r\n\r\nPROMULGA MODIFICACIÓN N° 28 ZONA J, LA DEHESA, AL PLAN REGULADOR\r\nCOMUNAL DE LO BARNECHEA\r\nNúm. 202.- Lo Barnechea, 5 de marzo de 2019.\r\nVistos:\r\nLo dispuesto por la Ley N° 19.300 sobre Bases Generales del Medio Ambiente y sus\r\nmodificaciones posteriores; lo establecido en los artículos 43° y 45° de la Ley General de\r\nUrbanismo y Construcciones y en el artículo 2.1.11 de su Ordenanza General; y en uso de las\r\nfacultades que me confieren los artículos 56 y 63, letra i) de la Ley N° 18.695 Orgánica\r\nConstitucional de Municipalidades.\r\nTeniendo presente:\r\n1. Acta de acuerdos adoptados en la sesión ordinaria N° 973, suscrito por el Secretario\r\nMunicipal, que da cuenta del acuerdo N° 5411 adoptado por el Concejo Municipal en sesión\r\nordinaria de fecha 14 de junio de 2018, que ordena iniciar el estudio de Modificación al Plan\r\nRegulador Comunal de Lo Barnechea, en el sentido de suprimir los puntos a.2 y a.2.1 del artículo\r\n55 de la Ordenanza Local del Plan Regulador Comunal, relativos a Equipamiento menor de la\r\nZona J La Dehesa, conforme a los artículos 43 y 45 de la Ley General de Urbanismo y\r\nConstrucciones y los Artículos 2.1.10 y 2.1.11 de la Ordenanza General de Urbanism"
+ },
+ {
+  "id": "d0383",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "2285_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_2285_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__DO_06-05-2011_PROMULGA_MODIFICACION_AL_PLAN_REGULADOR_CUMUNAL_DE_LO_BARNECHEA.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 6 de Mayo de 2011\r\n\r\nNº 39.953\r\n\r\nlitana de Vivienda y Urbanismo, que solicita el informe previo previsto en el\r\nartículo 59º de la Ley General de Urbanismo y Construcciones.\r\n3. El informe previo favorable emitido por la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo mediante el ord. Nº 788, de fecha 16 de febrero de\r\n2011, y\r\nTeniendo presente: Las facultades conferidas por la ley Nº 18.695, de 1988,\r\nOrgánica Constitucional de Municipalidades, y el inciso primero del citado artículo\r\nNº 59 de la Ley General de Urbanismo y Construcciones, que en parte dispone que\r\nvencidos los plazos de las declaratorias de utilidad pública de las áreas allí\r\nseñaladas: ‘‘Las nuevas normas urbanísticas aplicables a dichas áreas deberán ser\r\nfijadas dentro del plazo de seis meses, contado desde la caducidad de la declaratoria, por la municipalidad respectiva, mediante decreto alcaldicio, previo informe de\r\nla Secretaría Regional Ministerial de Vivienda y Urbanismo, asimilándolas a las de\r\nla zona predominante de las adyacentes al terreno’’.\r\nDecreto:\r\n1.- Asígnense nuevas normas urbanísticas aplicables a las áreas de los predios\r\nque estaban afectos a declaratoria de utilidad pública para ensanchar la calle El\r\nOlivar, asimilándolas a las de la zona adyacente de acuerdo a lo señalado en la tabla\r\nsiguiente:\r\n\r\nCuerpo I - 15\r\n\r\nel certificado Nº 123 de 11 de mayo de 2010, suscrito por el Secretario Abogado\r\nMunicipal; la resolució"
+ },
+ {
+  "id": "d0384",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "4397_rectifica_decreto_no_3985_de_2009_que_promulga_modificacion_al_plan_regulad",
+  "archivo": "lo_barnechea_4397_rectifica_decreto_no_3985_de_2009_que_promulga_modificacion_al_plan_regulad__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 4397, LO BARNECHEA (2009)\r\n\r\nDecreto 4397\r\nRECTIFICA DECRETO Nº 3.985, DE 2009 QUE PROMULGA MODIFICACIÓN AL\r\nPLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nPublicación: 09-NOV-2009 | Promulgación: 02-NOV-2009\r\nVersión: Última Versión De : 24-DIC-2009\r\nUrl Corta: https://bcn.cl/3lbcp\r\n\r\nRECTIFICA DECRETO Nº 3.985, DE 1999 QUE PROMULGA MODIFICACIÓN AL PLAN REGULADOR\r\nCOMUNAL\r\nNúm. 4.397.- Lo Barnechea, 2 de noviembre de 2009.- Visto y teniendo presente:\r\nel decreto Nº 3.985 de fecha 2 de octubre de 2009; lo establecido en los artículos\r\n43 y 45 de la Ley General de Urbanismo y Construcciones y el artículo 2.1.11 de su\r\nOrdenanza General y el uso de las facultades que me confieren los artículos 56 y 63,\r\nletra i) de la ley Nº 18.695, Orgánica Constitucional de Municipalidades,\r\nDecreto:\r\n1.- Rectifícase el decreto Nº 3.985 de fecha 2 de octubre de 2009, que\r\npromulga la Modificación al Plan Regulador Comunal de Lo Barnechea signada como\r\n\"MPRC-LB-11, artículos 34 y 35 del PRC de Lo Barnechea\", en el sentido de reemplazar\r\nen los vistos, donde dice \"artículo 2.1.13\", debe decir \"artículo 2.1.11\".\r\n2.- El presente decreto rectificatorio se publicará de conformidad a lo\r\ndispuesto en el artículo 2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n3.- En todo aquello que no ha sido modificado por el presente decreto,\r\ncontinuará vigente el decreto Nº 3.985 de fecha 2 de octubre de 2009.\r\nAnótese, comuníquese, publíquese y archívese.- Felipe Guevara Stephe"
+ },
+ {
+  "id": "d0385",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "5655_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_5655_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_DTO-5655_01-OCT-2015_APRUEBA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_MPRC-LB-20.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 2,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.271\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 1 de Octubre de 2015\r\n\r\nMunicipalidad de Lo Barnechea\r\n\r\n2. Aprobar el siguiente título representativo de índices financieros:\r\nTítulo Representativo de Índices Financieros\r\n\r\nPaís de registro\r\n\r\nSPDR Dow Jones Industrial Average ETF Trust\r\n\r\nEstados Unidos\r\n\r\n3. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, debido a\r\nque no fue renovada la respectiva solicitud de aprobación:\r\nFondo Mutuo Extranjero\r\n\r\nPaís de registro\r\n\r\nCapital International Fund - Global Equity Fund\r\n\r\nLuxemburgo\r\n\r\nCapital International Emerging Markets Fund\r\n\r\nLuxemburgo\r\n\r\nNatixis International Funds (Lux) I - Absolute Asia AM Pacific Rim Equities\r\nFund\r\n\r\nLuxemburgo\r\n\r\nNatixis International Funds (Lux) I - Harris Associates Global Equity Fund\r\n\r\nLuxemburgo\r\n\r\n4. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, en atención\r\na que su propiedad se encuentra concentrada:\r\nFondo Mutuo Extranjero\r\nNatixis International Funds (Lux) I - Loomis Sayles U.S. Research Fund\r\nPIMCO Funds: Global Investors Series Plc. - Emerging Markets Corporate\r\nBond Fund\r\n\r\nPaís de registro\r\nLuxemburgo\r\nIrlanda\r\n\r\n5. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, en consideración\r\na que no cuentan con activos por un monto igual o superior a los US$ 100 millones:\r\nFondo Mutuo Extranjero\r\n\r\nCuerpo I - 7\r\n\r\nPaís de registro\r\n\r\nCS Investment Funds 5 - Credit Suisse (Lux) Infrastructure Equity Fund\r\n\r\nLuxemburgo\r\n\r\nPi"
+ },
+ {
+  "id": "d0386",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "5794_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_5794_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_DTO-5794_03-OCT-2015_APRUEBA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_MPRC-LB-22.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.273\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 3 de Octubre de 2015\r\n\r\n3. Oficio Circular Nº 11.543, de fecha 20.12.2013, que prohíbe la comercialización\r\ndel producto Bolsa para Agua Caliente (Guatero Eléctrico).\r\n4. Oficio Ord. Nº 6.285, de fecha 10.06.2014, que instruye a la empresa Mar\r\ndel Sur SpA.\r\n5. Cartas de la empresa Mar del Sur SpA, ingresadas a SEC bajo las O.P.\r\nNºs 10.785 y 13.295, de fechas 10.06.2015 y 22.07.2015, respectivamente.\r\n6. Informe Técnico Nº ACC 1169152/ DOC 960632, de fecha\r\n23.06.2015.\r\nDe: Superintendente de Electricidad y Combustibles\r\nA: Según distribución\r\n1. Que esta Superintendencia, mediante el Oficio Circular referenciado en ANT.\r\n3, prohibió la comercialización del producto “Bolsa para Agua Caliente (Guatero\r\nEléctrico)”, individualizado en la Tabla Nº 1, por detectarse productos certificados\r\nque no cumplen con un requisito normativo y reglamentario, individualizado en el\r\nprotocolo de ensayos PE Nº 1/27, cuestión calificada por el ordenamiento vigente\r\ncomo riesgoso para los usuarios.\r\nTabla Nº 1\r\n\r\nImagen\r\n\r\n2. En cartas de ANT. 5, la empresa Mar del Sur SpA solicitó a esta\r\nSuperintendencia alzamiento de la prohibición transitoria del Oficio Circular\r\nNº 11.543, de 2013, referente a la recertificación de un lote, en la que se obtuvo\r\nun Certificado de Seguimiento, según lo indicado en la Tabla Nº 2:\r\nTabla Nº 2\r\n\r\nIMAGEN\r\n\r\n3. Que revisados los antecedentes del punto precedente y del Informe Técnico\r\nde ANT. 6, esta Su"
+ },
+ {
+  "id": "d0387",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "6440_sanciona_acuerdo_del_concejo_municipal_no_3750_del_2012_que_aprueba_plano_s",
+  "archivo": "lo_barnechea_6440_sanciona_acuerdo_del_concejo_municipal_no_3750_del_2012_que_aprueba_plano_s__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 6440, LO BARNECHEA (2012)\r\n\r\nDecreto 6440\r\nSANCIONA ACUERDO DEL CONCEJO MUNICIPAL N° 3.750, DE 2012, QUE\r\nAPRUEBA PLANO SECCIONAL DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 13-DIC-2012 | Fecha Promulgación: 05-DIC-2012\r\nTipo Versión: Única De : 13-DIC-2012\r\nUrl Corta: https://bcn.cl/3qwbx\r\n\r\nSANCIONA ACUERDO DEL CONCEJO MUNICIPAL N° 3.750, DE 2012, QUE APRUEBA PLANO\r\nSECCIONAL DEL PLAN REGULADOR COMUNAL\r\nNúm. 6.440.- Lo Barnechea, 5 de diciembre de 2012.- Vistos y teniendo presente,\r\nel Acuerdo N° 3.532 del Concejo Municipal tomado en sesión ordinaria N° 735, de\r\nfecha 1 de diciembre de 2011; el decreto N° 2.759 de fecha 25 de mayo de 2012; el\r\nPlano Seccional denominado \"PS-PRCLB-01 Precisión de Trazado de Vía T35O Camino\r\nTurístico\"; certificado N° 447, del 11 de octubre de 2012, suscrito por el\r\nSecretario Abogado Municipal que certifica el cumplimiento de los trámites\r\nseñalados en el artículo 2.1.14 de la Ordenanza General de Urbanismo y\r\nConstrucciones; el ord. Alc. N° 464, de fecha 1 de junio de 2012 suscrito por el Sr.\r\nAlcalde que informa a los vecinos sobre el proceso de plano seccional; las\r\npublicaciones en el diario El Mercurio de fechas 2 y 9 de junio de 2012, que informan\r\nlugar y fecha de audiencias públicas y de la exposición del proyecto de plano\r\nseccional y fecha de término del plazo para formular observaciones; el acta de la\r\nPrimera Audiencia Pública de fecha 11 de junio de 2012; el decreto N° 2.926, de\r\nfecha 5"
+ },
+ {
+  "id": "d0388",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "785_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_eae",
+  "archivo": "lo_barnechea_785_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_eae__PUBLICACION_DIARIO_OFICIAL_11-10-19_Decreto_DAL_785_ 27-9-2019.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 18,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "normas_urbanisticas": 1,
+   "articulado": 6,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, normas_urbanisticas, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.475\r\n\r\n|\r\n\r\nViernes 11 de Octubre de 2019\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nAvisos\r\nCVE 1664390\r\n\r\nMUNICIPALIDAD DE LO BARNECHEA\r\n\r\nMunicipalidad de Lo Barnechea\r\nFundamento: Decreto DAL Nº785 de fecha 27 de septiembre de 2019 de la\r\nMunicipalidad de Lo Barnechea, que aprobó lo siguiente\r\nEXTRACTO DE INICIO DEL PROCEDIMIENTO DE EVALUACIÓN\r\nAMBIENTAL ESTRATÉGICA (EAE), DE LA ACTUALIZACIÓN DEL PLAN\r\nREGULADOR COMUNAL DE LO BARNECHEA\r\n1. ÓRGANO RESPONSABLE\r\nIlustre Municipalidad de Lo Barnechea\r\n2. RESUMEN DE ANTECEDENTES\r\nEl instrumento de planificación territorial (IPT) que se someta a Evaluación\r\nAmbiental Estratégica (EAE) corresponde a la “Actualización del Plan Regulador\r\nComunal de Lo Barnechea”.\r\nEl Proyecto de Actualización del Plan Regulador Comunal (PRC) de Lo Barnechea,\r\nsurge a partir de la necesidad de revisar, actualizar y ajustar el PRC vigente desde el año\r\n2002, específicamente en el \"Área Urbana Bajo la Cota 1.000 m.s.n.m”, con el fin de dar\r\nrespuesta a desafíos urbanos y requerimientos comunales, que se han generado debido a\r\nla obsolescencia del instrumento en algunos ámbitos normativos, que dificultan su\r\naplicación. En este contexto cabe mencionar las numerosas modificaciones que han\r\ntransformado el IPT en un instrumento reactivo que pretende solucionar problemas\r\npuntuales sin integrar "
+ },
+ {
+  "id": "d0767",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1021_promulga_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_1021_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1021, LO BARNECHEA (2006)\r\n\r\nDecreto 1021\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 25-MAY-2006 | Fecha Promulgación: 23-MAY-2006\r\nTipo Versión: Única De : 25-MAY-2006\r\nUrl Corta: https://bcn.cl/3r9m6\r\n\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL\r\nSección 1ª Núm. 1.021.- Lo Barnechea, 23 de mayo de 2006.- Visto y teniendo\r\npresente: El Acuerdo Nº 1.819 letra c) adoptado por el Concejo Municipal en sesión\r\nordinaria Nº 468 de fecha 5 de abril de 2005; el decreto Sección 1ª Nº 783 de\r\nfecha 3 de mayo de 2005, que ordena iniciar la elaboración de la modificación al\r\ninstrumento de planificación comunal; la Memoria Explicativa, Proposición de Texto\r\nAprobatorio y Plano del proyecto de modificación al Plan Regulador Comunal,\r\ndenominado \"MPRC-LB-04 Modificación usos de suelo equipamiento Circunvalación Vial;\r\npunto a.2.2) de la Zona J La Dehesa Tramo Camino Los Trapenses\"; los Ord. Alc. Nºs.\r\n564 a 566 de fecha 1 de junio de 2005, suscritos por la Sra. Alcaldesa que informan a\r\nlos vecinos sobre el proceso de modificación; las publicaciones en el diario El\r\nMercurio de fechas 28 de mayo y 4 de junio de 2005, que informan lugar y fecha de\r\naudiencias públicas y de la exposición del proyecto de modificación y fecha de\r\ntérmino del plazo para formular observaciones; el acta de la Primera Audiencia\r\nPública de fecha 6 de junio de 2005; el decreto Sección 1ª Nº 994 de fecha 26 de\r\nmayo de 2005, que cita a sesión ext"
+ },
+ {
+  "id": "d0768",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1082_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_1082_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1082, LO BARNECHEA (2006)\r\n\r\nDecreto 1082\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL DE LO\r\nBARNECHEA\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nPublicación: 15-JUN-2006 | Promulgación: 31-MAY-2006\r\nVersión: Única De : 15-JUN-2006\r\nUrl Corta: https://bcn.cl/3pmwb\r\n\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nSección 1ª Núm. 1.082.- Lo Barnechea, 31 de mayo de 2006.\r\nVisto y teniendo presente: el acuerdo Nº 1.928 adoptado por el Concejo\r\nMunicipal en sesión ordinaria Nº 485 de fecha 6 de septiembre de 2005; la Memoria\r\nExplicativa y Proposición de Texto Aprobatorio de la Modificación al Plan Regulador\r\nComunal, denominado \"MPRC-LB-05 Deroga letra c) del Artículo 19º\"; los Ord. Alc.\r\nNºs. 968 a 1.003 de fecha 26 de septiembre de 2005 suscritos por la Sra. Alcaldesa\r\nque informan a los vecinos sobre el proceso de modificación; las publicaciones en el\r\ndiario El Mercurio de fechas 24 de septiembre y 1 de octubre de 2005 que informan\r\nlugar y fecha de audiencias públicas y de la exposición del proyecto de\r\nmodificación y fecha de término del plazo para formular observaciones; el acta de\r\nla Primera Audiencia Pública de fecha 3 de octubre de 2005; el decreto sección 1ª\r\nNº 1.673 de fecha 15 de septiembre de 2005 que cita a sesión extraordinaria a los\r\nmiembros del Consejo Económico y Social; el Certificado Nº 8 de fecha 17 de enero\r\nde 2006 suscrito por el Secretario Abogado Municipal; la exposición al público\r\nentre el día 7 de octubre y el 8 de noviembre "
+ },
+ {
+  "id": "d0769",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1139_promulga_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_1139_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1139, LO BARNECHEA (2011)\r\n\r\nDecreto 1139\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 05-MAR-2011 | Fecha Promulgación: 22-FEB-2011\r\nTipo Versión: Única De : 05-MAR-2011\r\nUrl Corta: https://bcn.cl/3ms59\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nNúm. 1.139.- Lo Barnechea, 22 de febrero de 2011.- Visto y teniendo presente:\r\nEl decreto Nº 4.298 que da inicio a la elaboración del proyecto de modificación al\r\nPlan Regulador Comunal de Lo Barnechea, de fecha 26 de octubre de 2009 y el decreto\r\nNº 4.439 de fecha 4 de noviembre de 2009 que lo modifica; la Memoria Explicativa y\r\nProposición de Texto Aprobatorio de la Modificación al Plan Regulador Comunal,\r\ndenominado \"MPRC-LB-12 Título X Propaganda y Publicidad\"; certificado Nº 191 del 6\r\nde agosto de 2010 suscrito por el Secretario Abogado Municipal que certifica el\r\ncumplimiento de los trámites señalados en los incisos segundo al quinto del\r\nartículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones; el Ord. Alc.\r\nNº 537 de fecha 26 de octubre de 2009 suscrito por el Sr. Alcalde que informa a los\r\nvecinos sobre el proceso de modificación; las publicaciones en el diario El Mercurio\r\nde fechas 24 y 31 de octubre de 2009 que informan lugar y fecha de audiencias\r\npúblicas y de la exposición del proyecto de modificación y fecha de término del\r\nplazo para formular observaciones; el acta de la Primera Audiencia Pública de fecha\r\n3 de noviembre de 2009; el"
+ },
+ {
+  "id": "d0770",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1295_promulga_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_1295_promulga_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 70,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 3,
+   "ordenanza_local_txt": 5,
+   "articulado": 11,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (zonificacion, ordenanza_local_txt, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1295, LO BARNECHEA (2002)\r\n\r\nDecreto 1295\r\nPROMULGA PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 05-SEP-2002 | Fecha Promulgación: 03-SEP-2002\r\nTipo Versión: Última Versión De : 30-JUL-2018\r\nUltima Modificación: 30-JUL-2018 Decreto 537\r\nUrl Corta: https://bcn.cl/3lbvq\r\n\r\nPROMULGA PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nNúm. 1.295.- Lo Barnechea, 3 de septiembre de 2002.Vistos y Teniendo Presente:\r\n1.\r\nDecreto sección 1ª Nº123 de fecha 30 de marzo de\r\n1992, del Sr. Alcalde de Lo Barnechea, que ordena la\r\nelaboración del proyecto del nuevo Plan Regulador Comunal.\r\n2.\r\nPublicaciones en el diario El Mercurio de fechas 24 de\r\nnoviembre y 1 de diciembre de 1996, que informa lugar y\r\nfecha de exposición del proyecto de Plan Regulador Comunal\r\ny de las audiencias públicas.\r\n3.\r\nPublicación en el diario El Mercurio de fecha 19 de\r\nenero de 1997, que informa plazo máximo de entrega de\r\nobservaciones al proyecto de Plan Regulador Comunal.\r\n4.\r\nObservaciones de vecinos efectuadas en diciembre de\r\n1996 y enero de 1997.\r\n5.\r\nAcuerdos del Concejo Municipal de Lo Barnechea de\r\nfechas octubre de 1997 a agosto de 1999.\r\n6.\r\nRespuestas de la Directora de Planificación de Lo\r\nBarnechea a vecinos de fecha 23 de agosto de 1999.\r\n7.\r\nDecreto sección 1ª Nº927 de fecha 28 de septiembre\r\nde 2000 que aprueba proyecto Plan Regulador Comunal y ordena\r\nremitirlo a la Secretaría Ministerial Metropolitana de\r\nVivienda y Urbanismo.\r\n8.\r\nOficio ord. Nº541 d"
+ },
+ {
+  "id": "d0771",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1396_promulga_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_1396_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1396, LO BARNECHEA (2006)\r\n\r\nDecreto 1396\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 05-AGO-2006 | Fecha Promulgación: 27-JUL-2006\r\nTipo Versión: Única De : 05-AGO-2006\r\nUrl Corta: https://bcn.cl/3rrto\r\n\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL\r\nSección 1ª Núm. 1.396.- Lo Barnechea, 27 de julio de 2006.- Vistos y teniendo\r\npresente: los Acuerdos Nºs 1.716 y 1.884 adoptados por el Concejo Municipal en\r\nsesiones ordinarias Nº 452 de fecha 21 de septiembre de 2004 y Nº 477 de fecha 5 de\r\njulio de 2005, respectivamente; la Memoria Explicativa y Proposición de Texto\r\nAprobatorio de la Modificación al Plan Regulador Comunal, denominado \"MPRC-LB-06\r\nIncorporación de actividades a los usos de suelo permitidos\"; los Ord. Alc. Nºs 968\r\na 1.003 de fecha 26 de septiembre de 2005 suscritos por la Sra. Alcaldesa que\r\ninforman a los vecinos sobre el proceso de modificación; las publicaciones en el\r\ndiario El Mercurio de fechas 24 de septiembre y 1 octubre de 2005 que informan lugar\r\ny fecha de audiencias públicas y de la exposición del proyecto de modificación y\r\nfecha de término del plazo para formular observaciones; el acta de la Primera\r\nAudiencia Pública de fecha 3 de octubre de 2005; el decreto Sección 1ª Nº 1.673\r\nde fecha 15 de septiembre de 2005 que cita a sesión extraordinaria a los miembros\r\ndel Consejo Económico y Social; el certificado Nº 60 de fecha 11 de mayo de 2006\r\nsuscrito por el Secretario Abogado Mu"
+ },
+ {
+  "id": "d0772",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1544_modifica_ordenanza_del_plan_regulador_decreto_seccion_1a_no_1295_de_2002",
+  "archivo": "lo_barnechea_1544_modifica_ordenanza_del_plan_regulador_decreto_seccion_1a_no_1295_de_2002__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1544, LO BARNECHEA (2003)\r\n\r\nDecreto 1544; Decreto 1544-03\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR DECRETO SECCION 1ª Nº\r\n1.295, DE 2002\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 22-OCT-2003 | Fecha Promulgación: 15-OCT-2003\r\nTipo Versión: Última Versión De : 21-JUN-2005\r\nUltima Modificación: 21-JUN-2005 Decreto 1091\r\nUrl Corta: https://bcn.cl/3sdme\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR DECRETO SECCION 1ª\r\nNº 1.295, DE 2002\r\nSección 1ª Núm. 1.544/03.- Lo Barnechea, 15 de\r\noctubre de 2003.- Visto y teniendo presente: El acuerdo\r\nNº1.385 adoptado en el Concejo Municipal en sesión\r\nordinaria Nº 393 de fecha 7 de enero de 2003; el acuerdo\r\nNº 1.409 adoptado en el Concejo Municipal en sesión\r\nordinaria Nº 400 de fecha 25 de marzo de 2003; la memoria\r\nexplicativa, Proposición de Texto Resolutivo y Declaración\r\nde Impacto Ambiental del Proyecto EPRC-01 \"Diversas\r\nEnmiendas al PRC\", comuna de Lo Barnechea; el decreto\r\nsección 1ª Nº 664 de fecha 21 de abril de 2003 que fija\r\nfechas de publicación de los avisos en conformidad al\r\nartículo 2.1.13 de OGUC; las publicaciones en el diario El\r\nMercurio de fechas 22, 25 de abril y 2 de mayo de 2003,\r\nrespectivamente, que informan lugar y fecha de audiencias\r\npúblicas, exposición del Proyecto de Enmienda al PRC y\r\nfecha de término del plazo para formular observaciones; las\r\ncartas certificadas enviadas a las Juntas de Vecinos de la\r\nZona J y a los miembros del Consejo Económico y Social de\r\nfechas 23 de abril de 2003 y 20 d"
+ },
+ {
+  "id": "d0773",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1546_promulga_modificacion_no1_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_1546_promulga_modificacion_no1_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1546, LO BARNECHEA (2004)\r\n\r\nDecreto 1546\r\nPROMULGA MODIFICACION Nº1 AL PLAN REGULADOR COMUNAL DE LO\r\nBARNECHEA\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nPublicación: 25-NOV-2004 | Promulgación: 09-NOV-2004\r\nVersión: Única De : 25-NOV-2004\r\nUrl Corta: https://bcn.cl/3m6k4\r\n\r\nPROMULGA MODIFICACION Nº1 AL PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nSección 1ª.- Núm. 1.546 Lo Barnechea, 9 de noviembre de 2004.- Visto y\r\nTeniendo Presente: el Acuerdo Nº 1.499 adoptado en el Concejo Municipal en sesión\r\nextraordinaria Nº 113 de fecha 4 de noviembre de 2003; la Memoria Explicativa y\r\nProposición de Texto Resolutivo del expediente de modificación denominado\r\nMPRC-LB-01 \"Disminución ancho vía C38O Camino El Huinganal-Dos Poniente, tramo\r\nentre Vía Panorámica y Comandante Malbec\" y el plano MPRC-LB-01; los 33 oficios\r\nsuscritos por la Alcaldesa que informan a los vecinos sobre el proceso de\r\nmodificación; los 22 oficios suscritos por la Alcaldesa que citan al Consejo\r\nEconómico y Social; las publicaciones en el diario El Mercurio de fechas 22 y 29 de\r\nnoviembre de 2003 que informan lugar y fecha de audiencias públicas y de la\r\nexposición del proyecto de modificación y fecha de término del plazo para formular\r\nobservaciones; el acta de la Primera Audiencia Pública de fecha 1 de diciembre de\r\n2003; la exposición al público entre el día 2 de diciembre de 2003 y 8 de enero de\r\n2004; el acta de la Segunda Audiencia Pública de fecha 9 de enero de 2004; el\r\nCertificado Nº121 de fecha 16 de agosto "
+ },
+ {
+  "id": "d0774",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1583_promulga_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_1583_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2285, LO BARNECHEA (2011)\r\n\r\nDecreto 2285\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE LO\r\nBARNECHEA\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 06-MAY-2011 | Fecha Promulgación: 28-ABR-2011\r\nTipo Versión: Única De : 06-MAY-2011\r\nUrl Corta: https://bcn.cl/3phn7\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nNúm. 2.285.- Lo Barnechea, 28 de abril de 2011.- Visto y teniendo presente: El\r\ndecreto Nº 4.298 que da inicio a la elaboración del proyecto de modificación al\r\nPlan Regulador Comunal de Lo Barnechea, de fecha 26 de octubre de 2009 y el decreto\r\nNº 4.439 de fecha 4 de noviembre de 2009 que lo modifica; la Memoria Explicativa y\r\nProposición de Texto Aprobatorio de la Modificación al Plan Regulador Comunal,\r\ndenominado \"MPRC-LB-14 Modificación usos de suelo permitidos en los Cerros Isla\";\r\ncertificado Nº 126 del 12 de mayo de 2010 suscrito por el Secretario Abogado\r\nMunicipal que certifica el cumplimiento de los trámites señalados en los incisos\r\nsegundo al quinto del artículo 2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones; el Ord. Alc. Nº 537 de fecha 26 de octubre de 2009 suscrito por el\r\nSr. Alcalde que informa a los vecinos sobre el proceso de modificación; las\r\npublicaciones en el diario El Mercurio de fechas 24 y 31 de octubre de 2009 que\r\ninforman lugar y fecha de audiencias públicas y de la exposición del proyecto de\r\nmodificación y fecha de término del plazo para formular observaciones; el acta de\r\nla Primera"
+ },
+ {
+  "id": "d0775",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1651_promulga_aprobacion_de_modificacion_no2_al_plan_regulador_comunal_de_lo_bar",
+  "archivo": "lo_barnechea_1651_promulga_aprobacion_de_modificacion_no2_al_plan_regulador_comunal_de_lo_bar__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 2,
+   "predial_minima": 3,
+   "altura_maxima": 3,
+   "agrupamiento": 2,
+   "antejardin": 4,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 2,
+   "articulado": 24
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 11 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1651, LO BARNECHEA (2004)\r\n\r\nDecreto 1651\r\nPROMULGA APROBACION DE MODIFICACION Nº2 AL PLAN REGULADOR\r\nCOMUNAL DE LO BARNECHEA\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nPublicación: 18-DIC-2004 | Promulgación: 01-DIC-2004\r\nVersión: Única De : 18-DIC-2004\r\nUrl Corta: https://bcn.cl/3p6mz\r\n\r\nPROMULGA APROBACION DE MODIFICACION Nº2 AL PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nSección 1ª Núm. 1.651.- Lo Barnechea, 1 de diciembre de 2004.- Visto y\r\nteniendo presente: los acuerdos Nos 1.500 al 1.526 y 1.530 al 1.540, adoptados por el\r\nConcejo Municipal en sesiones extraordinaria y ordinaria Nos 113 y 422 de fechas 4 y\r\n18 de noviembre de 2003, respectivamente; la memoria explicativa y proposición de\r\ntexto resolutivo del expediente de modificación denominado MPRC-LB-02 \"Diversas\r\nModificaciones al PRC, comuna de Lo Barnechea\" y el plano MPRC-LB-02; los 33 oficios\r\nsuscritos por la Alcaldesa que informan a los vecinos sobre el proceso de\r\nmodificación; los 22 oficios suscritos por la Alcaldesa que citan al Consejo\r\nEconómico y Social; las publicaciones en el diario El Mercurio de fechas 22 y 29 de\r\nnoviembre de 2003 que informan lugar y fecha de audiencias públicas y de la\r\nexposición del proyecto de modificación y fecha de término del plazo para formular\r\nobservaciones; el acta de la Primera Audiencia Pública de fecha 1 de diciembre de\r\n2003; la exposición al público entre el día 2 de diciembre de 2003 y 8 de enero de\r\n2004; el acta de la Segunda Audiencia Pública de fecha 9 de enero de"
+ },
+ {
+  "id": "d0776",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "3985_modifica_plan_regulador_comunal",
+  "archivo": "lo_barnechea_3985_modifica_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3985, LO BARNECHEA (2009)\r\n\r\nDecreto 3985\r\nMODIFICA PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nPublicación: 14-OCT-2009 | Promulgación: 02-OCT-2009\r\nVersión: Última Versión De : 09-NOV-2009\r\nUltima Modificación: 09-NOV-2009 Decreto 4397\r\nUrl Corta: https://bcn.cl/3m37b\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL\r\nNúm. 3.985.- Lo Barnechea, 2 de octubre de 2009.Visto y teniendo presente: El decreto sección 1ª Nº\r\n1.320, de fecha 27 de junio de 2008; la Memoria Explicativa\r\ny Proposición de Texto Aprobatorio de la Modificación al\r\nPlan Regulador Comunal, denominado \"MPRC-LB-11 artículos 34\r\ny 35 del PRC de Lo Barnechea\"; certificado Nº 209, del 7 de\r\njulio de 2009, suscrito por el Secretario Abogado Municipal\r\n(S), que certifica el cumplimiento de los trámites\r\nseñalados en los incisos segundo al quinto del artículo\r\n2.1.11 de la Ordenanza General de Urbanismo y\r\nConstrucciones; el Ord. Alc. Nº 418, de fecha 4 de julio de\r\n2008, suscrito por la Sra. Alcaldesa, que informa a los\r\nvecinos sobre el proceso de modificación; las publicaciones\r\nen el diario El Mercurio de fechas 5 y 12 de julio de 2008,\r\nque informan lugar y fecha de audiencias públicas y de la\r\nexposición del proyecto de modificación y fecha de\r\ntérmino del plazo para formular observaciones; el acta de\r\nasistencia a la Primera Audiencia Pública de fecha 14 de\r\njulio de 2008; los oficios Secplan Nºs. 19 al 39 de fecha 4\r\nde julio de 2008; el decreto sección 1ª Nº 1.625, de\r\nfecha 29 de julio de 2008, y el "
+ },
+ {
+  "id": "d0777",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "537_promulga_modificacion_n_9_al_plan_regulador_comunal_de_lo_barnechea_sector_c",
+  "archivo": "lo_barnechea_537_promulga_modificacion_n_9_al_plan_regulador_comunal_de_lo_barnechea_sector_c__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 34,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "zonificacion": 8,
+   "ordenanza_local_txt": 2,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 537, LO BARNECHEA (2018)\r\n\r\nDecreto 537\r\nPROMULGA MODIFICACIÓN N° 9 AL PLAN REGULADOR COMUNAL DE LO\r\nBARNECHEA, SECTOR CENTRO CORDILLERA (FARELLONES, LA PARVA, EL\r\nCOLORADO Y VALLE NEVADO)\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 30-JUL-2018 | Fecha Promulgación: 13-JUL-2018\r\nTipo Versión: Única De : 30-JUL-2018\r\nUrl Corta: https://bcn.cl/3lqfe\r\n\r\nPROMULGA MODIFICACIÓN N° 9 AL PLAN REGULADOR COMUNAL DE LO BARNECHEA, SECTOR CENTRO\r\nCORDILLERA (FARELLONES, LA PARVA, EL COLORADO Y VALLE NEVADO)\r\nNúm. 537.- Lo Barnechea, 13 de julio de 2018.\r\nVistos:\r\nLo dispuesto por la Ley N° 19.300 sobre Bases Generales de Medio Ambiente y sus\r\nmodificaciones posteriores; lo establecido en los artículos 43° y 45° de la Ley\r\nGeneral de Urbanismo y Construcciones y en el artículo 2.1.11 de su Ordenanza\r\nGeneral; y en uso de las facultades que me confieren los artículos 56 y 63, letra i)\r\nde la Ley N° 18.695 Orgánica Constitucional de Municipalidades.\r\nTeniendo presente:\r\n1.\r\nCertificado N° 74/2016 suscrito por el Secretario Municipal de Lo Barnechea,\r\nque da cuenta delAcuerdo N° 1485 adoptado por el Concejo Municipal en Sesión\r\nOrdinaria N° 417 de fecha 30 deseptiembre de 2003, que aprueba la contratación de\r\nlos estudios y proyectos para la elaboracióndel Plan Regulador Comunal de Lo\r\nBarnechea, correspondiente al Sector Centro Cordillera.\r\n2.\r\nAcuerdo N° 1756 del Concejo Municipal tomado en Sesión Ordinaria N° 459 de\r\nfecha 30 denoviembre de 2004, que aprueba iniciar el proce"
+ },
+ {
+  "id": "d0778",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "649_promulga_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_649_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 649, LO BARNECHEA (2006)\r\n\r\nDecreto 649\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nPublicación: 04-ABR-2006 | Promulgación: 24-MAR-2006\r\nVersión: Única De : 04-ABR-2006\r\nUrl Corta: https://bcn.cl/3py91\r\n\r\nPROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL\r\nSección 1ª Núm. 649.- Lo Barnechea, 24 de marzo de 2006.- Visto y teniendo\r\npresente: los Acuerdos Nº 1.711 y Nº1.715, adoptados por el Concejo Municipal en\r\nsesión ordinaria Nº 452 de fecha 21 de septiembre de 2004; la Memoria Explicativa y\r\nProposición de Texto Resolutivo del proyecto de Modificación al Plan Regulador\r\nComunal denominado \"MPRC-LB-03 modificación artículo 11º Red Vial Local:\r\nDisminución ancho de vías L13, L19, L25, L26 y L29\"; los Ord. Alc. Nºs. 862 a 868\r\nde fecha 10 de noviembre de 2004, suscritos por la Sra. Alcaldesa que informan a los\r\nvecinos sobre el proceso de modificación; las publicaciones en el diario El Mercurio\r\nde fechas 11 y 18 de noviembre de 2004 que informan lugar y fecha de audiencias\r\npúblicas y de la exposición del proyecto de enmienda y fecha de término del plazo\r\npara formular observaciones; el acta de la Primera Audiencia Pública de fecha 22 de\r\nnoviembre de 2004, el decreto sección 1ª Nº1.549 de fecha 10 de noviembre de 2004\r\nque cita a sesión extraordinaria a los miembros del Consejo Económico y Social; el\r\nCertificado Nº 7 de fecha 9 de febrero de 2005, suscrito por el Secretario Abogado\r\nMunicipal; la exposición al público entre el día"
+ },
+ {
+  "id": "d0779",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "821_modifica_plan_regulador_comunal",
+  "archivo": "lo_barnechea_821_modifica_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 1,
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 6,
+   "ordenanza_local_txt": 1,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 821, LO BARNECHEA (2013)\r\n\r\nDecreto 821; Decreto 821/13\r\nMODIFICA PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 22-FEB-2013 | Fecha Promulgación: 14-FEB-2013\r\nTipo Versión: Única De : 22-FEB-2013\r\nUrl Corta: https://bcn.cl/3mdkr\r\n\r\nMODIFICA PLAN REGULADOR COMUNAL\r\nNúm. 821/13.- Lo Barnechea, 14 de febrero de 2013.- Vistos y teniendo presente,\r\nlos acuerdos Nº 3.533 y Nº 3.650 del Concejo Municipal tomados en sesiones\r\nordinarias Nº 735, de fecha 1 de diciembre de 2011, y Nº 751, de fecha 17 de mayo\r\nde 2012, respectivamente; el decreto Nº 2.760, de fecha 25 de mayo de 2012, que de\r\nconformidad a los artículos 7º bis y 7º quáter, de la Ley Nº 19.300, Bases sobre\r\nel Medio Ambiente, se sometió el proyecto a la Evaluación Ambiental Estratégica,\r\nsiendo convocados los siguientes Órganos de la Administración del Estado:\r\nSecretaría Ministerial Metropolitana de Vivienda y Urbanismo, Secretaría\r\nMinisterial Metropolitana de Transportes y Telecomunicaciones, Ministerio del Medio\r\nAmbiente y su Secretaría Regional Metropolitana; los Ord. Alc. Nos 495 y 496 del 15\r\nde junio de 2012; el Ord. Alc. Nº 500 de fecha 15 de junio de 2012, que remite el\r\nInforme Ambiental para su pronunciamiento al Ministerio del Medio Ambiente; el Ord.\r\nNº 122698 de fecha 3 de agosto de 2012, del Ministerio del Medio Ambiente; la\r\nMemoria Explicativa, Texto Aprobatorio, Informe Ambiental y Plano de la Modificación\r\nal Plan Regulador Comunal, denominada \"MPRC-LB-18 Incorpora"
+ },
+ {
+  "id": "d0780",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "970_aprobacion_actualizacion_del_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_970_aprobacion_actualizacion_del_plan_regulador_comunal_de_lo_barnechea__actualizacion del  Plan Regulador de la Comuna de Lo Barnechea_.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZUS"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.288\r\n\r\n|\r\n\r\nJueves 30 de Octubre de 2025\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 2715215\r\n\r\nMUNICIPALIDAD DE LO BARNECHEA\r\n\r\nAPROBACIÓN ACTUALIZACIÓN DEL PLAN REGULADOR COMUNAL DE LO\r\nBARNECHEA\r\n(Extracto)\r\nLa Municipalidad de Lo Barnechea informa que, mediante decreto alcaldicio Nº 970/2025,\r\nde fecha 9 octubre 2025, fue promulgada la Actualización del Plan Regulador Comunal de Lo\r\nBarnechea, que será publicada en el sitio web municipal con fecha 30 de octubre de 2025,\r\nentrando en vigencia sus normas esa misma fecha 30 de octubre 2025, según dispone el artículo\r\n28 septies de la Ley General de Urbanismo y Construcciones y el artículo 2.1.4. de su Ordenanza\r\nGeneral.\r\nToda la documentación que forma parte de la Actualización del Plan Regulador Comunal de\r\nLo Barnechea cuenta con Informe Técnico Favorable de la Secretaría Regional Ministerial\r\nMetropolitana de Vivienda y Urbanismo, emitido a través del Ord. Nº 2613 de fecha 25 de\r\nseptiembre 2025 y Ord. Nº 2650, de fecha 26 de septiembre de 2025.\r\nLos antecedentes técnicos que forman parte de la Actualización del Plan Regulador\r\nComunal de Lo Barnechea se encuentran disponibles en el sitio electrónico www.lobarnechea.cl,\r\nsegún el siguiente detalle:\r\n1. Informe Ambiental.\r\n2. Resumen Ejecutivo.\r\n3. Ordenanza Local.\r\n4. Memoria Explicativa y sus anexos:\r\n• Anexo: E"
+ },
+ {
+  "id": "d0781",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "979_promulga_modificacion_no_27_vialidades_uno_oriente_y_uno_poniente_al_plan_re",
+  "archivo": "lo_barnechea_979_promulga_modificacion_no_27_vialidades_uno_oriente_y_uno_poniente_al_plan_re__PUBLICACION_DO_17-12-2019_DECRETO_979_29-11-19.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 2,
+   "articulado": 8
+  },
+  "senales_tramite": {
+   "txt_inicio": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.530\r\n\r\n|\r\n\r\nMartes 17 de Diciembre de 2019\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 1696911\r\n\r\nMUNICIPALIDAD DE LO BARNECHEA\r\n\r\nPROMULGA MODIFICACIÓN Nº 27 VIALIDADES UNO ORIENTE Y UNO\r\nPONIENTE, AL PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nNúm. 979.- Lo Barnechea, 29 de noviembre de 2019.\r\nVistos:\r\nLo dispuesto por la Ley Nº 19.300 sobre Bases Generales del Medio Ambiente y sus\r\nmodificaciones posteriores; lo establecido en los artículos 43º y 45º de la Ley General de\r\nUrbanismo y Construcciones y en el artículo 2.1.11 de su Ordenanza General; y en uso de las\r\nfacultades que me confieren los artículos 56 y 63, letra i) de la Ley Nº 18.695 Orgánica\r\nConstitucional de Municipalidades,\r\nTeniendo presente:\r\n1. Acta de Acuerdos adoptados en la Sesión Ordinaria Nº 974, suscrito por el Secretario\r\nMunicipal, que da cuenta del Acuerdo Nº 5416 adoptado por el Concejo Municipal en Sesión\r\nOrdinaria, de fecha 21 de junio de 2018, que aprueba por unanimidad el inicio del Estudio de\r\nModificación al Plan Regulador Comunal de Lo Barnechea, en el sentido de suprimir la apertura\r\ny ensanche proyectados para las calles Uno Oriente (L-30) y Uno Poniente (L-31), eliminándose\r\nla declaratoria de utilidad pública que afecta a los respectivos predios, a los cuales les será\r\nasignada norma de la zona adyacente a estos,"
+ },
+ {
+  "id": "d0782",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "996_exento_decreto_99605_exento_modifica_ordenanza_del_plan_regulador_comunal",
+  "archivo": "lo_barnechea_996_exento_decreto_99605_exento_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 996 EXENTO, LO BARNECHEA (2005)\r\n\r\nDecreto 996 EXENTO; Decreto 996/05\r\nEXENTO\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 02-JUN-2005 | Fecha Promulgación: 26-MAY-2005\r\nTipo Versión: Única De : 02-JUN-2005\r\nUrl Corta: https://bcn.cl/3orcz\r\n\r\nMODIFICA ORDENANZA DEL PLAN REGULADOR COMUNAL\r\nSección 1ª Núm. 996/05 exento.- Lo Barnechea, 26 de mayo de 2005.- Visto y\r\nteniendo presente: los acuerdos Nº 1718 y Nº 1731 adoptados por el Concejo\r\nMunicipal en sesión ordinaria Nº 453 de fecha 28 de septiembre de 2004 y Nº 455 de\r\nfecha 12 de octubre de 2004, respectivamente; la Memoria Explicativa y Proposición\r\nde Texto Resolutivo del proyecto de Enmienda al Plan Regulador comunal denominado\r\n\"EPRC-LB-03 Enmienda a la altura de la Zona O Parque Praguer\"; los Ord. Alc. Nº 5 y\r\nNº 7 de fecha 7 de enero de 2005 suscritos por la Sra. Alcaldesa que informan a los\r\nvecinos sobre el proceso de enmienda; las publicaciones en el diario El Mercurio de\r\nfechas 11 y 18 de enero de 2005 que informan lugar y fecha de audiencias públicas y\r\nde la exposición del proyecto de enmienda y fecha de término del plazo para\r\nformular observaciones; el acta de la primera audiencia pública de fecha 19 de enero\r\nde 2005; el decreto sección 1ª Nº 11 de fecha 7 de enero de 2005 que cita a\r\nsesión extraordinaria a los miembros del Consejo Económico y Social; el certificado\r\nNº 8 de fecha 9 de febrero de 2005 suscrito por el Secretario Abogado Municipal; "
+ },
+ {
+  "id": "d0783",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "998_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_998_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 998, LO BARNECHEA (2010)\r\n\r\nDecreto 998; Decreto 998/10\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE LO\r\nBARNECHEA\r\nMUNICIPALIDAD DE LO BARNECHEA\r\nFecha Publicación: 09-FEB-2010 | Fecha Promulgación: 04-FEB-2010\r\nTipo Versión: Única De : 09-FEB-2010\r\nUrl Corta: https://bcn.cl/3m76g\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE LO BARNECHEA\r\nNúm. 998/10.- Lo Barnechea, 4 de febrero de 2010.- Teniendo presente: El\r\ndecreto Sección 1ª Nº 1.320 de fecha 27 de junio de 2008; la Memoria Explicativa y\r\nProposición de Texto Aprobatorio de la Modificación al Plan Regulador Comunal,\r\ndenominado \"MPRC-LB-10 Actualización de la Vialidad Estructurante Comunal de Lo\r\nBarnechea\"; Certificado Nº 385 del 21 de diciembre de 2009 suscrito por el\r\nSecretario Abogado Municipal que certifica el cumplimiento de los trámites\r\nseñalados en los incisos segundo al quinto del artículo 2.1.11 de la Ordenanza\r\nGeneral de Urbanismo y Construcciones; el Ord. Alc. Nº 418 de fecha 4 de julio de\r\n2008 suscrito por la Sra. Alcaldesa que informa a los vecinos sobre el proceso de\r\nmodificación; las publicaciones en el diario El Mercurio de fechas 5 y 12 de julio\r\nde 2008 que informan lugar y fecha de audiencias públicas y de la exposición del\r\nproyecto de modificación y fecha de término del plazo para formular observaciones;\r\nel acta de la Primera Audiencia Pública de fecha 14 de julio de 2008; los Oficios\r\nSecplan Nºs. 19 al 39 de fecha 4 de julio de 2008; el decreto Sección 1ª Nº 1.625\r\nd"
+ },
+ {
+  "id": "d1156",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "1295_ordenanza_municipal",
+  "archivo": "lo_barnechea_1295_ordenanza_municipal__Texto_refundido_y_sistematizado_Ordenanza_PRCLB_29.mayo.2015.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 76,
+  "paginas_escaneadas": 76,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1157",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "314_promulguese_la_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_314_promulguese_la_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_26_01_13.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 26 de Enero de 2013\r\n\r\nCuerpo I - 16\r\n\r\n5. Desaprobar las cuotas del siguiente fondo mutuo extranjero, debido a que no\r\ncuenta con activos por un monto igual o superior a los US$ 100 millones:\r\n\r\n6. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, debido a que\r\nfueron absorbidos:\r\n\r\n7. Se rectifica Acuerdo publicado el 22 de diciembre de 2012, en el siguiente\r\nsentido: En la letra B. EMISORES EXTRANJEROS, punto 8., en País de\r\nregistro donde dice Luxemburgo, debe decir Estados Unidos.\r\n8. Asimismo, la Comisión tomó nota de los cambios de nombre experimentados\r\npor distintos emisores extranjeros con instrumentos aprobados, los cuales se\r\nindividualizan en su sitio web: www.ccr.cl.\r\nC.\r\n\r\nMANTENER ACUERDO VIGENTE SOBRE INSTRUMENTOS DE\r\nOFERTA PÚBLICA\r\nEn lo no modificado por las letras A y B anteriores, la Comisión mantuvo el\r\nAcuerdo vigente relativo a instrumentos financieros de oferta pública adoptado en su 364ª reunión ordinaria, celebrada el 20 de diciembre de 2012, y\r\npublicado en el Diario Oficial el 22 de diciembre de 2012.\r\n\r\nEl presente acuerdo deberá ser considerado para el efecto de determinar la\r\ndiversificación de las inversiones que se realicen con los recursos de los Fondos de\r\nPensiones, según el D.L. Nº 3.500 de 1980.\r\nSantiago, 24 de enero de 2013.- Alejandro Muñoz Valdés, Secretario.\r\nPublicación disponible en el sitio web de la Comisión Clasificadora de Riesgo:\r\nhttp://www.ccr.cl.\r\n\r\nMunicipa"
+ },
+ {
+  "id": "d1158",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "3979_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_3979_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_14-07-15_MPRC-LB-21_DECRETO_3979_09_07_2015.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

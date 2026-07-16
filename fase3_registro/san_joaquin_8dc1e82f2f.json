@@ -1,0 +1,25 @@
+{
+  "id": "san_joaquin_8dc1e82f2f",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_788_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_plan_re__DO13_06_2014.pdf",
+  "nombre": "san_joaquin_788_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_plan_re__DO13_06_2014.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:52:38",
+  "fin": "2026-07-15T12:54:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N40.881, 13-jun-2014, 2 pags. Decreto Secc 1a N788, 14-may-2014, San Joaquin, APRUEBA MODIFICACION AL PLAN REGULADOR COMUNAL 'Modificacion Zona Z-2.A'. Pag2 (Cuerpo I-12): agrega antejardin maximo 3.00m en cierros exteriores, elimina exigencia antejardin para equipamiento clases social/deportivo en zona Z-2.A, y reemplaza tabla completa 'ZONA Z-2.A RESIDENCIAL CON DENSIFICACION': usos permitidos/prohibidos, superficie predial minima 300m2, coef ocupacion suelo 1.72(vivienda)/1.60(comercio)/1.50%(equipamiento), coef constructibilidad 2.4/2.2, sistema agrupamiento aislada o pareada, altura segun art.2.6.3 OGUC, densidad bruta 150-900 hab/ha. Verificado visualmente paginas 1-2 de 2."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_cc7876c0a9",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_barnechea_5794_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_DTO-5794_03-OCT-2015_APRUEBA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_MPRC-LB-22.pdf",
+  "nombre": "lo_barnechea_5794_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_DTO-5794_03-OCT-2015_APRUEBA_MODIFICACION_AL_PLAN_REGULADOR_COMUNAL_MPRC-LB-22.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:56:24",
+  "fin": "2026-07-15T07:58:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.5794/2015 (DO edicion completa con contenido ajeno mezclado -SEC guatero electrico, Quintero, Doñihue-) MPRC-LB-22: solo corrige el POLIGONO catastral de un establecimiento educacional (N.VIII) en la Zona E 'Equipamiento Educacional', cambiando la secuencia de vertices 'donde dice 36-37...46-39 debe decir 36-37...43-36'. Es correccion de deslinde/vertices, no parametro normativo (sin COS/CC/altura/usos)."
+  }
+}

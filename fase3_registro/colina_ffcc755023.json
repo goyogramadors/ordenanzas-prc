@@ -1,0 +1,20 @@
+{
+  "id": "colina_ffcc755023",
+  "comuna": "colina",
+  "ruta": "Ordenanzas Descargadas\\1-600\\colina_e_62114_promulga_acuerdo_n_30_de_2014_y_aprueba_enmiendas_al_plan_regulador_de_c__Exportar.pdf",
+  "nombre": "colina_e_62114_promulga_acuerdo_n_30_de_2014_y_aprueba_enmiendas_al_plan_regulador_de_c__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:32:38",
+  "fin": "2026-07-14T15:33:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto E-621/2014 promulga Acuerdo 30 que 'aprueba enmiendas al PRC Colina Zona A2' pero NO transcribe ninguna norma: solo delimita geograficamente el area (calle Alpatacal / Pedro Aguirre Cerda / Pasaje Oriente / Pasaje 1 Sur). Sin cuadro ni valores. El contenido normativo de la enmienda NO esta en este PDF. Verificado texto 2/2 + render p2 (casi vacia)."
+  }
+}

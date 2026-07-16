@@ -1,0 +1,20 @@
+{
+  "id": "lautaro_b43d030e9f",
+  "comuna": "lautaro",
+  "ruta": "Ordenanzas ordenadas\\lautaro_decreto_1266_instruye_dar_inicio_a_la_tramitacion_del_proyecto_enmienda_plan_reg__1266.pdf",
+  "nombre": "lautaro_decreto_1266_instruye_dar_inicio_a_la_tramitacion_del_proyecto_enmienda_plan_reg__1266.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:34:23",
+  "fin": "2026-07-15T08:36:00",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Adm N1266/2017: instruye dar inicio a la tramitacion de la Enmienda al PRC de Lautaro. Solo inicia el procedimiento, no contiene cuadro de normas (la norma final quedo en decreto 3385, ya registrado como lautaro_15f6fd39f5)."
+  }
+}

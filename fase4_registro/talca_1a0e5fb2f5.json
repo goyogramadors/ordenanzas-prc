@@ -1,0 +1,32 @@
+{
+  "id": "talca_1a0e5fb2f5",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talca_3_aprueba_modificacion_a_ordenanza_local_del_plan_regulador_de_talca_en_el_senti__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      3
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Resolucion 3/1993 Talca, modificacion a la Ordenanza Local: normas EN PROSA (sin cuadro), afecta varios articulos y zonas. art.11: casetas de porteria en antejardin permitidas en Z-5, Z-6, ZE-I. art.14: estacionamiento supermercados/centros comerciales 1 cada 40 m2. art.21: cuerpos salientes hasta 1,80 m sobre 3 m altura en vias >15 m. art.24: predial minimo 2.500 m2 para viviendas economicas en Area Consolidada y ZE-1. Zona Z-1 (sistema agrupamiento por colindancia), Z-2 (agrupamiento y antejardin condicionados), Z-3 (agrupamiento continuo hasta 40% deslinde, antejardin), Z-4 (agrupamiento, antejardin obligatorio/optativo segun predio), ZE-3 (sin densidad neta maxima determinada). art.27: ancho Avda. Colon 50 m (vialidad, no cuenta).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:23:20",
+  "fin": "2026-07-16T08:29:12",
+  "resultado": {
+    "archivo": "extraccion_normas\\talca\\talca_3_modificacion_ordenanza_zonas_z1z6_ze1ze3_pag1-3.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "ZE-3"
+    ],
+    "confianza": "ALTA",
+    "nota": "5 zonas con modificacion de sistema de agrupamiento y antejardin en prosa, mas ZE-3 (densidad maxima neta no determinada). Normas generales (art.11 caseta porteria, art.14 estacionamiento 1/40m2, art.21 cuerpos salientes, art.24 predial 2500m2 vivienda economica, art.27 ancho via) tambien transcritas. Coincide con nota_fase3."
+  }
+}

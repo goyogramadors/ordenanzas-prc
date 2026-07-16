@@ -1,0 +1,20 @@
+{
+  "id": "porvenir_3853003d6b",
+  "comuna": "porvenir",
+  "ruta": "Ordenanzas ordenadas\\porvenir_decreto_alcaldicio_1275_autoriza_adquisicion_de_servicio_de_publicacion_de_la_im__1275_29-11-2021.pdf",
+  "nombre": "porvenir_decreto_alcaldicio_1275_autoriza_adquisicion_de_servicio_de_publicacion_de_la_im__1275_29-11-2021.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:10:49",
+  "fin": "2026-07-15T12:13:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 1275, 29-nov-2021, Porvenir, 1 pag. Autoriza trato directo para adquirir servicio de publicacion en medio escrito (La Prensa Austral, 119.000 IVA incl) de la imagen objetivo del Plan Regulador Comunal. Decreto administrativo de compra/publicidad, no transcribe norma urbanistica alguna. Verificado visualmente pagina unica."
+  }
+}

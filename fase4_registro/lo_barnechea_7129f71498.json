@@ -1,0 +1,29 @@
+{
+  "id": "lo_barnechea_7129f71498",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_821_modifica_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      6
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.821/2013 modifica PRC Lo Barnechea, incorpora Zona L 'Circunvalacion Vial' (MPRC-LB-18) y Sub-zona L1 'Densificacion Circunvalacion Vial'. TRAMPA CONFIRMADA: p4 imagen (cuadro Equipamiento clase/actividad); p5 IMAGEN con tablas completas de valores: Zona L predial min 900m2, antejardin 5m/5m, COS 0,35/0,6, CC 0,42/1,0, aislado, altura 10,5m(2p)/20m(5pisos) o 10,5m/10,5m segun superficie predio, densidad bruta max 43 h/h, rasante/distanciamiento 70-45 grados; Sub-zona L1 predial min 2.500m2 (tabla de edificacion continua en p6). Verificado por render p4-5.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:21:00",
+  "fin": "2026-07-15T23:24:36",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_821_zona_l_circunvalacion_l1_pag4-6.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "L",
+      "L1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa MIXTO confirmada (p4-5 imagen). Zona L: predial 900m2, antejardin 5m ambos usos, COS 0,35/0,6, CC 0,42/1,0, aislada, altura 10,5m/20m o 10,5m, densidad 43h/h residencial, rasante 70/45-60 grados. Sub-zona L1: predial 2500m2, antejardin 5m, COS 0,3, CC 1,5, altura 14m(4p), densidad 260h/h, equipamiento explicitamente prohibido. Coincide con nota_fase3."
+  }
+}

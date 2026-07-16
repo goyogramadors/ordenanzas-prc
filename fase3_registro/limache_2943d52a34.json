@@ -1,0 +1,20 @@
+{
+  "id": "limache_2943d52a34",
+  "comuna": "limache",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\limache_decreto_alcaldicio_2398_autoriza_la_contratacion_de_los_servicios_bajo_la_modali__da2397.pdf",
+  "nombre": "limache_decreto_alcaldicio_2398_autoriza_la_contratacion_de_los_servicios_bajo_la_modali__da2397.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:00:31",
+  "fin": "2026-07-14T21:01:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "decreto de contratación de colaciones para personal sanitizador COVID, no tiene relación con PRC/normas urbanísticas"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "romeral_e854e79e6b",
+  "comuna": "romeral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\romeral_44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que__07306_PRC_ROMERAL_OR_44_17.pdf",
+  "nombre": "romeral_44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que__07306_PRC_ROMERAL_OR_44_17.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 25,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        18
+      ]
+    ],
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Misma trampa nueva que Molina: veredicto TEXTO pero tablas de zona en imagen (Diario Oficial digital 2017). Verificado por render: p14 Art.4.2 lista de zonas (ZU-1 a ZU-7, ZAV, ZE-1 a ZE-4) + tabla ZU-1 y ZU-2 completas en la misma pagina; p15-18 resto de zonas. p19 ya es Titulo 5 Vialidad Estructurante (fuera de rango).",
+    "paginas_utiles": 5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_e145ad0fe8",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.2022.23abr2021.pdf",
+  "nombre": "las_condes_decreto.2022.23abr2021.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:54:45",
+  "fin": "2026-07-14T20:55:34",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: decreto abril-2021 (2p) que solo TRANSCRIBE el Acuerdo N316-2020 del Concejo Municipal: aprueba EL PROYECTO de Modificacion N10 al PRC (sector Santa Zita), como paso previo a su tramitacion. No fija valores normativos, es la ratificacion administrativa. Ver el decreto que si trae la tabla de la zona EAm2 resultante: las_condes_61dc7a8086 (decreto 7321)."
+  }
+}

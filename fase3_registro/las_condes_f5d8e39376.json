@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_f5d8e39376",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_11-NOVIEMBRE-2021-EXTRAORDINARIA-203.pdf",
+  "nombre": "las_condes_11-NOVIEMBRE-2021-EXTRAORDINARIA-203.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 22,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:57:36",
+  "fin": "2026-07-14T20:59:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "ACTA de la Sesion Extraordinaria N.203 del Concejo Municipal (11-nov-2021): audiencia publica del PROYECTO de Modificacion N.11 del PRC, AUN EN TRAMITE (no aprobado a esta fecha; confirmado por oficio posterior las_condes_67ea594019 de marzo 2022 que seguia 'en desarrollo'). Explica objetivos (actualizar densidad neta->bruta, art.40 usos de suelo, tablas de densificacion por zona) y da UN ejemplo ilustrativo (zona patrimonial: densidad 8 hab/ha, predial 2.500m2, CC 0,6) pero es prosa deliberativa, no una tabla sistematica por zona ni norma aprobada. No usar como fuente de norma vigente."
+  }
+}

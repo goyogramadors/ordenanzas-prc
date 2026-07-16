@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_408735b28a",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1583_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lo_barnechea_1583_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:01:35",
+  "fin": "2026-07-14T21:04:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Suprime clase Comercio del uso Equipamiento en titulo Cerros Islas art.24 (2 pags); modificacion textual puntual sin cuadro."
+  }
+}

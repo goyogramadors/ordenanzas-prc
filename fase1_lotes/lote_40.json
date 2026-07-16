@@ -1,0 +1,775 @@
+[
+ {
+  "id": "d0861",
+  "comuna": "peralillo",
+  "nombre_documento": "688_aprueba_plan_regulador_comunal_localidades_de_peralillo_y_poblacion",
+  "archivo": "peralillo_688_aprueba_plan_regulador_comunal_localidades_de_peralillo_y_poblacion__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 5,
+   "predial_minima": 10,
+   "agrupamiento": 12,
+   "antejardin": 6,
+   "zonificacion": 5,
+   "usos_de_suelo": 15,
+   "ordenanza_local_txt": 2,
+   "articulado": 13,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC",
+   "ZE",
+   "ZR"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 688, PERALILLO (1991)\r\n\r\nDecreto 688\r\nAPRUEBA PLAN REGULADOR COMUNAL LOCALIDADES DE PERALILLO Y\r\nPOBLACION\r\nMUNICIPALIDAD DE PERALILLO\r\nPublicación: 26-NOV-1996 | Promulgación: 26-DIC-1991\r\nVersión: Única De : 26-NOV-1996\r\nUrl Corta: https://bcn.cl/3pa5k\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL LOCALIDADES DE PERALILLO Y POBLACION\r\nNúm. 688.- Peralillo, diciembre 26 de 1991.- Considerando:\r\n1.- La necesidad de realizar la formulación del Plan Regulador Comunal de\r\nPeralillo, localidades de Peralillo y Población.\r\n2.- El Contrato para la formulación del Estudio del Plan Regulador Comunal de\r\nPeralillo, localidades de Peralillo y Población de fecha 10 de mayo de 1991, que\r\nencarga al consultor Arquitecto Sra. Johanna Kathe Zeppelin Schilling, la\r\nrealización del Estudio para la formulación de dicho Plan Regulador.\r\n3.- El Proyecto del Plan Regulador Comunal de Peralillo, localidades de Peralillo\r\ny Población, elaborado por la I. Municipalidad de Peralillo en base a los Estudios\r\nrealizados por el Consultor.\r\n4.- El Certificado de fecha 26 de diciembre de 1991, del Secretario Municipal\r\n(S), en su calidad de Ministro de fe, que constata el cumplimiento del período de\r\nexposición que determina el Artículo 43 de la Ley General de Urbanismo y\r\nConstrucciones, en concordancia con el Artículo 550 de la Ordenanza General de\r\nConstrucciones y Urbanización y lo señalado en el Artículo único, punto 4, de la\r\nLey N° 18.738, que modifica la Ley General de Urbanismo y Construcciones.\r\n5.- "
+ },
+ {
+  "id": "d0862",
+  "comuna": "pichidegua",
+  "nombre_documento": "1460_ratifica_proceso_de_plan_regulador_de_pichidegua",
+  "archivo": "pichidegua_1460_ratifica_proceso_de_plan_regulador_de_pichidegua__do-20061025.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 48,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 3,
+   "articulado": 37,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z4"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (agrupamiento, zonificacion, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 38.597\r\n\r\nDIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 25 de Octubre de 2006\r\n\r\n(15517)\r\n\r\nPágina\r\n\r\nDE LA REPUBLICA DE CHILE\r\nSantiago, Miércoles 25 de Octubre de 2006\r\nEdición de 48 Páginas\r\n\r\nNúm. 38.597.Año CXXIX - Nº 320.108 (M.R.)\r\n\r\nS U MAR I O\r\nNormas Generales\r\nPODER EJECUTIVO\r\n\r\nMINISTERIO DE\r\nECONOMIA, FOMENTO\r\nY RECONSTRUCCION\r\n\r\nrecto; y aprueba nóminas de postulantes seleccionados para el Título I, Subsidio General; Título\r\nII, Subsidio de Interés Territorial; Título III, Subsidio de Rehabilitación Patrimonial, correspondientes al Segundo Llamado Nacional 2006; y deja sin efecto\r\nsolicitudes de postulación al llamado referido ....................... P.4\r\n\r\nOTRAS ENTIDADES\r\n\r\nSubsecretaría de Pesca\r\nBanco Central de Chile\r\nDecreto número 1.184 exento.- Establece veda extractiva para\r\nel recurso Macha en el área marítima que indica ..................... P.3\r\nMINISTERIO\r\nDE HACIENDA\r\nDecreto número 998.- Modifica\r\ndecreto Nº 950, de 1928 ........P.3\r\nMINISTERIO DE SALUD\r\n\r\nTipos de cambio y paridades\r\nde monedas extranjeras para efectos que señala ....................... P.5\r\nMUNICIPALIDADES\r\n\r\nMunicipalidad de\r\nPichidegua\r\nDecreto alcaldicio número\r\n1.460.- Ratifica proceso de Plan\r\nRegulador de Pichidegua ...... P.6\r\n\r\nSubsecretaría de\r\nSalud Pública\r\n\r\nNormas Particulares\r\n\r\nDecreto número 67.- Designa\r\ncomo Director Suplente en el Servicio de Salud Bío Bío a persona\r\nque indica .............................P.4\r\n\r\nMINISTERIO DE\r\nECONOMIA"
+ },
+ {
+  "id": "d0203",
+  "comuna": "pichilemu",
+  "nombre_documento": "1824_decretese_extracto_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fiscal_1",
+  "archivo": "pichilemu_1824_decretese_extracto_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fiscal_1__publicacion_extracto_2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0204",
+  "comuna": "pichilemu",
+  "nombre_documento": "2852_iniciese_el_estudio_de_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fisc",
+  "archivo": "pichilemu_2852_iniciese_el_estudio_de_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fisc__publicacion_nov_2019.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0205",
+  "comuna": "pichilemu",
+  "nombre_documento": "decreto_1459_apruebase_el_inicio_del_procedemiento_enmienda_al_plan_regulador_co",
+  "archivo": "pichilemu_decreto_1459_apruebase_el_inicio_del_procedemiento_enmienda_al_plan_regulador_co__decreto1459_mayo2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'inicio_proceso' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0863",
+  "comuna": "pichilemu",
+  "nombre_documento": "2421_aprueba_modificacion_del_plan_regulador_comunal_de_pichilemuzona_a5",
+  "archivo": "pichilemu_2421_aprueba_modificacion_del_plan_regulador_comunal_de_pichilemuzona_a5__publicacion_mod_zonaA4.1.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 48,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "•_4fro9\r\nI. MUNICIPAI.IDAD DE PICIIIIJIIVIU\r\n\r\nALcfueIA\r\nSECRETARIA MUNI CIPAL\r\n\r\nAPRUEBA MODIFICACI0N DEL PIAN\r\nCOMUNAL DE PICHILEMU, ZONA A5.\r\n\r\np|cHILEMU\r\n\r\nCONSIDERANDO:\r\n\r\nREGUIADOR\r\n\r\ni-i S JljN 2023\r\n\r\n0ficio Ord Ng 470, de 13 de mayo de 2019, de alcalde de Pichilemu a Honorable\r\nConcejo Municipal, se lnforma sobre la lmagen Objetivo de Modificaci6n al plan\r\nRegulador Comunal de Pichilemu, Zona A5.\r\n\r\nDecreto Exento N9817, de 07 de marzo de 2019, Alcaldia de Pichilemu, donde se\r\naprueba lnicio de Proceso de Modificaci6n al Plan Regulador Comunal de Pichilemu,\r\n\r\nZona A5.\r\n\r\nOficio Ord Ng 555 del 18 de mayo del 2020, de alcalde de Pichilemu a Seremi de\r\nVivienda Regi6n de O'Higgins, informa sobre Modificaci6n del Plan Regulador\r\nComunal de Pichilemu, Zona A5.\r\n\r\nDecreto Exento N91867, del 13 de octubre de 2021, Alcaldia de Pichilemu, determina\r\nlnicio de proceso de Evaluaci6n Ambiental Estrat6gica (EAE), de la Modificaci6n Plan\r\n\r\nRegulador Comunal de Pichilemu, Zona A5.\r\nOficio Ord. N91421, de 14 de octubre de 2021, Ia llustre Municipalidad de Pichilemu,\r\n\r\ninvita a reuni6n de trabajo con los Organismos de la Administraci6n del Estado,\r\nproceso de EAE.\r\nPublicaci6n en Diario Oficial con fecha 18 de octubre de 2021 y Diario regional el\r\n\r\nRancagtlino, del extracto del lnicio del procedimiento de la Evaluaci6n Ambiental\r\n\r\nEstrat6gica, de acuerdo a DE 1867 del 13.10.2021\r\n0ficio Ord. N9243, de 21 de febrero de 2022, de la llustre Municipalidad de\r\nPichilemu, a Seremi del"
+ },
+ {
+  "id": "d0864",
+  "comuna": "pichilemu",
+  "nombre_documento": "4988_aprueba_modificacion_no_sustancial_i_del_plan_regulador_comunal_de_pichilem",
+  "archivo": "pichilemu_4988_aprueba_modificacion_no_sustancial_i_del_plan_regulador_comunal_de_pichilem__no_sustancial.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.737\r\n\r\n|\r\n\r\nViernes 29 de Diciembre de 2023\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 2429951\r\n\r\nMUNICIPALIDAD DE PICHILEMU\r\n\r\nAPRUEBA MODIFICACIÓN NO SUSTANCIAL I DEL PLAN REGULADOR\r\nCOMUNAL DE PICHILEMU, DIVERSOS SECTORES\r\nNúm. 4.988 exento.- Pichilemu, 14 de diciembre de 2023.\r\nConsiderando:\r\n- Informe Técnico y Resumen Ejecutivo Proceso de Modificación Plan Regulador Comunal,\r\nDiversos Sectores, elaborado por Asesora Urbana Municipalidad de Pichilemu.\r\n- El memorándum Nº 1896, de fecha 17.08.2022, del Sr. Alcalde al Honorable Concejo\r\nMunicipal enviando Resumen Ejecutivo de la \"Modificación al PRC de Pichilemu, Diversos\r\nSectores\".\r\n- Certificado de Concejo Municipal Nº 0228 de fecha 7 de septiembre de 2022, de la\r\nSecretaria Municipal, certificando que en Sesión Ordinaria de Concejo Nº 25 se aprueba en\r\nforma unánime la Imagen Objetivo de las Modificaciones al PRC de Pichilemu, en Diversos\r\nSectores de la comuna.\r\n- Decreto exento Nº 3.113, de fecha 26 de septiembre de 2022, en el cual aprueba inicio\r\nModificaciones No Sustanciales Plan Regulador Comunal de Pichilemu, Diversos Sectores.\r\n- Memorándum Nº 504, de fecha 12 de octubre de 2022, de Secplan a Alcalde, solicitando\r\npublicar los Avisos de Prensa, convocatoria a Audiencias Públicas, Publicaciones referidas a las\r\nModificaciones del PR"
+ },
+ {
+  "id": "d1210",
+  "comuna": "pichilemu",
+  "nombre_documento": "1096_ordenese_expropiacion_parcial_de_inmueble_rol_de_avaluo_fiscal_1129_490_y_1",
+  "archivo": "pichilemu_1096_ordenese_expropiacion_parcial_de_inmueble_rol_de_avaluo_fiscal_1129_490_y_1__publicacion_abril_2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1211",
+  "comuna": "pichilemu",
+  "nombre_documento": "1336_aprueba_modificacion_plan_regulador_comunal_de_pichilemu_sector_ex_estacion",
+  "archivo": "pichilemu_1336_aprueba_modificacion_plan_regulador_comunal_de_pichilemu_sector_ex_estacion__publicacion_ferrocarril_2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1212",
+  "comuna": "pichilemu",
+  "nombre_documento": "1783_aprueba_nomina_de_declaraciones_de_utilidad_publica_de_circulaciones_parque",
+  "archivo": "pichilemu_1783_aprueba_nomina_de_declaraciones_de_utilidad_publica_de_circulaciones_parque__20151.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 69,
+  "paginas_escaneadas": 69,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1213",
+  "comuna": "pichilemu",
+  "nombre_documento": "1832_aprueba_segunda_nomina_de_declaratorias_de_utilidad_publica_de_circulacione",
+  "archivo": "pichilemu_1832_aprueba_segunda_nomina_de_declaratorias_de_utilidad_publica_de_circulacione__2015.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1214",
+  "comuna": "pichilemu",
+  "nombre_documento": "1888_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a3",
+  "archivo": "pichilemu_1888_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a3__publicacion_zona3_2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1215",
+  "comuna": "pichilemu",
+  "nombre_documento": "2200_apruebase_modificacion_del_plan_regulador_comunal_de_pichilemu_sector_punta",
+  "archivo": "pichilemu_2200_apruebase_modificacion_del_plan_regulador_comunal_de_pichilemu_sector_punta__20161.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 39,
+  "paginas_escaneadas": 39,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1216",
+  "comuna": "pichilemu",
+  "nombre_documento": "3223_aprueba_modificacion_al_plan_regulador_comunal",
+  "archivo": "pichilemu_3223_aprueba_modificacion_al_plan_regulador_comunal__publicacion1_2012.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 21,
+  "paginas_escaneadas": 21,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1217",
+  "comuna": "pichilemu",
+  "nombre_documento": "3442_aprueba_enmienda_al_plan_regulador_comunal_de_pichilemu_sector_centro",
+  "archivo": "pichilemu_3442_aprueba_enmienda_al_plan_regulador_comunal_de_pichilemu_sector_centro__sector_centro_2023.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 18,
+  "paginas_escaneadas": 15,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1218",
+  "comuna": "pichilemu",
+  "nombre_documento": "3778_aprueba_correccion_a_ordenanza_de_la_enmienda_al_plan_regulador_comunal_de",
+  "archivo": "pichilemu_3778_aprueba_correccion_a_ordenanza_de_la_enmienda_al_plan_regulador_comunal_de___correccion_enmienda2023.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 2,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.660\r\n\r\n|\r\n\r\nLunes 25 de Septiembre de 2023\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 2380359\r\n\r\nMUNICIPALIDAD DE PICHILEMU\r\n\r\nAPRUEBA CORRECCIÓN A ORDENANZA DE LA ENMIENDA AL PLAN\r\nREGULADOR COMUNAL DE PICHILEMU, SECTOR CENTRO, SEGÚN INDICA\r\nNúm. 3.778 exento.- Pichilemu, 15 de septiembre de 2023.\r\nConsiderando:\r\n- La necesidad del Municipio de aprobar administrativamente la Enmienda al Plan\r\nRegulador Comunal de Pichilemu, Sector Centro, para ser publicado en el Diario Oficial de\r\nacuerdo a lo establecido en el Art. 2.1.13 de la OGUC.\r\n- Certificado Nº 225, de fecha 18 de julio de 2023, de Secretaría municipal, certificando que\r\nen sesión ordinaria Nº 21 del Concejo Municipal, de fecha 18 de julio, se aprueba en forma\r\nunánime el proyecto de enmiendas al PRC de Pichilemu y se acogen observaciones recibidas.\r\n- El Memorándum Nº 443, de fecha 23 de agosto de 2023, de Secplan a Alcalde, solicitando\r\ninstruir decreto exento que Aprueba Enmienda del Plan Regulador Comunal de Pichilemu,\r\nSector Centro.\r\n- El Memorándum Nº 2210, de fecha 23 de agosto de 2023, de Alcalde a Secretaria\r\nMunicipal, solicitando Decreto Exento que Aprueba Enmienda del Plan Regulador Comunal de\r\nPichilemu, Sector Centro.\r\n- Decreto exento Nº 3.442, de fecha 23 de agosto de 2023, Aprueba Enmienda al Plan\r\nRegulador Comunal de "
+ },
+ {
+  "id": "d1219",
+  "comuna": "pichilemu",
+  "nombre_documento": "4415_aprueba_correccion_a_planos_de_la_enmienda_al_plan_regulador_comunal_de_pic",
+  "archivo": "pichilemu_4415_aprueba_correccion_a_planos_de_la_enmienda_al_plan_regulador_comunal_de_pic__correccion.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1220",
+  "comuna": "pichilemu",
+  "nombre_documento": "52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5",
+  "archivo": "pichilemu_52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5__enmienda_zona_a5_2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1221",
+  "comuna": "pichilemu",
+  "nombre_documento": "817_exposicion_publica_modificacion_plan_regulador_comunal_de_pichilemu_zona_a_5",
+  "archivo": "pichilemu_817_exposicion_publica_modificacion_plan_regulador_comunal_de_pichilemu_zona_a_5__A-5_2022.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara modificacion prc; convive con patron de tramite 'consulta_publica' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1222",
+  "comuna": "pichilemu",
+  "nombre_documento": "audiencias_publicas_para_la_confeccion_modificacion_o_enmiendas_del_plan_regulad",
+  "archivo": "pichilemu_audiencias_publicas_para_la_confeccion_modificacion_o_enmiendas_del_plan_regulad__ordenanza_participacion.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'consulta_publica' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1223",
+  "comuna": "pichilemu",
+  "nombre_documento": "decreto_1336_aprueba_modificacion_plan_regulador_comunal_de_pichilemu_sector_ex",
+  "archivo": "pichilemu_decreto_1336_aprueba_modificacion_plan_regulador_comunal_de_pichilemu_sector_ex___decreto1336_abril2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 9,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1224",
+  "comuna": "pichilemu",
+  "nombre_documento": "decreto_3112_apruebase_en_todas_sus_partes_el_inicio_del_proyecto_modificaciones",
+  "archivo": "pichilemu_decreto_3112_apruebase_en_todas_sus_partes_el_inicio_del_proyecto_modificaciones__decreto3113_septiembre2022.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1225",
+  "comuna": "pichilemu",
+  "nombre_documento": "decreto_3442_aprueba_enmienda_al_plan_regulador_comunal_de_pichilemu_sector_cent",
+  "archivo": "pichilemu_decreto_3442_aprueba_enmienda_al_plan_regulador_comunal_de_pichilemu_sector_cent__decreto3442_agosto2023.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1226",
+  "comuna": "pichilemu",
+  "nombre_documento": "decreto_52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5",
+  "archivo": "pichilemu_decreto_52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5__decreto52_enero2020.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0206",
+  "comuna": "pirque",
+  "nombre_documento": "prcpirque",
+  "archivo": "pirque_PRCPIRQUE.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 32,
+  "paginas_escaneadas": 32,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0865",
+  "comuna": "pirque",
+  "nombre_documento": "1297_aprueba_plan_regulador_comunal_de_pirque",
+  "archivo": "pirque_1297_aprueba_plan_regulador_comunal_de_pirque__planregulador_1297.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 9,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 2,
+   "antejardin": 3,
+   "rasante": 1,
+   "adosamiento": 3,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 5,
+   "zonificacion": 3,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 7,
+   "articulado": 21,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [
+   "ICH",
+   "ZE - 1",
+   "ZE-1",
+   "ZE-2",
+   "ZH - 1",
+   "ZH - 2",
+   "ZH-1",
+   "ZH-2",
+   "ZM - 1",
+   "ZM - 2",
+   "ZM-1",
+   "ZM-2"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Cuerpo I - 12\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 23 de Diciembre de 2015\r\n\r\nMunicipalidad de Pirque\r\n\r\n(IdDO 979244)\r\n\r\nAPRUEBA “PLAN REGULADOR COMUNAL DE PIRQUE” EN\r\nCONFORMIDAD A LO INDICADO EN LA ORDENANZA Y EL PLANO\r\nPRCP-1\r\nPirque, 17 de diciembre de 2015.- La Alcaldía decreta hoy lo que sigue:\r\nNúm. 1.297.\r\nVistos y considerando:\r\n1º. La sentencia de Calificación y Proclamación de la Comuna de Pirque, del\r\nsegundo Tribunal Electoral de la Región Metropolitana, de fecha 19 de noviembre\r\nde 2012.\r\n2º. El decreto alcaldicio N°124, de fecha 31 de enero de 2013, por el cual asume\r\ndon Cristian Balmaceda Undurraga, como Alcalde de la Municipalidad de Pirque.\r\n3º. Que, sobre el particular el artículo 65, letra b) de la Ley N° 18.695, Orgánica\r\nConstitucional de Municipalidades, dispone que corresponderá al Honorable Concejo\r\nComunal aprobar el Plan Regulador Comunal, los Planes Seccionales y sus Planos\r\nde Detalle.\r\n4º. Que, por su parte, el artículo 2.1.9 del decreto N° 47, de 1992, del Ministerio\r\nde Vivienda y Urbanismo, Ordenanza General de Urbanismo y Construcciones,\r\nestablece de manera detallada el procedimiento al que debe ajustarse la aprobación\r\nde los Planes Reguladores Intercomunales.\r\n5º. El Ord. N° 429/2011 de fecha 23 de diciembre de 2011 de Alcalde de la\r\nIlustre Municipalidad de Pirque, se comunicó el inicio del proceso de Evaluación\r\nAmbiental Estratégica del Plan Regulador de Pirque al Ministro del Medio Ambiente.\r\n6º. El Ord. N° 120424/20"
+ }
+]

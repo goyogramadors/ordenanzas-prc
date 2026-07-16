@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_9c32a6bdfd",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4481.28dic2004.pdf",
+  "nombre": "las_condes_D.O.4481.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:02:42",
+  "fin": "2026-07-14T20:58:00",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SOLO VIALIDAD: DO 4481 (28-12-2004) aprueba el Plano Seccional de Vialidad PS-V-01, que detalla el 'cuadro con el listado de vias que conforman la vialidad basica estructurante'. Es vialidad, excluido por definicion. 10 pags verificadas por texto."
+  }
+}

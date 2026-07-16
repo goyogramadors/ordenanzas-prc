@@ -1,0 +1,20 @@
+{
+  "id": "antuco_67cf6a42b7",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_ordenanza_sobre_la_regulacion_transito_vehicular_uso_de_cadenas_aseo_y_o__Decreto_554_2015.pdf",
+  "nombre": "antuco_decreto_ordenanza_sobre_la_regulacion_transito_vehicular_uso_de_cadenas_aseo_y_o__Decreto_554_2015.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:58:23",
+  "fin": "2026-07-14T13:01:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza de transito vehicular, uso de cadenas y aseo en el Centro Invernal Volcan Antuco. Ajena al PRC."
+  }
+}

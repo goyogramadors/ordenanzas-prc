@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_6c1ba67c9c",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_1992.pdf",
+  "nombre": "penalolen_MPRC_1992.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:44:36",
+  "fin": "2026-07-15T08:46:11",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N34.195, 17-feb-1992, 2 pags. Pagina 1 es mayormente contenido ajeno (concesion radiodifusion, decreto telecom) pero en la columna inferior derecha arranca 'MODIFICA PLAN REGULADOR COMUNAL DE PEÑALOLEN (Resolucion)' Num.77, 24-dic-1991, que continua integro en pagina 2. Contiene modificaciones numericas concretas: Zona R1 ocupacion maxima de suelo 40%->60%; Zona R2 densidad 385->450 hab/ha; reemplaza usos de suelo/condiciones de edificacion y subdivision para Zonas Z1, R1, EQ y R2 remitiendo a Plano RM-PN-MOD-01-91. Verificado visualmente paginas 1-2 de 2; cuidado, pagina 1 mezcla contenido de otros tramites del mismo Diario Oficial."
+  }
+}

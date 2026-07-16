@@ -1,0 +1,25 @@
+{
+  "id": "puerto_varas_e11887e738",
+  "comuna": "puerto_varas",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_varas_44_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_puerto___PRC PTO VARAS DO 24.07.2025.pdf",
+  "nombre": "puerto_varas_44_promulga_aprobacion_de_la_actualizacion_del_plan_regulador_comunal_de_puerto___PRC PTO VARAS DO 24.07.2025.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 50,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:17:01",
+  "fin": "2026-07-14T21:22:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        20,
+        39
+      ]
+    ],
+    "paginas_utiles": 20,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "actualización PRC completa 2025: Art.15(Cuadro 3 zonas)-Art.36(ZAV, Cuadro 45), 21 zonas completas cada una con Cuadro usos de suelo permit/prohib + Cuadro normas urbanísticas (subdivisión predial, COS, CC, altura, agrupamiento, adosamiento, distanciamiento, antejardín, densidad bruta), texto extraíble limpio. Pág14 (alta densidad) es cuadro de coordenadas límite urbano, no normas de zona"
+  }
+}

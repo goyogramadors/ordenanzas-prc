@@ -1,0 +1,20 @@
+{
+  "id": "coelemu_a4e1d8dd22",
+  "comuna": "coelemu",
+  "ruta": "Ordenanzas Descargadas\\1-600\\coelemu_certificado_6_asignar_el_nombre_de_miraflores_al_camino_ubicado_en_el_limite_urb__bd08657c-ce59-4fcf-90d5-7615d0fd0677.pdf",
+  "nombre": "coelemu_certificado_6_asignar_el_nombre_de_miraflores_al_camino_ubicado_en_el_limite_urb__bd08657c-ce59-4fcf-90d5-7615d0fd0677.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:10:54",
+  "fin": "2026-07-15T08:12:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "certificado que solo asigna el nombre 'Miraflores' a un camino en el límite urbano, sin contenido normativo"
+  }
+}

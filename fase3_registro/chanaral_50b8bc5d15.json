@@ -1,0 +1,25 @@
+{
+  "id": "chanaral_50b8bc5d15",
+  "comuna": "chanaral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chanaral_1711_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu41__1647596.pdf",
+  "nombre": "chanaral_1711_promulga_enmienda_al_plan_regulador_comunal_de_chanaral_zona_urbana_zu41__1647596.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:06:42",
+  "fin": "2026-07-14T15:27:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CHANARAL: Diario Oficial 4-sep-2019, enmienda al PRC, Zona Urbana ZU4.1 (localidad El Salado). *** TRAMPA LEYCHILE CONFIRMADA ***: pdftotext extrae el texto del decreto pero NO extrae NI UN CARACTER de la tabla, que es IMAGEN. Delator: el texto termina en 'agreguese la Subzona ZU4.1, lo siguiente:' y salta a 'Publiquese'. Al renderizar aparece el cuadro completo 'NORMAS URBANISTICAS PARA ZONA URBANA ZU 4.1' (Art 21, Cuadro Z4): usos permitidos, superficie predial 301-500m2, frente predial minimo 12m, altura maxima 3 pisos, coef. constructibilidad 1.4, ocupacion de suelo 40%, agrupamiento aislado/pareado/continuo, rasantes OGUC, sin antejardin, adosamiento 40%, estacionamientos. Documento de 1 sola pagina: TODA la norma esta en la imagen. Confirmado visualmente."
+  }
+}

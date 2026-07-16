@@ -1,0 +1,25 @@
+{
+  "id": "valdivia_8d9e9b45b4",
+  "comuna": "valdivia",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valdivia_ordenanza_179_ordenanza_plan_regulador_comunal__Ord_prc88.pdf",
+  "nombre": "valdivia_ordenanza_179_ordenanza_plan_regulador_comunal__Ord_prc88.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:33:55",
+  "fin": "2026-07-14T21:37:33",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        6
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "VALDIVIA: Ordenanza Local del PRC (decreto MINVU 179, DO 3-nov-1988, 9p). Cap IV Art 21, p5-6: zonas ZU-1 a ZU-7 (areas consolidadas), ZR-1 a ZR-4 (areas especiales), ZE-1.a a ZE-1.d, ZE-2, ZE-3.a y 3.b (extension urbana), cada una con usos permitidos-prohibidos, predial minima, frente predial minimo, porcentaje ocupacion de suelo, agrupamiento, altura maxima, antejardin minimo, densidad predial maxima, distancia minima a medianeros. Cierra en p6 con Art 23; luego Art 24 es listado de inmuebles de conservacion historica (excluido). p7-9 son vialidad estructurante (excluida) y luego contenido AJENO de la misma edicion del DO (asociaciones gremiales de Arica-Victoria), sin relacion con Valdivia. Texto NATIVO limpio, sin trampa: 3 pags verificadas visualmente (p4, p5, p6)."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "graneros_298864ab33",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas Descargadas\\1-600\\graneros_decreto_exento_481_aprobacion_plan_regulador_de_la_comuna_de_graneros__d70b2719-89cd-48b6-820e-97dd82cf6e58.pdf",
+  "nombre": "graneros_decreto_exento_481_aprobacion_plan_regulador_de_la_comuna_de_graneros__d70b2719-89cd-48b6-820e-97dd82cf6e58.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 39,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:41:25",
+  "fin": "2026-07-14T15:54:15",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        17,
+        39
+      ]
+    ],
+    "paginas_utiles": 23,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Dec.Ex.481 aprueba PRC Graneros. ESCANEADO: todas las tablas son IMAGEN (el texto es OCR, no confiar). p17-18 normas generales (estacionamientos); p19 indice de zonas; p20-38 una tabla por zona, CONTIGUAS, cada una con usos permitidos/prohibidos + cuadro 'Normas Urbanisticas' con columnas Uso Residencial / Uso Equipamiento (verificado por mi en p25, ZH6 La Compania: predial 500m2, densidad 80 hab/ha, COS 0,5, CC 1, altura 7m, aislado/pareado/continuo, antejardin 3m); p36-38 zona ZCH1. p39 listado de Inmuebles de Conservacion Historica (ICH1-ICH7) + firmas. Cubre Graneros y la localidad de La Compania."
+  }
+}

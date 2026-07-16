@@ -1,0 +1,20 @@
+{
+  "id": "santiago_1db8d1c000",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_Ord-N091-Ministerio-de-Medio-Ambiente.pdf",
+  "nombre": "santiago_Ord-N091-Ministerio-de-Medio-Ambiente.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:54:55",
+  "fin": "2026-07-15T12:56:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord. RR.NN. N091, 3-feb-2020, SEREMI del Medio Ambiente RM a Alcalde de Santiago, 1 pag. Toma conocimiento de que la Modificacion PRC de Santiago 'Ajuste de Normas Urbanisticas Poblacion Centenario' NO requiere Evaluacion Ambiental Estrategica por no ser modificacion sustancial (art.29 DS32/2015). No transcribe valores normativos, es un tramite ambiental previo. Verificado visualmente pagina unica."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "penalolen_203c6568f9",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_21002374_promulga_modificacion_al_plan_regulador_comunal_cambio_de_uso_de_suelo___Exportar.pdf",
+  "nombre": "penalolen_21002374_promulga_modificacion_al_plan_regulador_comunal_cambio_de_uso_de_suelo___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:10:55",
+  "fin": "2026-07-14T21:12:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "cambia uso de suelo de un polígono de 'Área Resguardo Infraestructura' a Zona R.2 existente, remite a condiciones ya definidas de esa zona, sin cuadro normativo propio"
+  }
+}

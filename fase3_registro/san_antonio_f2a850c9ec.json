@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_f2a850c9ec",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_2025_N_C2_B04.046_APRUEBA_20PMGM_20PARA_20A_C3_91O_202026.pdf",
+  "nombre": "san_antonio_2025_N_C2_B04.046_APRUEBA_20PMGM_20PARA_20A_C3_91O_202026.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 49,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:27:10",
+  "fin": "2026-07-14T21:28:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SAN ANTONIO: NO ES UN DOCUMENTO PRC. Decreto alcaldicio exento 4046 (dic-2025) que APRUEBA EL PMGM (Programa de Mejoramiento de la Gestion Municipal) para el año 2026. Cero señales urbanisticas en 49 paginas."
+  }
+}

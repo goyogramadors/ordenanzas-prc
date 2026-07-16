@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_53eedd9cac",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\penalolen_12003654_asigna_nueva_norma_urbanisitica_de_acuerdo_a_plan_regulador_comunal_vig__Exportar.pdf",
+  "nombre": "penalolen_12003654_asigna_nueva_norma_urbanisitica_de_acuerdo_a_plan_regulador_comunal_vig__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:11:16",
+  "fin": "2026-07-14T21:15:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 3654/2014. Trampa confirmada: texto solo 'Tabla N1'/'Tabla N2' + punto solitario. Render: pag1 tabla areas verdes (norma que caduca); pag2 tabla completa norma asignada Subsector 11 Penalolen Alto: coef.max construccion, %max ocupacion suelo, superficie minima predial por uso Vivienda/Equipamiento."
+  }
+}

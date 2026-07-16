@@ -1,0 +1,20 @@
+{
+  "id": "puerto_montt_91644dca7f",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\puerto_montt_proceso_participativo_plan_regulador_comunal_prc__411334b8-5b3e-42b4-bacd-911b22733397.pdf",
+  "nombre": "puerto_montt_proceso_participativo_plan_regulador_comunal_prc__411334b8-5b3e-42b4-bacd-911b22733397.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 25,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:11:21",
+  "fin": "2026-07-15T12:13:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Documento NO es material de difusion del PRC pese al nombre 'proceso_participativo'. Es Ordenanza Municipal N002/2019 de Participacion Ciudadana de Puerto Montt (art.1-75), seguida de Certificado N557 (pag22) y Decreto N11423/2020 (pag23-25) que incorpora articulos transitorios para participacion remota durante COVID-19 en tramites de modificacion PRC. Todo texto articulado puro, sin tabla de normas urbanisticas. Muestreadas pag1,5,10,15,20-25."
+  }
+}

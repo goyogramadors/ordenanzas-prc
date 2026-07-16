@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_da9204b5fa",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2005_01.pdf",
+  "nombre": "penalolen_MPRC_2005_01.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:45:32",
+  "fin": "2026-07-15T08:46:53",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "DO 31-05-2005, Decreto 2.100/1.689 'Modificación y Ampliación del Límite Urbano, PRC de Peñalolén, Sector Antupirén Alto'. Art.12 (p3 del render = página 9 del DO) trae tablas completas de normas específicas para Zona R5 Habitacional Norte (predial 800m2, COS 0.2, CC 0.5, altura 9m, densidad 50 hab/Há), Zona R7 Residencial Exclusiva (predial 600m2, COS 0.3, CC 0.5, altura 2 pisos+mansarda/9m, densidad 70 hab/Há) y Zona E2 Mixta Residencial/Equipamiento (residencial: predial 600m2, COS 0.3-0.6, CC 0.6, altura 2 pisos/7.5m, densidad 70 hab/Há; más tabla de usos de suelo por clase de equipamiento). Zona K (Quebrada Interior) es área restringida sin tabla de parámetros propia, condicionada a estudios MOP. Páginas 1-2 y 4-5 son antecedentes/coordenadas de deslinde y vialidad/materias ajenas, sin normas de zona."
+  }
+}

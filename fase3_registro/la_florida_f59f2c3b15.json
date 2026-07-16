@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_f59f2c3b15",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_florida_374_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "la_florida_374_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:51:45",
+  "fin": "2026-07-15T07:53:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "asigna normas urbanísticas ya existentes de zona a predios con declaratoria utilidad pública caducada (12feb2010); tabla es listado de predios/calles, no valores normativos nuevos; tabla no está en el texto (trampa)"
+  }
+}

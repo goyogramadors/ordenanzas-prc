@@ -1,0 +1,20 @@
+{
+  "id": "retiro_9932b50c6c",
+  "comuna": "retiro",
+  "ruta": "Ordenanzas ordenadas\\retiro_decreto_exento_3348_apruebese_la_modificacion_del_plan_de_trabajo_y_la_redistrib__3348.pdf",
+  "nombre": "retiro_decreto_exento_3348_apruebese_la_modificacion_del_plan_de_trabajo_y_la_redistrib__3348.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:16:28",
+  "fin": "2026-07-15T12:19:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 3348 (20-nov-2019, 1p): aprueba modificación del Plan de Trabajo y redistribución de montos del Programa de Fortalecimiento OMIL (convenio con SENCE). Acto administrativo, no contiene tabla de normas urbanísticas."
+  }
+}

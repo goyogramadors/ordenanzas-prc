@@ -1,0 +1,20 @@
+{
+  "id": "rengo_2fdbe54f4f",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_decreto_327_aprueba_foro_de_preguntas_y_respuestas_al_proceso_licitatorio_para_c__0327_21.02.24_Aprueba.pdf",
+  "nombre": "rengo_decreto_327_aprueba_foro_de_preguntas_y_respuestas_al_proceso_licitatorio_para_c__0327_21.02.24_Aprueba.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:23:12",
+  "fin": "2026-07-14T21:24:29",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "RENGO: decreto alcaldicio 327 (feb-2024, 7p), 'Aprueba foro de preguntas y respuestas al proceso licitatorio' para el estudio de Actualizacion del PRC (financiado por el GORE OHiggins, codigo BIP 40023881-0). Es tramite de licitacion del estudio, no contiene normas. Cero señales urbanisticas en 7 paginas."
+  }
+}

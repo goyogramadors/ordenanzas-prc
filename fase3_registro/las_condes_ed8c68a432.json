@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_ed8c68a432",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4485.28dic2004.pdf",
+  "nombre": "las_condes_D.O.4485.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:56:58",
+  "fin": "2026-07-14T20:57:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        7
+      ]
+    ],
+    "paginas_utiles": 7,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.4485/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Vivienda 2 (PS-U-V2) y DETALLA el art.40 del PRC Las Condes con el cuadro de usos de suelo de la zona U-V2 en TEXTO extraible (4 apariciones del cuadro). Mismo formato que la serie U-C2/U-C3/U-Ee2/U-V/U-V3 ya registrada."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_45500e5098",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_1336_aprueba_modificacion_plan_regulador_comunal_de_pichilemu_sector_ex_estacion__publicacion_ferrocarril_2020.pdf",
+  "nombre": "pichilemu_1336_aprueba_modificacion_plan_regulador_comunal_de_pichilemu_sector_ex_estacion__publicacion_ferrocarril_2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:47:00",
+  "fin": "2026-07-15T12:11:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento 1336/2020 (28-04-2020), 'Aprueba Modificación PRC de Pichilemu, Sector Ex Estación de Ferrocarriles' (10p, incluye copia en formato DO). Art.1 aprueba la modificación 'según se indica en Plano PRC-EFP-1, Memoria Explicativa y Ordenanza, adjunta' pero esos anexos (plano/ordenanza con los parámetros reales) NO están incluidos en este PDF — solo el expediente administrativo (antecedentes, informe técnico SEREMI, certificados de audiencias públicas). Norma inalcanzable desde este archivo: nada que la fase siguiente pueda transcribir."
+  }
+}

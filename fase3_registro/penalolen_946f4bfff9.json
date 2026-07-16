@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_946f4bfff9",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_r6.pdf",
+  "nombre": "penalolen_Zona_r6.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:44:44",
+  "fin": "2026-07-15T08:45:18",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Extracto 'Zona R6 - Zona Habitacional Sur'. Uso permitido: solo vivienda. Normas específicas completas: predial mínima 1.700 m2, frente predial 30m, sistema agrupamiento aislado, COS 0.15, coef. constructibilidad 0.4, altura máx 9m, densidad 25 hab/há, distanciamiento 3m, antejardín 5m."
+  }
+}

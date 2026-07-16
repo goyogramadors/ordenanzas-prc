@@ -1,0 +1,26 @@
+{
+  "id": "sin_comuna_481b5b0a29",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\LOB32E~1.PDF",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "COMUNA REAL = LO BARNECHEA (pagina de DO 39.953, 06-05-2011, Cuerpo I 15-16, mezcla 2 decretos de Lo Barnechea + aviso ajeno de Vina del Mar + resolucion de Superintendencia de Quiebras: NO atribuir esos ultimos a Lo Barnechea). DOS decretos de Lo Barnechea en p1-2: (A) Decreto s/n asigna nuevas normas urbanisticas a predios liberados de declaratoria de utilidad publica (ensanche calle El Olivar), asimilandolas a la zona adyacente 'de acuerdo a la tabla siguiente' -- LA TABLA NO APARECE, el texto salta directo al Decreto 2285 sin mostrarla (probablemente en pagina no incluida en este PDF). (B) Decreto 2285/2011 MPRC-LB-14: SUPRIME la clase Comercio permitida en el tipo Equipamiento del titulo Cerros Islas, art.24 Ordenanza Local -- norma real en prosa. p3-4 (render) son solo copia municipal firmada del Decreto 2285, sin agregar contenido nuevo. Confianza MEDIA: falta la tabla del decreto (A). [comuna corregida en revision Fase4: era SIN_COMUNA]",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:49:24",
+  "fin": "2026-07-15T14:52:39",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_do39953_decreto2285_cerros_islas_pag1-2.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "CORRECCION A NOTA_FASE3 -- HALLAZGO DE COMUNA AJENA: el decreto de la tabla El Olivar (ensanche calle) que nota_fase3 atribuia a Lo Barnechea es en realidad de LA PINTANA (firmado por Jaime Pavez Moreno, Alcalde, y archivado en la Municipalidad de La Pintana). NO se transcribio como norma de Lo Barnechea. El unico acto genuino de Lo Barnechea en esta pagina es Decreto 2285/2011 (MPRC-LB-14): suprime clase Comercio en Equipamiento, titulo Cerros Islas, art.24 -- norma en prosa sin cuadro cuantitativo. Reportar este hallazgo de comuna ajena a la fase siguiente."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "chillan_viejo_34d652d54f",
+  "comuna": "chillan_viejo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_viejo_4505_aprueba_plan_regulador_comunal_de_chillan_viejo__publicacion_do_40341_20_08_2012_pag_3_a_9.pdf",
+  "rangos": [
+    [
+      4,
+      6
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "CHILLAN VIEJO: Decreto 4505, PRC completo (Diario Oficial 40.341, 20-ago-2012). *** TODAS LAS TABLAS SON IMAGENES *** invisibles a pdftotext (solo extrae el titulo del cuadro, cero celdas). Normas por zona en p4-6: p4 ZM-1, ZM-2, ZM-3 y ZH-1; p5 ZH-2..ZH-6 y ZI; p6 ZE-1..ZE-3, ZIS, ZRID, ZNE. Cada cuadro trae USOS DE SUELO (permitido/prohibido por tipo) y NORMAS DE SUBDIVISION, URBANIZACION Y EDIFICACION (predial minima, COS, CC, altura, agrupamiento, altura de continuidad, pareo, adosamiento, antejardin, densidad bruta). 13 zonas confirmadas visualmente. Excluidas p1-3 (limite urbano, vialidad, estacionamientos, tambien tablas-imagen). *** OJO CONTAMINACION: la p7 termina la ordenanza y arranca OTRO decreto sin relacion (Municipalidad de Los Angeles, tenencia responsable de animales): no mezclar. *** Las 7 pags fueron miradas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:05:18",
+  "fin": "2026-07-15T23:14:25",
+  "resultado": {
+    "archivo": "extraccion_normas\\chillan_viejo\\chillan_viejo_4505_prc2012_zonas_completas_pag4-6.md",
+    "zonas": 16,
+    "zonas_codigos": [
+      "ZM-1",
+      "ZM-2",
+      "ZM-3",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZH-4",
+      "ZH-5",
+      "ZH-6",
+      "ZI",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZIS",
+      "ZRID",
+      "ZNE"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: las 13 zonas confirmadas visualmente son en realidad 16 codigos (ZM1-3=3, ZH1-6=6, ZI=1, ZE1-3=3, ZIS/ZRID/ZNE=3), todas con cuadro completo usos+condiciones transcrito desde render (tablas-imagen confirmadas invisibles a pdftotext). ZH-6 tiene posible error de imprenta en el cuadro original (notas de excepcion desalineadas entre filas Educacion/Esparcimiento y Salud/Seguridad), marcado explicitamente sin corregir. Contaminacion confirmada en p7 (decreto ajeno de Los Angeles sobre tenencia de animales), no mezclado."
+  }
+}

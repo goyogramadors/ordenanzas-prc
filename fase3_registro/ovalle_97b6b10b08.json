@@ -1,0 +1,37 @@
+{
+  "id": "ovalle_97b6b10b08",
+  "comuna": "ovalle",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\ovalle_decreto_exento_6459_aprueba_el_proceso_de_exposicion_ejecutivo_y_sus_planos_actu__6459.pdf",
+  "nombre": "ovalle_decreto_exento_6459_aprueba_el_proceso_de_exposicion_ejecutivo_y_sus_planos_actu__6459.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 180,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:59:02",
+  "fin": "2026-07-15T08:04:17",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        103,
+        104
+      ],
+      [
+        120,
+        123
+      ],
+      [
+        130,
+        134
+      ],
+      [
+        168,
+        170
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Dec.Ex.6459 aprueba proceso de exposicion del Resumen Ejecutivo y Planos de la Imagen Objetivo (etapa PREVIA al anteproyecto, art.28 octies LGUC) del estudio Actualizacion PRC Ovalle. NO es la Ordenanza Local final. Cuadros 4-1 (Alternativa A, p103-104), 4-3 (Alternativa B, p120-123), 5-1 comparacion (p130-134), 5-4 (Alternativa C RECOMENDADA, p168-170) en TEXTO real: sistema de agrupamiento, altura max (6-8 pisos/24m), densidad bruta max (300-600 hab/ha), subdivision predial min (300-500m2) POR ZONA. FALTAN COS y coef.constructibilidad y antejardin (no vienen en estos cuadros de lineamientos, son mas sinteticos que una Ordenanza Local). p176-180 son PLANOS cartograficos (mapas de zonificacion a color), no tablas nuevas. CONFIANZA MEDIA: son valores de una ALTERNATIVA PROPUESTA en etapa temprana, no la norma final aprobada - util solo si no se encuentra en el corpus la Ordenanza Local definitiva de esta actualizacion."
+  }
+}

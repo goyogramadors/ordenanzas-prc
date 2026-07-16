@@ -1,0 +1,20 @@
+{
+  "id": "concepcion_317e72b863",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\concepcion_208_modifica_plan_regulador_comunal_de_concepcion__13-MODIFICACION-PRCC-DIARIO-OFICIAL2.pdf",
+  "rangos": [
+    [
+      7,
+      10
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Modificacion PRC Concepcion (DO 42.321, 03-04-2019, 10 pags). p2-6: puros cuadros de VIALIDAD (arts.23 y 57: vias troncales/colectoras/de servicio/locales estructurantes) -> fuera del rango. p7-10 = NORMAS POR ZONA: p7 art.44 tabla Zonas Habitacionales Consolidadas + art.45 tabla Edificacion H1/H3/HE3; p8 art.45 crea la nueva ZONA H3L (barrio Lomas de San Andres) con DOS cuadros IMAGEN: usos de suelo y condiciones de edificacion (predial min 180 m2, COS 0,8, CC 3,5, altura 10 m/4 pisos+retiro, agrupamiento, altura continuidad 5,5 m, longitud continuidad 70%, antejardin 2,5 m, densidad 672 hab/ha); tambien ajusta la Zona P. p9: zona E-4 (equipamiento salud) y todos los cuadros EDIFICACION ZONA. p10: usos de suelo zonas C1, CU3b, CU4a, HR1.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "EN_PROCESO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:34:22",
+  "fin": null,
+  "resultado": null
+}

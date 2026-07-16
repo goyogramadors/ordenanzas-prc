@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_01ce99455f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Ord.-SEREMI-N2099-del-2.8.23.pdf",
+  "nombre": "las_condes_Ord.-SEREMI-N2099-del-2.8.23.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 15,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:51:55",
+  "fin": "2026-07-14T15:56:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: Oficio Ord. SEREMI 2099 (02-08-2023), 15 pags. Solo enumera el expediente de la Modificacion N11 del PRC Las Condes (acuerdos de concejo, oficios, avisos de prensa, audiencias, actas COSOC, nombres de planos) y corrige la firma de un funcionario. Grep de las 10 senales urbanisticas en 15/15 pags: CERO coincidencias. p15 = distribucion y firma. La norma real de la Mod.11 esta en el 'Texto Refundido de la Ordenanza Local (dic 2022)' que este oficio cita pero no incluye (ese texto refundido SI esta en la cola: las_condes_25677917f4)."
+  }
+}

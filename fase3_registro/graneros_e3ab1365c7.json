@@ -1,0 +1,25 @@
+{
+  "id": "graneros_e3ab1365c7",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\graneros_481_dispuso_la_aprobacion_del_plan_regulador_de_la_comuna_de_graneros__Plan Regulador Graneros, Diario oficial descarga.pdf",
+  "nombre": "graneros_481_dispuso_la_aprobacion_del_plan_regulador_de_la_comuna_de_graneros__Plan Regulador Graneros, Diario oficial descarga.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:51:45",
+  "fin": "2026-07-15T07:54:57",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        22,
+        27
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA imagen: PRC completo Graneros/La Compañía, Cap.V (Art.7) Zonificación pág22-27: todas las zonas ZH1-7 (habitacional densidad alta/media/baja), ZM1-4 (mixtas), ZI1-2 (industrial), ZEE/ZEC/ZERD/ZIS/ZET (equipamiento), AV (área verde), ZCH1-3 (conservación histórica) - cada zona aparece solo como título en texto, tablas embebidas como imagen JPEG (confirmado con pdfimages, múltiples imágenes grandes por página)"
+  }
+}

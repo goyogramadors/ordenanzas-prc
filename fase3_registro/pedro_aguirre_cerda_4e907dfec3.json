@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_4e907dfec3",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_solicito_informacion_sobre_las_enmiendas_del_plan_regulador_de_la_poblacion_la_v__90bf18e2-3aa9-40c6-96cf-50a519d11220.pdf",
+  "nombre": "pedro_aguirre_cerda_solicito_informacion_sobre_las_enmiendas_del_plan_regulador_de_la_poblacion_la_v__90bf18e2-3aa9-40c6-96cf-50a519d11220.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Confianza MEDIA porque se acepta la verificacion textual ya hecha por Fase 1 (motivo del CSV), no se rerenderizo aqui. Es una respuesta de Transparencia municipal que, excepcionalmente, SI transcribe contenido normativo real: describe la enmienda que reduce en 30% el coeficiente de constructibilidad y fija coeficiente maximo 0.84 para la zona PAC-1. Excepcion deliberada a la regla general de que 'solicitudes ciudadanas' son tramite.",
+    "paginas_utiles": 1
+  }
+}

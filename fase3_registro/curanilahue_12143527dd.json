@@ -1,0 +1,20 @@
+{
+  "id": "curanilahue_12143527dd",
+  "comuna": "curanilahue",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curanilahue_acuerdo_299_aprueba_aporte_aprobacion_plan_regulador_comunal__89223b22-0d33-40ae-9f90-ae7042c7a5f3.pdf",
+  "nombre": "curanilahue_acuerdo_299_aprueba_aporte_aprobacion_plan_regulador_comunal__89223b22-0d33-40ae-9f90-ae7042c7a5f3.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:13:26",
+  "fin": "2026-07-15T08:15:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Acuerdo N299: solo aprueba aporte de $10.000.000 para financiar el proceso de actualización futura del PRC (postulación programa IPT MINVU 2027), trámite presupuestario sin contenido normativo - el PRC de Curanilahue aún no está actualizado"
+  }
+}

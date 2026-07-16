@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_529985c191",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_10_LAM.3_PLANO_VIALIDAD_MODIF.N8_DEC.ALC.729.pdf",
+  "nombre": "las_condes_10_LAM.3_PLANO_VIALIDAD_MODIF.N8_DEC.ALC.729.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:57:42",
+  "fin": "2026-07-14T15:59:32",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: es la LAMINA 3, PLANO DE VIALIDAD de la Modificacion N8 (decreto alcaldicio 729), 1 pagina AutoCAD. Su texto son nombres de calles, tramos y anchos. CERO coincidencias de constructibilidad, ocupacion de suelo, predial minima, altura, antejardin o agrupamiento. Es vialidad y cartografia, no normas por zona."
+  }
+}

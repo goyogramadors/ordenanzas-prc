@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_95524a27c3",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_261_actualizacion_plan_regulador_comunal_cerrillos__202-0261-2019.pdf",
+  "nombre": "cerrillos_decreto_exento_261_actualizacion_plan_regulador_comunal_cerrillos__202-0261-2019.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 21,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:06:03",
+  "fin": "2026-07-14T15:30:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: Decreto 261/2019 es el expediente de LICITACION/ADJUDICACION del estudio 'Actualizacion PRC Cerrillos' (acta de apertura, ofertas economicas, puntajes, carta de compromiso de Urbe Arquitectos). Texto 21/21 pags + render p8 (tabla apaisada de ofertas economicas, no normas). Todas las paginas de conteo bajo son formularios de licitacion. Cero contenido normativo."
+  }
+}

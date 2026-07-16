@@ -1,0 +1,25 @@
+{
+  "id": "casablanca_91d849d80b",
+  "comuna": "casablanca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\casablanca_6007_aprueba_modificacion_del_plan_regulador__download.pdf",
+  "nombre": "casablanca_6007_aprueba_modificacion_del_plan_regulador__download.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:02:56",
+  "fin": "2026-07-14T13:06:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modif. PRC Casablanca, 1 sola pagina. Norma en PROSA sin cuadro: art.20 parrafo 3, incorpora 'Equipamiento de Salud' a los usos permitidos de la Zona ZHE. Pagina mirada completa, sin cuadro oculto."
+  }
+}

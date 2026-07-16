@@ -1,0 +1,40 @@
+{
+  "id": "linares_f859ef1614",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\linares_34_aprueba_plan_regulador_linares__plan_regulador.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Aprueba PRC Linares 1990 (Resolucion 34, Diario Oficial 33.688, 6 pags). TODO EN TEXTO REAL pero con orden DESORDENADO por columnas OCR: reemparejar cada bloque de 'Normas especificas de subdivision predial y edificacion' con el nombre de zona inmediatamente anterior, no confiar en el orden lineal. p1 (fuera del rango): TRAMPA COMUNA AJENA -- cola de una resolucion de plano seccional Unidad Vecinal Portales de la comuna de ESTACION CENTRAL (con sus propias normas, ej. predial min 2.000 m2, altura 2 pisos): NO es de Linares, no atribuir. El PDF salta de 'Pag. cinco' a 'Pag. ocho': faltan las paginas 6-7 del DO de ese dia (probablemente definiciones de usos, arts.7-18). p2: tabla de clasificacion de Equipamiento por escala (Regional/Comunal/Vecinal, general, no por zona) + arranca ZONA Z1 (predial 300 m2, ocupacion 100%, CC 2,0, agrupamiento continuo, altura 8 m). p3: cola Z1 (antejardin) + ZONA Z2 y ZONA Z4. p4: cola Z4 + ZONA Z5, Z3, ZI-1, ZR1, ZR2, ZI-2, ZR3, ZE-1, ZR4 -- termina justo antes del Cap.V Vialidad (art.27-29). p5-6: vialidad + contenido AJENO del mismo DO (tipos de cambio Banco Central), excluido. VERSION 1990, distinta a la version 2017 (linares_730334327e): no mezclar.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:14:41",
+  "fin": "2026-07-15T23:22:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\linares\\linares_34_prc1990_zonas_completas_pag2-4.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "Z5",
+      "ZI-1",
+      "ZI-2",
+      "ZE-1",
+      "ZE-2",
+      "ZR1",
+      "ZR2",
+      "ZR3",
+      "ZR4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: 13 zonas del PRC de Linares 1990 completas, reordenadas correctamente pese al desorden OCR de columnas. Confirmada trampa comuna ajena en p1 (Estacion Central) y salto de paginas 6-7 faltantes en el DO original. Vialidad (Cap.V, art.27-29) correctamente excluida."
+  }
+}

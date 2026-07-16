@@ -1,0 +1,20 @@
+{
+  "id": "quinta_de_tilcoco_a6b9eab47c",
+  "comuna": "quinta_de_tilcoco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_de_tilcoco_289_aprueba_modificacion_n_1_del_plan_regulador_comunal_de_quinta_de_tilcoco__1197991.pdf",
+  "nombre": "quinta_de_tilcoco_289_aprueba_modificacion_n_1_del_plan_regulador_comunal_de_quinta_de_tilcoco__1197991.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:19:20",
+  "fin": "2026-07-14T21:21:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SOLO VIALIDAD: Modificacion N1 PRC Quinta de Tilcoco (decreto 289/2017) solo modifica el art.26 (vialidad estructurante), incorporando nuevas vias (clasifica como via local las calles Juan Moura y Juan Leonardi) para el Comite Habitacional Villa Blanca. No fija norma de zona (usos, COS, CC, altura, etc.). 3 pags verificadas."
+  }
+}

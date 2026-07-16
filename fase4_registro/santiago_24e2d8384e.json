@@ -1,0 +1,28 @@
+{
+  "id": "santiago_24e2d8384e",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_Decreto-Promulgacion-N_C2_B0-6847.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto Secc.2da N6847, 24-nov-2021, Santiago, PROMULGA modificacion al PRC 'Ajuste de Normas Urbanisticas Poblacion Centenario'. Aprueba plano N176 y modifica el articulo 30 de la Ordenanza Local incorporando en la Zona D el nuevo Sector Especial D11 'Poblacion Centenario' con tabla completa de condicionantes de subdivision y edificacion: superficie subdivision minima 150m2, coeficiente ocupacion suelo 1.0, coeficiente constructibilidad 2.0, densidad maxima 895 hab/ha, sistema agrupamiento continuo, altura maxima 5.5m; usos de suelo remiten a los del Sector Especial D5. Verificado visualmente paginas 1-2 de 2.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:09:59",
+  "fin": "2026-07-15T18:13:05",
+  "resultado": {
+    "archivo": "extraccion_normas\\santiago\\santiago_6847_crea_d11_centenario_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "D11"
+    ],
+    "confianza": "ALTA",
+    "nota": "Crea sector especial D11 Poblacion Centenario: predial 150m2, COS 1,0, CC 2,0, densidad 895 hab/ha, continuo, altura 5,5m. Usos remiten a D5 (no transcritos). Coincide con nota_fase3. Documento par de la Memoria Explicativa (mismo contenido)."
+  }
+}

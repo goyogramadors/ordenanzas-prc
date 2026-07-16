@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_d7c2e4729d",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PLADECO_2014-2017.pdf",
+  "nombre": "las_condes_PLADECO_2014-2017.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 110,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:54:45",
+  "fin": "2026-07-14T20:55:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: NO ES UN DOCUMENTO PRC. Es el PLADECO 2014-2017 (Plan de Desarrollo Comunal), 110p, instrumento de planificacion distinto al PRC (estrategico, no normativo de uso de suelo). Grep sobre el texto completo: CERO coincidencias de coeficiente de constructibilidad, ocupacion de suelo, predial minima, altura maxima o sistema de agrupamiento. Sin normas urbanisticas por zona."
+  }
+}

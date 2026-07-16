@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_633400c93e",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_3099_modificacion_del_plan_regulador_comunal_de_san_antonio_en_los_sectores_port__DA 3099.pdf",
+  "nombre": "san_antonio_3099_modificacion_del_plan_regulador_comunal_de_san_antonio_en_los_sectores_port__DA 3099.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:26:50",
+  "fin": "2026-07-14T21:28:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "decreto de término de tramitación (EAE) de modificación PRC sectores portuarios sur/norte; el texto de la Ordenanza Local se referencia como documento adjunto separado, no está incluido en este PDF (solo antecedentes administrativos del proceso)"
+  }
+}

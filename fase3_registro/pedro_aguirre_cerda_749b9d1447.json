@@ -1,0 +1,25 @@
+{
+  "id": "pedro_aguirre_cerda_749b9d1447",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_plan_regulador_comunal_plano_memoria_y_ordenanza__97612df0-4e1e-45ca-9a72-f0a6430ce514.pdf",
+  "nombre": "pedro_aguirre_cerda_plan_regulador_comunal_plano_memoria_y_ordenanza__97612df0-4e1e-45ca-9a72-f0a6430ce514.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 40,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:43:27",
+  "fin": "2026-07-15T08:48:00",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        24,
+        40
+      ]
+    ],
+    "paginas_utiles": 17,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA comuna ajena + documento equivocado: PDF NO es PRC de Pedro Aguirre Cerda, collage de 3 documentos: (1) pag2-16 decreto MINVU N110/1983 aprueba PRC de LA CISTERNA (zonas C,H,R); (2) pag17-23 fragmento membrete MUNICIPALIDAD DE SANTIAGO (zonas C,D,E,F), sin relacion; (3) pag24-40 Seccional SPAC-87/2, Art.18 dice textualmente 'area territorial del Seccional SPAC-87/2 de la Comuna de SAN MIGUEL', zonas PAC-1,PAC-2,PAC-3,A.R.1,A.R.2, SI trae tabla completa por zona (superficie predial minima, frente predial, %ocupacion suelo, coef.constructibilidad, agrupamiento, altura maxima, distanciamientos), tabla mas clara en pag32. Firma final pag40 dice I.MUNICIPALIDAD DE SAN MIGUEL (1988). Nombre zonas PAC1-3 sugiere que aplicaria a PAC (comuna creada 1981 desde San Miguel) pero decreto la atribuye a San Miguel, no a PAC -de ahi confianza MEDIA. Portada pag1 es carta DOM La Cisterna a PAC entregando 'antecedentes', pero contenido adjunto no corresponde a PAC en ninguna de sus 3 partes. NO USAR SIN VERIFICAR VIGENCIA/TITULARIDAD ANTES DE TRANSCRIBIR."
+  }
+}

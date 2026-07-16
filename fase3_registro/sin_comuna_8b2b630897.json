@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_8b2b630897",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\LO73FC~1.PDF",
+  "nombre": "LO73FC~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T12:54:02",
+  "fin": "2026-07-14T13:00:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LO BARNECHEA: Diario Oficial 11-oct-2019, decreto DAL 785/2019 que INICIA la Evaluacion Ambiental Estrategica para actualizar el PRC. No hay normas: la pag 10 (repetida en 17) lista en VINETAS las materias del futuro PRC (art 2.1.10 OGUC: usos de suelo, agrupamiento, CC, COS, alturas...) sin valores ni zonas. Pags 15-16 carta Gantt del estudio, pag 12 cuadro de objetivos ambientales EAE. Verificado por texto (18 pags, OCR limpio) y render de pags 10 y 15."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_4096796525",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_LAMINA-2-USO-DE-SUELO-28Febrero2010.pdf",
+  "nombre": "las_condes_LAMINA-2-USO-DE-SUELO-28Febrero2010.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:56:33",
+  "fin": "2026-07-14T15:58:52",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA: PLANO DE USO DE SUELO completo de la comuna (MPRCLC-2010 Modificacion N.8, lamina 2). Es la ZONIFICACION GRAFICA de todo Las Condes con su simbologia de zonas (UvO, Uv1, Uv2, UV, UC1, UC2, UC3, UM, UEe1-UEe5). Util como referencia de que zonas existen y donde, pero NO trae cuadro de parametros normativos. Verificado por render."
+  }
+}

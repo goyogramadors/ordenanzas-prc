@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_a2e1dff750",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_3_ordenanza_municipal_de_derechos_periodo_2023__doc_34_03_02112022020320.pdf",
+  "nombre": "la_serena_3_ordenanza_municipal_de_derechos_periodo_2023__doc_34_03_02112022020320.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 29,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:24:55",
+  "fin": "2026-07-15T08:25:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza 3/2022 (28-oct-2022): FIJASE EL TEXTO DE LA ORDENANZA SOBRE DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS VIGENTE PARA EL ANO 2023. Tarifario municipal, mismo tipo que otras ordenanzas de derechos de La Serena ya registradas. No PRC. Verificado visualmente pagina 1 de 29."
+  }
+}

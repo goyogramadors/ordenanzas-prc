@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_d070be1559",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Ord.-Alc.-N14-357-del-24.8.23-a-SEREMI-MINVU.pdf",
+  "nombre": "las_condes_Ord.-Alc.-N14-357-del-24.8.23-a-SEREMI-MINVU.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:31:52",
+  "fin": "2026-07-15T08:33:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord.Alc.N14/357 (24.8.23) a SEREMI MINVU, 6p texto corrido tipo checklist respondiendo punto por punto sobre antecedentes administrativos (audiencias, actas, publicaciones) tramite Modif.N11. Sin tabla de normas por zona."
+  }
+}

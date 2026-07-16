@@ -1,0 +1,20 @@
+{
+  "id": "los_sauces_9d9775be56",
+  "comuna": "los_sauces",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\los_sauces_oficio_501_adjunta_plan_regulador_comunal__501.pdf",
+  "nombre": "los_sauces_oficio_501_adjunta_plan_regulador_comunal__501.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:36:22",
+  "fin": "2026-07-15T08:38:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio N501/2015 del Alcalde de Los Sauces a SEREMI Minvu Araucania: carta de envio adjuntando el Plan Regulador Comunal (planos, memoria, ordenanza) para evaluacion. Solo oficio de remision, no contiene el contenido normativo en si."
+  }
+}

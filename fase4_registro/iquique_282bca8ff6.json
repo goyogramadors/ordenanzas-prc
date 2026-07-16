@@ -1,0 +1,28 @@
+{
+  "id": "iquique_282bca8ff6",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\iquique_ordenanza_apruebese_las_siguientes_enmiendas_al_plan_regulador_comunal_de_iquiqu__OM330.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "IQUIQUE: Ordenanza Municipal 330 (19-nov-2001, 2p, escaneado sin OCR). Enmiendas al Plan Seccional Borde Costero, Sub-zona A-2, Sub-sector A-21, Punta El Morro. Norma en texto completo: Enmienda N1 (p1) modifica Art 19 (usos de suelo: areas verdes, esparcimiento, equipamiento turistico, caleta de pescadores y deportivo, equipamiento de servicio publico) y Art 20 (condiciones de edificacion: altura maxima 2 pisos-7m, superficie predial existente, frente predial existente, ocupacion maxima de suelo 10 por ciento, transparencia visual al mar 90 por ciento, longitud maxima de fachada 30 por ciento del frente predial). Enmienda N2 (p2) prohibe usos contrarios a los autorizados que contravengan normas sanitarias-medioambientales.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:44:03",
+  "fin": "2026-07-15T14:46:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\iquique\\iquique_om330_enmienda_a21_pag1-2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "A-21"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmiendas 1 y 2 al Plan Seccional Borde Costero sector A-21 (Punta El Morro): usos (areas verdes/esparcimiento/turistico/caleta pescadores/deportivo) + condiciones (altura 2 pisos-7m, ocupacion 10%, transparencia mar 90%, sin cierros). Coincide con nota_fase3."
+  }
+}

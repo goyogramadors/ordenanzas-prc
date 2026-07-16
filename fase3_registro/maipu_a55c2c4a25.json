@@ -1,0 +1,20 @@
+{
+  "id": "maipu_a55c2c4a25",
+  "comuna": "maipu",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maipu_informacion_sobre_actualizacion_de_plano_regulador_vigente_en_la_comuna_informac__res-160-reg-1167_16.pdf",
+  "nombre": "maipu_informacion_sobre_actualizacion_de_plano_regulador_vigente_en_la_comuna_informac__res-160-reg-1167_16.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:37:11",
+  "fin": "2026-07-15T08:40:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Documento transparencia: Resolucion N160/2016 (accede parcialmente), acuse recibo, y Memorandum N298/2016 SECPLA responde consulta puntual sobre predio (Alberto Llona N214, zona ZC3) remitiendo a visor web sitmaipu.maipu.cl en vez de tabla; carta DOM sobre expediente en tramite. Ninguna de 7 paginas tiene tabla de normas."
+  }
+}

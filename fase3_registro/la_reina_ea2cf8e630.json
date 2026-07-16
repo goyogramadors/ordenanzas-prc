@@ -1,0 +1,25 @@
+{
+  "id": "la_reina_ea2cf8e630",
+  "comuna": "la_reina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_reina_298_sanciona_enmienda_n_1_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "nombre": "la_reina_298_sanciona_enmienda_n_1_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:48:56",
+  "fin": "2026-07-14T15:51:46",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda N1 PRC La Reina (Acuerdo 857). Norma en PROSA (no cuadro; render confirma que no hay tabla-imagen). p2: enmienda el art.24 -> elimina los usos de suelo de Vivienda y Equipamiento Comercial de la Puerta B7 (Zona B, Puertas de La Reina) y la incorpora a la ZONA M1 Parque Intercomunal, que permite areas verdes, recreacional, deportivo, culto, cultura, cientifico, esparcimiento y turismo al aire libre. p3: cierra la fijacion del limite poniente del parque. Los items 4-5 (planos LR/01 y LR/05) son vialidad, no cuentan. p1 solo decreto sancionador."
+  }
+}

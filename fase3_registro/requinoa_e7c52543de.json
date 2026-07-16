@@ -1,0 +1,20 @@
+{
+  "id": "requinoa_e7c52543de",
+  "comuna": "requinoa",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\requinoa_decreto_alcaldicio_3056_designa_incorporacion_contraparte_municipal_municipal_el__DA3056.pdf",
+  "nombre": "requinoa_decreto_alcaldicio_3056_designa_incorporacion_contraparte_municipal_municipal_el__DA3056.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:26:34",
+  "fin": "2026-07-14T21:27:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Decreto 3056 designa/actualiza la nomina de Contraparte Municipal (SECPLA, DOM, Comite Ambiental Estrategico) para el convenio de cooperacion SEREMI MINVU-Municipalidad en la elaboracion del PRC de Requinoa. Solo nombres y cargos, sin normas."
+  }
+}

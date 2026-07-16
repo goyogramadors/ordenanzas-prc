@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_d10e9d497a",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\QUB2C7~1.PDF",
+  "nombre": "QUB2C7~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:07:34",
+  "fin": "2026-07-15T08:09:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto Alcaldicio 7565 (06.08.2018), I.Municipalidad de Quillota. Promulga Acuerdo 250/2018: autoriza inicio del proceso aprobatorio del Informe de Evaluacion Ambiental Estrategica del estudio Actualizacion PRC Quillota, ingreso a Ministerio de Medio Ambiente. Puramente procedimental/administrativo, sin ningun valor de norma urbanistica (sin COS/CC/altura/predial/etc)."
+  }
+}

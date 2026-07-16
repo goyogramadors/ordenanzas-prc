@@ -1,0 +1,33 @@
+{
+  "id": "penalolen_79f494d1b6",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_1200_3504_aprueba_modificacion_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "rangos": [
+    [
+      11,
+      13
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "TRAMPA imagen: modificación 'Extensión Límite Urbano Peñalolén Nuevo' agrega 6 nuevas zonas (R4, R11, EQ-2 a EQ-5) al área urbana. Tablas de usos/condiciones embebidas como imagen en pág11-13 (confirmado pdfimages). Notas al pie mencionan condiciones especiales (mecánica de suelos, gases, taludes, cierros) para estas zonas de riesgo/expansión",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:24:55",
+  "fin": "2026-07-16T08:16:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_3504_extension_limite_urbano_6zonas_pag11-13.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "R4",
+      "R11",
+      "EQ-2",
+      "EQ-3",
+      "EQ-4",
+      "EQ-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa imagen confirmada. Decreto de creacion original de R4/R11/EQ-2/EQ-3 (coincide exacto con fichas ya registradas) mas EQ-4 (deportivo/espectaculos, ocupacion max 20%) y EQ-5 (pozo Quebrada de Macul/Canal las Perdices, predial 3 ha, ocupacion 10%, CC 0,1) transcritas por primera vez. Coincide con nota_fase3."
+  }
+}

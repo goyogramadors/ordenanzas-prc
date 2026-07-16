@@ -1,0 +1,20 @@
+{
+  "id": "el_quisco_2f78c18166",
+  "comuna": "el_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_planos_reguladores_planos_sectorial_predial_topografico_hidrograficoloteo__4d49b237-1d52-4fd4-9a84-75714358769e.pdf",
+  "nombre": "el_quisco_planos_reguladores_planos_sectorial_predial_topografico_hidrograficoloteo__4d49b237-1d52-4fd4-9a84-75714358769e.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:51:29",
+  "fin": "2026-07-15T07:53:03",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Correspondencia Transparencia (Ley 20285): ORD.108/2019 (pag1-2), Memorando 656/2019 (pag3), Informe respuesta a solicitud de planos (pag4-5, pag5 copia escaneada duplicada de pag4). Explica que planos existen (PRC 1994, seccional Isla Negra 1998, restitucion aerofotogrametrica 2007) pero no transcribe tabla de normas ni articulos de ordenanza; ofrece enviarlos por correo adjunto no incluido en este PDF."
+  }
+}

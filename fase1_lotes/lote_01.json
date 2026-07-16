@@ -1,0 +1,692 @@
+[
+ {
+  "id": "d0479",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "cu04a6_1",
+  "archivo": "CU04A6~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 9,
+  "paginas_escaneadas": 9,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0480",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "cu1528_1",
+  "archivo": "CU1528~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0481",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "cu47e3_1",
+  "archivo": "CU47E3~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 12,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0482",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "cuae0a_1",
+  "archivo": "CUAE0A~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0483",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "cufa98_1",
+  "archivo": "CUFA98~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0484",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "laa257_1",
+  "archivo": "LAA257~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 14,
+  "paginas_escaneadas": 14,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0485",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "lo696e_1",
+  "archivo": "LO696E~1.PDF",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 2,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 1,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (constructibilidad, ocupacion_suelo, altura_maxima, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 41.271\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 1 de Octubre de 2015\r\n\r\nMunicipalidad de Lo Barnechea\r\n\r\n2. Aprobar el siguiente título representativo de índices financieros:\r\nTítulo Representativo de Índices Financieros\r\n\r\nPaís de registro\r\n\r\nSPDR Dow Jones Industrial Average ETF Trust\r\n\r\nEstados Unidos\r\n\r\n3. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, debido a\r\nque no fue renovada la respectiva solicitud de aprobación:\r\nFondo Mutuo Extranjero\r\n\r\nPaís de registro\r\n\r\nCapital International Fund - Global Equity Fund\r\n\r\nLuxemburgo\r\n\r\nCapital International Emerging Markets Fund\r\n\r\nLuxemburgo\r\n\r\nNatixis International Funds (Lux) I - Absolute Asia AM Pacific Rim Equities\r\nFund\r\n\r\nLuxemburgo\r\n\r\nNatixis International Funds (Lux) I - Harris Associates Global Equity Fund\r\n\r\nLuxemburgo\r\n\r\n4. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, en atención\r\na que su propiedad se encuentra concentrada:\r\nFondo Mutuo Extranjero\r\nNatixis International Funds (Lux) I - Loomis Sayles U.S. Research Fund\r\nPIMCO Funds: Global Investors Series Plc. - Emerging Markets Corporate\r\nBond Fund\r\n\r\nPaís de registro\r\nLuxemburgo\r\nIrlanda\r\n\r\n5. Desaprobar las cuotas de los siguientes fondos mutuos extranjeros, en consideración\r\na que no cuentan con activos por un monto igual o superior a los US$ 100 millones:\r\nFondo Mutuo Extranjero\r\n\r\nCuerpo I - 7\r\n\r\nPaís de registro\r\n\r\nCS Investment Funds 5 - Credit Suisse (Lux) Infrastructure Equity Fund\r\n\r\nLuxemburgo\r\n\r\nPi"
+ },
+ {
+  "id": "d0486",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "lo9bab_1",
+  "archivo": "LO9BAB~1.PDF",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Nº 41.273\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 3 de Octubre de 2015\r\n\r\n3. Oficio Circular Nº 11.543, de fecha 20.12.2013, que prohíbe la comercialización\r\ndel producto Bolsa para Agua Caliente (Guatero Eléctrico).\r\n4. Oficio Ord. Nº 6.285, de fecha 10.06.2014, que instruye a la empresa Mar\r\ndel Sur SpA.\r\n5. Cartas de la empresa Mar del Sur SpA, ingresadas a SEC bajo las O.P.\r\nNºs 10.785 y 13.295, de fechas 10.06.2015 y 22.07.2015, respectivamente.\r\n6. Informe Técnico Nº ACC 1169152/ DOC 960632, de fecha\r\n23.06.2015.\r\nDe: Superintendente de Electricidad y Combustibles\r\nA: Según distribución\r\n1. Que esta Superintendencia, mediante el Oficio Circular referenciado en ANT.\r\n3, prohibió la comercialización del producto “Bolsa para Agua Caliente (Guatero\r\nEléctrico)”, individualizado en la Tabla Nº 1, por detectarse productos certificados\r\nque no cumplen con un requisito normativo y reglamentario, individualizado en el\r\nprotocolo de ensayos PE Nº 1/27, cuestión calificada por el ordenamiento vigente\r\ncomo riesgoso para los usuarios.\r\nTabla Nº 1\r\n\r\nImagen\r\n\r\n2. En cartas de ANT. 5, la empresa Mar del Sur SpA solicitó a esta\r\nSuperintendencia alzamiento de la prohibición transitoria del Oficio Circular\r\nNº 11.543, de 2013, referente a la recertificación de un lote, en la que se obtuvo\r\nun Certificado de Seguimiento, según lo indicado en la Tabla Nº 2:\r\nTabla Nº 2\r\n\r\nIMAGEN\r\n\r\n3. Que revisados los antecedentes del punto precedente y del Informe Técnico\r\nde ANT. 6, esta Su"
+ },
+ {
+  "id": "d0487",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "an57ff_1",
+  "archivo": "AN57FF~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 7,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 16
+  },
+  "senales_tramite": {
+   "txt_licitacion": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Il.USTRE MUNICIPALIDAD DE ANTUCO\r\nDIRECCiÓN DE OBRAS MUNICIPAl.ES\r\n\r\nREF.: APRUEBA ORDENANZA MUNICIPAl. 2022 - EXTRACCiÓN DE\r\nÁRIDOS EN POZOS LASTREROS DE PROPIEDAD PARTICULAR EN LA\r\nCOMUNA DE ANTUCO\".\r\n\r\nANTUCO,\r\n\r\n1 O JUN 2022\r\n\r\nOECRETO ALCALDICIO N\" _ _-\"\r\nO:..:O\"-\"3'-7\r\n.:....;G\"-!;~'-__I\"',.\r\n\r\na) Decreto Alcaldicio W 3707/08.06.2022, que deja si n efe cto Decreto Alcaldicio W\r\n5695/14.12.2020, Ordenanza Municipal 2020 \"Extracción de Áridos en Pozos Lastreros de Propiedad\r\nParticular de la Comuna de Antuco~.\r\nb) Decreto Alcaldicio W 5695/14.12.2020, aprueba Ordenanza Municipal 2020 \"Extracc ión\r\nde Áridos en Pozos Lastreros de Propiedad Particular de la Comu na de Antuco\".\r\nc) Ley W 11.402/1953 del Ministerio de Obras Públicas, sob re obras de defensa y\r\nregu lación de riberas y cauces.\r\nd) Ley W 19.300/1994, sobre bases generales del Medio Ambiente y Decreto W 40/2013,\r\nque aprueba reglamento del Sistema de Evaluación de Impacto Ambiental\r\ne) DL W 3.063/1996 de Rentas Municipales.\r\nf)\r\nLey W 19.880. que establece bases de procedimientos admi nistrativos, que rigen los\r\nactos de los órganos de la administración del esta do.\r\ng) Ley W 18.575, Orgánica Constitucional de Bases Generales de la Administración del\r\nEstado, con fecha 05 de diciembre de 1986, en Diario Oficial de la Re pública.\r\nh) Las facu ltades que me confiere Ley W 18.695, Orgánica Constitucional de\r\nMunicipalidades y sus mod ificaciones posteriores.\r\nCONSIDERANDO,\r\n\r\na) La neces idad de preservar los Biene"
+ },
+ {
+  "id": "d0488",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "ca12e2_1",
+  "archivo": "CA12E2~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 65,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 4,
+   "articulado": 1,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (constructibilidad, ocupacion_suelo, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPUBLICADECHILE\r\nREGIONDEATACAMA\r\n\r\nILUSTREMUNICIPALIDADDECALDERA\r\nSECPLAN\r\n\r\nAPRUEBAPLANOSECCIONALYENMIENDASALPLAN\r\nREGULADORCOMUNAL\r\n\r\nCALDERA,\r\n\r\n1 6 A60.2012\r\n\r\nVISToS:ActadeacuerdoNs1162y1171hasta1227,quedefine\r\nuno a uno los casos consultados que fueron aprobados mediante acta de acuerdo N°76g de fecha\r\n2o11que aprueba la rectificacion de una lista de casos consultados porla comunidad ypropuestos\r\npor la Secretaria de Planificacion Comunal y Direccion de Obras; DecretoFuerza LeyN°458/75,que\r\naprueba la Ley General de Urbanismo y Construccion y la Ordenanza General de Urbanismo y\r\nConstruccion; Decreto N°225 de fecha o9 de Febrero de 2010, que aprueba la actualizacion del Plan\r\nRegulador Comunal;Lapublicacion en el Diario Oficial defecha Sabado13 defebrero de 2o1o, en\r\nrelacion a la entrada en vigenciade la actualizacion del Plan Regulador Comunal de Caldera; Decreto\r\nN°1766 del o7 de julio del 2011, que delega funciones a la Administradora Municipal; el decreto 2630\r\ndel 25 de octubre de 2o11, que establece subrogancias y las atribuciones que me otorga la Ley\r\nN°18.695“Organica constitucional de municipalidades y sus posteriores modificaciones.\r\nCONSIDERANDO:\r\n\r\n1.-Que,el proposito de los instrumentos de planificacion\r\nterritorial, es entregar informacion actualizada para el desarrollo urbano de la comuna.\r\n\r\n2.-Que, la Secretaria de Planificacion Comunal, junto a la\r\nDirecciondeObras Municipales,haceevidentelanecesidadderectificarel instrumento.\r\n3.-Que,la comunidad h"
+ },
+ {
+  "id": "d0489",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "lo73fc_1",
+  "archivo": "LO73FC~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 18,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "normas_urbanisticas": 1,
+   "articulado": 6,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, normas_urbanisticas, articulado, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.475\r\n\r\n|\r\n\r\nViernes 11 de Octubre de 2019\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nAvisos\r\nCVE 1664390\r\n\r\nMUNICIPALIDAD DE LO BARNECHEA\r\n\r\nMunicipalidad de Lo Barnechea\r\nFundamento: Decreto DAL Nº785 de fecha 27 de septiembre de 2019 de la\r\nMunicipalidad de Lo Barnechea, que aprobó lo siguiente\r\nEXTRACTO DE INICIO DEL PROCEDIMIENTO DE EVALUACIÓN\r\nAMBIENTAL ESTRATÉGICA (EAE), DE LA ACTUALIZACIÓN DEL PLAN\r\nREGULADOR COMUNAL DE LO BARNECHEA\r\n1. ÓRGANO RESPONSABLE\r\nIlustre Municipalidad de Lo Barnechea\r\n2. RESUMEN DE ANTECEDENTES\r\nEl instrumento de planificación territorial (IPT) que se someta a Evaluación\r\nAmbiental Estratégica (EAE) corresponde a la “Actualización del Plan Regulador\r\nComunal de Lo Barnechea”.\r\nEl Proyecto de Actualización del Plan Regulador Comunal (PRC) de Lo Barnechea,\r\nsurge a partir de la necesidad de revisar, actualizar y ajustar el PRC vigente desde el año\r\n2002, específicamente en el \"Área Urbana Bajo la Cota 1.000 m.s.n.m”, con el fin de dar\r\nrespuesta a desafíos urbanos y requerimientos comunales, que se han generado debido a\r\nla obsolescencia del instrumento en algunos ámbitos normativos, que dificultan su\r\naplicación. En este contexto cabe mencionar las numerosas modificaciones que han\r\ntransformado el IPT en un instrumento reactivo que pretende solucionar problemas\r\npuntuales sin integrar "
+ },
+ {
+  "id": "d0490",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "lob32e_1",
+  "archivo": "LOB32E~1.PDF",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "normas_urbanisticas": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (normas_urbanisticas, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 6 de Mayo de 2011\r\n\r\nNº 39.953\r\n\r\nlitana de Vivienda y Urbanismo, que solicita el informe previo previsto en el\r\nartículo 59º de la Ley General de Urbanismo y Construcciones.\r\n3. El informe previo favorable emitido por la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo mediante el ord. Nº 788, de fecha 16 de febrero de\r\n2011, y\r\nTeniendo presente: Las facultades conferidas por la ley Nº 18.695, de 1988,\r\nOrgánica Constitucional de Municipalidades, y el inciso primero del citado artículo\r\nNº 59 de la Ley General de Urbanismo y Construcciones, que en parte dispone que\r\nvencidos los plazos de las declaratorias de utilidad pública de las áreas allí\r\nseñaladas: ‘‘Las nuevas normas urbanísticas aplicables a dichas áreas deberán ser\r\nfijadas dentro del plazo de seis meses, contado desde la caducidad de la declaratoria, por la municipalidad respectiva, mediante decreto alcaldicio, previo informe de\r\nla Secretaría Regional Ministerial de Vivienda y Urbanismo, asimilándolas a las de\r\nla zona predominante de las adyacentes al terreno’’.\r\nDecreto:\r\n1.- Asígnense nuevas normas urbanísticas aplicables a las áreas de los predios\r\nque estaban afectos a declaratoria de utilidad pública para ensanchar la calle El\r\nOlivar, asimilándolas a las de la zona adyacente de acuerdo a lo señalado en la tabla\r\nsiguiente:\r\n\r\nCuerpo I - 15\r\n\r\nel certificado Nº 123 de 11 de mayo de 2010, suscrito por el Secretario Abogado\r\nMunicipal; la resolució"
+ },
+ {
+  "id": "d0491",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "loec66_1",
+  "archivo": "LOEC66~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "antejardin": 2,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 6,
+   "articulado": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (antejardin, zonificacion, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Cuerpo I - 12\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 13 de Mayo de 2016\r\n\r\nCorte de Apelaciones de Concepción. Tribunal de Juicio Oral en lo Penal de\r\nCañete.- Llámese a concurso externo, por el término de diez días contados desde la\r\npublicación de este aviso en el Diario Oficial, para proveer el cargo de Jefe de Unidad\r\n- Jefe de Unidad de Causas, perteneciente a la Quinta Categoría de la Tercera Serie\r\ndel Escalafón Secundario del Poder Judicial, Grado XI de la Escala de Sueldos del\r\nPersonal Superior, vacante por promoción de don Claudio Alejandro Toloza Urrutia.\r\nLos interesados deben acreditar el cumplimiento de los requisitos legales e\r\ningresar sus antecedentes en la página www.poderjudicial.cl, a través del portal de\r\npostulaciones, que dispone de mayor información relativa al concurso.- Administrador\r\ndel Tribunal.\r\nCorte de Apelaciones de Concepción. Juzgado de Letras y Garantía de Lebu.Llámese a concurso interno, por el término de diez días contados desde la publicación\r\nde este aviso en el Diario Oficial, para proveer el cargo de Oficial 1º, perteneciente\r\na la Tercera Categoría del Escalafón de Empleados del Poder Judicial, Grado XII\r\nde la Escala de Sueldos del Personal de Empleados, vacante por promoción de don\r\nDavid Hernán Bravo Villarroel.\r\nLos interesados deben acreditar el cumplimiento de los requisitos legales e\r\ningresar sus antecedentes en la página www.poderjudicial.cl, a través del portal de\r\npostulaciones, que dispone de mayor informaci"
+ },
+ {
+  "id": "d0492",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "re6b5f_1",
+  "archivo": "RE6B5F~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "articulado": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZC2",
+   "ZCH",
+   "ZE",
+   "ZE2",
+   "ZH7",
+   "ZH9",
+   "ZONA",
+   "ZU23"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (usos_de_suelo, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "RENGO\r\nSecretaria Comunal de Planificación\r\n\r\nç14\r\n\r\nDECRETO ALCALDICIO N\r\nRENGO,\r\n\r\n4\r\n«MD)\r\n\r\n21 MAR. 2023\r\n\r\nVISTOS:\r\nLo establecido en la Ley N°19.880, sobre Procedimientos Administrativos; lo señalado en\r\nlos artículos 42°, 43°, 44° y 45° de la Ley General de Urbanismo y Construcciones; lo dispuesto\r\nen los artículos 2.1 .10 y 2.1 .11 de la Ordenanza General de Urbanismo y Construcciones; y, en uso\r\nde las facultades que me confiere la Ley N° 18.695, Orgánica Constitucional de Municipalidades\r\ny sus modificaciones posteriores.\r\n\r\nCONSIDERANDO:\r\nQue, el Decreto Alcaldicio N°12471(MD) de fecha 16 de noviembre de 2020 instruyó el\r\ninicio de la Modificación N°6 al Plan Regulador Comunal de Rengo.\r\nQue, el Decreto Alcaldicio N° 0602(MD) de fecha 30 de abril de 2021, aprobó la Imagen\r\nObjetivo de la Modificación N°6 al Plan Regulador Comunal de Rengo y definió las actividades a\r\nrealizar durante la etapa de consulta pública establecidas en artículo 28 octies de la Ley General de\r\nUrbanismo y Construcciones (LGUC).\r\nQue, el Decreto Alcaldicio N° 0652(MD) de fecha 12 de mayo de 2021, complementó y\r\nrectificó el Decreto Alcaldicio N°0602/(MD) de fecha 30 de abril de 2021, para precisar el plazo\r\nde exposición a la comunidad y la presentación al Consejo de la Sociedad Civil de la Imagen\r\nObjetivo de la Modificación N°6 al Plan Regulador Comunal.\r\nQue, mediante Ordinario N°1581 de fecha 27 de Julio de 2021 el Director(S) del Servicio\r\nde Salud O'Higgins (SSO) solicitó al Alcalde de"
+ },
+ {
+  "id": "d0493",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "re6c2c_1",
+  "archivo": "RE6C2C~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "1;\r\n\r\nAsí me\r\ngustaRENGO\r\n\r\nFr\r\n\r\nRENGO\r\nAsesoría Jurídica\r\n\r\nDECRETO ALCALDICIO_07\r\nRENGO,\r\n\r\n2 06%'\r\n\r\n85 JUN. 2018\r\n\r\nVISTOS:\r\nLa Ley N° 18.695, Orgánica Constitucional de Municipalidades y sus\r\nmodificaciones, texto refundido por el D.F.L. N° 1, del 09 de Mayo de 2006, del\r\nMinisterio del Interior, publicado en el Diario Oficial del 26 de Julio de 2006; el DFL 458\r\n(y. y U.) de 18.12.1975 y sus modificaciones, que establece la Ley General de Urbanismo\r\ny Construcciones; Oficio N° 0304 de 08 de mayo de 2015 del MINVU; Oficio N° 088 de\r\n25de junio de 2015 de la Subdere a los municipios del país.\r\n\r\nCONSIDERANDO:\r\nLa solicitud del Sr. Alcalde de la comuna de Rengo, para iniciar\r\na)\r\nprocedimiento para la actualización del Plan Regulador vigente para la comuna de\r\nRengo.\r\nQue a través del Oficio N° 304 de 08 de mayo de 2015, el MINVU solicita\r\nb)\r\na la SUBDERE, comunicar a los municipios del país, respecto de la consideración de\r\ncriterios de participación ciudadana temprana, en la formulación o modificación de los\r\nplanes reguladores;\r\nPor oficio N° 088 de 25 de junio de 2015, la SUBDERE informa y comunica\r\nc)\r\na las municipalidades, que para la formulación de planos reguladores comunales,\r\nintercomunales o metropolitanos, incluidas sus actualizaciones y modificaciones, los\r\nmunicipios deberán implementar el principio de participación temprana contemplando\r\nun trabajo previo de sensibilización e información en las respectivas comunas de\r\nmanera de generar un estrecho vínculo"
+ },
+ {
+  "id": "d0494",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "reffc5_1",
+  "archivo": "REFFC5~1.PDF",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 6,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {
+   "predial_minima": 8,
+   "agrupamiento": 3,
+   "usos_de_suelo": 13,
+   "articulado": 8,
+   "limite_urbano": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZC1",
+   "ZH10",
+   "ZH7",
+   "ZH9"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (predial_minima, agrupamiento, usos_de_suelo, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE RENGO\r\n4DECRETO ALCALDICIO N°\r\n\r\n4', I F\r\n\r\nRENGO,\r\n\r\n3 4\r\n\r\n2 0 MAR. 2015\r\n\r\nCONSIDERANDO:\r\n\r\nLa publicaciOn en el Diario Oficial de la RepUblica de Chile del Plan Regulador\r\nComunal de Rengo el 14 de Abril de 2009 sobre la cual se han efectuado, a la fecha, cuatro\r\n\"modificaciones No Sustanciales\".\r\nLo establecido en el articulo 450 de la Ley General de Urbanismo y Construcciones, en\r\nrelacion a que las modificaciones al Plan Regulador Comunal se sujetaran, en lo pertinente, al\r\nmismo procedimiento senalado en el inciso primero del articulo 43 que, a su vez, establece el\r\nprocedimiento para la elaboracion y aprobacion de los planes reguladores comunales.\r\nQue diversas iniciativas urbanisticas municipales de indole modificatorio se han\r\nsucedido a lo largo del tiempo, las cuales han sido pospuestas debido a urgencias de\r\ntramitaciOn de otros temas urbanisticos de impacto mas inminente.\r\nEl conocimiento previo del H. Concejo Comunal respecto de todos los casos que se\r\nlistaran a continuacion, situacion que consta en las actas de Concejo numeros 41', 42a, 61a, 64'\r\nde 2014;\r\nDetalle de 16 Modificaciones No-Sustanciales a iniciar proceso simultaneo v unitario de\r\ntramitacion mediante la Modificacion N25 al Plan Regulador Comunal de Rengo\r\n\r\nTema\r\n\r\nZona\r\nUrbana\r\n\r\nTema N21)\r\n\r\nRENGO\r\n\r\nTema N22)\r\nTema N23)\r\nTema N24)\r\n\r\nRENGO\r\nRENGO\r\nRENGO\r\n\r\nTema N25)\r\n\r\nRENGO\r\n\r\nTema N26)\r\n\r\nRENGO\r\n\r\nTema N27)\r\n\r\nRENGO\r\n\r\nTema N28)\r\n\r\nRENGO\r\n\r\nTema N29)\r\n\r\nRENGO\r\n\r\nTema N21"
+ },
+ {
+  "id": "d1037",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "qub2c7_1",
+  "archivo": "QUB2C7~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1038",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "quinte_3",
+  "archivo": "QUINTE~3.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 7,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1039",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "re0b51_1",
+  "archivo": "RE0B51~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1040",
+  "comuna": "SIN_COMUNA",
+  "nombre_documento": "re9364_1",
+  "archivo": "RE9364~1.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": true,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0495",
+  "comuna": "algarrobo",
+  "nombre_documento": "3336_aprueba_la_modificacion_del_plan_regulador_comuna_de_algarrobo_singularizad",
+  "archivo": "algarrobo_3336_aprueba_la_modificacion_del_plan_regulador_comuna_de_algarrobo_singularizad__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH3",
+   "ZHS3",
+   "ZONA",
+   "ZSH3",
+   "ZSH3A",
+   "ZSH3B"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 3460, ALGARROBO (2018)\r\n\r\nDecreto 3460\r\nAPRUEBA LA MODIFICACIÓN DEL PLAN REGULADOR COMUNA DE\r\nALGARROBO, SINGULARIZADO CON EL NOMBRE DE \"MODIFICACIÓN PLAN\r\nREGULADOR COMUNAL, ZONA ZSH3 SECTOR DEPORTIVO MIRASOL\"\r\nMUNICIPALIDAD DE ALGARROBO\r\nFecha Publicación: 21-JUN-2018 | Fecha Promulgación: 12-JUN-2018\r\nTipo Versión: Única De : 21-JUN-2018\r\nUrl Corta: https://bcn.cl/3l047\r\n\r\nAPRUEBA LA MODIFICACIÓN DEL PLAN REGULADOR COMUNA DE ALGARROBO, SINGULARIZADO CON EL\r\nNOMBRE DE \"MODIFICACIÓN PLAN REGULADOR COMUNAL, ZONA ZSH3 SECTOR DEPORTIVO MIRASOL\"\r\nNúm. 3.460.- Algarrobo, 12 de junio de 2018.\r\nVistos:\r\n1. Ley N° 18.695, Orgánica Constitucional de Municipalidades y sus\r\nmodificaciones.\r\n2. Ley N° 18.883, Estatuto Administrativo para funcionarios municipales.\r\n3. Decreto Alcaldicio N° 6.629, de fecha 6 de diciembre de 2017, en el cual se\r\nasume Alcaldía.\r\n4. DFL N° 228-19.321, del 16.09.94 (Aprobación Planta Municipal).\r\n5. DA N° 2.726, de fecha 14.12.2017, Aprueba el Acuerdo N° 190 de Concejo\r\nMunicipal de Algarrobo, Sesión Ordinaria N° 35, de 13.12.2017, Aprueba Presupuesto\r\nMunicipal 2018.\r\n6. DA N° 2.736, de fecha 15.12.2017, Aprueba Presupuesto Municipal 2018.\r\n7. Las facultades que le confiere al Honorable Concejo Comunal el Artículo\r\nN°65, letra b, de la Ley N° 18.695, Orgánica Constitucional de Municipalidades,\r\ntexto refundido.\r\n8. Lo dispuesto en los Artículos 5, 41, 42, 43, 44 y 45 de Ley General de\r\nUrbanismo y Construcciones.\r\nConsiderando:\r\n1. La necesidad del "
+ },
+ {
+  "id": "d0496",
+  "comuna": "andacollo",
+  "nombre_documento": "445_aprueba_enmienda_n_1_al_plan_regulador_comunal",
+  "archivo": "andacollo_445_aprueba_enmienda_n_1_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 3,
+   "altura_maxima": 3,
+   "agrupamiento": 4,
+   "ordenanza_local_txt": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU1"
+  ],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 445, ANDACOLLO (2011)\r\n\r\nDecreto 445\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE ANDACOLLO\r\nFecha Publicación: 18-NOV-2011 | Fecha Promulgación: 02-AGO-2011\r\nTipo Versión: Única De : 18-NOV-2011\r\nUrl Corta: https://bcn.cl/3m6wo\r\n\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL\r\nNúm. 445.- Andacollo, 2 de agosto de 2011.- Vistos y considerando: El Plan\r\nRegulador Comunal de Andacollo, aprobado mediante decreto alcaldicio Nº 19, de fecha\r\n29 de diciembre de 1989, y publicado en el Diario Oficial con fecha 11 de octubre de\r\n1991; las cartas certificadas dirigidas a las Organizaciones Territoriales afectadas\r\npor la propuesta de la enmienda Nº 1 del Plan Regulador Comunal de Andacollo; las\r\npublicaciones efectuadas con fechas 28 de abril y 5 de mayo de 2011 en el Diario El\r\nDía de la IV Región, informando la realización de las audiencias públicas en\r\nrelación a la enmienda Nº 1 al Plan Regulador de la Comuna de Andacollo y la\r\nExposición al Público de la enmienda Nº 1 al Plan Regulador de la Comuna de\r\nAndacollo, Oficina de Recepción de la Dirección de Obras; la Primera Audiencia\r\nPública en relación a la enmienda Nº 1, efectuada con fecha 11 de mayo de 2011; la\r\nsesión extraordinaria Nº 1 del Consejo Económico y Social, de fecha 5 de mayo de\r\n2011, en la cual se expuso la enmienda Nº 1; el decreto alcaldicio Nº 445/2011, de\r\nfecha 6 de abril de 2011, que ordena la exposición al público del Proyecto enmienda\r\nNº 1 al Plan Regulador de Andacollo; la"
+ },
+ {
+  "id": "d0497",
+  "comuna": "angol",
+  "nombre_documento": "40_gobierno_regional_de_la_araucania_promulga_actualizacion_del_plan_regulador_c",
+  "archivo": "angol_40_gobierno_regional_de_la_araucania_promulga_actualizacion_del_plan_regulador_c__40.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 20,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 1,
+   "distanciamiento": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 9,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z1",
+   "Z2"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 7 senales normativas (altura_maxima, distanciamiento, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.376\r\n\r\n|\r\n\r\nViernes 14 de Octubre de 2022\r\n\r\n|\r\n\r\nPágina 1 de 20\r\n\r\nNormas Generales\r\nCVE 2200514\r\n\r\nGOBIERNO REGIONAL DE LA ARAUCANÍA\r\n\r\nPROMULGA ACTUALIZACIÓN DEL PLAN REGULADOR COMUNA DE ANGOL\r\n(Resolución)\r\nNúm. 40.- Temuco, 6 de junio de 2022.\r\nVistos:\r\n1. La ley Nº 21.395, del año 2021, que aprobó el Presupuesto del Sector Público para el año\r\n2022;\r\n2. El Proceso Aprobatorio de Actualización Plan Regulador Comunal de Angol;\r\n3. La ordenanza local, Actualización Plan Regulador Comunal de Angol;\r\n4. La memoria explicativa, Actualización Plan Regulador Comunal de Angol;\r\n5. El Estudio de Suficiencia de Equipamiento Urbano, Actualización Plan Regulador\r\nComunal de Angol;\r\n6. La Factibilidad Sanitaria, Actualización Plan Regulador Comunal de Angol;\r\n7. El Estudio Capacidad Vial, Actualización Plan Regulador Comunal de Angol;\r\n8. El Estudio de Riesgo, Actualización Plan Regulador Comunal Angol;\r\n9. La Evaluación Ambiental Estratégica Actualización Plan Regulador Comunal Angol;\r\n10. Los Planos Plan Regulador Comunal de Angol;\r\n11. El informe jurídico Nº 3, de fecha 11.05.2015, de la asesora jurídica de la Seremi Minvu\r\nRegión de la Araucanía;\r\n12. El informe aprobación PRC Nº 82 de fecha 24.07.2017, sobre Plan Regulador Comunal\r\nde Angol, de la Secretaría Regional Ministerial de Vivienda y Urbanismo R"
+ }
+]

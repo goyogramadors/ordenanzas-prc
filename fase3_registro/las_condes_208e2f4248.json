@@ -1,0 +1,37 @@
+{
+  "id": "las_condes_208e2f4248",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_Memoria_Explicativa_Mod_11_v_corregida_firmada.pdf",
+  "nombre": "las_condes_Memoria_Explicativa_Mod_11_v_corregida_firmada.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 54,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:54:35",
+  "fin": "2026-07-14T16:01:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        16,
+        16
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        22,
+        33
+      ],
+      [
+        43,
+        44
+      ]
+    ],
+    "paginas_utiles": 16,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "MEMORIA EXPLICATIVA Mod.11 Las Condes (54 pags) - ATIPICA: SI trae normativa real, no solo diagnostico. Texto nativo (verificado con render de p22). p16: Tabla A y Tabla B para Predio Existente Remanente de Densificacion (densidad bruta, CC 2,0, rasante 70, altura 5 pisos/17,5 m o 3/10,5 m, antejardin 4-5 m). p18: tabla Pendiente(%) / Superficie Predial Minima / COS / Rasante (ej. pendiente 45,1-65% -> predial 8.000 m2, COS 0,30, rasante 60). p22-31: cuadro comparativo NORMA VIGENTE vs PROPUESTA del art.38, tablas reales por zona (E-Aa3, E-Aa+cm, E-Am1'...) con densidad, subdivision, CC, COS, rasante, altura, antejardin, distanciamiento, agrupamiento. p32-33: tablas de reconversion Densidad Neta->Bruta de todas las zonas E-Ab1..E-Aa+cm. p43-44: zona E-e5 patrimonial y predios colindantes (E-Am1). p20-21 solo siglas; p34-42 y 45-48 derogaciones sin valores."
+  }
+}

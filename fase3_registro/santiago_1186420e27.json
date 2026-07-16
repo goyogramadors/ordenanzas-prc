@@ -1,0 +1,20 @@
+{
+  "id": "santiago_1186420e27",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_14.-Acuerdo-N_C2_B0423.pdf",
+  "nombre": "santiago_14.-Acuerdo-N_C2_B0423.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:53:49",
+  "fin": "2026-07-15T12:55:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Acuerdo N°423/2019 del Concejo de Santiago: aprueba los TÉRMINOS GENERALES del Anteproyecto de modificación al PRC ('Corrección de la Zonificación Especial, actualización de Inmuebles de Conservación Histórica y otras modificaciones de la Ordenanza Local') y vota observaciones ciudadanas puntuales (desafectaciones ICH, correcciones de zonificación específicas). Es aprobación de TEMÁTICAS/DIRECTRICES para un anteproyecto aún en desarrollo por Asesoría Urbana-SECPLAN, no fija tabla de parámetros de zona con valores finales."
+  }
+}

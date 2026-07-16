@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_da57349e45",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_3514_promulgase_la_enmienda_al_plan_regulador_comunal_sector_comprendido_por_el___PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_3514.pdf",
+  "nombre": "la_florida_3514_promulgase_la_enmienda_al_plan_regulador_comunal_sector_comprendido_por_el___PUBLICACION_DIARIO_OFICIAL_DECRETO_EXENTO_3514.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:46:20",
+  "fin": "2026-07-14T15:50:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 3514, enmienda PRC La Florida. p2 mezcla PROSA + TABLA-IMAGEN: la prosa fija CC 2,028 / altura maxima 12,6 m / antejardin 0 para la Tabla 7 Area E-AM2; y al pie hay un cuadro IMAGEN completo de '7. Area E-AM2 Aislada Media densidad N2' (predial 500, COS 0,52-0,60, CC 1,56*, altura 10,5**, aislado, rasante 70, medianero 4, antejardin 5***, estacionamientos art.15, densidad 130/10) que NO sale en pdftotext. TRANSCRIBIR DESDE EL RENDER, no del texto."
+  }
+}

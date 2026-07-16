@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_a131cc0ab0",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2010-Memoria-Explicativa-11jun2010.pdf",
+  "nombre": "las_condes_2010-Memoria-Explicativa-11jun2010.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:31:10",
+  "fin": "2026-07-15T08:33:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Memoria Explicativa (11.06.2010), Modificacion N8 al PRC de Las Condes. Documento exclusivamente descriptivo/justificativo (recorrido articulo por articulo, Art.1-46, explicando en PROSA que cambio en cada articulo de la Ordenanza Local), sin reproducir las tablas normativas A/B/C por area que menciona (esas viven en la Ordenanza Local, documento separado no incluido). Unicas tablas reales presentes: p.20 perfiles de vias (vialidad, no norma de zona) y p.21 'Cabida Plan Maestro Benedictinos' (m2 residencial y N viviendas de un proyecto puntual de la Fundacion Cultural, no cuadro de COS/CC/altura/predial por zona comunal). ALERTA: el documento cita profusamente tablas normativas por nombre sin reproducirlas, riesgo de creer erroneamente que estan aqui."
+  }
+}

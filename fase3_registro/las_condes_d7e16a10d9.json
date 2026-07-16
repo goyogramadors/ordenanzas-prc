@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_d7e16a10d9",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.1369.12abr2023.pdf",
+  "nombre": "las_condes_decreto.1369.12abr2023.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:54:45",
+  "fin": "2026-07-14T20:55:34",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: decreto abril-2023 (3p) que solo TRANSCRIBE el Acuerdo N279-2022 del Concejo Municipal: aprueba REMITIR el proyecto de Modificacion N11 a la Seremi Minvu para su revision. Puro tramite de procedimiento, no contiene normas ni tablas. Texto completo leido."
+  }
+}

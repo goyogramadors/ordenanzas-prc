@@ -1,0 +1,29 @@
+{
+  "id": "chillan_bde732cfe9",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_ordenanza_ordenanza_local_plan_regulador_intercomunal_chillan_chillan_viejo__Ordenanza Plan Regulador Intercomunal.pdf",
+  "nombre": "chillan_ordenanza_ordenanza_local_plan_regulador_intercomunal_chillan_chillan_viejo__Ordenanza Plan Regulador Intercomunal.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 39,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:30:37",
+  "fin": "2026-07-14T15:35:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        29
+      ],
+      [
+        37,
+        37
+      ]
+    ],
+    "paginas_utiles": 25,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CHILLAN: Ordenanza del Plan Regulador INTERCOMUNAL (PRICH) Chillan-Chillan Viejo, ago-2005 (39p). Normas por zona en p6-29 (Titulos III a VI): cada capitulo fija por zona la subdivision predial minima, COS, CC y densidad bruta, pero en LISTAS DE TEXTO PLANO NUMERADAS, no en cuadros con bordes. Zonas: ZI (p7), ZBA, ZEC (p9), ZHPE (p16-17), ZHME (p17), ZIE (p18-19), ZBAE (p19), ZAP, ZSA, ZSP (p21-23), ZRP (p25), ZPD (p27), ZAD, ZFD (p28-29). Anadida p37: unica tabla con bordes real, art 8.6.3, cruza PENDIENTE con subdivision predial minima y COS (tramos 35-45 por ciento, 45,1-60, sobre 60) como norma general de riesgos. La zona ZHM (p6, art 3.2.6) NO tiene norma propia: remite al PRC comunal. FALSA ALARMA: el poco texto de p13, p20 y p29 se debe a un escudo municipal decorativo, no a tablas ocultas (verificado visualmente). El cuadro de anchos de vias del art 7.2.4 esta AUSENTE del PDF (es vialidad, fuera de alcance igual)."
+  }
+}

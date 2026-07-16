@@ -1,0 +1,20 @@
+{
+  "id": "concepcion_72bb115d1c",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\concepcion_756_14_modificacion_plan_regulador_comunal_de_concepcion__PUBLICACION DIARIO OFICIAL 14 MODIFICACION.pdf",
+  "nombre": "concepcion_756_14_modificacion_plan_regulador_comunal_de_concepcion__PUBLICACION DIARIO OFICIAL 14 MODIFICACION.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:32:46",
+  "fin": "2026-07-14T15:36:52",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CONCEPCION: Diario Oficial 23-oct-2020, 14a Modificacion del PRC. Contiene UNA TABLA-IMAGEN oculta a pdftotext (delator: 'intercalese la siguiente via:' seguido de nada), pero al mirarla es una tabla de VIALIDAD (nombre de via Humedal Tucapel Bajo-Paicavi, tramo, faja existente, faja proyectada 12 m, categoria local), no una norma urbanistica. La Modificacion 2 solo ajusta el plano de zonificacion (agrega parque, via y urbanizacion), sin fijar valores de norma. Sin-tablas para efectos de normas por zona. Confirmado visualmente."
+  }
+}

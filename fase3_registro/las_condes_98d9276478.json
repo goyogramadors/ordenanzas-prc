@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_98d9276478",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_VIALIDAD.pdf",
+  "nombre": "las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_VIALIDAD.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:30:59",
+  "fin": "2026-07-15T08:32:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "PLANO MODIFICACION 7 PRC, LAMINA DE VIALIDAD (M.R.C.L.C.-07), Las Condes, ago-2009 (tercera lamina del set, junto a las_condes_3a2cadd910 edificacion y las_condes_3a4d094372 uso de suelo, ambas ya registradas con tablas). Leyenda solo de vialidad: Vias Existentes con Ancho entre L.O., Vias con Aperturas Ancho entre L.O., Via Parque Proyectada, Parque Pie Andino. Tabla puramente de trazado/ancho de vias, sin usos de suelo, COS, CC, altura, agrupamiento, antejardin, densidad ni rasantes -- patron de tabla vialidad-only ya documentado como falso positivo. Verificado visualmente, documento de 1 pagina (2 laminas comparativas)."
+  }
+}

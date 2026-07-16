@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_620f83d53a",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_3_LAM._EDIF_UEe1_DIPRECA.pdf",
+  "nombre": "las_condes_3_LAM._EDIF_UEe1_DIPRECA.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:59:02",
+  "fin": "2026-07-14T16:01:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA (plano) PRC Las Condes - Rectificacion Modificacion N.8, Plano de Uso de Suelo lamina 2: rectifica los deslindes norte-sur-oriente-poniente del area de uso de suelo UEe1 del Hospital DIPRECA. Situacion anterior/actual + simbologia (UEe1 equipamiento intercomunal y comunal, UC3). Sin cuadro de parametros. Verificado por render."
+  }
+}

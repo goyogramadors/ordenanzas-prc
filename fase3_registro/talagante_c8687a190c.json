@@ -1,0 +1,25 @@
+{
+  "id": "talagante_c8687a190c",
+  "comuna": "talagante",
+  "ruta": "Ordenanzas ordenadas\\talagante_decreto_dicta_ordenanza_local_del_plan_regulador_comunal_de_talagante__Dec. Ex. nº 3991 Plan Regulador.pdf",
+  "nombre": "talagante_decreto_dicta_ordenanza_local_del_plan_regulador_comunal_de_talagante__Dec. Ex. nº 3991 Plan Regulador.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 29,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:57:10",
+  "fin": "2026-07-15T12:59:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        20
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto Ex. 3991/2014 (01-10-2014): transcribe la Ordenanza Local completa del PRC de Talagante (ajustada segun Dictamen CGR 67919/2014). P7-20 (Art.9-27): tablas completas de normas urbanisticas por zona (formato grilla apaisada para zonas ZU-CV/ZU-1 a ZU-8/ZP/ZIE-1 a ZIE-3, y prosa articulada con valores concretos para zonas especiales ZE-1 Deportivo-Recreacional, ZE-2 Equipamiento Exclusivo, ZE-3 Resguardo Ferroviario, ZR-1 Restriccion inundacion, ZR-2 Restriccion pendiente): superficie predial minima 200-2500 m2, densidad bruta maxima 16-800 Hab/Ha, coef. ocupacion suelo, coef. constructibilidad hasta 6, sistema agrupamiento, altura maxima 7-28m / 2-8 pisos, rasantes, antejardin, retranqueo de fachada. P21-27 excluidas (vialidad estructurante Talagante/Lonquen/Talagante Oriente). P28-29: estandares de estacionamiento (Cuadro 10) y cierre del decreto. Documento grande y completo, la Ordenanza Local matriz del PRC."
+  }
+}

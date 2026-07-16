@@ -1,0 +1,25 @@
+{
+  "id": "san_joaquin_bff4c7e3df",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_1203_promulga_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DIARIO_OFICIAL28-05-2016.pdf",
+  "nombre": "san_joaquin_1203_promulga_la_modificacion_al_plan_regulador_comunal_de_san_joaquin__DIARIO_OFICIAL28-05-2016.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:53:28",
+  "fin": "2026-07-15T12:55:59",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 1.203 (19-may-2016, Diario Oficial N41.469, Cuerpo I pp.11-12): Modificación al PRC de San Joaquín 'Modificación zonas Z-13, Z-13A, Z-14 y Z-14A' (limita altura y densidad, sector ex Persa Departamental). P.2(Cuerpo I-11): decreto de promulgación. P.3(Cuerpo I-12): 'Texto Aprobatorio' con cuadro numérico completo por zona: ZONA Z-13B Residencial Mixta (usos permitidos/prohibidos, superficie predial mínima 400/500m2, COS 0.6/0.7, CC 3.0/2.0, sistema de agrupamiento, altura máxima edificación aislada 56.0m/16 pisos y pareada-continua 10.5m/3 pisos, densidad bruta máxima 2.000 hab/ha, disposiciones de distanciamiento y arborización) y tablas adicionales para ZONA Z-13A (CC 3.0/2.0, altura 56.0m/10.5m, densidad 2.000hab/ha), ZONA Z-14 (CC 2.5/2.0, altura 28.0m/7.0m, densidad 1.000hab/ha) y ZONA Z-14A (CC 2.0/2.0, altura 17.5m/7.0m, densidad 900hab/ha)."
+  }
+}

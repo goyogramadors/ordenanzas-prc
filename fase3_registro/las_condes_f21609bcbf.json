@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_f21609bcbf",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4477.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4477.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:56:58",
+  "fin": "2026-07-14T20:57:22",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Escaneo (copia informativa) del decreto alcaldicio 4477/2004 que aprueba el Plano Seccional PS-U-Ee1. 1 pagina: solo vistos y firmas, sin texto resolutivo ni cuadro. Si el D.O. hermano de este decreto esta en la cola, deberia traer el cuadro completo (mismo patron que los demas de esta serie)."
+  }
+}

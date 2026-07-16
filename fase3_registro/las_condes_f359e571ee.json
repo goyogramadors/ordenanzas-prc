@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_f359e571ee",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.8.30may1995.pdf",
+  "nombre": "las_condes_D.O.8.30may1995.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 17,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:57:36",
+  "fin": "2026-07-14T21:02:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        16
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "DOCUMENTO FUNDACIONAL: Resolucion N.8/95 del GORE Metropolitano (30-may-1995, DO 13-jun-1995) que APRUEBA el PRC de Las Condes ORIGINAL (texto integro de la Ordenanza Local, Cap.I-V). Es la norma madre que decenas de decretos posteriores del corpus citan y modifican. ESCANEADO: OCR ruidoso y NO confiable (columnas mezcladas, siglas partidas); las tablas son legibles solo visualmente. p3: tabla pendiente/predial-min/ocupacion/rasante en deslinde + estacionamientos. p4: Cap.IV, siglario completo de Areas de Edificacion (E-Ab1..E-e5) y Zonas de Uso de Suelo (U-V, U-M, U-V1..U-Ee5) - nomenclatura indispensable para leer el resto. p5-8: una tabla por Area de Edificacion (E-Ab1: CC 1.6, ocup 0.4, rasante 70, altura 4 pisos/14m; E-Ab2, E-Ab4 y tabla de densificacion, E-Am1/2/4, E-Aa1/2, E-e3 parques). OJO: el escaneo tiene SALTOS de paginacion del Diario Oficial (falta 'Pag.12', 'Pag.19', 'Pag.21') - hay contenido de este PRC 1995 que NO esta en este PDF de 17 paginas, posiblemente en otro documento del corpus. p9-16: Art.40 + Cuadros de Uso del Suelo por zona (U-M, U-V, U-V1/2/3, U-C1/C2, U-Ee1/Ee2) + Art.41. p17 Cap.V Vialidad EXCLUIDO (tabla de vias, no de edificacion)."
+  }
+}

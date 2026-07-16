@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_1643f2576c",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.346.07feb2023.pdf",
+  "nombre": "las_condes_decreto.346.07feb2023.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:53:54",
+  "fin": "2026-07-14T15:59:02",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto 346 (07-02-2023) es solo una RECTIFICACION de un error de tipeo del Decreto 3.591 (14-10-2022). Cita 'podran optar por las condiciones urbanisticas senaladas en la siguiente tabla:' y la tabla NO aparece (verificado en render de ambas paginas). El cuadro de normas de la zona S-Ab3' vive en el decreto 3.591, que SI esta en la cola (las_condes_2f3a067161). Lo unico que corrige este decreto es la direccion cardinal de una calle limite (Punitaqui oriente->poniente), que es deslinde, no norma."
+  }
+}

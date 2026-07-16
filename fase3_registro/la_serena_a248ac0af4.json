@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_a248ac0af4",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_2_ordenanza_sobre_circulacion_y_horario_de_carga_y_descarga_de_los_vehiculos__doc_34_2_10112023104850.pdf",
+  "nombre": "la_serena_2_ordenanza_sobre_circulacion_y_horario_de_carga_y_descarga_de_los_vehiculos__doc_34_2_10112023104850.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:24:55",
+  "fin": "2026-07-15T08:25:29",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza 2/2021, 30-dic-2021: ORDENANZA SOBRE CIRCULACION Y HORARIO DE CARGA Y DESCARGA DE LOS VEHICULOS QUE SE INDICAN. Define sectores (centro, costero, extension centro) solo para efectos de transito/carga y descarga, no zonificacion PRC. Verificado visualmente pagina 1 de 8."
+  }
+}

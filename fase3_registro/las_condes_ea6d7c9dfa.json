@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_ea6d7c9dfa",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_2-1er.-aviso-Modif.-N11-publicado-04ene2022.pdf",
+  "nombre": "las_condes_2-1er.-aviso-Modif.-N11-publicado-04ene2022.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:34:11",
+  "fin": "2026-07-15T08:36:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Pagina de diario Las Ultimas Noticias (04ene2022, seccion Deportes) con recuadro PRIMER AVISO de nueva audiencia publica para Modificacion N11 PRC Las Condes. Solo aviso de convocatoria, sin tabla de normas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_be9e2a72a1",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_998_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "nombre": "lo_barnechea_998_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:56:24",
+  "fin": "2026-07-15T07:58:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.998/2010 MPRC-LB-10: solo actualiza la VIALIDAD ESTRUCTURANTE COMUNAL (Titulo III Vialidad, art.11 - anchos de vias, prorroga declaratorias de utilidad publica). No modifica zonificacion ni normas de edificacion (Titulo IV)."
+  }
+}

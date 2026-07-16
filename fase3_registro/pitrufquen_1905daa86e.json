@@ -1,0 +1,25 @@
+{
+  "id": "pitrufquen_1905daa86e",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pitrufquen_28_modificacion_del_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "nombre": "pitrufquen_28_modificacion_del_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:12:40",
+  "fin": "2026-07-14T21:15:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        4
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "TRAMPA MIXTA: texto solo dice '...serán las siguientes:' y la tabla real está incrustada como imagen JPEG (confirmado con pdfimages+extracción). Pág3: tabla completa Zona C-1 (usos permit/prohib, superficie subdivisión/predial mín, COS, CC, altura, agrupamiento, adosamiento, distanciamiento, antejardín, densidad). Pág4: dos tablas casi idénticas Área R1-A y Área R3 (área verde only, COS 0.2, CC 0.2, altura 7m, aislado, antejardín 10m). Pág2 imagen es solo tabla de coordenadas de límite urbano, NO normativa"
+  }
+}

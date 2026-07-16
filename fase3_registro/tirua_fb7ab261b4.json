@@ -1,0 +1,25 @@
+{
+  "id": "tirua_fb7ab261b4",
+  "comuna": "tirua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tirua_661_promulga_enmienda_no_1_al_plan_regulador_comunal_de_tirua__1224168.pdf",
+  "nombre": "tirua_661_promulga_enmienda_no_1_al_plan_regulador_comunal_de_tirua__1224168.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:32:39",
+  "fin": "2026-07-14T21:33:37",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA imagen: enmienda N1 sustituye cuadros de ZONA ZH3 y ZEQ3, texto dice 'se detalla a continuación' y las tablas están embebidas como imagen JPEG grande (verificado con pdfimages+extracción). Pág2: tabla completa Usos de Suelo ZH3 + Normas Urbanísticas ZH3 (superficie subdivisión 300m2, COS 0.6, CC 2.0, altura 9m, agrupamiento aislado/pareado, densidad 70hab/ha) y tabla equivalente ZEQ3 en imagen adyacente"
+  }
+}

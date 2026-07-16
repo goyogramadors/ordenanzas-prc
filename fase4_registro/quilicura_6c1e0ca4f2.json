@@ -1,0 +1,34 @@
+{
+  "id": "quilicura_6c1e0ca4f2",
+  "comuna": "quilicura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quilicura_acta_16_1_modificacion_presupuestaria_municipal_no8_2_enmienda_al_plan_regulador__c7e4deb5-a1d5-4776-8301-96c7ddc2b83a.pdf",
+  "rangos": [
+    [
+      4,
+      5
+    ],
+    [
+      8,
+      8
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Acta Sesión Extraordinaria N°16 Concejo Quilicura (29-11-2017). P8: dos tablas en grilla real 'Vigente vs Modificado' — (1) Cap.V Art.20: zona/usos suelo/predial mínima/frente/ocupación/agrupamiento/altura máxima/rasante medianeros: H1 altura 15m→18m, H2 altura 7m→9m, I3 altura (D.S.255)→18m; (2) Cap.VI Art.22: antejardín mínimo por vía/tramo (Manuel Antonio Matta, José Fco. Vergara, San Martín) reducido de 3-5m a 0m. P4-5: prosa de discusión (Sr. Aliaga) que anticipa los mismos valores. Cierra con Acuerdo N°234 que aprueba por unanimidad la Enmienda al PRC.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-16T08:10:55",
+  "fin": "2026-07-16T08:18:03",
+  "resultado": {
+    "archivo": "extraccion_normas\\quilicura\\quilicura_acta16_enmienda_aprobada_h1_h2_i3.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "H1",
+      "H2",
+      "I3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Version formalmente APROBADA (Acuerdo 234) de la misma enmienda ya documentada como propuesta en quilicura_f3a524c127 (Acta 8). Tablas reales Vigente/Modificado completas. Verificado contra nota_fase3: coincide."
+  }
+}

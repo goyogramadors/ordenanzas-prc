@@ -1,0 +1,20 @@
+{
+  "id": "machali_aee227f159",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_616_aprueba_plan_regulador_comunal_de_machali_y_coya__616.pdf",
+  "nombre": "machali_616_aprueba_plan_regulador_comunal_de_machali_y_coya__616.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:04:26",
+  "fin": "2026-07-14T21:09:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "TRAMPA CORPUS: ordenanza completa PRC 2007 (26 pág), Título 4 Zonificación (pág17-21) lista TODAS las zonas ZU-1 a ZU-12, ZE-1 a ZE-3, ZAV, ZR-1 a ZR-3 con descripción narrativa, pero cada artículo remite 'VER DIARIO OFICIAL DE 05.12.2007, PÁGINA 10/11/12' para el Cuadro 5 y valores numéricos (superficie predial, COS, constructibilidad, altura, etc.) - la tabla real NO está en este PDF ni como texto ni como imagen, verificado directamente. Necesita Diario Oficial original de esa fecha como fuente."
+  }
+}

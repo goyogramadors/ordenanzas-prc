@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_ce99354167",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_3143_derechos_municipales__doc_34_3143_12_02062014033144.pdf",
+  "nombre": "la_serena_3143_derechos_municipales__doc_34_3143_12_02062014033144.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:25:48",
+  "fin": "2026-07-15T08:26:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 3143/12 (19.10.2012), I.Municipalidad de La Serena. Aprueba Ordenanza Comunal sobre Derechos Municipales por Permisos, Concesiones y Servicios (tarifario, mismo patron recurrente ya confirmado varias veces para esta comuna). No es instrumento de planificacion territorial."
+  }
+}

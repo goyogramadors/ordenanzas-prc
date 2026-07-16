@@ -1,0 +1,25 @@
+{
+  "id": "san_clemente_5f241bc759",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_clemente_15_promulga_plan_regulador_comunal_de_san_clemente_y_deja_sin_efecto_resolucione__Exportar.pdf",
+  "nombre": "san_clemente_15_promulga_plan_regulador_comunal_de_san_clemente_y_deja_sin_efecto_resolucione__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        16,
+        22
+      ]
+    ],
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Trampa LeyChile clasica (delator 'cuadros siguientes:' + punto solitario) confirmada en p7 y p23. p8-15 son tablas de limite urbano (coordenadas, NO normas). p16: lista de zonas (ZCV, ZU-1 a ZU-8, ZE-1 a ZE-3, ZAV, ZAP, ZNE). p17-22: tablas completas por zona (usos, COS, CC, altura, antejardin, distanciamiento, cierros) terminando en ZAV/ZAP/ZNE. p23 ya es Titulo 3 Vialidad Urbana Local (fuera de rango). Comuna tiene 2 areas urbanas (San Clemente + Aurora Flor del Llano) -- verificar si Aurora Flor del Llano tiene su propio cuadro de zonas separado no capturado en este rango.",
+    "paginas_utiles": 7
+  }
+}

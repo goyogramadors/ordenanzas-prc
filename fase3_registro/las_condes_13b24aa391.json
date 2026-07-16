@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_13b24aa391",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.ley21078-15feb2018.pdf",
+  "nombre": "las_condes_D.O.ley21078-15feb2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 13,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:53:27",
+  "fin": "2026-07-14T15:55:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: NO ES UN DOCUMENTO PRC. Es el texto de la LEY 21.078 'Sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliacion del limite urbano' (Diario Oficial 15-feb-2018, 13p, Ministerio de Vivienda y Urbanismo). Es legislacion nacional, no la ordenanza de Las Condes: no contiene zonas ni parametros. Archivado bajo la comuna probablemente por venir de la carpeta municipal."
+  }
+}

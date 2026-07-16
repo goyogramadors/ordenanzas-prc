@@ -1,0 +1,20 @@
+{
+  "id": "san_carlos_e605de48a6",
+  "comuna": "san_carlos",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_carlos_decreto_exento_270_4673_procedase_a_la_toma_de_linea_de_edificaion_de_acuerdo_a___E4673.pdf",
+  "nombre": "san_carlos_decreto_exento_270_4673_procedase_a_la_toma_de_linea_de_edificaion_de_acuerdo_a___E4673.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:18:38",
+  "fin": "2026-07-15T12:19:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento 270-4673/2014: procede a la toma de línea de edificación (expropiación parcial de 2 inmuebles en Vicuña Mackenna) de acuerdo al PRC, con indemnización a propietarios. Es aplicación puntual de una línea oficial ya fijada, no transcribe tabla de parámetros de zona."
+  }
+}

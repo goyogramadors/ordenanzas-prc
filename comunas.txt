@@ -1,0 +1,5 @@
+# Una comuna por línea. El bot busca "Municipalidad de <comuna>" en el portal.
+# Las líneas que empiezan con # se ignoran.
+Peñalolén
+Colina
+Lo Barnechea

@@ -1,0 +1,32 @@
+{
+  "id": "san_bernardo_d66084cbe6",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_439_modifica_ordenanza_del_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      3
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.439/1998 modifica Ordenanza PRC San Bernardo, art.24 Normas Especiales Zona Centro. Sustituye ocupacion de suelo y CC de 5 zonas: Z-1 Residencial Norte (viv/equip vecinal: ocup 60->72%, CC 1,2->1,44; equip comunal: 80->84%, CC 1,6->1,92), Z-2 Residencial Sur (60->72%, 1,2->1,44), Z-3 Residencial Centro (viv/equip vecinal 70->84% CC 1,4->1,68; equip comunal 70->84% CC 1,6->1,92), Z-4 Ejes Comerciales (viv 60->72% CC 2,4->2,88; equip 80->96% CC 3,2->3,84), Z-4a Comercial Especial (mismo patron que Z-4). Todo en TEXTO, formato 'de X a Y'.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:16:28",
+  "fin": "2026-07-16T08:22:58",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_bernardo\\san_bernardo_439_modifica_zona_centro_5zonas_pag1-3.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-4a"
+    ],
+    "confianza": "ALTA",
+    "nota": "5 zonas con modificacion de ocupacion y CC por uso (formato de X a Y), verificado completo incluyendo p3 (Z-4a equipamiento CC 3,2->3,84). Coincide con nota_fase3."
+  }
+}

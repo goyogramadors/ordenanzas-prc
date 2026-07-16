@@ -1,0 +1,20 @@
+{
+  "id": "curico_4201af67f6",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_3042_aprueba_enmienda_a_la_ordenanza_local_del_plan_regulador_comunal_de_curico__3042.pdf",
+  "nombre": "curico_3042_aprueba_enmienda_a_la_ordenanza_local_del_plan_regulador_comunal_de_curico__3042.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:36:44",
+  "fin": "2026-07-14T15:40:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Enmienda N5 PRC Curico: es SOLO VIALIDAD (desplaza 5,50 m al poniente el trazado del Camino Proyectado N5 para viabilizar una subdivision afecta a utilidad publica). Render de p3 confirma que es un PLANO con vertices A-B-C-D, no un cuadro de normas. Modifica el PRC pero sin norma urbanistica por zona (ni usos, ni COS, ni altura)."
+  }
+}

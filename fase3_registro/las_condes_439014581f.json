@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_439014581f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.Oficial.966.21feb2014.pdf",
+  "nombre": "las_condes_D.Oficial.966.21feb2014.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:55:06",
+  "fin": "2026-07-15T07:57:48",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        6
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto de rectificacion CON tablas reales (a diferencia del patron TABLA AUSENTE de otros decretos Las Condes). Pag3-4: tablas de incremento de antejardin por calle. Pag4: Tabla C) area Avda.Charles Hamilton/Francisco de Asis/Francisco Bulnes Correa/Republica de Honduras: Densidad Maxima Neta 40viv/ha, Subdivision Predial Minima 4000m2, CC 1.6, COS 0.30, rasante 70, altura max 5 pisos/17.5m, antejardin 10m, distanciamiento 11m, agrupamiento aislado. Pag5: tablas menores condiciones de uso (Oficinas sin/con afluencia publico). Pag6: num.1.28 modifica art.41 texto explicito ocupacion suelo max 0.4, CC 0.6, altura max 3 pisos/10.5m. Pag7-10 solo tablas vialidad (anchos calles) y cierre, excluidas."
+  }
+}

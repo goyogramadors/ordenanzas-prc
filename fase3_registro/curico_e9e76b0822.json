@@ -1,0 +1,25 @@
+{
+  "id": "curico_e9e76b0822",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\curico_93_invalida_resoluccon_que_indica_y_reemplaza_por_la_presente_resolucion_que_pro__93.pdf",
+  "nombre": "curico_93_invalida_resoluccon_que_indica_y_reemplaza_por_la_presente_resolucion_que_pro__93.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 36,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:13:51",
+  "fin": "2026-07-15T08:16:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        18
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N40025 (2-ago-2011) contiene integra la Resolucion93 que promulga el PRC de Curico. Pag13 Titulo2 normas generales tecnico-urbanisticas + tabla estacionamientos por destino. Pag14 Titulo3 tablas grupos de actividades (Culto/Cultura,Deporte,Educacion,Esparcimiento,Salud,Seguridad,Servicios,Social). Pag15-17 tablas Normas de Subdivision y Edificacion por Usos para 11 zonas (ZCC,ZU-1 a ZU-4,ZU-6 a ZU-11,ZI): superficie predial minima, COS, coef.constructibilidad, agrupamiento, distanciamiento, altura maxima, densidad maxima, antejardin. Pag18 continua zonas especiales ZE-1 a ZE-5 (recreacional, comercial, infraestructura, deportivo, estacion FFCC) mismas tablas, cierra con Area Riesgo/Patrimonial sin parametros. Pag19+ anexos vialidad/coordenadas, pag25 Cuerpo II DO ajeno (telecomunicaciones)."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "san_bernardo_858dec7900",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_6388_aprueba_enmienda_no_2_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      3
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Dec.6388/2017 Enmienda N.2 PRC San Bernardo y Lo Herrera, Zona ZU 1.2 Centro (art.56). Reemplaza en 'Condiciones de Subdivision y Edificacion': CC Residencial 2,1 / Equipamiento 1,47; rasantes 60 grados; densidad bruta max 1.120 hab/ha. Valores en TEXTO.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-16T08:11:28",
+  "fin": "2026-07-16T08:18:08",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_bernardo\\san_bernardo_6388_enmienda2_zona_zu12_centro_pag1-3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-1.2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: CC Residencial 2,1/Equipamiento 1,47, rasantes 60 grados, densidad bruta max 1.120 hab/ha. Solo 4 parametros reemplazados, resto de la zona sin cambios."
+  }
+}

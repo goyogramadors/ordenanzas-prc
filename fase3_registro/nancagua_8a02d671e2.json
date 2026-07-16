@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_8a02d671e2",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_3236_crease_fondo_a_rendir_para_cancelacion_de_cartas_certifi__3236.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_3236_crease_fondo_a_rendir_para_cancelacion_de_cartas_certifi__3236.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:40:15",
+  "fin": "2026-07-15T08:41:23",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 3236/2018: crea fondo a rendir para cancelación de cartas certificadas de citación a audiencia pública del PRC. Puramente administrativo, sin contenido normativo."
+  }
+}

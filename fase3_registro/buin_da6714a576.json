@@ -1,0 +1,20 @@
+{
+  "id": "buin_da6714a576",
+  "comuna": "buin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\buin_resolucion_275_estudio_capacidad_vial_plan_regulador_comunal__TC%20275.pdf",
+  "nombre": "buin_resolucion_275_estudio_capacidad_vial_plan_regulador_comunal__TC%20275.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 58,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:09:51",
+  "fin": "2026-07-15T08:11:48",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "BUIN: Decreto TC 275 (58p, escaneado sin OCR), aprueba las BASES ADMINISTRATIVAS Y TECNICAS de la licitacion publica del 'Estudio Capacidad Vial Plan Regulador Comunal' (no es el estudio en si, son las bases del proceso: formatos de declaracion jurada, estados de pago, formulario de oferta economica, clausulas de readjudicacion). 8 paginas repartidas por todo el documento verificadas visualmente: cero cuadros normativos por zona, solo administrativo-contractual."
+  }
+}

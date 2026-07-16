@@ -1,0 +1,25 @@
+{
+  "id": "santiago_ef30f5c4bc",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_Publicacion-Diario-Oficial-02-de-diciembre-2021.pdf",
+  "nombre": "santiago_Publicacion-Diario-Oficial-02-de-diciembre-2021.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:30:56",
+  "fin": "2026-07-14T21:33:33",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "SANTIAGO: Diario Oficial 2-dic-2021, decreto 6847 Secc 2da, Promulga la Modificacion del PRC, Ajuste de Normas Urbanisticas Poblacion Centenario. Norma completa en p2, texto limpio y nativo: crea el Sector Especial D11 Poblacion Centenario en la Zona D, a continuacion de D10; usos de suelo rigen los del Sector Especial D5; condicionantes de subdivision y edificacion: superficie subdivision minima 150 m2, COS 1,0, CC 2,0, densidad maxima 895 hab por ha, agrupamiento continuo, altura maxima 5,5 m. Documento identico en contenido a santiago_cd8bb11fbc, aqui en version oficial promulgada."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sin_comuna_a19712e153",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\LOEC66~1.PDF",
+  "nombre": "LOEC66~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:54:40",
+  "fin": "2026-07-14T12:56:58",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "COMUNA REAL = LO BARNECHEA (cola lo trae SIN_COMUNA; es pagina del Diario Oficial 13-05-2016 que mezcla avisos ajenos). Modif. MPRC-LB-25: cuadro art.11 (tramos via L19) y cuadro condiciones edificacion Zonas G/I/K art.55 -> solo fija Antejardin minimo 5 mts. Contenido duplicado: p2 = version DO (texto), p4-5 = copia municipal firmada (imagen). p1 y p3 sin normas."
+  }
+}

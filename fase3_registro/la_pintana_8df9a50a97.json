@@ -1,0 +1,20 @@
+{
+  "id": "la_pintana_8df9a50a97",
+  "comuna": "la_pintana",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_pintana_decreto_2777_declara_desierta_propuesta_publica_actualizacion_plan_regulador_com__2777.pdf",
+  "nombre": "la_pintana_decreto_2777_declara_desierta_propuesta_publica_actualizacion_plan_regulador_com__2777.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:48:56",
+  "fin": "2026-07-14T15:51:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Decreto 2777 DECLARA DESIERTA la propuesta publica de la Actualizacion del PRC La Pintana (no se presentaron ofertas). Texto 2/2 pags, sin mencion de zonas ni parametros."
+  }
+}

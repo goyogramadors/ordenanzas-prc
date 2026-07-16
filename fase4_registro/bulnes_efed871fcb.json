@@ -1,0 +1,41 @@
+{
+  "id": "bulnes_efed871fcb",
+  "comuna": "bulnes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\bulnes_125_promulgacion_del_plan_regulador_comuna_de_bulnes__PUBLICACIoN_D.O._PRC_BULNES_06.10.2015.pdf",
+  "rangos": [
+    [
+      5,
+      8
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Trampa BCN/DO confirmada por render (texto solo trae encabezado ZONA X, sin valores). Pag5 Titulo V Normas Urbanisticas Art.9 Zonificacion: tabla ZHMC (usos+condiciones subdivision/edificacion: superficie predial min, COS, coef.constructibilidad, altura max, agrupamiento, antejardin, distanciamiento, densidad). Pag6 continua ZH-1,ZH-2,ZH-3,ZHMP,ZES,ZED,ZCU. Pag7 continua ZE,ZPU,ZET,ZPI-1,ZPI-2,ZIS (ultima zona). Pag8 Titulo VI Inmuebles Conservacion Historica (3 inmuebles) + tablas vialidad remanentes, luego cambia a decreto no relacionado Ministerio Hacienda. Pag3-4 son limite urbano/vialidad estructurante, distintos de normas por zona, excluidas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:29:34",
+  "fin": "2026-07-16T08:34:02",
+  "resultado": {
+    "archivo": "extraccion_normas\\bulnes\\bulnes_125_prc_14zonas_pag5-8.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "ZHMC",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZHMP",
+      "ZES",
+      "ZED",
+      "ZCU",
+      "ZE",
+      "ZPU",
+      "ZET",
+      "ZPI-1",
+      "ZPI-2",
+      "ZIS"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa BCN/DO confirmada solo en encabezado; cuerpo de tablas es texto nativo legible. 14 zonas completas (usos + condiciones): predial 200-2500m2, COS 0,2-1,0, CC 0,5-6, aislado/pareado/continuo, altura 7-14m/libre segun rasante, antejardin 2-5,0m, densidad 40-600 hab/ha. Plus Titulo VI (3 inmuebles conservacion historica) y areas de riesgo/zonas no edificables. Documento cambia a decreto Ministerio Hacienda ajeno al final de p8, no transcrito. Coincide y amplia nota_fase3."
+  }
+}

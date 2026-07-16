@@ -1,0 +1,20 @@
+{
+  "id": "yungay_91b8b67497",
+  "comuna": "yungay",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\yungay_1362_aprueba_modificacion_al_plan_regulador_comunal_de_yungay_zonificacion_terre__Exportar.pdf",
+  "nombre": "yungay_1362_aprueba_modificacion_al_plan_regulador_comunal_de_yungay_zonificacion_terre__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:38:11",
+  "fin": "2026-07-14T21:41:05",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 1362/2010 Yungay: las fajas de terreno con declaratoria de utilidad publica CADUCADA (por tramos de calles) se asimilan a los usos de suelo y normas urbanisticas de la zona donde se emplazan -- es decir, NO fija valores nuevos, hereda lo que ya rige en cada zona. p2 (render): tabla con columnas Nombre/Tramo(Desde-Hasta)/Observacion, listando 11 calles (Nueva Dos, Nueva Uno, Valparaiso, Chipana, Esmeralda, Maturana, Chorrillos, Tacna, Huencheco Norte/Sur, Ignacio Carrera Pinto) con menciones a Ensanche. Es un listado de VIALIDAD/tramos, no una tabla de normas dimensionales."
+  }
+}

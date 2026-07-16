@@ -1,0 +1,29 @@
+{
+  "id": "quilicura_f3a524c127",
+  "comuna": "quilicura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quilicura_acta_8_1_enmienda_plan_regulador_comunal__6c0771cf-886a-49df-b466-aa25d929d0c7.pdf",
+  "nombre": "quilicura_acta_8_1_enmienda_plan_regulador_comunal__6c0771cf-886a-49df-b466-aa25d929d0c7.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:11:22",
+  "fin": "2026-07-15T12:15:49",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        14,
+        14
+      ],
+      [
+        16,
+        16
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Acta Sesión Extraordinaria N°08 Concejo Quilicura (28-06-2017): Audiencia Pública de presentación de la Enmienda N°1 al PRC (exposición técnica, sin votación ni acuerdo formal — cierra sin Acuerdo N°). P14: prosa con valores propuestos de altura máxima por zona (H1 15m→18m, H2 7m→9m). P16: prosa con antejardín mínimo por vía/tramo reducido a 0m (Manuel A. Matta, El Parque-Ruta 5, José Fco. Vergara, San Martín). CONFIANZA MEDIA porque son valores en etapa de propuesta/consulta ciudadana, no aprobados aún en esta acta (la misma enmienda se aprueba formalmente después en Acta 16, id quilicura_6c1e0ca4f2, con los mismos valores en tabla)."
+  }
+}

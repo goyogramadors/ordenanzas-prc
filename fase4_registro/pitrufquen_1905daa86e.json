@@ -1,0 +1,30 @@
+{
+  "id": "pitrufquen_1905daa86e",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pitrufquen_28_modificacion_del_plan_regulador_comunal_de_pitrufquen__Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "TRAMPA MIXTA: texto solo dice '...serán las siguientes:' y la tabla real está incrustada como imagen JPEG (confirmado con pdfimages+extracción). Pág3: tabla completa Zona C-1 (usos permit/prohib, superficie subdivisión/predial mín, COS, CC, altura, agrupamiento, adosamiento, distanciamiento, antejardín, densidad). Pág4: dos tablas casi idénticas Área R1-A y Área R3 (área verde only, COS 0.2, CC 0.2, altura 7m, aislado, antejardín 10m). Pág2 imagen es solo tabla de coordenadas de límite urbano, NO normativa",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T18:00:11",
+  "fin": "2026-07-15T18:04:08",
+  "resultado": {
+    "archivo": "extraccion_normas\\pitrufquen\\pitrufquen_28_zonas_c1_r1a_r3_pag3-4.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "C-1",
+      "R1-A",
+      "R3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa mixta confirmada (tabla imagen JPEG bajo texto placeholder). 3 zonas completas transcritas desde render: C-1 (usos+condiciones detallado por categoria), R1-A y R3 (area verde only, valores identicos entre si: COS0,2/CC0,2/7m/aislado/antejardin10m)."
+  }
+}

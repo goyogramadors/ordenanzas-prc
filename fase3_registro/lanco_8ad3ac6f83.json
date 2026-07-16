@@ -1,0 +1,29 @@
+{
+  "id": "lanco_8ad3ac6f83",
+  "comuna": "lanco",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lanco_plan_regulador__fdec62f8-98e6-451c-92cf-20601cc6eb85.pdf",
+  "nombre": "lanco_plan_regulador__fdec62f8-98e6-451c-92cf-20601cc6eb85.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 30,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:51:55",
+  "fin": "2026-07-14T15:56:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        24
+      ],
+      [
+        28,
+        30
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PRC Lanco (30 pags). TODO EN TEXTO REAL (verificado con render de p20). p13: art.22 enumera zonas (ZU-1..ZU-5, ICH, AV-1/2, ZI-1..ZI-4, ZR-1/2) y art.24 anuncia las tablas. p14-22: Cuadros 5-9, una zona por cuadro (ZU1..ZU5) con densidad bruta max, COS, coef. constructibilidad, altura, antejardin. p23: Cuadro 10 Otras Especificaciones Urbanisticas (COS 0,2, CC 0,4, altura 7 m, aislado, antejardin 5 m). p24 (mitad superior): normas en prosa de ZR-1/ZR-2 (COS 0,01, subdivision predial 10 ha / 2.000 m2, distanciamiento 10 m); a mitad de pagina arranca el Cap.III Vialidad. p28-30: Cuadro 13, ESTACIONAMIENTOS minimos por uso (no omitir). p12 (chars bajos) NO es tabla de normas: es el inventario de Inmuebles de Conservacion Historica (nombre/ubicacion/ano/rol)."
+  }
+}

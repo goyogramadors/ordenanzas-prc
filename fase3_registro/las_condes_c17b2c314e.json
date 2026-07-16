@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_c17b2c314e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.N_3218.04dic2003.pdf",
+  "nombre": "las_condes_D.O.N_3218.04dic2003.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:54:27",
+  "fin": "2026-07-14T20:55:36",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        9
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.3218/2003 (Diario Oficial) promulga texto resolutivo de la MODIFICACION N.2 del PRC Las Condes. p1-9 TEXTO denso: tablas de 'Normas Especificas de Edificacion' por area (E-Ab1/2/3, E-Am2, E-Am4 Cerro San Luis, E-Am4 Sector Visviri...), con Tabla A (proyecto nuevo) y Tabla B (densificacion) por area, columnas: densidad max neta, subdivision predial min, coef.constructibilidad, coef.ocupacion de suelo, coef.area libre, rasante, altura max, antejardin min, distanciamiento a medianeros, agrupamiento/adosamiento. Ej. area E-Am2 tabla B: densidad 240 viv/ha, predial 1.500m2, CC 1.8, COS 0.4, altura 9 pisos/31,5m, antejardin 7m. p9-10 pasa a VIALIDAD (perfiles y anchos de calles, cuadro de vias colectoras/servicio/locales) - EXCLUIDO por no ser norma de edificacion."
+  }
+}

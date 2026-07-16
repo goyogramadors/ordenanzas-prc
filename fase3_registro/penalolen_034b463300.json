@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_034b463300",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-1.pdf",
+  "nombre": "penalolen_Zona_EQ-1.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:10:35",
+  "fin": "2026-07-14T21:11:26",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ficha de la ZONA EQ-1 (Equipamiento) del PRC de Penalolen: usos permitidos/prohibidos (por clase: comercio, esparcimiento, salud, seguridad, servicios, transporte, sanitaria) + condiciones de subdivision y edificacion (predial min 1000 m2, COS 0,7, CC 3, altura art.2.6.3 OGUC, sin antejardin exigido, agrupamiento aislado/pareado/continuo, estacionamientos art.7.1.2 PRMS). Documento de una sola zona, texto completo en 1-2 pags."
+  }
+}

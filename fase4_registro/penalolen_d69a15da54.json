@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_d69a15da54",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_r2.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Extracto Zona R2 del PRC Peñalolen: usos permitidos (residencial, equipamiento, transporte, actividades productivas, espacio publico, area verde) y usos prohibidos detallados por clase/actividad (moteles, cementerios, zoologicos, hipodromos, discotecas, etc). Solo usos de suelo, sin COS/CC/altura/predial en este extracto. Tabla en TEXTO.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T17:57:34",
+  "fin": "2026-07-15T18:00:59",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_r2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "R2"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION A NOTA_FASE3: SI existe cuadro completo de condiciones de edificacion en p2 (nota_fase3 decia que faltaba). Predial 100/160/300m2, COS 0,7, CC 1,2-1,4, densidad 450hab/ha (residencial), antejardin 2-3m segun uso. Usos prohibidos detallados por clase transcritos integros."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_ff30f2747f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_11.-36-2020-Ord.-Alc.-N-14-326-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "nombre": "las_condes_11.-36-2020-Ord.-Alc.-N-14-326-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:34:11",
+  "fin": "2026-07-15T08:36:49",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord.Alc.N14/326 del 7dic2020: responde observacion ciudadana al informe ambiental de Modificacion N10 PRCLC, proyecto vivienda social SERVIU. Carta-respuesta individual sin cuadro de normas."
+  }
+}

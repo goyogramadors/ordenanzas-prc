@@ -1,0 +1,32 @@
+{
+  "id": "nacimiento_bf04f82409",
+  "comuna": "nacimiento",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nacimiento_116_apruebese_plan_regulador_comunal_de_nacimiento_ano_1985__5992_planregulador1985.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Art.8 tabla completa Z-1 a Z-5 (usos, superficie predial min, frente predial min, ocupacion max suelo, agrupamiento, altura max, profundidad continuidad) integra en pag.2. Pag.3 Cap.IV condiciones generales (antejardin, cierros, adosamientos, estacionamientos art.17-20) + tablas de vialidad antes de pasar a otra ordenanza (Lo Prado). Pag.1 solo protocolar/limite urbano.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:51:41",
+  "fin": "2026-07-15T17:51:57",
+  "resultado": {
+    "archivo": "extraccion_normas\\nacimiento\\nacimiento_116_prc1985_zonas_z1-z5_pag2-3.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro Art.8 completo para Z-1 a Z-5 transcrito integro desde render (usos+condiciones con desgloses por tipo de uso donde aplica). Cap.IV completo (art.9-16) tambien transcrito. p3 confirma: tras vialidad de Nacimiento comienza ordenanza de OTRA comuna (Lo Prado) en la misma edicion DO, correctamente excluida."
+  }
+}

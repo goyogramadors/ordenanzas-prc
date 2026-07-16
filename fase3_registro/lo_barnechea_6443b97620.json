@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_6443b97620",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_970_aprobacion_actualizacion_del_plan_regulador_comunal_de_lo_barnechea__actualizacion del  Plan Regulador de la Comuna de Lo Barnechea_.pdf",
+  "nombre": "lo_barnechea_970_aprobacion_actualizacion_del_plan_regulador_comunal_de_lo_barnechea__actualizacion del  Plan Regulador de la Comuna de Lo Barnechea_.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:02:41",
+  "fin": "2026-07-14T21:04:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LO BARNECHEA: Diario Oficial 30-oct-2025, extracto de 1 pagina que solo INFORMA que mediante decreto alcaldicio 970-2025 (9-oct-2025) se promulgo la Actualizacion del PRC, la cual se publicara en el SITIO WEB MUNICIPAL con vigencia desde 30-oct-2025 (art 28 septies LGUC). No transcribe la ordenanza ni sus normas. El contenido real de la Actualizacion 2025 hay que buscarlo en otro documento (probablemente publicado solo en la web municipal)."
+  }
+}

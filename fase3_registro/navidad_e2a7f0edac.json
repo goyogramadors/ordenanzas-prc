@@ -1,0 +1,20 @@
+{
+  "id": "navidad_e2a7f0edac",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_decreto_alcaldicio_2077_suspension_de_plazo_estudio_reformulacion_del_plan_regul__8565f546-c8dd-4b8d-a215-f70408fc70c4.pdf",
+  "nombre": "navidad_decreto_alcaldicio_2077_suspension_de_plazo_estudio_reformulacion_del_plan_regul__8565f546-c8dd-4b8d-a215-f70408fc70c4.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:06:23",
+  "fin": "2026-07-14T21:06:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "trámite administrativo: suspende plazo de entrega de observaciones etapa 3A (imagen objetivo) del estudio de reformulación PRC, sin contenido normativo"
+  }
+}

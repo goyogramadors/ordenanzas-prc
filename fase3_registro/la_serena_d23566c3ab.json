@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_d23566c3ab",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_929_cierre_de_calles_pasajes_o_conjuntos_habitacionales_urbanos_o_rurales_por_mo__doc_34_929_02042015121535.pdf",
+  "nombre": "la_serena_929_cierre_de_calles_pasajes_o_conjuntos_habitacionales_urbanos_o_rurales_por_mo__doc_34_929_02042015121535.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:25:52",
+  "fin": "2026-07-15T08:27:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 929, 31-mar-2015: APRUEBA ORDENANZA SOBRE CIERRE DE CALLES, PASAJES O CONJUNTOS HABITACIONALES URBANOS O RURALES POR MOTIVOS DE SEGURIDAD CIUDADANA (norma base, luego modificada por Decreto 1054/2021 ya registrado como la_serena_2d476f613e). Regula cierre de vias por seguridad, no zonificacion PRC. Verificado visualmente pagina 1 de 6."
+  }
+}

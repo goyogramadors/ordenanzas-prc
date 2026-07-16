@@ -1,0 +1,25 @@
+{
+  "id": "chanaral_823a7dc6d8",
+  "comuna": "chanaral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chanaral_decreto_ordenanza_plan_regulador_comunal_de_chanaral__ORDENANZA PLAN REGULADOR.pdf",
+  "nombre": "chanaral_decreto_ordenanza_plan_regulador_comunal_de_chanaral__ORDENANZA PLAN REGULADOR.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 55,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:48:38",
+  "fin": "2026-07-15T07:53:51",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        25,
+        40
+      ]
+    ],
+    "paginas_utiles": 16,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ordenanza PRC completa Chañaral: Cap.4 Zonificación pág25(intro/definiciones)-40(Cuadro Z12 síntesis final). Cuadros Z1-Z11 (pág26-36) con normas completas por zona ZU1-ZU9, ZE1-ZE2 (superficie predial, frente, altura, CC, %ocupación suelo, agrupamiento, antejardín, distanciamiento, adosamiento); pág37-39 zonas especiales ZR/ZP/Balneario/Aeródromo descriptivas. Pág41-55 Cap.5 Vialidad + Anexos protección aeródromo (diagramas), fuera de alcance"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "quinta_normal_81962e5910",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_70_aprueba_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "nombre": "quinta_normal_70_aprueba_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:19:29",
+  "fin": "2026-07-14T21:22:21",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        19
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "QUINTA NORMAL: Decreto 70 (BCN LeyChile, 24p), aprueba el PRC. Cap IV Art 22-24, p12-19: zonas RM1, RM2, SM, SC, CC, MI, IE, D, AR, cada una con usos permitidos-prohibidos y condiciones de subdivision predial y edificacion (predial minima, COS, agrupamiento, rasantes-distanciamientos, altura, antejardin, CC, densidad bruta). Cierra en p19 (Zona AR = no se permite edificacion) al empezar Cap V Vialidad. TEXTO NATIVO LIMPIO sin trampa: pdfimages solo muestra banner BCN repetido (max 596x102), sin JPEGs de tabla; sin delatores. 2 pags verificadas visualmente (bordes 12 y 19). NO incluidos: Art 15 (p6, mini-cuadro de estandares para terminales de transporte, transversal a cualquier zona) y Art 17 (p7-10, estacionamientos minimos por uso, sin COS-altura)."
+  }
+}

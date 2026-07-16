@@ -1,0 +1,20 @@
+{
+  "id": "maipu_ec3b74f891",
+  "comuna": "maipu",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maipu_5069_aprueba_modificacion_plan_regulador_comunal_de_maipu__Publ_plano_regulador_11_20091.pdf",
+  "nombre": "maipu_5069_aprueba_modificacion_plan_regulador_comunal_de_maipu__Publ_plano_regulador_11_20091.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:37:11",
+  "fin": "2026-07-15T08:40:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "MISMO documento que maipu_19e397c483: identico Decreto5069(2009) publicado en mismas paginas 30-31 del DO N39509 12-nov-2009. Mismo cuadro de vialidad colectora, no tabla de normas por zona."
+  }
+}

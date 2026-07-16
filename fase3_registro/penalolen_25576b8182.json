@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_25576b8182",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2005_03.pdf",
+  "nombre": "penalolen_MPRC_2005_03.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:43:33",
+  "fin": "2026-07-15T08:44:35",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "DO 26-11-2005, Decreto 2100/5247 Modificación PRC Peñalolén (Sector Avda. José Arrieta/Sánchez Fontecilla). Incorpora nueva Zona PE Parque Comunal al Párrafo 3° con tabla de USOS DE SUELO PERMITIDOS (científico, educación, culto/cultura, deporte/recreación) — no trae parámetros numéricos (COS/CC/altura) para PE, solo usos permitidos. Resto del decreto son cambios de vías estructurantes/líneas oficiales (vialidad, no cuenta como norma de zona). Confianza MEDIA porque falta la tabla numérica completa de Zona PE. Nota: p1 y p2 del render son la misma página física (documento con contenido duplicado)."
+  }
+}

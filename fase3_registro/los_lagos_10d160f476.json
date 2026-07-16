@@ -1,0 +1,29 @@
+{
+  "id": "los_lagos_10d160f476",
+  "comuna": "los_lagos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\los_lagos_na_plan_regulador__Plan_Regulador_Comunal.pdf",
+  "nombre": "los_lagos_na_plan_regulador__Plan_Regulador_Comunal.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:58:27",
+  "fin": "2026-07-15T08:00:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        6
+      ],
+      [
+        9,
+        10
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Cap.5 Zonificacion, Uso de Suelo y Normas Especificas (Ordenanza Local 1996, Res.77) pag1-6: define terminos (COS, coef.constructibilidad, densidad bruta, agrupamiento) pag2 y articula normas por zona ZU-1 a ZU-7, ZEx-3, ZP-4, ZEx-5 (superficie predial minima, frente predial, COS, densidad bruta, agrupamiento, altura maxima, antejardin) pag3-6; pag6 cierra e inicia Cap.V Vialidad (pag6-8, excluida). Pag9-10 decreto posterior N796/2007 (publicado 2008) fija usos y normas completas zona ZEx-3 asimilada a ZU-4 (superficie predial 160m2, frente 8m, COS 60%, agrupamiento aislado/pareado), verificado visual. Pag11-12 planos de zonificacion sin texto normativo adicional."
+  }
+}

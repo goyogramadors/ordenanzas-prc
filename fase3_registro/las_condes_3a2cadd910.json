@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_3a2cadd910",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_EDIFICACION.pdf",
+  "nombre": "las_condes_PLANO-MODIFICACION-7-PRC_LAMINA_EDIFICACION.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:27:26",
+  "fin": "2026-07-15T08:30:41",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "PLANO MODIFICACION 7 PRC, LAMINA DE EDIFICACION (M.R.C.L.C.-07), Las Condes, ago-2009. Plano tecnico con leyenda de simbologia de zonas de edificacion: Eab4 y Ee3/Ee4 (Edificacion Aislada Baja), Via Parque Proyectada, Parque Pie Andino, Parques Intercomunales y Comunales/Cerros Islas/Parques Urbanos/Areas Verdes. Muestra situacion anterior y situacion que se aprueba para poligono ABCDE (sector San Carlos de Apoquindo). Es un plano grafico con tipologia de edificacion por zona (sistema de agrupamiento), sin valores numericos de COS/CC/altura en la leyenda. Verificado visualmente, documento de 1 pagina (2 laminas comparativas)."
+  }
+}

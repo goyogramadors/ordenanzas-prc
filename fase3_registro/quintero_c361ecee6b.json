@@ -1,0 +1,20 @@
+{
+  "id": "quintero_c361ecee6b",
+  "comuna": "quintero",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quintero_decreto_alcaldicio_n3880_apruebase_la_modificacion_de_con_el_gobierno_regional_d__Decreto%20Alcaldicio%20N%203880%20de%20fecha%2018-07-2024%20Depto-%20%20Secplan..pdf",
+  "nombre": "quintero_decreto_alcaldicio_n3880_apruebase_la_modificacion_de_con_el_gobierno_regional_d__Decreto%20Alcaldicio%20N%203880%20de%20fecha%2018-07-2024%20Depto-%20%20Secplan..pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:11:29",
+  "fin": "2026-07-15T12:12:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Alcaldicio 3880 (18-jul-2024, 7p): aprueba modificación del Convenio Mandato con el Gobierno Regional de Valparaíso para incrementar el presupuesto del estudio 'Actualización PRC de Quintero' (de $207.285.000 a $432.426.000). Acto administrativo financiero, no contiene tabla de normas urbanísticas."
+  }
+}

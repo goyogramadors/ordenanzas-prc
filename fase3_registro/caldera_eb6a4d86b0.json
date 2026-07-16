@@ -1,0 +1,25 @@
+{
+  "id": "caldera_eb6a4d86b0",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_1718_aprueba_texto_refundido_de_la_ordenanza_local_del_plan_regulador_comunal_de__Exportar.pdf",
+  "nombre": "caldera_1718_aprueba_texto_refundido_de_la_ordenanza_local_del_plan_regulador_comunal_de__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 57,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T07:45:52",
+  "fin": "2026-07-15T07:50:50",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        49
+      ]
+    ],
+    "paginas_utiles": 38,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Dec.1718/2021 texto refundido Ordenanza Local PRC Caldera (caso testigo original de la trampa mixto de este corpus). p12-40: TODAS las tablas de zonas U-1 a U-21, ZE-1 a ZE-5, ZEI, ZAV son IMAGEN JPEG (pdftotext solo saca ~128 caracteres de pie de pagina). Verificado por render: p12 U-2 (predial 200m2, COS viv 0,75/otros 1, CC 3, pareado-continuo, altura 10,5m, densidad 200 hab/ha), p20 U-9a (incluye condiciones de riesgo por tsunami), p36 ZE-3 (predial 1.000m2, COS 0,13, CC 0,13, aislado, altura 4,2m), p39 ZEI (predial 500m2, COS 0,4, CC 0,6, altura 10m), p40 ZAV (predial 1.000m2, COS 0,5, CC 1, altura 10m). p41-46: zonas costeras R-1, R-2, R-2b, R-2c, R-3A, R-3B, R-4 y areas restringidas (ZNE, A-1/2, T-1/2, Q-1 a Q-5, S-1, P-1) en TEXTO CORRIDO real (no imagen) con valores concretos: usos permitidos/prohibidos, distanciamiento a linea de mas alta marea (20-100m), superficie maxima por unidad, altura maxima. p48 tabla-imagen de deslindes de calles ZCH (no es norma de edificacion) + anuncia art.23; p49 tabla-imagen normas ZCH (predial 200m2, COS 0,75/1, CC 3, continuo, altura 10,5m, densidad 200 hab/ha). p53-56 vialidad/estacionamientos EXCLUIDAS (no son norma de zona)."
+  }
+}

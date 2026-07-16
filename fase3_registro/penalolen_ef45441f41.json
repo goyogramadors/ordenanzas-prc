@@ -1,0 +1,20 @@
+{
+  "id": "penalolen_ef45441f41",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_PE.pdf",
+  "nombre": "penalolen_Zona_PE.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:46:53",
+  "fin": "2026-07-15T12:53:13",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Zona PE (pagina unica): solo cuadro de Usos de Suelo Permitidos (Clase/Actividad: Cientifico, Educacion, Culto y Cultura, Deporte y Recreacion). No incluye normas de edificacion (COS, CC, altura, superficie predial, etc)."
+  }
+}

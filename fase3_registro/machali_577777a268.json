@@ -1,0 +1,20 @@
+{
+  "id": "machali_577777a268",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_1279_aprueba_modificacion_n_06_al_prc_de_machali_modificacion_al_plan_regulador___Exportar.pdf",
+  "nombre": "machali_1279_aprueba_modificacion_n_06_al_prc_de_machali_modificacion_al_plan_regulador___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:03:16",
+  "fin": "2026-07-14T21:05:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.1279/2014 Modificacion N.5 al PRC de Coya (localidad de Machali): solo modifica el TRAZADO VIAL del Camino Existente N.7 para dar lugar a una Planta de Tratamiento de Aguas Servidas. No transcribe parametros de zona (predial/COS/CC/altura/densidad)."
+  }
+}

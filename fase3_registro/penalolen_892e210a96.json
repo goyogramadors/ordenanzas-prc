@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_892e210a96",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-2.pdf",
+  "nombre": "penalolen_Zona_EQ-2.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:12:10",
+  "fin": "2026-07-14T21:14:55",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ficha 1 pagina Zona EQ-2: usos permitidos, densidad bruta max, superficie minima predial, %ocupacion suelo, coef.constructibilidad."
+  }
+}

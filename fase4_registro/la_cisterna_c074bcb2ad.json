@@ -1,0 +1,26 @@
+{
+  "id": "la_cisterna_c074bcb2ad",
+  "comuna": "la_cisterna",
+  "ruta": "Ordenanzas ordenadas\\la_cisterna_decreto_820_aprueba_enmienda_plan_regulador__DEC820.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "LA CISTERNA: DUPLICADO de la_cisterna_5dea24a2fa (mismo contenido normativo: reemplaza en el Art 12 de la Ordenanza Local el cuadro Estandares de Estacionamiento para Viviendas colectivas o acogidas a Ley de Copropiedad Inmobiliaria, subiendo la dotacion minima). Este es el Decreto 820 (15-feb-2018) que aprueba y republica la misma Enmienda N1 (originalmente promulgada por decreto 2891 de 2004). Mismos valores: Donde dice 1 por cada 5-4 viviendas etc, Debe decir 3 por cada vivienda (excepto sociales: se exige Ley 19.537, 1 por cada 2 viviendas). Verificado visualmente, 1 pagina.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:13:34",
+  "fin": "2026-07-15T14:15:39",
+  "resultado": {
+    "archivo": "extraccion_normas\\la_cisterna\\la_cisterna_820_enmienda_n1_estacionamientos_pag1.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO confirmado de la_cisterna_5dea24a2fa (mismo contenido normativo, decreto municipal previo a la publicacion en Diario Oficial). Norma de aplicacion comunal general, sin zona especifica. Documento propio, Markdown propio por regla de 1 documento = 1 Markdown. Coincide con nota_fase3."
+  }
+}

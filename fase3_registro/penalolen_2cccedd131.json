@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_2cccedd131",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Ordenanza_Plan_Regulador_Comunal.pdf",
+  "nombre": "penalolen_Ordenanza_Plan_Regulador_Comunal.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 32,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:10:55",
+  "fin": "2026-07-14T21:12:33",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        17,
+        29
+      ]
+    ],
+    "paginas_utiles": 13,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ordenanza PRC completa (decreto 55/1989): pág17-29 capítulo de zonificación con USOS PERMITIDOS + CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION (superficie predial mín, frente predial mín, % ocupación suelo, coef. constructibilidad, densidad, sistema agrupamiento, rasantes/distanciamiento) para TODAS las zonas (R.1, R.2, I.E., Z.1, Z.2, A.R.1, etc.); texto nativo completo"
+  }
+}

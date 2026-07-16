@@ -1,0 +1,20 @@
+{
+  "id": "navidad_77f0ba0d06",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_decreto_alcaldicio_2517_prorroga_plazo_para_realizar_observaciones_en_proceso_co__b778eaaa-f6fd-4e83-babf-1f91bb2a7197.pdf",
+  "nombre": "navidad_decreto_alcaldicio_2517_prorroga_plazo_para_realizar_observaciones_en_proceso_co__b778eaaa-f6fd-4e83-babf-1f91bb2a7197.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:06:03",
+  "fin": "2026-07-14T21:07:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 2517/2024: prorroga de 30 a 45 dias plazo de observaciones en Consulta Publica Imagen Objetivo PRC (art.28 octies LGUC). Tramite de plazo participativo."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "vitacura_469f4faf9f",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_31895_promulga_modificacion_n_31_al_plan_regulador_comunal_de_vitacura_norma_de___DIARIO OFICIAL 20.06.16.pdf",
+  "nombre": "vitacura_31895_promulga_modificacion_n_31_al_plan_regulador_comunal_de_vitacura_norma_de___DIARIO OFICIAL 20.06.16.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:37:56",
+  "fin": "2026-07-14T21:39:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "VITACURA: Diario Oficial 20-sep-2016, Modificacion N31 al PRC, Norma de Edificacion Area de Riesgo de Remocion en Masa R-5. La modificacion es PURAMENTE GRAFICA: reemplaza el plano de Edificacion MR-28-01 por el MR-31-01 y modifica las Laminas 1 (Edificacion) y 2 (Usos de Suelo) 'de acuerdo a lo graficado en los planos', sin transcribir ningun valor textual (COS, CC, altura, predial minima). No hay tabla ni parametro que registrar en el texto del decreto."
+  }
+}

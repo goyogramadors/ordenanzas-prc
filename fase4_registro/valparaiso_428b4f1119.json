@@ -1,0 +1,29 @@
+{
+  "id": "valparaiso_428b4f1119",
+  "comuna": "valparaiso",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\valparaiso_3306_aprueba_modificacion_plan_regulador_comunal_valparaiso__do-20141119.pdf",
+  "rangos": [
+    [
+      13,
+      14
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "modificación PRC Valparaíso: pág13-14 dos zonas de conservación histórica ZCHLF (Loteos Fundacionales Cerros Anfiteatro) y ZCHP y E (Placeres y Esperanza) con usos permitidos/prohibidos, superficie predial mínima, % ocupación suelo, densidad, sistema agrupamiento, alturas, distanciamientos; texto nativo completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T18:16:55",
+  "fin": "2026-07-15T23:06:00",
+  "resultado": {
+    "archivo": "extraccion_normas\\valparaiso\\valparaiso_3306_zchlf_anfiteatro_zchp_e_pag13-14.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZCHLF(Anfiteatro)",
+      "ZCHPyE"
+    ],
+    "confianza": "ALTA",
+    "nota": "2 zonas completas (usos+condiciones): ZCHLF Anfiteatro (predial 250m2, ocupacion 70%, altura +1piso sobre existente) y ZCHPyE Placeres-Esperanza (predial 500m2 nuevas subdivisiones, ocupacion 40%/60% con Patio Verde, densidad 350hab/ha, continuo linea oficial, altura 6m/12m, distanciamiento 3m). Texto nativo sin trampa. Coincide con nota_fase3."
+  }
+}

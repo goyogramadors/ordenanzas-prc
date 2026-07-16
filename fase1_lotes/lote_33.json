@@ -1,0 +1,716 @@
+[
+ {
+  "id": "d0419",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_1430_aprueba_y_designa_deleguese_cumplase_dispongase_informes",
+  "archivo": "nancagua_decreto_alcaldicio_1430_aprueba_y_designa_deleguese_cumplase_dispongase_informes__1430.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0420",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_1771_aprueba_el_inicio_de_consulta_publica_informe_ambiental",
+  "archivo": "nancagua_decreto_alcaldicio_1771_aprueba_el_inicio_de_consulta_publica_informe_ambiental___1771.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0421",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_1945_autoriza_publicacion_de_un_aviso_por_estudio_plan_regula",
+  "archivo": "nancagua_decreto_alcaldicio_1945_autoriza_publicacion_de_un_aviso_por_estudio_plan_regula__1945.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0422",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_2441_apruebense_informe_ambiental_del_estudio_plan_regulador",
+  "archivo": "nancagua_decreto_alcaldicio_2441_apruebense_informe_ambiental_del_estudio_plan_regulador___2441.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0423",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3166_autoricese_publicacion_1_aviso_publicitario_1_audiencia",
+  "archivo": "nancagua_decreto_alcaldicio_3166_autoricese_publicacion_1_aviso_publicitario_1_audiencia___3166.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0424",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3231_regularicese_contratacion_para_servicio_de_coffe_break_j",
+  "archivo": "nancagua_decreto_alcaldicio_3231_regularicese_contratacion_para_servicio_de_coffe_break_j__3231.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0425",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3236_crease_fondo_a_rendir_para_cancelacion_de_cartas_certifi",
+  "archivo": "nancagua_decreto_alcaldicio_3236_crease_fondo_a_rendir_para_cancelacion_de_cartas_certifi__3236.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0426",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3351_autoriza_contratacion_de_un_servicio_de_coctel_para_terc",
+  "archivo": "nancagua_decreto_alcaldicio_3351_autoriza_contratacion_de_un_servicio_de_coctel_para_terc__3351.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0427",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3415_autoriza_publicacion_de_aviso_para_segunda_audiencia_del",
+  "archivo": "nancagua_decreto_alcaldicio_3415_autoriza_publicacion_de_aviso_para_segunda_audiencia_del__3415.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0428",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3432_autoriza_adquisicion_de_04_servicios_de_banqueteria_para",
+  "archivo": "nancagua_decreto_alcaldicio_3432_autoriza_adquisicion_de_04_servicios_de_banqueteria_para__3432.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0429",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_3598_apruebese_convocatoria_a_plesbicito_comunal_para_aprobac",
+  "archivo": "nancagua_decreto_alcaldicio_3598_apruebese_convocatoria_a_plesbicito_comunal_para_aprobac__3598.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0430",
+  "comuna": "nancagua",
+  "nombre_documento": "decreto_alcaldicio_4248_ratifiquese_contratacion_de_un_servicio_de_coctel_jornad",
+  "archivo": "nancagua_decreto_alcaldicio_4248_ratifiquese_contratacion_de_un_servicio_de_coctel_jornad__4248.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0431",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_1017_rectifica_plazo_total_del_estudio_reformulacion_plan_reg",
+  "archivo": "navidad_decreto_alcaldicio_1017_rectifica_plazo_total_del_estudio_reformulacion_plan_reg__c90b2d7c-3292-48f6-978e-e6212ba5f9e5.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\nRECTIFICA PLAZO TOTAL DEL\r\nESTUDIO REFORMULACION PLAN\r\nREGULADOR\r\nCOMUNAL\r\nDE\r\nNAVIDAD ID 3948-16-LQ23\r\n\r\nNAVIDAD, 24 de mayo de 2024.VISTOS:\r\n•\r\n\r\nLo dispuesto en Ley N18.575 Orgánica Constitucional de Bases Generales de\r\nAdministración del Estado; Ley N19.886, de Bases sobre Contratos\r\nAdministrativos de Suministro y Prestación de Servicios; en el Decreto n250, de\r\n2004, del Ministerio de Hacienda, que aprueba el Reglamento de Ley N19.886,\r\nley de bases sobre contratos administrativos de suministro y prestación de\r\nservicios; la Ley N19.880 que aprueba las Bases de los Procedimientos que rigen\r\nlos actos de los Órganos del Estado\r\n\r\nCONSIDERANDO:\r\n•\r\n\r\n•\r\n•\r\n\r\n•\r\n\r\n•\r\n\r\n•\r\n\r\n•\r\nDMF\r\n\r\nPAF\r\n\r\nQue la Ilustre Municipalidad de Navidad requirió contratar la Reformulación del\r\nPlan Regulador Comunal por medio de licitación pública ID 3948-16-LQ23,\r\naprobado mediante Certificado de Acuerdo Concejo Municipal N°34 adoptado en\r\nsesión ordinaria N°15, de fecha 17 de mayo 2023\r\nQue mediante Decreto Alcaldicio N°381/2023 se aprueban Bases de Licitación\r\nAdministrativas y Técnicas que forman parte de los antecedentes\r\nQue mediante Decreto Alcaldicio N°1102/2023 de fecha 22 de junio 2023 se\r\naprueba Contrato de fecha 08 de Junio 2023 con la consultora SURPLAN,\r\nrepresentada por Ana María Merino.\r\nQue mediante Decreto Alcaldicio N°1443/2023 de fecha 16 de agosto 2023, se\r\nconforma Mesa Técnica asociada a la revisión y seguimiento del proceso del\r\nestudio de Refo"
+ },
+ {
+  "id": "d0432",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_1078_aprueba_bases_administrativas_tecnicas_y_convoca_a_propu",
+  "archivo": "navidad_decreto_alcaldicio_1078_aprueba_bases_administrativas_tecnicas_y_convoca_a_propu__992509da-6bf3-4674-83c6-4b7eed7ac7f5.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0433",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_1728_aprueba_especificaciones_tecnicas_para_contratacion_de_s",
+  "archivo": "navidad_decreto_alcaldicio_1728_aprueba_especificaciones_tecnicas_para_contratacion_de_s__43c855b7-1651-464e-a0ea-408a74c44d6e.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\n\r\nAPRUEBA ESPECIFICACIONES TECNICAS\r\nPARA CONTRATACIÓN DE SERVICIOS\r\nPERSONALES\r\nESPECIALIZADOS\r\n“SERVICIO\r\nDE\r\nELABORACIÓN\r\nDE\r\nCARTOGRAFÍA BASE PARA EL PLAN\r\nREGULADOR COMUNAL (PRC)”\r\nNAVIDAD, 22 de agosto de 2024.VISTOS:\r\n• Las normas consagradas en la Ley N°19.886, ley de bases sobre contratos\r\nadministrativos y prestación de servicios; Decreto N°250 de 2004 del Ministerio\r\nde Hacienda, que aprueba el Reglamento de dicho cuerpo legal; Resolución\r\nN°1.600 de 2008, de la Contraloría General de la República, que establece las\r\nnormas sobre exención del trámite de toma de razón; lo dispuesto em el inciso\r\ncuarto del art. 12°, art. 56°, art. 63°, art. 66° de la Ley N°18.695, Orgánica\r\nConstitucional de Municipalidades y sus modificaciones; Acta de proclamación del\r\nAlcalde de fecha 21 de junio 2021 y las demás facultades que me confiere la ley.\r\nCONSIDERANDO:\r\n•\r\n\r\n•\r\n\r\n•\r\n•\r\n\r\n•\r\n•\r\n\r\nQue la Dirección de Secretaría de Planificación Comunal, requiere contratar los\r\nservicios personales especializados para ELABORACIÓN DE CARTOGRAFÍA\r\nBASE PARA EL PLAN REGULADOR COMUNAL (PRC), Comuna de Navidad,\r\npara la actualización y mantenimiento de estas y la necesidad de contar con\r\ndicha el proceso de reformulación del Plan Regulador Comunal.\r\nQue, no es posible la realización de dichas labores por personal de la\r\nMunicipalidad, puesto que, corresponden a tareas que requieren de un especial\r\nconocimiento, alta experiencia y estudios en materias de gestión munic"
+ },
+ {
+  "id": "d0434",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_1971_autoriza_perifoneo_para_difundir_la_modificacion_al_plan",
+  "archivo": "navidad_decreto_alcaldicio_1971_autoriza_perifoneo_para_difundir_la_modificacion_al_plan__71cdec6b-594a-4189-aa4b-a2ccef0cea47.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "1.MUNICIPAUDAD DE NAVIDAD\r\nALCALDIA\r\n\r\nAUTORIZA\r\nPERIFONEO\r\nMODIFICACION\r\nAL\r\nPLAN\r\nCOMUNAL.\r\n\r\nDIFUSION\r\nREGULADOR\r\n\r\n..................................................\r\nNAVIDAD, 04 de Julio del 2014.CONSIDERANDO :\r\n\r\n-\r\n\r\nLa necesidad de difundir a la Comunidad la Modification del nuevo Plan\r\nRegulador Comunal a objeto que la poblacion pueda interiorizarse de estos\r\ncambios.\r\n\r\nVISTOS:\r\n\r\n-\r\n\r\nLas atribuciones que me confiere la Ley Organica\r\nde Municipalidades No 18.695 y sus modificaciones.\r\n\r\nConstitucional\r\n\r\nDECRETO\r\nEXENTO No\r\n\r\n1971 /\r\n\r\nAUTORIZASE, la realization del perifoneo para\r\ndifundir la rnodificacion al Plan Regulador Comunal, de acuerdo a la siguiente\r\ncalendarizaci6n:\r\nk\r\n\r\nLunes 07/07/14\r\n\r\nde 09:30 a 11:30 hrs.\r\nde 11:30 a 13:30 hrs.\r\nde 15:00 a 16:30 hrs.\r\n\r\nSector La Vega de Pupuya\r\nSector Pupuya\r\nSector Matanzas\r\n\r\nk\r\n\r\nMartes 08/07/14\r\n\r\nde 09: 30 a 11: 30 hrs.\r\nde 11:30 a 13:00 hrs.\r\nde 14:30 a 16:30 hrs.\r\n\r\nSector La Boca\r\nSector Las Brisas\r\nSector Navidad\r\n\r\nI\r\n\r\nJueves 10/07/14\r\n\r\nde11:30a13:30hrs.\r\n\r\nSector Rapel\r\n\r\nA\r\n\r\nANOTESE, COMUNIQUESE Y ARCHIV S\r\n\r\nALCALDE (S)\r\n\r\nRSA/&C~\r\n\r\nDISTRIBUCION :\r\nOf. de Partes\r\n- Archivo DOM\r\n\r\n-"
+ },
+ {
+  "id": "d0435",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_2077_suspension_de_plazo_estudio_reformulacion_del_plan_regul",
+  "archivo": "navidad_decreto_alcaldicio_2077_suspension_de_plazo_estudio_reformulacion_del_plan_regul__8565f546-c8dd-4b8d-a215-f70408fc70c4.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\nSUSPENSIÓN DE PLAZO\r\nESTUDIO\r\nREFORMULACIÓN\r\nDEL\r\nPLAN\r\nREGULADOR\r\nCOMUNAL DE NAVIDAD\r\nID 3948-16-LQ23\r\nNAVIDAD, 11 de octubre de 2024.VISTOS:\r\nLo dispuesto en el D.F.L N° 1/19.653, 2000, del Ministerio Secretaría General de\r\nla Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N°\r\n18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado;\r\nen la Ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y\r\nPrestación de Servicios; en el Decreto N° 250, de 2004, del Ministerio de Hacienda,\r\nque aprueba el Reglamento de la Ley N° 19.886, ley de bases sobre contratos\r\nadministrativos de suministro y prestación de servicios; la Ley N° 18.695, Orgánica\r\nConstitucional de Municipalidades; en la Ley N°19.880 que aprueba las Bases de\r\nlos Procedimientos que rigen los actos de los Órganos del Estado;\r\nCONSIDERANDO:\r\n\r\nDMF\r\n\r\nPAF\r\n\r\nRSA\r\n\r\n•\r\n\r\nQue la Ilustre Municipalidad de Navidad requirió contratar la Reformulación del\r\nPlan Regulador Comunal por medio de licitación pública ID 3948-16-LQ23.\r\n\r\n•\r\n\r\nQue, con fecha de 03 de julio de 2024 la consultora SURPLAN, representada\r\nlegalmente por Ana Merino, hizo entrega de la primera versión del informe\r\ncorrespondiente a la subetapa 3A de la Etapa “Imagen Objetivo” del estudio al\r\ncual la Contraparte Técnica del municipio realizó observaciones y fueron\r\nenviadas a La Consultora por medio de correo electrónico.\r\n\r\n•\r\n\r\nQue, con fecha 29 de julio de"
+ },
+ {
+  "id": "d0436",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_2517_prorroga_plazo_para_realizar_observaciones_en_proceso_co",
+  "archivo": "navidad_decreto_alcaldicio_2517_prorroga_plazo_para_realizar_observaciones_en_proceso_co__b778eaaa-f6fd-4e83-babf-1f91bb2a7197.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\nPRÓRROGA\r\nPLAZO\r\nPARA\r\nREALIZAR OBSERVACIONES EN\r\nPROCESO CONSULTA PÚBLICA DE\r\nIMAGEN\r\nOBJETIVO\r\nPLAN\r\nREGULADOR\r\nCOMUNAL\r\nDE\r\nNAVIDAD\r\n\r\nNAVIDAD, 16 de diciembre de 2024.VISTOS:\r\n•\r\n\r\nen estos antecedentes, Las bases de licitación pública: administrativas, técnicas\r\ny demás antecedentes de la propuesta identificada con ID 3948-64-LQ23,\r\nContrato del estudio “REFORMULACIÓN PLAN REGULADOR COMUNAL DE\r\nNAVIDAD, PROVINCIA CARDENAL CARO, REGIÓN DEL LIBERTADOR BERNARDO\r\nO’HIGGINS”, del día 22 de junio 2023, Merino, Neely y Cortínez Surplan Limitada,\r\nDecreto\r\n\r\nalcaldicio\r\n\r\nN°1102/2023\r\n\r\nque\r\n\r\naprueba\r\n\r\nContrato\r\n\r\nde\r\n\r\nEstudio\r\n\r\nde\r\n\r\nReformulación del Plan Regulador Comunal de Navidad.\r\nCONSIDERANDO:\r\n•\r\n\r\nQue, según lo indicado en el art. 28 octies de la Ley General de Urbanismo y\r\nConstrucción y artículo 2.1.5 de la Ordenanza General de Urbanismo y\r\nConstrucciones, junto con la DDU 481 de fecha 13 de junio de 2023 que indican\r\nprocedimiento de Consulta Pública de Imagen Objetivo.\r\n\r\n•\r\n\r\nQue, según Acta de Sesión Ordinaria de Concejo n31/2024 de fecha 06 de\r\nnoviembre 2024, y acuerdo n137 iniciar la Consulta Pública de Imagen Objetivo\r\ndel Plan Regulador.\r\n\r\n•\r\n\r\nSe inicia la Consulta Pública el día 18 de noviembre 2024 con la exposición de\r\nantecedentes en lugares visibles a público y en la página web del municipio, junto\r\ncon la realización de invitaciones a las organizaciones territoriales y concejales a\r\nlas audiencias públicas realizadas e"
+ },
+ {
+  "id": "d0437",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_277_aprueba_bases_reformulacion_plan_regulador_comuna_de_navi",
+  "archivo": "navidad_decreto_alcaldicio_277_aprueba_bases_reformulacion_plan_regulador_comuna_de_navi__39bf40c1-37c9-4fce-a156-093d3f395b9a.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0438",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_303_aprueba_bases_administrativas_y_tecnicas_reformulacion_pl",
+  "archivo": "navidad_decreto_alcaldicio_303_aprueba_bases_administrativas_y_tecnicas_reformulacion_pl__4f517496-c59c-4ecd-8f98-85f76f124129.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0439",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_556_resuelve_procedimiento_de_suspension_de_plazo_estudio_pla",
+  "archivo": "navidad_decreto_alcaldicio_556_resuelve_procedimiento_de_suspension_de_plazo_estudio_pla__5eb99960-657f-4877-94dd-c5a161d0e1ed.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\nRESUELVE\r\nPROCEDIMIENTO\r\nDE\r\nSUSPENSIÓN DE PLAZO ESTUDIO\r\nPLAN REGULADOR.\r\nNAVIDAD, 26 de marzo de 2024.VISTOS\r\n➢\r\n\r\nLo dispuesto en el D.F.L N° 1/19.653, 2000, del Ministerio Secretaría\r\nGeneral de la Presidencia, que fija el texto refundido, coordinado y\r\nsistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases\r\nGenerales de la Administración del Estado; en la Ley N° 19.886, de Bases\r\nsobre Contratos Administrativos de Suministro y Prestación de Servicios; en\r\nel Decreto N° 250, de 2004, del Ministerio de Hacienda, que aprueba el\r\nReglamento de la Ley N° 19.886, ley de bases sobre contratos\r\nadministrativos de suministro y prestación de servicios; la Ley N° 18.695,\r\nOrgánica Constitucional de Municipalidades; en la Ley N°19.880 que\r\naprueba las Bases de los Procedimientos que rigen los actos de los Órganos\r\ndel Estado;\r\n\r\nCONSIDERANDO\r\n➢\r\n➢\r\n\r\n➢\r\n\r\n➢\r\n➢\r\n\r\n➢\r\n\r\nQue la Ilustre Municipalidad de Navidad, requirió contratar la reformulación\r\ndel plan regulador comunal por medio de licitación publica 3948-16-LQ23.\r\nQue, con fecha de 09 de enero del 2024 la consultora SURPLAN, representada\r\nlegalmente por Ana Merino, hizo entrega de la primera versión del informe\r\ncorrespondiente a la etapa 2 de “Diagnostico Integrado y Tendencias” del\r\nestudio al cual la contraparte técnica del municipio realizo observaciones y\r\nfueron enviadas a la consultora por medio de correo electrónico.\r\nQue, con fecha 09 de febrero del 2024, la consultora SURPLAN, re"
+ },
+ {
+  "id": "d0440",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_690_suspension_de_plazo_de_etapa_parcial_estudio_reformulacio",
+  "archivo": "navidad_decreto_alcaldicio_690_suspension_de_plazo_de_etapa_parcial_estudio_reformulacio__bb04eb06-aa27-47a6-86f0-c176d1167808.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\nSUSPENSIÓN DE PLAZO DE\r\nETAPA PARCIAL “ESTUDIO\r\nREFORMULACIÓN DEL PLAN\r\nREGULADOR COMUNAL DE\r\nNAVIDAD”\r\nID\r\n3948-16LQ23\r\n\r\nNAVIDAD, 13 de mayo de 2025.VISTOS:\r\n•\r\n\r\n· Lo dispuesto en el D.F.L N° 1/19.653, 2000, del Ministerio Secretaría General\r\nde la Presidencia, que fija el texto refundido, coordinado y sistematizado de la\r\nLey N° 18.575, Orgánica Constitucional de Bases Generales de la Administración\r\ndel Estado; en la Ley N° 19.886, de Bases sobre Contratos Administrativos de\r\nSuministro y Prestación de Servicios; en el Decreto N° 661, de 2024, del\r\nMinisterio de Hacienda, que aprueba el Reglamento de la Ley N°19.886, de bases\r\nsobre contratos administrativos de suministro y prestación de servicios y deja sin\r\nefecto\r\n\r\nDecreto\r\n\r\nN°250;\r\n\r\nla\r\n\r\nLey\r\n\r\nN°\r\n\r\n18.695,\r\n\r\nOrgánica\r\n\r\nConstitucional\r\n\r\nde\r\n\r\nMunicipalidades; en la Ley N°19.880 que aprueba las Bases de los Procedimientos\r\nque rigen los actos de los Órganos del Estado.\r\n•\r\n\r\n· Contrato de fecha 08 de junio 2023 celebrado entre la Municipalidad de Navidad\r\ny la consultora SURPLAN aprobado por Decreto N°1102 de fecha 22 de junio 2023\r\nque da inicio formal al estudio, y sus posteriores modificaciones.\r\n\r\nCONSIDERANDO:\r\n1.\r\n\r\nQue la Ilustre Municipalidad de Navidad requirió contratar la Reformulación del\r\nPlan Regulador Comunal por medio de licitación pública ID 3948-16-LQ23.\r\n\r\n2.\r\n\r\nQue, con fecha de 07 de mayo 2025 la consultora SURPLAN, representada\r\nlegalmente por Ana María Merino,"
+ },
+ {
+  "id": "d0441",
+  "comuna": "navidad",
+  "nombre_documento": "decreto_alcaldicio_848_aumento_de_suspension_de_etapa_estudio_reformulacion_del",
+  "archivo": "navidad_decreto_alcaldicio_848_aumento_de_suspension_de_etapa_estudio_reformulacion_del___e1f87134-ac6e-4883-b114-dd893cc21d76.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE NAVIDAD\r\nAUMENTO DE SUSPENSIÓN DE\r\nETAPA\r\n“ESTUDIO\r\nREFORMULACIÓN\r\nDEL\r\nPLAN\r\nREGULADOR\r\nCOMUNAL\r\nDE\r\nNAVIDAD” ID 3948-16-LQ23\r\nNAVIDAD, 24 de junio de 2025.VISTOS:\r\n•\r\n\r\n•\r\n\r\n•\r\n\r\nLo dispuesto en el D.F.L N° 1/19.653, 2000, del Ministerio Secretaría\r\nGeneral de la Presidencia, que fija el texto refundido, coordinado y sistematizado\r\nde la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la\r\nAdministración del Estado; en la Ley N° 19.886, de Bases sobre Contratos\r\nAdministrativos de Suministro y Prestación de Servicios; en el Decreto N° 661,\r\nde 2024, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley\r\nN°19.886, de bases sobre contratos administrativos de suministro y prestación\r\nde servicios y deja sin efecto Decreto N°250; la Ley N° 18.695, Orgánica\r\nConstitucional de Municipalidades; en la Ley N°19.880 que aprueba las Bases\r\nde los Procedimientos que rigen los actos de los Órganos del Estado.\r\nContrato de fecha 08 de junio 2023 celebrado entre la Municipalidad de Navidad\r\ny la consultora SURPLAN aprobado por Decreto N°1102 de fecha 22 de junio 2023\r\nque da inicio formal al estudio, y sus posteriores modificaciones.\r\nDecreto Alcaldicio N°690 de fecha 13 de mayo 2025, que suspende el plazo de\r\nla etapa del Estudio mencionado.\r\n\r\nCONSIDERANDO:\r\n\r\nDMF\r\n\r\nGGC\r\n\r\nJAG\r\n\r\n1. Que la Ilustre Municipalidad de Navidad requirió contratar la Reformulación del\r\nPlan Regulador Comunal por medio de licitación pública ID 3948-16-LQ23.\r\n2. Que, con"
+ },
+ {
+  "id": "d0442",
+  "comuna": "navidad",
+  "nombre_documento": "resolucion_afecta_aprueba_reformulacion_plan_regulador_comunal_de_navidad",
+  "archivo": "navidad_resolucion_afecta_aprueba_reformulacion_plan_regulador_comunal_de_navidad__ad5c1efd-b09d-4033-8bac-8b656f591f00.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 77,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 3,
+   "ocupacion_suelo": 5,
+   "predial_minima": 7,
+   "altura_maxima": 5,
+   "densidad": 3,
+   "agrupamiento": 24,
+   "antejardin": 5,
+   "rasante": 5,
+   "distanciamiento": 4,
+   "zonificacion": 7,
+   "usos_de_suelo": 20,
+   "ordenanza_local_txt": 4,
+   "articulado": 38,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZR-1"
+  ],
+  "puntaje_normativo": 14,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 14 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 29 de Enero de 2009\r\n\r\nNº 39.274\r\n\r\nGobierno Regional VI Región del Libertador Bernardo O’Higgins\r\nAPRUEBA REFORMULACIÓN DEL PLAN REGULADOR COMUNAL DE NAVIDAD, LOCALIDADES DE RAPEL, NAVIDAD - LAS BRISAS - LA BOCA DE RAPEL,\r\nMATANZAS Y PUPUYA - LA VEGA DE PUPUYA\r\n(Resolución)\r\nNúm. 64 afecta.- Rancagua, 3 de septiembre de 2008.- Vistos:\r\n1. Ordinario Nº 784 de fecha 11 de julio de 2008, mediante el cual la Secretaría Ministerial\r\nde Vivienda y Urbanismo Región del Libertador Bernardo O’Higgins, remite al Secretario\r\nEjecutivo del Consejo Regional antecedentes del Plan Regulador Comunal de Navidad,\r\nlocalidades de Rapel, Navidad - Las Brisas - La Boca de Rapel, Matanzas, Pupuya - La Vega de\r\nPupuya, de acuerdo a lo establecido en el art. 2.1.11. de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\n2. Informe Técnico Nº 1/2008 de fecha 3 de julio de 2008, de la Secretaría Regional\r\nMinisterial de Vivienda y Urbanismo Región del Libertador Bernardo O’Higgins, que informa\r\nfavorablemente la reformulación del Plan Regulador Comunal de Navidad, localidades de Rapel,\r\nNavidad - Las Brisas - La Boca de Rapel, Matanzas, Pupuya - La Vega de Pupuya.\r\n3. Memoria Explicativa del Plan Regulador Comunal de Navidad, localidades de Rapel\r\nNavidad - Las Brisas - La Boca de Rapel, Matanzas, Pupuya - La Vega de Pupuya.\r\n4. Estudio Reformulación Plan Regulador Comunal de Navidad, Estudio de Factibilidad\r\nde Agua Potable, Evacuación de Aguas Servi"
+ },
+ {
+  "id": "d1170",
+  "comuna": "niquen",
+  "nombre_documento": "94_modifica_resolucion_n_121_de_15092008_que_promulga_plan_regulador_comunal_de",
+  "archivo": "niquen_94_modifica_resolucion_n_121_de_15092008_que_promulga_plan_regulador_comunal_de___do-20090924.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 60,
+  "paginas_escaneadas": 60,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0443",
+  "comuna": "nogales",
+  "nombre_documento": "decreto_2121_aprueba_suspension_de_plazos_proyecto_actualizacion_plan_regulador",
+  "archivo": "nogales_decreto_2121_aprueba_suspension_de_plazos_proyecto_actualizacion_plan_regulador___2121.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

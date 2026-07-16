@@ -1,0 +1,25 @@
+{
+  "id": "pichilemu_6932f6a7c8",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_decreto_52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5__decreto52_enero2020.pdf",
+  "nombre": "pichilemu_decreto_52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5__decreto52_enero2020.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:47:00",
+  "fin": "2026-07-15T12:11:05",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Exento 52/2020 (09-01-2020), 'Enmienda al Plan Regulador Comunal de Pichilemu, Zona A5'. Art. único (p2): relocaliza Equipamiento de Salud a Zona A5 en reemplazo de Zona A-4(c) (futuro Hospital de Pichilemu) y AUMENTA el coeficiente de constructibilidad a 0,5 en Zona A5. Es un valor numérico concreto y nuevo, aunque el decreto no reproduce la tabla completa de la zona (resto de páginas es expediente administrativo: certificados, memorándum, sin más parámetros)."
+  }
+}

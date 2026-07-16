@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_4b44954eee",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pichilemu_4988_aprueba_modificacion_no_sustancial_i_del_plan_regulador_comunal_de_pichilem__no_sustancial.pdf",
+  "nombre": "pichilemu_4988_aprueba_modificacion_no_sustancial_i_del_plan_regulador_comunal_de_pichilem__no_sustancial.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T07:59:37",
+  "fin": "2026-07-15T08:06:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PICHILEMU: Decreto 4988, aprueba Modificacion NO SUSTANCIAL I del PRC (Diversos Sectores). Solo trazado vial y afectaciones-desafectaciones de calles (planos PRC-07-23 a PRC-14-23). El decreto APRUEBA una ordenanza y memoria explicativa 'respectivas' que NO estan adjuntas en este PDF: son documento aparte. Cero cuadros de zonas ni normas de edificacion, ni en texto ni en las 4 paginas escaneadas sin OCR (verificadas visualmente). Si existe un archivo separado con esa ordenanza, ese seria el documento con las tablas."
+  }
+}

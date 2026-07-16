@@ -1,0 +1,25 @@
+{
+  "id": "puerto_varas_46d6474c6e",
+  "comuna": "puerto_varas",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_varas_2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas__Exportar.pdf",
+  "nombre": "puerto_varas_2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 18,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:16:38",
+  "fin": "2026-07-14T21:19:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        13,
+        17
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PUERTO VARAS: Decreto 2 (BCN LeyChile, 18p), aprueba el PRC. Art 21 'Usos de suelo y normas especificas', p13-17, TEXTO NATIVO LIMPIO (sin trampa, verificado en render y con pdfimages: solo logos BCN): un articulo por zona (H-1, H-2, H-3, C, T, I, y restriccion R-1 a R-6), cada una con usos permitidos y prohibidos, c1 a c8-c10 (predial minima, frente predial, porcentaje de ocupacion de suelo, CC, agrupamiento, altura maxima, antejardin, adosamiento). Cierra al empezar Cap V Vialidad (p18, que si tiene tabla-imagen pero es vialidad, fuera de alcance: remite a Diario Oficial 33.615 pag 20-21). Tablas complementarias NO incluidas: estacionamientos por uso (Art 12, p7-9) y clasificacion de equipamiento por escala (Art 20, p10-12)."
+  }
+}

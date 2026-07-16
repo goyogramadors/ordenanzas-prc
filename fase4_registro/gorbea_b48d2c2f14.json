@@ -1,0 +1,28 @@
+{
+  "id": "gorbea_b48d2c2f14",
+  "comuna": "gorbea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\gorbea_1013_aprueba_enmienda_al_plan_regulador_comunal_de_gorbea__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Dec.1013 enmienda PRC Gorbea: solo modifica USOS DE SUELO de la Zona ZE (Equipamiento), redactado en prosa, no en cuadro (comercio salvo servicentros y discotecas; deportes salvo estadios y autodromos; servicios sin excepciones). NO trae COS/CC/altura/predial: la enmienda no los tocaba. Rango incluye p1 por generosidad.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:43:32",
+  "fin": "2026-07-15T14:45:28",
+  "resultado": {
+    "archivo": "extraccion_normas\\gorbea\\gorbea_1013_enmienda_ze.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Solo usos de suelo de ZE (comercio/deportes/servicios), sin COS/CC/altura/predial (no modificados por esta enmienda). Confianza MEDIA por nota_fase3."
+  }
+}

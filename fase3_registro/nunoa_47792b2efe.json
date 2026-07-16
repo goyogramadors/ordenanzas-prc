@@ -1,0 +1,20 @@
+{
+  "id": "nunoa_47792b2efe",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_1890_aprueba_modificacion_no_16_al_plan_regulador_comunal__1306404.pdf",
+  "nombre": "nunoa_1890_aprueba_modificacion_no_16_al_plan_regulador_comunal__1306404.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:07:26",
+  "fin": "2026-07-14T21:09:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "modificación N16 (versión DO): solo cambia altura en 7 polígonos existentes remitiendo a zonas Z-4C/Z-7A ya definidas en Modificación N15 anterior; sin cuadro normativo propio"
+  }
+}

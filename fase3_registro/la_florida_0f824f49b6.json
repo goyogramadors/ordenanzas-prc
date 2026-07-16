@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_0f824f49b6",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_60_promulga_modificacion_no_3_al_plan_regulador_comunal_de_la_florida_vialidad_e__Exportar.pdf",
+  "nombre": "la_florida_60_promulga_modificacion_no_3_al_plan_regulador_comunal_de_la_florida_vialidad_e__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:43:20",
+  "fin": "2026-07-14T15:47:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "SOLO VIALIDAD + TABLAS AUSENTES: Decreto 60 modifica la tabla del art.44 (Vialidad Estructurante). El PDF anuncia las tablas pero remite 'NOTA... VER DIARIO OFICIAL PAGINAS 8 a 12': no estan insertadas en este archivo. Igual serian de vialidad, no norma urbanistica, asi que no se pierde nada."
+  }
+}

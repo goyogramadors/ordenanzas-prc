@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_d5bfa2efb3",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_948_actualizacion_plan_regulador_de_cerrillos__202-0948-2021.pdf",
+  "nombre": "cerrillos_decreto_exento_948_actualizacion_plan_regulador_de_cerrillos__202-0948-2021.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:06:03",
+  "fin": "2026-07-14T15:29:43",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "PURO TRAMITE: Decreto 948/2021 INICIA el proceso de Evaluacion Ambiental Estrategica de la Actualizacion del PRC Cerrillos. Describe Imagen Objetivo y politicas de referencia; menciona 'coeficiente de constructibilidad/ocupacion' solo al citar los criterios del art.28 octies LGUC, SIN valores por zona. Texto 7/7 pags + render p4 (Figura 1: mapa del ambito territorial). Sin cuadros de normas."
+  }
+}

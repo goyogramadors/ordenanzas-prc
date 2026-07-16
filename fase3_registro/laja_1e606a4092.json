@@ -1,0 +1,25 @@
+{
+  "id": "laja_1e606a4092",
+  "comuna": "laja",
+  "ruta": "Ordenanzas ordenadas\\laja_106_resolucion_no_106_gobierno_regional_del_bio_bio_promulga_el_plan_regulador_c__DO_Plan_Regulador.pdf",
+  "nombre": "laja_106_resolucion_no_106_gobierno_regional_del_bio_bio_promulga_el_plan_regulador_c__DO_Plan_Regulador.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 15,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:26:47",
+  "fin": "2026-07-15T08:28:46",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        13
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Diario Oficial N39.189 (16.10.2008), Resolucion 106 Gobierno Regional del Bio Bio, Promulga PRC de Laja. Tablas de normas por zona pp.8-13 (impresas 23-28): ZCC Centro Civico (predial 300m2, COS 0.8, altura s/OGUC, antejardin 5m, densidad 200 hab/ha), ZR-1/ZR-2/ZR-3/ZRM-1, ZC cementerio, ZED, ZTES, ZEC-1/ZEC-2, ZM-1, ZISC, ZAP-1/ZAP-2/ZAPC-1, ZExR-1/ZExR-2/ZExP-1/ZExP-2/ZExAP-1/ZExAV, y zonas no edificables ZRi-1..5 (remocion masa/inundacion/gasoducto/ferroviaria/electrica), ZPdr, ZAM. Sin comuna ajena (todo confirmado Laja). p.14 es tabla ICH (Inmuebles Conservacion Historica), no incluida por no ser norma de edificacion por zona."
+  }
+}

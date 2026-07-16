@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+scratch_*.txt
+_test_*.txt
+.DS_Store
+Thumbs.db

@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_b057895701",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_R10.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ficha Zona R10: pag1 usos permitidos/prohibidos por rubro; pag2 tabla CONDICIONES DE SUBDIVISION Y DE EDIFICACION (densidad bruta, superficie subdivision predial min, COS, coef.constructibilidad, altura max, antejardin, agrupamiento, distanciamiento) para Residencial/Equipamiento/Productivas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T17:56:50",
+  "fin": "2026-07-15T17:59:47",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_r10.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "R10"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: usos permitidos + tabla extensa de usos prohibidos por clase + condiciones de edificacion para 3 usos (Residencial/Equipamiento/Act.Productivas). Confirma nota_fase3 exacta."
+  }
+}

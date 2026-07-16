@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_41150c1294",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_22-a-Inf.AU-N58-del-16ago2017-al-Sr.Alcalde-solic-instruir-inicio-estudio-proceso-modif-PR.pdf",
+  "nombre": "las_condes_22-a-Inf.AU-N58-del-16ago2017-al-Sr.Alcalde-solic-instruir-inicio-estudio-proceso-modif-PR.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:28:31",
+  "fin": "2026-07-15T08:31:09",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Inf.AU N58 (16.08.2017), Depto. Asesoria Urbana Las Condes al Alcalde Joaquin Lavin Infante: solicita instruir inicio de estudio de modificacion del PRC para incorporar dictamenes de Contraloria. Cuadro resumen de DICTAMEN/ANO/CONTENIDO (temas: fusion de predios Art.37, limite urbano El Remanso, Arts 40/40bis, obligatoriedad Decreto 966) -- lista de TEMAS a corregir, no valores numericos de norma. Memo interno preliminar, sin cuadro de normas urbanisticas."
+  }
+}

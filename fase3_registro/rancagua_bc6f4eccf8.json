@@ -1,0 +1,25 @@
+{
+  "id": "rancagua_bc6f4eccf8",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_2236_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua_tramitaci__1902268.pdf",
+  "nombre": "rancagua_2236_fe_de_erratas_modificacion_del_plan_regulador_comunal_de_rancagua_tramitaci__1902268.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:22:08",
+  "fin": "2026-07-14T21:23:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Fe de Erratas GENUINA con valores reales (a diferencia de la fe de errata de Quilpue que solo corregia nomenclatura): corrige un error de TRANSCRIPCION en el decreto 3326/2020 (Modificacion PRC Rancagua, Tramitacion N22 Eje Estado), publicado en DO 10-12-2020. p2: ZONA ZCH-1, Coeficiente de Constructibilidad: DONDE DICE 0,3 DEBE DECIR 3,0. ZONA ZA-1, Coeficiente de Constructibilidad: DONDE DICE 0,4 DEBE DECIR 4,0. El error se origino en la transcripcion del texto modificatorio (25-08-2020) pese a que toda la tramitacion previa (imagen objetivo, audiencias publicas) uso los valores correctos 3,0 y 4,0."
+  }
+}

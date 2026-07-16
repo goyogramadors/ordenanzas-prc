@@ -1,0 +1,20 @@
+{
+  "id": "penalolen_5ffd28a18e",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_PRC2021.pdf",
+  "nombre": "penalolen_PRC2021.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:44:32",
+  "fin": "2026-07-15T08:46:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Archivo mal etiquetado: NO es un PRC. Es el Decreto N2300/64 (10-ene-2022) que aprueba la Actualizacion del Plan Comunal de Seguridad Publica de Peñalolen 2021-2025. Las 48 paginas tratan diagnostico delictual y matrices de indicadores de seguridad (robos, violencia, VIF, desercion escolar) en pag 19,23,28,32,36,40,44. No contiene ninguna norma urbanistica (usos de suelo, COS, CC, altura, densidad, subdivision predial)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "san_antonio_5287359550",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_antonio_2025_N_C2_B04.043_APRUEBA_20PLAN_20DE_20CAPACITACI_C3_93N_20A_C3_91O_202026,_20PARA_20EL_20PERSONAL_20DE_20....pdf",
+  "nombre": "san_antonio_2025_N_C2_B04.043_APRUEBA_20PLAN_20DE_20CAPACITACI_C3_93N_20A_C3_91O_202026,_20PARA_20EL_20PERSONAL_20DE_20....pdf",
+  "veredicto": "TEXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:26:50",
+  "fin": "2026-07-14T21:28:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "plan de capacitación 2026 para personal municipal, sin relación con PRC/normas urbanísticas"
+  }
+}

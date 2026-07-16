@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_64523cea75",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_13-Ord.N1016-del-6oct2021-de-MMA-no-requiere-someter-EAE-no-sustancial-Modif.11.pdf",
+  "nombre": "las_condes_13-Ord.N1016-del-6oct2021-de-MMA-no-requiere-someter-EAE-no-sustancial-Modif.11.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:30:45",
+  "fin": "2026-07-15T08:32:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord. RRNN N1016/2021 de SEREMI Medio Ambiente a Alcaldesa Las Condes: toma conocimiento del analisis municipal de que la Modificacion N11 al PRC no requiere EAE (no sustancial). Correspondencia administrativa, sin cuadro de normas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_72cf48463e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_7_LAM._USO_DE_SUELO_UEe1_CLINICA_LAS_CONDES.pdf",
+  "nombre": "las_condes_7_LAM._USO_DE_SUELO_UEe1_CLINICA_LAS_CONDES.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:59:02",
+  "fin": "2026-07-14T16:01:47",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA (plano) PRC Las Condes - Rectificacion Modificacion N.8, Plano de Uso de Suelo lamina 2: grafica, conforme al articulo 41, los predios que enfrentan la zona UEe1 'Clinica Las Condes' (calle Lo Fontecilla). Simbologia: 'condicion para predios (señalado en art.41)', zonas UC2/UEe1/UEe5. Sin cuadro de parametros: la condicion normativa esta en el art.41 de la Ordenanza, no aqui. Verificado por render."
+  }
+}

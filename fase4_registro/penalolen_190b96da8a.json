@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_190b96da8a",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_EQ-4.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "ficha de zona EQ-4 (equipamiento deportivo), 1 pág: usos permitidos + límite ocupación suelo 20% en prosa (sin cuadro tabular completo COS/CC/altura)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:24:01",
+  "fin": "2026-07-15T14:29:23",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_eq4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "EQ-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha en prosa, sin cuadro COS/CC/altura; unico parametro numerico es ocupacion de suelo 20%. Verificado contra nota_fase3: coincide."
+  }
+}

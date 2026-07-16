@@ -1,0 +1,20 @@
+{
+  "id": "talca_a8aa2f9702",
+  "comuna": "talca",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\talca_decreto_alcaldicio_3045_el_concejo_acuerda_aprobar_el_inicio_del_procso_de_la_se__3045.pdf",
+  "nombre": "talca_decreto_alcaldicio_3045_el_concejo_acuerda_aprobar_el_inicio_del_procso_de_la_se__3045.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T12:57:15",
+  "fin": "2026-07-15T13:01:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio3045 (22/04/2025), 1p integra: deja establecido que Concejo acordo aprobar inicio del Proceso de la Segunda Enmienda del Plan Regulador Vigente. Sin tabla de normas."
+  }
+}

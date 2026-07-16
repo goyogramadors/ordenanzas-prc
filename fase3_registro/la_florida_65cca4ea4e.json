@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_65cca4ea4e",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_77_modifica_plan_regulador_comunal_de_la_florida_en_sentido_que_indica__Exportar.pdf",
+  "nombre": "la_florida_77_modifica_plan_regulador_comunal_de_la_florida_en_sentido_que_indica__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:44:33",
+  "fin": "2026-07-14T15:50:08",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        5
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 77 La Florida. TRAMPA: el texto anuncia 'la siguiente nueva fila 13:' y 'el siguiente cuadro N 13:' y queda vacio; los dos cuadros son IMAGEN en p5 (verificado en render 150dpi). (1) fila 13 del cuadro Areas Caracteristicas de Edificacion (art.35): E-AB6, aislada, densidad baja N6. (2) Cuadro 13, AREA E-AB6 (art.39), filas Vivienda/Equipamiento: COS 0,65/0,5, CC 2,0/1,25, altura 14,0/7,0 m, agrupamiento aislado, rasante 70, distanciamiento medianeros OGUC/4, antejardin 5/5, estacionamientos art.15, densidad bruta max 75. Ademas el art.4 (texto plano, misma p5) fija superficie predial minima 140 m2 para E-AB6. TODO esta en p5; p6 solo firmas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nacimiento_f5dcee8426",
+  "comuna": "nacimiento",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nacimiento_15_apruebese_plan_regulador_comunal_de_nacimiento_ano_2009__5992_planregulador2009.pdf",
+  "nombre": "nacimiento_15_apruebese_plan_regulador_comunal_de_nacimiento_ano_2009__5992_planregulador2009.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:58:27",
+  "fin": "2026-07-15T08:01:05",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        10
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Ordenanza Local PRC Nacimiento 2009 (DO 13-jul-2009). Art.38 fin pag6 introduce zonificacion. Pag7-10 (chars=76, tabla escaneada confirmada por render) cuadro completo por zona: ZR-1,ZR-2,ZR-3,ZR-4,ZRM-1,ZRM-2,ZRC-1,ZRC-2,ZEC,ZM-1,ZM-2,ZAP,ZAM,ZAMAP,ZST,ZED,ZMC,ZEP,ZExR-1,ZExR-2,ZExAPC -cada una con usos de suelo y condiciones edificacion/subdivision/urbanizacion (superficie predial minima, COS, altura Art.2.6.3 OGUC, agrupamiento, adosamiento, distanciamiento medianeros, antejardin, densidad max) + tablas de incentivos. Pag11 ya es Titulo VI Inmuebles Conservacion Historica (Art.39-40), sin normas de zona adicionales."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "penalolen_8ed3857a7e",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_2017.pdf",
+  "rangos": [
+    [
+      11,
+      12
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "MPRC Extension Limite Urbano Penalolen Nuevo (ago-2017), DO. Pag4-9 (texto bajo) NO es tabla de normas: es descripcion limite urbano (Punto/Tramo/Descripcion, coordenadas). Pag10 modifica art.28-31, incorpora zonas R4,R11,EQ-2 a EQ-5 (narrativo). Tabla real pag11-12: Zona R4/R11 cuadro Condiciones subdivision y edificacion (densidad bruta max, superficie minima predial, %ocupacion suelo, coef.constructibilidad, altura max) Residencial/Equipamiento; Zona EQ-2 mismo cuadro; EQ-3/EQ-4 usos narrativos; EQ-5 tabla pozo/uso/superficie/%ocupacion/coef.constructibilidad.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T17:56:50",
+  "fin": "2026-07-15T17:59:56",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_mprc2017_zonas_r4_r11_eq2-eq5_pag11-12.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "R4",
+      "R11",
+      "EQ-2",
+      "EQ-3",
+      "EQ-4",
+      "EQ-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta. 6 zonas: R4/R11/EQ-2 con tablas numericas completas; EQ-3/EQ-4 solo narrativo (sin cuadro numerico, confirmado que no existe en el documento); EQ-5 con tabla de pozo/uso/superficie/ocupacion/CC + 4 notas + condiciones de estudios previos (mecanica de suelos, gases)."
+  }
+}

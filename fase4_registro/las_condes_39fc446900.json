@@ -1,0 +1,32 @@
+{
+  "id": "las_condes_39fc446900",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_3193_25_jul2007.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Decreto 3193 (25-07-2007) Las Condes. Normas EN PROSA (sin cuadros): p2-3 agrega al art.38, area E-e1, uso Culto con agrupamiento AISLADO y COS/constructibilidad equivalentes al area E-Ab3; p3 incorpora al cuadro de la zona UV1 el uso Equipamiento clase Social (sedes de juntas de vecinos); p3-4 parvularios/jardines infantiles en zona U-V con TERRENO MINIMO 1.000 m2; p4 zona U-M, servicios condicionados a conjunto de mas de 5.000 m2 edificados. p4 (591 chars) NO es trampa: es el cierre natural del documento. Confianza MEDIA: valores dispersos en prosa, no cuadro.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T23:13:51",
+  "fin": "2026-07-15T23:20:40",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3193_modificacion4_eE1_uv_um_pag2-4.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "E-e1",
+      "U-V0",
+      "UV1",
+      "U-V",
+      "U-M"
+    ],
+    "confianza": "MEDIA",
+    "nota": "5 modificaciones en prosa (usos de suelo condicionados), sin cuadro numerico completo: E-e1 agrega culto con COS/CC equiv a E-Ab3 aislado; U-V0 agrega servicios condicionados; UV1 agrega social (JJVV); U-V agrega educacion parvularios (predial 1000m2) y colegios existentes; U-M agrega servicios en conjunto >5000m2. Coincide con nota_fase3."
+  }
+}

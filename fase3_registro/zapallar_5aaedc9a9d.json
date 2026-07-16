@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_5aaedc9a9d",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_120_aprueba_continuar_proceso_modificacion_plan_regulador__120.pdf",
+  "nombre": "zapallar_acuerdo_120_aprueba_continuar_proceso_modificacion_plan_regulador__120.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T13:00:39",
+  "fin": "2026-07-15T13:01:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Certificado Acuerdo 120/2013 (12-abr-2013, 1p): Concejo Municipal de Zapallar aprueba 'Continuar con el proceso de Modificación del Plan Regulador'. Acuerdo procedimental puro, sin contenido normativo."
+  }
+}

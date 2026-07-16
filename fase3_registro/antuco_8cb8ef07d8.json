@@ -1,0 +1,20 @@
+{
+  "id": "antuco_8cb8ef07d8",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antuco_decreto_ordenanza_de_cierre_o_implementacion_de_las_medidas_de_control_de_acceso__Decreto_2_2022.pdf",
+  "nombre": "antuco_decreto_ordenanza_de_cierre_o_implementacion_de_las_medidas_de_control_de_acceso__Decreto_2_2022.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:59:39",
+  "fin": "2026-07-14T13:00:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Ordenanza 02-2022 de cierre/control de acceso de calles y pasajes (Direccion Seguridad Publica). Texto completo 6/6 pags: 0 hits urbanisticos."
+  }
+}

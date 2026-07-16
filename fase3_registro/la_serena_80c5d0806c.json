@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_80c5d0806c",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\la_serena_12_ordenanza_n12_sobre_otorgamiento_renovacion_caducidad_transferencia_y_traslad__doc_34_12_03012025032317.pdf",
+  "nombre": "la_serena_12_ordenanza_n12_sobre_otorgamiento_renovacion_caducidad_transferencia_y_traslad__doc_34_12_03012025032317.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:23:50",
+  "fin": "2026-07-15T08:24:24",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza 12/2024 (31-dic-2024): ORDENANZA SOBRE OTORGAMIENTO, RENOVACION, CADUCIDAD, TRANSFERENCIA Y TRASLADO DE PATENTES DE ALCOHOLES. Actualiza la ordenanza previa Decreto 92/2018. Cita Ley 19925 y LGUC solo como referencia general, no transcribe normas de zonificacion. No PRC. Verificado visualmente pagina 1 de 14."
+  }
+}

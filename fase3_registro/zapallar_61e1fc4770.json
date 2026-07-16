@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_61e1fc4770",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_150_aprueba_prorrogar_observaciones_plan_regulador__150.pdf",
+  "nombre": "zapallar_acuerdo_150_aprueba_prorrogar_observaciones_plan_regulador__150.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T13:00:39",
+  "fin": "2026-07-15T13:01:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Certificado Acuerdo 150/2012 (27-ago-2012, 1p): Concejo Municipal de Zapallar aprueba prorrogar en 90 días la respuesta a los usuarios respecto a las observaciones del Plan Regulador. Acuerdo procedimental de plazo, sin contenido normativo."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_876327df44",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_13_ordenanza_n_13_sobre_comercio_en_la_via_publica__doc_34_13_07012025010340.pdf",
+  "nombre": "la_serena_13_ordenanza_n_13_sobre_comercio_en_la_via_publica__doc_34_13_07012025010340.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:23:59",
+  "fin": "2026-07-15T08:26:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza N13 sobre comercio en la via publica (Decreto13, 31-dic-2024). Confirmado pag1,4,7,10: define zonas y giros autorizados para comercio ambulante, horarios, prohibiciones. Sin tabla de usos de suelo/coeficientes de edificacion."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "penalolen_6518cd3c8e",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_2004_01.pdf",
+  "nombre": "penalolen_MPRC_2004_01.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:44:32",
+  "fin": "2026-07-15T08:45:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Diario Oficial 3-nov-2004 pag3, Decreto 129/2004: MODIFICA PRC de Peñalolen sustituyendo normativa aplicable a 'Zona AR' por 'Zona R-2' en poligono A-B-C-D-A (remite a Plano MRPCP-1/2004 y Ordenanza Local, sin reproducir cuadro de normas en este documento)."
+  }
+}

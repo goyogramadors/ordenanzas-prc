@@ -1,0 +1,772 @@
+[
+ {
+  "id": "d0091",
+  "comuna": "curico",
+  "nombre_documento": "2053_aprueba_retrotraer_proceso_de_difusion_publica_plan_regulador_comunal",
+  "archivo": "curico_2053_aprueba_retrotraer_proceso_de_difusion_publica_plan_regulador_comunal__2053.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.244\r\n\r\n|\r\n\r\nMiércoles 4 de Mayo de 2022\r\n\r\n|\r\n\r\nPágina 1 de 1\r\n\r\nNormas Generales\r\nCVE 2122707\r\nMUNICIPALIDAD DE CURICÓ\r\n\r\nAPRUEBA RETROTRAER PROCESO DE DIFUSIÓN PÚBLICA QUE INDICA\r\nNúm. 2.053 exento.- Curicó, 21 de abril de 2022.\r\nVistos:\r\na.) El oficio Ord. Nº 137, de fecha 14.04.2022, y los antecedentes expuestos ante el H.\r\nConcejo Municipal, por la Secretaría Comunal de Planificación.\r\nb.) El Acuerdo Nº 098-2022 adoptado por el Honorable Concejo Municipal, en sesión\r\nextraordinaria de fecha 18.04.2022.\r\nc.) Lo establecido en la Ordenanza General de Urbanismo y Construcciones.\r\nd.) Las facultades que me confiere la Ley Orgánica Constitucional de Municipalidades Nº\r\n18.695 de 1988, y sus posteriores modificaciones, he acordado y\r\nDecreto:\r\nPrimero: Apruébase retrotraer el proceso de difusión pública reglamentado en el artículo\r\n2.1.11 de la Ordenanza General de Urbanismo y Construcciones, para complementar las\r\nestrategias de participación en el marco del Anteproyecto de la Modificación del Plan Regulador\r\nComunal de Curicó e Informe Ambiental, para dar inicio al proceso de aprobación legal.\r\nSegundo: Encomiéndase a la Secretaría Comunal de Planificación, realizar y coordinar\r\ntodos los trámites administrativos necesarios para dar cumplimiento al presente decreto\r\nalcaldicio.\r\nAnótese y comuníquese"
+ },
+ {
+  "id": "d0092",
+  "comuna": "curico",
+  "nombre_documento": "239_aprueba_modificacion_del_plano_regulador",
+  "archivo": "curico_239_aprueba_modificacion_del_plano_regulador__239.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0604",
+  "comuna": "curico",
+  "nombre_documento": "1056_apruebese_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador",
+  "archivo": "curico_1056_apruebese_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador__1056.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "altura_maxima": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU-1"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.412\r\n\r\n|\r\n\r\nSábado 28 de Marzo de 2026\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2788338\r\n\r\nMUNICIPALIDAD DE CURICÓ\r\n\r\nAPRUEBA MODIFICACIÓN VÍA ENMIENDA A LA ORDENANZA LOCAL DEL\r\nPLAN REGULADOR COMUNAL DE CURICÓ\r\nNúm. 1.056 exento.- Curicó, 13 de marzo de 2026.\r\nVistos:\r\na) La resolución afecta Nº 21 de 5 de febrero de 2010 del Gobierno Regional del Maule,\r\npublicada en el Diario Oficial con fecha 2 de agosto de 2011, que promulgó el Plan Regulador de\r\nCuricó.\r\nb) Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones, y lo\r\ndispuesto en los artículos 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones, referentes a la tramitación de enmiendas y Planes Reguladores Comunales.\r\nc) El Dictamen Contraloría General de la República Nº 10.084-2020, fecha 17 de junio de\r\n2020, aprueba la posibilidad de desarrollar en forma remota las etapas de participación ciudadana\r\ncontempladas en los procedimientos de aprobación y modificación de instrumentos de\r\nplanificación territorial, en el contexto de la actual emergencia sanitaria COVID 19.\r\nd) El decreto exento Nº 4.546 de fecha 29 de diciembre del 2020, que aprueba la\r\nModificación a la Ordenanza de Participación Ciudadana, incorporando la modalidad de\r\naudiencias públicas por vía remota o plataforma virtual.\r\ne) El Acuerdo del Honorab"
+ },
+ {
+  "id": "d0605",
+  "comuna": "curico",
+  "nombre_documento": "1157_actualizacion_plan_regulador_comunal",
+  "archivo": "curico_1157_actualizacion_plan_regulador_comunal__1157.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.030\r\n\r\n|\r\n\r\nJueves 12 de Abril de 2018\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1380997\r\nMUNICIPALIDAD DE CURICÓ\r\n\r\n\"ACTUALIZACIÓN PLAN REGULADOR COMUNAL DE CURICÓ\"\r\nPROCESO EVALUACIÓN AMBIENTAL ESTRATÉGICA (EAE)\r\nEXTRACTO OFICIO DE INICIO\r\nÓrgano responsable: Ilustre Municipalidad de Curicó\r\nRESUMEN DE ANTECEDENTES: La evaluación ambiental estratégica se centrará en\r\nla Actualización del Plan Regulador Comunal de Curicó. La comuna posee un Plan\r\nRegulador Comunal vigente desde el año 2011, con enmiendas realizadas el año 2013 y\r\n2014, pese a que posee un desfase de solo 7 años, el instrumento en la actualidad no\r\npermite abordar las problemáticas de la ciudad, ni tampoco refleja la visión de la comuna,\r\nlo que es evidenciado por múltiples problemáticas como: la congestión vehicular,\r\ncontaminación de aguas y conflictos locales, además de la necesidad de nuevos espacios\r\npara poblamiento generando crecimiento extensivo de la ciudad pese a poseer oferta de\r\nsuelos en la ciudad, entre otras.\r\nPor los motivos anteriores, el Municipio decidió actualizar el instrumento de\r\nplanificación urbana con la finalidad de: contar con un ordenamiento del territorio\r\nrealista, que haga frente a la dinámica y a las problemáticas urbanas actuales, con una\r\nproyección de la visión de futuro de la comuna, y que a la vez dia"
+ },
+ {
+  "id": "d0606",
+  "comuna": "curico",
+  "nombre_documento": "1370_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_cumunal_d",
+  "archivo": "curico_1370_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_cumunal_d__1370.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU 10",
+   "ZU 10a",
+   "ZU 4",
+   "ZU 4a",
+   "ZU 6",
+   "ZU-10a",
+   "ZU-4a",
+   "ZU-6a"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.217\r\n\r\n|\r\n\r\nJueves 31 de Marzo de 2022\r\n\r\n|\r\n\r\nPágina 1 de 4\r\n\r\nNormas Generales\r\nCVE 2107412\r\nMUNICIPALIDAD DE CURICÓ\r\n\r\nAPRUEBA MODIFICACIÓN VÍA ENMIENDA A LA ORDENANZA LOCAL DEL\r\nPLAN REGULADOR COMUNAL DE CURICÓ\r\nNúm. 1.370 exento.- Curicó, 23 de marzo de 2022.\r\nVistos:\r\na) La resolución afecta N° 21 de 5 de febrero de 2010 del Gobierno Regional del Maule,\r\npublicada en el Diario Oficial con fecha 2 de agosto de 2011, que promulgó el Plan Regulador de\r\nCuricó.\r\nb) Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones, y lo\r\ndispuesto en los artículos 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones, referentes a la tramitación de enmiendas y Planes Reguladores Comunales.\r\nc) El dictamen Contraloría General de la República N° 10.084-2020, de fecha 17 de junio\r\nde 2020, aprueba la posibilidad de desarrollar en forma remota las etapas de participación\r\nciudadana contempladas en los procedimientos de aprobación y modificación de instrumentos de\r\nplanificación territorial, en el contexto de la actual emergencia sanitaria Covid 19.\r\nd) El decreto exento N° 4.546 de fecha 29 de diciembre de 2020, que aprueba la\r\nModificación a la Ordenanza de Participación Ciudadana, incorporando la modalidad de\r\naudiencias públicas por vía remota o plataforma virtual.\r\ne) El"
+ },
+ {
+  "id": "d0607",
+  "comuna": "curico",
+  "nombre_documento": "3042_aprueba_enmienda_a_la_ordenanza_local_del_plan_regulador_comunal_de_curico",
+  "archivo": "curico_3042_aprueba_enmienda_a_la_ordenanza_local_del_plan_regulador_comunal_de_curico__3042.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 2,
+   "articulado": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.490\r\n\r\n|\r\n\r\nViernes 3 de Julio de 2026\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2832330\r\n\r\nMUNICIPALIDAD DE CURICÓ\r\n\r\nAPRUEBA ENMIENDA A LA ORDENANZA LOCAL DEL PLAN REGULADOR\r\nCOMUNAL DE CURICÓ\r\nNúm. 3.042 exento.- Curicó, 18 de junio de 2026.\r\nVistos:\r\na) La resolución afecta Nº 21, de 5 de febrero de 2010, del Gobierno Regional del Maule,\r\npublicada en el Diario Oficial con fecha 2 de agosto de 2011, que promulgó el Plan Regulador de\r\nCuricó.\r\nb) Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones, y lo\r\ndispuesto en el artículo 2.1.13 de la Ordenanza General de Urbanismo y Construcciones,\r\nreferentes a la tramitación de enmiendas y Planes Reguladores Comunales.\r\nc) El Dictamen Contraloría General de la República Nº 10.084-2020, de fecha 17 de junio\r\nde 2020, aprueba la posibilidad de desarrollar en forma remota las etapas de participación\r\nciudadana contempladas en los procedimientos de aprobación y modificación de instrumentos de\r\nplanificación territorial, en el contexto de la actual emergencia sanitaria COVID-19.\r\nd) El decreto exento Nº 4.546, de fecha 29 de diciembre de 2020, que aprueba la\r\nModificación a la Ordenanza de Participación Ciudadana, incorporando la modalidad de\r\naudiencias públicas por vía remota o plataforma virtual.\r\ne) El Informe Nº 7-2025 del Asesor Urbanista de "
+ },
+ {
+  "id": "d0608",
+  "comuna": "curico",
+  "nombre_documento": "3445_aprueba_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_c",
+  "archivo": "curico_3445_aprueba_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_c__3445.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "modificacion",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "antejardin": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZU 10",
+   "ZU 10b",
+   "ZU-10b"
+  ],
+  "puntaje_normativo": 8,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.261\r\n\r\n|\r\n\r\nLunes 29 de Septiembre de 2025\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2702411\r\n\r\nMUNICIPALIDAD DE CURICÓ\r\n\r\nAPRUEBA MODIFICACIÓN VÍA ENMIENDA A LA ORDENANZA LOCAL DEL\r\nPLAN REGULADOR COMUNAL DE CURICÓ\r\nNúm. 3.445 exento.- Curicó, 25 de agosto de 2025.\r\nVistos:\r\na) La resolución afecta Nº 21 de 5 de febrero de 2010 del Gobierno Regional del Maule,\r\npublicada en el Diario Oficial con fecha 2 de agosto de 2011, que promulgó el Plan Regulador de\r\nCuricó.\r\nb) Lo dispuesto en el artículo 45 de la Ley General de Urbanismo y Construcciones, y lo\r\ndispuesto en los artículo 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones, referentes a la tramitación de enmiendas y Planes Reguladores Comunales.\r\nc) El Dictamen Contraloría General de la República Nº 10.084-2020, de fecha 17 de junio\r\nde 2020, aprueba la posibilidad de desarrollar en forma remota las etapas de participación\r\nciudadana contempladas en los procedimientos de aprobación y modificación de instrumentos de\r\nplanificación territorial, en el contexto de la actual emergencia sanitaria COVID 19.\r\nd) El decreto exento Nº 4.546 de fecha 29 de diciembre del 2020, que aprueba la\r\nModificación a la Ordenanza de Participación Ciudadana, incorporando la modalidad de\r\naudiencias públicas por vía remota o plataforma virtual.\r\ne) El Acuerdo del "
+ },
+ {
+  "id": "d0609",
+  "comuna": "curico",
+  "nombre_documento": "decreto_exento_enmienda_ordenanza_local_del_plan_regulador_de_curico",
+  "archivo": "curico_decreto_exento_enmienda_ordenanza_local_del_plan_regulador_de_curico__230.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-2",
+   "ZONA",
+   "ZU-5"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I.MUNICIPALIDAD DE CURICO\r\nSECRETARIA MUNICIPAL\r\n\r\nDECRETO EXENTO N°\r\n\r\nAcueOll-2013\r\n\r\nCURICO,\r\n\r\nVISTOS:/\r\n\r\n023Ü 1\r\n\r\n2 5 ENE. 2013\r\n\r\na.)\r\nAcuerdo N° 160 adoptado por el Honorable Concejo Municipal en\r\nsesión ordinaria efectuada con fecha 09/07/2012.\r\nb.)\r\nDecreto Exento N° 1865 de fecha 23/07/2012 que aprueba modificar\r\nOrdenanza Plan Regulador Comunal de Curicó.\r\nAcuerdo W 11 adoptado por el Honorable Concejo Municipal en\r\nc.)\r\nsesión ordinaria efectuada con fecha 15/01/2013.\r\nd.)\r\nLas facultades que me confiere la Ley Orgánica Constitucional de\r\nMunicipalidades No 18.695 de 1988, y sus posteriores modificaciones, he acordado y\r\n\r\nDE C RE T 0:/\r\nPRIMERO:/\r\nHABIÉNDOSE cumplido con la tramitación administrativa,\r\nordenada realizar en el punto segundo de la parte resolutiva del Decreto Exento N° 1865.\r\nde fecha 23 de julio de 2012 de la Municipalidad de Curicó y, en consideración al\r\nAcuerdo N' 11 del Concejo Municipal de Curicó, de fecha 15 de enero del 2013\r\nAPRUEBASE, en forma definitiva, la modificación del Plan Regulador de Curicó, vía\r\nEnmienda N' 1, que cambia la Ordenanza Local del Plan Regulador Vigente, de la\r\ncomuna de Curicó, en las materias que a continuación se indican:\r\nENMIENDA DEL ARTICULO 4.1.3 DE USOS DE SUELO Y NORMAS ESPECIFICAS.\r\nTITULO 4\r\n\r\nZONIFICACION, USOS DE SUELO Y NORMAS ESPECÍFICAS\r\n\r\nArtículo 4.1.3 USOS DE SUELO Y NORMAS ESPECÍFICAS\r\nPara las zonas indicadas en el Artículo 4.1.2 Zonificación, de la Ordenanza Local se\r\nmodifican las normas de "
+ },
+ {
+  "id": "d1047",
+  "comuna": "curico",
+  "nombre_documento": "93_invalida_resoluccon_que_indica_y_reemplaza_por_la_presente_resolucion_que_pro",
+  "archivo": "curico_93_invalida_resoluccon_que_indica_y_reemplaza_por_la_presente_resolucion_que_pro__93.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 36,
+  "paginas_escaneadas": 36,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1048",
+  "comuna": "curico",
+  "nombre_documento": "decreto_1806_modificacion_y_adecuaciones_del_plan_regulador_de_curico",
+  "archivo": "curico_decreto_1806_modificacion_y_adecuaciones_del_plan_regulador_de_curico__1806.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1049",
+  "comuna": "curico",
+  "nombre_documento": "solicito_mapa_del_nuevo_plan_regulador_en_tramitacion",
+  "archivo": "curico_solicito_mapa_del_nuevo_plan_regulador_en_tramitacion__1839.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1050",
+  "comuna": "dalcahue",
+  "nombre_documento": "decreto_alcaldicio_1748_ordena_publicacion_medio_comunicacional_local_plan_regul",
+  "archivo": "dalcahue_decreto_alcaldicio_1748_ordena_publicacion_medio_comunicacional_local_plan_regul__1748.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0093",
+  "comuna": "diego_de_almagro",
+  "nombre_documento": "memoria_actualizacion_plan_regulador_comunal_diego_de_almagro_2017_incluido_todo",
+  "archivo": "diego_de_almagro_memoria_actualizacion_plan_regulador_comunal_diego_de_almagro_2017_incluido_todo__28e42979-3e93-4b15-b47a-370a7bac8ad3.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0094",
+  "comuna": "donihue",
+  "nombre_documento": "consulta_publica_que_deben_someterse_los_procesos_de_elaboracion_de_planos_regul",
+  "archivo": "donihue_consulta_publica_que_deben_someterse_los_procesos_de_elaboracion_de_planos_regul__1122019105756_LEY-21078_15-FEB-2018_(1).pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "consulta_publica"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 10,
+   "normas_urbanisticas": 3,
+   "articulado": 42,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {
+   "txt_solicitud": 2
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "instancia de participacion/consulta publica, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Ley 21078\r\n:15-02-2018\r\n:02-02-2018\r\n:MINISTERIO DE VIVIENDA Y URBANISMO\r\n:SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL\r\nAUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO\r\n:Única\r\nDe : 16-08-2018\r\n:16-08-2018\r\n:1115067\r\n:https://www.leychile.cl/N?i=1115067&f=2018-08-16&p=\r\n\r\nLEY NÚM. 21.078\r\nSOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR\r\nAMPLIACIÓN DEL LÍMITE URBANO\r\nTeniendo presente que el H. Congreso Nacional ha dado su aprobación al\r\nsiguiente\r\nProyecto de ley:\r\n\"Artículo primero.- Modifícase el decreto con fuerza de ley N° 458, de 1975,\r\ndel Ministerio de Vivienda y Urbanismo, Ley General de Urbanismo y Construcciones, de\r\nla siguiente forma:\r\n1. Modifícase el artículo 3 en el siguiente sentido:\r\na) Derógase su inciso cuarto, pasando los actuales incisos quinto y sexto a ser\r\ncuarto y quinto, respectivamente.\r\nb) Reemplázase en su inciso quinto, que pasa a ser cuarto, la frase \"y los\r\nReglamentos de Instalaciones Sanitarias de Agua Potable y Alcantarillado, y de\r\nPavimentación\" por la frase \"y las normas sobre pavimentación\".\r\nc) Reemplázanse en su inciso sexto, que pasa a ser quinto, las expresiones \"Los\r\ndecretos supremos mencionados en los dos últimos incisos precedentes, se dictarán\",\r\npor la frase \"El decreto supremo mencionado en el inciso precedente se dictará\".\r\n2. Agrégase a continuación de la denominaci"
+ },
+ {
+  "id": "d0095",
+  "comuna": "donihue",
+  "nombre_documento": "plan_regulador_comunal_planos_memoria_y_ordenanza",
+  "archivo": "donihue_plan_regulador_comunal_planos_memoria_y_ordenanza__40792f6f-33cf-4f9d-8b48-b46259a49a77.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Doñihue\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\n\r\nMU081T0000131\r\nFecha: 12/08/2015\r\n\r\nHora: 18:02:31\r\n\r\n1. Contenido de la Solicitud\r\nNombre y apellidos o\r\nrazón social:\r\n\r\nalejandra fuentes burotto\r\n\r\nTipo de persona:\r\n\r\nNatural\r\n\r\nDirección postal y/o\r\ncorreo electrónico:\r\n\r\nalfuentes@minvu.cl\r\n- Sin especificar -, - Sin especificar -,\r\n\r\nNombre de apoderado\r\n(si corresponde):\r\nSolicitud realizada:\r\n\r\nplan regulador comunal, planos memoria y ordenanza\r\n\r\nObservaciones:\r\nArchivos adjuntos:\r\nMedio de envío o retiro\r\nde la información:\r\n\r\nCorreo electrónico\r\n\r\nFormato de entrega de\r\nla información:\r\n\r\nPDF\r\n\r\nSesión iniciada en\r\nPortal:\r\n\r\nSI\r\n\r\nVía de ingreso en el\r\norganismo:\r\n\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 de la Ley de Transparencia.\r\n\r\n2. Fecha de entrega vence el: 09/09/2015\r\nEl plazo máximo para responder una solicitud de información es de veinte (20) días hábiles. De acuerdo a su presentación la fecha\r\nmáxima de entrega de la respuesta es el día 09/09/2015. Se informa además que excepcionalmente el plazo referido podrá ser\r\nprorrogado por otros 10 días hábiles, cuando existan circunstancias que hagan difícil reunir la informac"
+ },
+ {
+  "id": "d0096",
+  "comuna": "donihue",
+  "nombre_documento": "sn_plano_regulador_comunal_de_donihue_inicio_del_proceso_evaluacion_ambiental_es",
+  "archivo": "donihue_sn_plano_regulador_comunal_de_donihue_inicio_del_proceso_evaluacion_ambiental_es__1258464.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 41.840\r\n\r\n|\r\n\r\nMartes 22 de Agosto de 2017\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1258464\r\n\r\nMUNICIPALIDAD DE DOÑIHUE\r\n\r\nPLAN REGULADOR COMUNAL DE DOÑIHUE, REGIÓN DE O’HIGGINS DIFUSIÓN DEL INICIO DEL PROCESO EVALUACIÓN AMBIENTAL\r\nESTRATÉGICA. EXTRACTO DEL INICIO DEL PROCEDIMIENTO\r\nÓRGANO RESPONSABLE:\r\nBernardo O’Higgins.\r\n\r\nMunicipalidad de Doñihue, Región del Libertador\r\n\r\nRESUMEN DE ANTECEDENTES:\r\nEl instrumento a ser evaluado ambientalmente corresponde al Plan Regulador Comunal\r\nde Doñihue. La necesidad de actualizar el Plan Regulador Comunal de Doñihue,\r\nlocalidades de Doñihue y Lo Miranda, radica que en la actualidad el territorio comunal\r\ncuenta con un plan regulador que data del año 1988 (29 años), desactualizado a la\r\ndinámica de crecimiento productivo, a la demanda habitacional y de equipamientos de\r\ncada localidad.\r\nLa ciudad de Doñihue, capital comunal, conectada por Ruta H 30 con Lo Miranda y\r\nRancagua, a una distancia de 25 km de Rancagua. Su contexto urbano - rural y su\r\ncercanía a Rancagua potencian la demanda habitacional tanto de Lo Miranda como de\r\nDoñihue.\r\nSu población comunal ha aumentado de 16.916 en el año 2002 a 20.318, según\r\nproyección INE 2015 aumentando su población en un 20% en dicho periodo. En estas\r\nlocalidades existen inmuebles de valor patrimonial no resguardados normativ"
+ },
+ {
+  "id": "d0097",
+  "comuna": "donihue",
+  "nombre_documento": "solicito_plano_regulador_comunal_situacion_actualizada_a_2020",
+  "archivo": "donihue_solicito_plano_regulador_comunal_situacion_actualizada_a_2020__a3d2db38-b98d-4a7b-9d07-b7c2ea30739f.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "OF. ORD. N° ____778______/\r\nANT.: Solicitud MU081T0000820.\r\nUNIDAD DE TRANSPARENCIA\r\n\r\nMAT.: Da respuesta.\r\n\r\n_________________________________\r\nDoñihue, 03/12/2020\r\n\r\nDE: SEÑOR RICARDO BORIS ACUÑA GONZALEZ.\r\nALCALDE DE LA I. MUNICIPALIDAD DE DOÑIHUE.\r\nA : SEÑOR(A)(ITA) RODRIGO SOTO CÉSPEDES.\r\n__________________________________________________________________\r\nJunto con saludar a Ud., vengo a informar en el marco de la Solicitud de Información\r\nCódigo MU081T0000820 de fecha 09/11/2020, y que en lo medular dice lo siguiente:\r\n“Solicito plano regulador comunal, situación actualizada a 2020.”\r\n1.En relación a lo solicitado, informo a usted que el Plan de Desarrollo Comunal vigente de la\r\ncomuna, se haya publicado en la Página de Transparencia de este Organismo, documento al que\r\nse puede acceder través de las siguientes direcciones:\r\nhttp://transparencia.mdonihue.cl/v3/upload/622014134148_Plan_Regulador_Comunal_Vigent\r\ne_Completo.pdf\r\nhttp://transparencia.mdonihue.cl/v3/upload/2552012101251_2452012173519_PRC_LO_MDA_\r\nVIGENTE.pdf\r\nhttp://transparencia.mdonihue.cl/v3/upload/2552012101207_2452012173313_PRC_DONIHUE_\r\nVIGENTE.pdf\r\n2.Se adjunta Memorándum Nº 278/2020 de fecha 30 de Noviembre del año en curso,\r\ndocumento mediante el cual, el Director de Obras de la I. Municipalidad de Doñihue complementa\r\nla respuesta a la Solicitud de Información MU081T0000820.\r\n3.Sin perjuicio a lo anteriormente descrito, y para facilitarle el acceso a los documentos\r\nsolicitados, se adjunta el PLANO"
+ },
+ {
+  "id": "d0098",
+  "comuna": "donihue",
+  "nombre_documento": "solicitud_plan_regulador_comunal_vigente_para_usos_academicos",
+  "archivo": "donihue_solicitud_plan_regulador_comunal_vigente_para_usos_academicos__415e56c4-0d24-44e0-95c6-c752f12c8927.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 7
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Municipalidad de Doñihue\r\n\r\nACUSE DE RECIBO DE SOLICITUD DE ACCESO A LA INFORMACIÓN\r\nLEY DE TRANSPARENCIA\r\nMU081T0002385\r\nFecha: 21/03/2024 Hora: 14:54:36\r\n\r\n1. Contenido de la Solicitud\r\nNombre\r\nPrimer Apellido\r\nSegundo Apellido\r\nTeléfono de contacto\r\nTipo de persona\r\nDirección postal y/o correo\r\nelectrónico\r\nCorreo electrónico\r\nnotificaciones\r\nNombre de Representante\r\nPrimer Apellido\r\nRepresentante\r\nSegundo Apellido\r\nRepresentante\r\nSolicitud realizada\r\nObservaciones\r\nArchivos adjuntos\r\nMedio de envío o retiro de la\r\ninformación\r\nDirección de envío de la\r\ninformación\r\nFormato de entrega de la\r\ninformación\r\nSesión iniciada en Portal\r\nVía de ingreso en el\r\norganismo\r\n\r\nFrancesca\r\nQuintana\r\nAlarcón\r\n954194805\r\nNatural\r\nfrancesca12.fq@gmail.com\r\nfrancesca12.fq@gmail.com\r\n\r\nSolicitud Plan Regulador Comunal Vigente, para usos académicos\r\nSoy estudiante de arquitectura y estoy haciendo un estudio urbano para la\r\nuniversidad, el único plan completo disponible en línea es el de 1988, quería solicitar\r\nel actual por favor\r\nCorreo electrónico\r\n,,,\r\nElectrónico/PDF\r\nNO\r\nVía electrónica\r\n\r\nDe acuerdo a su requerimiento, este organismo procederá a verificar lo siguiente:\r\na) Si su presentación constituye una solicitud de información.\r\nb) Si nuestra institución es competente para dar respuesta a ésta.\r\nc) Si su solicitud cumple con los requisitos obligatorios establecidos en el artículo 12 de la Ley de Transparencia.\r\n\r\n2. Fecha de entrega vence el: 19/04/2024\r\nEl plazo máximo para respond"
+ },
+ {
+  "id": "d0610",
+  "comuna": "donihue",
+  "nombre_documento": "56_aprueba_plan_regulador_comunal_de_las_localidades_de_donihue_y_lo_miranda_amb",
+  "archivo": "donihue_56_aprueba_plan_regulador_comunal_de_las_localidades_de_donihue_y_lo_miranda_amb__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 26,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 2,
+   "agrupamiento": 8,
+   "antejardin": 3,
+   "rasante": 3,
+   "adosamiento": 3,
+   "distanciamiento": 3,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 1,
+   "articulado": 20,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 56, VIVIENDA (1988)\r\n\r\nDecreto 56\r\nAPRUEBA PLAN REGULADOR COMUNAL DE LAS LOCALIDADES DE DOÑIHUE\r\nY DE LO MIRANDA, AMBAS DE LA COMUNA DE DOÑIHUE\r\nMINISTERIO DE VIVIENDA Y URBANISMO; SUBSECRETARIA DE VIVIENDA Y\r\nURBANISMO\r\nFecha Publicación: 03-MAY-1988 | Fecha Promulgación: 04-ABR-1988\r\nTipo Versión: Única De : 03-MAY-1988\r\nUrl Corta: https://bcn.cl/3puju\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE LAS LOCALIDADES DE DOÑIHUE Y DE LO MIRANDA, AMBAS\r\nDE LA COMUNA DE DOÑIHUE\r\nSantiago, 04 de Abril de 1988.- Hoy se decretó lo siguiente:\r\nNúm. 56.- Visto: Lo dispuesto en los artículos 2° y 9° de la Ley No. 16.391\r\ny 12° letra i) del DL No. 1.305 de 1976; los artículos 41 al 44, 53 y 54 del DFL\r\nNo. 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones; el artículo\r\n550 de la Ordenanza General de Construcciones y Urbanización; los Decretos\r\nAlcaldicios No. 146 y 147, ambos de fecha 31 de Diciembre de 1986, de la I.\r\nMunicipalidad de Doñihue; y, los antecedentes que se acompañan,\r\nDecreto:\r\nArtículo 1°.- Apruébanse los Planes Reguladores Comunales de las localidades\r\nde Doñihue y de Lo Miranda, ambas de la comuna de Doñihue, en conformidad a lo\r\nindicado en sus respectivas Memorias Explicativas, Estudios de Factibilidad de Agua\r\nPotable y Alcantarillado, Ordenanzas Locales y Planos OE1-1.4.1 denominado \"Plan\r\nRegulador Comunal de Doñihue, Localidad de Doñihue\", y 1.4.2, denominado \"Plan\r\nRegulador Comunal de Doñihue, Localidad de Lo Miranda\", confeccionados a escala\r\n1:5"
+ },
+ {
+  "id": "d0099",
+  "comuna": "el_bosque",
+  "nombre_documento": "decreto_alcaldicio_4433_promulga_acuerdo_n696_de_concejo_municipal_que_aprobo_po",
+  "archivo": "el_bosque_decreto_alcaldicio_4433_promulga_acuerdo_n696_de_concejo_municipal_que_aprobo_po__Acuerdo_2025_32023.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 6,
+   "ocupacion_suelo": 3,
+   "predial_minima": 2,
+   "altura_maxima": 14,
+   "densidad": 2,
+   "agrupamiento": 30,
+   "antejardin": 7,
+   "rasante": 8,
+   "adosamiento": 5,
+   "distanciamiento": 8,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 5,
+   "articulado": 29
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZONA 1",
+   "ZONA 4"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 15 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DECRETO ALCALDICIO Nº 04433/2025\r\nPROMULGA ACUERDO N° 696 DEL HONORABLE\r\nCONCEJO MUNICIPAL, ADOPTADO EN SESIÓN\r\nORDINARIA N° 40 DE FECHA 5 DE NOVIEMBRE DE\r\n2025, QUE APROBÓ POR UNANIMIDAD DE SUS\r\nINTEGRANTES LA ENMIENDA A LA ORDENANZA\r\nDEL PLAN REGULADOR COMUNAL EL BOSQUE\r\n2025\r\nEL BOSQUE, 15 de Diciembre de 2025\r\n\r\nVISTO:\r\n1. Lo dispuesto en los artículos 43° y 45° del D.F.L. N° 458\r\nde 1975, Ley General de Urbanismo y Construcciones (LGUC), que faculta a las municipalidades para enmendar los\r\nPlanes Reguladores y establece el procedimiento para ello.\r\n2. Lo establecido en el artículo 2.1.13 de la Ordenanza\r\nGeneral de Urbanismo y Construcciones (OGUC), que reglamenta las enmiendas a los instrumentos de planiﬁcación\r\nterritorial.\r\n3. El Decreto Supremo N° 110 del 18 de octubre de 1983,\r\ndel Ministerio de Vivienda y Urbanismo, que aprueba el Plan Regulador Comunal de La Cisterna.\r\n4. El Decreto Supremo N° 276 del 06 de octubre de 1976,\r\ndel Ministerio de Vivienda y Urbanismo, que aprueba el Plan Regulador Comunal de San Bernardo.\r\n5. La Resolución N° 73 del 17 de diciembre de 1990, de la\r\nSEREMI de Vivienda y Urbanismo, que modifica el Plan Regulador de San Bernardo (Seccional Lo Moreno).\r\n6. El Informe Técnico del Asesor Urbanista y la Dirección\r\nde Obras Municipales, que fundamenta la necesidad de actualizar las normas urbanísticas para adecuarlas al\r\ndesarrollo actual de la comuna.\r\n7. Las facultades, competencias y atribuciones que me\r\nconfiere la Ley N° 18.695, Orgánica "
+ },
+ {
+  "id": "d0611",
+  "comuna": "el_bosque",
+  "nombre_documento": "126_enmienda_plan_regulador_comuna_de_el_bosque",
+  "archivo": "el_bosque_126_enmienda_plan_regulador_comuna_de_el_bosque__Plan_2026_6631.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 6,
+   "ocupacion_suelo": 3,
+   "predial_minima": 1,
+   "altura_maxima": 12,
+   "densidad": 2,
+   "agrupamiento": 30,
+   "antejardin": 7,
+   "rasante": 8,
+   "adosamiento": 5,
+   "distanciamiento": 8,
+   "normas_urbanisticas": 1,
+   "usos_de_suelo": 5,
+   "articulado": 30
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA",
+   "ZONA 1",
+   "ZONA 4"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.360\r\n\r\nMartes 27 de Enero de 2026\r\n\r\nPágina 1 de 13\r\n\r\nNormas Generales\r\nCVE 2755442\r\nMUNICIPALIDAD DE EL BOSQUE\r\nREFUNDE EL TEXTO DE LA ENMIENDA DE LA ORDENANZA DEL PLAN REGULADOR\r\nDE LA COMUNA DE EL BOSQUE 2025 (EPRC2025)\r\nNúm. 126.- El Bosque, 9 de enero de 2026.\r\nVisto:\r\nEl decreto alcaldicio N°4.433, de fecha 15 de diciembre de 2025, que promulga el acuerdo\r\nN°696 del Honorable Concejo Municipal, adoptado en sesión ordinaria N°40, celebrada con fecha\r\n5 de noviembre de 2025, que aprobó por unanimidad de sus integrantes la enmienda a la Ordenanza\r\ndel Plan Regulador de la Comuna de El Bosque 2025; el decreto alcaldicio N°82, de fecha 7 de enero\r\nde 2026, que, en virtud del artículo 62 de la Ley N°19.880, rectificó errores de copia o de referencia\r\nque aparecían de manifiesto en el decreto anteriormente citado; lo dispuesto en los artículos 43° y\r\n45° del DFL N°458 de 1975, Ley General de Urbanismo y Construcciones (LGUC), que faculta a\r\nlas municipalidades para enmendar los Planes Reguladores y establece el procedimiento para ello; lo\r\nestablecido en el artículo 2.1.13 de la Ordenanza General de Urbanismo y Construcciones (OGUC),\r\nque reglamenta las enmiendas a los instrumentos de planificación territorial; el decreto supremo N°110,\r\ndel 18 de octubre de 1983, del Ministerio de Vivienda y Urbanismo, que aprueba el Plan Regulador\r\nComunal de La Cisterna; el decreto supremo N°276, del 6 de o"
+ },
+ {
+  "id": "d0100",
+  "comuna": "el_carmen",
+  "nombre_documento": "39546_plano_regulador_comuna_el_carmen",
+  "archivo": "el_carmen_39546_plano_regulador_comuna_el_carmen__Publicacion Diario Oficial.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "predial_minima": 1,
+   "agrupamiento": 14,
+   "antejardin": 7,
+   "rasante": 3,
+   "adosamiento": 7,
+   "distanciamiento": 7,
+   "normas_urbanisticas": 3,
+   "zonificacion": 2,
+   "usos_de_suelo": 10,
+   "ordenanza_local_txt": 10,
+   "articulado": 58,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-2",
+   "ZE-4",
+   "ZE1"
+  ],
+  "puntaje_normativo": 15,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 15 senales normativas (ocupacion_suelo, predial_minima, agrupamiento, antejardin)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 28 de Diciembre de 2009\r\n\r\nNº 39.546\r\n\r\n(20717)\r\n\r\nPágina\r\n\r\nDE LA REPUBLICA DE CHILE\r\nSantiago, Lunes 28 de Diciembre de 2009\r\nEdición de 136 Páginas\r\n\r\nNúm. 39.546.Año CXXXII - Nº 320.108 (M.R.)\r\n\r\nS U MAR I O\r\n\r\nGobierno Regional de la\r\nRegión del Bío Bío\r\n\r\nPresentadas a publicar el\r\ndía 18 de diciembre de 2009\r\n\r\nNormas Generales\r\n\r\nResolución número 147.- Deja sin\r\nefecto resolución número 32, de 2009, y\r\npromulga ‘‘Plan Regulador Comunal de\r\nEl Carmen’’ ....................................... P.6\r\nResolución número 148.- Deja sin\r\nefecto resolución número 43, de 2009, y\r\npromulga Plan Regulador Comunal de\r\nCabrero ........................................... P.15\r\n\r\nMarcas\r\n\r\nPODER EJECUTIVO\r\nMINISTERIO DE HACIENDA\r\nSubsecretaría de Hacienda\r\n\r\nMUNICIPALIDADES\r\n\r\nServicio de Impuestos Internos\r\nMunicipalidad de Providencia\r\nDirección Nacional\r\nExtracto de resolución número 193\r\nexenta.- Establece obligación de presentar declaración jurada sobre trabajadores,\r\nsegún casa matriz o sucursales ......... P.4\r\nExtracto de resolución número 194\r\nexenta.- Establece obligación de presentar declaración jurada a las sociedades de\r\npersonas, las sociedades de hecho, comunidades y sociedades en comandita por\r\nacciones, respecto de la participación de\r\nsus socios .......................................... P.4\r\nExtracto de resolución número 195\r\nexenta.- Modifica resoluciones números\r\n64 y 65 exentas, de 1993, y sus modifi"
+ },
+ {
+  "id": "d0101",
+  "comuna": "el_monte",
+  "nombre_documento": "decreto_alcaldicio_11_contratacion_directa_proveedor_erick_poblete_meza_arriendo",
+  "archivo": "el_monte_decreto_alcaldicio_11_contratacion_directa_proveedor_erick_poblete_meza_arriendo__a5c55dc5-55a2-485d-8768-ceb90b3f9108.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "el_quisco_3a5594969b",
+  "comuna": "el_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_plano_regulador__96571321-276d-4946-a33f-1f9b8d55fbd8.pdf",
+  "nombre": "el_quisco_plano_regulador__96571321-276d-4946-a33f-1f9b8d55fbd8.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 48,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:51:29",
+  "fin": "2026-07-15T07:53:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "PDF completo (48p) NO es el Plan Regulador pese al nombre 'plano_regulador': es la Ordenanza Municipal sobre Participacion Ciudadana (D.A. N1712/2011, redesignada N001/2019), reproducida 2 veces (pag1-17 version limpia, pag19-47 version escaneada con reversos en blanco en paginas pares, verificado pag18/24). Busqueda texto completo 48 paginas: cero coincidencias de coeficiente/constructibilidad/superficie predial/altura maxima/densidad/agrupamiento/antejardin/zonificacion/ZC-ZH-ZU-. Trampa 'documento equivocado' (mismo patron que Pedro Aguirre Cerda PLADECO)."
+  }
+}

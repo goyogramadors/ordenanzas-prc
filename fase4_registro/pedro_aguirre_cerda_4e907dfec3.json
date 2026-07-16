@@ -1,0 +1,28 @@
+{
+  "id": "pedro_aguirre_cerda_4e907dfec3",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_solicito_informacion_sobre_las_enmiendas_del_plan_regulador_de_la_poblacion_la_v__90bf18e2-3aa9-40c6-96cf-50a519d11220.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Confianza MEDIA porque se acepta la verificacion textual ya hecha por Fase 1 (motivo del CSV), no se rerenderizo aqui. Es una respuesta de Transparencia municipal que, excepcionalmente, SI transcribe contenido normativo real: describe la enmienda que reduce en 30% el coeficiente de constructibilidad y fija coeficiente maximo 0.84 para la zona PAC-1. Excepcion deliberada a la regla general de que 'solicitudes ciudadanas' son tramite.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:24:01",
+  "fin": "2026-07-15T14:29:23",
+  "resultado": {
+    "archivo": "extraccion_normas\\pedro_aguirre_cerda\\pedro_aguirre_cerda_enmienda_pac1_transparencia.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "PAC-1"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Respuesta de Transparencia que excepcionalmente transcribe norma real: reduccion 30% CC y CC max 0.84 para PAC-1 (poblacion La Victoria, Plan Regulador San Miguel). Confianza MEDIA heredada de fase3 (no se re-verifico con render adicional)."
+  }
+}

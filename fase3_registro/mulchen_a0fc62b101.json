@@ -1,0 +1,25 @@
+{
+  "id": "mulchen_a0fc62b101",
+  "comuna": "mulchen",
+  "ruta": "Ordenanzas ordenadas\\mulchen_plan_regulador_comunal__Plan_regulador01.pdf",
+  "nombre": "mulchen_plan_regulador_comunal__Plan_regulador01.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:39:06",
+  "fin": "2026-07-15T08:45:04",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        18,
+        19
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Ordenanza Local PRC Mulchén (28p, doc 01). Art.19-20 usos permitidos/prohibidos p.18, Art.21 'Normas específicas' p.19: tabla completa ZH1,ZH2-ZH3,ZM,ZI,ZEX1-3,ZE1-3,ZR (predial, frente mínimo, COS%, CC, agrupamiento, altura). Confirmado encabezado y firma Municipalidad de Mulchén. ALERTA: pp.23-27 son anexos ajenos pegados al final del PDF (incl. p.25 ordenanza de Providencia, comuna ajena) — no se incluyen en el rango, ninguno trae tabla nueva. p.17 en blanco (plano no capturado)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_fd32d60f4d",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas Descargadas\\1-600\\estacion_central_decreto_alcaldicio_708_promulgase_el_acuerdo_n98_del_concejo_municipal_mediante___decreto_708.pdf",
+  "nombre": "estacion_central_decreto_alcaldicio_708_promulgase_el_acuerdo_n98_del_concejo_municipal_mediante___decreto_708.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:41:13",
+  "fin": "2026-07-14T15:42:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ESTACION CENTRAL: decreto exento 708 (ago-2021, 1p) que promulga el Acuerdo N98 del Concejo, el cual solo APRUEBA LA PRESIDENCIA DE LA COMISION DE PLANO REGULADOR (nombra concejales). Tramite administrativo puro, texto completo leido, sin normas."
+  }
+}

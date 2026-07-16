@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_bb950102ab",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Ord.-Alc.-N14-57-del-30.1.24-a-SEREMI-MINVU-v2.pdf",
+  "nombre": "las_condes_Ord.-Alc.-N14-57-del-30.1.24-a-SEREMI-MINVU-v2.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 31,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:55:06",
+  "fin": "2026-07-15T07:57:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "ORD.ALC.N14/57 (30.01.2024) Municipalidad Las Condes a SEREMI-MINVU, respuesta a observaciones (ORD N63) sobre Modificacion N11 PRC. Pag1-2 oficio + pag3-31 INF.D.A.U.N14 respuesta punto por punto a observaciones de Memoria Explicativa/Texto Refundido/Planos. Muestreo visual pag3,5,9,13,17,21,25,28,29,30,31: texto discursivo citando articulos (8,10,19,26,30,35,37,38) y mencionando conceptualmente Tabla Base/Tablas B,C,D,E de densificacion, sin transcribir tabla real. Planos CAD mencionados se envian por link externo, no incrustados. Documento administrativo/informe tecnico."
+  }
+}

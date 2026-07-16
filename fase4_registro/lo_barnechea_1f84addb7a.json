@@ -1,0 +1,28 @@
+{
+  "id": "lo_barnechea_1f84addb7a",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_912_promulga_modificacion_al_plan_regulador_comunal__Publicacion_912_marzo_2013pdf.pdf",
+  "rangos": [
+    [
+      3,
+      3
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "modificación MPRC-LB-19: pág3 (escaneada, renderizada) tabla completa Sub-Zona J1 'La Dehesa Antigua' Condiciones de Edificación (antejardín 5mts, COS 0.25, CC 1.0, agrupamiento aislado, altura 14mts/4pisos, densidad 304h/h, rasante 60°/6mts, sin adosamiento). Pág2 es copia duplicada del mismo decreto (municipal, no DO)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:20:41",
+  "fin": "2026-07-15T14:22:23",
+  "resultado": {
+    "archivo": "extraccion_normas\\lo_barnechea\\lo_barnechea_912_subzona_j1_dehesa_antigua_pag3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "J1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro completo Sub-Zona J1 La Dehesa Antigua transcrito desde render, confirma nota_fase3 exacta. p2 confirmada copia duplicada del decreto, no aporta contenido nuevo."
+  }
+}

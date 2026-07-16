@@ -1,0 +1,777 @@
+[
+ {
+  "id": "d0319",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "12029_complementa_y_rectifica_ordenanza_sobre_roles_de_la_propiedades_gravadas_y",
+  "archivo": "vina_del_mar_12029_complementa_y_rectifica_ordenanza_sobre_roles_de_la_propiedades_gravadas_y__do-20111005.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 28,
+  "paginas_escaneadas": 28,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1017",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "10046_modificacion_al_plan_regulador_comunal_de_vina_del_mar",
+  "archivo": "vina_del_mar_10046_modificacion_al_plan_regulador_comunal_de_vina_del_mar__1113023.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 6,
+   "normas_urbanisticas": 2,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.561\r\n\r\n|\r\n\r\nViernes 16 de Septiembre de 2016\r\n\r\n|\r\n\r\nPágina 1 de 12\r\n\r\nNormas Generales\r\nCVE 1113023\r\n\r\nMUNICIPALIDAD DE VIÑA DEL MAR\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE VIÑA DEL\r\nMAR\r\nViña del Mar, 12 de septiembre de 2016.- Esta Alcaldía decretó hoy lo que sigue:\r\nNúm. 10.046.\r\nVistos y considerando:\r\nEstos antecedentes; decreto alcaldicio N° 6.291/2015, que ordena la realización de estudios\r\nurbanos para la modificación al Plan Regulador Comunal de Viña del Mar “Sector Gómez\r\nCarreño y Ladera Sur Estero de Reñaca”; memo N° 45/2016 del Director de Asesoría Urbana a\r\nSra. Alcaldesa remitiendo propuesta para ser presentada en el Concejo Municipal ; oficio\r\nordinario N° 124/2016 de Sra. Presidenta del Concejo Municipal informando acuerdo de concejo\r\npara iniciar tramitación de modificación al PRC “Sector Gómez Carreño y Ladera Sur Estero de\r\nReñaca”, según lo señalado en la ley y Ordenanza General de Urbanismo y Construcciones;\r\npublicación de diario El Mercurio de Valparaíso, del 29 de abril de 2016, con aviso de lugar,\r\nfecha y hora de la Primera Audiencia Pública y retiro de información de la propuesta de\r\nmodificación al PRC “Sector Gómez Carreño y Ladera Sur Estero de Reñaca”; memorando N°\r\n56/2016 del Director de Asesoría Urbana al Jefe Oficina de Partes, solicitando envío de\r\nan"
+ },
+ {
+  "id": "d1018",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "10404_promulga_modificacion_al_plan_regulador_comunal_de_vina_del_mar",
+  "archivo": "vina_del_mar_10404_promulga_modificacion_al_plan_regulador_comunal_de_vina_del_mar__20180427132635-0310404.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 17,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 9,
+   "zonificacion": 2,
+   "usos_de_suelo": 4
+  },
+  "senales_tramite": {
+   "txt_postergacion": 6
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.249\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 3 de Septiembre de 2015\r\n\r\nMunicipalidad de Viña del Mar\r\n\r\n1.4.-\r\n\r\nCuerpo I - 23\r\n\r\nDescripción de la Metodología Empleada.\r\n\r\n2.- SÍNTESIS DEL ORIGEN HISTÓRICO DEL BARRIO.\r\n2.1.2.2.-\r\n\r\n(IdDO 940632)\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE\r\nVIÑA DEL MAR\r\nViña del Mar, 24 de agosto de 2015.- Esta Alcaldía decretó hoy lo que sigue:\r\nNúm. 10.404.\r\n\r\n3.- TENDENCIAS URBANAS EN LA ACTUALIDAD.\r\n3.1.3.2.-\r\n\r\nVistos:\r\nEstos antecedentes; los Decretos Alcaldicios Nºs 10949/2002, 7784/2014,\r\n8083/2015; el Acta Sesión Extraordinaria del Consejo Comunal de las\r\nOrganizaciones de la Sociedad Civil COSOC de Viña del Mar, de 15 de junio\r\nde 2015; los Memorandos Nºs 34/2015, 41/2015, 45/2015, 54/2015, 84/2015 y\r\n134/2015 del Director (S) de Asesoría Urbana; el Acuerdo del Concejo Municipal\r\nadoptado en sesión ordinaria de 19 de marzo de 2015; el Oficio Ordinario\r\nNº 121/2015 de la señora Presidenta del Concejo Municipal; la Carta del Director\r\n(S) de Asesoría Urbana; las Actas de Primera y Segunda Audiencia Sede Junta\r\nde Vecinos Población Británica de fechas 10 de abril y 25 de mayo de 2015;el\r\nActa Sesión Extraordinaria del Consejo Comunal de las Organizaciones de\r\nla Sociedad Civil COSOC de Viña del Mar, de 22 de abril de 2015; Ficha de\r\nValoración Inmueble de Conservación Histórica; Fichas de Valoración Circular\r\nDDU 240 Zona de Conservación Histórica; la Carta del Gerente de Planificación\r\ny Estudios Esval S.A."
+ },
+ {
+  "id": "d1019",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "11932_modificacion_al_plan_regulador_sector_renaca_norte_costa",
+  "archivo": "vina_del_mar_11932_modificacion_al_plan_regulador_sector_renaca_norte_costa__2709025.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.270\r\n\r\n|\r\n\r\nJueves 9 de Octubre de 2025\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2709025\r\n\r\nMUNICIPALIDAD DE VIÑA DEL MAR\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE VIÑA DEL\r\nMAR “SECTOR REÑACA NORTE COSTA”\r\nEn conformidad a lo establecido en el Art. 28 septies de la Ley General de Urbanismo y\r\nConstrucciones, se informa que con fecha 1 de octubre de 2025, en el sitio electrónico\r\nhttps://prc.munivina.cl/actos-y-resoluciones/ se ha publicado y ha entrado en vigencia el decreto\r\nalcaldicio Nº 11.932 de fecha 30 de septiembre 2025, mediante el cual se promulga la\r\nModificación al Plan Regulador Comunal de Viña del Mar - \"Sector Reñaca Norte Costa\".\r\nEn el referido sitio web se encuentra disponible la ordenanza, plano, memoria explicativa y\r\nlos anexos correspondientes, además del decreto alcaldicio, cuyo texto es el siguiente:\r\nNúm. 11.932.\r\nVistos:\r\nEstos antecedentes: La ley N° 18.575, Orgánica Constitucional de Bases Generales de la\r\nAdministración del Estado; ley Nº 19.880 que Establece las Bases de los Procedimientos\r\nAdministrativos que rigen los Actos de los Órganos de la Administración del Estado; el DFL\r\n458/75, Ley General de Urbanismo y Construcciones; el DS N° 47/1992 Ordenanza General de\r\nUrbanismo y Construcciones; el memorándum 1062 de fecha 12 de junio de 2024, de la\r\nSecretaría Comunal de "
+ },
+ {
+  "id": "d1020",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "4595_aprueba_modificacion_al_plan_regulador_comunal_de_vina_del_mar_dano10949200",
+  "archivo": "vina_del_mar_4595_aprueba_modificacion_al_plan_regulador_comunal_de_vina_del_mar_dano10949200__do-20160513.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 76,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 27
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "EU\r\n02",
+   "EU\r\n04",
+   "EU\r\n13",
+   "EU\r\n14",
+   "EU\r\n28"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.457.Año CXXXIX - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nResolución número 486, de 2016.Asigna función de Tesorero Provincial\r\nSubrogante a funcionarios que indica....P.3\r\n\r\nNormas Generales\r\n\r\nResolución número 487, de 2016.Asigna función de Tesorero Provincial\r\nSubrogante a funcionarios que indica\r\n............................................................. P.3\r\n\r\nPODER EJECUTIVO\r\nMINISTERIO DE HACIENDA\r\nDecreto número 162 exento, de 2016.Amplía listado de peritos que indica\r\n...........................................................P.1\r\nSuperintendencia de\r\nBancos e Instituciones Financieras\r\nCertificado número 5, de 2016.Determina interés corriente por el lapso\r\nque indica ..........................................P.2\r\nTesorería General de la República\r\nResolución número 347, de 2016.Asigna función de Director Regional\r\nTesorero Subrogante a funcionarios que\r\nindica. ................................................P.2\r\nResolución número 476, de 2016.Asigna a doña Gloria Andrea Luisa\r\nLiliana Cruz Villalobos como Abogado\r\ndel Servicio de Tesorerías..................P.3\r\n\r\nResolución número 488, de 2016.Asigna función de Tesorero Provincial\r\nSubrogante a funcionarios que indica. .. P.4\r\nResolución número 506, de 2016.Asigna función de Tesorero Provincial\r\nSubrogante a funci"
+ },
+ {
+  "id": "d1021",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "6969_promulga_modificacion_al_plan_regulador_comunal_actualizacion_zona_re_2_pla",
+  "archivo": "vina_del_mar_6969_promulga_modificacion_al_plan_regulador_comunal_actualizacion_zona_re_2_pla__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 29,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "agrupamiento": 3,
+   "usos_de_suelo": 2,
+   "articulado": 1
+  },
+  "senales_tramite": {
+   "txt_postergacion": 7
+  },
+  "codigos_zona": [
+   "ZRE-2"
+  ],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 6969, VIÑA DEL MAR (2014)\r\n\r\nDecreto 6969\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE VIÑA DEL MAR\r\nFecha Publicación: 15-JUL-2014 | Fecha Promulgación: 02-JUL-2014\r\nTipo Versión: Única De : 15-JUL-2014\r\nUrl Corta: https://bcn.cl/3oyib\r\n\r\nPROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL\r\nViña del Mar, 2 de julio de 2014.- Esta alcaldía decretó hoy lo que sigue:\r\nNúm. 6.969.- Vistos: estos antecedentes; los decretos alcaldicios Nºs\r\n10.949/2002, 10466/2003, 6971/2013, 3904/2014; los Memorandos Nºs 10/2014, 15/2014,\r\n16/2014, 22/2014, 26/2014 y 55/2014 de Director de Asesoría Urbana; el Certificado\r\ndel Secretario Municipal (s) de 8 de abril de 2014; el Memorando Nº 11/2014 de la\r\nSecretario Municipal, el Certificado y las Actas de fechas 11 de febrero y 24 de\r\nmarzo de la Secretario Municipal; el Acuerdo de Concejo Municipal adoptado en Sesión\r\nOrdinaria de 21 de enero de 2014; el Oficio Ordinario Nº29/2014 del señor Alcalde\r\n(S); la Carta Nº 28 del Gerente de Planificación y Estudios de ESVAL, de fecha 24\r\nde enero de 2014; la Ficha de Valoración Circular DDU 240; el Oficio Ordinario Nº\r\n1968/2013 del Secretario Regional Ministerial de Vivienda y Urbanismo, Región de\r\nValparaíso; los Ingresos Alcaldía Nºs 2138/2014, 2186/2014 y 2509/2014; la carta\r\nde la Agrupación de Juntas de Vecinos de Recreo de 20 de marzo de 2014; el Memorando\r\nNº 20/2014 del Jefe de Oficina de Partes(s); el Informe sobre Observaciones\r\nrecibidas en Proceso de Participación "
+ },
+ {
+  "id": "d1316",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "11447_aprueba_ordenanza_sobre_roles_de_la_propiedades_gravadas_y_alturas_maximas",
+  "archivo": "vina_del_mar_11447_aprueba_ordenanza_sobre_roles_de_la_propiedades_gravadas_y_alturas_maximas__do-20110920.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 12,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1317",
+  "comuna": "vina_del_mar",
+  "nombre_documento": "783_otorga_aprobacion_a_modificacion_al_plan_regulador_comunal_fundo_naval_las_s",
+  "archivo": "vina_del_mar_783_otorga_aprobacion_a_modificacion_al_plan_regulador_comunal_fundo_naval_las_s__do-20110202.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 88,
+  "paginas_escaneadas": 87,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 2 de Febrero de 2011\r\n\r\nNº 39.875\r\n\r\nDE LA REPUBLICA DE CHILE\r\n\r\nEdición de 88 páginas\r\n\r\n$375.- (IVA incluido)\r\n$785.- (IVA incluido)\r\n\r\nI\r\n\r\nFundado el 15 de Noviembre de 1876\r\n\r\nSantiago, Miércoles 2 de Febrero de 2011\r\nEdición de 3 Cuerpos\r\n\r\nNúm. 39.875.Año CXXXIV - Nº 320.108 (M.R.)\r\nEjemplar del día\r\nAtrasado\r\n\r\nCuerpo I - 1\r\n\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\n\r\nCUERPO\r\n\r\nSUMARIO\r\n\r\nMINISTERIO DEL TRABAJO\r\nY PREVISIÓN SOCIAL\r\n\r\nClasificación de Riesgo de los Estados Soberanos y Entidades Bancarias Extranjeras que señala ........................... P.13\r\n\r\nNormas Generales\r\n\r\nSubsecretaría de Previsión Social\r\n\r\nMUNICIPALIDADES\r\nMunicipalidad de Viña del Mar\r\n\r\nPODER LEGISLATIVO\r\n\r\nDecreto número 12 exento.- Deroga decreto número 240\r\nexento, de fecha 19 de octubre de 2009, y establece orden de\r\nsubrogación en el cargo de Subsecretario de Previsión Social\r\n...................................................................................... P.10\r\n\r\nMINISTERIO DE DEFENSA NACIONAL\r\n\r\nMINISTERIO DE SALUD\r\n\r\nSubsecretaría de Investigaciones\r\n\r\nSubsecretaría de Salud Pública\r\n\r\nLey número 20.489.- Amplía escalafón de Oficiales\r\nPoliciales Profesionales de la Policía de Investigaciones de\r\nChile ............................................................................... P.1\r\n\r\nSuperintendencia de Salud\r\n\r\nPODER EJECUTIVO\r\n\r\nDecreto número 328 exento.- Autoriza extracción desde el\r\nterritori"
+ },
+ {
+  "id": "d0320",
+  "comuna": "vitacura",
+  "nombre_documento": "31741_promulga_modificacion_no_29_al_plano_regulador_de_vitacura",
+  "archivo": "vitacura_31741_promulga_modificacion_no_29_al_plano_regulador_de_vitacura__Diario_Oficial_8.07.13_pag_16.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 13,
+   "antejardin": 2,
+   "zonificacion": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ICH",
+   "ZCH",
+   "ZT"
+  ],
+  "puntaje_normativo": 7,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nLunes 8 de Julio de 2013\r\n\r\nCuerpo I - 16\r\n\r\nNº 40.603\r\n\r\nNota 1: No se le asignan Normas de Edificación a las Zonas e Inmuebles\r\nPatrimoniales ZT-Zonas Típicas, MH-Monumentos Históricos, ZCH-Zonas de\r\nConservación Histórica e ICH-Inmuebles de Conservación Histórica, conforme al\r\nArt. 4.3.02 de la OL del PRCP 2007, sólo se desplaza la línea oficial según el ancho\r\nde la faja desafectada.\r\nNota 2: Es importante señalar que la línea oficial contemplada para la calle\r\nTobalaba es de 80 m según el PRMS, aplicándose en 40 m desde el eje del canal San\r\nCarlos, límite con la comuna de Providencia con Las Condes.\r\n2. Publíquese el presente decreto en el Diario Oficial y archívese en el\r\nConservador de Bienes Raíces de Santiago, en la División de Desarrollo Urbano del\r\nMinisterio de Vivienda y Urbanismo, en la Secretaría Ministerial Metropolitana de\r\nVivienda y Urbanismo y en la Municipalidad de Providencia.\r\nAnótese, comuníquese, publíquese en la página web municipal y archívese.Josefa Errázuriz Guilisasti, Alcaldesa.- María Raquel de la Maza Quijada, Secretario Abogado Municipal.\r\nLo que comunico a Ud. para su conocimiento.- Saluda atte. a Ud., María\r\nRaquel de la Maza Quijada, Secretario Abogado Municipal.\r\nMUNICIPALIDAD DE VITACURA\r\nPROMULGA MODIFICACIÓN Nº 29 AL PLAN REGULADOR COMUNAL\r\nSecc. 1ª Núm. 3/1.741.- Vitacura, 29 de mayo de 2013.- Vistos y considerando:\r\n1. La proposición de Modificación al Plan Regulador Comunal de Vitacura,\r\nden"
+ },
+ {
+  "id": "d0321",
+  "comuna": "vitacura",
+  "nombre_documento": "ordenanza_texto_refundido_de_la_ordenanza_del_plano_regulador_de_la_comuna_de_vi",
+  "archivo": "vitacura_ordenanza_texto_refundido_de_la_ordenanza_del_plano_regulador_de_la_comuna_de_vi__59_99_1999.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 88,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 29,
+   "zonificacion": 1,
+   "usos_de_suelo": 13,
+   "ordenanza_local_txt": 2,
+   "articulado": 70,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE VITACURA\r\nSECRETARÍA COMUNAL DE PLANIFICACIÓN\r\nASESORÍA URBANA\r\n\r\nOrdenanza del Plan Regulador Comunal\r\n\r\nORDENANZA DEL PLAN REGULADOR\r\nCOMUNA DE VITACURA\r\nTEXTO REFUNDIDO, MODIFICADO, ACTUALIZADO Y SISTEMATIZADO\r\nBASE: ENERO DE 2008\r\nENERO 2016\r\n\r\nINDICE\r\nCAPÍTULO I:\r\n\r\nDISPOSICIONES GENERALES ............................................................................... 8\r\n\r\nArtículo 1 .......................................................................................................................................... 8\r\nArtículo 2 .......................................................................................................................................... 8\r\nArtículo 3 .......................................................................................................................................... 8\r\nArtículo 4 .......................................................................................................................................... 8\r\nArtículo 5 .......................................................................................................................................... 8\r\nCAPÍTULO II:\r\n\r\nDESCRIPCIÓN DEL LÍMITE URBANO .................................................................... 9\r\n\r\nArtículo 6 .......................................................................................................................................... 9\r\nCAPÍTULO III:\r\n\r\nNORMAS GENERALES .............................."
+ },
+ {
+  "id": "d1022",
+  "comuna": "vitacura",
+  "nombre_documento": "191032_promulga_modificacion_n_34_al_plan_regulador_comunal_de_vitacura",
+  "archivo": "vitacura_191032_promulga_modificacion_n_34_al_plan_regulador_comunal_de_vitacura__1587362.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 3,
+   "usos_de_suelo": 16,
+   "ordenanza_local_txt": 3,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.350\r\n\r\n|\r\n\r\nViernes 10 de Mayo de 2019\r\n\r\n|\r\n\r\nPágina 1 de 10\r\n\r\nNormas Generales\r\nCVE 1587362\r\n\r\nMUNICIPALIDAD DE VITACURA\r\n\r\nPROMULGA MODIFICACIÓN Nº 34 AL PLAN REGULADOR COMUNAL DE\r\nVITACURA\r\nNúm. 19/1.032 Secc. 1ª.- Vitacura, 2 de mayo de 2019.\r\nVisto y considerando:\r\n1. La personería del Alcalde para representar al Municipio a partir del día 6 de diciembre de\r\n2016 que emana de la Sentencia de Calificación y Escrutinio de la comuna de Vitacura de fecha\r\n22 de noviembre de 2016 y Acta Complementaria de Proclamación de fecha 28 de noviembre de\r\n2016 dictadas por el 2º Tribunal Electoral de la Región Metropolitana y el decreto alcaldicio\r\nsección 1ª Nº 10/643, de fecha 22 de marzo de 2018.\r\n2. La aprobación del Plan Regulador Comunal de Vitacura por resolución Nº 59, del 7 de\r\ndiciembre de 1999, del Consejo Regional Metropolitano, publicado en el Diario Oficial del 30 de\r\ndiciembre de 1999, y sus modificaciones posteriores.\r\n3. La proposición de Modificación al Plan Regulador Comunal de Vitacura, denominada\r\n\"Normalización de la Vialidad y Rectificación de Usos de Suelo\", que comprende la\r\nmodificación de los artículos 27, 35, 44, 45, 46 y 47 de la Ordenanza Local y los planos de Usos\r\nde Suelo (lámina 2) y de Vialidad (lámina Nº 3) del PRC-Vitacura.\r\n4. Que el Concejo Municipal en Sesión Ordinaria "
+ },
+ {
+  "id": "d1023",
+  "comuna": "vitacura",
+  "nombre_documento": "191825_promulga_modificacion_n_35_al_plan_regulador_comunal_de_vitacura",
+  "archivo": "vitacura_191825_promulga_modificacion_n_35_al_plan_regulador_comunal_de_vitacura__Promulga modificación plano regulador 02.08.18.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 21,
+   "articulado": 24
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.122\r\n\r\nJueves 2 de Agosto de 2018\r\n\r\nPágina 1 de 11\r\n\r\nNormas Generales\r\nCVE 1441032\r\nMUNICIPALIDAD DE VITACURA\r\nPROMULGA MODIFICACIÓN Nº 33 AL PLAN REGULADOR COMUNAL DE VITACURA\r\nNúm. 1/1.684 Secc. 1ª.- Vitacura, 31 de julio de 2018.\r\nVisto y considerando:\r\n1. La personería del Alcalde para representar al Municipio a partir del día 6 de diciembre de\r\n2016 que emana de la Sentencia de Calificación y Escrutinio de la comuna de Vitacura de fecha 22\r\nde noviembre de 2016 y Acta Complementaria de Proclamación de fecha 28 de noviembre de 2016\r\ndictadas por el 2º Tribunal Electoral de la Región Metropolitana y el decreto alcaldicio sección 1º Nº\r\n10/643 de fecha 22 de marzo de 2018.\r\n2. La proposición de Modificación al Plan Regulador Comunal de Vitacura, denominada\r\n“Actualización del Artículo 43”, que comprende la modificación de los artículos 29, 30, 32, 33 y 43\r\nde la Ordenanza y el plano de Usos de Suelo (lámina 2) del PRC-Vitacura.\r\n3. Que el Concejo Municipal en sesión ordinaria Nº 916 de fecha 9 de agosto de 2017, mediante\r\nel acuerdo Nº 5077 aprueba dar inicio al proceso legal de Modificación al Plan Regulador Comunal\r\nde Vitacura denominada “Actualización del Artículo 43”, ratificado mediante decreto alcaldicio Nº\r\n3/1743 de fecha 16 de agosto de 2017.\r\n4. Que se enviaron cartas a través de correo certificado a las Juntas de Vecinos existentes en la\r\nComuna, informando el inicio de la tram"
+ },
+ {
+  "id": "d1024",
+  "comuna": "vitacura",
+  "nombre_documento": "31037_promulga_modificacion_no27_al_plan_regulador_comunal_sector_av_juan_xxiii",
+  "archivo": "vitacura_31037_promulga_modificacion_no27_al_plan_regulador_comunal_sector_av_juan_xxiii__publicacion_19.04.12.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 4,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 19 de Abril de 2012\r\n\r\nNº 40.241\r\n\r\n19 de marzo de 2012, que aprobó poner término como\r\nCaso Especial para el Programa Desarrollo de Proveedores a los Productores de Lupino de la Región de la\r\nAraucanía, aprobado por resolución (E) Nº 189, de\r\n2010, de la Gerencia de Fomento.\r\nSin perjuicio de lo anterior, los proyectos que se\r\nencuentren en ejecución o cuya iniciativa haya sido\r\nenviada por el Agente Operador Intermediario a Formulación previo a la completa tramitación de esta\r\nresolución, seguirán rigiéndose por el Reglamento\r\nvigente en dicho momento.\r\nAnótese, publíquese en el Diario Oficial y transcríbase.- Juan Antonio Figueroa Rodas, Gerente de\r\nDesarrollo Empresarial.- María José Gatica López,\r\nSecretario General.\r\nLo que transcribo a Ud. para su conocimiento.María José Gatica López, Secretario General.\r\nPONE EN EJECUCIÓN ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, QUE\r\nELIMINÓ COMO CASO ESPECIAL PARA EL\r\nPROGRAMA DESARROLLO DE PROVEEDORES - PDP A LAS EMPRESAS DEMANDANTES\r\nCERTIFICADAS EN COMERCIO JUSTO\r\nSantiago, 12 de abril de 2012.- Hoy se resolvió lo\r\nque sigue:\r\nNúm. 484 exenta.- Visto:\r\n1. La resolución (A) Nº 379, de 2011, del Vicepresidente Ejecutivo de esta Corporación que, entre\r\notros, entregó facultades al Comité de Asignación de\r\nFondos - CAF, para modificar las normas referentes a\r\nlos beneficiarios, cofinanciamiento, transferencias\r\na Agentes Operadores Intermediarios y duración de\r\nlas etapas de los"
+ },
+ {
+  "id": "d1025",
+  "comuna": "vitacura",
+  "nombre_documento": "31619_promulga_modificacion_n_33_al_plan_regulador_comunal_de_vitacura",
+  "archivo": "vitacura_31619_promulga_modificacion_n_33_al_plan_regulador_comunal_de_vitacura__DIARIO OFICIAL JULIO.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 22,
+   "ordenanza_local_txt": 3,
+   "articulado": 27
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.119\r\n\r\n|\r\n\r\nLunes 30 de Julio de 2018\r\n\r\n|\r\n\r\nPágina 1 de 13\r\n\r\nNormas Generales\r\nCVE 1436217\r\n\r\nMUNICIPALIDAD DE VITACURA\r\n\r\nPROMULGA MODIFICACIÓN N° 33 AL PLAN REGULADOR COMUNAL\r\nDE VITACURA\r\nNúm. 3/1.619 Secc. 1ª.- Vitacura, 20 de julio de 2018.\r\nVisto y considerando:\r\n1. La personería del Alcalde para representar al Municipio a partir del día 6 de diciembre de\r\n2016 que emana de la Sentencia de Calificación y Escrutinio de la comuna de Vitacura de fecha\r\n22 de noviembre de 2016 y Acta Complementaria de Proclamación de fecha 28 de noviembre de\r\n2016 dictadas por el 2° Tribunal Electoral de la Región Metropolitana y el decreto Alcaldicio\r\nsección 1° N° 10/643, de fecha 22 de marzo de 2018.\r\n2. La proposición de Modificación al Plan Regulador Comunal de Vitacura, denominada\r\n\"Actualización del Artículo 43\", que comprende la modificación de los Artículos 29, 30, 32, 33 y\r\n43 de la Ordenanza y el plano de Usos de Suelo (lámina 2) del PRC-Vitacura.\r\n3. Que el Concejo Municipal en Sesión Ordinaria N° 916 de fecha 9 de agosto de 2017,\r\nmediante el Acuerdo N° 5077 aprueba dar inicio al proceso legal de Modificación al Plan\r\nRegulador Comunal de Vitacura denominada \"Actualización del Artículo 43\", ratificado\r\nmediante decreto Alcaldicio N° 3/1743, de fecha 16 de agosto de 2017.\r\n4. Que se enviaron cartas a "
+ },
+ {
+  "id": "d1026",
+  "comuna": "vitacura",
+  "nombre_documento": "31895_promulga_modificacion_n_31_al_plan_regulador_comunal_de_vitacura_norma_de",
+  "archivo": "vitacura_31895_promulga_modificacion_n_31_al_plan_regulador_comunal_de_vitacura_norma_de___DIARIO OFICIAL 20.06.16.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 5,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.563\r\n\r\n|\r\n\r\nMartes 20 de Septiembre de 2016\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 1113435\r\n\r\nMUNICIPALIDAD DE VITACURA\r\n\r\nPROMULGA MODIFICACIÓN Nº 31 AL PLAN REGULADOR COMUNAL DE\r\nVITACURA\r\nNúm. 3/1.895 Secc.1a .- Vitacura, 13 de septiembre de 2016.\r\nVistos y considerando:\r\n1. La proposición de Modificación al Plan Regulador Comunal de Vitacura, denominada\r\n\"Norma de Edificación Área de Riesgo de Remoción en Masa R-5\", que comprende la\r\nmodificación de los planos de Edificación (Lámina 1) y de Usos de Suelo (Lámina 2) del Plan\r\nRegulador Comunal de Vitacura.\r\n2. Que el Concejo Municipal en Sesión Ordinaria Nº 802 de fecha 9 de julio de 2014\r\nmediante el Acuerdo N° 4039, aprueba dar inicio al proceso legal de Modificación al Plan\r\nRegulador Comunal de Vitacura denominada \"Norma de Edificación Área de Riesgo de\r\nRemoción en Masa R-5\", ratificado mediante decreto alcaldicio Nº 3/2564 de fecha 9 de julio de\r\n2014.\r\n3. Que se informó de la realización de la Primera Audiencia Pública y la exposición de la\r\npropuesta a través de correo certificado a las Juntas de Vecinos existentes en la Comuna, y al\r\npúblico en general mediante avisos de prensa los días 14 y 21 de julio de 2014 publicados en el\r\ndiario El Mercurio.\r\n4. Que se realizó sesión del Consejo Comunal de las Organizaciones de la Sociedad C"
+ },
+ {
+  "id": "d1027",
+  "comuna": "vitacura",
+  "nombre_documento": "32770_promulga_modificacion_no_28_al_plan_regulador_comunal_de_vitacura_denomina",
+  "archivo": "vitacura_32770_promulga_modificacion_no_28_al_plan_regulador_comunal_de_vitacura_denomina__Diario_Oficial_04.10.13_pag_7.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "antejardin": 1,
+   "ordenanza_local_txt": 5,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 40.674\r\n\r\ninterinstitucional que tanto el Boletín Oficial como el\r\nlibro electrónico Código del Trabajo requieren para su\r\nmejor edición, y\r\n6. Que dado lo expuesto resulta necesario modificar\r\nla resolución exenta Nº 1.320, de 26.10.11, de la Sra.\r\nDirectora del Trabajo, en orden a que la Unidad de\r\nBoletín Oficial y Código del Trabajo, de la Oficina de\r\nComunicaciones Institucionales, dentro de sus funciones,\r\nle corresponderá sólo la publicación del Boletín Oficial y\r\ndel Código del Trabajo, ya que conforme a lo indicado en\r\nlos considerandos anteriores, la edición del Boletín como\r\nla actualización constante de la edición electrónica del\r\nCódigo del Trabajo, estarán radicadas en la Subdirección.\r\nResuelvo:\r\n1. Modifíquese la resolución exenta N° 1.320, de\r\n26.10.11, de la Sra. Directora del Trabajo, en su resuelvo\r\n4, apartado 4.3, en el sentido de eliminar de las funciones\r\nde la Unidad de Boletín Oficial y Código del Trabajo de\r\nla Oficina de Comunicaciones Institucionales, la edición\r\ndel Boletín Oficial, como la actualización constante de\r\nla edición electrónica del Código del Trabajo, las cuales\r\nestarán radicadas en la Subdirección del Trabajo.\r\n2. Establécese que el apartado 4.3 del resuelvo Nº\r\n4, de la resolución exenta Nº 1.320, de 2011, será del\r\nsiguiente tenor:\r\n4.3 Unidad de Boletín Oficial y Código del Trabajo,\r\nle corresponderá:\r\nLa publicación del Boletín Oficial de la Dirección\r\ndel Trabajo y de las actualizaciones que se efectúen a\r\nla edición electr"
+ },
+ {
+  "id": "d1028",
+  "comuna": "vitacura",
+  "nombre_documento": "32969_modifica_plan_regulador_comunal",
+  "archivo": "vitacura_32969_modifica_plan_regulador_comunal__06.12.07_Pag_10.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "distanciamiento": 2,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 5,
+   "articulado": 14
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Página 10\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 6 de Diciembre de 2007\r\n\r\n(17374)\r\n\r\nNº 38.930\r\n\r\nOTRAS ENTIDADES\r\n\r\nobras en el Corredor de Transporte Público Avenida Las\r\nIndustrias.\r\n\r\nBanco Central de Chile\r\n\r\n5.- El tiempo de duración de estos desvíos y cambios de\r\nsentido de tránsito, no determinan el inicio y finalización de\r\nellos, dado que la autorización para realizar los desvíos deberá\r\nser otorgada por la Dirección de Tránsito y Transporte Público\r\nmediante Oficio.\r\n\r\nTIPOS DE CAMBIO Y PARIDADES DE MONEDAS EXTRANJERAS PARA EFECTOS DEL NÚMERO 6 DEL CAPÍTULO I DEL COMPENDIO DE\r\nNORMAS DE CAMBIOS INTERNACIONALES Y\r\nCAPÍTULO II.B.3. DEL COMPENDIO DE NORMAS\r\nFINANCIERAS AL 6 DE DICIEMBRE DE 2007\r\n\r\n6.- Asimismo Constructora Cosal S.A., deberá:\r\n•\r\n\r\nCerrar el tránsito vehicular en los tramos de calles\r\naludidas al cambio de sentido de tránsito mediante\r\nbarreras, si no se encuentran instaladas todas las señalizaciones de tránsito indicadas en plano adjunto.\r\n\r\n•\r\n\r\nConstructora Cosal S.A. deberá retornar y reinstalar\r\ntodas las señalizaciones de tránsito y los elementos\r\nurbanos trasladados a sus lugares originales a la fecha de\r\ntérmino indicada en el Nº 5.\r\n\r\nTipo de Cambio $ Paridad Respecto\r\n(Nº6 del C.N.C.I.)\r\nUS$\r\nDOLAR EE.UU. *\r\n502,55\r\nDOLAR CANADA\r\n495,32\r\nDOLAR AUSTRALIA\r\n438,03\r\nDOLAR NEOZELANDES 386,16\r\nLIBRA ESTERLINA\r\n1019,16\r\nYEN JAPONES\r\n4,55\r\nFRANCO SUIZO\r\n447,23\r\nCORONA DANESA\r\n98,85\r\nCORONA NORUEGA\r\n91,57\r\nCORONA SUECA\r\n78,44\r\nYUAN\r\n68,0"
+ },
+ {
+  "id": "d1029",
+  "comuna": "vitacura",
+  "nombre_documento": "330_promulga_modificacion_no_30_al_plan_regulador_comunal_de_vitacura_lineas_de",
+  "archivo": "vitacura_330_promulga_modificacion_no_30_al_plan_regulador_comunal_de_vitacura_lineas_de___Diario_Oficial_21.01.16_pag_29.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 4,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.362\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 21 de Enero de 2016\r\n\r\nLa Directiva Central provisional está compuesta por las siguientes personas:\r\nPresidente Nacional: Jaime Francisco Mulet Martínez; Vicepresidente Nacional:\r\nYhanss George Delgado Quevedo; Secretario General: Omar Patricio Monardes\r\nRodríguez; Prosecretario: César Antonio Suárez García; Tesorero: Carlos Alberto\r\nGómez Rojas; Protesorero: Álvaro Nelson Douglas Rivera Aguirre; Segunda\r\nVicepresidenta: Alessandra Faviola Santibáñez Carrizo, y Tercera Vicepresidenta:\r\nDeisy Verónica Aros Pizarro.\r\n\r\n7.\r\n\r\nLa subrogación de los miembros de la Directiva Central provisional será la\r\nsiguiente: el Presidente Nacional será subrogado por el Vicepresidente Nacional\r\ny éste por el Segundo Vicepresidente Nacional y éste, en su caso, por el Tercer\r\nVicepresidente Nacional. El Secretario General será subrogado por el Prosecretario\r\ny el Tesorero por el Protesorero.\r\nEl Tribunal Supremo provisional estará integrado por las siguientes personas:\r\nPresidente: José Abelardo Morales Sánchez; Vicepresidente: Gabriel Gustavo Jiménez\r\nGodoy; Secretaria: Elizabeth Alejandra Pérez Maturana; Integrante Suplente: Sandra\r\ndel Carmen Tapia Morales, e Integrante Suplente: Emilio Enrique Quevedo Cubillos.\r\nLa subrogación de los miembros del Tribunal Supremo provisional será la\r\nsiguiente: el Presidente será subrogado por la Secretaria y ésta a su vez será subrogada\r\npor la integrante suplente doña Sandra del Carmen Tapia Mora"
+ },
+ {
+  "id": "d1030",
+  "comuna": "vitacura",
+  "nombre_documento": "33202_promulga_modificacion_no_25_al_plan_regulador_comunal_denominada_sector_av",
+  "archivo": "vitacura_33202_promulga_modificacion_no_25_al_plan_regulador_comunal_denominada_sector_av__DO_10.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 6,
+   "articulado": 11
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Cuerpo I - 10\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 22 de Octubre de 2010\r\n\r\nLos interesados deben acreditar el cumplimiento\r\nde los requisitos legales.\r\nMayor\r\ninformación\r\ndisponible\r\nen\r\nwww.poderjudicial.cl.- María Angélica Haro Ampuero, Secretaria.\r\n\r\nLos interesados deben acreditar el cumplimiento\r\nde los requisitos legales.\r\nMayor\r\ninformación\r\ndisponible\r\nen\r\nwww.poderjudicial.cl.- Claudio Neculmán Muñoz,\r\nSecretario.\r\n\r\nCorte de Apelaciones de Puerto Montt, Juzgado\r\nde Letras del Trabajo de Puerto Montt.- Llámase a\r\nconcurso externo, por el término de diez días contados\r\ndesde la publicación de este aviso en el Diario Oficial,\r\npara proveer el cargo de Auxiliar, perteneciente a la\r\nSéptima Categoría del Escalafón de Empleados del\r\nPoder Judicial, Grado XVII de la Escala de Sueldos\r\ndel Personal de Empleados, vacante por promoción de\r\ndon Víctor Manuel Pérez Sobarzo.\r\nLos interesados deben acreditar el cumplimiento\r\nde los requisitos legales.\r\nMayor\r\ninformación\r\ndisponible\r\nen\r\nwww.poderjudicial.cl.- Administrador de Tribunal.\r\n\r\nAclaraciones.- Corte de Apelaciones de Valparaíso.- Aclárese publicación en el Diario Oficial del\r\nllamado a concurso para proveer el cargo de Notario\r\nde la Tercera Notaría de San Felipe con asiento en\r\nLlay Llay y Conservador de Llay Llay, de fecha 8 de\r\noctubre de 2010, en el sentido que el Rol Administrativo corresponde al Nº 418-2010.\r\nAclárese publicación en el Diario Oficial del\r\nllamado a concurso para proveer el cargo "
+ },
+ {
+  "id": "d1031",
+  "comuna": "vitacura",
+  "nombre_documento": "33235_promulga_modificacion_no26_al_plan_regulador_comunal",
+  "archivo": "vitacura_33235_promulga_modificacion_no26_al_plan_regulador_comunal__DIARIO_OFICIAL_14_DICIEMBRE_.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 1,
+   "antejardin": 4,
+   "zonificacion": 1,
+   "usos_de_suelo": 7,
+   "ordenanza_local_txt": 5,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 14 de Diciembre de 2011\r\n\r\nNº 40.134\r\n\r\nTIPO DE CAMBIO PARA EFECTOS DEL NÚMERO 7 DEL CAPÍTULO\r\nI DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES\r\nEl tipo de cambio “dólar acuerdo” a que se refiere el inciso primero del Nº7\r\ndel Capítulo I del Compendio de Normas de Cambios Internacionales fue de\r\n$673,44 por dólar, moneda de los Estados Unidos de América, para el día 13 de\r\ndiciembre de 2011.\r\nSantiago, 13 de diciembre de 2011.- Miguel Ángel Nacrur Gazali, Ministro\r\nde Fe.\r\n\r\nMunicipalidades\r\nMUNICIPALIDAD DE VITACURA\r\nPROMULGA MODIFICACIÓN Nº 26 AL PLAN REGULADOR\r\nCOMUNAL ‘‘EQUIPAMIENTO ESPECIAL Nº 1 COMUNAL’’\r\nSecc. 1ª Núm. 3/3.235.- Vitacura, 24 de noviembre de 2011.- Vistos y\r\nconsiderando:\r\n1. La proposición de Modificación al Plan Regulador Comunal de Vitacura,\r\ndenominada ‘‘Equipamiento Especial Nº 1 Comunal’’, que comprende la modificación de los artículos 8, 35 y 43 de la ordenanza local el plano de Usos de Suelo\r\n(Lámina 2) del Plan Regulador Comunal de Vitacura.\r\n2. Que el Concejo Municipal en sesión ordinaria Nº 644, de fecha 10 de marzo\r\nde 2010, mediante el Acuerdo Nº 2.929, aprueba dar inicio al proceso legal de la\r\nModificación al Plan Regulador Comunal de Vitacura denominada ‘‘Equipamiento Especial Nº 1 Comunal’’.\r\n3. Que se enviaron cartas a través de correo certificado a las juntas de vecinos\r\nexistentes en la comuna, informando el inicio de la tramitación y Primera Audiencia\r\nPública de la modificación "
+ },
+ {
+  "id": "d1032",
+  "comuna": "vitacura",
+  "nombre_documento": "3646_promulga_modificacion_n_32_al_plan_regulador_comunal_de_vitacura_areas_verd",
+  "archivo": "vitacura_3646_promulga_modificacion_n_32_al_plan_regulador_comunal_de_vitacura_areas_verd__PUBLICACIÓN DIARIO OFICIAL 03.04.2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "usos_de_suelo": 7,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.022\r\n\r\n|\r\n\r\nMartes 3 de Abril de 2018\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 1375757\r\n\r\nMUNICIPALIDAD DE VITACURA\r\n\r\nPROMULGA MODIFICACIÓN N° 32 AL PLAN REGULADOR COMUNAL\r\nDE VITACURA\r\nNúm. 3/646 Secc. 1ª.- Vitacura, 23 de marzo de 2018.\r\nVistos y considerando:\r\n1. El requerimiento de la directiva de la Unidad Vecinal A-15 Pamplona solicitando\r\ndeclarar \"Área Verde\" el territorio identificado en carta de fecha 15 de septiembre de 2016\r\n(Ingreso AU N° 327 del 21.09.16).\r\n2. La realización de un proceso de participación con esa comunidad, que es la directamente\r\nafectada, en el estudio, definición y elaboración de una modificación al Plan Regulador Comunal\r\nmediante reuniones y mesas de trabajo periódicas, como se ratifica en carta de fecha 25 de agosto\r\nde 2017 suscrita por la Presidente de la Unidad Vecinal A-15 afectada.\r\n3. La proposición de modificación al Plan Regulador Comunal de Vitacura, denominada\r\n\"Áreas Verdes Costanera Sur oriente\", que comprende la modificación de los planos de\r\nEdificación (Lámina 1) y de Usos de Suelo (Lámina 2) del Plan Regulador Comunal de Vitacura.\r\n4. Que el Concejo Municipal en Sesión Extraordinaria N° 2, de fecha 24 de enero de 2017,\r\nmediante acuerdo N° 4966, aprueba dar inicio al proceso legal de modificación al Plan\r\nRegulador Comunal de Vitacura denomin"
+ },
+ {
+  "id": "d1033",
+  "comuna": "yumbel",
+  "nombre_documento": "decreto_ordenanza_municipal",
+  "archivo": "yumbel_decreto_ordenanza_municipal__ordenanza_local_plan_regulador.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 15,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 2,
+   "agrupamiento": 4,
+   "antejardin": 2,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 2,
+   "articulado": 34,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ILUSTRE MUNICIPALIDAD DE YUMBEL\r\nPLAN REGULADOR COMUNAL\r\n\r\nORDENANZA LOCAL\r\n\r\nCONSULTOR : ARQUITECTO ANTONIO ZELADA ESPINOZA\r\nY PROFESIONALES ASOCIADOS\r\nARQUITECTO: RICARDO UTZ BARRIGA\r\nING. CIVIL : ALBERTO DUYVESTEIN SAAVEDRA\r\nING. CIVIL : MONICA WOYWOOD YOKOTA\r\nGEOGRAFO : PEDRO ILABACA GUAJARDO\r\n\r\n1998\r\n\r\n\fPLAN REGULADOR COMUNAL DE YUMBEL\r\nORDENANZA LOCAL\r\nCAPITULO I\r\nDISPOSICIONES GENERALES\r\n\r\nARTICULO 1º.- Las disposiciones legales de la presente Ordenanza contienen las\r\nnormas referentes al límite urbano, zonificación, uso de suelo, condiciones de subdivisión\r\npredial, de edificación, de urbanización y vialidad, las que regirán dentro del área territorial del\r\nPlan Regulador graficadas en el plano PRY-01, escala 1:5000, en adelante “el plano”, con cuya\r\ninformación gráfica es complementaria.\r\nARTICULO 2º.- El área territorial reglamentada por el presente Plan Regulador esta\r\ndelimitada por la poligonal cerrada entre los puntos 1,2,3,4,5,6,7, 8,9,10,11,12,13,14,15,16 y 17.\r\nEsta poligonal constituye el límite urbano y la descripción de puntos y tramos se detalla en el\r\nartículo 6 de esta Ordenanza.\r\nARTICULO 3º.- Todas aquellas materias atingentes al desarrollo urbano que no\r\nestuvieren normadas por las disposiciones de la presente Ordenanza, se regirán por las\r\ndisposiciones de la Ley General y la Ordenanza General de Urbanismo y Construcciones y\r\ndemás disposiciones legales y reglamentarias sobre la materia.\r\nARTICULO 4º.- De conformidad a la Ley General de Urbanismo y "
+ },
+ {
+  "id": "d1034",
+  "comuna": "yungay",
+  "nombre_documento": "1362_aprueba_modificacion_al_plan_regulador_comunal_de_yungay_zonificacion_terre",
+  "archivo": "yungay_1362_aprueba_modificacion_al_plan_regulador_comunal_de_yungay_zonificacion_terre__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "usos_de_suelo": 1,
+   "articulado": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1362, YUNGAY (2010)\r\n\r\nDecreto 1362\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE YUNGAY,\r\nZONIFICACIÓN TERRENOS CON CADUCIDAD DE DECLARATORIA DE\r\nUTILIDAD PÚBLICA\r\nMUNICIPALIDAD DE YUNGAY\r\nFecha Publicación: 16-OCT-2010 | Fecha Promulgación: 30-AGO-2010\r\nTipo Versión: Única De : 16-OCT-2010\r\nUrl Corta: https://bcn.cl/3oazl\r\n\r\nAPRUEBA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE YUNGAY, ZONIFICACIÓN TERRENOS CON\r\nCADUCIDAD DE DECLARATORIA DE UTILIDAD PÚBLICA\r\nNúm. 1.362.- Yungay, 30 de agosto de 2010.- Vistos:\r\na.\r\nLas facultades que me confiere la Ley Nº 18.695, \"Orgánica Constitucional de\r\nMunicipalidades\".\r\nb.\r\nLo dispuesto en artículo 59 del DFL Nº 458 (V y U), de 1976, Ley General de\r\nUrbanismo y Construcciones, y en su Ordenanza General de Urbanismo y Construcciones.\r\nConsiderando: El Ord. Nº 1.734, de fecha 30 de agosto de 2010, del Secretario\r\nRegional Ministerial de Vivienda y Urbanismo, que acompaña el Informe Técnico\r\nFavorable de la Seremi de Vivienda y Urbanismo,\r\nDecreto:\r\n1.- Modifíquese el Plan Regulador Comunal de Yungay, aprobado por Res. Nº 2\r\n(Seremi MINVU), de fecha 08/02/93, y publicada en el Diario Oficial de 06/04/93, de\r\nacuerdo a lo señalado en el artículo 59º del DFL Nº 458 (V y U), de 1976, en el\r\nsentido siguiente:\r\nLas fajas de terrenos declaradas de utilidad pública correspondientes a las\r\nvías proyectadas, en los tramos que se indica en el siguiente cuadro, se asimilan a\r\nlos usos de suelo y normas urbanísticas de las zonas donde se e"
+ }
+]

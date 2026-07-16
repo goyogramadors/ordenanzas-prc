@@ -1,0 +1,28 @@
+{
+  "id": "cabildo_2e111086fa",
+  "comuna": "cabildo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cabildo_1349_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_cabildo__Enmienda Nro 1 Plan Regulador comunal de Cabildo.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda N1 PRC Cabildo, zona unica Z H2 B. Norma en TEXTO como articulo por letras a-h (predial min 200 m2, frente 10 m, ocupacion 0,6, constructibilidad 1,0, densidad 60 viv/ha, agrupamiento aislada/pareada/continua, antejardin 1,5 m, altura art.2.6.3 OGUC). No es cuadro visual: se transcribe directo del texto. p3 es solo plano de emplazamiento + firmas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:08:18",
+  "fin": "2026-07-15T14:09:58",
+  "resultado": {
+    "archivo": "extraccion_normas\\cabildo\\cabildo_1349_enmienda_n1_prc_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZH2B"
+    ],
+    "confianza": "ALTA",
+    "nota": "Zona unica ZH2B, texto claro, coincide con nota_fase3. Altura remite a art.2.6.3 OGUC sin valor numerico propio."
+  }
+}

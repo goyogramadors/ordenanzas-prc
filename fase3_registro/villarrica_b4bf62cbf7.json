@@ -1,0 +1,20 @@
+{
+  "id": "villarrica_b4bf62cbf7",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_antecedetentes_y_documentos_sobre_modificacion_de_plan_regulador_comunal__oficio_27_2021_sai_mu339T0001380.pdf",
+  "nombre": "villarrica_antecedetentes_y_documentos_sobre_modificacion_de_plan_regulador_comunal__oficio_27_2021_sai_mu339T0001380.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:07:06",
+  "fin": "2026-07-15T08:07:51",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "solicitud de Ley de Transparencia (ciudadano pregunta por estado del PRC en trámite y protección de 'Piedra Iribarren'), no es decreto ni ordenanza, sin contenido normativo"
+  }
+}

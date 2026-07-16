@@ -1,0 +1,28 @@
+{
+  "id": "machali_2de935d8b3",
+  "comuna": "machali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\machali_788_aprueba_modificacion_n010_prc_de_machali_relativo_al_proyecto_enmienda_n002___Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Modificacion N10 PRC Machali (Enmienda N2), art.4.1-69. p2: cuadro completo IMAGEN de la ZONA ZE-1 Equipamiento y Servicios Publicos: usos permitidos/prohibidos por tipo (residencial, equipamiento, actividades productivas) + Normas Especificas por fila (superficie predial min 300-700 m2, densidad bruta max 180-300 hab/ha, COS 0,6-1, CC 1-1,95, agrupamiento, altura 12-18 m, antejardin 3-5 m). Formato 'Donde dice/Debe decir': cambia antejardin a OPCIONAL (5 m) en predios segun laminas Enmienda 002 LAM1/LAM2, resto obligatorio. p3: plano de aplicacion (mapa), sin valores.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:22:09",
+  "fin": "2026-07-15T14:23:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\machali\\machali_788_modificacion10_ze1.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro completo ZE-1 transcrito desde el render (imagen). Incluye modificacion Donde dice/Debe decir de antejardin (pasa a opcional 5m en predios segun Lamina Enmienda 002, obligatorio en el resto). p3 es plano sin valores, excluido del alcance. Verificado contra nota_fase3: coincide."
+  }
+}

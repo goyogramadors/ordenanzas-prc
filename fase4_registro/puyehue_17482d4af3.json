@@ -1,0 +1,28 @@
+{
+  "id": "puyehue_17482d4af3",
+  "comuna": "puyehue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puyehue_46_aprueba_modificacion_al_plan_regulador_comunal_depuyehue_localidad_de_entre_l__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "modificación PRC Entre Lagos: pág2-3 tabla completa nueva Zona Z6 (usos permit/prohib + normas específicas subdivisión predial y edificación: superficie predial mín, frente predial mín, % ocupación suelo, coef. constructibilidad, sistema agrupamiento, altura máxima, antejardines, adosamientos); texto nativo completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:03:23",
+  "fin": "2026-07-15T18:07:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\puyehue\\puyehue_46_zona_z6_entre_lagos.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Z6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Tabla completa nueva Zona Z6 (ex E-1/E-3/parte Z1). Las 2 ultimas filas de la tabla (antejardin otras vias y adosamientos) estaban en p4, incluidas por ser continuacion directa aunque rango oficial era p2-3. Tambien Zona E-2 desafectada (hereda de Z2, sin cuadro propio) y norma de loteos DFL2 en Z-2/Z-5. Verificado contra nota_fase3: coincide y completa la tabla."
+  }
+}

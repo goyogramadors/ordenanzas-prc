@@ -1,0 +1,20 @@
+{
+  "id": "san_fabian_b14584ee16",
+  "comuna": "san_fabian",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_fabian_plan_regulador_comuna_plano_memoria_y_ordenanza__7f28c5af-ea63-403d-9d18-3bdd3cf99585.pdf",
+  "nombre": "san_fabian_plan_regulador_comuna_plano_memoria_y_ordenanza__7f28c5af-ea63-403d-9d18-3bdd3cf99585.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:28:54",
+  "fin": "2026-07-14T21:30:46",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Archivo legible y completo (2 pags), NO truncado. Es solo el oficio de respuesta a solicitud de transparencia (Ley 20285, Oficio N19) que dice adjuntar 'Plano Regulador y otros afines en formato digital' pero el adjunto NO esta incluido en este PDF. Pag1 texto oficio, pag2 solo membrete."
+  }
+}

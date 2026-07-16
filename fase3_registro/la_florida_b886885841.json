@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_b886885841",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_31_aprueba_modificacion_del_plan_regulador_comunal_de_la_florida_sector_manzana___Exportar.pdf",
+  "nombre": "la_florida_31_aprueba_modificacion_del_plan_regulador_comunal_de_la_florida_sector_manzana___Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:46:20",
+  "fin": "2026-07-14T15:50:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion PRC La Florida sector Manzana. p2-3: cuadro de USOS DE SUELO PERMITIDOS para Equipamiento (escalas intercomunal/comunal/vecinal: salud, educacion, cultura, areas verdes, deportes, esparcimiento, comercio, servicios, transporte). ATENCION: las NORMAS DE EDIFICACION (COS/CC/altura) NO estan en este PDF: p3 termina con 'B) Normas de edificacion... VER D.O. DE FECHA 04.06.1999' y el render confirma que no hay cuadro oculto. Se registra el rango por los usos de suelo, pero las normas dimensionales hay que buscarlas en el DO del 04-06-1999."
+  }
+}

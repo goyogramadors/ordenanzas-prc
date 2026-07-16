@@ -1,0 +1,30 @@
+{
+  "id": "linares_11af6748de",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\linares_decreto_modifiquese_la_ordenanza_del_plan_regulador_comunal_de_linares__ORD_N_1962-2024.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Decreto Exento N1962/2024 aprueba Enmienda N2 al PRC de Linares: modifica art.11 usos de suelo y normas especificas para Zonas Z-3, Z-5 y Z-10 (Dice/Debe decir). Tablas completas de normas de subdivision y edificacion: predial minimo, densidad bruta, COS, CC, agrupamiento, cierros, ochavos, antejardin. Paginas 2-3. Paginas 4-5 modifican tambien vialidad estructurante (Tabla N4, fuera de alcance de esta fase).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:49:10",
+  "fin": "2026-07-15T14:51:27",
+  "resultado": {
+    "archivo": "extraccion_normas\\linares\\linares_1962-2024_enmienda2_zonas_z3_z5_z10_pag2-3.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "Z-3",
+      "Z-5",
+      "Z-10"
+    ],
+    "confianza": "ALTA",
+    "nota": "3 tablas comparativas Dice/Debe decir transcritas completas. Z-3: solo antejardin cambia (3m generico -> exento en poligono especifico de calles). Z-5: solo predial minimo 120->156m2. Z-10: COS 0,4->0,52, CC 3->3,9, antejardin generico 15m -> normas diferenciadas por tramo de via. p4-5 vialidad fuera de alcance."
+  }
+}

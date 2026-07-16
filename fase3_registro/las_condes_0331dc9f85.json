@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_0331dc9f85",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_2022-Ord.-Alc.-N14-46-del-17.2.22-ORD.-N285-2022.-.pdf",
+  "nombre": "las_condes_2022-Ord.-Alc.-N14-46-del-17.2.22-ORD.-N285-2022.-.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:27:07",
+  "fin": "2026-07-15T08:29:07",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord.Alc.N14/46 del 17.2.2022: oficio administrativo Municipalidad a SEREMI MINVU solicitando aclaracion de ordinario previo (Ord.N285) sobre publicacion en Portal Unico de Informacion de Modificacion N11 al PRC. Correspondencia juridico-administrativa (art.28 octies LGUC, DDU410), sin cuadro de normas."
+  }
+}

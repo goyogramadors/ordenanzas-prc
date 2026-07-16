@@ -1,0 +1,20 @@
+{
+  "id": "san_carlos_7f5bc05abf",
+  "comuna": "san_carlos",
+  "ruta": "Ordenanzas ordenadas\\san_carlos_decreto_exento_121_1289_declarase_la_disolucion_de_la_organizacion_comunitaria_f__E1289.pdf",
+  "nombre": "san_carlos_decreto_exento_121_1289_declarase_la_disolucion_de_la_organizacion_comunitaria_f__E1289.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T12:18:38",
+  "fin": "2026-07-15T12:19:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Exento (SM) 121-1289/2012: declara la disolución de la Organización Comunitaria Funcional 'Grupo de Mejoramiento de Vivienda El Recuerdo de Gaona' por cambio del Plan Regulador. Trámite administrativo de disolución de organización, sin contenido normativo (solo menciona el PRC como causa)."
+  }
+}

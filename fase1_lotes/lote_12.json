@@ -1,0 +1,838 @@
+[
+ {
+  "id": "d0115",
+  "comuna": "florida",
+  "nombre_documento": "acuerdo_296_facultar_a_la_municipalidad_de_florida_para_comprometer_incorporar_e",
+  "archivo": "florida_acuerdo_296_facultar_a_la_municipalidad_de_florida_para_comprometer_incorporar_e__296.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "`h,`\r\n\r\nfl#de\r\n8tryowaneande\r\n\r\nACUERDO MUNICIPAL N® 296\r\n\r\nREF.: COIItR!ORESO DE APOR:TE ESTUDIO\r\n\r\nACTUAIIZActoN PLAN REGUIADOR\r\n\r\nCohENAL.\r\n\r\nFLORIDA, 10 DE MAIO DE 2023.\r\n\r\nEn Sesi6n Ordinaria celebrada por el Concejo Municipal, de fecha 10.05.2023, en\r\n\r\nrelaci6n a propuesta alcaldicia para comprometer aporte para estudio, se adopt6 el siguiente acuerdo:\r\n\r\nFacultar a la Muhicipalidad de Florida para comprometer\r\n\r\nincoxporar, en\r\n\r\npresupuesto municipal aha 2024, un aporte aproximado a $25.000.000.-(veinticinco millones de pesos),\r\nequlvalentes al 10% del total del costo del estudio para actualizar el Plan Regulador Comunal de Florida.\r\n\r\nEl preseute acuerdo se adopt6, por voto a viva voz y afiavor, par la unanimidad de\r\nlos Concejales y Concejala en ejercicto y el Sr. Alcalde. Todos preseutes en la sala.\r\n\r\nJERV/ELST/cho.-\r\n\r\nDISTRIBUCION:\r\n•\r\n\r\nSres. Concejales.\r\n\r\n•\r\n\r\nSECPLAN.\r\n\r\n•\r\n\r\nDirecci6n de control.\r\n\r\n•\r\n\r\nAritecedentes CONMU.\r\n\r\n•\r\n\r\nArchivo.\r\n\r\nIIustre Municipalidad de Florida -Arturo Prat 675 -Fono: 41-2668990 -www.muniflorida.cl -Region del Biobfo Chile\r\n\r\n8.quowanzawh"
+ },
+ {
+  "id": "d0622",
+  "comuna": "florida",
+  "nombre_documento": "741_deja_sin_efecto_declaratorias_de_utilidad_publica_establecidas_en_el_art_36o",
+  "archivo": "florida_741_deja_sin_efecto_declaratorias_de_utilidad_publica_establecidas_en_el_art_36o__Publicacion02.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "deja_sin_efecto"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-1"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "deja sin efecto un acto previo, sin contenido normativo propio",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Nº 41.141\r\n\r\nDIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nSábado 25 de Abril de 2015\r\n\r\nCuerpo I - 27\r\n\r\nMUNICIPALIDAD DE SANTA CRUZ\r\n\r\nMUNICIPALIDAD DE FLORIDA\r\n\r\nDEJA SIN EFECTO LA AFECTACIÓN A UTILIDAD PÚBLICA DE LAS\r\nCIRCULACIONES Y PARQUES SEÑALADOS EN EL PLAN REGULADOR\r\nVIGENTE DE SANTA CRUZ\r\n\r\nDECLARA EN ABANDONO VEHÍCULOS QUE SE ENCUENTRAN EN\r\nCORRALONES MUNICIPALES\r\nFlorida, 9 de abril de 2015.- La Alcaldía decretó hoy lo siguiente:\r\nNúm. 734.\r\n\r\nNúm. 772 exento.- Santa Cruz, 20 de abril de 2015.\r\nVistos:\r\nLas facultades que me confieren la Ley Orgánica Constitucional de Municipalidades\r\nNº18.695 y sus modificaciones,\r\nConsiderando:\r\n1.\r\n2.\r\n\r\nEl artículo transitorio de la ley 20.791 publicada en el Diario Oficial el día 29\r\nde octubre de 2014 y de acuerdo al inciso segundo.\r\nEl certificado Nº 338 del Secretario Municipal que indica que en reunión ordinaria\r\noctogésima quinta, de fecha 7 de abril de 2015, el Concejo Municipal acuerda\r\naprobar el informe con nómina de circulaciones y parques a desafectación de utilidad\r\npública del plan regulador vigente, que es parte integrante del presente decreto,\r\nDecreto:\r\n\r\nVistos:\r\na)\r\nb)\r\nc)\r\nd)\r\n\r\nDecreto:\r\n1.-\r\n\r\nDéjese sin efecto la afectación a utilidad pública de las circulaciones y parques\r\nseñalados en el plan regulador vigente de Santa Cruz, aprobado mediante decreto\r\nexento Nº 190 de fecha 26 de diciembre de 1997 y publicado en el Diario Oficial\r\nel 7 de septiembre de 1998, de la siguiente forma:\r\n\r\nDeclárense en abandono"
+ },
+ {
+  "id": "d0623",
+  "comuna": "florida",
+  "nombre_documento": "ordenanza_contiene_las_normas_referentes_al_limite_urbano_zonificacion_y_usos_de",
+  "archivo": "florida_ordenanza_contiene_las_normas_referentes_al_limite_urbano_zonificacion_y_usos_de__ORDENANZA FLORIDA PRC.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 34,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 2,
+   "articulado": 8,
+   "limite_urbano": 6
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR COMUNAL DE FLORIDA\r\nORDENANZA LOCAL\r\n\r\nCAPITULO I\r\n\r\nDISPOSICIONES GENERALES\r\n\r\nARTICULO 1.- MATERIAS NORMADAS. La presente Ordenanza Local contiene las\r\nnormas referentes al límite urbano, zonificación y usos de suelo, condiciones urbanísticas de\r\nsubdivisión predial, urbanización, edificación y vialidad estructurante, que regirán dentro del\r\nárea territorial urbana del Plan Regulador Comunal de Florida, de acuerdo a lo graficado en\r\nlos planos PRC/F1 y PRC/C1, elaborados a escala 1:5.000, en adelante el Plano, con cuya\r\ninformación gráfica es complementaria.\r\nARTICULO 2.- ÁMBITO TERRITORIAL. Para efectos del ordenamiento territorial\r\ncomunal en el territorio de la comuna de Florida, se distingue dos tipos de áreas: Área\r\nurbana y Área rural. El área urbana distingue a su vez, tres macro áreas: Área urbana\r\nconsolidada, Área de extensión urbana y Área especial de restricción y protección.\r\nEl área urbana reglamentada por el presente Plan Regulador Comunal esta definida por el\r\nlimite urbano, que corresponde a las líneas poligonales cerradas entre los puntos 1 al 21 para\r\nel centro urbano de Florida y 22 al 35 para el centro urbano de Copiulemu, respectivamente,\r\ncuya descripción de puntos y tramos se expresa en el Artículo 6 de esta Ordenanza\r\nEl área rural está conformada por el resto del territorio comunal, no incluido en el límite\r\nurbano. Su regulación urbanística se estará a lo dispuesto por la Ley General de Urbanismo\r\ny Construcciones y su Ordenanza Gen"
+ },
+ {
+  "id": "d0624",
+  "comuna": "freirina",
+  "nombre_documento": "2932_promulga_plan_regulador_ilustre_municipalidad_de_freirina",
+  "archivo": "freirina_2932_promulga_plan_regulador_ilustre_municipalidad_de_freirina__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 24,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 2,
+   "ocupacion_suelo": 1,
+   "densidad": 2,
+   "agrupamiento": 3,
+   "rasante": 2,
+   "distanciamiento": 2,
+   "zonificacion": 3,
+   "usos_de_suelo": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 26,
+   "limite_urbano": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 11 senales normativas (constructibilidad, ocupacion_suelo, densidad, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 2932, FREIRINA (2009)\r\n\r\nDecreto 2932\r\nPROMULGA PLAN REGULADOR\r\nMUNICIPALIDAD DE FREIRINA\r\nPublicación: 14-DIC-2009 | Promulgación: 15-OCT-2009\r\nVersión: Única De : 14-DIC-2009\r\nUltima Modificación: 14-NOV-2017 3882\r\nUrl Corta: https://bcn.cl/3mmtl\r\n\r\nPROMULGA PLAN REGULADOR\r\nNúm. 2.932.- Freirina, 15 de octubre de 2008.- Visto: La necesidad de promulgar\r\nel Plan Regular Comunal de Freirina. El Ordinario Nº 930, de fecha 25.07.08, del\r\nMinvu, el que otorga el informe favorable expresando que el Plan Regulador de\r\nFreirina ha cumplido con lo establecido en DFL Nº 458 (Minvu) Ley General de\r\nUrbanismo y Construcciones, y haciendo uso de las facultades que me confiere la Ley\r\nNº 18.695, artículo 65 letra i) Ley Orgánica Constitucional de Municipalidades y\r\nsus modificaciones.\r\nConsiderando: El Ordinario Nº 930, de fecha 25.07.08, del Minvu, el que otorga\r\nel informe favorable expresando que el Plan Regulador de Freirina ha cumplido con lo\r\nestablecido en DFL Nº 458 (Minvu) Ley General de Urbanismo y Construcciones,\r\nDecreto:\r\nPromúlguese el Plan Regulador de Freirina, que forma parte integrante del\r\npresente decreto.\r\nAnótese, comuníquese y archívese.- William Marín Avendaño, Alcalde (S).María Leal Álvarez, Secretaria Municipal (S), Ministro de Fe.\r\nORDENANZA LOCAL\r\nPLAN\r\nREGULADOR COMUNAL DE FREIRINA\r\nA.- ORDENAMIENTO DE MATERIAS BASICAS\r\nCAPITULO I\r\nCAPITULO Il\r\nCAPITULO III\r\nCAPITULO IV\r\nESPECIFICAS.\r\n\r\nDISPOSICIONES GENERALES.\r\nDESCRIPCION DE LOS LIMITES URBANOS.\r\nDE"
+ },
+ {
+  "id": "d1056",
+  "comuna": "freirina",
+  "nombre_documento": "3882_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_freirina",
+  "archivo": "freirina_3882_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_freirina__PUBLICACION3882.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0625",
+  "comuna": "fresia",
+  "nombre_documento": "63_aprueba_plan_regulador_de_fresia",
+  "archivo": "fresia_63_aprueba_plan_regulador_de_fresia__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 10,
+   "articulado": 9,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Resolucion 63 AFECTA (2003)\r\n\r\nResolución 63 AFECTA\r\nAPRUEBA PLAN REGULADOR COMUNAL DE FRESIA\r\nGOBIERNO REGIONAL X REGIÓN DE LOS LAGOS\r\nFecha Publicación: 19-ENE-2004 | Fecha Promulgación: 16-DIC-2003\r\nTipo Versión: Única De : 19-ENE-2004\r\nUrl Corta: https://bcn.cl/3nsoj\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE FRESIA\r\nNúm. 63 afecta.- Puerto Montt, 16 de diciembre de 2003.Vistos:\r\na)\r\n\r\nEl decreto exento Nº 1.321 de 27/05/2003, de la I.\r\nMunicipalidad de Fresia, por el cual se aprueba el Plan Regulador Comunal de\r\nFresia en conformidad a lo indicado en la memoria explicativa, el estudio de\r\nfactibilidad de agua potable y alcantarillado, la ordenanza local y el plano código\r\nPRC-FRE Nº 1, confeccionado por la I. Municipalidad de Fresia;\r\nb)\r\nLa res. ex. Nº 1.317, de 24/11/03, de la Seremi de Vivienda y Urbanismo de esta\r\nregión, la que aprueba el informe técnico del 07/11/03, del jefe de DDUI, de esa\r\nSeremi, por el que se recomienda acoger en forma favorable la proposicion del Plan\r\nRegulador Comunal de Fresia;\r\nc)\r\nEl certificado Nº 153, de 05/12/03 del Secretario Ejecutivo del CORE, que\r\ninforma que en la sesión ordinaria Nº 33, de 26/11/03, el Core aprobó el Plan\r\nRegulador Comunal de Fresia;\r\nd)\r\nLo dispuesto en los arts. 43, 44, 45 y 46 del DFL Nº 458 (V. y U) de 1976, Ley\r\nGeneral de Urbanismo y Construcciones; lo señalado en los arts. 2.1.7 y 2.1.13 de la\r\nOrdenanza General de Urbanismo y Construcciones aprobada por DS Nº 47 (V y U) de\r\n1992; lo establecido en los arts. 2"
+ },
+ {
+  "id": "d0626",
+  "comuna": "frutillar",
+  "nombre_documento": "decreto_ley_chile_decreto_150_05_nov_1983_ministerio_de_vivienda_y_urbanismo_bib",
+  "archivo": "frutillar_decreto_ley_chile_decreto_150_05_nov_1983_ministerio_de_vivienda_y_urbanismo_bib__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 11,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 2,
+   "ordenanza_local_txt": 2,
+   "articulado": 5,
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 6 senales normativas (agrupamiento, zonificacion, usos_de_suelo, ordenanza_local_txt)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 150, VIVIENDA (1983)\r\n\r\nDecreto 150\r\nAPRUEBA PLAN REGULADOR COMUNAL DE FRUTILLAR\r\nMINISTERIO DE VIVIENDA Y URBANISMO\r\nPublicación: 05-NOV-1983 | Promulgación: 12-SEP-1983\r\nVersión: Última Versión De : 28-OCT-2004\r\nTexto derogado: 28-OCT-2004;RES-74 AFECTA\r\nUltima Modificación: 28-OCT-2004 Resolucion 74 AFECTA\r\nUrl Corta: https://bcn.cl/3lxjx\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE FRUTILLAR\r\nSantiago, 12 de Septiembre de 1983.- Hoy se decretó lo siguiente:\r\nNúm. 150.- Visto: Lo dispuesto en los artículos 2º y 9º de la Ley Nº 16.391\r\ny 12º letra i) del D.L. Nº 1.305 de 1976; los artículos 41º al 44º y 54º del\r\nD.F.L.\r\nNº 458, (V. y U.), de 1975, Ley General de Urbanismo y Construcciones; el artículo\r\n550 de la Ordenanza General de Construcciones y Urbanización; el decreto alcaldicio\r\nNº 79, de 17 de Diciembre de 1982, de la Ilustre Municipalidad de Frutillar; el\r\nordinario Nº 747, de 19 de Mayo de 1982, del Director Regional SENDOS X Región de\r\nLos Lagos; el ordinario Nº 643, de 6 de Diciembre de 1982 del señor Subsecretario\r\nde Agricultura; el ordinario Nº 445, de 17 de Junio de 1983, de la Secretaría\r\nMinisterial de Vivienda y Urbanismo X Región de Los Lagos; el ordinario Nº 229, de\r\n25 Julio de 1983, de la División de Desarrollo Urbano del Ministerio de Vivienda y\r\nUrbanismo, y los demás antecedentes que se acompañan,\r\n\r\nDecreto:\r\nArtículo 1º.- Apruébase el nuevo Plan Regulador Comunal de Frutillar, que\r\ncomprende los centros poblados de Frutillar Alto y Bajo, en confo"
+ },
+ {
+  "id": "d0116",
+  "comuna": "futrono",
+  "nombre_documento": "1099_extracto_de_los_contenidos_del_inicio_del_proceso_de_actualizacion_del_plan",
+  "archivo": "futrono_1099_extracto_de_los_contenidos_del_inicio_del_proceso_de_actualizacion_del_plan__DTOALCALDICIO109917SEPT2020.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "limite_urbano": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto que solo da inicio a un proceso de PRC, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.775\r\n\r\n|\r\n\r\nJueves 8 de Octubre de 2020\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1827487\r\n\r\nMUNICIPALIDAD DE FUTRONO\r\n\r\nMunicipalidad de Futrono\r\nEXTRACTO INICIO PROCESO EVALUACIÓN AMBIENTAL ESTRATÉGICA\r\nDE LA ACTUALIZACIÓN DEL PLAN REGULADOR COMUNAL DE\r\nFUTRONO\r\na) Órgano responsable: Ilustre Municipalidad de Futrono, RUT 69.200.700-K,\r\nubicada en Balmaceda esquina Alessandri S/N, Futrono, representante legal don Claudio\r\nLavado Castro.\r\nb) Resumen de Antecedentes:\r\nEl instrumento a ser evaluado ambientalmente corresponde a la Actualización Plan\r\nRegulador Comunal de Futrono, Región de Los Ríos, provincia del Ranco.\r\ni) Fines o metas a alcanzar: Lograr el desarrollo armónico de los centros poblados de\r\ncarácter urbano de la comuna de Futrono con el medio natural donde se emplazan.\r\nii) Justificación que determina su necesidad: La comuna de Futrono posee un Plan\r\nRegulador Comunal que data del año 1997 y aplica solo a la localidad de Futrono.\r\nRegular el uso del suelo en riberas urbanas del lago Ranco. Incorporar la dimensión de\r\nlos riesgos naturales presentes en el territorio y efectos asociados al cambio climático.\r\niii) Objeto del Plan: Abordará sectores poblados de carácter urbano de la comuna,\r\nconciliación de las funciones urbanas, incorporación de sectores con condiciones\r\nfavorables para uso urb"
+ },
+ {
+  "id": "d0627",
+  "comuna": "futrono",
+  "nombre_documento": "resolucion_37_plan_regulador_comunal",
+  "archivo": "futrono_resolucion_37_plan_regulador_comunal__Plan_Regulador_Comunal.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 15,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 4,
+   "ocupacion_suelo": 4,
+   "predial_minima": 8,
+   "altura_maxima": 4,
+   "densidad": 2,
+   "agrupamiento": 19,
+   "antejardin": 6,
+   "rasante": 6,
+   "adosamiento": 3,
+   "distanciamiento": 4,
+   "zonificacion": 3,
+   "usos_de_suelo": 16,
+   "ordenanza_local_txt": 12,
+   "articulado": 42,
+   "limite_urbano": 5
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z - 1",
+   "Z-1",
+   "Z-2",
+   "Z-3",
+   "Z1",
+   "Z2",
+   "Z3",
+   "Z4",
+   "Z5",
+   "Z6",
+   "ZA",
+   "ZE1"
+  ],
+  "puntaje_normativo": 17,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 17 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nMiércoles 3 de Diciembre de 1997\r\n\r\nN° 35.932\r\n\r\nGobierno Regional X Región de Los Lagos\r\n\r\nPunto\r\n\r\n1\r\nAPRUEBA PLAN REGULADOR DE COMUNA DE FUTRONO\r\n(Resolución)\r\n\r\n(14453)\r\n\r\nDescripción del Punto\r\n\r\nPágina\r\n\r\n5\r\n\r\nTramo Descripción del Tramo\r\n\r\nIntersección de la línea de\r\naguas máximas del Lago Raneo, con línea equidistante trazada 110 m al Sur del eje de\r\ncalle J.L. Sanfuentes.\r\n\r\nNúm. 37 afecta- Puerto Montt, 3 de marzo de 1997- Vistos:\r\na)\r\n\r\nEl Decreto Alcaldido N° 346, de 21/06/96, de la I. Municipalidad de Futrono\r\npor el cual se aprueba el Plan Regulador Comunal de esa comuna, más el\r\nestudio de Factibilidad de Agua Potable y Alcantarillado, la Ordenanza Local\r\ny los Planos Código FTR-01 y FTR-02 confeccionados a escala 1:2000, por\r\nla I. Municipalidad de Futrono;\r\n\r\nb)\r\n\r\nLa Res. Ex. N° 709, de 13/11/96, de la Seremi de Vivienda y Urbanismo de\r\nesta región, que aprueba el Informe Técnico del 02/10/96, del Jefe del DDU I,\r\nde esa Seremi, por el que se recomienda acoger en forma favorable la\r\nproposición del Plan Regulador Comunal de Futrono;\r\n\r\nc)\r\n\r\nEl oficio N° 1312, de 14/11/96, del Seremi de Vivienda y Urbanismo de esta\r\nregión, por el que remite el Informe Técnico indicado en el vistos b) de esta\r\nresolución;\r\n\r\nd)\r\n\r\nLa Providencia N° 31, de 10/01/97, del Secretario Ejecutivo (S) del CORE,\r\nque informa que en la sesión N° 98, del 08/01/97, el CORE aprobó la\r\nRe actual iza don del Plan Regulador Comunal de Futrono;\r\n\r\ne)"
+ },
+ {
+  "id": "d0117",
+  "comuna": "gorbea",
+  "nombre_documento": "decreto_661_sanciona_acuerdo_que_aprueba_plan_regulador_comunal_de_gorbea_locali",
+  "archivo": "gorbea_decreto_661_sanciona_acuerdo_que_aprueba_plan_regulador_comunal_de_gorbea_locali__661.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0628",
+  "comuna": "gorbea",
+  "nombre_documento": "1013_aprueba_enmienda_al_plan_regulador_comunal_de_gorbea",
+  "archivo": "gorbea_1013_aprueba_enmienda_al_plan_regulador_comunal_de_gorbea__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE"
+  ],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1013 EXENTO, GORBEA (2015)\r\n\r\nDecreto 1013 EXENTO\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE GORBEA\r\nMUNICIPALIDAD DE GORBEA\r\nPublicación: 16-FEB-2016 | Promulgación: 21-DIC-2015\r\nVersión: Única De : 16-FEB-2016\r\nUrl Corta: https://bcn.cl/3o0r6\r\n\r\nAPRUEBA ENMIENDA AL PLAN REGULADOR COMUNAL DE GORBEA\r\nNúm. 1.013 exento.- Gorbea, 21 de diciembre de 2015.\r\nVistos:\r\n1. El DFL Nº 458, de 1975, de Vivienda y Urbanismo, Ley General de Urbanismo y\r\nConstrucciones.\r\n2. El DS Nº47, de 1992, Ordenanza General de Urbanismo y Construcciones.\r\n3. El decreto Nº 06 de fecha 25 de enero de 2012, del Minvu, que aprueba el\r\nproyecto parcial Plan Regulador Comunal de Gorbea, localidad de Gorbea.\r\n4. El Ord. Nº 192 de fecha 10 de febrero de 2015, del Alcalde de la comuna de\r\nGorbea, que solicita modificación del Plan Regulador Comunal.\r\n5. El Ord. Nº 458 de fecha 7 de abril de 2015, de la Seremi de Vivienda y\r\nUrbanismo Región de la Araucanía, que informa sobre modificación del Plan\r\nRegulador Comunal de Gorbea.\r\n6. El Ord. Nº 1.255 de fecha 19 de octubre de 2015, que solicita realizar\r\nenmiendas al Plan Regulador Comunal de Gorbea.\r\n7. El Acta de Sesión Ordinaria Nº 30 de fecha 27 de octubre de 2015, del\r\nConcejo Municipal de Gorbea, que aprobó la proposición de enmienda del Plan\r\nRegulador Comunal de Gorbea, para la Zona ZE, Equipamiento, mediante el Acuerdo Nº\r\n180.\r\n8. El Ord. Nº 1.182 de fecha 5 de octubre de 2015, del Sr. Alcalde de la comuna\r\nde Gorbea, que cita a reunión para "
+ },
+ {
+  "id": "d1057",
+  "comuna": "gorbea",
+  "nombre_documento": "decreto_1013_aprueba_enmienda_plan_regulador_comunal_de_gorbea",
+  "archivo": "gorbea_decreto_1013_aprueba_enmienda_plan_regulador_comunal_de_gorbea__1013.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1058",
+  "comuna": "gorbea",
+  "nombre_documento": "decreto_660_aprueba_el_termino_del_proceso_de_evalacion_ambiental_estrategica_de",
+  "archivo": "gorbea_decreto_660_aprueba_el_termino_del_proceso_de_evalacion_ambiental_estrategica_de__660.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0118",
+  "comuna": "graneros",
+  "nombre_documento": "41498_plan_regulador_comunal_de_graneros",
+  "archivo": "graneros_41498_plan_regulador_comunal_de_graneros__463b8d82-b5ff-4d5c-92b5-6aa25af41a66.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0119",
+  "comuna": "graneros",
+  "nombre_documento": "41498_plan_regulador_comunal_la_compania",
+  "archivo": "graneros_41498_plan_regulador_comunal_la_compania__bde7553e-e6b2-4d41-b8fa-310bb8afdb15.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0120",
+  "comuna": "graneros",
+  "nombre_documento": "decreto_113_dispongase_realizar_el_estudio_de_actualizacion_del_plan_regulador_c",
+  "archivo": "graneros_decreto_113_dispongase_realizar_el_estudio_de_actualizacion_del_plan_regulador_c__4936bd95-cdbf-4c07-a5ca-70d140a49210.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0121",
+  "comuna": "graneros",
+  "nombre_documento": "decreto_alcaldicio_1091_inicio_aprobacion_plan_regulador",
+  "archivo": "graneros_decreto_alcaldicio_1091_inicio_aprobacion_plan_regulador__45aa604b-a0fc-4916-a1b0-c98595463b38.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0122",
+  "comuna": "graneros",
+  "nombre_documento": "decreto_alcaldicio_172_dispongase_inicio_al_procedimiento_de_enmienda_no1_al_pla",
+  "archivo": "graneros_decreto_alcaldicio_172_dispongase_inicio_al_procedimiento_de_enmienda_no1_al_pla__1ed85ad7-0f70-4956-bdc3-dd2d4ea5215f.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "inicio_proceso"
+  ],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara enmienda prc; convive con patron de tramite 'inicio_proceso' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0123",
+  "comuna": "graneros",
+  "nombre_documento": "decreto_alcaldicio_494_apruebase_la_enmienda_no1_al_plan_regulador_comunal",
+  "archivo": "graneros_decreto_alcaldicio_494_apruebase_la_enmienda_no1_al_plan_regulador_comunal__c44f802f-efa2-4eaf-98b0-ac7f3674a665.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0124",
+  "comuna": "graneros",
+  "nombre_documento": "decreto_alcaldicio_964_enmienda_al_plan_regulador_comunal",
+  "archivo": "graneros_decreto_alcaldicio_964_enmienda_al_plan_regulador_comunal__73cf2f26-dfd4-4a42-9694-8d0fe85dd818.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 1,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH2"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIOAD DE\r\n\r\ng(t,\r\n\r\nGRANEROS\r\n\r\nDECRETO\r\n\r\nEXENTO.N' I\r\n\r\nGraneros'\r\n\r\n.\r\n\r\nos st? ?025\r\n\r\nLA ALCALDIA DECRETO HOY LO OUE §IGUE:\r\nVIST()S:\r\n\r\n1.\r\n\r\nLas facultades que me confiere la ley Orgánica Constitucional de Municipal¡dades No 18.695,\r\n\r\nen particular el artículo 3' letras b, e. y el artÍculo 65' en su letra b.\r\n\r\n2.\r\n3.\r\n4.\r\n5.\r\n\r\nLo establec¡do en la ley N' 19.880, sobre Procedim¡entos Administrativos.\r\nEl DFL N' 458, DE 1975, Ley General de Urbanismo y Construcciones.\r\nEl DS (V. y U.) N' 47, de 1992, 0rdenanza General de Urbanismo y Construcciones.\r\n\r\nCert¡ficado N'357 de Secretaria Municipal Suplente, de fecha27.06.2024 respecto al Acuerdo\r\n\r\nde Conce¡o Municipal que acordó por la unanimidad de los conceJales presentes, aprobar la Enmienda\r\n\r\nN'1 al Plan Regulador Comunal, a través de la Sub-zona \"ZH2-A\", denominada Zona Hab¡tacional\r\nMedia A en sector de calle Gabr¡ela Mistral, que modifica la norma urbana de antejardÍn a 3,0 metros.\r\n\r\n6.\r\n\r\nDecreto N'494 de fecha 05.07.2024 que aprueba la Enmienda N'1 al Plan Regulador Comunal\r\n\r\naprobado por decreto N'48.1 del 22 de jun¡o del 201 6 y publicado en Diario 0ficial el 2 de jul¡o de 2016\r\n\r\nen conformidad a lo ¡nd¡cado en la Memoria de Enmienda N'1, lnforme de Enmienda y Síntesis del\r\nprocedimiento para Enm¡enda.\r\n\r\nC()NSIDEBANDO:\r\n\r\n1.\r\n\r\n0ue, cumpl¡do el procedimiento normado por la Ley General de Urbanismo y Construcciones y\r\n\r\nla ordenanza General de Urbanismo y Construcciones, respecto de lo señalado en e"
+ },
+ {
+  "id": "d0125",
+  "comuna": "graneros",
+  "nombre_documento": "decreto_exento_481_aprobacion_plan_regulador_de_la_comuna_de_graneros",
+  "archivo": "graneros_decreto_exento_481_aprobacion_plan_regulador_de_la_comuna_de_graneros__d70b2719-89cd-48b6-820e-97dd82cf6e58.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 39,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "antejardin": 1,
+   "usos_de_suelo": 3,
+   "articulado": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "GRANEROS\r\nNUEVA CIUDAD\r\nILUSTRE MUNICIPALIDAD DE GRANEROS\r\n\r\nDirección de Obras Municipales\r\n\r\nDECRETO EXENTO N°:\r\nGRANEROS:\r\n\r\n481\r\n' ~ ' /\r\n\r\n22 J(/JV fl/Jfi\r\n\r\nLA ALCALDÍA DECRETÓ: La aprobación del\r\nRegulador de la Comuna de Graneros.\r\n\r\nPlan\r\n\r\nVISTOS:\r\n1 ° La Constitución Política de la República de Chile; la Ley N° 18.575, Orgánica Constitucional sobre Bases\r\nGenerales de la Administración del Estado; la Ley N° 19.880, que Establece Bases de los Procedimientos\r\nAdministrativos que rigen los actos de los órganos de la Administración del Estado; los Decretos con Fuerza\r\nde Ley N° 458 de 1975, Ley General de Urbanismo y Construcciones; el Decreto Supremo N° 47 de 1992\r\nde Ministerio de Vivienda y Urbanismo; Ordenanza General de la Ley General de Urbanismo y\r\nConstrucciones; la Resolución N° 1.600 del 30 de octubre de 2008 de la Coníraloría General de la República\r\nque fijó normas sobre exención del Trámite de Toma de razón; la Ley N° 20.713 del 18 de diciembre de\r\n2013 de Presupuesto del Sector Público para el año 2014 y la demás normativa aplicable; las facultades\r\nque me confiere la Ley N° 18.695, Orgánica Constitucional de Municipalidades.\r\nCONSIDERANDO:\r\n1.\r\n\r\nQue, sobre el particular el artículo 65, letra b) de la Ley N° 18.695, Orgánica Constitucional de\r\nMunicipalidades, dispone que corresponderá al Honorable Concejo Comunal aprobar el Plan Regulador\r\nComuna!, los Planes Seccionales y sus planos de detalle.\r\n\r\n2.\r\n\r\nQue en Ord. N° 674 de fecha 18 de Julio de 2014 e"
+ },
+ {
+  "id": "d0629",
+  "comuna": "graneros",
+  "nombre_documento": "481_dispuso_la_aprobacion_del_plan_regulador_de_la_comuna_de_graneros",
+  "archivo": "graneros_481_dispuso_la_aprobacion_del_plan_regulador_de_la_comuna_de_graneros__Plan Regulador Graneros, Diario oficial descarga.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.498.Año CXXXIX - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\n\r\nla Pesca Artesanal, en las macrozonas que\r\nindica. .................................................... P.2\r\n\r\nNormas Generales\r\n\r\nSubsecretaría de Pesca y Acuicultura\r\n\r\nPODER EJECUTIVO\r\n\r\nExtracto de resolución número 2.034\r\nexenta, de 2016, que modifica resolución\r\nNº 3.522 exenta, de 2015....................... P.3\r\n\r\nMINISTERIO DE\r\nRELACIONES EXTERIORES\r\n\r\nServicio Nacional\r\nde Pesca y Acuicultura\r\nDirección Nacional\r\n\r\nResolución número 1.622 exenta, de\r\n2016.- Designa orden de subrogancia de\r\nfuncionarios que actuarán como Director\r\nGeneral de Asuntos Consulares y de\r\nInmigración..........................................P.1\r\nMINISTERIO DE ECONOMÍA,\r\nFOMENTO Y TURISMO\r\nDecreto número 509 exento, de 2016.Fija nuevo orden de subrogación de la\r\nSubsecretaria de Economía y Empresas\r\nde Menor Tamaño, y deja sin efecto decreto\r\nN° 215 exento, de 2014. ......................P.2\r\nExtracto de resolución número 112\r\nexenta, de 2016, que oficializa designación\r\nconjunta de los consejeros titulares y\r\nsuplentes, representantes de los pescadores\r\nartesanales en el Consejo de Fomento para\r\n\r\nEdición de 28 páginas\r\nSantiago, Sábado 2 de Julio de 2016\r\n\r\nResolución número 627 exenta, de\r\n2016.- Autoriza comercialización de\r\nproducto"
+ },
+ {
+  "id": "d0630",
+  "comuna": "graneros",
+  "nombre_documento": "494_aprueba_enmienda_n_1_al_plan_regulador_comunal",
+  "archivo": "graneros_494_aprueba_enmienda_n_1_al_plan_regulador_comunal__2704892.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "altura_maxima": 1,
+   "densidad": 1,
+   "agrupamiento": 11,
+   "antejardin": 5,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "normas_urbanisticas": 5,
+   "zonificacion": 2,
+   "usos_de_suelo": 5,
+   "ordenanza_local_txt": 2,
+   "articulado": 9
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZH2",
+   "ZONA"
+  ],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 44.269\r\n\r\n|\r\n\r\nMiércoles 8 de Octubre de 2025\r\n\r\n|\r\n\r\nPágina 1 de 3\r\n\r\nNormas Generales\r\nCVE 2704892\r\n\r\nMUNICIPALIDAD DE GRANEROS\r\n\r\nAPRUEBA ENMIENDA N° 1 AL PLAN REGULADOR COMUNAL\r\nNúm. 494.- Graneros, 5 de julio de 2024.\r\nVistos:\r\n1.- La necesidad de modificar la norma urbanística de \"antejardín\" en un área de calle\r\nGabriela Mistral, donde se autorizó un anteproyecto de edificación N° 2, del 11 de agosto de\r\n2015, de acuerdo al anterior plan regulador comunal aprobado por decreto N° 115, de fecha 23\r\nde julio de 1985, que consultaba para la zona H-4 un antejardín de 3,0 m. La construcción\r\ndestinada a sala cuna y jardín infantil de un total de 1.198,2 m2, de la Junta Nacional de Jardines\r\nInfantiles, estaba proyectado para atender parte de la población vulnerable de la comuna de\r\nGraneros.\r\n2.- El permiso de edificación N° 3, de fecha 13 de enero de 2017, por 1.199,594 m2,\r\ncorrespondiente al Jardín Infantil y Sala Cuna \"Nuevo Amanecer\", a emplazarse en calle\r\nGabriela Mistral N° 180, rol 149-5, conforme al Plan Regulador vigente en la comuna de\r\nGraneros, a partir de la fecha de su publicación en el Diario Oficial el 11 de julio de 2016, que\r\nconsulta la autorización especial de acoger una superficie de 57,429 m2 al Art. 124º de la Ley\r\nGeneral de Urbanismo y Construcciones.\r\n3.- La solicitud de prórroga en Ord. N° 938,"
+ },
+ {
+  "id": "d0631",
+  "comuna": "graneros",
+  "nombre_documento": "517_modifica_plan_regulador_de_graneros_y_plan_regulador_intercomunal_de_rancagu",
+  "archivo": "graneros_517_modifica_plan_regulador_de_graneros_y_plan_regulador_intercomunal_de_rancagu__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "intercomunal",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZE-1"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "PRI_INTERCOMUNAL",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara pri intercomunal",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 517, GRANEROS (2000)\r\n\r\nDecreto 517\r\nMODIFICA PLAN REGULADOR\r\nINTERCOMUNAL DE RANCAGUA\r\n\r\nDE\r\n\r\nGRANEROS\r\n\r\nY\r\n\r\nPLAN\r\n\r\nREGULADOR\r\n\r\nMUNICIPALIDAD DE GRANEROS\r\nPublicación: 05-DIC-2000 | Promulgación: 08-NOV-2000\r\nVersión: Única De : 05-DIC-2000\r\nUrl Corta: https://bcn.cl/3onmw\r\n\r\nMODIFICA PLAN REGULADOR DE GRANEROS Y PLAN REGULADOR INTERCOMUNAL DE RANCAGUA\r\nGraneros, 8 de noviembre de 2000.- La alcaldía decretó hoy lo que sigue:\r\nNúm. 517.- Considerando:\r\n1º.- La necesidad de modificación del Plan Regulador Comunal de Graneros e\r\nIntercomunal de Rancagua, referido a la Vialidad Interna del Sector Nor/Oriente de la\r\nZona Urbana.\r\n2º.- Los artículos Nº 43 y 45 de la Ley General de Urbanismo y Construcciones\r\n- DFL 458 de fecha 18/12/1975.\r\n3º.- La Ordenanza General de Urbanismo y Construcciones, Art. 2.1.7 del Título 2 de la Planificación, Capítulo 1.\r\n4º.- La aprobación por acuerdo del Concejo Municipal de Graneros de fecha 11\r\nde octubre del 2000.\r\n5º.- Lo dispuesto en las circulares Nº 64.230 de 1978 y Nº 25 de 1980 ambas\r\nde la Contraloría General de la República.\r\nVistos: Las facultades que me confiere la ley Nº 18.695, Orgánica\r\nConstitucional de Municipalidades;\r\nD e c r e t o :\r\n1º.- Apruébase la modificación del Plan Regulador Comunal de Graneros y del\r\nPlan Regulador Intercomunal de Rancagua, referido a la Vialidad Interna del Sector\r\nNor/Oriente de la Zona Urbana de Graneros, de acuerdo a los Planos 1/1, 2/2 y su\r\ncorrespondiente Ordenanza de fecha junio de"
+ },
+ {
+  "id": "d0632",
+  "comuna": "hualqui",
+  "nombre_documento": "982_aprueba_enmienda_n_1_plan_regulador_comunal_de_hualqui_que_deja_sin_exigenci",
+  "archivo": "hualqui_982_aprueba_enmienda_n_1_plan_regulador_comunal_de_hualqui_que_deja_sin_exigenci__2483025.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "antejardin": 3,
+   "normas_urbanisticas": 2
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nI\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 43.834\r\n\r\n|\r\n\r\nMiércoles 24 de Abril de 2024\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nNormas Generales\r\nCVE 2483025\r\n\r\nMUNICIPALIDAD DE HUALQUI\r\n\r\nAPRUEBA ENMIENDA N° 1 PLAN REGULADOR COMUNAL DE HUALQUI QUE\r\nDEJA SIN EXIGENCIA DE LA NORMA URBANÍSTICA ANTEJARDÍN PARA LA\r\nZONA B3\r\nNúm. 982.- Hualqui, 15 de abril de 2024.\r\nVistos:\r\na) El Plan Regulador Comunal de Hualqui, aprobado mediante decreto alcaldicio N° 5.656\r\ndel 8 de septiembre de 2016.\r\nb) El decreto N° 1.495 del 25 de marzo de 2017 que Promulga Actualización Plan\r\nRegulador Comunal de Hualqui.\r\nc) Artículo N° 43 y N° 45 de la Ley General de Urbanismo y Construcciones.\r\nd) Artículos N° 2.1.11 y N° 2.1.13 de la Ordenanza General de Urbanismo y\r\nConstrucciones.\r\ne) Ordenanza de Participación Ciudadana de la Municipalidad de Hualqui, aprobada a través\r\ndel decreto N° 4.116 del 11 de agosto del 2011.\r\nf) Las facultades que me confiere la Ley N° 18.695 \"Orgánica Constitucional de\r\nMunicipalidades\" y sus posteriores modificaciones;\r\nConsiderando:\r\na) El memorándum N° 7 del 20 de julio de 2023 del Administrador del Cementerio\r\nMunicipal que informa problemática.\r\nb) El objetivo de permitir la regularización de los recintos existentes en los cementerios\r\npúblicos y privados comunales y, además, posibilitar la construcción de obras complementarias\r\nen las áreas de acceso"
+ },
+ {
+  "id": "d0633",
+  "comuna": "huasco",
+  "nombre_documento": "1017_aprueba_actualizacion_de_plan_regulador_comuna_de_huasco",
+  "archivo": "huasco_1017_aprueba_actualizacion_de_plan_regulador_comuna_de_huasco__DIARIO OFICIAL PLAN REGULADOR 1893191.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 42,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ocupacion_suelo": 2,
+   "predial_minima": 6,
+   "altura_maxima": 1,
+   "agrupamiento": 2,
+   "antejardin": 4,
+   "adosamiento": 2,
+   "distanciamiento": 3,
+   "normas_urbanisticas": 8,
+   "zonificacion": 6,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 11,
+   "articulado": 30,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {
+   "txt_solicitud": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 13,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 13 senales normativas (ocupacion_suelo, predial_minima, altura_maxima, agrupamiento)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nSECCIÓN\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 42.880\r\n\r\nSábado 13 de Febrero de 2021\r\n\r\nPágina 1 de 42\r\n\r\nNormas Generales\r\nCVE 1893191\r\nMUNICIPALIDAD DE HUASCO\r\nAPRUEBA ACTUALIZACIÓN DEL PLAN REGULADOR COMUNAL DE HUASCO\r\nNúm. 172 exento.- Huasco, 5 de febrero de 2021.\r\nVistos:\r\n1. La comuna de Huasco se encuentra regida por el IPT Pricostero de Atacama, vigente desde\r\nfecha 27 de agosto de 2019, en el cual define normas urbanísticas supletorias dentro del límite urbano,\r\nmientras se apruebe un IPT de escala Comunal, y la necesidad de dotar a la comuna de Huasco de un\r\ninstrumento de planificación territorial IPT actualizado que responda a las proyecciones presentes y\r\nfuturas del territorio comunal.\r\n2. El Convenio Mandato Completo e Irrevocable, de fecha 22 de junio de 2015 suscrito entre\r\nIlustre Municipalidad de Huasco y el Gobierno Regional de Atacama, para la realización del estudio\r\n“Actualización y Desarrollo del Plan Regulador Comuna de Huasco”, aprobado mediante resolución\r\nexenta Nº 66 de fecha 14 de julio de 2015.\r\n3. El decreto exento 3.368 de fecha 8 de septiembre de 2016, mediante el cual se da inicio al\r\nproceso de Evaluación Ambiental Estratégica (EAE) del Estudio y Actualización del Plan Regulador\r\nComunal de Huasco.\r\n4. El “extracto acto administrativo de Inicio del proceso de Evaluación Ambiental Estratégica para\r\nla Actualización y Desarrollo del Plan Regulador de Huasco” publicado en la sección IV del Diario\r\nOficial de"
+ }
+]

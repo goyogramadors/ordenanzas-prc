@@ -1,0 +1,46 @@
+{
+  "id": "los_lagos_4ececfecdd",
+  "comuna": "los_lagos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\los_lagos_144_el_decreto_n_144_de_280695_de_la_i_municipalidad_de_los_lagos_por_el_cual_ap__Ordenanza_Comunal_PRC_LOS_LAGOS.pdf",
+  "rangos": [
+    [
+      5,
+      6
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "ORDENANZA ORIGINAL PRC Los Lagos (Decreto 144/1995, publicado DO 31-12-1996, 8 pags catalogadas = paginas fisicas 16-23 del DO aprox). Normas EN TEXTO (OCR de columnas, algo desordenado pero legible). p5-6: TODAS las zonas con usos permitidos/prohibidos + Normas Especificas (superficie predial min, frente predial min, COS, densidad bruta, agrupamiento, altura max, antejardin min): ZU-1 a ZU-7 (urbanas), ZEx-1 a ZEx-5 (extension urbana/industrial), ZP-1 a ZP-7 (proteccion: faja via ferrea, Ruta 5 Sur, riesgo inundacion, ESSAL, ENDESA, cementerio, pendientes). p6 tail: arranca art.26 vialidad estructurante (cuadro de calles), ya es tabla de VIALIDAD. p7-8: continua vialidad (art.26-27) y CIERRA el decreto Los Lagos ('Tomese razon... Rabindranath Quinteros'); INMEDIATAMENTE DESPUES, en la misma pagina 8, arranca un aviso DE OTRA COMUNA: 'MUNICIPALIDAD DE EL BOSQUE - MODIFICA ORDENANZA N9 SOBRE SERVICIO DOMICILIARIO DE ASEO' -- es tema de aseo, no PRC, y de otra comuna; NO atribuir a Los Lagos (trampa 'comuna ajena' del Diario Oficial).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:49:24",
+  "fin": "2026-07-15T14:52:40",
+  "resultado": {
+    "archivo": "extraccion_normas\\los_lagos\\los_lagos_144_ordenanza_original_19zonas_pag5-6.md",
+    "zonas": 19,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZEx-1",
+      "ZEx-2",
+      "ZEx-3",
+      "ZEx-4",
+      "ZEx-5",
+      "ZP-1",
+      "ZP-2",
+      "ZP-3",
+      "ZP-4",
+      "ZP-5",
+      "ZP-6",
+      "ZP-7"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza original completa: 19 zonas (7 urbanas + 5 extension + 7 restriccion) todas transcritas integras desde el render (texto OCR legible pese a desorden de columnas). Art.26 vialidad al final de p6 es tabla de vialidad, no de zona, no transcrita. Trampa comuna ajena confirmada en p7-8 (El Bosque, aseo domiciliario) -- no aplica a este rango [5,6], ya excluida por Fase 3. Coincide con nota_fase3."
+  }
+}

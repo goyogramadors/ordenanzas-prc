@@ -1,0 +1,28 @@
+{
+  "id": "curico_57376ec36d",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_3445_aprueba_modificacion_via_enmienda_a_la_ordenanza_local_del_plan_regulador_c__3445.pdf",
+  "rangos": [
+    [
+      3,
+      3
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Enmienda N3 PRC Curico. TRAMPA: pdftotext solo da el titulo 'ZU-10b ZONA RESIDENCIAL 10b'; el cuadro es IMAGEN (verificado en render). p3: NORMAS DE SUBDIVISION Y EDIFICACION POR USOS zona ZU-10b (predial 140/1750/1050 m2, COS 0,26/0,52, CC 0,325/0,52, altura 13,2/8,4 m, antejardin 3,0 m residencial / 15 m via troncal-colectora / 10 m otra jerarquia, densidad 120 hab/ha). En la misma p3 hay una tabla de coordenadas UTM de vertices A-G: es geometria del poligono, NO norma.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:11:35",
+  "fin": "2026-07-15T14:13:25",
+  "resultado": {
+    "archivo": "extraccion_normas\\curico\\curico_3445_enmienda_n3_zu10b_pag3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-10b"
+    ],
+    "confianza": "ALTA",
+    "nota": "Trampa confirmada: cuadro es imagen, pdftotext solo daba el titulo. Transcrito integro: predial 140/1750/1050, COS 0,26/0,52, CC 0,325/0,52, altura 13,2/8,4, antejardin 3,0/15/10, densidad 120 hab/ha. Aplica solo al poligono A-G (geometria omitida, no es norma). Coincide con nota_fase3."
+  }
+}

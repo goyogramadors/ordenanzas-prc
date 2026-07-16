@@ -1,0 +1,25 @@
+{
+  "id": "chiguayante_af295a1ec6",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_1495_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2008__DECRETO 1495 2008.pdf",
+  "nombre": "chiguayante_1495_aprueba_enmienda_de_plan_regulador_comunal_de_chiguayante_2008__DECRETO 1495 2008.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T13:07:00",
+  "fin": "2026-07-14T15:29:23",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Dec.1495/2008 enmienda PRC: agrega parrafo final al art.17 Estacionamientos (reduce 30% la exigencia de estacionamientos para conjuntos de vivienda MINVU). OJO: la pagina es un recorte del Diario Oficial y mezcla avisos ajenos (acuicultura, tipos de cambio) por OCR de la publicacion completa. Es norma urbanistica pero de estacionamientos, no de zona: no aporta COS/CC/altura/usos."
+  }
+}

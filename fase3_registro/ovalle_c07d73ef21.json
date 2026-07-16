@@ -1,0 +1,25 @@
+{
+  "id": "ovalle_c07d73ef21",
+  "comuna": "ovalle",
+  "ruta": "Ordenanzas ordenadas\\ovalle_decreto_exento_9144_promulgase_la_actualizacion_y_modificacion_al_plan_regulador__9144.pdf",
+  "nombre": "ovalle_decreto_exento_9144_promulgase_la_actualizacion_y_modificacion_al_plan_regulador__9144.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 40,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:40:36",
+  "fin": "2026-07-15T08:43:06",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        20,
+        33
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto exento9144 promulga Ordenanza Local PRC Ovalle. Titulo II Zonificacion de Usos de Suelo y Normas Especificas: Art.8-10 pag20-22 tablas ZCH1/ZCH2 (Conservacion Historica); Art.11 pag23 estandares estacionamiento (intercalada); Art.12 pag24 catalogo 16 zonas (ZC1-4,ZU1-9,ZAP,ZAV,ZCH1-2,AR1-2); Art.13 pag25-32 tablas detalladas por zona (superficie predial minima, densidad, COS/coef.constructibilidad, agrupamiento, altura maxima, antejardin) para ZC1,ZC2(pag25), ZU3,ZU4(pag28), ZU9,ZAP(pag31), ZAV(pag32); Art.14 pag32 Areas Riesgo AR1/AR2 remite a normas de zona base. Pag33 inicia Titulo III Vialidad Urbana, excluida."
+  }
+}

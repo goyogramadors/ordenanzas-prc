@@ -1,0 +1,441 @@
+[
+ {
+  "id": "d0672",
+  "comuna": "la_union",
+  "nombre_documento": "117_modificacion_del_plan_regulador_comunal_de_la_union",
+  "archivo": "la_union_117_modificacion_del_plan_regulador_comunal_de_la_union__10504_PRC_LAUNION_MD_DO_117_12.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "predial_minima": 1,
+   "altura_maxima": 1,
+   "agrupamiento": 5,
+   "antejardin": 1,
+   "rasante": 1,
+   "adosamiento": 1,
+   "distanciamiento": 1,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 3,
+   "articulado": 14
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZR-8",
+   "ZU"
+  ],
+  "puntaje_normativo": 11,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nJueves 15 de Noviembre de 2012\r\n\r\nCuerpo I - 2\r\n\r\nYUAN\r\nEURO\r\nDEG\r\n\r\n77,80\r\n617,36\r\n739,09\r\n\r\n6,224700\r\n0,784400\r\n0,655209\r\n\r\nTipo de cambio que rige para efectos del Capítulo II.B.3. Sistemas de\r\nreajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº0507-900105) del Compendio de Normas Financieras.\r\nSantiago, 14 de noviembre de 2012.- Miguel Ángel Nacrur Gazali, Ministro\r\nde Fe.\r\n\r\nNº 40.410\r\n\r\nPREDICCIÓN DE LA DISTANCIA AL CONTORNO CLASE A\r\n\r\n*\r\n\r\nTIPO DE CAMBIO PARA EFECTOS DEL NÚMERO 7 DEL\r\nC A PÍTULO I DEL COMPENDIO DE NORMAS DE CAMBIOS\r\nINTERNACIONALES\r\nEl tipo de cambio “dólar acuerdo” a que se refiere el inciso primero del Nº7\r\ndel Capítulo I del Compendio de Normas de Cambios Internacionales fue de\r\n$697,36 por dólar, moneda de los Estados Unidos de América, para el día 14 de\r\nnoviembre de 2012.\r\nSantiago, 14 de noviembre de 2012.- Miguel Ángel Nacrur Gazali, Ministro\r\nde Fe.\r\n\r\nEsta publicación se hace de conformidad al artículo 27° de la ley N° 18.838,\r\nmodificada por la ley N° 19.131, que dispone un plazo de treinta días para que las\r\npersonas naturales o jurídicas que se consideren afectadas por esta modificación de\r\nconcesión formulen su oposición ante este Consejo.\r\nSantiago, 20 de agosto de 2012.\r\nGUILLERMO LAURENT RONDA\r\nSecretario General\r\nConsejo Nacional de Televisión\r\n\r\nGobierno Regional XIV Región de Los Ríos\r\nPROMULGA MODIFICACIÓN DEL PLAN REGULADOR COMUNAL\r\nDE LA UNIÓN, REGIÓN DE LOS RÍOS\r\n(Resolu"
+ },
+ {
+  "id": "d0673",
+  "comuna": "la_union",
+  "nombre_documento": "2278_aprueba_modificacion_al_plan_regulador_sector_oriente_el_manzanal",
+  "archivo": "la_union_2278_aprueba_modificacion_al_plan_regulador_sector_oriente_el_manzanal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2278, LA UNIÓN (1998)\r\n\r\nDecreto 2278\r\nAPRUEBA MODIFICACION AL PLAN REGULADOR SECTOR ORIENTE EL\r\nMANZANAL\r\nMUNICIPALIDAD DE LA UNIÓN\r\nPublicación: 17-AGO-1998 | Promulgación: 27-JUL-1998\r\nVersión: Única De : 17-AGO-1998\r\nUrl Corta: https://bcn.cl/xGh6GP\r\n\r\nAPRUEBA MODIFICACION AL PLAN REGULADOR SECTOR ORIENTE EL MANZANAL\r\nNúm. 2.278.- La Unión, 27 de julio de 1998.-Vistos:\r\n1.- La resolución afecta Nº 31, del Gobierno Regional de Los Lagos, de fecha\r\n23 de junio de 1998, que aprueba la Modificación al Plan Regulador de la Comuna de\r\nLa Unión, sector oriente: ''El Manzanal'';\r\n2.- Lo establecido en el D.F.L. Nº 458 de Vivienda y Urbanismo y lo previsto en\r\nla Ordenanza General de Urbanismo y Construcciones y teniendo presente, además, las\r\nfacultades que me confiere la ley Nº 18.695, Orgánica Constitucional de\r\nMunicipalidades;\r\nD e c r e t o:\r\nPublíquese, en forma íntegra, la resolución singularizada en el número 1\r\nprecedente, en el Diario Oficial de la República y un extracto en un diario de los\r\nde mayor circulación de la comuna.\r\nAnótese, comuníquese y archívese.- Elfrida Ojeda Obando, Alcaldesa.- Marcela\r\nVera Urra, Secretaria Municipal.\r\n\r\nBiblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 09-Jul-2026\r\n\r\npágina 1 de 1"
+ },
+ {
+  "id": "d0674",
+  "comuna": "la_union",
+  "nombre_documento": "2900_enmienda_al_plan_regulador_comunal_de_la_union_en_lo_que_se_refiere_al_arti",
+  "archivo": "la_union_2900_enmienda_al_plan_regulador_comunal_de_la_union_en_lo_que_se_refiere_al_arti__DTO-2900 EXENTO_10-MAY-2013.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1,
+   "articulado": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZU-4"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Tipo Norma\r\nFecha Publicación\r\nFecha Promulgación\r\nOrganismo\r\nTítulo\r\nTipo Versión\r\nInicio Vigencia\r\nId Norma\r\nURL\r\n\r\n:Decreto 2900 EXENTO\r\n:10-05-2013\r\n:18-04-2013\r\n:MUNICIPALIDAD DE LA UNIÓN\r\n:COMPLEMENTA ACUERDO Nº 1.480, DE 2012\r\n:Única\r\nDe : 10-05-2013\r\n:10-05-2013\r\n:1050896\r\n:https://www.leychile.cl/N?i=1050896&f=2013-05-10&p=\r\n\r\nCOMPLEMENTA ACUERDO Nº 1.480, DE 2012\r\nNúm. 2.900 exento.- La Unión, 18 de abril de 2013.- Vistos:\r\n1.- El Acuerdo Nº 100, adoptado por el Concejo Municipal en sesión ordinaria\r\nde fecha 16 de abril de 2013.\r\n2.- Las facultades que me confiere la Ley Nº 18.695, Orgánica Constitucional\r\nde Municipalidades, y sus posteriores modificaciones.\r\nDecreto:\r\nEl Concejo Municipal, por unanimidad de sus miembros, acuerda complementar el\r\nAcuerdo Nº 1.480, de fecha 28 de noviembre de 2012, quedando como sigue:\r\n\"El Concejo Municipal, por unanimidad de sus miembros, aprueba la enmienda al\r\nPlan Regulador Comunal de La Unión, en lo que se refiere al artículo 13 párrafo 11\r\nde la Ordenanza Local. Modifíquese la cantidad de estacionamientos para la Zona ZU-4\r\nde acuerdo a lo siguiente:\r\nSalud en Zona ZU-4. Se modifica exigencia de 1 cada 40 metros cuadrados a 1 cada\r\n52 metros cuadrados.\r\nDeporte en Zona ZU-4. Se modifica de 1 cada 24 espectadores a 1 cada 31\r\nespectadores.\r\nLo anterior, acorde al decreto exento Nº 1.085, de fecha 14 de febrero de 2012,\r\nque dio inicio al trámite de enmienda de acuerdo a lo establecido en la Ley General\r\nde Urbanismo y Constru"
+ },
+ {
+  "id": "d0675",
+  "comuna": "la_union",
+  "nombre_documento": "9132_decreto_alcaldicio_n_9132_del_20122014_aprueba_enmienda_al_plan_regulador_c",
+  "archivo": "la_union_9132_decreto_alcaldicio_n_9132_del_20122014_aprueba_enmienda_al_plan_regulador_c__do-20141220.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 3,
+   "zonificacion": 1,
+   "articulado": 31
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZONA"
+  ],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS Y DECRETOS DE ORDEN GENERAL\r\nNúm. 41.037.Año CXXXVII - Nº 815.596 (M.R.)\r\n\r\nSUMARIO\r\nNormas Generales\r\nPODER EJECUTIVO\r\nMINISTERIO DE\r\nRELACIONES\r\nEXTERIORES\r\n\r\nEjemplar del día..................$200.- (IVA incluido)\r\nAtrasado..............................$400.- (IVA incluido)\r\n\r\nel artíc u l o 1 2 0 C d e l a\r\nLey General d e P e s c a y\r\nAcuicultura, en los\r\nt é r m i n o s que indica.......P.4\r\nMINISTERIO DE\r\nJUSTICIA\r\nServicio de Registro Civil e\r\nIdentificación\r\nDirección Nacional\r\n\r\nDecreto número 216.Promulga la Decisión\r\nN°1/2013 adoptada por la\r\nComisión de Libre Comercio\r\ndel Tratado de Libre Comercio\r\nentre Chile y China..........P.2\r\n\r\nResolución número 361\r\nexenta.- Establece valor en\r\nmoneda corriente que se\r\ncobrará por los salvoconductos\r\npara la zona fronteriza Arica Tacna..................................P.5\r\n\r\nMINISTERIO DE\r\nECONOMÍA, FOMENTO\r\nY TURISMO\r\n\r\nMINISTERIO DEL\r\nTRABAJO Y PREVISIÓN\r\nSOCIAL\r\n\r\nSubsecretaría de Pesca y\r\nAcuicultura\r\n\r\nSuperintendencia de\r\nPensiones\r\n\r\nServicio Nacional de Pesca\r\ny Acuicultura\r\n\r\nResolución número E-2202014.- Autoriza existencia\r\ny aprueba estatutos de\r\nAdministradora de Fondos\r\nd e P e n s i o n e s A rg e n t u m\r\nS.A.....................................P.5\r\n\r\nDirección Nacional\r\nResolución número 4.831\r\nexenta.- Modifica resolución\r\nN°1.449 exenta, de 2009,\r\nque estableció medidas de\r\nmanejo sanitario por área, en\r\nla actualidad agrupaciones de\r\nconcesiones......................P.3\r"
+ },
+ {
+  "id": "d0676",
+  "comuna": "la_union",
+  "nombre_documento": "9_plan_regulador_de_la_comuna_de_la_union_aprobado_a_traves_de_resolucion_afecta",
+  "archivo": "la_union_9_plan_regulador_de_la_comuna_de_la_union_aprobado_a_traves_de_resolucion_afecta__358b4fPRC-La_20Uni_C3_B3n.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 43,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 7,
+   "articulado": 8,
+   "limite_urbano": 4
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 5 senales normativas (zonificacion, usos_de_suelo, ordenanza_local_txt, articulado)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR DE LA UNION\r\nORDENANZA LOCAL\r\n\r\nCAPITULO I\r\n\r\nDISPOSICIONES GENERALES\r\nArtículo 1\r\n\r\nLas disposiciones de la presente Ordenanza Local contienen las normas\r\nreferidas a límite urbano, zonificación, usos de suelo, condiciones de\r\nsubdivisión predial, de edificación, de urbanización y vialidad, las que\r\nregirán dentro del área territorial del plan, graficada en los planos LUN – 01,\r\nLUN – 02, LUN – 03 y LUN - 04, en adelante el Plano, y que\r\ncomplementan la información gráfica contenida en él.\r\n\r\nArtículo 2\r\n\r\nEl área de aplicación del Plan correspondiente al área urbana comprendida\r\nen la línea poligonal cerrada 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-1718-19-20-1, que la delimita y que constituye el límite urbano, cuyos puntos\r\ny tramos se describen en el artículo 6 de la presente Ordenanza Local.\r\n\r\nArtículo 3\r\n\r\nTodas aquellas materias atingentes al desarrollo urbano que no se\r\nencontraren normadas en la presente Ordenanza Local, se regirán por las\r\ndisposiciones de la Ley General de Urbanismo y Construcciones, de la\r\nOrdenanza General de Urbanismo y Construcciones y de las demás\r\ndisposiciones legales y reglamentarias vigentes sobre la materia.\r\n\r\nArtículo 4\r\n\r\nDe conformidad a la Ley General de Urbanismo y Construcciones,\r\ncorresponde a la Dirección de Obras Municipales de La Unión la\r\nresponsabilidad en la aplicación de las normas de la presente Ordenanza\r\nLocal y a la Secretaría Ministerial de Vivienda y Urbanismo de la Xa.\r\nRegión de Los Lagos, la supervis"
+ },
+ {
+  "id": "d0342",
+  "comuna": "lago_ranco",
+  "nombre_documento": "2_aprueba_plano_regulador_seccional_ignao_plano_y_ordenanza_de_la_comuna_de_lago",
+  "archivo": "lago_ranco_2_aprueba_plano_regulador_seccional_ignao_plano_y_ordenanza_de_la_comuna_de_lago__485d582f-2af8-4bb5-baca-1f388863e420.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "seccional",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0677",
+  "comuna": "lago_ranco",
+  "nombre_documento": "700_modifica_nombre_de_calles_de_plan_regulador_comunal",
+  "archivo": "lago_ranco_700_modifica_nombre_de_calles_de_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "ordenanza_local_txt": 1
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 700 EXENTO, LAGO RANCO (1997)\r\n\r\nDecreto 700 EXENTO\r\nMODIFICA NOMBRE DE CALLES DEL PLAN REGULADOR COMUNAL\r\nMUNICIPALIDAD DE LAGO RANCO\r\nFecha Publicación: 14-AGO-1997 | Fecha Promulgación: 27-MAY-1997\r\nTipo Versión: Única De : 14-AGO-1997\r\nUrl Corta: https://bcn.cl/3pd9f\r\n\r\nMODIFICA NOMBRE DE CALLES DEL PLAN REGULADOR COMUNAL\r\nNúm. 700 exento.- Lago Ranco, 27 de mayo de 1997.- Vistos y teniendo presente:\r\n1.- Las facultades que me confiere la Ley Nº 18.695, Orgánica Constitucional\r\nde Municipalidades modificada por la Ley Nº 19.130, de marzo de 1992;\r\n2.- El acuerdo tomado por el Concejo Municipal en Reunión Ordinaria, celebrada\r\nel 21 de noviembre de 1996;\r\n3.- El Actual Plan Regulador Comunal y la Ordenanza Local;\r\nD e c r e t o:\r\n1.- Modifíquese, el nombre de las siguientes calles del Plan Regulador Comunal:\r\nCalle Santiago por Valdivia entre Puerto Montt y Linares; Calle Valdivia por Santiago\r\nentre Puerto Montt y Linares.\r\nLas presentes modificaciones, comenzarán a regir una vez publicada en el Diario\r\nOficial.\r\nAnótese, publíquese en el Diario Oficial, comuníquese y archívese.- Eduardo\r\nEspinosa Rettig, Alcalde.- Juana Alvarez Reyes, Secretaria Municipal.\r\n\r\nBiblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 10-Jul-2026\r\n\r\npágina 1 de 1"
+ },
+ {
+  "id": "d1097",
+  "comuna": "lago_ranco",
+  "nombre_documento": "antecedentes_de_la_modificacion_del_plan_regulador_comunal_de_lago_ranco_acompan",
+  "archivo": "lago_ranco_antecedentes_de_la_modificacion_del_plan_regulador_comunal_de_lago_ranco_acompan__Exento2927.PDF",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0343",
+  "comuna": "laja",
+  "nombre_documento": "598_rectifica_decreto_alcaldicio_no_2777_de_22092011_que_enmienda_el_plan_regula",
+  "archivo": "laja_598_rectifica_decreto_alcaldicio_no_2777_de_22092011_que_enmienda_el_plan_regula__DA 598 de 2013.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0344",
+  "comuna": "laja",
+  "nombre_documento": "plan_regulador_laja",
+  "archivo": "laja_Plan_Regulador_Laja.pdf",
+  "veredicto_capa_texto": "VACIO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto VACIO: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1098",
+  "comuna": "laja",
+  "nombre_documento": "106_resolucion_no_106_gobierno_regional_del_bio_bio_promulga_el_plan_regulador_c",
+  "archivo": "laja_106_resolucion_no_106_gobierno_regional_del_bio_bio_promulga_el_plan_regulador_c__DO_Plan_Regulador.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 15,
+  "paginas_escaneadas": 15,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1099",
+  "comuna": "laja",
+  "nombre_documento": "2777_aprueba_enmienda_al_plan_regulador_comunal_de_laja_prcl",
+  "archivo": "laja_2777_aprueba_enmienda_al_plan_regulador_comunal_de_laja_prcl__DECRETO 2777.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0345",
+  "comuna": "lanco",
+  "nombre_documento": "plan_regulador",
+  "archivo": "lanco_plan_regulador__fdec62f8-98e6-451c-92cf-20601cc6eb85.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 30,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 1,
+   "ordenanza_local_txt": 4,
+   "articulado": 35,
+   "limite_urbano": 10
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZON1",
+   "ZON2",
+   "ZONA",
+   "ZU1",
+   "ZU2",
+   "ZU3",
+   "ZU4",
+   "ZU5"
+  ],
+  "puntaje_normativo": 9,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 9 senales normativas (agrupamiento, normas_urbanisticas, zonificacion, usos_de_suelo)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "PLAN REGULADOR DE LANCO\r\n\r\nETAPA V: PRESENTACIÓN FINAL\r\n\r\nPLAN REGULADOR COMUNAL DE LANCO\r\n\r\nOrdenanza Local\r\nDiciembre de 2011.\r\n\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo - Ilustre Municipalidad de Lanco\r\nPlanificación, Arquitectura y Construcciones. PAC Ltda.\r\n\r\nSecretaría Regional Ministerial de Vivienda y Urbanismo - Ilustre Municipalidad de Lanco\r\nPlanificación, Arquitectura y Construcciones. PAC Ltda.\r\n\r\n\f2\r\n\r\nINDICES DE CONTENIDOS:\r\nCapítulo I: DE LAS DISPOSICIONES GENERALES. ....................................................................................... 3\r\nSubcapítulo 1: De las normas de competencia. ............................................................................................. 3\r\nArtículo 1°: De los alcances y componentes precepti vos. .............................................................................. 3\r\nArtículo 2°: Del límite urbano. ................... ...................................................................................................... 3\r\nArtículo 3°: De las reglas y referencias generales. ......................................................................................... 3\r\nArtículo 4°: Del diseño de la vialidad urbana. .... ............................................................................................. 3\r\nArtículo 5°: De las contravenciones e incumplimient os. ................................................................................. 3\r\nSubcapítulo 2: Descripción del "
+ },
+ {
+  "id": "d1100",
+  "comuna": "lanco",
+  "nombre_documento": "5674_aprueba_plan_regulador_comuna_de_lanco",
+  "archivo": "lanco_5674_aprueba_plan_regulador_comuna_de_lanco__Diario oficial - Plan regulador.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

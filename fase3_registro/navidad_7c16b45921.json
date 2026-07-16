@@ -1,0 +1,25 @@
+{
+  "id": "navidad_7c16b45921",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_resolucion_afecta_aprueba_reformulacion_plan_regulador_comunal_de_navidad__ad5c1efd-b09d-4033-8bac-8b656f591f00.pdf",
+  "nombre": "navidad_resolucion_afecta_aprueba_reformulacion_plan_regulador_comunal_de_navidad__ad5c1efd-b09d-4033-8bac-8b656f591f00.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 77,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:06:23",
+  "fin": "2026-07-14T21:09:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        35,
+        55
+      ]
+    ],
+    "paginas_utiles": 21,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "reformulación PRC completa: Capítulo IV Zonificación/Uso Suelo/Normas Específicas (art.24), pág35 encabezado+listado zonas, pág36-55 tabla normativa completa por zona (A1,A1c,A2-A7c,B,BCD,C,E,EB1,EB2,ZR-1,R1-R6,P1) con usos permit./prohib., densidad, COS, CC, altura máxima, rasante, agrupamiento, antejardín, cierros, superficie predial mínima; texto nativo"
+  }
+}

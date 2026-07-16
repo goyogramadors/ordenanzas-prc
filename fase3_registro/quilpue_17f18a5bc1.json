@@ -1,0 +1,25 @@
+{
+  "id": "quilpue_17f18a5bc1",
+  "comuna": "quilpue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quilpue_2732_aprueba_actualizacion_al_plan_regulador_comunal_de_quilpue__2732.pdf",
+  "nombre": "quilpue_2732_aprueba_actualizacion_al_plan_regulador_comunal_de_quilpue__2732.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 79,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:19:11",
+  "fin": "2026-07-14T21:23:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        28,
+        51
+      ]
+    ],
+    "paginas_utiles": 24,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "actualización PRC completa 2019: Cap.5 Normas Urbanísticas (Art.5.1) pág28(ZR1/ZR2)-51(hasta AVI4), todas las tablas de zona (usos de suelo + condiciones edificación) embebidas como IMAGEN, verificado visualmente en pág28,29,35,45,50,51. Pág51 termina Art.5.2 Incentivos; pág52 trae tablas de incentivos (no núcleo por zona) antes de Cap.6"
+  }
+}

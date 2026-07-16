@@ -1,0 +1,25 @@
+{
+  "id": "puerto_montt_15db6c56f0",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_decreto_exento_promulga_la_aprobacion_de_enmienda_al_plan_regulador_comunal_de_p__Decreto-13945-EXENTO_25-OCT-2016.pdf",
+  "nombre": "puerto_montt_decreto_exento_promulga_la_aprobacion_de_enmienda_al_plan_regulador_comunal_de_p__Decreto-13945-EXENTO_25-OCT-2016.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:01:56",
+  "fin": "2026-07-15T08:04:25",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        11
+      ]
+    ],
+    "paginas_utiles": 9,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Decreto 13945 (2016) enmienda PRC Puerto Montt. Pag3-4 tabla escaneada estandares minimos estacionamientos por uso de suelo (confirmada pag4). Pag5-7 poligono exencion estacionamientos (mapa, contenido contiguo). Pag8-9 Art.3 altera normas urbanisticas Art.36 por Zona (Zona1-17: antejardin minimo, COS, superficie predial minima, normas especiales uso suelo), tabla escaneada confirmada visual pag9. Pag10-11 Art.4 altera normas Art.38 por Zona (Zonas37-47: subdivision predial minima, antejardin, COS, coef.constructibilidad, densidad bruta max), confirmada visual pag11. Duplicado exacto de puerto_montt_fc7a77ebee."
+  }
+}

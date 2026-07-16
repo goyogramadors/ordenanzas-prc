@@ -1,0 +1,20 @@
+{
+  "id": "pedro_aguirre_cerda_ec12d6b3b8",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_solitico_informacion_sobre_plan_regulador_de_la_poblacion_los_maitenes_y_permiso__95b52ed3-fcfc-4e9d-9ea1-b5ae5f75c516.pdf",
+  "nombre": "pedro_aguirre_cerda_solitico_informacion_sobre_plan_regulador_de_la_poblacion_los_maitenes_y_permiso__95b52ed3-fcfc-4e9d-9ea1-b5ae5f75c516.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:10:35",
+  "fin": "2026-07-14T21:11:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: respuesta de transparencia (solicitud MU205T0001221, sobre PRC de poblacion Los Maitenes y permisos). Sin normas. Candidato a descarte."
+  }
+}

@@ -1,0 +1,597 @@
+[
+ {
+  "id": "d0389",
+  "comuna": "lo_espejo",
+  "nombre_documento": "agradeceria_indiarme_la_situacion_o_el_estado_de_la_elaboracion_del_plan_regulad",
+  "archivo": "lo_espejo_agradeceria_indiarme_la_situacion_o_el_estado_de_la_elaboracion_del_plan_regulad__c6c88705-879b-4248-a422-ccc2283a8f42.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0390",
+  "comuna": "lo_espejo",
+  "nombre_documento": "buenas_tardes_se_solicita_el_plano_y_la_ordenanza_del_plan_regulador_que_rige_a",
+  "archivo": "lo_espejo_buenas_tardes_se_solicita_el_plano_y_la_ordenanza_del_plan_regulador_que_rige_a___9df467f5-3706-42dc-80ba-b65eec5577a1.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "ordenanza_local",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara ordenanza prc; convive con patron de tramite 'solicitud_ciudadana' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0391",
+  "comuna": "lo_espejo",
+  "nombre_documento": "estimadao_espero_que_se_encuentre_bien_solicito_informacion_sobre_los_planes_reg",
+  "archivo": "lo_espejo_estimadao_espero_que_se_encuentre_bien_solicito_informacion_sobre_los_planes_reg__3bbe55c6-5736-4284-88e5-8dd98cb957c5.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0392",
+  "comuna": "lo_espejo",
+  "nombre_documento": "solicita_envio_ordenanza_y_plano_uso_suelo_del_plan_regulador_comunal_vigente",
+  "archivo": "lo_espejo_solicita_envio_ordenanza_y_plano_uso_suelo_del_plan_regulador_comunal_vigente__e1ab93f7-c946-46b4-b7de-eb5d997425d6.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0393",
+  "comuna": "lo_prado",
+  "nombre_documento": "decreto_exento_1021_actualizacion_plan_regulador_de_lo_prado",
+  "archivo": "lo_prado_decreto_exento_1021_actualizacion_plan_regulador_de_lo_prado__e75e5727-40e2-455d-a12b-6cc40420b837.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 21,
+  "paginas_escaneadas": 20,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Secretaría Municipal\r\n\r\nDECRETO EXENTO N° 1021\r\nMAT.:\r\n\r\nAPRUEBA Y RATIFICA CONVENIO MANDATO\r\nCON\r\nEL\r\nGOBIERNO\r\nREGIONAL\r\nMETROPOLITANO\r\nDE\r\nSANTIAGO\r\nPARA\r\nACTUALIZACION DEL PLAN REGULADOR\r\nCOMUNA DE LO PRADO, CODIGO BIP N°\r\n40008928-0\r\n\r\nLO PRADO, 28.05.2020\r\nLA ALCALDIA DECRETO HOY:\r\nV l S T O S :\r\n\r\nEl Memorandum N° 239 de fecha 22 de abril de 2020, de la Directora de\r\nSECPLA, el cual remite la Resolución exenta N° 20 de fecha 12 de mayo\r\nde 2020, que aprueba convenio Mandato entre el Gobierno Regional,\r\nRegión Metropolitana con la Municipalidad de Lo Prado, para solicitar que\r\nmediante decreto alcaldicio la “Actualización Plan Regulador Comuna de\r\nLo Prado”; y\r\n\r\nTENIENDO PRESENTE\r\n\r\n:\r\n\r\nD E C R E T O\r\n\r\nLa delegación de funciones, dispuesta por decreto alcaldicio N° 080 de\r\nfecha 20 de enero de 2005, modificado por decreto alcaldicio, Materia de\r\nPersonal N°068 de fecha 24 de enero de 2020.\r\n:\r\n\r\n1.-\r\n\r\nApruébase y Ratificase por este acto, el Convenio Mandato suscrito con\r\nfecha 24 de febrero de 2020, entre el Gobierno Regional Metropolitano,\r\nrepresentado por el Sr. Intendente de la Región Metropolitana de\r\nSantiago, Felipe Guevara Stephens para la “Actualización Plan\r\nRegulador Comuna de Lo Prado”, Código Bip N°40008928-0\r\n(según Res. Exenta N°20 de fecha 12 de marzo de 2020) y cuyo texto se\r\nadjunta al presente acto administrativo y entiende forma parte integrante\r\ndel mismo.\r\nANÓTESE, COMUNIQUESE Y ARCHIVESE.\r\n\r\nCARMEN GORROÑO VELASCO\r\nSECRETARIA MUNICIPAL\r\n\r\nGON"
+ },
+ {
+  "id": "d0394",
+  "comuna": "lo_prado",
+  "nombre_documento": "estimados_me_gustaria_que_me_enviaran_la_ultima_version_del_plan_regulador_de_lo",
+  "archivo": "lo_prado_estimados_me_gustaria_que_me_enviaran_la_ultima_version_del_plan_regulador_de_lo__7c6599d1-5289-4f1f-98ec-82887e1ce125.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 39,
+  "paginas_escaneadas": 39,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0784",
+  "comuna": "lo_prado",
+  "nombre_documento": "2550_aprueba_plan_regulador_comuna_de_lo_prado",
+  "archivo": "lo_prado_2550_aprueba_plan_regulador_comuna_de_lo_prado__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 34,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 8,
+   "usos_de_suelo": 20,
+   "ordenanza_local_txt": 16,
+   "articulado": 28,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 6,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 2550, LO PRADO (2009)\r\n\r\nDecreto 2550\r\nAPRUEBA PLAN REGULADOR COMUNA DE LO PRADO\r\nMUNICIPALIDAD DE LO PRADO\r\nFecha Publicación: 31-DIC-2009 | Fecha Promulgación: 16-DIC-2009\r\nTipo Versión: Última Versión De : 06-ENE-2026\r\nTexto derogado: 06-ENE-2026;Decreto-1372\r\nUltima Modificación: 06-ENE-2026 Decreto 1372\r\nUrl Corta: https://bcn.cl/BJEOFP\r\n\r\nAPRUEBA PLAN REGULADOR COMUNA DE LO PRADO\r\nLo Prado, 16 de diciembre de 2009.- La Alcaldía decretó hoy:\r\nNúm. 2.550.- Vistos: Lo dispuesto en los artículos 41, 42, 43 y siguientes de\r\nla Ley General de Urbanismo y Construcciones; lo señalado en los artículos 2.1.10 y\r\nsiguientes de la Ordenanza General de Urbanismo y Construcciones y lo establecido en\r\nlos artículos 5 letras d) y k), 6, 12, 63 letra i) y 65 letra b) de la Ley Nº\r\n18.695 – Orgánica Constitucional de Municipalidades; la Resolución Exenta Nº\r\n636, de 11 de agosto de 2008 de la COREMA Región Metropolitana; el Memorándum Nº\r\n256, de 6 de octubre de 2009 del Director de SECPLA que remite Oficio Ordinario Nº\r\n142, de 13 de enero de 2009 del Secretario Regional Ministerial Metropolitano de\r\nVivienda y Urbanismo; y el Memorándum Nº 303, de 10 de diciembre de 2009, del\r\nDirector de SECPLA y el visto bueno del Alcalde puesto al margen del referido\r\ndocumento,\r\nConsiderando:\r\n1º.- Que, en sesión extraordinaria Nº 1, del Concejo, celebrada con fecha 15\r\nde enero de 2008, éste acordó iniciar el proceso de aprobación del Plan Regulador\r\nComunal de Lo Prado, dándose inicio al "
+ },
+ {
+  "id": "d0785",
+  "comuna": "lonquimay",
+  "nombre_documento": "421_apruebese_la_enmienda_al_plan_regulador_comunal",
+  "archivo": "lonquimay_421_apruebese_la_enmienda_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "articulado": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 79, LONQUIMAY (1986)\r\n\r\nDecreto 79\r\nREAJUSTA PERMISOS MUNICIPALES QUE SEÑALA\r\nMUNICIPALIDAD DE LONQUIMAY\r\nFecha Publicación: 23-SEP-1986 | Fecha Promulgación: 26-AGO-1986\r\nTipo Versión: Única De : 23-SEP-1986\r\nUrl Corta: https://bcn.cl/3nh36\r\n\r\nREAJUSTA PERMISOS MUNICIPALES QUE SEÑALA\r\nNúm. 79.- Lonquimay, 26 de Agosto de 1986.- Vistos estos antecedentes: Las\r\nfacultades que me confiere la Ley de Municipalidades vigente y en uso de las\r\natribuciones que me otorga el Decreto Ley No. 1.289 Ley Orgánica de Municipalidades,\r\nDecreto Ley No. 3.063 Ley de Rentas Municipales y Ordenanza Municipal No. 05 de fecha\r\n02 de Enero de 1986,\r\nDecreto:\r\nNo. 1.- Reajústase en un 17%, los permisos municipales expresados en pesos,\r\ncorrespondiente al Segundo Semestre del año 1986, de acuerdo al porcentaje del alza\r\ndel costo de la vida, indicado por el Instituto Nacional de Estadísticas, a contar\r\ndel 26 de Agosto de 1986 y que se indican a continuación:\r\nTítulo V - Derechos de Matadero, Artículo 8° - Valores por derechos de\r\nmatanza incluyendo el traslado.\r\n\r\n1.- Vacunos\r\n2.- Caballares\r\n3.- Lanares\r\n4.- Cerdos vareros\r\n5.- Cerdos cecineros\r\n\r\n$ 1.381,00\r\n1.009,00\r\n245,00\r\n345,00\r\n691,00\r\n\r\nTítulo VI - Guías de Libre Tr nsito para animales y otros, Artículo 9°.-\r\n\r\n1.- Por cada vacuno, caballar o cerdo\r\n2.- Por cada lanar y otro\r\n\r\n$ 23,00\r\n13,00\r\n\r\nNo. 2.- Modifícase los derechos municipales, que a continuación se indican:\r\nTítulo VI - Derechos de Guías de Libre Tr nsito para animales"
+ },
+ {
+  "id": "d0395",
+  "comuna": "los_andes",
+  "nombre_documento": "estimados_deseo_tener_informacion_del_plano_regulador_de_la_ciudad_de_los_andes",
+  "archivo": "los_andes_estimados_deseo_tener_informacion_del_plano_regulador_de_la_ciudad_de_los_andes___762a3892-93c2-4ae1-a955-a27b2314fe20.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "遼\r\nI. MUN喜Cil)▲L=)▲D Dじ\r\n\r\nLOS\r\nDtR田CCiON DE O櫨ll・1S\r\n\r\nORD∴\r\nANT\r\n\r\n∧NDES\r\n\r\n̲134̲/\r\n\r\n: SollCl†ud de lnfo「maci6n NOMU152TOOOO248\r\n\r\nde fecha 29‑05‑2016.\r\n\r\nMAT. : Da「espues†a a losolici†ado\r\n\r\nLos Andes. Lunes O6 de Junio de1 2016.\r\n\r\nDE :\r\n\r\nDiRECTORA DE OBRAS i. MUNiCIPAしiDAD DEしOS ANDES\r\n\r\nA :\r\n\r\nENCARGADA PAGiNA DE TRAN§PARENCiA MUNiCiPAしl. MJNICiPAしIDAD DE\r\n\r\nしOS\r\n\r\nAND各§.\r\n上\r\n\r\nPo「 ln†ermedIO del presen†e y en relac16n a la documen†aci6n 「eque「ida median†e\r\nSOiici†ud de lnfo「mac16n sefialada en el\r\n\r\nAn†eceden†e\r\n\r\n. realizada por par†e del Sr\r\n\r\nAddn Fuen†es Bu「gos言nfo「mo a us†ed que la informaci6n sobre Pian Regulador\r\nComunal v)gen†e de la Comuna de Los Andes, Se enCUen†ra a dlSPOSici(in en la\r\nPdgina de Transparencia MuniCIPa上Para e=o debe ingresar a:\r\n\r\na) (WWW.mUnllosandescl, /lcono T「an§PCI「enCIo (Ubicado en e=ado supe「lO「\r\nderecho de la pan†alla) / Trcln§ParenCia MunicIpcII (ublCado al cos†ado\r\nizquierdo de la pan†aila) / lcono Plan ReguIado「 comunaI\"\r\n\r\nb) O bien ing「esa「a †ravesdeslgUien†ellnk\r\nh††○://WWW.†「ansparencia.1osandes・Cl/index.DhD?oD†ion=COm臆COn†en†&viewこ\r\n\r\nca†eao「v&lavout=bloa &id=73&l†emld=227\r\n\r\n∴岨\r\n\r\nP S嵩㌫ d。 T「。.SP。.。n。,。 , M. A\r\n‑\r\n\r\nDIreC†o「 Depa「†amen†0 」ur(d'C0 1MLA\r\n\r\n‑\r\n\r\nArchivo.\r\n\r\n‑\r\n\r\nCorrela†lVO"
+ },
+ {
+  "id": "d0396",
+  "comuna": "los_andes",
+  "nombre_documento": "estimados_junto_con_saludar_les_consulto_lo_siguiente_1_en_que_etapa_del_proceso",
+  "archivo": "los_andes_estimados_junto_con_saludar_les_consulto_lo_siguiente_1_en_que_etapa_del_proceso__5ff69d15-e393-45fa-a4ac-eee8e45e4bf8.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0397",
+  "comuna": "los_andes",
+  "nombre_documento": "solicito_informacion_de_la_ordenanza_que_aprueba_el_plan_regulador_de_la_comuna",
+  "archivo": "los_andes_solicito_informacion_de_la_ordenanza_que_aprueba_el_plan_regulador_de_la_comuna___3ea41589-e2aa-4247-aa5e-8a2549a26bc9.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "aprueba_prc",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el nombre declara ordenanza prc; convive con patron de tramite 'solicitud_ciudadana' -> revisar",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0398",
+  "comuna": "los_andes",
+  "nombre_documento": "solicito_plan_regulador_de_del_sector_villa_el_remando",
+  "archivo": "los_andes_solicito_plan_regulador_de_del_sector_villa_el_remando__06ab4460-da59-4879-8515-3f7af85c8bf6.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 1,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "solicitud_ciudadana"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "el nombre es una solicitud ciudadana de transparencia, no un acto normativo (menciona el PRC solo como objeto de la consulta)",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "！．hilrヽICil，＾1．Ii）▲D DIil，OSJ＼TtlDES\r\n\r\nI）lRi−（l−iONi）1㌔（）1州1S\r\n\r\nORD：＿＿＿123＿＿＿＿／\r\n\r\nANT Soiici†ud deinformqcidn N。MU152TOOOO239\r\n\r\ndefech013−05−2016．\r\n\r\nMAT DqrespueS†00IosoIICI†odo\r\n\r\nLosAndeS，MierCOiesl8deMqYOdeI2016．\r\n\r\nD［：\r\nA：\r\n\r\nDIR［CTORADEeBRASl．MUNiCiPALIDADDl：LOSANDES\r\ntNCARGADA PAGINA D［TRANSPARENCIA MJNiCIPALl．MJNICIPALIDAD DE LOS\r\n\r\nANDES．\r\n1−\r\n\r\nPorln†ermediOdeipreSen†eYenreiocibnoiodocumentoci（5nrequeridomedIOnle\r\nsoiiCi†ud deinformqciOn sehoiqdqeneI\r\n\r\niAn†eceden†e−1，reqilZqdq porpqrledeiq\r\n\r\nSrq MorねCq†oIinOAiiendeS，inform00USlediosigUIen†e\r\n\r\nl En cuqn100Pion reguiodordelSec†or ViIio EIRemcln50′Se hqce necesqrlO\r\ninformqr que no exi5†en pIqnoS regUIodores porIo†eo・SinO qUe UnO q n一Vei\r\n\r\ncomunqlquereguIoiozonqUrbonqdeioComunqdeLOSAndeS\r\n2\r\n\r\nDe ocuerd00lo qnleriOrlnform00USted que el PIon RegUlqdor Comunoi\r\n\r\nVigentesuOrdenonzoYPiqn−me而q′SeenCUentrqqdiSPOSiCIdneniopoginO\r\n\r\nmunlCiPqi\r\n…pI／WWtronSPqrenCICllosqndescl／indexphpテOPtiOn＝COm＿COn†enはVTew＝\r\ncq†egory＆lcIYOU†＝bIog＆id＝738Jlemld＝227・\r\n\r\nSInOtropor†ICUIor，Soiudqqten†omen†eouS†edes\r\n\r\nパ五 言子諒／\r\nMONICA\r\n\r\n。。苦悶課，V，，\r\nDIR［CTORADEqBRASMJNICIPALtS\r\nMCV／し［［／I請\r\nDISTR旧UCION：\r\n\r\nEncqrgododeTrclnSPOrenCiqlMLA\r\n−\r\n\r\nDlreCIorDepqr†qmentoJuridicoiMLA\r\n\r\n−\r\n\r\nArchiVO\r\nCorreiq†i＞○\r\n\r\n／∴∴し"
+ },
+ {
+  "id": "d0399",
+  "comuna": "los_angeles",
+  "nombre_documento": "acuerdo_1036_20_aprueba_informe_de_la_comision_secplan_y_las_propuestas_contenid",
+  "archivo": "los_angeles_acuerdo_1036_20_aprueba_informe_de_la_comision_secplan_y_las_propuestas_contenid__110-Cent%C3%A9sima-d%C3%A9cima-s.o.-20.01.2020.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 28,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "articulado": 2
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ACTA SESION ORDINARIA DEL CONCEJO MUNICIPAL\r\nSiendo las ocho horas con treinta y nueve minutos del día\r\nlunes veinte de enero del año dos mil veinte, el Alcalde de la comuna, don Esteban\r\nKrause Salazar, en nombre de Dios, abre la CENTÉSIMA DÉCIMA SESIÓN\r\nORDINARIA del Concejo Municipal, con la asistencia de las concejalas, señora Yasna\r\nQuezada Valdebenito y señora Lidia Martínez Herrera y de los concejales, señor Víctor\r\nSalazar Acuña, señor Eduardo Velásquez Lagos, señor Zenón Jorquera Figueroa, señor\r\nDaniel Urrutia Muñoz y señor Daniel Badilla Cofré. Se encuentra presente además la\r\nseñora María Olivia Cole Medina, Directora (S) de la Secplan y Secretaria Técnica del\r\nConcejo Municipal. Actúa como Secretario y Ministro de Fe, el señor Jorge Mellado\r\nHidalgo, Secretario Municipal.\r\n1.1 APROBACIÓN DEL ACTA: CENTÉSIMA NOVENA SESIÓN ORDINARIA.\r\n Es aprobadas por unanimidad.\r\n1.2 LECTURA DE CORRESPONDENCIA.\r\n- Correspondencia Despachada:\r\n\r\n Ord. N° 31 de fecha 15 de enero de 2020, dirigido a las señoras y señores\r\nParlamentarios(as), a través del cual, se les solicita revisar la Ley de Patentes de\r\nAlcoholes.\r\n Ord. N° 32 de fecha 15 de enero de 2020, dirigido al Prefecto (S) de Carabineros,\r\nseñor Gonzalo Leiva Martínez, a través del cual, se le solicita una mayor\r\nfiscalización a las carreras clandestinas.\r\n Ord. N° 32 de fecha 15 de enero de 2020, dirigido al Gobernador Provincial de\r\nBío Bío, señor Vladimir Fica Espinoza, a través del cual, se le solicita instruir a\r"
+ },
+ {
+  "id": "d0400",
+  "comuna": "los_angeles",
+  "nombre_documento": "acuerdo_454_18_aprueba_solicitud_de_junta_de_vecinos_no_36_de_chacayal_sur_para",
+  "archivo": "los_angeles_acuerdo_454_18_aprueba_solicitud_de_junta_de_vecinos_no_36_de_chacayal_sur_para___052.Quincuag%C3%A9sima-segunda-s.o.-04.06.2018.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 51,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ACTA SESION ORDINARIA DEL CONCEJO MUNICIPAL\r\nSiendo las ocho horas con treinta y cuatro minutos del día lunes cuatro de junio del año\r\ndos mil dieciocho, el Alcalde señor Esteban Krause Salazar, actuando como Presidente del Concejo\r\nMunicipal, en nombre de Dios, abre la QUINCUAGÉSIMA SEGUNDA SESIÓN ORDINARIA del\r\nConcejo Municipal, con la asistencia de las concejalas; señora Myriam Quezada Pérez, señora\r\nYasna Quezada Valdebenito y señora Lidia Martínez Herrera y de los concejales; señor Aníbal\r\nRivas Díaz, señor Víctor Salazar Acuña, señor Zenón Jorquera Figueroa, señor Daniel Urrutia\r\nMuñoz y el señor Daniel Badilla Cofré. Se encuentra presente además la señora Ester Garstman\r\nDeyheralde, Directora de la SECPLAN y Secretaria Técnica del Concejo Municipal. Actúa como\r\nSecretario y Ministro de Fe, el señor Jorge Mellado Hidalgo, Secretario Municipal.\r\n1.1 APROBACIÓN DE LAS ACTAS:\r\nQUINCUAGÉSIMA PIMERA SESIÓN ORDINARIA\r\nTRIGÉSIMA SEGUNDA SESIÓN ORDINARIA\r\nTRIGÉSIMA TERCERA SESIÓN ORDINARIA\r\nAprobadas sin observaciones.\r\n1.2 LECTURA DE CORRESPONDENCIA.\r\nCorrespondencia despachada:\r\n● Ord. Nº 468 de fecha 25 de mayo de 2018, dirigido al Prefecto de Carabineros de Bio Bio\r\nTeniente Coronel John Polanco Espinoza, a través del cual se solicita que tenga a bien fiscalizar\r\nel comercio ambulante en el sector céntrico de la ciudad, con especial atención en el sector de la\r\nVega y la presencia del retén móvil en el lugar.\r\n● Ord. Nº 467 de fecha 25 de mayo de 2018, dirigido a Gobernado"
+ },
+ {
+  "id": "d0401",
+  "comuna": "los_angeles",
+  "nombre_documento": "acuerdo_487_aprueba_la_propuesta_de_la_comision_obras_sobre_restituir_el_nombre",
+  "archivo": "los_angeles_acuerdo_487_aprueba_la_propuesta_de_la_comision_obras_sobre_restituir_el_nombre___026-s.o.-19.08.2025.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 44,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 5
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "ACTA SESIÓN ORDINARIA DEL CONCEJO MUNICIPAL\r\nSiendo las nueve horas con cuatro minuto del día\r\nmartes diecinueve de agosto del año dos mil veinticinco, el señor Alcalde, don\r\nJosé Pérez Arriagada, abre la VIGÉSIMA SEXTA SESIÓN ORDINARIA del\r\nConcejo Municipal, con la presencia de las concejalas y concejales: Oriana\r\nOffermann Perelló, José Salcedo Contreras, Eduardo Velásquez Lagos,\r\nAlejandro Cano San Martín, José Bermedo Toro, Consuelo Perelló Bastías,\r\nZenón Jorquera Figueroa, Daniel Badilla Cofré y Víctor Salazar Acuña. Se\r\nencuentra presente el Administrador Municipal, señor Raúl Fuentes Pereira.\r\nActúa como Ministro de Fe el Secretario Municipal, señor Jorge Mellado Hidalgo.\r\n1.1 APROBACIÓN DEL ACTA: 25° SESIÓN ORDINARIA.\r\n Es aprobada por unanimidad. Se abstiene de votar el concejal Daniel Badilla\r\npor no haber asistido a dicha sesión.\r\n1.2 LECTURA DE CORRESPONDENCIA\r\n El Secretario Municipal, señor Jorge Mellado Hidalgo, da lectura a la\r\ncorrespondencia recibida y despachada.\r\nCorrespondencia Despachada:\r\n- Ord. N° 756 de fecha 14 de agosto de 2025, a Empresa Entel, a través del\r\ncual solicita la reposición de antena caída en sector Mortandad.\r\n- Ord. N° 757 de fecha 14 de agosto de 2025, a Ministro de Seguridad Pública,\r\na través del cual solicita exponer ante el concejo municipal sobre el\r\nfuncionamiento general del Ministerio.\r\n- Ord. N° 758 de fecha 14 de agosto de 2025, a Empresa KDM, a través del cual\r\nsolicita exponer ante el concejo municipal sobre proyecto "
+ },
+ {
+  "id": "d0786",
+  "comuna": "los_angeles",
+  "nombre_documento": "1426_apruebase_la_nomina_de_vias_a_desafectar_del_plan_regulador_comunal_de_los",
+  "archivo": "los_angeles_1426_apruebase_la_nomina_de_vias_a_desafectar_del_plan_regulador_comunal_de_los___2015-08-12-desafectar-plan-regulador.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 104,
+  "paginas_escaneadas": 41,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "menciona el PRC y trae algunas senales normativas, pero no basta para decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "I\r\n\r\nCUERPO\r\nLEYES, REGLAMENTOS, DECRETOS Y RESOLUCIONES DE ORDEN GENERAL\r\nNúm. 41.231.Año CXXXVIII - Nº 815.596 (M.R.)\r\n\r\nEjemplar del día.................... $200.- (IVA incluido)\r\nAtrasado................................ $400.- (IVA incluido)\r\n\r\nSUMARIO\r\nNormas Generales\r\nPODER EJECUTIVO\r\nMINISTERIO DE HACIENDA\r\nDecreto número 250 exento, de 2015.Determina el componente variable para el\r\ncálculo del impuesto específico establecido\r\nen la ley 18.502.......................................P.1\r\nMINISTERIO DE ECONOMÍA,\r\nFOMENTO Y TURISMO\r\nServicio Nacional del Consumidor\r\n\r\nproceso de postulación año 2015, convocatoria\r\npara pasantías de perfeccionamiento de\r\ncompetencias técnicas en el extranjero para\r\nformadores de técnicos de nivel superior, del\r\nPrograma Técnicos para Chile.................P.10\r\n\r\nintereses penales y multas por incumplimientos\r\na lo dispuesto en la ley N° 17.322...........P.74\r\n\r\nResolución número 5.492 exenta, de\r\n2015.- Aprueba bases y anexos que regirán el\r\nproceso de postulación año 2015, convocatoria\r\npara pasantías de perfeccionamiento de\r\ncompetencias técnicas en el extranjero para\r\nel sector técnico profesional de nivel superior,\r\ndel Programa Técnicos para Chile...........P.41\r\n\r\nSecretaría Regional Ministerial\r\nVIII Región del Biobío\r\n\r\nMINISTERIO DE OBRAS PÚBLICAS\r\nDecreto número 168, de 2015.- Acepta\r\nrenuncia voluntaria de don Javier Eduardo\r\nOsorio Sepúlveda al cargo de Director General\r\nde Obras Públicas. ...................................P."
+ },
+ {
+  "id": "d0787",
+  "comuna": "los_lagos",
+  "nombre_documento": "144_el_decreto_n_144_de_280695_de_la_i_municipalidad_de_los_lagos_por_el_cual_ap",
+  "archivo": "los_lagos_144_el_decreto_n_144_de_280695_de_la_i_municipalidad_de_los_lagos_por_el_cual_ap__Ordenanza_Comunal_PRC_LOS_LAGOS.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 8,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 14,
+   "predial_minima": 31,
+   "altura_maxima": 14,
+   "densidad": 14,
+   "agrupamiento": 38,
+   "antejardin": 16,
+   "rasante": 17,
+   "adosamiento": 6,
+   "distanciamiento": 3,
+   "zonificacion": 3,
+   "usos_de_suelo": 49,
+   "ordenanza_local_txt": 9,
+   "articulado": 67,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZEX-1",
+   "ZEX-2",
+   "ZEX-3",
+   "ZEX-4",
+   "ZEX-5",
+   "ZONA",
+   "ZP-1",
+   "ZP-2",
+   "ZP-3",
+   "ZP-4",
+   "ZP-5",
+   "ZP-6"
+  ],
+  "puntaje_normativo": 17,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 17 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nMartes 31 de Diciembre de. 1996\r\n\r\nN9 35.654\r\n\r\nGobierno Regional\r\nX Región de Los Lagos\r\n\r\nArtículo 3. Todas aquellas materias atingentes al desarrollo urbano que\r\nno se encuentren reguladas por la presente Ordenanza, se regirán por las\r\ndisposiciones de la Ley General de Urbanismo y Construcciones, de la Ordenanza\r\nGeneral de Urbanismo y Construcciones, y demás disposiciones legales y\r\nreglamentos vigentes sobre la materia.\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE LOS LAGOS\r\n(Resolución)\r\nPuerto Montt, 6 de septiembre de 1996.- Con esta fecha se ha dictado\r\nlo siguiente:\r\n\"\r\ní\r\nNúm. 77 afecta.- Vistos:\r\na)\r\n\r\nb)\r\n\r\n;\r\n\r\na\r\n\r\nEl Decreto Exento N 144, de 28/06/95, de la I. Municipalidad de Los Lagos\r\npor el cual se aprueba el Plan Regulador Comunal dé esa comuna, según\r\nlos planos PRC-LAG-01a y PRC-LAG-01b, denominados \"Plan Regulador\r\nComunal de Los Lagos\", confeccionado a escala 1:2000;\r\nLa Res. Ex. N° 398, de 30/10/95, de la Seremi de Vivienda y Urbanismo\r\nde esta región, la que aprueba el Informe Técnico del 23/10/95, del Jefe\r\ndel DDUI, de esa Seremi, por el que se recomienda acoger en forma\r\nfavorable la proposición de formulación del Plan Regulador Comunal de\r\nLos Lagos;\r\n\r\nc)\r\n\r\nEl oficio NB 1303, de 02/11/95, del Seremi de Vivienda y Urbanismo de\r\nesta región, por el que remite el Informe Técnico indicado en el vistos b)\r\nde esta resolución;\r\n\r\nd)\r\n\r\nEl oficio Na 010, de 17/11/95, del A.T.P., don Juan Leonhardt C, por el\r\nque se s"
+ },
+ {
+  "id": "d0788",
+  "comuna": "los_lagos",
+  "nombre_documento": "na_plan_regulador",
+  "archivo": "los_lagos_na_plan_regulador__Plan_Regulador_Comunal.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 12,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 14,
+   "predial_minima": 31,
+   "altura_maxima": 14,
+   "densidad": 14,
+   "agrupamiento": 38,
+   "antejardin": 16,
+   "rasante": 17,
+   "adosamiento": 6,
+   "distanciamiento": 3,
+   "zonificacion": 3,
+   "usos_de_suelo": 49,
+   "ordenanza_local_txt": 9,
+   "articulado": 67,
+   "limite_urbano": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "ZEX-1",
+   "ZEX-2",
+   "ZEX-3",
+   "ZEX-4",
+   "ZEX-5",
+   "ZONA",
+   "ZP-1",
+   "ZP-2",
+   "ZP-3",
+   "ZP-4",
+   "ZP-5",
+   "ZP-6"
+  ],
+  "puntaje_normativo": 17,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 17 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPÚBLICA DE CHILE\r\nMartes 31 de Diciembre de. 1996\r\n\r\nN9 35.654\r\n\r\nGobierno Regional\r\nX Región de Los Lagos\r\n\r\nArtículo 3. Todas aquellas materias atingentes al desarrollo urbano que\r\nno se encuentren reguladas por la presente Ordenanza, se regirán por las\r\ndisposiciones de la Ley General de Urbanismo y Construcciones, de la Ordenanza\r\nGeneral de Urbanismo y Construcciones, y demás disposiciones legales y\r\nreglamentos vigentes sobre la materia.\r\n\r\nAPRUEBA PLAN REGULADOR COMUNAL DE LOS LAGOS\r\n(Resolución)\r\nPuerto Montt, 6 de septiembre de 1996.- Con esta fecha se ha dictado\r\nlo siguiente:\r\n\"\r\ní\r\nNúm. 77 afecta.- Vistos:\r\na)\r\n\r\nb)\r\n\r\n;\r\n\r\na\r\n\r\nEl Decreto Exento N 144, de 28/06/95, de la I. Municipalidad de Los Lagos\r\npor el cual se aprueba el Plan Regulador Comunal dé esa comuna, según\r\nlos planos PRC-LAG-01a y PRC-LAG-01b, denominados \"Plan Regulador\r\nComunal de Los Lagos\", confeccionado a escala 1:2000;\r\nLa Res. Ex. N° 398, de 30/10/95, de la Seremi de Vivienda y Urbanismo\r\nde esta región, la que aprueba el Informe Técnico del 23/10/95, del Jefe\r\ndel DDUI, de esa Seremi, por el que se recomienda acoger en forma\r\nfavorable la proposición de formulación del Plan Regulador Comunal de\r\nLos Lagos;\r\n\r\nc)\r\n\r\nEl oficio NB 1303, de 02/11/95, del Seremi de Vivienda y Urbanismo de\r\nesta región, por el que remite el Informe Técnico indicado en el vistos b)\r\nde esta resolución;\r\n\r\nd)\r\n\r\nEl oficio Na 010, de 17/11/95, del A.T.P., don Juan Leonhardt C, por el\r\nque se s"
+ },
+ {
+  "id": "d0402",
+  "comuna": "los_sauces",
+  "nombre_documento": "oficio_501_adjunta_plan_regulador_comunal",
+  "archivo": "los_sauces_oficio_501_adjunta_plan_regulador_comunal__501.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ }
+]

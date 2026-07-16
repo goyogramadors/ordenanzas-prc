@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_ebb514dbd0",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_5_LAM._Ee5_y_UEe5_CAMINO_OTONAL_N1218.pdf",
+  "nombre": "las_condes_5_LAM._Ee5_y_UEe5_CAMINO_OTONAL_N1218.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T20:56:09",
+  "fin": "2026-07-14T20:56:50",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "LAMINA CARTOGRAFICA (plano) PRC Las Condes - Rectificacion Modificacion N.8, Plano de Uso de Suelo lamina 2: rectifica el area de edificacion UEe5 (uso de interes patrimonial), Camino Otoñal N.1218. Situacion anterior/actual + simbologia. Sin cuadro de parametros. Verificado por render."
+  }
+}

@@ -1,0 +1,680 @@
+[
+ {
+  "id": "d0070",
+  "comuna": "corral",
+  "nombre_documento": "decreto_exento_1094_inuicua_proceso_eae_plan_regulador_comunal_de_corral",
+  "archivo": "corral_decreto_exento_1094_inuicua_proceso_eae_plan_regulador_comunal_de_corral__2382367c-6b1a-4f2f-b6eb-e6c00ca7ff04.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0071",
+  "comuna": "corral",
+  "nombre_documento": "decreto_exento_1350_designa_como_contraparte_municipal_adecuacion_planes_regulad",
+  "archivo": "corral_decreto_exento_1350_designa_como_contraparte_municipal_adecuacion_planes_regulad__490abd92-ca8d-44eb-9430-7e70dba725b0.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0072",
+  "comuna": "corral",
+  "nombre_documento": "decreto_exento_1566_aprueba_enmienda_n_2_del_plan_regulador_comunal_de_corral_se",
+  "archivo": "corral_decreto_exento_1566_aprueba_enmienda_n_2_del_plan_regulador_comunal_de_corral_se__b094ba72-9a89-42c5-be5d-15a8f07540d2.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0073",
+  "comuna": "corral",
+  "nombre_documento": "decreto_exento_1904_aprueba_contratacion_directa_profesional_asesor_a_secplan_pa",
+  "archivo": "corral_decreto_exento_1904_aprueba_contratacion_directa_profesional_asesor_a_secplan_pa__09ef6a75-3ca4-41ed-96b1-ae4abccc7cbd.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0074",
+  "comuna": "corral",
+  "nombre_documento": "decreto_exento_1994_designa_como_contraparte_tecnica_y_administrativa_adecuacion",
+  "archivo": "corral_decreto_exento_1994_designa_como_contraparte_tecnica_y_administrativa_adecuacion__0d7def4c-e080-464a-91e4-f29fa29e5b50.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0075",
+  "comuna": "corral",
+  "nombre_documento": "decreto_exento_2651_aprueba_enmienda_n_1_del_plan_regulador_comunal_de_corral_se",
+  "archivo": "corral_decreto_exento_2651_aprueba_enmienda_n_1_del_plan_regulador_comunal_de_corral_se__707ddcc9-7670-41ce-b687-0a1fcf0caa6a.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 13,
+  "paginas_escaneadas": 13,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0602",
+  "comuna": "coyhaique",
+  "nombre_documento": "decreto_modifica_plan_regulador_de_coyhaique",
+  "archivo": "coyhaique_decreto_modifica_plan_regulador_de_coyhaique__ORDENANZAN5MODIFPLANREGULADOR30101997.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "zonificacion": 1,
+   "articulado": 13
+  },
+  "senales_tramite": {},
+  "codigos_zona": [
+   "Z-6",
+   "Z6"
+  ],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MUNICIPALIDAD DE COYHAIQUE\r\nXI REGIÓN AYSEN DEL GENERAL\r\nCARLOS\r\nIBAÑEZ DEL CAMPO\r\nC H I L E\r\n\r\nREF. :\r\n\r\nMODIFICACIÓN PLAN\r\nCOYHAIQUE.\r\n\r\nORDENANZA N° ' ^'\r\n\r\nOO\r\n\r\nREGULADOR\r\n\r\nDE\r\n\r\n//\r\n\r\nCOYHAIQUE, 3 o OCT.1997\r\nV I S T O S :\r\n\r\nLas atribuciones que me confiere la Ley N° 18.695,\r\nde fecha 31.03.88., Orgánica Constitucional de Municipalidades;\r\nlos artículos 43° y 45° de la Ley\r\nGeneral\r\nde\r\nUrbanismo y\r\nConstrucciones ( D.F.L. N°458 de 1975 ); los artículos 2.1.7 y\r\n2.1.13 de la Ordenanza General de Urbanismo\r\ny Construcciones\r\n( D.S.N°47 de 1992 ); el Fallo del Tribunal Electoral de fecha\r\n28.11.96, el Acta de la Sesión Constitutiva del Honorable Concejo\r\nde la Comuna de Coyhaique, de fecha 06 de Diciembre de 1996, y el\r\nart. 78° del Estatuto de Funcionarios Municipales, y\r\nCONSIDERANDO :\r\nEl Acuerdo N° 215 del Honorable Concejo Comunal, en\r\nSesión Ordinaria N° 36 del 20.10.97., para la Modificación del\r\nPlan Regulador de Coyhaique - Seccional \"Desafectación de Área\r\nVerde y modificación\r\nde la Vialidad Local\" sector Estadio\r\nMunicipal, dicto la siguiente,\r\nORDENANZA :\r\n\r\nArt.l0\r\n\r\nMODIFIQÚESE\r\nel\r\nPlan\r\nRegulador\r\nde\r\nCoyhaique,\r\naprobado\r\npor Resolución\r\nAfecta N° 067/97., del Gobierno Regional\r\nAysén, en el sentido de modificar la red\r\nvial ubicada en la intersección de la calle\r\nJ.M. Carrera y pasaje Obispo Michelatto, y\r\nredes tinar\r\nel\r\nárea\r\nen\r\nlotes\r\nde\r\nuso\r\nhabitacional y/o equipamiento turístico, de\r\nacuerdo a planos correspondientes.\r\n\r\nArt.2°\r\n\r\nDESTIÑESE e"
+ },
+ {
+  "id": "d0076",
+  "comuna": "curacautin",
+  "nombre_documento": "la_presente_ordenanza_tiene_por_objeto_conservar_educar_y_regular_las_acciones",
+  "archivo": "curacautin__la_presente_ordenanza_tiene_por_objeto_conservar_educar_y_regular_las_acciones___ordenanza_de_medio_ambiente_y_proteccion_de_la_biodiversidad.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 33,
+  "paginas_escaneadas": 33,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0077",
+  "comuna": "curacautin",
+  "nombre_documento": "modifica_ordenanza_municipal_terminal_rodoviario_curacautin",
+  "archivo": "curacautin__modifica_ordenanza_municipal_terminal_rodoviario_curacautin__decreto_ex_n_2992__30_10_23__modifica_ordenanza_terminal_rodoviario__dec_ex_1965__27_07_23.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 2,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0078",
+  "comuna": "curacautin",
+  "nombre_documento": "modifica_ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contrapres",
+  "archivo": "curacautin__modifica_ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contrapres__dec_ex_n_2991__30_10_23__modifica_ordenanza_funcionamiento_y_derechos_modulos_feria_abasto__dec_ex_n_673__31_05_21.pdf",
+  "veredicto_capa_texto": "ILEGIBLE",
+  "paginas": 0,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto ILEGIBLE: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0079",
+  "comuna": "curacautin",
+  "nombre_documento": "modifica_ordenanza_sobre_derecho_municipales_por_permisos_concesiones_y_servici",
+  "archivo": "curacautin__modifica_ordenanza_sobre_derecho_municipales_por_permisos_concesiones_y_servici__dec_ex_n_2990__30_10_23__modifica_ordenanza_derechos_permisos_concesiones_y_servicios_municipales__dec_ex_n_28_10_22.pdf",
+  "veredicto_capa_texto": "ILEGIBLE",
+  "paginas": 0,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "veredicto ILEGIBLE: PDF sin capa de texto ni imagen utilizable",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0080",
+  "comuna": "curacautin",
+  "nombre_documento": "modificacion_a_la_ordenanza_municipal_que_regula_el_transito_vehicular_horarios",
+  "archivo": "curacautin__modificacion_a_la_ordenanza_municipal_que_regula_el_transito_vehicular_horarios__modificacion_a_la_ordenanza_municipal_que_regula_el_transito.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 4,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 20
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DECRETO EX. N° 1500/2025.\r\n\r\nREPUBLICA DE CHILE\r\nMUNICIPALIDAD DE CURACAUTIN\r\nDIRECCIÓN TURISMO Y ECONOMIA\r\n\r\nDECRETO EX.\r\n\r\nVISTOS:\r\n1.- El decreto Nro. 2781 de fecha 04 de diciembre de 2024, que aprobó la Ordenanza\r\nMunicipal que regula el tránsito vehicular, horarios de subida y bajada y uso de cadenas en\r\nruta R-785 de la comuna de Curacautín.\r\n2.- El texto de la Ordenanza que regula el tránsito vehicular, horarios de subida y bajada y\r\nuso de cadenas en ruta R-785 de la comuna de Curacautín.\r\n3.- Las facultades privativas de la municipalidad contenida en el artículo 4 letra d) de la ley\r\n18.695.\r\n4.- El acuerdo nro. 107 del Concejo Municipal de fecha 02 de julio de 2025, que aprueba el\r\nTexto de la modificación a la Ordenanza que regula el tránsito vehicular, horarios de subida\r\ny bajada y uso de cadenas en ruta R-785 de la comuna de Curacautín.\r\n5.- Lo dispuesto en los artículos 56 y 65 letra l) de la Ley 18.695 Orgánica Constitucional\r\nde Municipalidades;\r\nCONSIDERANDO:\r\nLa necesidad de ordenar el tránsito vehicular en la Ruta R.785 de la Comuna de Curacautín,\r\ny flexibilizar el acceso de los visitantes y residentes de la Reserva Nacional Malalcahuello\r\nNalcas.\r\n\r\nDECRETO:\r\n1. Apruébese la “Modificación a la Ordenanza Municipal que regula el tránsito\r\nvehicular, horarios de subida y bajada y uso de cadenas en ruta R-785 de la\r\ncomuna de Curacautín”, que en su articulado dispone:\r\nArtículo 1°: En el artículo 1, Se agrega la palabra “julio” entre las palabras junio y\r\nag"
+ },
+ {
+  "id": "d0081",
+  "comuna": "curacautin",
+  "nombre_documento": "modificacion_ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contra",
+  "archivo": "curacautin__modificacion_ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contra__modificacion_ordednanza_feria_de_abasto.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 10,
+  "paginas_escaneadas": 10,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0082",
+  "comuna": "curacautin",
+  "nombre_documento": "ordenanza_local_sobre_uso_de_mascarilla_en_lugares_que_indica_en_la_comuna_de_c",
+  "archivo": "curacautin__ordenanza_local_sobre_uso_de_mascarilla_en_lugares_que_indica_en_la_comuna_de_c__DEC. EX. N. 569, APRUEBA ORDENANZA LOCAL USO DE MASCARILLA..pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "ordenanza_local"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara ordenanza prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0083",
+  "comuna": "curacautin",
+  "nombre_documento": "ordenanza_municipal_fijacion_de_precios_farmacia_popular",
+  "archivo": "curacautin__ordenanza_municipal_fijacion_de_precios_farmacia_popular__ORDENANZA MUNICIPAL FARMACIA POPULAR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 3,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0084",
+  "comuna": "curacautin",
+  "nombre_documento": "ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contraprestacion_de",
+  "archivo": "curacautin__ordenanza_para_el_funcionamiento_y_derechos_municipales_por_contraprestacion_de__ORDENANZA FUNCIONAMIENTO Y DERECHOS MUNICIPALES MODULOS ARTESANALES.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 12,
+  "paginas_escaneadas": 12,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0085",
+  "comuna": "curacautin",
+  "nombre_documento": "ordenanza_para_funcionamiento_y_derechos_municipales_por_contra_prestacion_de_m",
+  "archivo": "curacautin__ordenanza_para_funcionamiento_y_derechos_municipales_por_contra_prestacion_de_m__2021_ORDENANZA FUNCIONAMIENTO Y DERECHOS MUNICIPALES  MODULOS FERIA DE ABASTO.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 11,
+  "paginas_escaneadas": 11,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0086",
+  "comuna": "curacautin",
+  "nombre_documento": "ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_munic",
+  "archivo": "curacautin__ordenanza_sobre_derechos_municipales_por_permisos_concesiones_y_servicios_munic__Ordenanza General de Derechos 2022.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 29,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "articulado": 25
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 1,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "ÍNDICE\r\n\r\nTITULO I DISPOSICIONES GENERALES ..................................................................................... 2\r\nTITULO II DERECHOS MUNICIPALES RELATIVOS A SERVICIOS DEPORTIVOS .............. 3\r\nTITULO III DERECHOS MUNICIPALES RELATIVOS A SERVICIOS CULTURALES,\r\nRECREATIVOS Y OTROS ............................................................................................................... 4\r\nTITULO IV DERECHOS POR OCUPACIÓN DE BIENES NACIONALES DE USO PÚBLICO Y\r\nOTROS ................................................................................................................................................ 5\r\nTITULO V DERECHOS MUNICIPALES RELACIONADOS CON EL EJERCICIO DE\r\nACTIVIDADES LUCRATIVAS ........................................................................................................ 5\r\nTITULO VI DERECHOS SOBRE TERRAZAS EN RESTAURANTES, BARES Y AFINES EN\r\nBIENES NACIONALES DE USO PÚBLICO ................................................................................... 7\r\nTITULO VII DERECHOS RELATIVOS A PROPAGANDA Y PUBLICIDAD ........................... 10\r\nTITULO VIII DERECHOS ESPECIALES SOBRE ASEO Y ORNATO ....................................... 13\r\nTITULO IX MATERIAS MUNICIPALES SOBRE TRANSITO Y TANSPORTE DE\r\nVEHICULOS .................................................................................................................................... 15\r\nTITULO X DERECHOS MUNICIPALES SOBRE FERIAS LIBRES, FERIAS\r\nCOSTUMBRISTAS Y OTROS"
+ },
+ {
+  "id": "d0087",
+  "comuna": "curacautin",
+  "nombre_documento": "regula_el_transito_vehicular_horarios_de_subida_y_bajada_y_uso_de_cadenas_en_ru",
+  "archivo": "curacautin__regula_el_transito_vehicular_horarios_de_subida_y_bajada_y_uso_de_cadenas_en_ru__Ordenanza Municipal que regula el tránsito vehícular Ruta R-785.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 6,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0603",
+  "comuna": "curacautin",
+  "nombre_documento": "ver_detalle_ver_ordenanza",
+  "archivo": "curacautin__ver_detalle_ver_ordenanza__ordenanza_terminal_rodoviario_curacautin.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 13,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "articulado": 28
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "REPÚBLICA DE CHILE\r\n\r\nMUNICIPALIDAD CURACAUTÍN\r\n\r\nDEPTO. DE TRÁNSITO\r\n\r\nCuracautin\r\nSTRE MUNICIPALIDAR\r\n\r\nREF.: APRUEBA ORDENANZA TERMINAL\r\n\r\nRODOVIARIO CURACAUTÍN.\r\n\r\nDECRETO EX.N°\r\n\r\n1965 /\r\n\r\nCURACAUTÍN, 27 DE JULIO 2023\r\nVISTOS:\r\n\r\nse\r\n\r\n1.-E/ Decreto alcaldicio Ex. 1930 de fecha 24-07-2023, mediante el cual\r\naprueba programa denominado, Terminal Rodoviario Curacautín” año 2023.\r\n2.- Lo señalado en el Art. N°5 letra c, d, e, Art. 63 letra f), g) y II) de la\r\n\r\nLey 18.695 Orgánica Constitucional de Municipalidades.\r\n\r\n3.- El Decreto Alcaldicio Ex. N°854 de fecha 28/06/2021, Asume cargo\r\nde alcalde de la Comuna de Curacautín, Periodo 2021-2024.\r\n4.- El Decreto Alcaldicio Ex. N°1189 de fecha 21-07-2023, mediante el\r\ncual se designa como alcalde Subrogante a Doña Claudia Toledo Guajardo.\r\n\r\n5- El acuerdo\r\n\r\n164/2023 de fecha 25-07-2023, adoptado\r\n\r\npor\r\n\r\nel\r\n\r\nHonorable Concejo Municipal en sesión extraordinaria de fecha 25 de julio del presente año,\r\nmediante el cual aprobó por unanimidad la Ordenanza para el funcionamiento del Terminal\r\nRodoviario Curacautín.\r\n\r\nDECRETO:\r\n\r\n1.\r\n\r\nAPRUÉBASE LA ORDENANZA PARA EL FUNCIONAMIENTO TERMINAL RODOVIARIO\r\nCURACAUTÍN.\r\n\r\n2.\r\n\r\nPUBLÍQUESE el presente Decreto y la ordenanza para el Funcionamiento Terminal\r\nRodoviario Curacautín.\r\n\r\nANÓTESE, COMUNÍQUESE, PUBLÍQUESE Y ARCHÍVESE\r\n\r\nRAALLIO\r\nI\r\nC\r\nI\r\nN\r\nU\r\nM\r\n\r\nSECRETA\r\n\r\nMUNIC GLENDA WORNER TAPIA\r\n\r\nCURACAUTecretaria Municipal\r\nCTG/GWT/JMV/amga\r\nDistribución:\r\n\r\nOficina de Partes.\r\nC/I. D"
+ },
+ {
+  "id": "d1045",
+  "comuna": "curacautin",
+  "nombre_documento": "apruebese_la_ordenanza_de_prevencion_y_gestion_de_riesgos_comunales_productos_d",
+  "archivo": "curacautin__apruebese_la_ordenanza_de_prevencion_y_gestion_de_riesgos_comunales_productos_d__Ordenanza Decreto Incendios Forestales.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 32,
+  "paginas_escaneadas": 32,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1046",
+  "comuna": "curacautin",
+  "nombre_documento": "ordenanza_reguladora_de_los_kioskos_de_propiedad_municipal_modificacion",
+  "archivo": "curacautin__ordenanza_reguladora_de_los_kioskos_de_propiedad_municipal_modificacion__DECRETO EX. N°473 MODIFICA ORDENANZA KIOSKOS MUNICIPALES.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 8,
+  "paginas_escaneadas": 8,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0088",
+  "comuna": "curanilahue",
+  "nombre_documento": "acuerdo_220_aprueba_imagen_objetivo_de_la_actualizacion_del_plan_regulador_comun",
+  "archivo": "curanilahue_acuerdo_220_aprueba_imagen_objetivo_de_la_actualizacion_del_plan_regulador_comun__b07f695c-f04f-4634-a2bc-0151251a63e3.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "plano"
+  ],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "PLANO_LAMINA",
+   "sirve": "NO",
+   "confianza": "MEDIA",
+   "motivo": "parece un plano o lamina grafica, sin cuadro normativo",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0089",
+  "comuna": "curanilahue",
+  "nombre_documento": "acuerdo_299_aprueba_aporte_aprobacion_plan_regulador_comunal",
+  "archivo": "curanilahue_acuerdo_299_aprueba_aporte_aprobacion_plan_regulador_comunal__89223b22-0d33-40ae-9f90-ae7042c7a5f3.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 1,
+  "paginas_escaneadas": 1,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0090",
+  "comuna": "curanilahue",
+  "nombre_documento": "aviso_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_r",
+  "archivo": "curanilahue_aviso_extracto_de_inicio_del_procedimiento_de_evaluacion_ambiental_estrategica_r__e4fb5691-2db5-430d-8736-9350ac1ca166.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "zonificacion": 3,
+   "usos_de_suelo": 1,
+   "limite_urbano": 3
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 4,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 4 senales normativas (agrupamiento, zonificacion, usos_de_suelo, limite_urbano)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "DIARIO\r\nOFICIAL\r\nDE LA REPUBLICA DE CHILE\r\n\r\nIV\r\n\r\nSECCIÓN\r\n\r\nMinisterio del Interior y Seguridad Pública\r\n\r\nLICITACIONES, CONCURSOS, CITACIONES Y EXTRAVÍO DE DOCUMENTOS\r\nNúm. 42.425\r\n\r\n|\r\n\r\nViernes 9 de Agosto de 2019\r\n\r\n|\r\n\r\nPágina 1 de 2\r\n\r\nAvisos\r\nCVE 1633846\r\n\r\nMUNICIPALIDAD DE CURANILAHUE\r\n\r\nEXTRACTO DE INICIO DEL PROCEDIMIENTO DE EVALUACIÓN\r\nAMBIENTAL ESTRATÉGICA RELATIVA A LA ACTUALIZACIÓN DEL PLAN\r\nREGULADOR COMUNAL DE CURANILAHUE\r\nA. ÓRGANO RESPONSABLE: Municipalidad de Curanilahue.\r\nB. RESUMEN DE ANTECEDENTES:\r\ni. El Plan Regulador Comunal de Curanilahue data del año 1982 (D.O. 27.05.1982). Por\r\nlo tanto, el instrumento que rige el desarrollo urbano de Curanilahue tiene una data de 36\r\naños. Desde su aprobación, ha tenido seis modificaciones, siendo la más significativa la\r\nmodificación del año 2013 (D.O. 22.04.2013) que amplía el límite urbano, establece áreas\r\nde riesgo, incorpora nuevos trazados viales y modifica zonas.\r\nii. En la actualidad, Curanilahue se encuentra en un importante proceso de crecimiento y\r\ndemanda de viviendas, lo que hace necesario estudiar un aumento de su área urbana hacia\r\naquellos terrenos más factibles de ser urbanizados, o bien, explorar alternativas de\r\ncrecimiento por densificación. Ello implica la revisión integral de todo el IPT según su\r\námbito de competencia, redefinición del límite urbano, actualización de la red vial\r\nestructurante, la definición de las zonas de parques y áreas verdes, zonas residenciales,\r\nactividades producti"
+ }
+]

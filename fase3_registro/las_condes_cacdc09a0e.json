@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_cacdc09a0e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_3-PLANO-REFERENCIAL-ALTURAS-DE-EDIFICACION.pdf",
+  "nombre": "las_condes_3-PLANO-REFERENCIAL-ALTURAS-DE-EDIFICACION.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:31:52",
+  "fin": "2026-07-15T08:33:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Plano Explicativo Referencial de Altura de Edificacion (Modif.N11 PRC), cartografico con leyenda de rangos de altura por color/zona (2 a 19 pisos). Simbologia de plano, no cuadro normativo articulado (mismo patron que plano de densidad ya clasificado sin_tablas)."
+  }
+}

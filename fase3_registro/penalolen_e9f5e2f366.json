@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_e9f5e2f366",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_r7.pdf",
+  "nombre": "penalolen_Zona_r7.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:46:35",
+  "fin": "2026-07-15T08:47:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ficha 'Zona R7 Residencial Exclusiva' Peñalolen, 1 pag escaneada. Tabla completa: usos permitidos (residencial, areas verdes); Normas Especificas para vivienda: superficie predial minima 600m2, sistema agrupamiento aislado, altura maxima 3m/2pisos+mansarda, coef ocupacion suelo 0.3, coef constructibilidad 0.5, densidad bruta 70 hab/ha, rasante, distanciamiento 3m, antejardin 5m, estacionamientos; y para Areas Verdes: superficie predial minima 300m2. Verificado visualmente pagina unica."
+  }
+}

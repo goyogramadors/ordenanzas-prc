@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_1a6fd3b11b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_decreto.4475.28dic2004.pdf",
+  "nombre": "las_condes_decreto.4475.28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:53:54",
+  "fin": "2026-07-14T15:59:02",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto 4475 (28-12-2004) de 1 pagina solo APRUEBA el Plano Seccional de la Zona de Uso de Suelo Comercial 2 (PS-U-C2) 'conformado por su texto resolutivo, memoria y plano, cuyos ejemplares se adjuntan'. Los anexos con las normas NO estan en el archivo (verificado por texto y render). Requiere ubicar el texto resolutivo del seccional PS-U-C2."
+  }
+}

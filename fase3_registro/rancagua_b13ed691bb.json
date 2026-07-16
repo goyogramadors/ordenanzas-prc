@@ -1,0 +1,15 @@
+{
+  "id": "rancagua_b13ed691bb",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rancagua_decreto_559_apruebase_la_modificacion_al_plan_regulador_comunal_de_rancagua_plan__2023-08-D-00559.pdf",
+  "nombre": "rancagua_decreto_559_apruebase_la_modificacion_al_plan_regulador_comunal_de_rancagua_plan__2023-08-D-00559.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:22:08",
+  "fin": "2026-07-14T21:23:22",
+  "resultado": {
+    "motivo": "TABLA AUSENTE: Decreto exento 559/2023 solo APRUEBA la Modificacion al PRC Rancagua, Plan Seccional N21, y remite al 'Plano Oficial' y 'Texto Modificatorio de la Ordenanza Local' que 'pasan a formar parte integrante del mismo' -- esos documentos NO estan adjuntos a este PDF de 3 paginas (solo considerandos administrativos: tramitacion, EAE, participacion ciudadana, y firma). Requiere ubicar el Texto Modificatorio del Plan Seccional N21 de Rancagua."
+  }
+}

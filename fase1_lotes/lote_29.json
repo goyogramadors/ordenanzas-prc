@@ -1,0 +1,126 @@
+[
+ {
+  "id": "d1159",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "3980_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_3980_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_14-07-15_MPRC-LB-24_DECRETO_3980_09_07_2015.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1160",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "673_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_673_modificacion_al_plan_regulador_comunal__Publicacion_673_febrero_2013pdf.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 5,
+  "paginas_escaneadas": 3,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 2,
+   "zonificacion": 2,
+   "usos_de_suelo": 4,
+   "ordenanza_local_txt": 2,
+   "articulado": 15
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 5,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nViernes 22 de Febrero de 2013\r\n\r\nNº 40.492\r\n\r\nCuerpo I - 61\r\n\r\nEXTRACTO DE RESOLUCIÓN Nº 9.895\r\nEXENTA, DE 2012\r\n\r\nEXTRACTO DE RESOLUCIÓN Nº 9.896\r\nEXENTA, DE 2012\r\n\r\nEXTRACTO DE RESOLUCIÓN Nº 9.897\r\nEXENTA, DE 2012\r\n\r\nMediante resolución exenta Nº 9.895, de 15 de\r\nnoviembre de 2012, el Servicio Nacional de Capacitación y Empleo dispone el cese de su inscripción en el\r\nRegistro Nacional de Organismos Técnicos de Capacitación de la entidad “Servicios de Capacitación\r\nMaster 7 Limitada (Master 7 Ltda.)’’, RUT\r\n76.603.760-7 contenida en la resolución exenta\r\nNº 1.938 de 4 de septiembre de 2006, por cuanto\r\ndejó de cumplir con el requisito establecido en el\r\nNº 2, del art. 21 de la ley 19.518.- Juan Bennett\r\nUrrutia, Director Nacional (PT).\r\n\r\nMediante resolución exenta Nº 9.896, de 15 de\r\nnoviembre de 2012, el Servicio Nacional de Capacitación y Empleo dispone el cese de su inscripción en el\r\nRegistro Nacional de Organismos Técnicos de Capacitación de la entidad “Dylan Capacitación Limitada\r\n(Dylan Ltda.)”, RUT 77.862.780-9 contenida en la\r\nresolución exenta Nº 2.149 de 14 de septiembre de\r\n2006, modificada por resolución exenta Nº 274 de\r\nfecha 13 de octubre de 2006, por cuanto dejó de\r\ncumplir con el requisito establecido en el Nº 2, del art.\r\n21 de la ley 19.518.- Juan Bennett Urrutia, Director\r\nNacional (PT).\r\n\r\nMediante resolución exenta Nº 9.897, de 15 de\r\nnoviembre de 2012, el Servicio Nacional de Capacitación y Empleo dispone el c"
+ },
+ {
+  "id": "d1161",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "6789_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea",
+  "archivo": "lo_barnechea_6789_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__DO_21-12-2013_PROMULGA_MOD_PLAN_REGULADOR.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 4,
+  "paginas_escaneadas": 4,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d1162",
+  "comuna": "lo_barnechea",
+  "nombre_documento": "912_promulga_modificacion_al_plan_regulador_comunal",
+  "archivo": "lo_barnechea_912_promulga_modificacion_al_plan_regulador_comunal__Publicacion_912_marzo_2013pdf.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 2,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "modificacion",
+   "promulga",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "predial_minima": 3,
+   "ordenanza_local_txt": 3,
+   "articulado": 8
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "MODIFICACION_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara modificacion prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "DIARIO OFICIAL DE LA REPUBLICA DE CHILE\r\nMiércoles 6 de Marzo de 2013\r\n\r\nCuerpo I - 8\r\n\r\nCorporación de Fomento de la Producción\r\nSUSPENDE POSTULACIONES A LA LÍNEA DE FINANCIAMIENTO\r\nDENOMINADA ‘‘ACELERACIÓN INTERNACIONAL DE EMPRENDIMIENTOS TECNOLÓGICOS - GLOBAL CONNECTION’’\r\n(Resolución)\r\nNúm. 221 exenta.- Santiago, 27 de febrero de 2013.- Vistos:\r\n1. La resolución (E) Nº 1.144 de 17 de octubre de 2012, de la Dirección\r\nEjecutiva del Comité InnovaChile, que aprobó las Bases Técnicas y sus Anexos de\r\nla Línea de Financiamiento denominada ‘‘Aceleración Internacional de Emprendimientos Tecnológicos - Global Connection’’.\r\n2. La resolución (A) Nº 277, de 17 de noviembre de 2011, de la Dirección\r\nEjecutiva de InnovaChile, que aprueba ‘‘Bases Administrativas Generales para los\r\ninstrumentos y líneas de financiamiento del Comité InnovaChile’’.\r\n3. Las facultades que me confiere la resolución (A) Nº 374, de 2012, de la\r\nVicepresidencia Ejecutiva de Corfo; y lo dispuesto en la resolución Nº 1.600, de\r\n2008, de la Contraloría General de la República.\r\nResuelvo:\r\n1º. Suspéndanse las postulaciones a la línea de financiamiento denominada\r\n‘‘Aceleración Internacional de Emprendimientos Tecnológicos - Global Connection’’, cuyas bases fueron aprobadas por resolución (E) Nº 1.144, de 17 de octubre\r\nde 2012, de la Dirección Ejecutiva del Comité InnovaChile.\r\n2º. La suspensión comenzará a regir a contar del día 12 de marzo de 2013, a las\r\n15:30 horas, fecha y hora a partir de la cual no se rec"
+ }
+]

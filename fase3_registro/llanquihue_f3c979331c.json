@@ -1,0 +1,20 @@
+{
+  "id": "llanquihue_f3c979331c",
+  "comuna": "llanquihue",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\llanquihue_acta_17_seremia_de_vivienda_y_urbanismo_plan_regulador_comunal_los_pellines__97f1a927-bba5-49f4-9583-d3b414ce28b5.pdf",
+  "nombre": "llanquihue_acta_17_seremia_de_vivienda_y_urbanismo_plan_regulador_comunal_los_pellines__97f1a927-bba5-49f4-9583-d3b414ce28b5.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:35:16",
+  "fin": "2026-07-15T08:39:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Acta Sesión 17 Extraordinaria Concejo (17-05-2018): TABLA única es 'SEREMI Vivienda: PRC Los Pellines'. Discusión deliberativa sobre etapas de consultora/participación ciudadana, sin tabla de parámetros ni valores aprobados."
+  }
+}

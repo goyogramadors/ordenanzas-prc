@@ -1,0 +1,25 @@
+{
+  "id": "la_cisterna_5dea24a2fa",
+  "comuna": "la_cisterna",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_cisterna_41992_aprueba_enmienda_n1_al_plan_regulador_comunal_de_la_cisterna__DOEnmiendaPRC.pdf",
+  "nombre": "la_cisterna_41992_aprueba_enmienda_n1_al_plan_regulador_comunal_de_la_cisterna__DOEnmiendaPRC.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:43:05",
+  "fin": "2026-07-14T15:46:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA CISTERNA: Diario Oficial 24-feb-2018, Enmienda N1 al PRC. Norma en pag 2, en TEXTO (verificada en render): reemplaza en el articulo 12 de la Ordenanza Local el cuadro 'Estandares de estacionamiento' para el destino 'Viviendas colectivas o acogidas a la Ley de Copropiedad Inmobiliaria', en formato 'Donde dice' mas 'Debe decir'. Sube la dotacion minima de estacionamientos (p.ej. de 0 a 50 m2 pasa de 1 cada 5 viviendas a 3 por vivienda). Solo afecta dotacion de estacionamientos para uso residencial en todo el territorio comunal: no cambia COS, CC, altura ni zonificacion."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_36dc055729",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\estacion_central_44201_aprobacion_actualizacion_plan_regulador_comunal_de_estacion_central__Informa aprobación de Actualización del Plan Regulador Comunal.pdf",
+  "nombre": "estacion_central_44201_aprobacion_actualizacion_plan_regulador_comunal_de_estacion_central__Informa aprobación de Actualización del Plan Regulador Comunal.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:38:44",
+  "fin": "2026-07-14T15:39:15",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO AVISO (DO 44.201, seccion IV): la Municipalidad de Estacion Central solo INFORMA la aprobacion de la Actualizacion del PRC (art.28 septies LGUC, ord. 1864 Seremi RM). No transcribe normas. 1 pagina verificada integra."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_44c808b56a",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_1807_punto_2_actualizacion_plan_regulador__202-1807-2022.pdf",
+  "nombre": "cerrillos_decreto_exento_1807_punto_2_actualizacion_plan_regulador__202-1807-2022.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:04:59",
+  "fin": "2026-07-14T13:06:36",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CERRILLOS: decreto exento 202/1807/2022 (2p) que solo REEMPLAZA a un integrante de la contraparte tecnica (Comision Ad Hoc) del estudio de actualizacion del PRC: sale Ana Maria Mendoza, entra el abogado Sergio Gonzalez. Tramite administrativo puro, texto completo leido, sin normas."
+  }
+}

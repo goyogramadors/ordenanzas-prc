@@ -1,0 +1,20 @@
+{
+  "id": "chillan_a053a593f1",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chillan_9789_complementa_decreto_n_7458_de_fecha_07_de_julio_de_2016_que_promulga_modifi__Decreto 9789 - Promulga Modificacion.pdf",
+  "nombre": "chillan_9789_complementa_decreto_n_7458_de_fecha_07_de_julio_de_2016_que_promulga_modifi__Decreto 9789 - Promulga Modificacion.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:10:38",
+  "fin": "2026-07-15T08:11:45",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 9789 (06.09.2016), I.Municipalidad de Chillan. Complementa Decreto 7458/2016 (promulga Modificacion PRC Chillan): aclara vigencia -deja sin efecto Resolucion 8/1989 desde publicacion del nuevo instrumento-. Puramente aclaratorio/juridico, sin cuadro de normas urbanisticas."
+  }
+}

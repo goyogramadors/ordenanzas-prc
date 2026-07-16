@@ -1,0 +1,20 @@
+{
+  "id": "zapallar_f6d6c75c1a",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_acuerdo_120_acuerda_acoger_observacion_modificacion_del_plan_regulador_comunal_d__120.pdf",
+  "nombre": "zapallar_acuerdo_120_acuerda_acoger_observacion_modificacion_del_plan_regulador_comunal_d__120.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T13:01:45",
+  "fin": "2026-07-15T13:02:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Certificado Acuerdo 120/2015 (22-may-2015, 1p): Concejo Municipal de Zapallar ACOGE la observación N14, aplicando el artículo 1.4.8 de la OGUC (regla general de redondeo: fracción ≥0.5 se aproxima al entero superior) para el cálculo de densidad bruta máxima en zonas mixtas/residenciales, eliminando los umbrales de aproximación (0,75 general / 0,5 en Catapilco) que traía la Modificación del PRC. Es una regla general de redondeo aplicable a toda la comuna, no un cuadro de COS/CC/altura/predial por zona."
+  }
+}

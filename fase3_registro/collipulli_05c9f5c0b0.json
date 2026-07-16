@@ -1,0 +1,20 @@
+{
+  "id": "collipulli_05c9f5c0b0",
+  "comuna": "collipulli",
+  "ruta": "Ordenanzas Descargadas\\1-600\\collipulli_941_publicacion_diario_oficial_de_fecha_02_de_julio_de_2009_pag_4_a_16_de_plano___941Prc.pdf",
+  "nombre": "collipulli_941_publicacion_diario_oficial_de_fecha_02_de_julio_de_2009_pag_4_a_16_de_plano___941Prc.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:10:58",
+  "fin": "2026-07-15T08:12:30",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.Ex.941/2006: solo ratifica el acuerdo del Concejo Municipal (Certificado Acuerdo N.96-26) que aprueba en forma definitiva el PRC de Collipulli. Documento de 2 paginas = ratificacion + certificado, SIN el texto de la Ordenanza (el nombre del archivo sugiere que la publicacion original en el DO tenia paginas 4-16 con el plano/ordenanza, pero esas paginas NO estan en este PDF)."
+  }
+}

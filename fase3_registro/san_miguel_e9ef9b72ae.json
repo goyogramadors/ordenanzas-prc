@@ -1,0 +1,25 @@
+{
+  "id": "san_miguel_e9ef9b72ae",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_2401_aprueba_nuevo_plan_regulador_comuna_de_san_miguel__DECRETO 2401 28-11-2005 ok.pdf",
+  "nombre": "san_miguel_2401_aprueba_nuevo_plan_regulador_comuna_de_san_miguel__DECRETO 2401 28-11-2005 ok.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:29:05",
+  "fin": "2026-07-14T21:30:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        6,
+        11
+      ]
+    ],
+    "paginas_utiles": 6,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.2401/2005 (DO) Aprueba NUEVO PRC San Miguel. p1-5 vistos/considerandos (tramite, excluidos). p6 Cap.IV Tipologia y Escalas Equipamiento + inicio Cap.V 'Definicion de Zonificacion, Usos del Suelo y Normas Especificas' art.25 (lista zonas ZU-1 a ZU-5, EC-1 a EC-3). p6-10 desarrollo de cada zona con usos permitidos/prohibidos y Condiciones de Subdivision y Edificacion (predial min, altura, densidad, agrupamiento, antejardin, rasante) en TEXTO extraible. p11 tabla de vialidad (calles/anchos) + articulos finales (vigencia, derogacion Dec.916/1951, publicacion) - incluida por continuidad aunque la tabla vial no es norma de zona."
+  }
+}

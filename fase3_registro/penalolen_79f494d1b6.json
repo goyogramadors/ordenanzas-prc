@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_79f494d1b6",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_1200_3504_aprueba_modificacion_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "nombre": "penalolen_1200_3504_aprueba_modificacion_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 14,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T07:59:13",
+  "fin": "2026-07-15T08:02:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        13
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "TRAMPA imagen: modificación 'Extensión Límite Urbano Peñalolén Nuevo' agrega 6 nuevas zonas (R4, R11, EQ-2 a EQ-5) al área urbana. Tablas de usos/condiciones embebidas como imagen en pág11-13 (confirmado pdfimages). Notas al pie mencionan condiciones especiales (mecánica de suelos, gases, taludes, cierros) para estas zonas de riesgo/expansión"
+  }
+}

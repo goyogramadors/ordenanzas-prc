@@ -1,0 +1,25 @@
+{
+  "id": "vina_del_mar_43f1bac7d8",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\vina_del_mar_12029_complementa_y_rectifica_ordenanza_sobre_roles_de_la_propiedades_gravadas_y__do-20111005.pdf",
+  "nombre": "vina_del_mar_12029_complementa_y_rectifica_ordenanza_sobre_roles_de_la_propiedades_gravadas_y__do-20111005.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T13:00:38",
+  "fin": "2026-07-15T13:03:52",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        11,
+        11
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Diario Oficial N40.078, 5-oct-2011, 28 pags. Decreto Alcaldicio N12.029, 29-sep-2011, Viña del Mar, en pag11 (Cuerpo I-11): COMPLEMENTA Y RECTIFICA la Ordenanza sobre Roles de Propiedades Gravadas y Alturas Maximas Permitidas en los Miradores (aprobada por decreto 11.447/11, ver vina_del_mar_81ae67ab99). Agrega roles de predios gravados para 4 miradores nuevos (Miraflores Alto: calle Eduardo Frei al sur de El Palto, entre El Palto y Raulí, calle Bellamar, calle Padre Hurtado) con sus alturas maximas en metros (210m, 222m, 220m, 164m), corrige roles de miradores existentes (elimina/agrega roles especificos por mirador) y sustituye guarismos del articulo4 N6 (185->250) y N9 (16->24). Verificado visualmente paginas 1,11 de 28."
+  }
+}

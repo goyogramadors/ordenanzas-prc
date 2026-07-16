@@ -1,0 +1,25 @@
+{
+  "id": "bulnes_efed871fcb",
+  "comuna": "bulnes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\bulnes_125_promulgacion_del_plan_regulador_comuna_de_bulnes__PUBLICACIoN_D.O._PRC_BULNES_06.10.2015.pdf",
+  "nombre": "bulnes_125_promulgacion_del_plan_regulador_comuna_de_bulnes__PUBLICACIoN_D.O._PRC_BULNES_06.10.2015.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 8,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:45:33",
+  "fin": "2026-07-15T07:48:51",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        8
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa BCN/DO confirmada por render (texto solo trae encabezado ZONA X, sin valores). Pag5 Titulo V Normas Urbanisticas Art.9 Zonificacion: tabla ZHMC (usos+condiciones subdivision/edificacion: superficie predial min, COS, coef.constructibilidad, altura max, agrupamiento, antejardin, distanciamiento, densidad). Pag6 continua ZH-1,ZH-2,ZH-3,ZHMP,ZES,ZED,ZCU. Pag7 continua ZE,ZPU,ZET,ZPI-1,ZPI-2,ZIS (ultima zona). Pag8 Titulo VI Inmuebles Conservacion Historica (3 inmuebles) + tablas vialidad remanentes, luego cambia a decreto no relacionado Ministerio Hacienda. Pag3-4 son limite urbano/vialidad estructurante, distintos de normas por zona, excluidas."
+  }
+}

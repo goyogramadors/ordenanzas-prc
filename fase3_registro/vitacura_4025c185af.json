@@ -1,0 +1,25 @@
+{
+  "id": "vitacura_4025c185af",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_32770_promulga_modificacion_no_28_al_plan_regulador_comunal_de_vitacura_denomina__Diario_Oficial_04.10.13_pag_7.pdf",
+  "nombre": "vitacura_32770_promulga_modificacion_no_28_al_plan_regulador_comunal_de_vitacura_denomina__Diario_Oficial_04.10.13_pag_7.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:37:56",
+  "fin": "2026-07-14T21:39:58",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "VITACURA: Diario Oficial 4-oct-2013, Modificacion N28 al PRC, Norma de Edificacion Area R-5 Sector Lo Curro. Norma en texto plano completo: reemplaza el Art 35.1.h (dotacion minima de estacionamientos para visitas, no podran venderse ni asignarse, podran ubicarse en el antejardin hasta un tercio de su frente); incorpora en terrenos desafectados de la restriccion R-5 la norma de edificacion E-Ab1 (Edificacion Aislada Baja N1, poligonos ABCDA, EFGHE, IJKLI, MNOPM) y E-Ab2 (Edificacion Aislada Baja N2, poligono QRSTQ), sin modificar la normativa R-5 para el resto de los predios. Documento completo en 2 paginas."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "freirina_549e2ad04b",
+  "comuna": "freirina",
+  "ruta": "Ordenanzas ordenadas\\freirina_3882_aprueba_y_promulga_enmienda_al_plan_regulador_comunal_de_freirina__PUBLICACION3882.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Diario Oficial N41.907 (14.11.2017), Decreto 3882, Municipalidad de Freirina: Aprueba y promulga Enmienda al PRC de Freirina, Zona C2 Residencial Sector Poblacion Vicuna Mackenna. Norma: incrementar hasta en un 20% la altura maxima edificable (Art.2.1.13 OGUC), aplicable en poligono delimitado por 5 puntos con coordenadas UTM exactas (p.2, tabla PUNTO/E/S/TRAMO). Norma puntual real (altura +20%) pero acotada a un tramo especifico de la zona, no es el cuadro completo de la Ordenanza Local del PRC base (Decreto 2932/2008).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:43:32",
+  "fin": "2026-07-15T14:45:28",
+  "resultado": {
+    "archivo": "extraccion_normas\\freirina\\freirina_3882_enmienda_c2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "C2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Norma puntual altura +20% acotada a poligono A-B-C-D-E dentro de Zona C2 (coordenadas UTM completas transcritas). Resto de C2 mantiene PRC base Decreto 2932/2008, no incluido aqui. Verificado contra nota_fase3: coincide."
+  }
+}

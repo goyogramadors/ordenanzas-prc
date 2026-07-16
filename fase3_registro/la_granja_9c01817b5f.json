@@ -1,0 +1,20 @@
+{
+  "id": "la_granja_9c01817b5f",
+  "comuna": "la_granja",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_granja_1_plan_regulador_comuna_la_granja__5b878098-e6e2-406f-91b2-24e9c0f0f08a.pdf",
+  "nombre": "la_granja_1_plan_regulador_comuna_la_granja__5b878098-e6e2-406f-91b2-24e9c0f0f08a.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:47:03",
+  "fin": "2026-07-14T15:49:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "LA GRANJA: NO ES TEXTO, es el PLANO de zonificacion PRC-LG-01 (Zonificacion Usos de Suelo), 1 pagina. Mirado en render: mapa a color con la leyenda de zonas (ZC-1 equipamiento metropolitano, ZC-2, ZC-3, ZH-1..ZH-4, ZI-1, ZE-1, ZAV-1, ZAV-2, ZR-1) pero SIN parametros normativos: no trae COS, CC, altura ni predial minima. Es cartografia, no tabla de normas. Util para la fase siguiente solo como diccionario de nombres de zona."
+  }
+}

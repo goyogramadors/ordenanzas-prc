@@ -1,0 +1,25 @@
+{
+  "id": "cauquenes_f0dfd12ea8",
+  "comuna": "cauquenes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cauquenes_decreto_exento_1033_apruebasela_enmienda_02_del_plan_regulador_comunal_de_cauque__DECRETO_20EXENTO_201033.pdf",
+  "nombre": "cauquenes_decreto_exento_1033_apruebasela_enmienda_02_del_plan_regulador_comunal_de_cauque__DECRETO_20EXENTO_201033.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T13:02:56",
+  "fin": "2026-07-14T13:06:39",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Enmienda 02 PRC Cauquenes. ESCANEO CON OCR POBRE (pdftotext da 'ALTURA MAxllvIA'): el rango se fijo MIRANDO el render. p2: recuadro zona ZM2 (Mixta Residencial, Comercio y Servicios), Normas de Subdivision y Edificacion -> Altura maxima 14,40 m (+20%). p1 solo vistos/considerando."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_67d19c117a",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_2018_02.pdf",
+  "nombre": "penalolen_MPRC_2018_02.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:11:16",
+  "fin": "2026-07-14T21:15:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        7
+      ]
+    ],
+    "paginas_utiles": 4,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DO 28-sep-2018, modificacion parcial PRC Penalolen. Trampa confirmada (CONDICIONES DE SUBDIVISION Y DE EDIFICACION: sin contenido en texto). Render: pag4 Zona R2 cuadro completo (densidad bruta max, superficie subdivision predial min, COS, coef.constructibilidad, agrupamiento, rasantes/distanciamiento, altura, antejardin, estacionamientos) Residencial/Equipamiento/Act.Productivas; pag5 usos Zona EQ-1; pag6 cuadro EQ-1 + inicio R10; pag7 cuadro R10."
+  }
+}

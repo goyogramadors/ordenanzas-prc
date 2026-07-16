@@ -1,0 +1,20 @@
+{
+  "id": "requinoa_d8b3e3a29b",
+  "comuna": "requinoa",
+  "ruta": "Ordenanzas ordenadas\\requinoa_decreto_alcaldicio_82_autoriza_reconocimiento_de_deuda_por_el_servicio_de_public__DA82.pdf",
+  "nombre": "requinoa_decreto_alcaldicio_82_autoriza_reconocimiento_de_deuda_por_el_servicio_de_public__DA82.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:16:28",
+  "fin": "2026-07-15T12:19:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Alcaldicio 82 (09-ene-2025, 1p): autoriza reconocimiento de deuda por servicio de publicación en el Diario Oficial del acto administrativo que aprueba el PRC de Requínoa ($782.496). Comprobante administrativo/contable, no contiene tabla de normas urbanísticas."
+  }
+}

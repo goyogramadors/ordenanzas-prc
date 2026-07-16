@@ -1,0 +1,25 @@
+{
+  "id": "santiago_e33854c975",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_138_modifica_el_plan_regulador_comunal_de_santiago__138.pdf",
+  "nombre": "santiago_138_modifica_el_plan_regulador_comunal_de_santiago__138.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:30:56",
+  "fin": "2026-07-14T21:33:14",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        5
+      ]
+    ],
+    "paginas_utiles": 5,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "SANTIAGO: Diario Oficial 1-feb-2016, decreto 138, Modifica el PRC. OCR con caracteres corruptos, pero contenido real confirmado: renombra planos, modifica varios articulos y sobre todo la Zona de Conservacion Historica A y Sectores Especiales A y B: reemplaza repetidas veces frases de altura minima-maxima de edificacion por nuevas alturas maximas unicas, modifica el Coeficiente maximo de constructibilidad para otros usos distintos a vivienda, y en la Zona de Conservacion Historica B cambia el guarismo 0.7 por 1.0. Tambien trae listado de inmuebles de conservacion historica y modifica el cuadro de estandares de estacionamiento. CONFIANZA MEDIA por la calidad de OCR: verificar visualmente antes de extraer."
+  }
+}

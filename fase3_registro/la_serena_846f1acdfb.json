@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_846f1acdfb",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_11_ordenanza_n_11_de_paraderos_para_el_transporte_publico_en_bien_nacional_de_us__doc_34_11_03012025032630.pdf",
+  "nombre": "la_serena_11_ordenanza_n_11_de_paraderos_para_el_transporte_publico_en_bien_nacional_de_us__doc_34_11_03012025032630.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 9,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:23:50",
+  "fin": "2026-07-15T08:24:40",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ordenanza 11/2024 (31-dic-2024): ORDENANZA DE PARADEROS PARA EL TRANSPORTE PUBLICO EN BIEN NACIONAL DE USO PUBLICO. Regula estacionamientos reservados de transporte publico en base a Ley de Transito 18290 y DS 212 MTT. No PRC/zonificacion. Verificado visualmente pagina 1 de 9."
+  }
+}

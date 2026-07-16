@@ -1,0 +1,29 @@
+{
+  "id": "iquique_5e9ae5f786",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_279_promulga_enmienda_al_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "nombre": "iquique_279_promulga_enmienda_al_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 20,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:43:05",
+  "fin": "2026-07-14T15:48:47",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        15
+      ],
+      [
+        19,
+        19
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "IQUIQUE: Decreto 279 (2007, BCN LeyChile, 20p) que promulga la enmienda al PRC (Plan Seccional Sur + Plan Seccional Borde Costero subzona A-2). *** CASO GRAVE DE NORMA AUSENTE, NO ES LA TRAMPA DE IMAGEN ***: los cuadros NO estan ni como texto ni como imagen: fueron sustituidos por remisiones 'VER DIARIO OFICIAL DE 11.04.2007, PAGINA X' y BCN nunca los digitalizo. Verificado visualmente en 14 pags: tras cada remision el documento sigue directo al articulo siguiente, con espacio en blanco liso. AUSENTES: Art 8 (general), Art 18 (estacionamientos), Art 24 y 28 (equipamiento), *** Art 32 (usos de suelo de las zonas M-1 a M-10, el cuadro principal) ***, y Arts 26-39 de los subsectores del Borde Costero. SOLO SOBREVIVEN DOS micro-tablas en texto: p15 (Art 20, Sector A-2.1: altura 2 pisos-7 m, superficie predial existente, ocupacion 10 por ciento, transparencia al mar 90 por ciento, cierros no permitidos) y p19 (Art 44, hoteles en Peninsula de Cavancha: ocupacion 30 por ciento hasta 2 pisos, cierros 95 por ciento transparencia). PARA RECONSTRUIR LAS NORMAS DE IQUIQUE 2007 HACE FALTA EL DIARIO OFICIAL DEL 11-04-2007, que no esta en el corpus."
+  }
+}

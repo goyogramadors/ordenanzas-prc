@@ -1,0 +1,28 @@
+{
+  "id": "monte_patria_a0e72bd2b8",
+  "comuna": "monte_patria",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\monte_patria_3534_aprueba_rectificacion_de_decreto_de_actualizacion_al_plan_regulador_comuna___1575320.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Rectificacion puntual cuadro usos de suelo Zona ZE5: pag.2 agrega fila USOS PERMITIDOS (Planta Tratamiento Aguas Servidas), pag.3 elimina fila de USOS PROHIBIDOS. Valores reales del cuadro.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T14:51:04",
+  "fin": "2026-07-15T14:54:07",
+  "resultado": {
+    "archivo": "extraccion_normas\\monte_patria\\monte_patria_3534_rectificacion_ze5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Rectificacion cuadro usos de suelo ZE5: agrega Planta Tratamiento Aguas Servidas a permitidos y la elimina de prohibidos. Verificado contra nota_fase3: coincide."
+  }
+}

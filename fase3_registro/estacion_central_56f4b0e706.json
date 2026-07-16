@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_56f4b0e706",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\estacion_central_decreto_alcaldicio_41_apruebase_la_actualizacion_del_plan_regulador_comunal_de_s__Decreto_41.pdf",
+  "nombre": "estacion_central_decreto_alcaldicio_41_apruebase_la_actualizacion_del_plan_regulador_comunal_de_s__Decreto_41.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:15:32",
+  "fin": "2026-07-15T08:16:53",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "ESTACION CENTRAL: NO ES UN DOCUMENTO PRC. Decreto Alcaldicio Secc 2 N41 (11-ene-2024, 2p, escaneado sin OCR): 'Aprueba la Actualizacion del PLAN COMUNAL DE SEGURIDAD PUBLICA' (instrumento distinto, sobre reduccion de delitos, violencia de genero, proteccion de ninos, infracciones de drogas). No es planificacion territorial. Verificado visualmente."
+  }
+}

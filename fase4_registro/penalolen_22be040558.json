@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_22be040558",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_R11.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "ficha de zona R11, 1 pág: cuadro completo densidad bruta máxima, superficie predial mínima, % ocupación suelo, coef. constructibilidad, altura máxima para uso Residencial y Equipamiento",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:24:38",
+  "fin": "2026-07-15T14:25:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_r11.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "R11"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: densidad 200 hab/ha, predial 4000m2, ocupacion 15/40%, CC 0,15/0,40, altura 4 pisos/14m para uso residencial/equipamiento. Coincide con nota_fase3."
+  }
+}

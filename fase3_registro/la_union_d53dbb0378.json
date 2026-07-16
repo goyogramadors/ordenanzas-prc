@@ -1,0 +1,15 @@
+{
+  "id": "la_union_d53dbb0378",
+  "comuna": "la_union",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_union_2278_aprueba_modificacion_al_plan_regulador_sector_oriente_el_manzanal__Exportar.pdf",
+  "nombre": "la_union_2278_aprueba_modificacion_al_plan_regulador_sector_oriente_el_manzanal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:51:55",
+  "fin": "2026-07-14T15:56:56",
+  "resultado": {
+    "motivo": "DOCUMENTO REMITE A OTRO (norma ausente): el Decreto 2278/1998 de La Union es solo el acto que ORDENA publicar integramente la Resolucion afecta N.31 del GORE Los Lagos (23-06-1998), que es la que aprueba la modificacion del PRC sector Oriente 'El Manzanal'. La resolucion con la norma NO esta transcrita en este PDF de 1 pagina (verificado por texto y render). NO es sin-tablas: hay normas que se perderian. Requiere ubicar la Resolucion afecta 31/1998 del GORE Los Lagos o su publicacion en el Diario Oficial."
+  }
+}

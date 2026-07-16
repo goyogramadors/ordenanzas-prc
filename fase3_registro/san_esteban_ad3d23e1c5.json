@@ -1,0 +1,25 @@
+{
+  "id": "san_esteban_ad3d23e1c5",
+  "comuna": "san_esteban",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_esteban_ordenanza_ordenanza_plano_regulador_vigente__98576_2017_11_ordenanza_plano_rergulador2018.pdf",
+  "nombre": "san_esteban_ordenanza_ordenanza_plano_regulador_vigente__98576_2017_11_ordenanza_plano_rergulador2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:28:46",
+  "fin": "2026-07-14T21:31:28",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        18
+      ]
+    ],
+    "paginas_utiles": 11,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "ordenanza plano regulador VIGENTE (versión municipal limpia, texto nativo completo, no escaneada): Título 4 Zonificación pág8-18, todas las tablas completas para zonas ZU-C, ZU-1 a ZU-4, ZE-1 a ZE-5 (superficie subdivisión predial, densidad bruta máxima, altura edificación, sistema agrupamiento, rasantes, distanciamiento, adosamientos, ochavo, antejardines, COS, CC). Corresponde a la misma normativa que en san_esteban_269e39be3f estaba como imagen - esta versión SÍ tiene texto extraíble limpio"
+  }
+}

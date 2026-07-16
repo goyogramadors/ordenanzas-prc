@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_58af421d26",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_ZHM-3.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Zona Habitacional Mixta N3 (ZHM-3), d=200 hab/ha. Cuadro usos de suelo/equipamiento (pag1) y cuadro completo de normas urbanisticas (pag2): densidad bruta, sistema de agrupamiento, subdivision predial minima, frente minimo, %ocup suelo, %area libre, coef construccion, altura maxima, distanciamiento, rasante, adosamiento, cierros, antejardin, para vivienda unifamiliar/colectiva y equipamiento intercomunal/comunal/vecinal.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:56:46",
+  "fin": "2026-07-15T17:59:34",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_zhm3.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZHM-3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa ZHM-3: usos de suelo + tabla completa normas urbanisticas para 5 usos de suelo + restricciones. Verificado contra nota_fase3: coincide."
+  }
+}

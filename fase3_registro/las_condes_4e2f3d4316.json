@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_4e2f3d4316",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.4480.26dic2004.pdf",
+  "nombre": "las_condes_decreto.4480.26dic2004.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:28:31",
+  "fin": "2026-07-15T08:31:10",
+  "resultado": {
+    "motivo": "Decreto Secc.1a N4480 (26.12.2004), Municipalidad de Las Condes: Aprueba el Plano Seccional de la Zona de Uso de Suelo Metropolitano PS-U-M, 'conformado por su texto resolutivo, memoria y plano, cuyos ejemplares se adjuntan y se entiende forman parte integrante del presente decreto'. El archivo de 1 pagina es SOLO el acto administrativo de aprobacion -- el texto resolutivo/memoria/plano con las normas reales del Plano Seccional PS-U-M NO estan incluidos en este PDF. Falta conseguir esos anexos (posiblemente publicados en Diario Oficial junto con este decreto) para extraer las normas reales."
+  }
+}

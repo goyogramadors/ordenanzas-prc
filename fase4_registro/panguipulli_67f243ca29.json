@@ -1,0 +1,38 @@
+{
+  "id": "panguipulli_67f243ca29",
+  "comuna": "panguipulli",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\panguipulli_5_aprueba_plan_regulador_comunal_de_panguipulli__7 Publicación Diario Oficial PLAN REGULADOR COMUNAL.pdf_1704210845882.pdf",
+  "rangos": [
+    [
+      3,
+      4
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Pag4: Cap.IV completo Art.18-21, tabla normas por zona Z0-Z4 y restricciones R1-R6 (superficie predial minima, coef.constructibilidad, %ocupacion suelo, agrupamiento, adosamiento, antejardin, altura). Confirmado visual render 120dpi: texto real, no tabla-imagen. Pag3 contexto (equipamiento por escala, estandares estacionamiento Art.11-17). Pag5 vialidad (calles/anchos), excluida.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:49:54",
+  "fin": "2026-07-15T17:54:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\panguipulli\\panguipulli_5_ordenanza_zonas.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "Z0",
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cap.IV completo arts 18-21: 5 zonas urbanas (Z0-Z4) con usos de suelo y normas especificas completas + 6 zonas de restriccion (R1-R6). Texto nativo confirmado, no imagen. p5 vialidad excluida. Verificado contra nota_fase3: coincide."
+  }
+}

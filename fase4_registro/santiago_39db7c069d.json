@@ -1,0 +1,29 @@
+{
+  "id": "santiago_39db7c069d",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_5952_decreto_alcaldicio_numero_5952_secc_2a_de_2018_promulga_modificacion_del_pl__5952.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "Modificacion PRC Corredor Av.Diez de Julio Huamachuco. Tres cuadros-imagen verificados por render: pag2 incremento constructibilidad/altura Zona B/SE B2 + cuadro completo Condicionantes subdivision y edificacion SE B16 (superficie predial min, COS, coef.constructibilidad, agrupamiento, altura max); pag3 cuadro CUS3 (Actividades Productivas Zona E); pag3-4 cuadro Condicionantes subdivision y edificacion SE E15 (mismos parametros).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:23:20",
+  "fin": "2026-07-16T08:29:12",
+  "resultado": {
+    "archivo": "extraccion_normas\\santiago\\santiago_5952_corredor_diezdejulio_se_b16_se_e15_pag2-4.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "SE B16",
+      "SE E15"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION A NOTA_FASE3: todo el documento es texto nativo real, no imagen. SE B16: predial 150m2, COS 0,7/1,0, CC 3,6/5,5, aislado/pareado/continuo, altura 22,5m. SE E15: predial 150m2, CC 2,0/3,1, densidad 1140 hab/ha, altura 14m. Mas cuadro de incremento CC/altura zona B y modificacion CUS3 actividades productivas zona E. Coincide con nota_fase3 en contenido."
+  }
+}

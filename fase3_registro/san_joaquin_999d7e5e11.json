@@ -1,0 +1,20 @@
+{
+  "id": "san_joaquin_999d7e5e11",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_joaquin_decreto_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_pla__RectificacionDO05_07_2014.pdf",
+  "nombre": "san_joaquin_decreto_publica_decreto_alcaldicio_y_texto_aprobatorio_de_la_modificacion_al_pla__RectificacionDO05_07_2014.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:53:23",
+  "fin": "2026-07-15T12:54:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Diario Oficial 5-jul-2014: Rectificacion de titulo de publicacion anterior (Decreto 788), solo corrige texto del titulo ('APRUEBA MODIFICACION' por 'TEXTO APROBATORIO'). No contiene normas urbanisticas."
+  }
+}

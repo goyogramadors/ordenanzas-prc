@@ -1,0 +1,25 @@
+{
+  "id": "talca_d55ad007c1",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_apruebase_en_forma_definitiva_las_siguientes_modificaciones_via_enmienda__2359.pdf_1506351486367.pdf",
+  "nombre": "talca_decreto_apruebase_en_forma_definitiva_las_siguientes_modificaciones_via_enmienda__2359.pdf_1506351486367.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 11,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T12:58:14",
+  "fin": "2026-07-15T13:00:08",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        11
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto Alcaldicio 2359/2016: APRUEBA EN FORMA DEFINITIVA Enmienda N1 a la Ordenanza Local del PRC de Talca (Res.342/2011 GORE Maule). Modificacion N6, Capitulo 4 Zonificacion y Normas Urbanisticas (pag4-11): cuadros completos de Normas de Subdivision y Edificacion (superficie predial minima, COS, coef constructibilidad, densidad maxima, altura maxima, distanciamiento, antejardin) para 22 zonas U-1 a U-22 (Centro Comercial, Centro Institucional, Densificacion Residencial, Mixta Residencial, Residencial Densidad Media, Industria Inofensiva, Equipamiento Deportivo, Equipamiento y Densificacion Residencial, Nodo Comercial-Transporte, Equipamiento Recreacional-Area Verde, Vivienda Densidad Media, Villorrio Residencial/Mixto, Equipamiento y Vivienda, Vivienda Poniente, Vivienda Baja Densidad-Agroindustria, Mixta con Limitaciones, Industria e Infraestructura, Servicio de Transporte, Recreacional-Deportiva, Agricultura y Agroindustria), mas normas de infraestructura (transporte/sanitaria/energia) por zona. Modificaciones 1-5 (pag2-4) son de texto normativo general (cuerpos salientes, cierros, tabla de estacionamientos -fuera de alcance-, combustible, antenas)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pitrufquen_b61cf68755",
+  "comuna": "pitrufquen",
+  "ruta": "Ordenanzas ordenadas\\pitrufquen_198_aprueba_plan_regulador_comunal_de_pitrufquen__Promulga plan regulador comunal de Pitrufquén 1993.pdf",
+  "nombre": "pitrufquen_198_aprueba_plan_regulador_comunal_de_pitrufquen__Promulga plan regulador comunal de Pitrufquén 1993.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:10:49",
+  "fin": "2026-07-15T12:13:57",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Decreto 198, 25-nov-1983 (DO 31-ene-1984), Aprueba Plan Regulador Comunal de Pitrufquen, solo 2 pags disponibles en este PDF. Pag1: Capitulo I (Disposiciones Generales, arts.1-4) y arranque del Capitulo II (Definicion del Area Territorial, art.5, listado de puntos del limite urbano, cortado a mitad de tabla). Pag2: salta directo al Capitulo IV (Disposiciones generales para zonas urbanas y areas de restriccion -- reglas genericas de ocupacion de suelo/cierros/estacionamientos, no por zona) y Capitulo V (Vialidad, solo tabla de anchos de calles). FALTA el Capitulo III (Zonificacion y normas especificas por zona) que normalmente contendria los parametros de uso de suelo/COS/CC/altura por zona -- el PDF esta incompleto/truncado, no contiene ninguna tabla de normas urbanisticas por zona utilizable. Verificado visualmente paginas 1-2 de 2."
+  }
+}

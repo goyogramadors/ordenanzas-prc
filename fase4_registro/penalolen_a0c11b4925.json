@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_a0c11b4925",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_AR1.pdf",
+  "rangos": [
+    [
+      1,
+      1
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Ficha Zona A.R.1 Restricción de los Puertos Aéreos (1p): tabla completa de usos permitidos/excluidos y condiciones de subdivisión predial y edificación (predial, frente, ocupación 20-60%, CC 0.40-1.20, densidad 80hab/ha, agrupamiento aislado, rasantes, altura 6-8m, antejardín 5m, estacionamientos).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:28:55",
+  "fin": "2026-07-15T14:30:30",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_ar1_restriccion_puertos_aereos.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "A.R.1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: tabla extensa de usos excluidos por escala + tabla de condiciones de subdivision/edificacion (Vivienda/Industria/Equipamiento Vecinal), consistente con rangos de nota_fase3 (ocup 20-60%, CC 0.40-1.20, altura 6-8m, densidad 80hab/ha)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pedro_aguirre_cerda_ea96947cb1",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_plano_regulador_de_la_comuna_de_pedro_aguirre_cerda_planos_y_normativa__03cad6af-2982-4bb6-83ca-8fe5d3adb47b.pdf",
+  "nombre": "pedro_aguirre_cerda_plano_regulador_de_la_comuna_de_pedro_aguirre_cerda_planos_y_normativa__03cad6af-2982-4bb6-83ca-8fe5d3adb47b.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:10:35",
+  "fin": "2026-07-14T21:11:02",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: respuesta de transparencia (solicitud MU205T0002932) que solo remite al banner 'Transparencia Activa' de la pagina web municipal para consultar el PRC. Sin normas. Candidato a descarte."
+  }
+}

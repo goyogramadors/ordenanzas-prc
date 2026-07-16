@@ -1,0 +1,20 @@
+{
+  "id": "la_reina_52ff52b754",
+  "comuna": "la_reina",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_reina_decreto_fija_ordenanza_sobre_implantacion_de_usos_no_preferenciales_en_diversos___ordenanza_89.pdf",
+  "nombre": "la_reina_decreto_fija_ordenanza_sobre_implantacion_de_usos_no_preferenciales_en_diversos___ordenanza_89.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:19:11",
+  "fin": "2026-07-15T08:45:19",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Ordenanza sobre Implantación de Usos No Preferenciales en la Comuna de La Reina, Decreto 89 (1987, 5p): regula el procedimiento de autorización (impacto urbano, Comisión Técnica Especial, requisitos por tipo de establecimiento) para usos no preferentes en zonas ya definidas por el PRC. Es un reglamento de procedimiento, no trae tabla de normas urbanísticas por zona (COS/CC/altura/predial)."
+  }
+}

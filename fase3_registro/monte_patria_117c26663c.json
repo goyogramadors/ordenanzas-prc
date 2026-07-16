@@ -1,0 +1,25 @@
+{
+  "id": "monte_patria_117c26663c",
+  "comuna": "monte_patria",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\monte_patria_42123_modifica_y_actualiza_plan_regulador_comunal_comuna_de_monte_patria__1440131.pdf",
+  "nombre": "monte_patria_42123_modifica_y_actualiza_plan_regulador_comunal_comuna_de_monte_patria__1440131.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 40,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:04:49",
+  "fin": "2026-07-14T21:09:19",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        19,
+        33
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Trampa MIXTO confirmada (como Caldera): pag.9-40 texto=solo header/footer repetido ~486 chars, contenido real es imagen escaneada. Renderizado: pag19-20 estandares estacionamiento + inicio listado zonas; pag21-33 cuadros completos Art.9 por zona (ZU1-ZU10 pag21-26, ZIS/ZIE pag32, ZAV/ZAV1 pag32-33, ZCH Art.11 pag33): usos suelo, antejardin, COS, coef.constructibilidad, agrupamiento, altura max, densidad, rasantes, distanciamientos. Escaneo nitido y completo. Pag35-39 son tablas de vialidad (calles/anchos), excluidas por no ser normas de zona."
+  }
+}

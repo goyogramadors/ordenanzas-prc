@@ -1,0 +1,25 @@
+{
+  "id": "quinta_normal_501d5752c2",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_1626_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "nombre": "quinta_normal_1626_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T21:19:20",
+  "fin": "2026-07-14T21:21:50",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        3
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Decreto 1626/2017, Modificacion N3 PRC Quinta Normal (zonas RM1 y RM2). Cuadros completos en texto: ZONA RM1 (vivienda/equipamiento: predial 120 m2, ocupacion 70%, agrupamiento aislado/pareado/continuo, altura 2 pisos+mansarda o 2 pisos continua, antejardin optativo, CC 1,2, densidad 400 hab/ha; grandes depositos/bodegas inofensivas: predial 1.500 m2, ocupacion 50%, altura 2 pisos, antejardin 5 m, CC 1,2). ZONA RM2 (vivienda: predial 120 m2, ocupacion 70%, altura 5 pisos aislada/pareada o 2 continua, CC 1,2, densidad 600 hab/ha; grandes depositos: predial 500 m2, ocupacion 70%, altura 3 pisos, CC 1,2; industria/talleres inofensivos: predial 2.000 m2, ocupacion 50%, altura 3 pisos, antejardin 10 m, CC 1,2)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "curico_c78a6b8ec3",
+  "comuna": "curico",
+  "ruta": "Ordenanzas Descargadas\\1-600\\curico_2053_aprueba_retrotraer_proceso_de_difusion_publica_plan_regulador_comunal__2053.pdf",
+  "nombre": "curico_2053_aprueba_retrotraer_proceso_de_difusion_publica_plan_regulador_comunal__2053.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:37:06",
+  "fin": "2026-07-14T15:39:12",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "CURICO: Diario Oficial 4-may-2022, decreto 2053 exento que APRUEBA RETROTRAER EL PROCESO DE DIFUSION PUBLICA del PRC. Tramite administrativo puro (1 pagina), texto completo leido, sin normas."
+  }
+}

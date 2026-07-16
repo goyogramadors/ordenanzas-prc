@@ -1,0 +1,28 @@
+{
+  "id": "ovalle_2e65904ece",
+  "comuna": "ovalle",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\ovalle_530_modifica_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Resolucion 530 exenta (SEREMI Vivienda Coquimbo, 2006), aplica art.50 LGUC al lote 6-C (ex Serviu, sector Liceo Agricola), asimilandolo a la ZONA ZE-7 De Extension Residencial. p2: norma completa en PROSA (sin cuadro): usos permitidos (vivienda, densidad bruta max 450 hab/ha; equipamiento de salud/educacion/seguridad/culto-cultura/social/deporte/comercio/servicios/esparcimiento por escala), superficie predial minima 200 m2, frente predial minimo 8 m, antejardin 2 m, ocupacion de suelo 60%, agrupamiento aislada o pareada.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:22:29",
+  "fin": "2026-07-15T14:24:11",
+  "resultado": {
+    "archivo": "extraccion_normas\\ovalle\\ovalle_530_asimila_ze7_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE-7"
+    ],
+    "confianza": "ALTA",
+    "nota": "Norma completa en prosa (sin cuadro) para el lote 6-C, asimilado a zona ZE-7: usos, predial 200m2, frente 8m, antejardin 2m, ocupacion 60%, agrupamiento aislada/pareada, densidad 450 hab/ha. Sin CC ni altura especificados en el acto. Coincide con nota_fase3."
+  }
+}

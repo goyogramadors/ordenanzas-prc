@@ -1,0 +1,32 @@
+{
+  "id": "las_condes_49a059b117",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.955.30may1994.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto Secc.1a N955 (30.05.1994), Municipalidad de Las Condes: Aprueba y ratifica complementaciones a la Memoria del PRC (Vialidad e Infraestructura). p.2 reemplaza Cuadro 8.5 'Zona de Densidad Media' con tabla por zona EAM1/EAM1+cb/EAM2/EAM2+cb/EAM4: superficie, HAB/VIV (densidad), viviendas existentes/propuestas. p.3 reemplaza Cuadro 8.7 resumen de totales (densidad global 145.27 hab/ha, sin desglose por zona). ALERTA confianza MEDIA: es tabla de capacidad habitacional/densidad por zona (parametro 'densidad' del corpus), no un cuadro clasico de COS/CC/altura/predial/agrupamiento.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T14:18:50",
+  "fin": "2026-07-15T14:20:34",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_955_cuadro_densidad_media_pag2-3.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "EAM1",
+      "EAM1+cb",
+      "EAM2",
+      "EAM2+cb",
+      "EAM4"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Tabla de capacidad habitacional/densidad (no COS/CC/altura clasico). Alineacion de columna HAB/VIV ambigua en el escaneo para varias filas -- marcado explicitamente en el markdown, no inventado. Cuadro resumen de totales (8,7) tambien transcrito."
+  }
+}

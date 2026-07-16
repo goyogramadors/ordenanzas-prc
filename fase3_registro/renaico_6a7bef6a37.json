@@ -1,0 +1,29 @@
+{
+  "id": "renaico_6a7bef6a37",
+  "comuna": "renaico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\renaico_decreto_780_plan_regulador_de_la_comuna_de_renaico__ordenanza.planregulador.pdf",
+  "nombre": "renaico_decreto_780_plan_regulador_de_la_comuna_de_renaico__ordenanza.planregulador.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 24,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-14T21:22:57",
+  "fin": "2026-07-14T21:26:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        8,
+        18
+      ],
+      [
+        21,
+        23
+      ]
+    ],
+    "paginas_utiles": 14,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PRC completo Renaico: pág8-18 Condiciones de Subdivisión y Edificación completas para zonas Z-H (Centro Histórico), M-1, M-2, M-3 (Mixtas), Z-E (Equipamiento Comercial), ZAV (Áreas Verdes) - superficie predial, COS, CC, altura, agrupamiento, adosamiento, antejardín, densidad; pág21-23 condiciones especiales para inmuebles patrimoniales MN1, ICH_1, ICH_2, ICH_3. Texto nativo completo"
+  }
+}

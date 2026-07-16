@@ -1,0 +1,20 @@
+{
+  "id": "puerto_montt_6d1dff06a7",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_749_notifica_expropiacion_de_terreno_para_la_ejecucion_plan_regulador__Exportar.pdf",
+  "nombre": "puerto_montt_749_notifica_expropiacion_de_terreno_para_la_ejecucion_plan_regulador__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:16:38",
+  "fin": "2026-07-14T21:18:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PUERTO MONTT: Decreto 749 (2000, BCN LeyChile, 1p), 'Notifica expropiacion de terreno para ejecucion Plan Regulador' (apertura de calle sector Angelmo, lotes C-1 y D-1). Es tramite de expropiacion, no fija normas urbanisticas por zona. Sin imagenes de tabla oculta (verificado con pdfimages: solo logo BCN y QR). Texto completo leido."
+  }
+}

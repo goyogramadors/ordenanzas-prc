@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_1a5d749abc",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_ZHM-5.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ficha completa Zona Habitacional Mixta N5 (ZHM-5). Pag1 tabla usos de suelo permitidos (equipamiento por escala mayor/mediano/menor) + usos prohibidos. Pag2 tabla normas urbanisticas (densidad, agrupamiento, subdivision predial minima, frente minimo, %ocupacion suelo, %area libre, coef.constructibilidad, altura maxima, distanciamiento, rasante, adosamiento, cierros, antejardin) para 5 usos de suelo, mas restricciones.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T17:54:26",
+  "fin": "2026-07-15T17:56:38",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_zhm5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZHM-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa ZHM-5: usos de suelo (equipamiento por escala) + tabla completa normas urbanisticas para 5 usos de suelo (vivienda unifamiliar/colectiva, equip intercomunal/comunal/vecinal) + restricciones. Verificado contra nota_fase3: coincide."
+  }
+}

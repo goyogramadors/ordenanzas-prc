@@ -1,0 +1,20 @@
+{
+  "id": "el_quisco_1da65c56ff",
+  "comuna": "el_quisco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_quisco_informacion_de_cambio_plano_regulador_de_la_minicipalidad_del_quisco__28be9a5b-696f-4c9f-b6ec-af93caf5566e.pdf",
+  "nombre": "el_quisco_informacion_de_cambio_plano_regulador_de_la_minicipalidad_del_quisco__28be9a5b-696f-4c9f-b6ec-af93caf5566e.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T07:51:29",
+  "fin": "2026-07-15T07:52:55",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Respuesta Transparencia (Ley 20285) + Memorando N810 + Decreto Alcaldicio N3122/2016 aprobando Convenio Ad Referendum con SEREMI MINVU para LICITAR estudio de modificacion PRC El Quisco 2016 (aun no ejecutado). Sin tabla de normas por zona, solo clausulas de convenio (montos, plazos, firmas). Verificado visualmente 7 paginas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lo_barnechea_4103f25718",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1396_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "lo_barnechea_1396_promulga_modificacion_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:01:35",
+  "fin": "2026-07-14T21:04:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "TEXTO",
+    "nota": "Pag.2: cuadro pequeno Codigo/Producto Principal/Procesamiento que agrega actividad productiva al listado art.51 y al cuadro de equipamiento Zona M Av. La Dehesa art.55; no es tabla completa de normas de zona (sin COS/CC/altura)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_d848c0f19b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_plan.desarrollo.comunal.2006.pdf",
+  "nombre": "las_condes_plan.desarrollo.comunal.2006.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 107,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T20:54:45",
+  "fin": "2026-07-14T20:55:33",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: NO ES UN DOCUMENTO PRC. Es el Plan de Desarrollo Comunal 2006 (PLADECO), 107p, instrumento estrategico distinto al PRC. Grep sobre el texto completo: CERO coincidencias de coeficiente de constructibilidad, ocupacion de suelo, predial minima, altura maxima o sistema de agrupamiento. Sin normas urbanisticas por zona."
+  }
+}

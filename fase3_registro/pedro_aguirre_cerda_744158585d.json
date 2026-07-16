@@ -1,0 +1,20 @@
+{
+  "id": "pedro_aguirre_cerda_744158585d",
+  "comuna": "pedro_aguirre_cerda",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\pedro_aguirre_cerda_2_plan_regulador_tomo_ii__53853819-7508-4368-8b8e-2595ba33eaaf.pdf",
+  "nombre": "pedro_aguirre_cerda_2_plan_regulador_tomo_ii__53853819-7508-4368-8b8e-2595ba33eaaf.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 130,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:09:38",
+  "fin": "2026-07-14T21:11:52",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "PDF NO es la ordenanza del PRC pese al nombre 'plan_regulador_tomo_ii': es el Informe Fase de Planificacion del PLADECO 2014-2018 (agosto 2014). 166 ocurrencias de PLADECO, cero de coef.constructibilidad/ocupacion, superficie predial minima, agrupamiento, densidad bruta, ni codigos de zona. 'Plan Regulador Comunal' aparece 6 veces solo como proyecto futuro a formular. Trampa 'comuna ajena' variante 'documento equivocado' -verificar si el verdadero Tomo I/II esta en otro archivo de carpeta 600-1200."
+  }
+}

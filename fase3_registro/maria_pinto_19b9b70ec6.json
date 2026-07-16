@@ -1,0 +1,20 @@
+{
+  "id": "maria_pinto_19b9b70ec6",
+  "comuna": "maria_pinto",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\maria_pinto_decreto_alcaldicio_340_aprueba_bases_administrativas_y_tecnicas_actualizacion_pl__9a5a468e-7572-4503-928d-0a935a3e3a22.pdf",
+  "nombre": "maria_pinto_decreto_alcaldicio_340_aprueba_bases_administrativas_y_tecnicas_actualizacion_pl__9a5a468e-7572-4503-928d-0a935a3e3a22.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:37:11",
+  "fin": "2026-07-15T08:40:14",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio N340/2017 aprueba bases administrativas y tecnicas y llama a licitacion publica Actualizacion PRC Maria Pinto. Solo pequena tabla con nombre proyecto y monto (188.244.000), sin normas urbanisticas."
+  }
+}

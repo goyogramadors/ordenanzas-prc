@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_0a940addc1",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\RE9364~1.PDF",
+  "nombre": "RE9364~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:07:06",
+  "fin": "2026-07-15T08:09:29",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "IDENTIFICADO: es de la comuna RENGO (mal clasificado como SIN_COMUNA), Decreto Alcaldicio N580/2019 que solo INICIA el proceso de Enmienda N7 (aumento 20% altura máxima zona ZH3, e incorporación ZH5) - trámite de inicio con citación a audiencias públicas, sin cuadro normativo (los valores aún no se aprueban, solo se anuncia el objetivo)"
+  }
+}

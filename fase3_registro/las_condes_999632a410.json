@@ -1,0 +1,15 @@
+{
+  "id": "las_condes_999632a410",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_4480_28dic2004.pdf",
+  "nombre": "las_condes_dec.alcaldicio_n_4480_28dic2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "FALLIDO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:02:42",
+  "fin": "2026-07-14T20:58:00",
+  "resultado": {
+    "motivo": "TABLA AUSENTE (variante nueva de la trampa): Decreto 4480 (28-12-2004) aprueba el Plano Seccional PS-U-M (zona Uso de Suelo Metropolitano) y el texto dice literalmente 3 VECES 'CUADRO DE USOS DE SUELO ZONA U-M / VER DIARIO OFICIAL DE 03.02.2005, PAGINA 6.' -- remite a OTRA publicacion del Diario Oficial (fecha distinta a este decreto). La tabla no esta en este PDF de 3 paginas. Requiere el DO del 03-02-2005 pagina 6."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "penalolen_b8650bcaf6",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_Zona_E2.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "Ficha Zona E2 Zona Mixta Residencial, Equipamiento Menor y Áreas Verdes (2p): usos permitidos por clase (p.1) y Normas Específicas para Equipamiento y Vivienda + Áreas Verdes (p.2): predial mínima 600m2, agrupamiento aislado/pareado/continuo, COS 0.3, CC 0.6, altura 2 pisos 7.5m, densidad 70hab/ha, distanciamiento, antejardín 5m, estacionamientos según PRMS-D, superficie edificada mínima.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T17:57:34",
+  "fin": "2026-07-15T18:00:59",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_zona_e2_mixta.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ficha completa: predial 600m2, aislado/pareado/continuo, COS 0,3, CC 0,6, altura 2pisos/7,5m, densidad 70hab/ha, antejardin 5m, estacionamientos PRMS-D, superficie edificada minima 80m2/4 locales. Identica a la Zona E2 de la Modificacion 2005 Antupiren ya registrada. Coincide con nota_fase3."
+  }
+}

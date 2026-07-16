@@ -1,0 +1,25 @@
+{
+  "id": "futrono_19540b20a8",
+  "comuna": "futrono",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\futrono_resolucion_37_plan_regulador_comunal__Plan_Regulador_Comunal.pdf",
+  "nombre": "futrono_resolucion_37_plan_regulador_comunal__Plan_Regulador_Comunal.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 15,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:41:25",
+  "fin": "2026-07-14T15:46:29",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        5,
+        15
+      ]
+    ],
+    "paginas_utiles": 11,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "DOS DOCUMENTOS EN UNO. p1-9: Res.37/1997 Ordenanza Local PRC Futrono, ESCANEADA (imagen 1-bit); las normas por zona (Z-1 a Z-6, ZE-1 a ZE-3) estan en p6-8 como texto corrido a dos columnas, legibles en render (Z-1: COS 0,8, CC 2,0, continuo; Z-2: predial 200m2, COS 0,7, CC 1,4; Z-3: predial 500m2, 2 pisos+mansarda, 15 viv/ha; Z-4: 1.000m2, COS 0,6, 8 viv/ha; Z-5: 150m2, aislado/pareado, antejardin 3m). OJO: el OCR con pdftotext -layout MEZCLA LAS COLUMNAS y pega los valores a la etiqueta equivocada -> la fase siguiente DEBE leer el render, no el texto. p10-15: Res.101/2006 (texto nativo LeyChile, confiable) que crea la Zona Z-7 (predial 400m2, COS 0,7, CC 1,0, aislado, 2 pisos+mansarda, antejardin 3m, 20 viv/ha) y en p14-15 trae tabla 'NORMA / VIGENTE / SE REEMPLAZA POR' que cambia Z-3 (predial 500->200 m2) y Z-6 (predial 1000->400 m2, COS 0,6->0,7, antejardin 15->5 m). Para el valor VIGENTE de cada zona hay que cruzar ambos documentos."
+  }
+}

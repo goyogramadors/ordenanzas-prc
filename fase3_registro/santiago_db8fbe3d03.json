@@ -1,0 +1,20 @@
+{
+  "id": "santiago_db8fbe3d03",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_08.-Ord-N_C2_B001.pdf",
+  "nombre": "santiago_08.-Ord-N_C2_B001.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T12:56:41",
+  "fin": "2026-07-15T12:59:00",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Ord. N01, 14-feb-2023, Asesor Urbanista (S) de Santiago a SEREMI MINVU RM, 6 pags (pag6 en blanco). REMITE EXPEDIENTE de la Modificacion PRC 'Correccion de la Zonificacion Especial...' -- es un INDICE/listado numerado de los documentos administrativos y tecnicos que componen el expediente (decretos de inicio, EAE, cartas, publicaciones, actas de audiencia, informes), no transcribe el contenido normativo mismo. Verificado visualmente paginas 1,3,6 de 6."
+  }
+}

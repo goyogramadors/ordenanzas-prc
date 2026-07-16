@@ -1,0 +1,25 @@
+{
+  "id": "vallenar_3fb1e9c2d6",
+  "comuna": "vallenar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vallenar_812_aprueba_enmienda_01_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "vallenar_812_aprueba_enmienda_01_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:33:58",
+  "fin": "2026-07-14T21:34:53",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Dec.812/2013 Enmienda 01 PRC Vallenar, Zona ZD (art.13 Ordenanza Local): aumenta COS de 10% a 13% y cambia uso de suelo permitiendo equipamiento (social, cultural, servicios, comercio). Valores en TEXTO."
+  }
+}

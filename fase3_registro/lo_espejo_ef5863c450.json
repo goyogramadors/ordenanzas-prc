@@ -1,0 +1,20 @@
+{
+  "id": "lo_espejo_ef5863c450",
+  "comuna": "lo_espejo",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\lo_espejo_solicita_envio_ordenanza_y_plano_uso_suelo_del_plan_regulador_comunal_vigente__e1ab93f7-c946-46b4-b7de-eb5d997425d6.pdf",
+  "nombre": "lo_espejo_solicita_envio_ordenanza_y_plano_uso_suelo_del_plan_regulador_comunal_vigente__e1ab93f7-c946-46b4-b7de-eb5d997425d6.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:36:22",
+  "fin": "2026-07-15T08:38:11",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Resolucion N37/2339/2021 (Ley de Transparencia): accede a entregar ordenanza y plano de uso de suelo del PRC vigente a solicitante. Solo resolucion administrativa de transparencia, no contiene normas urbanisticas."
+  }
+}

@@ -1,0 +1,217 @@
+[
+ {
+  "id": "d0136",
+  "comuna": "la_ligua",
+  "nombre_documento": "decreto_alcaldicio_norma_el_sistema_de_transito_que_rige_en_la_ciudad_de_la_ligu",
+  "archivo": "la_ligua_decreto_alcaldicio_norma_el_sistema_de_transito_que_rige_en_la_ciudad_de_la_ligu__DA2299-25102012.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 18,
+  "paginas_escaneadas": 18,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "otro_tema"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "OTRO_TEMA_MUNICIPAL",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "materia municipal ajena al plan regulador",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0137",
+  "comuna": "la_pintana",
+  "nombre_documento": "decreto_2294_aprueba_bases_y_llama_a_propuesta_publica_actualizacion_plan_regula",
+  "archivo": "la_pintana_decreto_2294_aprueba_bases_y_llama_a_propuesta_publica_actualizacion_plan_regula__2294.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [
+   "licitacion"
+  ],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 5
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "TRAMITE_ADMINISTRATIVO",
+   "sirve": "NO",
+   "confianza": "ALTA",
+   "motivo": "acto administrativo de contratacion/licitacion del estudio, sin normas",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "MAT. : APRUEBA BASES Y LLAMA A PROPUESTA\r\nPÚBLICA “ACTUALIZACIÓN PLAN REGULADOR\r\nCOMUNAL LA PINTANA, CÓDIGO BIP40000196-0”\r\n\r\nLA PINTANA, 05/ 05/ 2022\r\n\r\nDECRETO Nº: 02294/2022\r\n\r\nVISTO:\r\n1. La Resolución Exenta N°62 de fecha 30 de noviembre del 2020 que Aprueba el Convenio Mandato de fecha 05 de noviembre del\r\n2020 entre el Gobierno Regional Metropolitano de Santiago y la Municipalidad de La Pintana, para la ejecución de la iniciativa de\r\nestudios y consultorías, denominada “ACTUALIZACIÓN PLAN REGULADOR COMUNAL, LA PINTANA ”, Código BIP: 40000196-0;\r\n2. El Decreto N°134/2021 de fecha 08 de febrero de2021 por el cual el Municipio Aprueba el Convenio Mandato;\r\n3. La Resolución N°05 de fecha 20 de enero de 2022 que Aprueba Modificación del Convenio Mandato;\r\n4. El Oﬁcio N°885 de fecha 04 abril de 2022 de la División de Presupuesto e Inversión Regional que solicita iniciar el proceso de\r\nLicitación Pública;\r\n5. El Memorandum N°6750 de fecha 12 de abril de 2022 enviado a las Direcciones de Jurídico y Control solicitando la Revisión de\r\nModificación a las Bases Administrativas Especiales y Formatos;\r\n6. La Hoja de Envío N°5379 de fecha 28 de abril de 2022 de la Dirección de Asesoría Jurídica que remite Bases Administrativas\r\nEspeciales y Formatos visados;\r\n7. El Certificado de Disponibilidad Presupuestaria de fecha 29 de abril de 2022;\r\n8. El Decreto Exento Nº1900/159/631 de fecha 31 de marzo de 2017 que Aprobó las Bases Administrativas Generales para Propuestas\r\nPúblicas y Privad"
+ },
+ {
+  "id": "d0138",
+  "comuna": "la_pintana",
+  "nombre_documento": "decreto_2777_declara_desierta_propuesta_publica_actualizacion_plan_regulador_com",
+  "archivo": "la_pintana_decreto_2777_declara_desierta_propuesta_publica_actualizacion_plan_regulador_com__2777.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 2,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {
+   "txt_licitacion": 4
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "MAT. : DECLARA DESIERTA PROPUESTA PÚBLICA\r\n“ACTUALIZACIÓN PLAN REGULADOR COMUNAL\r\nLA PINTANA, CÓDIGO BIP40000196-0” ID 227513-LR22.\r\n\r\nLA PINTANA, 28/ 06/ 2022\r\n\r\nDECRETO Nº: 02777/2022\r\n\r\nVISTO:\r\n1. El Decreto N°2294 de fecha 05 de mayo de 2022 que Aprobó las Bases Administrativas Especiales, Formatos, Términos Técnicos de\r\nReferencia y Llamó a la Propuesta Pública “ACTUALIZACIÓN PLAN REGULADOR COMUNAL LA PINTANA, CÓDIGO\r\nBIP40000196-0” ID 2275-13-LR22;\r\n2. El documento denominado Resolución Acta de Deserción, emitido automáticamente por el Portal de Mercado Público, con fecha 15\r\nde junio de 2022, al no haberse recibido ofertas;\r\n3. La Ley 19799 Sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de Dicha Firma y su Reglamento;\r\n4. El Decreto Exento N°1001/63/2276 de fecha 29 de diciembre de 2020 que Aprueba Protocolo del Gestor Documental Cero Papel.\r\nCONSIDERANDO:\r\n1. Que no se presentaron ofertas en la Licitación Pública “ACTUALIZACIÓN PLAN REGULADOR COMUNAL LA PINTANA, CÓDIGO\r\nBIP40000196-0” ID 2275-13-LR22;\r\n2. La necesidad de que la comuna de La Pintana tenga un Instrumento de Planificación Territorial actualizado;\r\n3. El Decreto Nº 01313/2021 de fecha 01 de julio de 2021 que delega la facultad de ﬁrmar por orden de la Alcaldesa en la\r\nAdministradora Municipal, en las materias que ahí se indica; y\r\n4. Las facultades que me confiere la Ley 18695 Orgánica Constitucional de Municipalidades.\r\nDECRETO:\r\n1.- DECLÁRESE DESIERTA la Propuesta Pública "
+ },
+ {
+  "id": "d0139",
+  "comuna": "la_reina",
+  "nombre_documento": "decreto_fija_ordenanza_sobre_implantacion_de_usos_no_preferenciales_en_diversos",
+  "archivo": "la_reina_decreto_fija_ordenanza_sobre_implantacion_de_usos_no_preferenciales_en_diversos___ordenanza_89.pdf",
+  "veredicto_capa_texto": "ESCANEADO",
+  "paginas": 5,
+  "paginas_escaneadas": 5,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [],
+  "nombre_opaco": false,
+  "senales_normativas": {},
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 0,
+  "sugerencia_regex": {
+   "categoria": "INDETERMINADO",
+   "sirve": "ESCALAR",
+   "confianza": "BAJA",
+   "motivo": "ni el nombre ni el texto de las primeras paginas permiten decidir",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": ""
+ },
+ {
+  "id": "d0663",
+  "comuna": "la_reina",
+  "nombre_documento": "1516_modificacion_2010_al_plan_regulador_comunal_de_la_reina",
+  "archivo": "la_reina_1516_modificacion_2010_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 36,
+  "paginas_escaneadas": 6,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "constructibilidad": 1,
+   "ocupacion_suelo": 1,
+   "predial_minima": 4,
+   "altura_maxima": 1,
+   "agrupamiento": 6,
+   "antejardin": 7,
+   "rasante": 2,
+   "adosamiento": 1,
+   "normas_urbanisticas": 1,
+   "zonificacion": 2,
+   "ordenanza_local_txt": 5,
+   "articulado": 25
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 12,
+  "sugerencia_regex": {
+   "categoria": "ORDENANZA_PRC",
+   "sirve": "SI",
+   "confianza": "MEDIA",
+   "motivo": "el texto trae 12 senales normativas (constructibilidad, ocupacion_suelo, predial_minima, altura_maxima)",
+   "metodo": "TEXTO"
+  },
+  "texto_primeras_paginas": "Decreto 1516, LA REINA (2010)\r\n\r\nDecreto 1516\r\nPROMULGA MODIFICACIÓN 2010 AL PLAN REGULADOR COMUNAL DE LA\r\nREINA\r\nMUNICIPALIDAD DE LA REINA\r\nFecha Publicación: 09-SEP-2010 | Fecha Promulgación: 03-SEP-2010\r\nTipo Versión: Única De : 09-SEP-2010\r\nUrl Corta: https://bcn.cl/3megd\r\n\r\nPROMULGA MODIFICACIÓN 2010 AL PLAN REGULADOR COMUNAL DE LA REINA\r\nNúm. 1.516.- La Reina, 3 de septiembre de 2010.- Vistos y considerando:\r\n1.- La proposición de modificación al plan regulador comunal de La Reina, que\r\ncomprende la modificación parcial de la Ordenanza Local y el reemplazo de los planos\r\ndel Plan Regulador Comunal.\r\n2.- Que el Concejo Municipal en Sesión Ordinaria Nº 36 de fecha 14 de\r\ndiciembre de 2009, mediante acuerdo Nº 1749 aprueba dar inicio al proceso de\r\naprobación del proyecto de modificación al Plan Regulador Comunal de La Reina.\r\n3.- Que se enviaron cartas a través de correo certificado a las organizaciones\r\nterritoriales existentes en la comuna, y a vecinos, informando el inicio de la\r\ntramitación y las principales características de la modificación al Plan Regulador\r\nComunal de La Reina.\r\n4.- Que por medio de certificado del secretario municipal de fecha 26 de julio\r\nde 2010, se da cuenta de que se publicó en el diario El Mercurio con fecha 17 y 21\r\nde diciembre de 2009, los avisos correspondientes a la citación a la audiencia\r\npública informativa celebrada el 22 de diciembre de 2009 indicando el periodo y\r\nlugar de exposición de la propuesta de modificación.\r\n5.- Que se co"
+ },
+ {
+  "id": "d0664",
+  "comuna": "la_reina",
+  "nombre_documento": "1857_aprueba_enmiendas_al_plan_regulador_vigente",
+  "archivo": "la_reina_1857_aprueba_enmiendas_al_plan_regulador_vigente__Exportar.pdf",
+  "veredicto_capa_texto": "MIXTO",
+  "paginas": 10,
+  "paginas_escaneadas": 7,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "normas_urbanisticas": 3,
+   "articulado": 7
+  },
+  "senales_tramite": {
+   "txt_licitacion": 1
+  },
+  "codigos_zona": [],
+  "puntaje_normativo": 2,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 1857, LA REINA (2015)\r\n\r\nDecreto 1857\r\nAPRUEBA ENMIENDAS AL PLAN REGULADOR VIGENTE\r\nMUNICIPALIDAD DE LA REINA\r\nFecha Publicación: 07-OCT-2015 | Fecha Promulgación: 02-OCT-2015\r\nTipo Versión: Última Versión De : 14-OCT-2015\r\nUltima Modificación: 14-OCT-2015 Decreto 1929\r\nUrl Corta: https://bcn.cl/3m04p\r\n\r\nAPRUEBA ENMIENDAS AL PLAN REGULADOR VIGENTE\r\nNúm. 1.857.- La Reina, 2 de octubre de 2015.\r\nVistos:\r\nPlan Regulador Comunal de La Reina aprobado por decreto\r\nalcaldicio Nº 1.516, de fecha 3 de septiembre de 2010,\r\npublicado en el Diario Oficial Nº 39.758, de fecha 9 de\r\nseptiembre de 2010; lo dispuesto en el artículo 45º Ley\r\nGeneral de Urbanismo y Construcciones, y lo dispuesto en los\r\nartículos 2.1.11 y 2.1.13 de la Ordenanza General de\r\nUrbanismo y Construcciones referente a las Enmiendas a los\r\nPlanes Reguladores Comunales; acuerdo del Concejo Municipal\r\nNº 2.853 de 19 de diciembre de 2014 que acuerda iniciar un\r\nproceso de Enmienda; acuerdo de Concejo Municipal Nº 2.905\r\nde 23 de marzo de 2015 que aprueba adjudicar la propuesta de\r\nla Universidad Católica para la Enmienda del PRC; decreto\r\nalcaldicio Nº 1.372 de fecha 15 de julio de 2015 que ordena\r\ndar inicio al proceso legal de Enmienda según calendario\r\npreestablecido; aviso de prensa en un diario de circulación\r\nnacional el 20 de julio de 2015 de la exposición por 30\r\ndías del proyecto de Enmienda al PRC; 2 audiencias con el\r\nCosoc comunal dando a conocer el proyecto de Enmienda y su\r\nproceso, la primera el 27"
+ },
+ {
+  "id": "d0665",
+  "comuna": "la_reina",
+  "nombre_documento": "298_sanciona_enmienda_n_1_al_plan_regulador_comunal_de_la_reina",
+  "archivo": "la_reina_298_sanciona_enmienda_n_1_al_plan_regulador_comunal_de_la_reina__Exportar.pdf",
+  "veredicto_capa_texto": "TEXTO",
+  "paginas": 3,
+  "paginas_escaneadas": 0,
+  "tipo_real": "PDF",
+  "regex_descarte": [],
+  "regex_valor": [
+   "enmienda",
+   "prc_generico"
+  ],
+  "nombre_opaco": false,
+  "senales_normativas": {
+   "agrupamiento": 1,
+   "usos_de_suelo": 7,
+   "articulado": 7
+  },
+  "senales_tramite": {},
+  "codigos_zona": [],
+  "puntaje_normativo": 3,
+  "sugerencia_regex": {
+   "categoria": "ENMIENDA_PRC",
+   "sirve": "SI",
+   "confianza": "ALTA",
+   "motivo": "el nombre declara enmienda prc",
+   "metodo": "NOMBRE"
+  },
+  "texto_primeras_paginas": "Decreto 298, LA REINA (2002)\r\n\r\nDecreto 298\r\nSANCIONA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE LA REINA\r\nMUNICIPALIDAD DE LA REINA\r\nFecha Publicación: 09-MAY-2002 | Fecha Promulgación: 25-ABR-2002\r\nTipo Versión: Única De : 09-MAY-2002\r\nUrl Corta: https://bcn.cl/3l3as\r\n\r\nSANCIONA ENMIENDA Nº 1 AL PLAN REGULADOR COMUNAL DE LA REINA\r\nNúm. 298.- La Reina, 25 de abril de 2002.- Vistos: El acuerdo Nº 844 de fecha\r\n5 de febrero de 2002, del Concejo de La Reina que aprueba dar inicio a la\r\nmodificación del Plan Regulador Comunal, Zona B7, cambiando su Uso de Suelo,\r\ndestinándolo exclusivamente a Area Verde; el decreto alcaldicio Nº 114 de fecha 18\r\nde febrero de 2002 que da inicio al proceso de Enmienda para la Zona B7, y que ordena\r\nla exhibición al público de esta enmienda entre los días 4 de marzo y 4 de abril\r\nde 2002; las publicaciones efectuadas en el diario El Mercurio los días 20 y 27 de\r\nfebrero mediante las cuales se comunicó a los vecinos la Enmienda Nº 1 al Plan\r\nRegulador de La Reina, informándose además, de la fecha y lugar de exposición de\r\nla citada Enmienda y que fijó la fecha límite para recibir las observaciones de los\r\nvecinos, el día 19 de abril de 2002; que no se recibió en el período señalado\r\nninguna observación por parte de los interesados; lo dispuesto en el artículo 45 de\r\nla Ley General de Urbanismo y Construcciones, y en el artículo 2.1.13 de la\r\nOrdenanza General de Urbanismo y Construcciones; el acuerdo Nº 857 del Concejo\r\nMunicipal celebrado en sesió"
+ }
+]

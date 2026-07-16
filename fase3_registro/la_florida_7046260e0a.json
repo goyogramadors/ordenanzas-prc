@@ -1,0 +1,25 @@
+{
+  "id": "la_florida_7046260e0a",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_430_modificacion_al_plan_regulador_comunal_sector_centro_y_poligonos_a_b_c_d_y_e__Exportar.pdf",
+  "nombre": "la_florida_430_modificacion_al_plan_regulador_comunal_sector_centro_y_poligonos_a_b_c_d_y_e__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 39,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:44:33",
+  "fin": "2026-07-14T15:53:45",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        15,
+        36
+      ]
+    ],
+    "paginas_utiles": 22,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Modificacion PRC La Florida sector Centro y poligonos A-E (39 pags). TODO EN TEXTO, sin trampa de imagen. p15-19: tabla de estacionamientos exigidos por tipo de uso (reemplaza el estandar del art.15). p22-25: reemplaza tablas de los arts.39-41: ESP-1 Manzana Civica (COS 0,70, CI libre, rasante 70) y ESP-2 Terrenos Consultorio (COS 0,65, CI 1,95, altura 12,6 m, antejardin 3 m). p27-36: zonas nuevas Z-AA1 (COS 0,30, CI 3,5), Z-AA2, Z-AA+CB/CM, Z-AA+CM, Z-AM, con usos de suelo + condiciones de edificacion completas. p4-11 (chars bajos) NO son tablas: son coordenadas/deslindes de los poligonos A-E. Fuente cruzada de los mismos valores que la ordenanza refundida."
+  }
+}

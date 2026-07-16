@@ -1,0 +1,20 @@
+{
+  "id": "codegua_c56c03762e",
+  "comuna": "codegua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\codegua_19_establece_dejar_sin_efecto_restitucion_de_declaratorias_de_utilidad_publica_p__Exportar.pdf",
+  "nombre": "codegua_19_establece_dejar_sin_efecto_restitucion_de_declaratorias_de_utilidad_publica_p__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:30:50",
+  "fin": "2026-07-14T15:36:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Dec.19/2015: solo deja sin efecto declaratorias de utilidad publica (ensanches) de 3 vias -Los Aromos, Calle A, Via Nueva Uno- por Ley 20.791. No transcribe ningun parametro de zona."
+  }
+}

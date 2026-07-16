@@ -1,0 +1,28 @@
+{
+  "id": "concepcion_8b8700f090",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas ordenadas\\concepcion_135_aprueba_nuevo_plan_regulador_comunal_de_concepcion__DEC. 135 MODIF. PLAN REGULADOR.pdf",
+  "rangos": [
+    [
+      2,
+      2
+    ]
+  ],
+  "paginas_utiles": 1,
+  "nota_fase3": "Decreto 135/2016, 2a Enmienda al PRC. Pag1 solo VISTOS. Pag2 Articulo Unico modifica norma puntual: zona 4.1 (art.21 Ordenanza Local), item Antejardin, reemplaza guarismo 5 por 2. No es tabla completa de zonas, es articulo que modifica un solo parametro para una sola zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-15T14:11:35",
+  "fin": "2026-07-15T14:13:25",
+  "resultado": {
+    "archivo": "extraccion_normas\\concepcion\\concepcion_135_enmienda_zona41_antejardin_pag2.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "4.1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmienda puntual: solo antejardin 5->2 en zona 4.1, art.21. No tabla completa. Coincide exactamente con nota_fase3."
+  }
+}

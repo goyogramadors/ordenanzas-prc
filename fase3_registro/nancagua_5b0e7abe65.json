@@ -1,0 +1,20 @@
+{
+  "id": "nancagua_5b0e7abe65",
+  "comuna": "nancagua",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\nancagua_decreto_alcaldicio_1945_autoriza_publicacion_de_un_aviso_por_estudio_plan_regula__1945.pdf",
+  "nombre": "nancagua_decreto_alcaldicio_1945_autoriza_publicacion_de_un_aviso_por_estudio_plan_regula__1945.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:39:22",
+  "fin": "2026-07-15T08:40:06",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto Alcaldicio 1945/2018: orden de compra para publicar aviso de estudio del PRC. Puramente administrativo, sin contenido normativo."
+  }
+}

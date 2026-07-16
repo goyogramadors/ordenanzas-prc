@@ -1,0 +1,20 @@
+{
+  "id": "los_angeles_39db77ce86",
+  "comuna": "los_angeles",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\los_angeles_acuerdo_1036_20_aprueba_informe_de_la_comision_secplan_y_las_propuestas_contenid__110-Cent%C3%A9sima-d%C3%A9cima-s.o.-20.01.2020.pdf",
+  "nombre": "los_angeles_acuerdo_1036_20_aprueba_informe_de_la_comision_secplan_y_las_propuestas_contenid__110-Cent%C3%A9sima-d%C3%A9cima-s.o.-20.01.2020.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 28,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T07:56:52",
+  "fin": "2026-07-15T08:02:58",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto+visual",
+    "nota": "ACTA SESION ORDINARIA CONCEJO MUNICIPAL 20-01-2020: Acuerdo 1036-19 solo aprueba un CALENDARIO de participación ciudadana para la Modificación 2020 del PRC (fechas de audiencias marzo-junio 2020), sin transcribir valores de COS/CC/altura/predial. Las paginas_con_imagen (18-24,26,28) verificadas visualmente: son presentaciones PowerPoint de OTROS puntos de tabla (construcción cuartel de bomberos, licitación 2408-457-LR19) sin relación con normas urbanísticas. Documento sin contenido de tablas de normas."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_078bd6a9bf",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_serena_0_complementese_la_publicacion_del_17_de_febrero_de_2010_pagina_8_de_la_municipa__Exportar.pdf",
+  "nombre": "la_serena_0_complementese_la_publicacion_del_17_de_febrero_de_2010_pagina_8_de_la_municipa__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:50:01",
+  "fin": "2026-07-14T15:56:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA SERENA: 1 pagina (BCN) que solo COMPLEMENTA la publicacion del 17-feb-2010 pag 8, consignando el Acuerdo de Concejo (Sesion Ordinaria 773) que aprueba el Plano Seccional N4 'que consiste en detallar los usos de suelo en la zona ZE-8, sector costero urbano'. No trae ningun parametro ni cuadro. Verificado visualmente. PISTA: el Plano Seccional N4 real, que si podria traer la tabla de ZE-8, es otro archivo del corpus (la_serena_539_aprueba_plano_seccional_no4)."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "la_florida_687331cea5",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_florida_necesito_informacion_y_documentacion_respecto_a_1_plan_de_desarrollo_comunal_act__ORD_233_DJ_censurado.pdf",
+  "nombre": "la_florida_necesito_informacion_y_documentacion_respecto_a_1_plan_de_desarrollo_comunal_act__ORD_233_DJ_censurado.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:17:48",
+  "fin": "2026-07-15T08:19:10",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Oficio ORD 233-LIBRO Ley 20.285 (06.05.2025), Municipalidad de La Florida. Respuesta/aclaracion a solicitud de Transparencia sobre Plan de Desarrollo Comunal. Puramente administrativo, sin contenido normativo."
+  }
+}

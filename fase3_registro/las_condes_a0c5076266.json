@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_a0c5076266",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_DECRETO.729.pdf",
+  "nombre": "las_condes_DECRETO.729.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 37,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:31:10",
+  "fin": "2026-07-15T08:35:11",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        10,
+        31
+      ]
+    ],
+    "paginas_utiles": 22,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 729 (25.01.2011), Texto Aprobatorio Modificacion N8 al PRC de Las Condes. Tablas de normas incrustadas como enmiendas puntuales a articulos (no un cuadro unico por zona): p.10 predial minimo/COS/ocupacion terreno relleno-excavacion/rasante (art.27); p.14 Tabla C (densidad 40 viv/ha, predial 4000m2, CC 1.6, COS 0.30, rasante 70, altura 5p/17.5m, antejardin 10m, distanciamiento 11m, agrupamiento Aislado); p.15 poligono A-B-C-D-E-F-A (60 viv/ha, predial 1000m2, CC 1.6, COS 0.35, altura 5p/17.5m, antejardin 7m) y zona Culto (predial 2500m2, CC 0.6, COS 0.5, altura 20m, antejardin 10m); pp.19-20 fragmentos tablas A/B/C/D (altura hasta 8p/32m); pp.23-31 Cuadros de Zonas de Uso de Suelo (Art.40) por zona U-M, U-V/U-V1/U-V2/U-V3/U-VO, U-C1/U-C2/U-C3, U-Ee1/U-Ee2/U-Ee5 con clases Salud/Educacion/Comercio/Servicios/Act.Productivas y condiciones de ocupacion (0.4/0.6). Excluido pp.32-35: listado extenso de vialidad (anchos de calle), no es norma de zona edificatoria. Sin comuna ajena, todo confirmado Las Condes."
+  }
+}

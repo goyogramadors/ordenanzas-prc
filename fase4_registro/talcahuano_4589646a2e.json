@@ -1,0 +1,32 @@
+{
+  "id": "talcahuano_4589646a2e",
+  "comuna": "talcahuano",
+  "ruta": "Ordenanzas ordenadas\\talcahuano_7032010_modificacion_plan_regulador_comunal_de_talcahuano_modifica_da_n247_de_20__do-20100525.pdf",
+  "rangos": [
+    [
+      7,
+      8
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "PDF completo es edicion del Diario Oficial de 44p en 3 Cuerpos, mayoria contenido ajeno (renuncias funcionarios, concesiones, avisos legales). Decreto Alcaldicio N703 Talcahuano modifica PRC esta en pag7-8 (Cuerpo I-7/I-8). No es tabla impresa sino modificaciones textuales puntuales referenciando celdas de cuadros de normas por zona: Cap.IV Zonificacion art.42, zonas ZH3T (Cerro La Gloria/Monte Redondo), ZH5T (Nueva Los Lobos), ZH4T (Los Lobos), ZEXEQ2, ZEXEQ5 -modifica filas Sistema agrupamiento, Altura maxima edificacion continua, COS, coef.constructibilidad, usos de suelo (elimina Residencial, agrega Equipamiento excepto Seguridad). Tambien modifica Cap.VI Vialidad art.52 (anchos vias). Pag9 ya es portada Cuerpo II (contenido distinto). Muestreo pag10,14,18,22,26,30,34,38,42,44 confirma secciones ajenas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:13:12",
+  "fin": "2026-07-15T18:18:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\talcahuano\\talcahuano_703_2010_zh3t_zh5t_zh4t_zeq2_zexeq5.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "ZH-3T",
+      "ZH-5T",
+      "ZH-4T",
+      "ZEQ-2",
+      "ZEXEQ-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Sustituciones puntuales de celdas (no cuadro completo nuevo) en 5 zonas del art.42; ZEQ2 con COS/CC/altura completos, resto son ajustes de agrupamiento/altura continua/usos. Punto 1 (geometrico, creacion ZEXH2T Centinela) resumido para contexto. Vialidad excluida. Verificado contra nota_fase3: coincide."
+  }
+}

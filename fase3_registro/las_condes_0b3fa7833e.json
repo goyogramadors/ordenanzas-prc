@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_0b3fa7833e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_9-j-1eraviso-ModifN11-publicado-22oct2021.pdf",
+  "nombre": "las_condes_9-j-1eraviso-ModifN11-publicado-22oct2021.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:27:23",
+  "fin": "2026-07-15T08:30:21",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Recorte de diario 'Las Ultimas Noticias' 22-oct-2021: solo contiene el AVISO/edicto de exposicion publica del Proyecto de Modificacion N11 al PRC de Las Condes (primer aviso). No incluye normas urbanisticas, solo texto del aviso legal."
+  }
+}

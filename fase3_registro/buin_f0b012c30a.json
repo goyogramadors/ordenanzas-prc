@@ -1,0 +1,20 @@
+{
+  "id": "buin_f0b012c30a",
+  "comuna": "buin",
+  "ruta": "Ordenanzas Descargadas\\1-600\\buin_2347_da_inicio_a_proceso_de_invalidacion_de_los_decretos_alcaldicios_correspondi__2496077.pdf",
+  "nombre": "buin_2347_da_inicio_a_proceso_de_invalidacion_de_los_decretos_alcaldicios_correspondi__2496077.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:00:13",
+  "fin": "2026-07-14T13:02:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "BUIN: Diario Oficial 27-may-2024, decreto 1789 que DA INICIO AL PROCESO DE INVALIDACION de los decretos 2202/2388/3400 de 2023 (imagen objetivo y consulta publica del PRC), porque la Seremi Minvu observo incumplimiento de plazos del art 28 octies LGUC / 2.1.5 OGUC en las publicaciones. Tramite administrativo puro, 2 pags leidas, sin normas urbanisticas."
+  }
+}

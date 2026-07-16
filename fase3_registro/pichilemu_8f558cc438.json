@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_8f558cc438",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pichilemu_2852_iniciese_el_estudio_de_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fisc__publicacion_nov_2019.pdf",
+  "nombre": "pichilemu_2852_iniciese_el_estudio_de_expropiacion_parcial_de_inmuebles_rol_de_avaluo_fisc__publicacion_nov_2019.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:47:30",
+  "fin": "2026-07-15T12:10:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Decreto Exento 2852 (04-oct-2019, 2p): inicia estudio de expropiación parcial de inmuebles Rol 1129-490 y 1129-587 para materializar Calle Nueva N18 del PRC. Acto administrativo de expropiación, no contiene tabla de normas urbanísticas."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "la_union_2731dcc5d2",
+  "comuna": "la_union",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_union_2900_enmienda_al_plan_regulador_comunal_de_la_union_en_lo_que_se_refiere_al_arti__DTO-2900 EXENTO_10-MAY-2013.pdf",
+  "nombre": "la_union_2900_enmienda_al_plan_regulador_comunal_de_la_union_en_lo_que_se_refiere_al_arti__DTO-2900 EXENTO_10-MAY-2013.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:51:39",
+  "fin": "2026-07-14T15:56:51",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA UNION: Decreto 2900 exento (may-2013, BCN, 1p), enmienda al art 13 parrafo 11 de la Ordenanza Local. Norma en texto limpio (sin trampa, verificado en render): modifica la exigencia de estacionamientos en la ZONA ZU-4, uso Salud (de 1 cada 40 m2 a 1 cada 52 m2) y uso Deporte (de 1 cada 24 espectadores a 1 cada 31). No es tabla de COS-CC-altura, sino norma de estacionamientos por zona y uso, con valores explicitos y accesibles."
+  }
+}

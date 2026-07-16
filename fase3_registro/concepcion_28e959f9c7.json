@@ -1,0 +1,20 @@
+{
+  "id": "concepcion_28e959f9c7",
+  "comuna": "concepcion",
+  "ruta": "Ordenanzas Descargadas\\1-600\\concepcion_solicita_copia_de_ordenanza_y_copia_del_plan_regulador_comunal_de_concepcion_amb__2f6b40c9-2953-44fd-ad4f-a04f02f7c42b.pdf",
+  "nombre": "concepcion_solicita_copia_de_ordenanza_y_copia_del_plan_regulador_comunal_de_concepcion_amb__2f6b40c9-2953-44fd-ad4f-a04f02f7c42b.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:11:38",
+  "fin": "2026-07-15T08:13:27",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Oficio respuesta solicitud transparencia (Ley 20285). 3 paginas cartas administrativas (Administrador Municipal, Asesor Urbanista) que remiten a www.concepcion.cl para descargar el PRC; sin norma urbanistica, cuadro ni articulo normativo."
+  }
+}

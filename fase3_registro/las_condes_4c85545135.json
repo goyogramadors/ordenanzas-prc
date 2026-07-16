@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_4c85545135",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_LAMINA-3-VIALIDAD-28Febrero2010.pdf",
+  "nombre": "las_condes_LAMINA-3-VIALIDAD-28Febrero2010.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:57:42",
+  "fin": "2026-07-14T15:59:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "LAS CONDES: es la LAMINA 3, PLANO DE VIALIDAD (feb-2010), un plano AutoCAD de 1 pagina. Su texto son nombres de calles, tramos y anchos. CERO coincidencias de constructibilidad, ocupacion de suelo, predial minima, altura, antejardin o agrupamiento. Es vialidad y cartografia, no normas urbanisticas por zona."
+  }
+}

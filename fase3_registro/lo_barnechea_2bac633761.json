@@ -1,0 +1,20 @@
+{
+  "id": "lo_barnechea_2bac633761",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\lo_barnechea_1082_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "nombre": "lo_barnechea_1082_promulga_modificacion_al_plan_regulador_comunal_de_lo_barnechea__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:01:35",
+  "fin": "2026-07-14T21:04:42",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Deroga letra c) art. 19 de la Ordenanza Local (2 pags); sin cuadro ni norma de zona."
+  }
+}

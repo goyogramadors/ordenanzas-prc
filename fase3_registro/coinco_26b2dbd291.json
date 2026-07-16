@@ -1,0 +1,25 @@
+{
+  "id": "coinco_26b2dbd291",
+  "comuna": "coinco",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\coinco_123_aprueba_re_formulacion_del_plan_regulador_comunal_de_coinco_localidades_de_c__RES-123 AFECTA_28-AGO-2008.pdf",
+  "nombre": "coinco_123_aprueba_re_formulacion_del_plan_regulador_comunal_de_coinco_localidades_de_c__RES-123 AFECTA_28-AGO-2008.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 26,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T15:30:50",
+  "fin": "2026-07-14T15:36:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        12,
+        26
+      ]
+    ],
+    "paginas_utiles": 15,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Res.123/2008 GORE O'Higgins: reformulacion PRC Coinco, transcribe la Ordenanza Local completa. Zonas Coinco-Cruz de Chillehue (ZC, ZH1, ZH1-R, ZH2, ZH2-R, ZH3, ZE1, ZE2, ZR1-3, ZCH, ZAV) y Copequin (ZC, ZH1, ZH2, ZE1, ZE2, ZCH, ZR3, ZAV). p12 art.31 lista de zonas; p12-20 una seccion por zona (ZC: predial 150/300 m2, CC 1,4, COS 0,7, altura 7m, densidad 200 hab/ha); p22-26 Cap.5 Ordenanza Especial Patrimonial zona ZCH (alturas, distanciamientos, ocupacion 0,6). Todo en TEXTO. PATRON LEYCHILE: los cuadros de limite urbano, estacionamientos y vialidad (p3, p8, p11, p21) NO estan en el PDF, remiten a 'VER DIARIO OFICIAL 28.08.2008' - no afecta a las normas por zona, que si estan completas."
+  }
+}

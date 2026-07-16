@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_641d7cdbdc",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_18-Ord.N2150-del-17jul2020-de-Seremi-INF-OBS-REVISION-PRELIM-EXP-MODIF-11-SOLIC-REVISAR-E-INF.pdf",
+  "nombre": "las_condes_18-Ord.N2150-del-17jul2020-de-Seremi-INF-OBS-REVISION-PRELIM-EXP-MODIF-11-SOLIC-REVISAR-E-INF.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S4",
+  "inicio": "2026-07-15T08:30:45",
+  "fin": "2026-07-15T08:32:41",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord. N2150/2020 de SEREMI MINVU RM a Alcalde Las Condes: observaciones de revision preliminar al expediente de Modificacion N11 al PRC (lista de observaciones de forma/procedimiento, sin cuadros de valores numericos de zona)."
+  }
+}

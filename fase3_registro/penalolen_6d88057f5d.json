@@ -1,0 +1,25 @@
+{
+  "id": "penalolen_6d88057f5d",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_Zona_R4.pdf",
+  "nombre": "penalolen_Zona_R4.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:11:16",
+  "fin": "2026-07-14T21:15:16",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Ficha Zona R4 (Asesoria Urbana-SECPLA), 1 pagina, texto directo sin imagen: usos permitidos + cuadro Condiciones Subdivision y Edificacion (densidad bruta max, superficie minima predial, %max ocupacion suelo, coef.max constructibilidad, altura max) Residencial/Equipamiento."
+  }
+}

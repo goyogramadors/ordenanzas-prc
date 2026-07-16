@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_3ab17477f3",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_decreto.173.11ene2010.pdf",
+  "nombre": "las_condes_decreto.173.11ene2010.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:28:17",
+  "fin": "2026-07-15T08:32:12",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "Dec.Secc.1.173/2010 promulga Modificacion N.7 PRC Las Condes. p3 (Decreto puntos 1-4): reasigna poligono A-B-C-D-E-A de zona UV a UM (uso suelo) y a EAb4 (edificacion aislada baja N.4); agrega texto al art.38 Cap.IV con parametro concreto: equipamiento de educacion/cultura/salud en terrenos >5ha del poligono definido, altura maxima 5 pisos y 17,50m. p4 EXCLUIDA (tabla de vialidad, cuadro Av.Plaza). Confianza MEDIA: mezcla reasignacion de zona (sin valores) con un parametro puntual de altura si transcrito."
+  }
+}

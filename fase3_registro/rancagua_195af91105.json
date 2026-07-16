@@ -1,0 +1,20 @@
+{
+  "id": "rancagua_195af91105",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_3015_inicio_del_procedimiento_de_la_evauacion_ambiental_estrategica_para_la_actu__2018-06-PUB.pdf",
+  "nombre": "rancagua_3015_inicio_del_procedimiento_de_la_evauacion_ambiental_estrategica_para_la_actu__2018-06-PUB.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 5,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T12:11:29",
+  "fin": "2026-07-15T12:12:31",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Ordinario Alcaldía 3.015 (2018, 5p): inicia el proceso de Evaluación Ambiental Estratégica para la Modificación N21 del PRC de Rancagua (antecedentes, fines y metas del estudio). Documento procedimental/EAE, no contiene tabla de normas urbanísticas."
+  }
+}

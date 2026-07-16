@@ -1,0 +1,25 @@
+{
+  "id": "andacollo_d914b2e2f7",
+  "comuna": "andacollo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\andacollo_445_aprueba_enmienda_n_1_al_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "andacollo_445_aprueba_enmienda_n_1_al_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T12:54:40",
+  "fin": "2026-07-14T12:55:56",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Enmienda N1 al PRC. Sin cuadro: la norma se fija en prosa (art. 19, zona ZU1: ocupacion suelo 60%->78%, altura 9->10.8 m). Norma por articulo, no tabla; p1 es solo vistos."
+  }
+}

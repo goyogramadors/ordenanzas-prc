@@ -1,0 +1,25 @@
+{
+  "id": "la_cisterna_223d7a1f73",
+  "comuna": "la_cisterna",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_cisterna_decreto_5327_rechacese_observaciones_al_analisis_de_la_modificacion_plan_regulad__DEC5327.pdf",
+  "nombre": "la_cisterna_decreto_5327_rechacese_observaciones_al_analisis_de_la_modificacion_plan_regulad__DEC5327.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:17:16",
+  "fin": "2026-07-15T08:19:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        1
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "LA CISTERNA: Decreto Alcaldicio 5327 (31-dic-2020, 1p, escaneado sin OCR). RECHAZA la mayoria de observaciones ciudadanas al proceso de modificacion del PRC (division de ZU-2, permitir mas altura, rebajar estacionamientos, etc), pero ACOGE dos observaciones reales que SI fijan norma: disminuir el coeficiente de constructibilidad en la zona ZU-5 a un maximo de 30 por ciento respecto al plan vigente, y restablecer la congruencia entre altura y pisos respetando un maximo de 4 pisos (senalando en la Ordenanza Local altura en metros y pisos). Verificado visualmente."
+  }
+}

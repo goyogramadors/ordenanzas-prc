@@ -1,0 +1,20 @@
+{
+  "id": "estacion_central_727d60b3db",
+  "comuna": "estacion_central",
+  "ruta": "Ordenanzas ordenadas\\estacion_central_decreto_alcaldicio_526_aprueba_las_proposiciones_que_contiene_el_anteproyecto_de__Decreto_526.pdf",
+  "nombre": "estacion_central_decreto_alcaldicio_526_aprueba_las_proposiciones_que_contiene_el_anteproyecto_de__Decreto_526.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:15:32",
+  "fin": "2026-07-15T08:16:54",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "ESTACION CENTRAL: Decreto Alcaldicio Secc 2 N526 (14-may-2024, 2p, escaneado sin OCR): APRUEBA LAS PROPOSICIONES que contiene el Anteproyecto del PRC, para avanzar al proceso de Consulta Publica y Evaluacion Ambiental Estrategica de la Actualizacion. Es aprobacion procedimental para continuar el proceso, NO transcribe tablas de normas por zona. Verificado visualmente en ambas paginas."
+  }
+}

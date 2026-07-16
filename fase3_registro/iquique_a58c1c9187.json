@@ -1,0 +1,25 @@
+{
+  "id": "iquique_a58c1c9187",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\iquique_ordenanza_modifiquese_plan_regulador_comuna_de_iquique_centro_urbano_playa_lobit__OM376.pdf",
+  "nombre": "iquique_ordenanza_modifiquese_plan_regulador_comuna_de_iquique_centro_urbano_playa_lobit__OM376.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:17:16",
+  "fin": "2026-07-15T08:19:43",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        1,
+        2
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "MEDIA",
+    "metodo": "VISUAL",
+    "nota": "IQUIQUE: Ordenanza Municipal 376 (2-jul-2004, 2p, escaneado sin OCR). Modifica el PRC, Centro Urbano Playa Lobito, en formato RESPUESTA A OBSERVACIONES (Camara Chilena de la Construccion, Gobernacion Maritima, Comandante Cuarta Zona Naval, Comite Creaciones). La mayoria de las observaciones se acogen o rechazan sin fijar valores nuevos, PERO la Observacion 1 del Comite Creaciones SI fija una directiva real: se acuerda desplazar las Zonas ZR-M al Este de la Ruta 1, y el area urbana permitira SOLO Viviendas en Densidad Baja. CONFIANZA MEDIA porque es un documento de respuesta a observaciones, no una tabla de normas clasica, y la mayor parte del contenido es procedimental."
+  }
+}

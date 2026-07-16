@@ -1,0 +1,20 @@
+{
+  "id": "cerrillos_f0837a10fa",
+  "comuna": "cerrillos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cerrillos_decreto_exento_597_actualizacion_plan_regulador_comunal_de_cerrillos__202-0597-2018.pdf",
+  "nombre": "cerrillos_decreto_exento_597_actualizacion_plan_regulador_comunal_de_cerrillos__202-0597-2018.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 21,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T13:06:42",
+  "fin": "2026-07-14T15:29:29",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CERRILLOS: decreto exento 202/597/2018 (21p) = CONVENIO MANDATO entre el GORE Metropolitano y la Municipalidad para financiar y licitar el ESTUDIO de actualizacion del PRC (BIP 30486986-0, M.000 FNDR, 20 meses). Estructura: decreto (p1-7) + certificado del Concejo (p8) + Resolucion Exenta 42/2018 del GORE con toma de razon (p9-16) + convenio anexo (p17-21). La ordenanza es un ENTREGABLE FUTURO del estudio, no esta aqui. Cero señales urbanisticas en las 21 pags; unicas tablas = cuadros presupuestarios. p8 y p16 miradas (son firmas con espacio en blanco, no tablas ocultas)."
+  }
+}

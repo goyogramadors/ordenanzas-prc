@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_9c8e4577c1",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_corporacion.educacion-salud.plan.salud.2009.pdf",
+  "nombre": "las_condes_corporacion.educacion-salud.plan.salud.2009.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 41,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T16:00:34",
+  "fin": "2026-07-14T16:01:28",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: Plan de Salud 2009 de la Corporacion de Educacion y Salud de Las Condes (41 pags): diagnostico poblacional, atencion primaria/secundaria, capacitacion, tecnologias. Grep del documento completo: 0 hits urbanisticos. Candidato a descarte."
+  }
+}

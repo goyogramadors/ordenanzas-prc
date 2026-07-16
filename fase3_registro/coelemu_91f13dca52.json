@@ -1,0 +1,25 @@
+{
+  "id": "coelemu_91f13dca52",
+  "comuna": "coelemu",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\coelemu_189_deja_sin_efecto_resolucion_n_151_de_fecha_31072013_de_intendente_regional_re__do-20160121.pdf",
+  "nombre": "coelemu_189_deja_sin_efecto_resolucion_n_151_de_fecha_31072013_de_intendente_regional_re__do-20160121.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 44,
+  "estado": "HECHO",
+  "sesion": "revision-cobertura",
+  "inicio": "2026-07-15T13:25:22",
+  "fin": "2026-07-15T13:25:22",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        4
+      ]
+    ],
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Trampa 'deja sin efecto' correctamente identificada por Fase 1. Modificacion puntual: reemplaza la fila Densidad Habitacional Maxima Bruta del Cuadro de Normas Urbanisticas de la Zona S2A Residencial (art.35) por 560 hab/ha. Es un cambio de una sola celda, no una tabla completa nueva. Documento es edicion completa del Diario Oficial (44 pag, mezcla otros avisos ajenos al PRC).",
+    "paginas_utiles": 1
+  }
+}

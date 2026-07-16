@@ -1,0 +1,20 @@
+{
+  "id": "la_serena_b47b019b8a",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_serena_1349_apruebese_la_siguiente_ordenanza_que_reglamenta_el_fondo_de_desarrollo_veci__doc_34_1349_24122024120255.pdf",
+  "nombre": "la_serena_1349_apruebese_la_siguiente_ordenanza_que_reglamenta_el_fondo_de_desarrollo_veci__doc_34_1349_24122024120255.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 7,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:50:54",
+  "fin": "2026-07-14T15:55:59",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "NO ES PRC: reglamento del FONDEVE (Fondo de Desarrollo Vecinal, ley 19.418 de Juntas de Vecinos): concursos publicos, beneficiarios, costos de proyecto, inspector tecnico. Grep sobre las 7 pags: 0 parametros urbanisticos. Candidato a descarte."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "las_condes_1970e1affb",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.N3218.04dic2003.pdf",
+  "nombre": "las_condes_D.O.N3218.04dic2003.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 10,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:53:54",
+  "fin": "2026-07-14T15:59:01",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        9
+      ]
+    ],
+    "paginas_utiles": 8,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "DO 3218 (04-12-2003) Las Condes, 10 pags. Normas EN TEXTO (no imagen). p2: TABLA A y TABLA B para predio existente residual de densificacion (zonas UV0, UV1, UV2, UV3, UC1, UC2: densidad, CC 2,0, rasante 70, altura 5 pisos/17,50 m, antejardin 5 m, distanciamiento 4 m). p3-9: tablas completas de edificacion zona por zona: E-Ab1 (densidad 10 viv/ha, subdivision 1.000 m2, CC 0,6, COS 0,4, rasante 60, altura 3 pisos/10,5 m), E-Ab2, E-Ab3, E-Ab4/4', E-Am1/1'/2/4, E-Aa1/2/3/4, E-Aa+cm, E-Aa+ca, E-e1, E-e2 (CC 0,3, COS 0,2, area libre 0,7, altura 5 pisos/17,50 m). p9 tambien trae tabla de usos de suelo por actividad (art.41: jardines infantiles, ensenanza, oficinas). Desde la mitad de p9 y toda la p10: VIALIDAD (art.45), excluido. Todo es de Las Condes, sin avisos ajenos."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sierra_gorda_0823bbead3",
+  "comuna": "sierra_gorda",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\sierra_gorda_3_aprueba_modificacion_del_plan_regulador_comunal_de_sierra_gorda__Exportar.pdf",
+  "nombre": "sierra_gorda_3_aprueba_modificacion_del_plan_regulador_comunal_de_sierra_gorda__Exportar.pdf",
+  "veredicto": "MIXTO",
+  "paginas": 46,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-15T08:05:06",
+  "fin": "2026-07-15T08:09:23",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        10,
+        29
+      ],
+      [
+        36,
+        38
+      ]
+    ],
+    "paginas_utiles": 23,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Resolucion (DO/LeyChile) aprueba Modificacion PRC Sierra Gorda, Ordenanza Local completa. TRAMPA CONFIRMADA: tablas 'Usos de Suelo' + 'Normas Urbanisticas de Subdivision y/o Edificacion' son IMAGEN JPEG; el texto solo saca el encabezado del articulo/zona y queda casi en blanco. p11 Cuadro2 dotacion estacionamientos; p13-27 una tabla por zona (ZCC: predial 160m2, altura 14m, COS 0,8, CC 2,2, aislado/pareado/continuo; ZRAD, ZRMD, ZERBD, ZE/ZE-1/ZE-2, ZAP-1, ZAP-2/ZEA, ZSR, ZEI, ZES, ZIS, ZIT, ZF: predial 1.000m2, COS 0,4, CC 0,4, distanciamiento 5m). p29 Cuadro3 Monumentos Historicos (MH1) y Cuadro4 ICH (imagen pequeña, Estacion de Trenes Sierra Gorda) + art.13 Plazas y Parques en TEXTO real (predial 2.500m2, CC 0,01, altura 4m). p36-38 Titulo 3 ZIIS y ZAP-I en TEXTO (COS 0,1, distanciamiento 250m, aislado). Tablas viales (Cuadros 5,6,8,9, p30-34 y p44-45) EXCLUIDAS por no ser norma de zona."
+  }
+}

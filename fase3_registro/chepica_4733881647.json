@@ -1,0 +1,20 @@
+{
+  "id": "chepica_4733881647",
+  "comuna": "chepica",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chepica_ordenanza_947_plano_regulador_comunal_chepica_urbano_para_descargar__plano%20prc%20chepica2.PDF",
+  "nombre": "chepica_ordenanza_947_plano_regulador_comunal_chepica_urbano_para_descargar__plano%20prc%20chepica2.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:10:38",
+  "fin": "2026-07-15T08:11:44",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Archivo de 1 pagina: es el PLANO/mapa del Plan Regulador Comunal de Chepica (zonificacion ZEX/ZAV graficada sobre el trazado urbano), sin tabla de normas ni cuadro de simbologia con valores numericos de COS/CC/altura/predial. Solo cartografia."
+  }
+}

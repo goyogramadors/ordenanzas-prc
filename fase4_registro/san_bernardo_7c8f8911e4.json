@@ -1,0 +1,28 @@
+{
+  "id": "san_bernardo_7c8f8911e4",
+  "comuna": "san_bernardo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_bernardo_6387_aprueba_enmienda_no_1_al_plan_regulador_comunal_de_san_bernardo_y_localidad__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ]
+  ],
+  "paginas_utiles": 2,
+  "nota_fase3": "SAN BERNARDO: Decreto 6387 exento (BCN LeyChile, 2017), Enmienda N1 al PRC y Localidad de Lo Herrera, Zona ZU 1.1 Plaza de Armas. Norma en p2-3, TEXTO PLANO completo: modifica en el Art 55 (Titulo IV Cap 2, Condiciones de Subdivision y Edificacion) el Coeficiente de Constructibilidad a 3,5; Rasantes y distanciamiento (angulo 60 grados, aplicado desde 12 m de altura de adosamiento; retranqueo 2,5 m sobre el cuarto piso; distanciamiento minimo 6 m al deslinde posterior y 4 m a los laterales); y Densidad Bruta Maxima 1.600 hab por ha. Documento completo en 3 paginas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION3",
+  "inicio": "2026-07-15T18:07:29",
+  "fin": "2026-07-15T18:09:54",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_bernardo\\san_bernardo_6387_enmienda1_zu11.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-1.1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Modificacion puntual de 3 parametros (CC 3.5, rasantes/distanciamiento detallado, densidad 1600hab/ha) para ZU1.1 Plaza de Armas. Texto plano completo. Verificado contra nota_fase3: coincide."
+  }
+}

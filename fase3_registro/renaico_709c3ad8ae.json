@@ -1,0 +1,25 @@
+{
+  "id": "renaico_709c3ad8ae",
+  "comuna": "renaico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\renaico_780_proomulga_el_plan_regulador_comunal_de_renaico__planreg.renaico.pdf",
+  "nombre": "renaico_780_proomulga_el_plan_regulador_comunal_de_renaico__planreg.renaico.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 20,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T21:22:59",
+  "fin": "2026-07-14T21:27:27",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        7,
+        19
+      ]
+    ],
+    "paginas_utiles": 13,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "Res.90/2022 GORE Araucania promulga PRC Renaico completo (texto integro Ordenanza Local). TRAMPA CONFIRMADA: TODAS las tablas son IMAGEN JPEG, el texto solo anuncia y no entrega. p7 limite urbano (coordenadas UTM); p8-9 red vial + estacionamientos; p10 indice de zonas (Z-H Centro Historico, Z-M1/M2/M3 Mixtas, Z-E Equipamiento, Z-AV Area Verde); p11-12 Zona Z-H (predial 400m2, COS 0,5, CC 1,4, altura 7m, aislado-pareado-continuo, densidad 190 hab/ha) + AR-1/AR-2 riesgo; p12-13 Zona M-1; p13-14 M-2; p14-16 M-3 y Z-E; p16 ZAV (predial 2000m2, altura 7m, antejardin 5m); p17 ZLF, ZLAT, MN1 Centro Cultural Renaico (patrimonio); p18 MN1 (CC 1,4/1,0, altura 7m), ICH_1/2/3; p19 ICH_2 Estacion de Ferrocarriles (predial 2000m2, altura 7m) + vialidad intercomunal. p5 imagen EXCLUIDA (tabla ambiental de seguimiento, no norma de zona)."
+  }
+}

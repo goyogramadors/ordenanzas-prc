@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_62f9d9d848",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_8.-39-2020-Ord.-Alc.-N-14-329-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "nombre": "las_condes_8.-39-2020-Ord.-Alc.-N-14-329-del-7DIC20-Modif.-N-10-PRCLC.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-15T08:29:25",
+  "fin": "2026-07-15T08:31:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ord.Alc.N14/329 del 7-dic-2020: oficio respuesta a otra observacion ciudadana sobre Modif.N10 PRCLC (estacionamientos viviendas sociales), solo texto administrativo, sin tabla de normas."
+  }
+}

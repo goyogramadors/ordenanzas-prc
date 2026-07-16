@@ -1,0 +1,29 @@
+{
+  "id": "arauco_f5170042c6",
+  "comuna": "arauco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\arauco_el_proyecto_de_plan_regulador_comunal__2daa2ffb-430a-4ba5-81f2-722e27cad4cd.pdf",
+  "rangos": [
+    [
+      6,
+      9
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "NO es el PRC completo, es Enmienda N1 al PRC de Arauco (memoria explicativa + acta COSOC) para subir altura maxima zonas D (Equipamiento Deportivo) y EXS (Extension Urbana Sur) de 7m a 8.4m. Pag6 introduce Normas Urbanisticas zona D y EXS. Pag7 usos permitidos/prohibidos Zona D y EXO/EXP/EXS. Pag8 tabla completa NORMAS ESPECIFICAS que se mantienen vigentes: superficie predial minima, frente predial minimo, %ocupacion suelo, coef.max constructibilidad, agrupamiento, altura maxima -mas tabla comparativa PRC vigente vs enmienda. Pag9 cronograma+acta sin normas. Resto (1-5,10-20) acta sesion COSOC con firmas, sin contenido normativo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION1",
+  "inicio": "2026-07-16T08:29:34",
+  "fin": "2026-07-16T08:34:02",
+  "resultado": {
+    "archivo": "extraccion_normas\\arauco\\arauco_enmienda_prc_zonaD_exs_altura_pag6-9.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "D",
+      "EXS"
+    ],
+    "confianza": "ALTA",
+    "nota": "No es PRC completo, es Enmienda N1: sube altura de 7m a 8,4m (+20%) en zonas D (predial 2000m2, ocupacion 10%, CC 0,2, aislado) y EXS (predial 160m2, ocupacion 60%, CC 1,2, aislado/pareado/continuo). Usos permitidos/prohibidos completos. Coincide con nota_fase3."
+  }
+}

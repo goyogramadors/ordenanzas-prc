@@ -1,0 +1,20 @@
+{
+  "id": "pichilemu_92a98c3dd4",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_817_exposicion_publica_modificacion_plan_regulador_comunal_de_pichilemu_zona_a_5__A-5_2022.pdf",
+  "nombre": "pichilemu_817_exposicion_publica_modificacion_plan_regulador_comunal_de_pichilemu_zona_a_5__A-5_2022.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:47:30",
+  "fin": "2026-07-15T12:10:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "texto",
+    "nota": "Aviso de Exposición Pública de la Modificación al PRC Pichilemu Zona A-5 (4p, incluye Diario Oficial 43.204 y copia municipal del mismo aviso, duplicado). Es un aviso procedimental (audiencia pública, plazos de observaciones) que remite a planos/ordenanza/memoria explicativa alojados en la web municipal — no incluidos en este archivo. No contiene tabla de normas urbanísticas."
+  }
+}

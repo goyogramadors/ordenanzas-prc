@@ -1,0 +1,20 @@
+{
+  "id": "corral_ecbf3d72ac",
+  "comuna": "corral",
+  "ruta": "Ordenanzas Descargadas\\1-600\\corral_decreto_exento_1904_aprueba_contratacion_directa_profesional_asesor_a_secplan_pa__09ef6a75-3ca4-41ed-96b1-ae4abccc7cbd.pdf",
+  "nombre": "corral_decreto_exento_1904_aprueba_contratacion_directa_profesional_asesor_a_secplan_pa__09ef6a75-3ca4-41ed-96b1-ae4abccc7cbd.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:12:50",
+  "fin": "2026-07-15T08:13:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "CORRAL: Decreto Exento 1904 (17-nov-2016, 1p, escaneado sin OCR): aprueba contratacion directa a honorarios de una arquitecta como asesora de SECPLAN para las gestiones del Plan Regulador (monto 150.000 mensual, nov-2016 a abr-2017). Es tramite de contratacion de personal, no contiene normas. Verificado visualmente."
+  }
+}

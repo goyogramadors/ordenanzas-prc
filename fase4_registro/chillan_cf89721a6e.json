@@ -1,0 +1,30 @@
+{
+  "id": "chillan_cf89721a6e",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_ordenanza_promulga_enmienda_n01_2024_antejardines_al_plan_regulador_comunal_de_c__Decreto 3123.pdf",
+  "rangos": [
+    [
+      4,
+      6
+    ]
+  ],
+  "paginas_utiles": 3,
+  "nota_fase3": "enmienda N01-2024 antejardines: crea 3 nuevas subzonas ZH-1-1, ZH-2-1, ZM-2-1 (antejardín 0%) con tablas COMPLETAS de usos de suelo + condiciones subdivisión/edificación (superficie predial, COS, CC, altura, agrupamiento, retranqueo, antejardín, densidad bruta); texto nativo limpio (versión municipal, no escaneada). Pág7-10 son planos/anexos escaneados sin texto",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION2",
+  "inicio": "2026-07-15T23:05:18",
+  "fin": "2026-07-15T23:14:14",
+  "resultado": {
+    "archivo": "extraccion_normas\\chillan\\chillan_enmienda1_2024_subzonas_antejardines_pag4-6.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "ZH-1-1",
+      "ZH-2-1",
+      "ZM-2-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirma nota_fase3 exacta: 3 subzonas nuevas completas (usos+condiciones), texto nativo limpio version municipal. Todas con antejardin no exigido."
+  }
+}

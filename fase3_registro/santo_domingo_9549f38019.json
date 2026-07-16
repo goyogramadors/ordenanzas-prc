@@ -1,0 +1,25 @@
+{
+  "id": "santo_domingo_9549f38019",
+  "comuna": "santo_domingo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santo_domingo_decreto_alcaldicio_ordenanza_plan_regulador__descarga-12-ordenanza-PRC-Sto.-Dgo.ACTUALIZADA.pdf",
+  "nombre": "santo_domingo_decreto_alcaldicio_ordenanza_plan_regulador__descarga-12-ordenanza-PRC-Sto.-Dgo.ACTUALIZADA.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 54,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:32:26",
+  "fin": "2026-07-14T21:34:41",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        18,
+        51
+      ]
+    ],
+    "paginas_utiles": 34,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "Cap.IV Zonificacion y Normas Especificas Art.39-41. Listado 34 zonas (ZU1-8,ZE1-9,RD,ZP,ZEQ,ZEQ-1,ZQ1-3,ZI-1,ZG,ZAVP,ZR1-5) pag18-19. Desde pag21 (ZU1) hasta pag51 (ZR5, ultima zona): cada zona con bloque fijo a.Condiciones de Uso del Suelo + b.Condiciones de Subdivision y Edificacion (superficie predial min, COS, coef.constructibilidad, agrupamiento/alturas/distanciamiento, rasantes, antejardin, arborizacion/densidad, estacionamientos). Pag52 inicia Cap.V Vialidad (excluido). Pag18 incluida por margen (tabla estacionamientos + inicio listado zonas)."
+  }
+}

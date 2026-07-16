@@ -1,0 +1,25 @@
+{
+  "id": "la_union_ce0b6a28f9",
+  "comuna": "la_union",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_union_117_modificacion_del_plan_regulador_comunal_de_la_union__10504_PRC_LAUNION_MD_DO_117_12.pdf",
+  "nombre": "la_union_117_modificacion_del_plan_regulador_comunal_de_la_union__10504_PRC_LAUNION_MD_DO_117_12.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 3,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T15:51:39",
+  "fin": "2026-07-14T15:56:51",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        3,
+        3
+      ]
+    ],
+    "paginas_utiles": 1,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "LA UNION: Diario Oficial 40.410 (15-nov-2012), Modificacion del PRC. Norma en la PAGINA 3, COLUMNA DERECHA, texto limpio (verificado en render): promulga la norma completa de las zonas ZR-8 (no edificable por tendidos de alta tension) y ZU-I (industrial), con usos permitidos y prohibidos, superficie predial minima 1.000 m2, COS, coeficiente de constructibilidad 1,0, agrupamiento aislado o pareado, altura segun rasante, adosamiento y antejardin 3 m. Pags 1-2 son solo vistos y considerandos. *** OJO CONTAMINACION: la pagina 1 trae material ajeno al PRC (concesion de TV, tipos de cambio) con sus propias tablas-imagen, y en la pagina 3 columna izquierda hay dos cuadros que SI son tabla-imagen pero son indicadores de seguimiento ambiental, no normas. La fase siguiente debe extraer SOLO la columna derecha de la p3. ***"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "antuco_6e6a6c8986",
+  "comuna": "antuco",
+  "ruta": "Ordenanzas Descargadas\\1-600\\antuco_decreto_ordenanzas_sobre_subvenciones_municipales_del_22092004__Decreto_201_2004.pdf",
+  "nombre": "antuco_decreto_ordenanzas_sobre_subvenciones_municipales_del_22092004__Decreto_201_2004.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S3",
+  "inicio": "2026-07-14T12:58:23",
+  "fin": "2026-07-14T13:01:20",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Ordenanza sobre subvenciones municipales a organizaciones sociales. Ajena al PRC."
+  }
+}

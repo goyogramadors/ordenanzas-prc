@@ -1,0 +1,20 @@
+{
+  "id": "puerto_montt_4f11505b78",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_967_aprueba_enmienda_plan_regulador_comunal__Exportar.pdf",
+  "nombre": "puerto_montt_967_aprueba_enmienda_plan_regulador_comunal__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 2,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:15:28",
+  "fin": "2026-07-14T21:17:16",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "MEDIA",
+    "metodo": "",
+    "nota": "Decreto 967: enmienda puntual predio Loteo Puerta del Sol zona A-2. Remite explicitamente a 'VER DIARIO OFICIAL N35.193 DE 14 JUNIO 1995 PAGINA 2' -norma inalcanzable desde este PDF de 2 paginas."
+  }
+}

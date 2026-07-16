@@ -1,0 +1,20 @@
+{
+  "id": "corral_dc61d47c44",
+  "comuna": "corral",
+  "ruta": "Ordenanzas Descargadas\\1-600\\corral_decreto_exento_1350_designa_como_contraparte_municipal_adecuacion_planes_regulad__490abd92-ca8d-44eb-9430-7e70dba725b0.pdf",
+  "nombre": "corral_decreto_exento_1350_designa_como_contraparte_municipal_adecuacion_planes_regulad__490abd92-ca8d-44eb-9430-7e70dba725b0.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:12:50",
+  "fin": "2026-07-15T08:13:38",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "CORRAL: Decreto Exento 1350 (13-jul-2015, 1p, escaneado sin OCR): designa a Wladimiro Filgueira Toledo (Director SECPLAN) como contraparte municipal para el estudio 'Adecuacion Planes Reguladores Comunales de Corral' ante la Seremi Minvu de Los Rios. Es tramite de designacion de personal, no contiene normas. Verificado visualmente."
+  }
+}

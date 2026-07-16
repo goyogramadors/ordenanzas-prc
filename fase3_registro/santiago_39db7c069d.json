@@ -1,0 +1,25 @@
+{
+  "id": "santiago_39db7c069d",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_5952_decreto_alcaldicio_numero_5952_secc_2a_de_2018_promulga_modificacion_del_pl__5952.pdf",
+  "nombre": "santiago_5952_decreto_alcaldicio_numero_5952_secc_2a_de_2018_promulga_modificacion_del_pl__5952.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 4,
+  "estado": "HECHO",
+  "sesion": "Ordenanzas S5",
+  "inicio": "2026-07-14T21:29:23",
+  "fin": "2026-07-14T21:32:20",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        4
+      ]
+    ],
+    "paginas_utiles": 3,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "Modificacion PRC Corredor Av.Diez de Julio Huamachuco. Tres cuadros-imagen verificados por render: pag2 incremento constructibilidad/altura Zona B/SE B2 + cuadro completo Condicionantes subdivision y edificacion SE B16 (superficie predial min, COS, coef.constructibilidad, agrupamiento, altura max); pag3 cuadro CUS3 (Actividades Productivas Zona E); pag3-4 cuadro Condicionantes subdivision y edificacion SE E15 (mismos parametros)."
+  }
+}

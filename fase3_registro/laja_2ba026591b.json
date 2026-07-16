@@ -1,0 +1,20 @@
+{
+  "id": "laja_2ba026591b",
+  "comuna": "laja",
+  "ruta": "Ordenanzas ordenadas\\laja_2777_aprueba_enmienda_al_plan_regulador_comunal_de_laja_prcl__DECRETO 2777.pdf",
+  "nombre": "laja_2777_aprueba_enmienda_al_plan_regulador_comunal_de_laja_prcl__DECRETO 2777.pdf",
+  "veredicto": "ESCANEADO",
+  "paginas": 1,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-15T08:26:47",
+  "fin": "2026-07-15T08:28:30",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "visual",
+    "nota": "Decreto 2777 (22.09.2011), I.Municipalidad de Laja. Enmienda al PRC de Laja (PRCL): permite el uso 'salud' en la zona equipamiento deportivo ZED donde se ubica el lote Rol 301-151 (ex aerodromo, para 'Reposicion Hospital de Laja'). Cambio cualitativo de uso permitido, sin cuadro numerico de COS/CC/altura/predial."
+  }
+}

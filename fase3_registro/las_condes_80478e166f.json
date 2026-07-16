@@ -1,0 +1,20 @@
+{
+  "id": "las_condes_80478e166f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_Ord.-SEREMI-N846-del-17.4.24.pdf",
+  "nombre": "las_condes_Ord.-SEREMI-N846-del-17.4.24.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 19,
+  "estado": "HECHO",
+  "sesion": "S2",
+  "inicio": "2026-07-14T15:59:22",
+  "fin": "2026-07-14T16:02:56",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PURO TRAMITE: Ord. SEREMI 846 (17-04-2024) emite INFORME TECNICO DESFAVORABLE sobre el procedimiento de la Modificacion N11 del PRC Las Condes. p1-9: listado numerado de 50 documentos del expediente. p9-18: analisis juridico de plazos (art.43 LGUC / 2.1.11 OGUC). Cero cuadros de norma (grep de las 10 senales: 0 hits). p19 = pie de firma. DATO UTIL: el informe es DESFAVORABLE por incumplimiento de plazos, lo que puede afectar la vigencia de la Mod.11."
+  }
+}

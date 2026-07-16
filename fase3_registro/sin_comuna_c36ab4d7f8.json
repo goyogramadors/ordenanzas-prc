@@ -1,0 +1,20 @@
+{
+  "id": "sin_comuna_c36ab4d7f8",
+  "comuna": "SIN_COMUNA",
+  "ruta": "Ordenanzas ordenadas\\CU47E3~1.PDF",
+  "nombre": "CU47E3~1.PDF",
+  "veredicto": "ESCANEADO",
+  "paginas": 12,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-15T08:07:12",
+  "fin": "2026-07-15T08:09:25",
+  "resultado": {
+    "tiene_tablas": false,
+    "rangos": [],
+    "paginas_utiles": 0,
+    "confianza": "ALTA",
+    "metodo": "VISUAL",
+    "nota": "CURACAUTIN: NO ES UN DOCUMENTO PRC. Decreto Ex 519 (23-abr-2021, 12p, escaneado sin OCR): aprueba la 'Ordenanza para el Funcionamiento y Derechos Municipales por Contraprestacion de Modulos Centro de Exposicion de Artesania' (reglamento de un mercado artesanal municipal: horarios, patentes, sanciones, aseo). La unica tabla es de horarios por temporada, no norma urbanistica. Cero zonas, usos de suelo, COS, CC, altura o densidad. Verificado visualmente en las 12 paginas."
+  }
+}

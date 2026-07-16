@@ -1,0 +1,25 @@
+{
+  "id": "puerto_montt_f22bd732a1",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_575_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt__Exportar.pdf",
+  "nombre": "puerto_montt_575_aprueba_enmienda_al_plan_regulador_comunal_de_puerto_montt__Exportar.pdf",
+  "veredicto": "TEXTO",
+  "paginas": 6,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T21:16:38",
+  "fin": "2026-07-14T21:18:42",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        4,
+        5
+      ]
+    ],
+    "paginas_utiles": 2,
+    "confianza": "ALTA",
+    "metodo": "TEXTO",
+    "nota": "PUERTO MONTT: Decreto 575 (BCN LeyChile, 6p, Diario Oficial 03-mar-2006), Enmienda al PRC: precisa trazados viales de Cuarta Terraza, Volcan Puyehue y Sargento Silva, incrementa en 20 por ciento la densidad de las zonas H-2a y H-2b, y suprime la Zona ZR-5.1. Normas en p4-5, EN TEXTO PLANO: Art 4 modifica la densidad de H-2a y H-2b (aumento 20 por ciento); ademas trae bloques 'C) Normas especificas' con densidad maxima predial (108 hab-ha vivienda, 76 hab-ha otros usos, en un tramo; 76 y 37 hab-ha en otro), superficie predial minima (vivienda 500 m2, otros usos 1.000 m2), coeficiente maximo de constructibilidad 2, y sistema de agrupamiento (aislado, pareado, continuo solo frente a vias). Sin imagenes de tabla oculta relevantes (verificado con pdfimages, solo logos)."
+  }
+}

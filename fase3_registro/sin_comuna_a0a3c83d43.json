@@ -1,0 +1,37 @@
+{
+  "id": "sin_comuna_a0a3c83d43",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\CA12E2~1.PDF",
+  "nombre": "CA12E2~1.PDF",
+  "veredicto": "TEXTO",
+  "paginas": 65,
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-14T12:54:02",
+  "fin": "2026-07-14T13:01:40",
+  "resultado": {
+    "tiene_tablas": true,
+    "rangos": [
+      [
+        2,
+        2
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        15,
+        50
+      ],
+      [
+        63,
+        64
+      ]
+    ],
+    "paginas_utiles": 40,
+    "confianza": "ALTA",
+    "metodo": "TEXTO+VISUAL",
+    "nota": "CALDERA: Decreto 2827 (ago-2012) plano seccional + enmiendas, pero INTEGRA LA ORDENANZA LOCAL COMPLETA. Nucleo: Art 21 Normas Urbanisticas por Zona = una tabla por zona, pags 15-50 (23 zonas urbanas U-1..U-23 + A-1,A-2,T-1,T-2,Q-1..Q-5,C-1,R-1..R-4,S-1,P-1 + Art 25 zona ZCH conservacion historica en 49-50). Formato vertical 2 columnas (parametro/valor), NO apaisado. Pag 2 = tabla de enmiendas de parametros (U-10, U-11, R-3b). Anadidas por precaucion: pag 9 (Art 5-6 adosamiento/antejardin por ancho de via) y 63-64 (Art 37 estacionamientos por uso, no por zona). Pags 51-62 = inventario ICH + vialidad (sin normas). Escaneo bueno, OCR legible incluso en tablas: esta copia NO reproduce la trampa MIXTO del caso testigo Caldera. 8 pags confirmadas visualmente."
+  }
+}
