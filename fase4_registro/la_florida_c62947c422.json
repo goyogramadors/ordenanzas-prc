@@ -1,0 +1,39 @@
+{
+  "id": "la_florida_c62947c422",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_393_enmiendas_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto 393, enmiendas al PRC La Florida. Normas 100% EN PROSA (formato 'reemplazar X por Y' columna por columna), sin cuadros: p2 Tablas 1-2 (areas E-AB1, E-AB2); p3 Tablas 3-6 (E-AB3, E-AB4, E-AM1); p4 Tablas 7-9 (E-AM2, E-AM3, E-AM4); p5 Tablas 10-12 y 16 (E-AA1, E-AA2, E-AA3, E-Ai1). Parametros tocados: subdivision predial minima, COS, coef. constructibilidad, altura, rasante, separacion a medianero. p1 solo vistos. OJO transcriptor: hay que leer frase por frase, no hay tabla visual.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-16T21:54:00",
+  "fin": "2026-07-16T22:02:17",
+  "resultado": {
+    "archivo": "extraccion_normas/la_florida/la_florida_decreto393_enmiendas_areas_pag2-5.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "E-AB1",
+      "E-AB2",
+      "E-AB3",
+      "E-AB4",
+      "E-AM1",
+      "E-AM2",
+      "E-AM3",
+      "E-AM4",
+      "E-AA1",
+      "E-AA2",
+      "E-AA3",
+      "E-Ai1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Enmienda en prosa (reemplázase X por Y), sin cuadro visual - reconstruida a tabla. Frente Predial Mínimo eliminado de todas las tablas del Art.39 por el decreto (nota general, no parámetro faltante). Tabla 5 y Tablas 13-15 no existen en esta enmienda (confirmado visualmente, no omisión). Muchas celdas 'No especificado en esta enmienda' son fidelidad a la fuente (enmienda parcial que no toca esa fila/columna), no vacíos de transcripción -- el valor final requiere la ordenanza base pre-enmienda que no está en este decreto."
+  }
+}

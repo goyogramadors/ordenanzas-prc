@@ -1,0 +1,36 @@
+{
+  "id": "el_bosque_3e5f3087fc",
+  "comuna": "el_bosque",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_bosque_decreto_alcaldicio_4433_promulga_acuerdo_n696_de_concejo_municipal_que_aprobo_po__Acuerdo_2025_32023.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto Alcaldicio 4433 El Bosque. Normas EN TEXTO (no imagen). art.2 desde p2: ZONA C (COS 80%/78%, predial 600/300 m2, frente 15/10 m, sin antejardin); p3 ZONA H (altura 14,4 m, predial 400/160 m2) y ZONA R; p4 ZONA 1-2-3 Residencial-Equipamiento-Talleres (altura 8,4/16,8 m, predial 210 m2, densidad 600 hab/ha); p5 ZONA 4 (COS 70%, altura 9 m, predial 1.500 m2, densidad 450,8 hab/ha) + Zona Seccional Lo Moreno Z-A/Z-B. p6-9 VIALIDAD (excluidas). p10-11 restricciones de altura por servidumbre aeronautica del Aerodromo El Bosque (util si se quiere altura efectiva). REDUNDANTE con el_bosque_b9671e13b5.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-16T21:49:37",
+  "fin": "2026-07-16T21:57:25",
+  "resultado": {
+    "archivo": "extraccion_normas/el_bosque/el_bosque_acuerdo696_zonas_pag2-5.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "C",
+      "H",
+      "R",
+      "1",
+      "2",
+      "3",
+      "4",
+      "Z-A",
+      "Z-B"
+    ],
+    "confianza": "ALTA",
+    "nota": "Zonas 1,2,3 comparten una sola tabla del decreto (D) ZONA 1-2-3), transcrita como sección única pero con sus 3 códigos individuales listados aquí para cobertura. REDUNDANTE según nota Fase 3 con el_bosque_b9671e13b5 (no verificado, pendiente para quien procese ese doc). Discrepancia con nota_fase3: Zona C SÍ exige antejardín 3m para vivienda colectiva/condominio y otros usos (nota decía 'sin antejardín', pero eso solo aplica a vivienda social). Zona C industria/bodegas COS sin dato explícito -> No especificado. Zona Z-B (equipamiento deportivo) sin parámetros estándar, tiene régimen especial de construcciones complementarias caso a caso."
+  }
+}
