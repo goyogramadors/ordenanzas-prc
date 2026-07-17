@@ -1,0 +1,29 @@
+{
+  "id": "san_antonio_14fc8c9e8e",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\san_antonio_7379_promulga_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_secto__DA 7379.pdf",
+  "rangos": [
+    [
+      28,
+      32
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Cap.III Zonificacion, usos de suelo y normas especificas (Art.5-6). Dos zonas en formato articulado: ZONA ZR4 Residencial4 (pag28,30): usos permitidos/prohibidos, superficie predial minima 160m2, densidad neta max 500hab/ha, COS 0.60, coef.constructibilidad 1.0-1.6, agrupamiento aislado/pareado/continuo, distanciamientos, rasante70, altura max 14m, cierros, antejardin3m, estacionamientos. ZONA ZD1 Deportes y Recreacion1 (pag30-32): usos permitidos/prohibidos, superficie predial minima 2500m2, densidad no aplicable, COS 0.4, coef.constructibilidad 0.5, agrupamiento aislado, rasante70, antejardin10m. Documento con paginacion doble (17p impresas + blancos intercalados en 32 del PDF); pag27,29,31 en blanco.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T18:56:36",
+  "fin": "2026-07-17T19:08:52",
+  "resultado": {
+    "archivo": "extraccion_normas/san_antonio/san_antonio_da7379_zonas_zr4_zd1_pag28-32.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZR4",
+      "ZD1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Modificacion PRC San Antonio sector Cerro Alegre (plano MPRCSA-CA-01), Diario Oficial Num.42.274, 7-feb-2019, documento ESCANEADO puro. 2 zonas confirmadas: ZR4 Residencial4 (pag28,30) y ZD1 Deportes y Recreacion1 (pag30-32). Confirmado visualmente: pag29 y 31 efectivamente en blanco (solo ruido de escaneo; pag31 ademas con artefacto de linea vertical negra). Identificador 'Decreto Alcaldicio N7379' del encargo NO aparece en pag28/30/32 -- solo se ve decreto N2.906/2006 (plan base, no la modificacion) -- no verificable con este material. CORRECCIONES a fase3: CC de ZR4 no es rango simple '1.0-1.6' sino condicional al numero de pisos (1.0 hasta 2 pisos, 1.6 para 3+ pisos); altura maxima ZR4 diferenciada por agrupamiento (14m Aislado, 7m Pareado, Continuo=Dato no determinable pese a estar permitido como sistema). Campos no mencionados por fase3 pero presentes en la fuente: Adosamiento (ZR4=segun OGUC, ZD1=no se permiten), Condiciones especiales (solo ZR4 tiene parrafo propio, remite Art.24 letra c; ZD1 no tiene). Anomalia textual verbatim preservada: Art.5 imprime 'ZONA ZR 4: ZONA RESIDENCIAL 4 ZONA ESPECIAL' en una sola linea, no calza con estructura de Art.6 donde las categorias SI estan separadas -- transcrito tal cual sin corregir. Variante de codigo de plano MPRCSA-CA--01 (doble guion) vs MPRCSA-CA-01 en la misma pagina, probable artefacto de imprenta. 0 valores inventados."
+  }
+}
