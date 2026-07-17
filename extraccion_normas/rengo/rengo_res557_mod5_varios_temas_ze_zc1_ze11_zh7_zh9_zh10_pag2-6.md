@@ -200,7 +200,7 @@ Contenido: acorta el tramo de "Prolongación Avenida Rosario" (de "Avenida Las D
 
 **Página 5.** Texto literal completo:
 
-> "Tema 10 de 14; Disminuya y unifíquese la superficie predial mínima en la ZH7 de Rosario, como a continuación se detalla:
+> "Tema 10 de 14; Disminúyase y unifíquese la superficie predial mínima en la ZH7 de Rosario, como a continuación se detalla:
 >
 > Superficie predial mínima: 160 m2"
 
@@ -228,7 +228,7 @@ Contenido: acorta el tramo de "Calle Tres Oriente" (de "Prolongación Libertad �
 
 ## Tema 12 de 14 — Vialidad estructurante: redefinición trazado oriente calle Libertad de Rosario (FUERA DE ALCANCE)
 
-**Página 5.** Texto operativo literal: *"Redefínase y extíndase colinealmente, respecto del eje de Avenida Libertad existente, el trazado oriente de calle Libertad de Rosario, de acuerdo a lo detallado en plano Tram_17/MODIF_05-PRC-RENGO_5/6. Modifíquese cuadro correspondiente del artículo 87 de la Ordenanza, incluyendo la clasificación vial detallada en la modificación Nº 2 al P.R.C. de acuerdo al siguiente detalle. Modifíquese:"*
+**Página 5.** Texto operativo literal: *"Redefínase y extiéndase colinealmente, respecto del eje de Avenida Libertad existente, el trazado oriente de calle Libertad de Rosario, de acuerdo a lo detallado en plano Tram_17/MODIF_05-PRC-RENGO_5/6. Modifíquese cuadro correspondiente del artículo 87 de la Ordenanza, incluyendo la clasificación vial detallada en la modificación Nº 2 al P.R.C. de acuerdo al siguiente detalle. Modifíquese:"*
 
 Contenido: cambia el tipo de intervención del tramo "Prolongación Avenida Libertad" (Avenida Las Delicias – Tres Oriente) de "Ensanche al sur" a "Ensanche ambos lados", y agrega un nuevo tramo colineal "Prolongación Avenida Libertad" (Tres Oriente – Límite Urbano Oriente). **No se transcribe** ancho/tipo/clasificación en detalle — fuera de alcance. Confirmado visualmente contra imagen de página 5.
 
@@ -238,7 +238,7 @@ Contenido: cambia el tipo de intervención del tramo "Prolongación Avenida Libe
 
 ## Tema 13 de 14 — AUSENTE EN EL CORPUS
 
-No existe ningún bloque de texto con el encabezado "Tema 13 de 14" en ninguna de las páginas 2 a 6, ni en el texto plano ni en las imágenes. Se verificó específicamente el punto de transición entre página 5 y página 6: la página 5 termina con la última fila de la tabla del Tema 12 ("Prolongación Avenida Libertad | Tres Oriente - Límite Urbano Oriente | 30 | Apertura | Local") seguida del pie de página estándar (CVE 1212250, etc.), y la página 6 comienza directamente con "Tema 14 de 14; Disminuya y unifíquese la superficie predial mínima de la ZH9...". No hay indicios de contenido cortado, página faltante en la secuencia, ni salto de numeración de página del Diario Oficial (las páginas están correctamente rotuladas "Página 5 de 6" y "Página 6 de 6" consecutivas). Ver detalle en "Discrepancias y hallazgos".
+No existe ningún bloque de texto con el encabezado "Tema 13 de 14" en ninguna de las páginas 2 a 6, ni en el texto plano ni en las imágenes. Se verificó específicamente el punto de transición entre página 5 y página 6: la página 5 termina con la última fila de la tabla del Tema 12 ("Prolongación Avenida Libertad | Tres Oriente - Límite Urbano Oriente | 30 | Apertura | Local") seguida del pie de página estándar (CVE 1212250, etc.), y la página 6 comienza directamente con "Tema 14 de 14; Disminúyase y unifíquese la superficie predial mínima de la ZH9...". No hay indicios de contenido cortado, página faltante en la secuencia, ni salto de numeración de página del Diario Oficial (las páginas están correctamente rotuladas "Página 5 de 6" y "Página 6 de 6" consecutivas). Ver detalle en "Discrepancias y hallazgos".
 
 ---
 
@@ -246,7 +246,7 @@ No existe ningún bloque de texto con el encabezado "Tema 13 de 14" en ninguna d
 
 **Página 6.** Texto literal completo:
 
-> "Tema 14 de 14; Disminuya y unifíquese la superficie predial mínima de la ZH9 y, a la vez, disminuya la superficie predial mínima de la ZH10 de Esmeralda como a continuación se detalla:
+> "Tema 14 de 14; Disminúyase y unifíquese la superficie predial mínima de la ZH9 y, a la vez, disminúyase la superficie predial mínima de la ZH10 de Esmeralda como a continuación se detalla:
 >
 > Para la ZH9
 > Superficie predial mínima: 200 m2
@@ -289,7 +289,7 @@ Se confirma su existencia y contenido general; no se transcriben en detalle por 
 
 4. **Tema 1 (página 2, ZE/ZE2/ZE4/ZE6/ZE10):** la nota de Fase 3 es correcta en el listado de zonas y en que el contenido es texto. Se confirma además el detalle de artículos (45 a 49) que la nota no incluía.
 
-5. **Tema 4 (páginas 3-4, ZC1 Art. 34):** la nota de Fase 3 es correcta en que expone usos permitidos/condicionados/prohibidos completos. Hallazgo adicional no mencionado por Fase 3: el propio texto del Tema 4 se autorreferencia como "la situación modificada según el **Tema 5** de la modificación N° 5 al P.R.C.", pese a estar rotulado como "Tema 4 de 14" y pese a que el "Tema 5 de 14" real (más adelante) trata sobre la calle Guacolda, sin relación con la ZC1. Se verificó que esta redacción es idéntica en el texto nativo y en la imagen a 250dpi, por lo que se trata de una probable errata de referencia cruzada del decreto original, no de un artefacto de esta extracción.
+5. **Tema 4 (páginas 3-4, ZC1 Art. 34):** la nota de Fase 3 es correcta en que expone usos permitidos/condicionados/prohibidos completos. Hallazgo adicional no mencionado por Fase 3: el propio texto del Tema 4 se autorreferencia como "la situación modificada según el **Tema 5** de la modificación Nº 5 al P.R.C.", pese a estar rotulado como "Tema 4 de 14" y pese a que el "Tema 5 de 14" real (más adelante) trata sobre la calle Guacolda, sin relación con la ZC1. Se verificó que esta redacción es idéntica en el texto nativo y en la imagen a 250dpi, por lo que se trata de una probable errata de referencia cruzada del decreto original, no de un artefacto de esta extracción.
 
 6. **Tema 8 (páginas 4-5, ZE11 Art. 59 Bis A) — discrepancia significativa de valores respecto de la nota de Fase 3.** La nota dice: *"tabla completa: superficie predial min 2.34, coef.constructibilidad 0.78, agrupamiento Continuo/Pareado/Aislado, altura max 12.6m, distanciamiento/antejardin segun OGUC"*. Verificado contra imagen a 250dpi, la tabla real dice:
    - **Superficie predial mínima = "Existente"**, no "2,34" (la nota atribuyó a este campo el valor que en realidad corresponde a otro campo).
