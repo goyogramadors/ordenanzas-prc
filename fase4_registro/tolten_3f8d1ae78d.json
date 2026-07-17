@@ -1,0 +1,33 @@
+{
+  "id": "tolten_3f8d1ae78d",
+  "comuna": "tolten",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tolten_44444_promulgase_el_plan_regulador_comunal_de_tolten_localidades_de_nueva_tolten__download.aspx.pdf",
+  "rangos": [
+    [
+      12,
+      16
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "PRC completo Tolten (Nueva Tolten y Villa Los Boldos): Capítulo IV pág12-16, zonas ZMC, ZM2, ZM3, ZM4, ZE, ZAV con usos permitidos/prohibidos + condiciones edificación y subdivisión completas (superficie predial, COS, CC, altura, agrupamiento, antejardín, densidad bruta); texto nativo completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T19:38:53",
+  "fin": "2026-07-17T20:11:04",
+  "resultado": {
+    "archivo": "extraccion_normas/tolten/tolten_prc_zonas_zmc_zm2_zm3_zm4_ze_zav_pag12-16.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "ZMC",
+      "ZM2",
+      "ZM3",
+      "ZM4",
+      "ZE",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "PRC Tolten (Nueva Tolten y Villa Los Boldos), DO 44444 8-may-2026, Cap.IV Art.7 'Normas especificas', pag12-16. 6 zonas confirmadas EXACTAS a fase3: ZMC,ZM2,ZM3,ZM4,ZE,ZAV. HALLAZGO/duda de fase3 RESUELTA con evidencia directa (no solo inferencia): se renderizo pag11 adicional (fuera de rango asignado) para verificar tabla Art.6 -- CONFIRMADO que NO existe zona ZM1 en este PRC especifico, secuencia real es ZMC->ZM2->ZM3->ZM4->ZE->ZAV sin salto de pagina que escondiera nada. Aclaracion cruzada importante: existe OTRO PRC distinto de la misma comuna Tolten (Queule/Villa OHiggins, ya en tolten_7_prc_queule_villa_ohiggins.md) que SI tiene zona ZM-1 -- son 2 instrumentos independientes, no confundir. HALLAZGO no cubierto por fase3: inconsistencia real de la fuente sobre ZAV -- tabla Art.6 lista ZAV tambien para Villa Los Boldos, pero texto propio de ZAV en Art.7 dice 'Zona presente en la localidad de Nueva Tolten' (singular) -- contradiccion genuina no resoluble con este material, dejada para fase 5. HALLAZGO: patron de tabla partida SI ocurre pero en tablas de Usos de Suelo (no en Condiciones de Edificacion como anticipaba el encargo) -- ZM3 partida pag13->14, ZM4 partida pag14->15, ambas verificadas sin perdida de fila. Heterogeneidad real de estructura de columnas entre zonas: ZMC/ZM3 valores distintos por columna Residencial/Otros; ZM2 distingue Residencial-Otros fusionado vs Equipamiento-Salud; ZM4/ZE valores unicos combinados salvo Densidad. ZMC es la unica sin parrafo de areas de riesgo (nucleo urbano consolidado). Txt de apoyo confirmado confiable (texto nativo genuino, 0 discrepancias vs imagen en todo el rango) -- contrasta con patron dominante del corpus (Romeral, Caldera) donde .txt solo capturaba titulos. Contenido adicional en pag16 no mencionado por fase3: Art.8 completo (4 areas riesgo AR-1 a AR-4), Art.9 completo (patrimonio, 1 inmueble Parroquia San Antonio remitido a condiciones ZMC), inicio Cap.V Vialidad (corta a media frase, cuadros viales confirmados en pag17 via render suplementario, fuera de alcance). 0 trampa comuna ajena en 7 paginas revisadas (11-17). Unico vacio real: Densidad Bruta Maxima ausente en ZAV (zona sin uso residencial, por diseno). 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas asignadas + 2 de verificacion suplementaria."
+  }
+}
