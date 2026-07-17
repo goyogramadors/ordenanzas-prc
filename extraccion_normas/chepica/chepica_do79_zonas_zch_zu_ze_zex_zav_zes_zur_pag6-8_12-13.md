@@ -560,7 +560,7 @@ Texto literal (Disposiciones especiales, dentro de "iii) Condiciones de subdivis
 | Multicanchas y otras similares | 3 por cancha |
 | Canchas de fútbol y otras similares | 7 por cancha |
 | Piscinas | 1 por cada 15 m² de piscina |
-| Graderias | 1 por cada 40 espectadores |
+| Graderiás | 1 por cada 40 espectadores |
 | Cines, Teatros, Centros de Convenciones | 1 cada 30 m² de sup. útil const. |
 | Restaurante, Discoteca | 1 cada 60 m² de sup. útil const. |
 | Entretenciones al aire libre, zonas de picnic | 1 cada 200 m² de predio |
