@@ -1,0 +1,38 @@
+{
+  "id": "chanaral_592e85ad99",
+  "comuna": "chanaral",
+  "ruta": "Ordenanzas Descargadas\\1-600\\chanaral_373_aprueba_plan_regulador_y_seccional_comunal_chanaral__do-20050413.pdf",
+  "rangos": [
+    [
+      9,
+      13
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Decreto Alcaldicio 373 exento (17.03.2004), publicado DO 13.04.2005, aprueba Plan Regulador y Seccional Comunal de Chanaral (firmado Alcalde Hector Volta Rojas, sin mezcla de otra comuna). Cuadros de Normas de Urbanizacion y Edificacion pp.9-12 por zona ZU-1..ZU-9, ZE-1, ZE-2 (superficie predio, frente minimo, altura max/pisos, CC, COS por tramos 1-2 pisos/mas de 2/area libre, sistema agrupacion A-P-C, rasante y distanciamiento OGUC, antejardin minimo, adosamiento max %). Ej ZU-1: predio 300-500m2, frente 15m, CC 2.0-3.5, COS 75/40/30, adosamiento max 70%. p.13 Cuadro Z12 sintesis de densidad (hab/hect) y morfologia por zona. Excluidas del rango: pp.4-5 cuadros de deslindes/coordenadas (L1-L5) y pp.14-17 cuadros de vialidad (V1-V9), no son normas de zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T12:51:02",
+  "fin": "2026-07-17T13:28:10",
+  "resultado": {
+    "archivo": "extraccion_normas/chanaral/chanaral_do373_zonas_zu1_a_zu9_ze1_ze2_pag9-13.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZU-9",
+      "ZE-1",
+      "ZE-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Alcaldicio 373 exento (17-mar-2004), DO 13-abr-2005, aprueba Plan Regulador y Seccional Comunal de Chanaral (comuna nueva en el corpus). 11 zonas (ZU-1 a ZU-9 -- ZU-5 con subzonas 5.1/5.2 en un mismo cuadro, asignacion fila->subzona inferida y marcada como tal --, ZE-1, ZE-2) mas Cuadro Z12 de sintesis (uso predominante/densidad/morfologia). ZU-1 confirma exacto lo anticipado en fase3 (predio 300-500m2, frente 15m, CC 2,0-3,5, COS 75/40/30, adosamiento max 70%). Cuidado especial en distinguir celdas fusionadas (un valor aplica a varios tramos) de celdas vacias, verificado con zoom 2x-7x sobre lineas divisorias. HALLAZGOS: (1) densidad media ZU-1=300hab/ha declarada en disposiciones complementarias pero el Cuadro Z12 muestra guion para esa zona -- discrepancia interna del propio documento, documentada; (2) Art.21 del decreto dice textualmente 'ZU-1...ZU-7' pese a que el documento desarrolla hasta ZU-9 -- discrepancia textual propia del original. Estructura de columnas COS (orden area libre/estacionamiento) varia por zona, documentado explicitamente en cada tabla. Fuera de alcance (solo mencionadas): Art.22 Zonas Especiales (ZPA/ZB/ZP-1/ZR-1/ZR-2/ZR-4/ZR-5/ZR-6) y inicio Vialidad Estructurante Art.23-24."
+  }
+}
