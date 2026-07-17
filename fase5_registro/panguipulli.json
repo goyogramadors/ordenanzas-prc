@@ -1,0 +1,42 @@
+{
+  "comuna": "panguipulli",
+  "region": "14",
+  "geojson_file": "14_PRC_Panguipulli.json",
+  "salida_json": "14_panguipulli.json",
+  "markdowns": [
+    {
+      "id": "panguipulli_67f243ca29",
+      "archivo": "extraccion_normas\\panguipulli\\panguipulli_5_ordenanza_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "Z0",
+        "Z1",
+        "Z2",
+        "Z3",
+        "Z4",
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5",
+        "R6"
+      ],
+      "nota": "Cap.IV completo arts 18-21: 5 zonas urbanas (Z0-Z4) con usos de suelo y normas especificas completas + 6 zonas de restriccion (R1-R6). Texto nativo confirmado, no imagen. p5 vialidad excluida. Verificado contra nota_fase3: coincide."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:59:06",
+  "fin": "2026-07-17T05:01:03",
+  "resultado": {
+    "archivo_json": "14_panguipulli.json",
+    "zonas_ficha": 11,
+    "zonas_geojson": 11,
+    "zonas_cubiertas": 11,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "11 zonas con datos reales del Decreto N5 (Cap.IV completo, arts 18-21, texto nativo): Z0-Z4 con cuadro normativo completo (usos, predial, CC, COS, agrupamiento, altura por sistema, adosamiento); R1 con predial minimo y restriccion de edificacion a obras ligeras; R2-R6 zonas de restriccion sin cuadro numerico estandar (protecciones de quebradas/infraestructura/lineas de alta tension/ferrocarril/esteros), transcritas con sus condiciones textuales especificas (franjas de 1,5m/10m/3m segun corresponda). Codigos adoptan grafia con guion del GeoJSON oficial (Z-0..Z-4, R-1..R-6) vs sin guion de la fuente (Z0..Z4, R1..R6). Cobertura GeoJSON exacta 11/11 sin necesidad de fichas estimadas. Confianza ALTA heredada de fase4 (texto nativo confirmado, no imagen)."
+  }
+}
