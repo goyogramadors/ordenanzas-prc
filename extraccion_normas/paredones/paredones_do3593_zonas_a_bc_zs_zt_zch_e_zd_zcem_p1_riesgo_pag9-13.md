@@ -271,7 +271,7 @@ b. En esta zona se exige una arborización de 20% del predio.
 | Antejardín | No se exige |
 | Densidad máxima | 50 hab/ha. |
 
-**Condición adicional (cierres):** "En esta zona, los cierros hacia el espacio público de frentes sin edificaciones deberán tener cierros de tapial de adobe en al menos un 50%."
+**Condición adicional (cierres):** "En esta zona, los cierres hacia el espacio público de frentes sin edificaciones deberán tener cierros de tapial de adobe en al menos un 50%."
 
 ---
 
@@ -520,8 +520,8 @@ Se confirma visualmente que **no se corta contenido de zona antes de tiempo**: e
 
 1. **Hallazgo A-1/A-2 (mencionado explícitamente en el encargo) — CONFIRMADO y resuelto.** La página 10 tiene diseño a dos columnas. El extractor de texto plano intercala en la misma línea del archivo fragmentos de ambas columnas cuando coinciden en altura, lo que hace parecer — a una lectura fila-por-fila — que el bloque de valores numéricos (Superficie/Altura/Agrupamiento/COS/CC/Densidad/Antejardín) de una zona corresponde a la zona vecina. Se resolvió leyendo las imágenes PNG columna por columna (orden real de lectura: p10-col-izquierda completa, luego p10-col-derecha completa). Resultado verificado dos veces contra la imagen:
    - **Zona A-1** = 300 m² / 2 pisos-7m / Aislado-Pareado-Continuo / COS 0,6 / CC 0,9 / Densidad 80 hab/h / Antejardín "No se considera" (sin excepción Bucalemu).
-   - **Zona A-2** = 180 m² / 2 pisos-7m / Aislado-Pareado-Continuo / COS 0,6 / CC 1 / Densidad 120 hab/ha / Antejardín 4 m (con excepción Bucalemu: 3 pisos/9m, COS 0,25 2ºiso, 0,1 3ºiso).
-   - Por completitud también se verificó **Zona A-3** = 400 m² / 2 pisos-7m / Aislado-Pareado / COS 0,4 / CC 0,6 / Densidad 30 hab/ha / Antejardín 6 m (con excepción Bucalemu: 3 pisos/9m, COS 0,20 2ºiso, 0,1 3ºiso), ya que el mismo patrón de columnas afecta el límite A-2/A-3.
+   - **Zona A-2** = 180 m² / 2 pisos-7m / Aislado-Pareado-Continuo / COS 0,6 / CC 1 / Densidad 120 hab/ha / Antejardín 4 m (con excepción Bucalemu: 3 pisos/9m, COS 0,25 2ºpiso, 0,1 3ºpiso).
+   - Por completitud también se verificó **Zona A-3** = 400 m² / 2 pisos-7m / Aislado-Pareado / COS 0,4 / CC 0,6 / Densidad 30 hab/ha / Antejardín 6 m (con excepción Bucalemu: 3 pisos/9m, COS 0,20 2ºpiso, 0,1 3ºpiso), ya que el mismo patrón de columnas afecta el límite A-2/A-3.
    El patrón exacto de la trampa: el bloque de cierre ("4. Condiciones de Subdivisión y Edificación", y a veces "5. Condiciones especiales de la Zona") de cada zona A queda con frecuencia al **inicio de la columna siguiente**, mientras que el encabezado "Zona X:" y sus secciones 1-3 (usos permitidos/prohibidos) quedan al **final de la columna anterior** — es decir, el bloque numérico que aparece pegado visualmente (misma fila del .txt) al nombre de una zona en realidad suele pertenecer a la zona **anterior** en el orden de lectura por columnas, no a la que tiene más cerca en la fila.
 
 2. **Hallazgo adicional NO mencionado por fase 3: el mismo patrón se repite entre B-1 y BC (páginas 11-12).** La sección "3. Condiciones de Subdivisión y Edificación" que aparece al inicio de la columna izquierda de la página 12 (300 m² / 3 pisos-9m / Continuo-Pareado-Aislado / COS 0,6 / CC 1 / Rasantes 70º / Densidad máxima 60 hab/ha / Antejardín 5 m) pertenece a **Zona B-1** (cuyo encabezado y secciones 1-2 quedaron al final de la columna derecha de la página 11), **no** a Zona BC, que recién comienza más abajo en esa misma columna izquierda de la página 12. Se verificó por imagen; de haberse leído en modo fila-por-fila también habría riesgo de mala atribución aquí, aunque el encargo original sólo advertía sobre A-1/A-2.
