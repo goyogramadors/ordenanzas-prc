@@ -1,0 +1,30 @@
+{
+  "id": "penalolen_67d19c117a",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_2018_02.pdf",
+  "rangos": [
+    [
+      4,
+      7
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "DO 28-sep-2018, modificacion parcial PRC Penalolen. Trampa confirmada (CONDICIONES DE SUBDIVISION Y DE EDIFICACION: sin contenido en texto). Render: pag4 Zona R2 cuadro completo (densidad bruta max, superficie subdivision predial min, COS, coef.constructibilidad, agrupamiento, rasantes/distanciamiento, altura, antejardin, estacionamientos) Residencial/Equipamiento/Act.Productivas; pag5 usos Zona EQ-1; pag6 cuadro EQ-1 + inicio R10; pag7 cuadro R10.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T05:15:07",
+  "fin": "2026-07-17T06:09:30",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_mprc201802_zonas_r2_eq1_r10_cuadros_pag4-7.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "R2",
+      "EQ-1",
+      "R10"
+    ],
+    "confianza": "ALTA",
+    "nota": "DO 28-sep-2018 Nº42.167, Modif.Parcial PRC Peñalolén sectores Las Perdices/Oriental/Cancha Tres/El Sauzal. Trampa confirmada (cuadros CONDICIONES DE SUBDIVISION Y EDIFICACION vacíos en texto plano), transcritos visualmente con zoom. Zona R2 (pág.4, cuadro completo 3 columnas uso Residencial/Equipamiento/Act.Productivas: densidad 450 Hab/Há, subdivisión 100/160/300 m², COS 0,7, CC 1,4/1,2/1,4, antejardín 2/no exige/3 m). Zona EQ-1 nueva (usos pág.5, condiciones pág.6, 1 columna: subdivisión 1000 m², COS 0,7, CC 3). Zona R10 nueva (usos pág.6-7, condiciones pág.7, 3 columnas: densidad 1000 Hab/Há, subdivisión 700/1000/300 m², CC 3/3/2, altura 12p-36m/Art.2.6.3 OGUC/2p-8m, antejardín 3/no exige/5 m). Todos los valores confirmados con recorte ampliado y coinciden con fichas ya catalogadas (penalolen_zona_r2.md, _r10.md, _eq1_equipamiento.md) desde fuente distinta."
+  }
+}

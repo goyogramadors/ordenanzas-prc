@@ -1,0 +1,26 @@
+{
+  "id": "penalolen_a8c1bc9090",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\penalolen_28005103_asigna_nuevas_normas_urbanisticas_de_acuerdo_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "PENALOLEN: Decreto 2800-5103 (2010, BCN LeyChile, 4p), Asigna Nuevas Normas Urbanisticas a predios cuya declaratoria de utilidad publica caduco el 12-feb-2010 (art 59 LGUC). Mismo mecanismo ya visto en Concepcion-Conchali-Machali-Las Condes. TRAMPA CONFIRMADA: el texto anuncia 'Tabla N1: Vialidades' seguido de punto solitario; la tabla es IMAGEN en p2-3 (verificado en render): columnas Nombre de Via que caduco, Tramo, Ancho existente y proyectado, Categoria, Apertura-ensanche, Subtramo, Situacion Propuesta (zona asignada: R1, R2, R3, R5, R7, ZHM-1, ZHM-2, ZHM-3, Zona PRMS Art 5.2.4.1, SM1, Z1). Multiples vias: El Valle, Antupiren, Mar Tirreno, El Chuncho, Av. Alvaro Casanova. p4 probablemente Tabla N2 (verificar).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T05:15:07",
+  "fin": "2026-07-17T06:09:41",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_do2800_5103_tablas_vialidad_zonas_asignadas_pag1-4.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "ALTA",
+    "nota": "Decreto 2800-5103 (12-ago-2010, BCN LeyChile, 4p), Asigna Nuevas Normas Urbanisticas a predios con declaratoria de utilidad publica caducada 12-feb-2010 (art.59 LGUC) - mismo mecanismo Concepcion/Conchali/Machali/Las Condes. Trampa confirmada: Tabla N1 Vialidades es imagen en p2-3, transcrita visualmente: 14 vias, 43 filas tramo/subtramo, remite a zonas YA EXISTENTES (R1,R2,R3,R5,R6,R7,ZHM-1,ZHM-2,ZHM-3,SM1,Z1,PE,E1a,Zona PRMS Art.5.2.4.1,Zona Quebrada,11B,11BF,11ac) sin definir parametros nuevos - zonas=0 seg.convencion las_condes_3af38b39e7. Corrige hipotesis fase3: p.4 NO trae Tabla N2, es solo cierre administrativo/firmas. 2 limitaciones marcadas: 1 fila Av.Alvaro Casanova con ancho/categoria no legible (borde pagina), codigo '11ac' de menor confianza de lectura."
+  }
+}
