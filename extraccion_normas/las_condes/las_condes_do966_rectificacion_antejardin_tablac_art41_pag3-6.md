@@ -46,7 +46,7 @@ Texto de delimitación del área (transcrito completo): "Los proyectos que se em
 
 ## 1.12 — Renombramiento de columnas, Tabla B) (numeral 25, letra g).8, acápite 8)
 
-"reemplázace la letra b) por la siguiente: "b) En la Tabla B) reemplázace la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento" y la expresión "Servicios Profesionales" por "Servicios".."
+"reemplázace la letra b) por la siguiente: "b) En la Tabla B) reemplázace la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento" y la expresión "Servicios Profesionales" por "Servicios"."."
 
 ## 1.13 — Corrección de nombres de vías y sector (numeral 25, letra g).14, acápite 14, letra g))
 
