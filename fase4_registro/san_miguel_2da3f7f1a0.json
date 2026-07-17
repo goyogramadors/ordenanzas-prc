@@ -1,0 +1,28 @@
+{
+  "id": "san_miguel_2da3f7f1a0",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_3163_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.163.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "SAN MIGUEL: *** CONTAMINACION: edicion completa del DO (5p) *** con material ajeno. Decreto exento 3.163, Modifica la Ordenanza Local del PRC, concentrado en p2-5 (verificado por conteo de menciones SAN MIGUEL). Mismo patron que el decreto gemelo 3162 (mismo dia de publicacion, misma edicion del DO): texto denso nativo con contenido dimensional real pero layout a 2 columnas que puede desordenar valores (patron Linares). CONFIANZA MEDIA: verificar visualmente antes de extraer.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T12:51:02",
+  "fin": "2026-07-17T13:27:10",
+  "resultado": {
+    "archivo": "extraccion_normas/san_miguel/san_miguel_dex3163_zona_zu2prima_residencial_renovacion_pag2-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-2'"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Decreto Exento 3163, 3-dic-2014, San Miguel (DO N41.035 18-dic-2014). Crea Zona ZU-2' (Residencial de Renovacion') reemplazando la Zona EC-1 (Equipamiento Recreacional y Deportivo, ex 'Complejo Deportivo El Tatio'). HALLAZGO CRITICO verificado 3 formas independientes (texto plano, imagen completa, recorte con realce de contraste): el 'Cuadro de normas urbanisticas' viene genuinamente INCOMPLETO en el propio Diario Oficial -- solo imprime el encabezado 'Coeficiente constructibilidad' y leyendas A=Aislado/P=Pareado, sin ninguna fila de datos (ni densidad, altura, COS, CC numerico, ni superficie predial). Confirmado cruzando con archivo ya existente de otra sesion (san_miguel_3164_zu2_disposicion_especial.md), que reporta el mismo defecto de diagramacion. NO se inventaron valores -- quedan como dato no determinable. Si se rescato del texto corrido: Densidad maxima 1.800 hab/ha, restriccion altura pareadas 9m en deslinde (profundidad max 15m o 40% del fondo si <25m, sobre esa altura agrupamiento aislado), antejardines no pueden usarse como estacionamiento. Tambien elimina 'Complejo Deportivo Tatio' del area EC-1."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "san_miguel_2723b34ccf",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_3162_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.162.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "SAN MIGUEL: *** CONTAMINACION: edicion completa del DO (5p) *** con material ajeno (Hacienda, Aduanas, capacitacion). Decreto exento 3.162, Modifica la Ordenanza Local del PRC, concentrado en p2-5. Contenido real confirmado: 'graficadas en el plano PRSM-I, lo siguiente: Coeficiente Ocupacion de 0.7' - el valor SI esta en el texto, pero el layout a 2 columnas del DO lo descoloca (parece punto solitario a primera vista, pero no es tabla-imagen, es reordenamiento de columnas, igual al patron ya documentado en Linares). Texto NATIVO denso. CONFIANZA MEDIA: la fase siguiente debe verificar visualmente el reemparejamiento de columnas antes de extraer valores.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T12:51:02",
+  "fin": "2026-07-17T13:26:59",
+  "resultado": {
+    "archivo": "extraccion_normas/san_miguel/san_miguel_dex3162_zona_zu4prima_industrial_mixta_pag2-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-4'"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Exento 3162, 3-dic-2014, San Miguel (DO N41.035 18-dic-2014). Crea Zona ZU-4' (Industrial Mixta) reemplazando parte de ZU-2 (Residencial de Renovacion). Cuadro de normas coincidio exacto entre texto plano pdftotext-layout e imagen (sin descoloque de columnas, a diferencia de lo anticipado para este layout a 2 columnas). Densidad Bruta Maxima 1.400 hab/ha, Altura maxima=Rasante (sin limite fijo), CC 2,0, COS 0,7, Sistema Agrupamiento Aislado, Antejardin 3m, Adosamiento Maximo 40%, y 3 superficies de subdivision predial minima segun uso (250m2 general, 1000m2 actividades productivas, 1000m2 infraestructura/equipamiento). Detecto error de imprenta propio del Diario Oficial ('Ecruipamiento' por 'Equipamiento'), corregido con nota. Restriccion de altura adicional por aproximacion de aerodromo (art.26)."
+  }
+}
