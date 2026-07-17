@@ -1,0 +1,48 @@
+{
+  "id": "penalolen_4f35103813",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_12003326_apruebese_el_texto_de_la_modificacion_parcial_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      4
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      9,
+      9
+    ],
+    [
+      11,
+      11
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "TRAMPA imagen: modificación parcial 5 sectores (Antupirán, Las Perdices, Oriental, Cancha Tres, El Sauzal). Texto dice 'junto a sus normativas asociadas quedando como sigue:' y tablas embebidas como imagen (confirmado pdfimages): pág4 vías nuevas art.35 (pequeña), pág5 Zona R8/R9 normativas completas (imagen grande 541x2419), pág7 Zona R2 (Las Perdices/Oriental), pág9 Zona EQ-1 (Cancha Tres), pág11 Zona R10 (El Sauzal)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T15:33:18",
+  "fin": "2026-07-17T15:51:00",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_12003326_zonas_r8_r9_r2_eq1_r10_5sectores_pag4_5_7_9_11.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "R8",
+      "R9",
+      "R2",
+      "EQ-1",
+      "R10"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 3326/2016 Penalolen, TRAMPA imagen confirmada (cuadros embebidos como imagen sin capa de texto), 5 sectores (Antupiran, Las Perdices, Oriental, Cancha Tres, El Sauzal) -> 5 zonas: R8+R9 (Antupiran, pag5) + R2 (pag7) + EQ-1 (pag9) + R10 (pag11), mas tabla de vias Art.35 (pag4, no es zona). Todo leido de imagen con zoom 2-5x. HALLAZGO clave: R2/EQ-1/R10 coinciden CELDA POR CELDA con documento YA existente en el corpus (penalolen_mprc201802_zonas_r2_eq1_r10_cuadros_pag4-7.md, DO 2018) -- mismo acto normativo de fondo probablemente (este decreto 2016 = municipal original, DO 2018 = formalizacion/publicacion posterior). Usado como verificacion cruzada pero TODOS los valores se leyeron independientemente de esta imagen, no copiados. Hallazgos genuinos del original documentados sin forzar uniformidad: tabla usos prohibidos R8/R9 partida en 2 recuadros con celda categoria en blanco en fila Comercio; variacion de redaccion R8 vs R9 en esa misma fila (verificada con zoom); R10 usa encabezado USOS EXCLUIDOS en vez de USOS PROHIBIDOS; R10 omite frase que si tienen R2/EQ-1. Asociacion sector-zona para R2/EQ-1/R10 no verificable en las paginas propias (el nombre de sector esta en pag6/8/10 fuera de rango) -- se apoya en fase3 + cruce documental, declarado explicito. 0 valores inventados, 2 celdas en blanco marcadas como tal."
+  }
+}
