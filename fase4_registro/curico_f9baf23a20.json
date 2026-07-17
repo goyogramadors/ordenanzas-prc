@@ -1,0 +1,41 @@
+{
+  "id": "curico_f9baf23a20",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\curico_decreto_exento_enmienda_ordenanza_local_del_plan_regulador_de_curico__230.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Dec.Ex.230/2013 Enmienda N.1 Ordenanza Local PRC Curico, art.4.1.3 (Titulo 4 Zonificacion, Usos de Suelo y Normas Especificas). TRAMPA CONFIRMADA: p2 y p4 son IMAGEN completa (metadata mostraba solo 72 y 920 caracteres, tablas densas ocultas). Tablas completas 'Normas de Subdivision y Edificacion por Usos' (Residencial/Equipamiento/Actividades productivas/Infraestructura) para: p2 ZU-2 (predial 280/140/1050, COS 0,78/1/0,52, CC 8,125, altura 57,6m/16,8m/10,8m, densidad 768 hab/ha), ZU-3, ZU-4, ZU-5; p4 ZU-10, ZU-11, ZI Zona Industrial, ZE-2 Equipamiento Comercial (predial 1000m2, COS 0,8/0,65, CC 2,6, aislado, altura 13,2m, antejardin 10m). Cierra con firmas en p4.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-16T21:49:37",
+  "fin": "2026-07-16T22:00:43",
+  "resultado": {
+    "archivo": "extraccion_normas\\curico\\curico_decreto230_enmienda1_extracto_pag1-4.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "ZCC",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZU-9",
+      "ZU-10",
+      "ZU-11",
+      "ZI",
+      "ZE-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "nota_fase3 esperaba solo 8 zonas (ZU-2/3/4/5 en p2, ZU-10/11/ZI/ZE-2 en p4) asumiendo p1 y p3 sin tabla; verificacion visual (con zoom por tabla) muestra que p1 trae 2 tablas completas (ZCC, ZU-1) y p3 trae 4 tablas completas (ZU-6 a ZU-9): total real 14 zonas, todas transcritas. ZU-2 y ZE-2 confirman exacto el formato/valores de referencia del encargo. Hallazgo: ZU-1 en este Decreto230/2013 NO trae fila de altura maxima (ausencia real, no error de OCR) - coherente con que el Decreto1056/Enmienda4 (ya extraido en esta carpeta) sea el que fija altura ZU-1=16,80m despues, en 2026. Posible solape: 'curico_ae14f9d4de' (Diario Oficial, doc 239) reproduce este mismo Decreto230 completo en sus p3-6 (misma norma, 14 zonas identicas) - evitar doble conteo en Fase 5. Los decretos 1056/1370/3445 ya extraidos en esta carpeta modifican/crean variantes (ZU-1 altura, ZU-4a, ZU-6a, ZU-10a, ZU-10b) sobre las zonas base transcritas aqui; son registros complementarios, no duplicados. Sin hallazgos ilegibles."
+  }
+}
