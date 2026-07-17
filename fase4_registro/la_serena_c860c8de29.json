@@ -1,0 +1,38 @@
+{
+  "id": "la_serena_c860c8de29",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_serena_4335_aprueba_la_enmienda_no4_al_plan_regulador_comunal_de_la_serena__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "LA SERENA: Decreto 4335 (BCN, 5p), Enmienda N4 al PRC. MIXTO: las TABLAS COMPLETAS NO ESTAN EN EL PDF (dos remisiones: 'VER DIARIO OFICIAL DE 04.12.2006, PAGINA 10' para el cuadro de estacionamientos del Art 67, y 'PAGINAS 12 a 17' para las tablas anexas de las 11 zonas). PERO p2-5 SI traen, en texto plano limpio, decenas de cambios puntuales con valores reales sobre 11 zonas (ZEX 4-4, ZEX 3-1, ZEX 3-5, ZC11-6, ZEX 6-A, ZC 11-1, ZEX-19, ZC-3, ZC-9, ZEX-2, ZC4-2): p.ej. COS 0,6, CC 1,8, altura maxima 21,6 m, antejardin 5 m, densidad maxima neta de 600 a 720 hab por ha. La norma es recuperable solo como DELTAS, no como tabla completa. Verificado visualmente: las paginas delatoras son texto, no imagen.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:08:46",
+  "fin": "2026-07-17T04:13:30",
+  "resultado": {
+    "archivo": "extraccion_normas/la_serena/la_serena_decreto4335_enmienda4_deltas_11zonas_pag2-5.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "ZEX 4-4",
+      "ZEX 3-1",
+      "ZEX 3-5",
+      "ZC 11-6",
+      "ZEX 6-A",
+      "ZC 11-1",
+      "ZEX-19",
+      "ZC-3",
+      "ZC-9",
+      "ZEX-2",
+      "ZC 4-2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Solo deltas puntuales (parámetro + valor nuevo), tablas base completas de las 11 zonas NO disponibles en este corpus (remiten a Diario Oficial 04-dic-2006 p.10 y p.12-17). Incluye sección aparte de modificaciones generales no asociadas a zona específica (Art.67 estacionamientos, Art.61, Art.30 C16, Art.53 antejardines) para no perder cobertura del decreto. Fase 5 debe cruzar estos deltas contra la ordenanza base de cada zona cuando exista, y dejar constancia de qué queda sin base disponible."
+  }
+}
