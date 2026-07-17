@@ -75,7 +75,7 @@ Nota del original (pág. 84): "Además, el sector SEAb3´ en que se podrán apli
 
 > **Nota de inconsistencia — Antejardín ("Libre" vs "No se exige"):** las Tablas 1 y 2 (pág. 82) indican Antejardín "Libre"; la Tabla 3 (pág. 83) indica "No se exige" para el mismo Sector EAb3'. Es probable que sean sinónimos en la intención del redactor, pero se transcribe la diferencia literal.
 
-> **Nota de inconsistencia — rótulo "Densidad Máxima Bruta" (Tablas 1 y 2):** las Tablas 1 y 2 rotulan la columna de "300 viv/ha" como "Densidad Máxima **Bruta**", pero el resto del documento trata ese mismo valor de 300 viv/ha como densidad **neta** (así lo rotula la Tabla 3, y así lo trata explícitamente el cálculo de conversión de la sección siguiente, cuyo resultado final — 840 hab/ha — es el que correspondaría a la densidad bruta real). Además, el decreto que finalmente aprueba esta norma (`las_condes_3591_sector_seab3_pag7-8.md`, Decreto Alcaldicio 3.591) usa la etiqueta "Densidad Bruta Máxima" para el valor **840 hab/ha**, no para 300 viv/ha. Todo esto indica que el encabezado "Densidad Máxima Bruta" de las Tablas 1 y 2 está mal rotulado en el ECV (debería decir "Neta"). Se transcribe tal cual aparece en el original, dejando constancia del error.
+> **Nota de inconsistencia — rótulo "Densidad Máxima Bruta" (Tablas 1 y 2):** las Tablas 1 y 2 rotulan la columna de "300 viv/ha" como "Densidad Máxima **Bruta**", pero el resto del documento trata ese mismo valor de 300 viv/ha como densidad **neta** (así lo rotula la Tabla 3, y así lo trata explícitamente el cálculo de conversión de la sección siguiente, cuyo resultado final — 840 hab/ha — es el que correspondería a la densidad bruta real). Además, el decreto que finalmente aprueba esta norma (`las_condes_3591_sector_seab3_pag7-8.md`, Decreto Alcaldicio 3.591) usa la etiqueta "Densidad Bruta Máxima" para el valor **840 hab/ha**, no para 300 viv/ha. Todo esto indica que el encabezado "Densidad Máxima Bruta" de las Tablas 1 y 2 está mal rotulado en el ECV (debería decir "Neta"). Se transcribe tal cual aparece en el original, dejando constancia del error.
 
 ---
 
@@ -96,7 +96,7 @@ Cálculo de Densidad Bruta equivalente (transcripción de la fracción tal como 
 
 ```
                     225 viviendas × 1 ha
-                  ──────────────────────  =  203,80 viviendas
+                  ────────────────────────  =  203,80 viviendas
                          1,014 ha.
 ```
 
