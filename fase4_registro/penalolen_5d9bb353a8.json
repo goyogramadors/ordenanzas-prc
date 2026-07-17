@@ -1,0 +1,35 @@
+{
+ "id": "penalolen_5d9bb353a8",
+ "comuna": "penalolen",
+ "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_21001250_promulga_modificacion_del_plan_regulador_comunal_de_penalolen_parque_co__Exportar.pdf",
+ "veredicto": "TEXTO",
+ "paginas_documento": 13,
+ "rangos": [
+  [
+   9,
+   13
+  ]
+ ],
+ "paginas_utiles": 5,
+ "confianza_fase3": "MEDIA",
+ "metodo_fase3": "TEXTO",
+ "nota_fase3": "Decreto 2100/2002 Cap.IV Art.31-32: articulos por zona (Z-E, ZHM-1 a ZHM-5) con usos permitidos/prohibidos y densidad, pag9-13. OJO: cuadro cuantitativo completo (COS, coef.constructibilidad, altura, antejardin, distanciamiento) NO esta en este PDF -cada zona remite a 'VER DIARIO OFICIAL 18.04.2002 PAGINA X/Y' no incluido (norma parcialmente inalcanzable).",
+ "estado": "HECHO",
+ "sesion": "AMIGO1",
+ "inicio": "2026-07-17T18:29:44",
+ "fin": "2026-07-17T18:32:11",
+ "resultado": {
+  "archivo": "extraccion_normas/penalolen/penalolen_2100_2002_zhm1_5_ze_parque_cousino_macul_pag9-13.md",
+  "zonas": 6,
+  "zonas_codigos": [
+   "Z-E",
+   "ZHM-1",
+   "ZHM-2",
+   "ZHM-3",
+   "ZHM-4",
+   "ZHM-5"
+  ],
+  "confianza": "MEDIA",
+  "nota": "Decreto 2100/2002 (BCN LeyChile) Cap.IV Art.31-32, Sector Parque Cousino Macul, Penalolen. 6 zonas (Z-E, ZHM-1 a ZHM-5) con usos permitidos/prohibidos parciales y densidad bruta maxima cada una (700/700/300/200/150/100 hab/ha). CONFIRMADO: cuadro cuantitativo completo (predial minima, COS, CC, altura, agrupamiento, antejardin, distanciamiento) NO esta en este PDF -- remite reiteradamente a paginas 7-14 del Diario Oficial 18-04-2002 no incluidas en el corpus. HALLAZGO: esos mismos parametros SI existen en el corpus via otras fichas ya transcritas (penalolen_zona_zhm1.md a zhm5.md, penalolen_zona_ze_equipamiento_intercomunal.md), de fuente municipal distinta -- se documenta por separado sin fusionar (instruccion de un documento un markdown); Fase 5 debe cruzar ambas fuentes."
+ }
+}
