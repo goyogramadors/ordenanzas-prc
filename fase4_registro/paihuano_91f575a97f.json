@@ -1,0 +1,43 @@
+{
+  "id": "paihuano_91f575a97f",
+  "comuna": "paihuano",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\paihuano_862_promulga_plan_regulador_comunal__Plan Regulador 2019.pdf",
+  "rangos": [
+    [
+      19,
+      23
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Trampa MIXTO confirmada (chars bajos p19-23 pero contenido real es tabla-imagen/OCR parcial). Art.8-9 p19-21: 7 zonas Area Urbana (ZH1,ZH2,ZH3,ZD,ZT1,ZT2,ZAP) con usos, superficie predial min, densidad, COS, coef.constructibilidad, agrupamiento, altura max, antejardin. Art.10 p22-23: zonas proteccion (ZIS,ZAV,ZT,ZCH,MH1/2/3) mismos parametros. Art.11 p23: AR1/AR2 areas restringidas riesgo. P18 estandares estacionamiento y p24 vialidad quedan fuera por no ser normas de zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T15:33:18",
+  "fin": "2026-07-17T15:52:31",
+  "resultado": {
+    "archivo": "extraccion_normas/paihuano/paihuano_do862_zonas_urbanas_proteccion_riesgo_pag19-23.md",
+    "zonas": 16,
+    "zonas_codigos": [
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZD",
+      "ZT1",
+      "ZT2",
+      "ZAP",
+      "ZIS",
+      "ZAV",
+      "ZT",
+      "ZCH",
+      "MH1",
+      "MH2",
+      "MH3",
+      "AR1",
+      "AR2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 862/2019 PRC Paihuano. Trampa MIXTO confirmada (txt vacio de valores, todo en imagen). 16 zonas/areas: 9 Area Urbana Art.9 (ZH1,ZH2,ZH3,ZD,ZT1,ZT2,ZAP,ZIS,ZAV) + 5 Proteccion Patrimonial Art.10 (ZT,ZCH,MH1,MH2,MH3) + 2 Riesgo Art.11 (AR1,AR2 -- sin tabla propia, remiten a zona base via Art.2.1.17 OGUC). CORRECCION relevante a fase3: Area Urbana tiene 9 zonas no 7 (ZIS y ZAV SI tienen cuadro propio en Art.9, NO son de proteccion como sugeria fase3); Proteccion Art.10 son ZT+ZCH+MH1+MH2+MH3 (sin ZIS/ZAV). ALERTA colision de sigla: ZT1/ZT2 (Turismo, Art.9) vs ZT sin numero (Tipica, Art.10) son cosas distintas -- cuidado en matching GeoJSON. Metodologia: patron de celdas combinadas identificado y verificado cruzando zonas sin salto de pagina (ZH2/ZH3/ZT/ZAP) para resolver con confianza las que si tienen salto (ZH1 entre p19-20, ZCH entre p22-23). Confianza media (no ilegibilidad, interpretacion documentada) en ZH1 y ZCH por reconstruccion cruzando saltos de pagina. 0 valores inventados; celdas vacias en la fuente marcadas 'Sin valor especifico en la fuente' (no 'no determinable', distincion documentada)."
+  }
+}
