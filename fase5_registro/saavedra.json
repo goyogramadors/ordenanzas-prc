@@ -1,0 +1,37 @@
+{
+  "comuna": "saavedra",
+  "region": "09",
+  "geojson_file": "09_PRC_Puerto_Saavedra.json",
+  "salida_json": "09_saavedra.json",
+  "markdowns": [
+    {
+      "id": "saavedra_841aa72ebc",
+      "archivo": "extraccion_normas\\saavedra\\saavedra_1_prc_1963_6zonas_pag1-2.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 6,
+      "zonas_codigos": [
+        "Areas Residenciales",
+        "Area Administrativa",
+        "Area Equipamiento Urbano",
+        "Areas Verdes",
+        "Areas Industriales",
+        "Area Cooperativa Agricola"
+      ],
+      "nota": "PRC historico 1963, 6 zonas completas: residenciales (superficie 45%, antejardin 3m, 1 piso, cierros 1,6m), administrativa (7m), equipamiento urbano (por tipo edificio: escuela 8m, iglesia 12m, edif publicos 7m), areas verdes (sin numeros), industrial (no existe), cooperativa agricola (predial min 9000m2 o excepcion 19 viviendas en zona no inundable). Texto nativo completo. Coincide con nota_fase3."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:44:40",
+  "fin": "2026-07-17T04:47:47",
+  "resultado": {
+    "archivo_json": "09_saavedra.json",
+    "zonas_ficha": 7,
+    "zonas_geojson": 7,
+    "zonas_cubiertas": 7,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "7 zonas: 4 con datos reales del Decreto 1749/1963 (Zona Residencial, Área Administrativa, Áreas de Equipamiento, Área verde), adoptando la grafia exacta del GeoJSON oficial (distinta de la fuente 1963 en singular/plural) con nota aclaratoria en cada ficha; 3 fichas estimadas (Inundable restringida, Áreas no edificables, Playa) sin texto normativo propio identificable en el corpus -- posible relacion historica con la antigua Area de Cooperativa Agricola/zonas inundables del decreto, no asumida sin confirmacion. 2 zonas del decreto original (Areas Industriales: explicitamente no existen en la comuna; Area Cooperativa Agricola: sin poligono en el GeoJSON actual) quedan fuera de esta ficha por no tener contraparte geoespacial vigente. Confianza MEDIA por la reconstruccion de correspondencia de nombres y por las 3 fichas estimadas."
+  }
+}
