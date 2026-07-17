@@ -1,0 +1,33 @@
+{
+  "id": "penalolen_5d9bb353a8",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_21001250_promulga_modificacion_del_plan_regulador_comunal_de_penalolen_parque_co__Exportar.pdf",
+  "rangos": [
+    [
+      9,
+      13
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Decreto 2100/2002 Cap.IV Art.31-32: articulos por zona (Z-E, ZHM-1 a ZHM-5) con usos permitidos/prohibidos y densidad, pag9-13. OJO: cuadro cuantitativo completo (COS, coef.constructibilidad, altura, antejardin, distanciamiento) NO esta en este PDF -cada zona remite a 'VER DIARIO OFICIAL 18.04.2002 PAGINA X/Y' no incluido (norma parcialmente inalcanzable).",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T15:33:18",
+  "fin": "2026-07-17T15:46:06",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_do2100_zonas_ze_zhm1_a_zhm5_pag9-13.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "Z-E",
+      "ZHM-1",
+      "ZHM-2",
+      "ZHM-3",
+      "ZHM-4",
+      "ZHM-5"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Decreto 2100/2002 Penalolen. CONFIRMADO en primera persona (5 imagenes pagina completa) que el cuadro cuantitativo (COS,CC,altura,antejardin,distanciamiento,subdivision,frente,agrupamiento) NO esta en este PDF para ninguna de las 6 zonas -- remite a D.O. 18.04.2002. PRECISION a fase3: no es 1 remision por zona sino 14 en total (6 de equipamiento Art.31, 6 de condiciones edificacion Art.32, 2 de capitulo Art.33/35), todas transcritas literales con su pagina exacta del DO (7 a 14). Si disponibles: usos permitidos/prohibidos completos con variaciones textuales reales entre zonas (documentadas, no normalizadas), densidad por zona (700/700/300/200/150/100 hab/ha), restriccion 30% ocupacion habitacional en Z-E, ancho vial 96m Art.34. HALLAZGO IMPORTANTE: ya existe en el corpus penalolen_mprc2002_parque_cousino_macul_zonas_completas_pag4-6.md que cita el MISMO Diario Oficial N37.238 18.04.2002 y trae cuadros completos para estas 6 zonas con las mismas densidades -- fuertemente sugestivo de ser la fuente real, pero la numeracion de pagina no coincide entre ambos documentos (ese archivo dice pags 9-11/4133-4135, este dice pags 7-14) y NO se reconcilio, por lo que deliberadamente NO se copiaron esos valores aqui -- se dejo Dato no determinable en todos los campos cuantitativos con nota explicita remitiendo a ese archivo para quien reconcilie la paginacion. Decision epistemica correcta: mejor no inventar/asumir equivalencia sin verificar."
+  }
+}
