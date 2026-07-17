@@ -1,0 +1,30 @@
+{
+  "id": "las_condes_9b238146cf",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_3.-2021-ECV-Urbano-SantaZita-ENE2021.pdf",
+  "rangos": [
+    [
+      51,
+      51
+    ],
+    [
+      82,
+      84
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Estudio de Capacidad Vial (ECV) Modificacion PRC sector Santa Zita, Las Condes (ene-2021, 94 pags) - documento de RESPALDO TECNICO del mismo proyecto que crea el sector S-EAb3'/SEAb3' (ver las_condes_ad018f3645 y las_condes_2f3a067161, norma final: 840 hab/ha). p51: Cuadro 8.2 tabla comparativa condiciones urbanisticas actuales vs anteriores del area EAb3 (predial 500 m2, densidad 40 viv/ha, CC 0,8, COS 0,4, rasante 60, altura 3 pisos/10,5 m) vs zona EAm2 tabla C (predial 1.500 m2, densidad 300 viv/ha, CC 1,6->incremento 20%, altura 5 pisos/17,5 m). p82-84: tabla completa de la norma propuesta para SEAb3' (densidad max bruta 300 viv/ha->840 hab/ha, predial 1.500 m2, CC 2,0, COS 0,4, rasante 70, altura 5 pisos/17,5 m) y CALCULO del factor de conversion densidad neta->bruta (300 viv/ha * 0,7501 ha = 225 viv -> equivalente 210 viv/ha -> x4 hab/viv = 840 hab/ha, art.2.1.22 OGUC). CONFIANZA MEDIA: documento de calculo/justificacion, no el decreto en si; util para verificar de donde sale el 840 hab/ha.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:52:57",
+  "fin": "2026-07-17T05:16:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_ecv_santazita_seab3_calculo_densidad_pag51-84.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "Documento de RESPALDO TECNICO (Estudio Capacidad Vial), no decreto. Norma propuesta SEAb3' completa (CC 2.0, COS 0.4, 5 pisos/17.5m, predial 1500m2) y calculo de conversion densidad neta->bruta (840 hab/ha). 0 zonas normativas propias (referencia cruzada para zona ya registrada en otro documento)."
+  }
+}

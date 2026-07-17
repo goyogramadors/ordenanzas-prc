@@ -1,0 +1,26 @@
+{
+  "id": "las_condes_439014581f",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.Oficial.966.21feb2014.pdf",
+  "rangos": [
+    [
+      3,
+      6
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto de rectificacion CON tablas reales (a diferencia del patron TABLA AUSENTE de otros decretos Las Condes). Pag3-4: tablas de incremento de antejardin por calle. Pag4: Tabla C) area Avda.Charles Hamilton/Francisco de Asis/Francisco Bulnes Correa/Republica de Honduras: Densidad Maxima Neta 40viv/ha, Subdivision Predial Minima 4000m2, CC 1.6, COS 0.30, rasante 70, altura max 5 pisos/17.5m, antejardin 10m, distanciamiento 11m, agrupamiento aislado. Pag5: tablas menores condiciones de uso (Oficinas sin/con afluencia publico). Pag6: num.1.28 modifica art.41 texto explicito ocupacion suelo max 0.4, CC 0.6, altura max 3 pisos/10.5m. Pag7-10 solo tablas vialidad (anchos calles) y cierre, excluidas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:52:57",
+  "fin": "2026-07-17T05:16:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_do966_rectificacion_antejardin_tablac_art41_pag3-6.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "Decreto de rectificacion, 23 puntos numerados (1.8-1.30). Trampa parcial: valores tabulares de varios puntos (antejardin por calle, Tabla C, filas nuevas) son IMAGEN en el Diario Oficial, documentado explicitamente. Punto 1.28 (art.41: ocupacion 0.4, CC 0.6, altura 3p/10.5m) verificado como texto completo. 0 zonas nuevas asignadas (deltas puntuales a articulos generales, no cuadro de zona propio)."
+  }
+}

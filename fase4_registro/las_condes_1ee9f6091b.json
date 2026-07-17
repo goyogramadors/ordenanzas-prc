@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_1ee9f6091b",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4478.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Dec.4478/2004 (Diario Oficial): aprueba PLANO SECCIONAL de la Zona de Uso de Suelo Especial 2 (PS-U-Ee2) y DETALLA el art.40 (Cap.IV Zonificacion y Normas Especificas) del PRC Las Condes con el 'CUADRO DE USOS DE SUELO ZONA U-Ee2' en TEXTO extraible: matriz uso de suelo (tipo/clase/actividad/condiciones) cruzada por categoria de via (local, servicio, colectora, troncal, expresa). Es tabla de USOS por zona; no trae COS/CC/altura.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:52:57",
+  "fin": "2026-07-17T05:16:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_do4478_zona_uee2_usos_suelo_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-Ee2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro de usos de suelo completo zona U-Ee2 (11 filas: Residencial/Hoteles, Equipamiento Salud/Educacion/Culto-Cultura/Deportes), cruzado por 5 categorias de via. Solo usos de suelo, sin COS/CC/altura/densidad."
+  }
+}

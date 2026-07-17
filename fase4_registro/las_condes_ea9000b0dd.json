@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_ea9000b0dd",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4483.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Dec.4483/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Vivienda (PS-U-V) y DETALLA el art.40 del PRC Las Condes con el cuadro de usos de suelo de la zona U-V en TEXTO extraible. Mismo formato que la serie de decretos U-C2/U-C3/U-Ee2/U-V3 ya registrados.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:52:57",
+  "fin": "2026-07-17T05:16:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_do4483_zona_uv_usos_suelo_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-V"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro de usos de suelo completo zona U-V (6 filas: Residencial/Vivienda, Hogares de acogida, Areas Verdes, Espacio Publico, Equipamiento-Comercio, Equipamiento-Servicios Artesanales), cruzado por 5 categorias de via. Solo usos de suelo, sin COS/CC/altura/densidad (decreto no los define para esta zona)."
+  }
+}

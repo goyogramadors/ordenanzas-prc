@@ -1,0 +1,34 @@
+{
+  "id": "las_condes_92d656b301",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_13.-46e-INFORME-AMBIENTAL-SEP2019.pdf",
+  "rangos": [
+    [
+      35,
+      35
+    ],
+    [
+      60,
+      61
+    ],
+    [
+      67,
+      67
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Informe Ambiental Modificacion N10 PRC Las Condes (sep-2019, 77 pags, estudio de justificacion, NO es el decreto). Contiene tablas comparativas de NORMA VIGENTE que citan valores reales: p35 Tabla N5, norma urbanistica ACTUAL area EAb3 (predial min 500 m2, densidad 40 viv/ha, CC 0,8, COS 0,4, rasante 60, altura 3 pisos/10,5 m, agrupamiento aislado y pareado) -- esta es la norma PREVIA al sector S-EAb3' creado despues (ver las_condes_ad018f3645 y las_condes_2f3a067161, 840 hab/ha). p60-61: Tabla 10, norma EAm2 aplicada a 2 opciones de desarrollo (predial 1.500 m2, densidad 300 viv/ha, CC 1,6, COS 0,4, rasante 70, altura 5 pisos/17,5 m u 7 pisos/24,5 m, antejardin 7 m). p67: repite la tabla EAm2. CONFIANZA MEDIA: es documento de respaldo/justificacion, no el decreto normativo; util como cross-reference de valores previos y de la zona EAm2 tipo.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:52:57",
+  "fin": "2026-07-17T05:16:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_informe_ambiental_mod10_eab3_eam2_referencia_pag35-67.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "Documento de RESPALDO TECNICO (Informe Ambiental), no decreto. Norma EAb3 anterior (Tabla N5) y norma EAm2 evaluada 2 opciones (Tabla N10) con comparacion frente a norma final S-EAb3' ya registrada (CC cambio 1.6->2.0, antejardin 7m->exento). 0 zonas normativas propias (referencia cruzada)."
+  }
+}

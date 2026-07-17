@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_b286af05b0",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4484.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "DO 4484 (28-12-2004, publicacion Diario Oficial, 4 pags) - ESTA VERSION SI TRAE EL CUADRO (a diferencia del decreto.4484 de 1 pagina, marcado FALLIDO por tabla ausente). p1: aprueba Plano Seccional PS-U-V1 (Vivienda 1). p2-3: CUADRO DE USOS DE SUELO ZONA U-V1 completo (aparece 2 veces, cita textual). p4: cierre del texto resolutivo. Reemplaza la necesidad de conseguir el anexo del decreto.4484: la norma esta aqui.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:52:57",
+  "fin": "2026-07-17T05:16:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_do4484_zona_uv1_usos_suelo_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-V1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro de usos de suelo completo zona U-V1 (9 filas, tabla unica reconstruida con pdftotext -bbox por precision de columnas), cruzado por 5 categorias de via. Solo usos de suelo, sin COS/CC/altura/densidad."
+  }
+}
