@@ -1,0 +1,35 @@
+{
+  "id": "villarrica_01af443107",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_resolucion_1_modifica_plan_regulador_de_villarrica__modificacion_ordenanza_local_1998.pdf",
+  "rangos": [
+    [
+      5,
+      9
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "modificación ordenanza local PRC Villarrica 1998: pág5-9 zonas ZH-1, ZH-2, ZH-3, ZEE, ZNE, ZRp, ZR-1B, ZPF con usos de suelo + condiciones subdivisión/edificación completas (superficie predial mín, % ocupación, coef. construcción, densidad); texto nativo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T19:38:53",
+  "fin": "2026-07-17T19:54:21",
+  "resultado": {
+    "archivo": "extraccion_normas/villarrica/villarrica_res1_zonas_zh1_zh2_zh3_zee_zne_zrp_zr1b_zpf_pag5-9.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZEE",
+      "ZNE",
+      "ZRp",
+      "ZR-1B",
+      "ZPF"
+    ],
+    "confianza": "ALTA",
+    "nota": "Resolucion 1, Modifica PRC Villarrica (Mod. Ordenanza Local 1998), Art.8, pag5-9, LeyChile texto nativo. 8 zonas confirmadas exactas a fase3: ZH-1,ZH-2,ZH-3,ZEE (residencial/equipamiento), ZNE,ZRp,ZR-1B,ZPF (restriccion/proteccion). CONFIRMADO patron cuadro-completo (no modificacion puntual tipo Rengo/Quinta Normal). CORRECCION importante a fase3: los '4 parametros resumidos' (superficie predial, % ocupacion, coef. construccion, densidad) solo aplican completos a ZH-1/ZH-2/ZH-3 y parcialmente ZEE (sin densidad) -- las otras 4 zonas (ZNE,ZRp,ZR-1B,ZPF) NO tienen bloque B. de condiciones de subdivision/edificacion en absoluto, estructura mucho mas simple solo usos permitidos/prohibidos, remitidas a 'proyecto especifico ante DOM' (ZRp,ZR-1B) o 'legislacion vigente' (ZPF) o de plano no aplica por ser zona no edificable (ZNE). HALLAZGO no cubierto por fase3: nota marginal 'RES 47, GOB.REG.ARAUCANIA, N1 L.-, D.O. 08.05.2003' junto a B.8 Altura de ZH-1 (permiso 10 pisos) -- sugiere que ese parrafo especifico proviene de una resolucion distinta y posterior a la que da nombre al documento, posible vista consolidada de LeyChile con anotaciones de procedencia por parrafo; no resuelto del todo por estar pag1-4 fuera de rango. HALLAZGO: existe 9na zona Z-2E (Zona de expansion urbana) cuyo titulo aparece al final de p9 sin ningun contenido -- desarrollo cae en p10 fuera de rango, documentada pero no contada entre las 8. Diferencias estructurales entre las 3 zonas ZH no señaladas por fase3: ZH-3 tiene lista de usos mas corta (sin parrafo usos de apoyo), sin excepcion de continuidad, sin parrafo alturas mayores equipamiento -- pero sus valores numericos replican ZH-2 no ZH-1 (verificado con zoom, riesgo de confusion ZH-1/ZH-3 mitigado). Trampa comuna ajena: NO detectada, las 5 paginas son consistentes Villarrica en todas las referencias. 4 cortes de pagina revisados sin perdida de texto (prosa corrida, no tablas con bordes). 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas."
+  }
+}
