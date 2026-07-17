@@ -1,0 +1,44 @@
+{
+  "id": "chepica_3fda0422ca",
+  "comuna": "chepica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chepica_79_aprueba_formulacion_del_plan_regulador_comunal_de_chepica_localidades_de_chep__ORDENANZA LOCAL  DO 11_02_2009.pdf",
+  "rangos": [
+    [
+      6,
+      8
+    ],
+    [
+      12,
+      13
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "CHEPICA: Ordenanza Local del PRC (Diario Oficial 11-feb-2009), cubre Chepica y Auquinco. NUCLEO pags 6-8: Art 4.1.1-3 'El detalle de la zonificacion de usos de suelo y condiciones de edificacion es la siguiente:' = tabla por zona (ZCH-1, ZCH-2, ZU-1..ZU-3, ZE-1, ZE-2, ZEX, ZAV, ZES-1, ZES-2, ZUR-1, ZUR-2) con subdivision predial minima, COS, CC, agrupamiento, altura, rasantes, antejardin, densidad. Texto NATIVO limpio a dos columnas, NO imagen. Cierra en p8 al empezar el Titulo 5. Anadidas 12-13 (vialidad estructurante + estacionamientos). NO hay bloques separados por localidad: Chepica y Auquinco comparten tabla (solo una regla especial para calles 18 de Septiembre y Manuel Montt dentro de ZU-1). p10 = pagina EN BLANCO real (verificada visualmente). AVISO: p9, p11 y p12 tienen OCR muy degradado (listados patrimoniales Cuadros 8/9/10) - si se necesitan, renderizar.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T14:04:27",
+  "fin": "2026-07-17T14:29:02",
+  "resultado": {
+    "archivo": "extraccion_normas/chepica/chepica_do79_zonas_zch_zu_ze_zex_zav_zes_zur_pag6-8_12-13.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "ZCH-1",
+      "ZCH-2",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZAV",
+      "ZE-1",
+      "ZE-2",
+      "ZEX",
+      "ZES-1",
+      "ZES-2",
+      "ZUR-1",
+      "ZUR-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza Local 79/2009, PRC Chepica (localidades Chepica y Auquinco comparten tabla). Art.4.1.1-3, 13 zonas confirmadas exactas vs fase3 (orden real difiere: ZAV va antes de ZE-1/ZE-2/ZEX). Texto nativo 2 columnas -- pdftotext -layout empareja horizontalmente lineas de columnas que NO son del mismo parrafo (distinta velocidad vertical); se transcribio leyendo cada columna completa de la imagen, anclada por letras de zona a-m, NO por el orden de lineas del txt. Autocorreccion documentada: primer pase confundio los bloques de condiciones de ZU-2 y ZE-1 (contaminacion cruzada de columnas), detectado y corregido releyendo imagen en alta resolucion antes de la version final. Regla especial calles 18 de Septiembre/Manuel Montt (ZU-1, solo Chepica, exige edificacion continua) confirmada igual a fase3. Estructuras no homogeneas documentadas sin forzar uniformidad: ZAV sin numerar i/ii/iii, ZEX sin parrafo descriptivo, ZUR-1 SIN tabla de usos/condiciones (solo franja de restriccion hidrologica 5m), ZCH-2 sin fila Adosamientos, ZUR-2 sin fila Densidad. DISCREPANCIA relevante con fase3: la advertencia de 'listados patrimoniales Cuadros 8/9/10 muy degradados' en p12 es incorrecta -- p12-13 contienen Cuadro8 (vialidad Chepica) + Cuadro9 (vialidad Auquinco) + Cuadro10 (estacionamientos), NINGUNO patrimonial. El txt de Cuadros 8/9 si esta muy degradado pero la IMAGEN en zoom alta resolucion resulto legible confianza media-alta (transcritos completos, con un punado de celdas puntuales marcadas ambiguas: ancho by-pass 60 vs 80, un estado ilegible en Auquinco, un digito borroso). Cuadro 10 nitido, confianza alta. Sesion mas larga del lote (69 tool uses, 247k tokens) por el volumen (13 zonas + 2 cuadros viales grandes). 0 valores inventados."
+  }
+}

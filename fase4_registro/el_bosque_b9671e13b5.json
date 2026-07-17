@@ -1,0 +1,36 @@
+{
+  "id": "el_bosque_b9671e13b5",
+  "comuna": "el_bosque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_bosque_126_enmienda_plan_regulador_comuna_de_el_bosque__Plan_2026_6631.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Texto REFUNDIDO (DO 44.360) de la MISMA enmienda que el_bosque_3e5f3087fc, repaginado. Normas en texto: p2 ZONA C, p3 ZONA H, p4 ZONA R + inicio ZONA 1-2-3, p5 ZONA 1-2-3 completa + inicio ZONA 4, p6 ZONA 4 + Zona Seccional Lo Moreno Z-A/Z-B (aqui termina el art.2). p7-11 VIALIDAD (excluidas). p12 proteccion aeronautica. DUPLICADO NORMATIVO: basta transcribir uno de los dos documentos.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T14:04:27",
+  "fin": "2026-07-17T14:16:51",
+  "resultado": {
+    "archivo": "extraccion_normas/el_bosque/el_bosque_do126_enmienda_zonas_c_h_r_1_2_3_4_seccional_lomoreno_pag2-6.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "C",
+      "H",
+      "R",
+      "1",
+      "2",
+      "3",
+      "4",
+      "Z-A",
+      "Z-B"
+    ],
+    "confianza": "ALTA",
+    "nota": "Texto refundido DO 44.360 de la MISMA enmienda que el_bosque_3e5f3087fc (Decreto Alcaldicio 4433/Acuerdo 696), repaginado. Verificacion cruzada campo por campo contra el archivo hermano: CONFIRMA duplicado normativo -- coinciden todos los valores de las 9 zonas (C,H,R,1,2,3,4,Z-A,Z-B; 1-2-3 comparten una sola tabla igual que en el hermano). Solo 3 diferencias menores sin efecto normativo: '600 Hab/has' vs '600 Hab/ha' (tipeo, zona 1-2-3), '540 hab/ha' vs '540 Hab/ha' (capitalizacion, Z-A), 'graderias' vs 'graderas' (sinonimos, Z-B). Diferencia estructural de diagramacion: este texto refundido NO muestra prefijos de letra A-G en los encabezados de zona (el decreto original si los tenia). Texto nativo sin OCR, verificado celda por celda contra 5 imagenes. 0 datos inventados; 'No especificado' solo donde la celda original esta vacia (COS industria Zona C; casi todos los campos de Z-B, que tiene regimen especial caso a caso)."
+  }
+}

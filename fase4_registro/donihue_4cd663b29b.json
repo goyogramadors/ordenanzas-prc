@@ -1,0 +1,44 @@
+{
+  "id": "donihue_4cd663b29b",
+  "comuna": "donihue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\donihue_56_aprueba_plan_regulador_comunal_de_las_localidades_de_donihue_y_lo_miranda_amb__Exportar.pdf",
+  "rangos": [
+    [
+      8,
+      9
+    ],
+    [
+      21,
+      23
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "DONIHUE: Ordenanza Local del PRC (Decreto 56, 1988), cubre DOS localidades con DOS bloques de normas. DONIHUE (Cap IV, Art 17-18): pags 8-9, zonas ZU-1, ZU-2, ZE-1, ZE-2, ZTE (tratamiento especial), ZR-1 (proteccion camino H-30), ZR-2 (proteccion estero Maule). LO MIRANDA (Cap IV, Art 18-19): pags 21-23, zonas ZU-1, ZU-2, ZU-3, ZE-1, ZE-2, ZR. Formato 'un articulo por zona en prosa' (atributo dos puntos valor), NO cuadro apaisado. Texto nativo nitido, sin tablas-imagen. AVISO PARA LA EXTRACCION: en el texto de pdftotext la zona ZU-2 de Lo Miranda sale corrupta como 'ZU-a' (glifo mal mapeado); en el render se confirma que es ZU-2. 5 pags verificadas visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T14:04:27",
+  "fin": "2026-07-17T14:15:21",
+  "resultado": {
+    "archivo": "extraccion_normas/donihue/donihue_do56_zonas_donihue_lomiranda_pag8-9_21-23.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "DONIHUE-ZU-1",
+      "DONIHUE-ZU-2",
+      "DONIHUE-ZE-1",
+      "DONIHUE-ZE-2",
+      "DONIHUE-ZTE",
+      "DONIHUE-ZR-1",
+      "DONIHUE-ZR-2",
+      "LOMIRANDA-ZU-1",
+      "LOMIRANDA-ZU-2",
+      "LOMIRANDA-ZU-3",
+      "LOMIRANDA-ZE-1",
+      "LOMIRANDA-ZE-2",
+      "LOMIRANDA-ZR"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 56/1988, cubre DOS localidades (Doñihue y Lo Miranda) con bloques normativos independientes dentro del mismo Cap.IV. Formato prosa articulo-por-zona (no cuadro), texto nativo nitido verificado palabra por palabra contra 5 imagenes. 13 zonas: Doñihue ZU-1,ZU-2,ZE-1,ZE-2,ZTE,ZR-1,ZR-2 + Lo Miranda ZU-1,ZU-2,ZU-3,ZE-1,ZE-2,ZR. Documento de 1988 NO define CC ni densidad habitacional en ninguna zona (ausencia real de la fuente, no dato perdido). HALLAZGO clave: el glifo 'ZU-a' de Lo Miranda (reportado por fase3 como corregible via render) en realidad se ve como 'a' minusculas TANTO en texto como en imagen con zoom 4x -- fase3 sobrestimo lo legible del render. Identificacion final como ZU-2 se mantiene pero por inferencia contextual (Art.19 enumera ZU-1,ZU-2,ZU-3,ZR en orden) no por lectura directa. Otros hallazgos: numeracion de articulos Doñihue es Art.19 (no 17-18 como decia fase3) para el cierre de zonas; inconsistencia interna ZR-1 'camino H-30' (titulo) vs 'camino II-30' (cuerpo); errata 'paleado' por 'pareado' en ZE-1; texto desordenado entre agrupamiento/altura en ZE-2; ZU-3 y ZE-2 de Lo Miranda son textualmente identicas (verificado, no es error). Sin datos inventados, 0 campos marcados no-determinable (documento nitido en su totalidad)."
+  }
+}

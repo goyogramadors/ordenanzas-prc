@@ -1,0 +1,32 @@
+{
+  "id": "freirina_78286358d6",
+  "comuna": "freirina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\freirina_2932_promulga_plan_regulador_ilustre_municipalidad_de_freirina__Exportar.pdf",
+  "rangos": [
+    [
+      20,
+      24
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Cap.IV Parrafo III Art.50+ tabla normas por zona, texto OCR + verificado visual. Zonas: C Centro, C1 Pie de Cerro, C2 Residencial, D Industria, E Costanera (pag21-24), cada una con superficie predial minima, %ocupacion suelo, coef.constructibilidad, agrupamiento, rasantes/distanciamiento, altura max, antejardin, estacionamiento, densidad. Pag21 (imagen) tabla vialidad + inicio ZONA C. Pag20 incluida como margen (Art.51-54 setup vialidad). Verificadas pag5 (coordenadas limite urbano, no relevante), pag9 (antejardin por uso, no zona), pag15 (estacionamientos por uso, no zona) -excluidas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T14:04:27",
+  "fin": "2026-07-17T14:17:16",
+  "resultado": {
+    "archivo": "extraccion_normas/freirina/freirina_do2932_zonas_c_c1_c2_d_e_pag20-24.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "C",
+      "C1",
+      "C2",
+      "D",
+      "E"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 2932 PRC base de Freirina (documento MIXTO OCR+imagen), 5 zonas confirman exactamente lo anticipado por fase3: C Centro, C1 Pie de Cerro, C2 Residencial, D Industria, E Costanera. Verificado 2 veces (imagen completa + recortes ampliados 2.2x de cifras decimales). Hallazgos: (1) CC de zona C e impreso con PUNTO (1.5) mientras el resto del documento usa COMA -- confirmado en zoom, es del original; (2) C1 tiene CC=2 (entero) para Comercio/Servicios, dato llamativo pero verificado; (3) zonas D y E NO traen seccion Disposiciones Complementarias/densidad (a diferencia de C/C1/C2) -- marcado no determinable, no inventado; (4) C1 excluye Casinos de usos prohibidos a diferencia de C (verificado); (5) discrepancia de año no resuelta: enmienda 3882 cita el PRC base como de 2008, este documento dice 2009 en su encabezado; (6) cruce con freirina_3882_enmienda_c2.md (enmienda posterior C2): coherente, altura base 7m + 20% = 8.4m sin contradiccion."
+  }
+}

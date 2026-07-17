@@ -1,0 +1,32 @@
+{
+  "id": "la_serena_16cb1b4ab3",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_serena_2236_aprueba_enmienda_no_2_al_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "LA SERENA: Decreto 2236-2006 (BCN, 5p), Enmienda N2 al PRC. *** TABLAS AUSENTES DEL PDF ***: los cuadros completos de las zonas ZC-1, ZC-2, ZC4-2, EX-1 y EX22-A NO estan (ni texto ni imagen); en su lugar hay notas 'VER D.O. 27.07.2006, PAGINA 5, 6 y 7'. Verificado visualmente en p4, p5 y p6: solo quedan las notas al pie. LO QUE SI ES EXTRAIBLE, en p2-3 y en prosa: aumenta la altura maxima de 6 m a 7,20 m y baja el antejardin de 20 m a 10 m (zona EX-1), y baja el antejardin de 10 m a 5 m (EX22-A). Para las tablas completas hay que ir al Diario Oficial del 27-jul-2006, pags 5 a 7: inalcanzables desde este PDF.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T14:04:27",
+  "fin": "2026-07-17T14:17:16",
+  "resultado": {
+    "archivo": "extraccion_normas/la_serena/la_serena_do2236_enmienda2_zc1_zc2_zc42_ex1_ex22a_pag2-6.md",
+    "zonas": 5,
+    "zonas_codigos": [
+      "ZC-1",
+      "ZC-2",
+      "ZC4-2",
+      "EX-1",
+      "EX22-A"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Decreto 2236/2006 Enmienda N2 PRC La Serena. CONFIRMADO en primera persona (5 imagenes pagina completa, no solo recortes) que los cuadros numericos completos de las 5 zonas (ZC-1,ZC-2,ZC4-2,EX-1,EX22-A) NO estan en este PDF -- remiten a D.O. 27-07-2006 pags 5-7, fuera de este corpus. Base legal encontrada en el propio decreto (punto resolutivo 2-3): las tablas se publicaron aparte y se archivaron en Conservador de Bienes Raices, nunca fueron parte del cuerpo del Decreto Alcaldicio. SI se recuperaron y transcribieron integras las notas al pie de cada cuadro (NOTA 1-4 ZC-1/ZC-2, etc, no mencionadas por fase3) y MAS cambios puntuales en prosa que fase3: antejardin EX-1 generalizado a TODOS los usos (20->10m, no solo educacion menor), antejardin 3m nuevo para subsector ZC4-2 Alfalfares, ampliacion uso educacion en ZC4-2 y EX-1, correccion cita legal Nota3 ZC-1/ZC-2, 3 cambios graficos de laminas. Detectada discrepancia interna del propio documento entre la Nota N2 de EX-1 citada en el resolutivo vs la nota tal como quedo impresa (transcritas ambas, no fusionadas). Hallazgo util para matching GeoJSON: los codigos de zona (ZC4-2, EX-1, EX22-A) aparecen escritos de 4-5 formas graficas distintas a lo largo del mismo documento (con/sin guion, con/sin espacios, numeral romano vs digito) -- todas listadas. 0 valores inventados en las 5 tablas ausentes."
+  }
+}
