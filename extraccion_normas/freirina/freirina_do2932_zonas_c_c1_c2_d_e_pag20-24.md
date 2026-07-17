@@ -81,7 +81,7 @@ Vista rápida de los valores "generales" de cada zona (sin las excepciones por u
 
 **Usos prohibidos:** Santuario, Zoológico, Jardines Botánicos, Estadios, Canchas, Piscinas, Centros Deportivos, Hipódromos, Circos, Parques de Entretenciones, Zonas de Picnic y Camping, Terminal de Distribución, Ferias Libres, Servicentros, Playas y Edificios de Estacionamiento. Y todos los no indicados como permitidos.
 
-> Nota de verificación: a diferencia de la Zona C, esta lista de usos prohibidos **no incluye "Casinos"**. Se releýó la imagen en zoom para descartar un recorte accidental de línea, y se confirma que el texto simplemente no lo incluye en esta zona — es una diferencia real del documento fuente, no una omisión de esta transcripción.
+> Nota de verificación: a diferencia de la Zona C, esta lista de usos prohibidos **no incluye "Casinos"**. Se releyó la imagen en zoom para descartar un recorte accidental de línea, y se confirma que el texto simplemente no lo incluye en esta zona — es una diferencia real del documento fuente, no una omisión de esta transcripción.
 
 **Normas urbanísticas:**
 
