@@ -1,0 +1,37 @@
+{
+  "id": "rengo_f52eb86db0",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_557_md_modificacion_n5_plan_regulador_comunal_varios_temas__DIARIO OFICIAL 10 05 2017-MODIFICACION Nº5PRC-RENGO.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Modificacion N5 PRC Rengo 'varios temas', 10 temas modificados. Pag2-3 tablas con imagen son solo vialidad estructurante (excluidas). Pag2 Tema1: agrega usos Culto/Cultura en ZE,ZE2,ZE4,ZE6,ZE10 (texto). Pag3-4 Tema4 Art.34 ZC1: usos permitidos/condicionados/prohibidos completos. Pag4-5 Tema8: crea zona ZE11 (Art.59 Bis A) tabla completa: superficie predial min 2.34, coef.constructibilidad 0.78, agrupamiento Continuo/Pareado/Aislado, altura max 12.6m, distanciamiento/antejardin segun OGUC. Pag5 Tema10: superficie predial min ZH7=160m2. Pag6 Tema14: superficie predial min ZH9=200m2, ZH10=300m2.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T18:56:36",
+  "fin": "2026-07-17T19:09:31",
+  "resultado": {
+    "archivo": "extraccion_normas/rengo/rengo_res557_mod5_varios_temas_ze_zc1_ze11_zh7_zh9_zh10_pag2-6.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "ZE",
+      "ZE2",
+      "ZE4",
+      "ZE6",
+      "ZE10",
+      "ZC1",
+      "ZE11",
+      "ZH7",
+      "ZH9",
+      "ZH10"
+    ],
+    "confianza": "ALTA",
+    "nota": "Modificacion N5 'varios temas' PRC Rengo, DO 10-may-2017, Ordenanza Zonas Urbanas de Rengo/Rosario/Esmeralda. Documento se autonumera hasta Tema 14 de 14 (no 10 como decia fase3); de esos, solo 13 aparecen fisicamente en pag2-6 -- HALLAZGO: Tema 13 esta AUSENTE del corpus, salta de Tema12 a Tema14 sin discontinuidad de pagina ni contenido cortado visible, no resuelto (posible errata de numeracion del decreto original). De los 13 presentes, 8 son solo vialidad estructurante (Temas 2,3,5,6,7,9,11,12, Art.87) fuera de alcance -- y las tablas-imagen de vialidad NO se limitan a pag2-3 como decia fase3, tambien aparecen en pag4-5. 5 Temas SI tocan zonas: Tema1 (agrega Culto/Cultura permitido en ZE Art45, ZE2 Art46, ZE4 Art47, ZE6 Art48, ZE10 Art49), Tema4 (ZC1 Art34, usos permitidos/condicionados/prohibidos completos -- con hallazgo de auto-referencia erronea del propio decreto a 'Tema 5' pese a estar rotulado Tema4), Tema8 (crea ZE11 nueva Art.59BisA reduciendo cuadrangulo de ZE4 en franja poniente 12.1m -- tabla completa 8 campos), Tema10 (ZH7 Rosario, solo superficie predial min=160m2, modificacion parcial de 1 campo) y Tema14 (ZH9=200m2, ZH10=300m2 Esmeralda, modificacion parcial). DISCREPANCIA SIGNIFICATIVA corregida: la tabla de ZE11 (Tema8) en la nota de fase3 tenia valores desplazados/conflacionados -- superficie predial minima real es 'Existente' (no 2.34), coef.constructibilidad real es 2.34 (no 0.78), existe campo adicional COS=0.78 que fase3 no capturo como tal, antejardin real es 'Sin antejardin' (no 'segun OGUC', que aplica solo a Distanciamiento), y fase3 omitio el campo Estacionamiento (Art.30). Solo agrupamiento y altura(12.6m) coincidian. Documento tipo MODIFICACION PARCIAL (delta) por temas, no cuadro completo -- para Tema1/4/10/14 el resto de campos normativos de cada zona (COS,CC,altura,agrupamiento etc, salvo lo explicitamente modificado) esta fuera de alcance del corpus pag2-6, no inventado. Numero de decreto '557' del nombre de archivo NO verificable en pag2-6 (probablemente en pag1, fuera del material). Confianza alta en las 5 secciones de zona transcritas."
+  }
+}
