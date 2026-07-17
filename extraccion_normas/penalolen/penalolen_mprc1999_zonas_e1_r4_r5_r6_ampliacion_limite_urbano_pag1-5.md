@@ -105,7 +105,7 @@ b) **Equipamiento:** todo el equipamiento a Escala Intercomunal, Comunal y Vecin
 | Comercio | Centros Comerciales; Locales Comerciales | Centros Comerciales; Locales Comerciales | Locales Comerciales |
 | Servicios Públicos | Sin valor específico en la fuente | Correos; Telégrafo; Serv. Utilidad Pública | Correos; Fax; Teléfono |
 | Servicios Profesionales | Instituciones Financieras; Oficinas Profesionales | Bancos; Oficinas Profesionales | Oficinas Profesionales |
-| Servicios Artesanales | Sin valor específico en la fuente | Carpintería; Mueblería | Talleres Artesanales; Talleres de Reparación; Lavandería; Carpintería; Mueblera; Peluquería; Gasfitería; Jardines de Plantas |
+| Servicios Artesanales | Sin valor específico en la fuente | Carpintería; Mueblería | Talleres Artesanales; Talleres de Reparación; Lavandería; Carpintería; Mueblería; Peluquería; Gasfitería; Jardines de Plantas |
 
 ### Usos de Suelo Excluidos
 
@@ -172,7 +172,7 @@ b) **Equipamiento:** todo el equipamiento a Escala Comunal y Vecinal señalado e
 | Comercio | Centros Comerciales; Locales Comerciales | Loc. Comerciales |
 | Servicios Públicos | Correos; Telégrafo; Serv. Utilidad Pública | Correos |
 | Servicios Profesionales | Bancos; Oficinas Profesionales | Oficinas Profesionales |
-| Servicios Artesanales | Carpintería; Mueblera | Talleres Artesanales; Talleres pequeños de Reparación; Lavandería; Carpintería; Mueblera; Peluquería; Gasfitería; Jardines de Plantas |
+| Servicios Artesanales | Carpintería; Mueblería | Talleres Artesanales; Talleres pequeños de Reparación; Lavandería; Carpintería; Mueblería; Peluquería; Gasfitería; Jardines de Plantas |
 
 ### Usos de Suelo Excluidos
 
@@ -220,7 +220,7 @@ b) **Equipamiento:** "Se permitirá equipamiento de nivel Vecinal en los predios
 | Esparcimiento y Turismo | Cines; Fuentes de Soda; Bares |
 | Comercio | Locales Comerciales |
 | Servicios Públicos | Correos |
-| Servicios Artesanales | Talleres artesanales; Talleres de reparación; Lavandería; Carpintería; Mueblera; Peluquería; Gasfitería; Jardines de Plantas |
+| Servicios Artesanales | Talleres artesanales; Talleres de reparación; Lavandería; Carpintería; Mueblería; Peluquería; Gasfitería; Jardines de Plantas |
 
 *Verificado dos veces contra la imagen: a diferencia de las tablas de E1 y R4, esta tabla de R5 **no tiene fila "Deporte y Recreación"** (no aparecen Canchas/Piscinas/Gimnasios/Multicanchas en ningún punto de la columna). Se confirma como ausencia real del original, no como omisión de transcripción.*
 
