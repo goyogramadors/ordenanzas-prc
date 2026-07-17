@@ -1,0 +1,40 @@
+{
+  "id": "san_miguel_05f738460b",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_515_modifica_plan_regulador_de_la_comuna__Decreto 515 31-03-2009 ok.pdf",
+  "rangos": [
+    [
+      1,
+      2
+    ],
+    [
+      11,
+      13
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "SAN MIGUEL: *** CONTAMINACION: el PDF es una edicion completa del Diario Oficial (13p) *** con material ajeno (otros decretos, avisos judiciales). Decreto 515 (2009), Modifica el PRC, concentrado en p1-2 y p11-13 (verificado por conteo de menciones SAN MIGUEL por pagina). Contenido real en texto: zonas EM-3 y EM-4 (areas de equipamiento y areas verdes nivel comunal, con usos permitidos-prohibidos), restricciones de altura por rasante en zonas D y E relacionadas al aeropuerto (limite 101,5 m zona D, 45 a 145 m zona E segun plano PRSM-1), normas sobre instalacion de antenas. Texto NATIVO denso, sin trampa de imagen. CONFIANZA MEDIA: layout a 2 columnas del DO puede desordenar el orden de lectura (mismo patron ya documentado en Linares), la fase siguiente debe verificar visualmente antes de extraer valores.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T19:38:53",
+  "fin": "2026-07-17T20:02:01",
+  "resultado": {
+    "archivo": "extraccion_normas/san_miguel/san_miguel_do515_zonas_em3_em4_restriccion_d_e_pag1-2_11-13.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "EM-4",
+      "EC-1",
+      "EC-2",
+      "EC-3",
+      "ICH",
+      "AR-1",
+      "AR-2",
+      "AR-3",
+      "AR-4"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Decreto 515/2009 San Miguel, DO 39326 31-mar-2009, pag1-2 y 11-13 (de 13 totales -- PDF es recorte de 13p consecutivas del DO completo). HALLAZGO PRINCIPAL que corrige a fase3: la Zona EM-3 pedida explicitamente NO tiene contenido propio en el material entregado -- solo se menciona 3 veces como referencia desde EM-4 (misma familia de zonas EM=Equipamiento Intercomunal), su definicion propia debe estar en la pag10 del PDF (DO p.21), inmediatamente anterior al rango entregado y no incluida en este encargo. EM-3 marcada 'Dato no determinable' en todos sus campos, 0 valores inventados por analogia con EM-4. Zona CON contenido completo: EM-4 (Areas Verdes Proyectadas Intercomunales, remite usos a EM-3 pero tiene cuadro normativo propio: no divisible/rasante/CC0.20/COS0.20/Aislado/OGUC/Art.11/---). HALLAZGO no cubierto por fase3: 5 zonas/areas adicionales con contenido completo -- EC-1,EC-2,EC-3 (Equipamiento y Areas Verdes NIVEL COMUNAL, familia EC distinta de EM/intercomunal, con heterogeneidad real entre ellas: EC-1 usa 'Existente' no 'No divisible', solo 3 disposiciones vs 4-5 de EC-2/EC-3), ICH (Inmuebles Conservacion Historica, 11 inmuebles listados, remite normas a zona circundante, sin cuadro numerico propio por diseno), y Art.26 Areas con Restriccion AR-1 a AR-4 (superpuestas a zonificacion base, no son zonas primarias): AR-1 canales de riego 3m cada lado, AR-2 restriccion altura aerodromos El Bosque/Los Cerrillos con Area C/D/E CONFIRMANDO EXACTO lo anticipado por fase3 (101.5m/45m/45-145m, verificado 2 veces), AR-3 lineas alta tension (tabla completa 5 tramos 66-500KV), AR-4 vias ferreas 20m. HALLAZGO adicional: enmienda puntual a Zona EM-1 en p1 (COS 0.80 1-3 pisos / 0.50 sobre 3 pisos, poligono especifico) -- no es cuadro completo de EM-1, solo esta enmienda acotada, resto de EM-1 fuera de rango. Capitulo antenas (Art.27-34) documentado en detalle: 30m distanciamiento industrial/espacios publicos, 180 dias plazo regularizacion, multa hasta 5 UTM. CONFIANZA MEDIA (heredada de fase3, no se pudo subir a ALTA): la 'contaminacion con material ajeno' que fase3 reporta en el PDF completo de 13p NO se pudo verificar ni descartar -- cae en pag3-10 (DO p.14-21) no entregadas, instruccion explicita fue no re-renderizar. Dentro de las 5 paginas SI entregadas, 100% es Decreto 515 sin contenido ajeno. Confirmado desorden de columnas del .txt por layout 2-columnas tal como advertia el encargo (cita textual del punto de fusion). Inconsistencia real de la fuente: cuadros normas usan punto decimal (0.20), prosa usa coma chilena (101,5) -- no normalizado. Areas 'A' y 'B' del esquema aerodromo (AR-2) mencionadas pero no definidas en rango -- inferencia razonable (no confirmada) de que no afectan territorio comunal. 0 valores inventados en ningun campo."
+  }
+}
