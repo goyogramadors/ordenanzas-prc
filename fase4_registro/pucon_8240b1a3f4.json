@@ -1,0 +1,28 @@
+{
+  "id": "pucon_8240b1a3f4",
+  "comuna": "pucon",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pucon_140_aprueba_enmienda_al_plano_regulador_comunal_de_pucon__2263188.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Dec.140/2023 (DO) Enmienda PRC Pucon. Formato 'Donde dice/Debe decir': modifica art.13 estacionamientos (comercio/equipamiento: 1 c/50m2 -> 1 c/100m2 en la nueva zona) y crea ZONA Z-3A (segrega un lote de la Zona Z-3, deslindes catastrales completos) con tabla completa: usos permitidos (vivienda, equipamiento turismo/esparcimiento/comercio/organizacion comunitaria/cultura y educacion/servicios publicos), prohibidos (todo lo no permitido), ocupacion 20%->26%, distanciamiento segun art.2.6.3 OGUC, altura 3 pisos -> 4 pisos y 12,60m, antejardin 3,0m. p5-6 EXCLUIDAS (solo planos/imagenes de zonificacion actual y propuesta, sin texto de tabla).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T06:18:42",
+  "fin": "2026-07-17T06:23:24",
+  "resultado": {
+    "archivo": "extraccion_normas/pucon/pucon_do140_enmienda_zona_z3a_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Z-3A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Exento 140, 17-ene-2023, Pucon (DO Nº43.465). Texto nativo sin trampa de imagen, extraido completo via pdftotext -layout. Modifica art.13 (estacionamientos comercio/equipamiento: 1c/50m2 -> 1c/100m2 en Z-3A, remite art.2.4.2 OGUC) y art.24 (crea Zona Z-3A segregada de Z-3, deslindes completos Lote B: Norte calle G.de Alderete 75,40m, Este calle Caupolican 50m, Sur Lote C 68,90m, Oeste Lote A 25,30m + Lote D 24,10 de Zona ZR-4). Z-3A: ocupacion 26% (vs 20% de Z-3 anterior), distanciamiento Art.2.6.3 OGUC, altura 4 pisos/12,60m (vs 3 pisos anterior), antejardin 3,0m (uso parcial hasta 30% para estacionamientos discapacidad). Usos permitidos amplian Z-3 sumando Cultura y Educacion. Contenido presentado 2 veces en el documento (Decreto + Ordenanza), verificado consistente entre ambas. Sin pasajes ilegibles, texto nativo completo."
+  }
+}
