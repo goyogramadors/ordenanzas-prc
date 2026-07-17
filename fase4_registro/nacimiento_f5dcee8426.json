@@ -1,0 +1,49 @@
+{
+  "id": "nacimiento_f5dcee8426",
+  "comuna": "nacimiento",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nacimiento_15_apruebese_plan_regulador_comunal_de_nacimiento_ano_2009__5992_planregulador2009.pdf",
+  "rangos": [
+    [
+      6,
+      10
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Ordenanza Local PRC Nacimiento 2009 (DO 13-jul-2009). Art.38 fin pag6 introduce zonificacion. Pag7-10 (chars=76, tabla escaneada confirmada por render) cuadro completo por zona: ZR-1,ZR-2,ZR-3,ZR-4,ZRM-1,ZRM-2,ZRC-1,ZRC-2,ZEC,ZM-1,ZM-2,ZAP,ZAM,ZAMAP,ZST,ZED,ZMC,ZEP,ZExR-1,ZExR-2,ZExAPC -cada una con usos de suelo y condiciones edificacion/subdivision/urbanizacion (superficie predial minima, COS, altura Art.2.6.3 OGUC, agrupamiento, adosamiento, distanciamiento medianeros, antejardin, densidad max) + tablas de incentivos. Pag11 ya es Titulo VI Inmuebles Conservacion Historica (Art.39-40), sin normas de zona adicionales.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T15:33:18",
+  "fin": "2026-07-17T18:47:01",
+  "resultado": {
+    "archivo": "extraccion_normas/nacimiento/nacimiento_do15_zonas_zr_zrm_zrc_zec_zm_zap_zam_zst_zed_zmc_zep_zexr_zexapc_pag6-10.md",
+    "zonas": 22,
+    "zonas_codigos": [
+      "ZCC",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4",
+      "ZRM-1",
+      "ZRM-2",
+      "ZRC-1",
+      "ZRC-2",
+      "ZEC",
+      "ZM-1",
+      "ZM-2",
+      "ZAP",
+      "ZAM",
+      "ZAMAP",
+      "ZST",
+      "ZED",
+      "ZMC",
+      "ZEP",
+      "ZExR-1",
+      "ZExR-2",
+      "ZExAPC"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza Local PRC Nacimiento 2009 (DO 13-jul-2009), pag6-10 del PDF. 22 zonas con cuadro normativo propio (no 21 como decia fase3): CORRECCION -- ZCC (Zona Centro Civico) fue omitida por fase3, es la PRIMERA zona de Art.38 y trae cuadro completo (usos+condiciones+incentivos), ubicada en pagina 6 (no en pag7-10 como decia la nota). Resto de zonas confirma exactamente lo que fase3 listo: ZR-1 a ZR-4, ZRM-1/2, ZRC-1/2, ZEC, ZM-1/2, ZAP, ZAM, ZAMAP, ZST, ZED, ZMC, ZEP, ZExR-1/2, ZExAPC. 4 zonas (ZEC,ZAM,ZAMAP,ZEP) carecen por completo de tabla de condiciones de edificacion en la fuente -- documentado explicito, no inventado. Solo 8 de 22 zonas traen tabla de incentivos (ZCC,ZR-1,ZRM-2,ZST,ZMC,ZExR-1,ZExR-2,ZExAPC). Las 5 zonas no edificables (ZPR-1 a ZPR-5) estan listadas en Art.38 pero NO tienen cuadro normativo propio en pag6-10 -- confirmado recorriendo las 5 paginas completas, documentado como tal sin inventar valores. PAGINA 11 no se pudo verificar: el material fuente (render4/) solo incluye imagenes de pag6-10, no existe render de pag11 en disco y las instrucciones prohibian renderizar el PDF -- documentado honestamente en vez de inventar confirmacion de la nota_fase3 sobre Titulo VI Inmuebles Conservacion Historica. Dos posibles erratas del documento ORIGINAL (no de fase3 ni de la transcripcion), verificadas a zoom 2-3x y transcritas tal cual: nota de ZAM cita zona 'ZRC-3' que no existe (solo hay ZRC-1/ZRC-2); tabla de incentivos de ZMC muestra '500m3' en vez de '500m2'. Metodologia: cada pagina leida completa a 250dpi y re-verificada con recortes 2x2 con solape mas zoom puntual 2-3x en celdas dudosas. Confianza alta en las 22 zonas, con las dos anomalias tipograficas del original marcadas explicitamente."
+  }
+}
