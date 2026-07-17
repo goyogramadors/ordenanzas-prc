@@ -1,0 +1,35 @@
+{
+  "comuna": "santa_maria",
+  "region": "05",
+  "geojson_file": "05_PRC_Santa_Maria.json",
+  "salida_json": "05_santamaria.json",
+  "markdowns": [
+    {
+      "id": "santa_maria_713bd29188",
+      "archivo": "extraccion_normas\\santa_maria\\santa_maria_plano_1982_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 4,
+      "zonas_codigos": [
+        "H-1",
+        "H-2",
+        "EC",
+        "ZR"
+      ],
+      "nota": "Plano historico 1982, escaneo deteriorado. Se hicieron 3 crops+zoom (300dpi->2x) para leer la leyenda. H-1 y H-2 con tabla completa; EC y ZR con datos parciales (parte del cuadro comparte remisiones generales no siempre distinguibles en el escaneo). Confianza MEDIA por calidad del escaneo y vigencia a verificar, no por falta de esfuerzo de lectura."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T04:55:35",
+  "fin": "2026-07-17T04:56:56",
+  "resultado": {
+    "archivo_json": "05_santamaria.json",
+    "zonas_ficha": 4,
+    "zonas_geojson": 4,
+    "zonas_cubiertas": 4,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "4 zonas con datos reales del Plano Regulador 1982 (Decreto Alcaldicio 171/1981): H-1 y H-2 con cuadro completo (predial/COS/agrupamiento/altura por sistema/antejardin); EC con datos parciales (predial y algunas condiciones ilegibles/no diferenciadas en el escaneo, documentado explicitamente); ZR sin cuadro numerico propio, remite a disposiciones generales de cementerios. Cobertura GeoJSON exacta 4/4 sin necesidad de fichas estimadas. Confianza MEDIA heredada de fase4 por calidad del escaneo (fotocopia deteriorada de plano doblado) y vigencia legal de 1982 no reconfirmada contra fuente posterior."
+  }
+}
