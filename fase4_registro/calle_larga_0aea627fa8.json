@@ -1,0 +1,35 @@
+{
+  "id": "calle_larga_0aea627fa8",
+  "comuna": "calle_larga",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\calle_larga_353_enmienda_n_1_al_plan_regulador_comunal_de_calle_larga__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "TRAMPA MIXTO (patron LeyChile). Dec.353 Enmienda N1 PRC Calle Larga: sube 20% la densidad bruta max de 8 zonas (ZU-C, ZU-2, ZU-2A, ZU-3, ZU-3A, ZU-4, ZU-5, ZU-6). El cambio puntual de densidad esta en texto ('donde dice/debe decir'), pero el CUADRO NORMATIVO COMPLETO de cada zona ('Quedando de la siguiente manera:') es IMAGEN: usos permitidos/prohibidos, subdivision predial min, COS, coef. constructibilidad, agrupamiento, altura max, antejardin. Verificado visualmente p3 (ZU-C: predial 290m2, dens 108, ocup 0,5/0,9, constr 0,7/1,8, altura 12m) y p6. Un cuadro por articulo, 2 cuadros por pagina, p3-p6.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T12:51:02",
+  "fin": "2026-07-17T13:27:52",
+  "resultado": {
+    "archivo": "extraccion_normas/calle_larga/calle_larga_do353_enmienda1_zonas_zuc_zu2_zu2a_zu3_zu3a_zu4_zu5_zu6_pag2-6.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZU-C",
+      "ZU-2",
+      "ZU-2A",
+      "ZU-3",
+      "ZU-3A",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Exento 353 (2022, LeyChile), Enmienda N1 al PRC de Calle Larga, aprobada por Sesion N8 Concejo 10-mar-2022. Trampa mixta confirmada: cambio de densidad bruta max (+20%) en texto plano 'donde dice/debe decir', pero cuadro normativo COMPLETO resultante ('Quedando de la siguiente manera:') es IMAGEN. 8 zonas con cuadro completo (usos suelo + condiciones subdivision/edificacion), cada cambio de densidad verificado imagen vs texto, coincide exacto en las 8: ZU-C 90->108, ZU-2 75->90, ZU-2A 90->108, ZU-3 60->72, ZU-3A 72->86 (redondeo 86,4), ZU-4 16->19 (redondeo 19,2), ZU-5 60->72, ZU-6 72->86. ZU-C verificado con zoom coincide con lo anticipado en fase3 (predial 290m2, ocupacion 0,5/0,9, CC 0,7/1,8, altura 12m). Diferencias reales entre zonas documentadas: subgrupos de Equipamiento con alturas distintas en ZU-2/2A; Infraestructura Sanitaria vs Transporte segun zona; solo ZU-C/ZU-6 incluyen clase Servicios en Equipamiento; ZU-6 tiene disposicion especial propia (antejardin 10m Vias Troncales). No se determino la fecha exacta de dictacion/publicacion en Diario Oficial (no consta en el texto disponible, documentado explicitamente)."
+  }
+}
