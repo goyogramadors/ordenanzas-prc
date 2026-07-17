@@ -1,0 +1,23 @@
+{
+ "id": "romeral_e854e79e6b",
+ "comuna": "romeral",
+ "ruta": "Ordenanzas ordenadas\\OCR ok\\romeral_44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que__07306_PRC_ROMERAL_OR_44_17.pdf",
+ "veredicto": "TEXTO",
+ "paginas_documento": 25,
+ "rangos": [[14,18]],
+ "paginas_utiles": 5,
+ "confianza_fase3": "ALTA",
+ "metodo_fase3": "VISUAL",
+ "nota_fase3": "Misma trampa nueva que Molina: veredicto TEXTO pero tablas de zona en imagen. p14 Art.4.2 lista de zonas + tabla ZU-1 y ZU-2; p15-18 resto de zonas.",
+ "estado": "HECHO",
+ "sesion": "AMIGO1",
+ "inicio": "2026-07-17T18:33:00",
+ "fin": "2026-07-17T18:45:00",
+ "resultado": {
+  "archivo": "extraccion_normas/romeral/romeral_44_2017_zu1_zu7_zav_ze1_ze4_pag14-18.md",
+  "zonas": 12,
+  "zonas_codigos": ["ZU-1","ZU-2","ZU-3","ZU-4","ZU-5","ZU-6","ZU-7","ZAV","ZE-1","ZE-2","ZE-3","ZE-4"],
+  "confianza": "ALTA",
+  "nota": "Decreto 44/2017 Romeral. Trampa confirmada por render. 12 zonas con cuadro completo usos de suelo + normas subdivision/edificacion, verificadas visualmente 200dpi."
+ }
+}

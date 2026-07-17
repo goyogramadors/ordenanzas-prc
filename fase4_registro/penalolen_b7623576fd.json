@@ -1,0 +1,23 @@
+{
+ "id": "penalolen_b7623576fd",
+ "comuna": "penalolen",
+ "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_1999.pdf",
+ "veredicto": "TEXTO",
+ "paginas_documento": 5,
+ "rangos": [[1,5]],
+ "paginas_utiles": 5,
+ "confianza_fase3": "ALTA",
+ "metodo_fase3": "TEXTO",
+ "nota_fase3": "TRAMPA COMUNA AJENA CONFIRMADA. p1 superior (tabla de vias Angelmo/Volcan Osorno) es de Puerto Montt. El decreto real de Penalolen empieza en la mitad inferior de p1 y continua p2-5.",
+ "estado": "HECHO",
+ "sesion": "AMIGO1",
+ "inicio": "2026-07-17T18:33:00",
+ "fin": "2026-07-17T18:45:00",
+ "resultado": {
+  "archivo": "extraccion_normas/penalolen/penalolen_resolucion45_1999_ampliacion_limite_urbano_e1_r4_r5_r6.md",
+  "zonas": 10,
+  "zonas_codigos": ["E1","R4","R5","R6","Q","K","C","F","M","P"],
+  "confianza": "ALTA",
+  "nota": "Resolucion 45/1999 (Ampliacion Limite Urbano Penalolen). 4 zonas Area Urbana (E1,R4,R5,R6) con cuadro completo, verificadas por partida doble contra Cuadro Resumen del Art.11. 6 zonas Area de Restriccion (Q,K,C,F,M,P) con usos/normas descriptivas."
+ }
+}

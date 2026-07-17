@@ -1,0 +1,23 @@
+{
+ "id": "puerto_varas_46d6474c6e",
+ "comuna": "puerto_varas",
+ "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_varas_2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas__Exportar.pdf",
+ "veredicto": "TEXTO",
+ "paginas_documento": 18,
+ "rangos": [[13,17]],
+ "paginas_utiles": 5,
+ "confianza_fase3": "ALTA",
+ "metodo_fase3": "TEXTO+VISUAL",
+ "nota_fase3": "PUERTO VARAS: Decreto 2 (BCN LeyChile), aprueba el PRC. Art 21 Usos de suelo y normas especificas, p13-17, TEXTO NATIVO LIMPIO.",
+ "estado": "HECHO",
+ "sesion": "AMIGO1",
+ "inicio": "2026-07-17T18:33:00",
+ "fin": "2026-07-17T18:45:00",
+ "resultado": {
+  "archivo": "extraccion_normas/puerto_varas/puerto_varas_resolucion2_1990_zonas_h1_h2_h3_c_t_i_r1_r6_pag13-17.md",
+  "zonas": 12,
+  "zonas_codigos": ["H-1","H-2","H-3","C","T","I","R-1","R-2","R-3","R-4","R-5","R-6"],
+  "confianza": "ALTA",
+  "nota": "Resolucion 2/1990 Puerto Varas. 6 zonas Area Urbana (H1,H2,H3,C,T,I) con cuadro completo de subdivision/edificacion. 6 zonas Area de Restriccion (R1-R6) con usos permitidos/prohibidos y normas de edificacion donde el texto las entrega."
+ }
+}
