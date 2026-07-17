@@ -1,0 +1,34 @@
+{
+  "id": "santiago_5f96b1b8da",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_10.-Acuerdo-N_C2_B0408.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Acuerdo N408 del Concejo Municipal de Santiago: vota 7 observaciones ciudadanas (pag1-4) mas anexo Informe N32 Comision de Barrios con 35 observaciones (pag5-11). No es una grilla de normas por zona (el anteproyecto/Informe del Asesor Urbanista con las normas completas no esta incluido), pero SI cita valores puntuales de norma vigente vs propuesta dentro del texto de varias observaciones: pag2 Obs29 altura maxima Subzona AR y A1R (41.5 y 35.5m); pag3 Obs34 altura maxima Subzonas R =70% actual, Obs35 rasante 45 grados subzona R; pag7 Obs12 altura Subzona B4R/B7bR (6 pisos/16m vs 24m vigente), Obs13 COS Zona Conservacion Historica B3 (0.7 actual vs 0.6 propuesto), Obs14 COS SE B5 (0.7 vs 1); pag10 Obs28 rasante ZICH (45 vs 60 grados), Obs29 alturas AR/A1R repetido. Cifras dispersas dentro de registro de votacion, no cuadro formal - confianza MEDIA.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T12:51:02",
+  "fin": "2026-07-17T13:27:26",
+  "resultado": {
+    "archivo": "extraccion_normas/santiago/santiago_acuerdo408_observaciones_prc_valores_puntuales.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "Acuerdo N408, Concejo Municipal de Santiago. NO es decreto que crea/modifica zona -- es acta de votacion de observaciones ciudadanas a un anteproyecto de modificacion PRC que no esta incluido en estas paginas (0 zonas nuevas, cifras dispersas dentro de un registro de votacion referidas a subzonas ya existentes: AR, A1R, R, B3, B4R, B7bR, SE B5, ZICH). Documento con DOS cuerpos de votacion (Concejo en pleno 11 miembros + Comision de Barrios/Informe N32 hasta 10 miembros) verificados palabra por palabra y voto por voto contra imagen, incluyendo nombres completos de concejales. HALLAZGO: la generalizacion de fase3 ('mayoria rechazada') NO se cumple en este documento especifico -- conteo real 4 aprobadas vs 3 rechazadas en el pleno, 8 vs 5 en comision. Detecte ademas una discrepancia real entre ambos cuerpos votantes para la Obs.30 (rechazada en pleno, aprobada en comision), documentada sin intentar conciliar. Valores citados: alturas Subzona AR 41,5m / A1R 35,5m (aprobadas), rasante ZICH 45 vs 60 grados (aprobada), COS ZCH B3 0,7->0,6 (rechazada unanime), COS SE B5 1->0,7 (rechazada unanime), altura B4R/B7bR 24m vs 16m/6pisos solicitado (rechazada)."
+  }
+}

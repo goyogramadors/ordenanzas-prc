@@ -1,0 +1,38 @@
+{
+  "id": "santiago_67cb8cc8d6",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_11.-Acuerdo-N_C2_B0407.pdf",
+  "rangos": [
+    [
+      5,
+      5
+    ],
+    [
+      9,
+      9
+    ],
+    [
+      15,
+      15
+    ],
+    [
+      17,
+      17
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Acuerdo N407 de Concejo (acta votacion observaciones a Anteproyecto modificacion PRC Santiago) + Informe N32 anexo (pag11-18 repite mismo contenido). No trae tabla/grilla de normas por zona; valores puntuales solo dentro de texto narrativo de observaciones: pag5/13 Obs12 altura Subzona B4R/B7bR (24m propuesto vs 16m/6 pisos solicitado), Obs13 COS Zona Conservacion Historica B3 (0.7 vs 0.6 propuesto), Obs14 COS SE B5 (1 vs 0.7 solicitado); pag9 Obs28 rasante ZICH (60 vs 45 grados); pag15 Obs29 alturas maximas Subzona AR/A1R (41.5 y 35.5), Obs31 rasante 60 grados y distanciamiento 6m proteccion patrimonial; pag17 Obs34 altura maxima Subzonas R (70% altura actual normada), Obs35 rasante 45 en subzona R. Cifras dispersas dentro de acta de votacion (mayoria de observaciones RECHAZADAS, no incorporadas al texto final) - confianza MEDIA.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T12:51:02",
+  "fin": "2026-07-17T13:27:39",
+  "resultado": {
+    "archivo": "extraccion_normas/santiago/santiago_acuerdo407_observaciones_prc_valores_puntuales.md",
+    "zonas": 0,
+    "zonas_codigos": [],
+    "confianza": "MEDIA",
+    "nota": "Acuerdo N407, Concejo Municipal de Santiago, documento gemelo/complementario del Acuerdo 408 (misma sesion, mismo anteproyecto). NO crea/modifica zona -- 0 zonas nuevas, acta de votacion. DISCREPANCIA IMPORTANTE vs ficha fase3: la pagina 15 NO contiene las Obs.29/31 (alturas AR/A1R, rasante 60) que fase3 anticipaba por analogia con el Acuerdo 408 -- contiene en realidad las Obs.22-27 (fichas ICH, desafectacion patrimonial). Deducido por patron de paginacion interna del Informe N32 que Obs.29/31 estarian en la pagina 16, NO incluida en el rango asignado -- se dejo explicitamente como 'no verificado' en vez de copiar los valores del documento gemelo 408 sin verificacion propia. En este documento SI se confirma la generalizacion 'mayoria rechazada' de fase3: 10 rechazadas vs 4 aprobadas (~71%). Tambien detecte discrepancia entre ambos cuerpos votantes en la Obs.27 (rechazada en pleno 2-9-0, aprobada en comision 7-2-0), documentada sin conciliar. Valores confirmados: altura B4R/B7bR 24m vs 16m/6pisos (rechazada unanime en pleno), COS ZCH B3 0,7->0,6 (rechazada unanime), COS SE B5 1->0,7 (rechazada unanime), rasante ZICH 60->45 grados (aprobada 9-2), altura Subzonas R al 70% (aprobada unanime en comision), rasante 45 subzona R (aprobada))."
+  }
+}
