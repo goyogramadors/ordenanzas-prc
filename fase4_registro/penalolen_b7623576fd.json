@@ -1,0 +1,31 @@
+{
+  "id": "penalolen_b7623576fd",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_1999.pdf",
+  "rangos": [
+    [
+      1,
+      5
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "TRAMPA COMUNA AJENA CONFIRMADA (patron ya documentado). p1 SUPERIOR (tabla de vias 'Avda.Angelmo', 'Volcan Osorno', 'Camino a localidad Alerce', 'Camino viejo a Chamiza') es de OTRA comuna (Puerto Montt: Angelmo es su barrio puerto emblematico) - aviso previo no relacionado en la misma edicion del Diario Oficial. El decreto real de Peñalolen 'MODIFICA PLAN REGULADOR COMUNAL DE PEÑALOLEN, AMPLIACION DEL LIMITE URBANO' (Resolucion 45, 6-ago-1999) empieza en la MITAD INFERIOR de p1 y continua p2-5. Contenido legitimo: p3-4 usos de suelo/equipamiento por escala; p5 'Cuadro Resumen: Uso de Suelo y Normas Especificas' zonas E1/R4/R5/R6 con TODOS los parametros (predial min 800-1700m2, frente predial 20-30m, agrupamiento aislado, COS 0,15-0,4, CC 0,4-2, altura 9-15m, densidad 25-50 hab/ha, antejardin 3-7m). Cierra 'La Municipalidad de Peñalolen publicara...'. USAR SOLO la mitad inferior de p1 en adelante, NO el cuadro vial superior.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T18:56:36",
+  "fin": "2026-07-17T19:22:21",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_mprc1999_zonas_e1_r4_r5_r6_ampliacion_limite_urbano_pag1-5.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "E1",
+      "R4",
+      "R5",
+      "R6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Resolucion 45/1999 GORE Metropolitano, Modifica PRC Penalolen, Ampliacion Limite Urbano (sector Comunidad Ecologica Penalolen Alto), DO N36.473 25-sep-1999. 4 zonas Area Urbana confirmadas: E1 (Equipamiento Intercomunal), R4 (Habitacional y Servicios Locales), R5 (Habitacional Norte), R6 (Habitacional Sur). Trampa comuna ajena en pag1 CONFIRMADA y detallada: son DOS avisos distintos (no uno) -- tabla de vias de Puerto Montt/X Region (SEREMI Transportes) + Rectificacion corta del Ministerio SEGPRES sobre nombramiento de subsecretario, ninguno relacionado con Penalolen. El corte real esta en 67-70% de la altura de pagina (no 'mitad' como sugeria el encargo), y no es limpio por diseno a 2 columnas con alturas de corte distintas por columna -- documentado en detalle con texto de transicion citado literal. CORRECCION a fase3: rango real de Antejardin es 5-7m, no 3-7m -- el 3m que fase3 incluyo corresponde en realidad al campo Distanciamiento (3m), no a Antejardin. Resto de rangos de fase3 confirmados correctos (predial 800-1700m2, frente 20-30m, agrupamiento aislado unanime, COS 0.15-0.4, CC 0.4-2, altura 9-15m, densidad 25-50 hab/ha). HALLAZGO no cubierto por fase3: existen 6 zonas adicionales de Area de Restriccion (Q,K,C,F,M,P) entremezcladas en las mismas paginas -- resumidas aparte, fuera del cuadro principal solicitado, no transcritas en detalle. HALLAZGO secundario: error de OCR detectado en el .txt de apoyo para zona P (fuera de alcance): dice '15 m' pero la imagen a 250dpi muestra claramente '75 m' -- se uso el valor de imagen, documentado como evidencia concreta de error en la capa de texto. Cuadro Resumen de pag5 usa coma decimal, bloques Art.11 usan punto decimal -- mismo valor, formato distinto por seccion, no normalizado. Zona E1 es la unica con 2 bloques de normas separados (vivienda vs equipamiento) con 4 campos distintos entre si; R4/R5 tienen bloque unico; R6 sin equipamiento en absoluto. 0 valores inventados. Confianza alta global."
+  }
+}
