@@ -1,0 +1,31 @@
+{
+  "id": "renaico_35eaf1369e",
+  "comuna": "renaico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\renaico_decreto_4_plan_regulador_de_la_comuna_de_renaico_localidad_tijeral__prvtij.pdf",
+  "rangos": [
+    [
+      6,
+      9
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "TRAMPA imagen: PRC Parcial Renaico localidad Tijeral, Cap.V (Art.10) Zonificación: zonas Z-1 (Centro), Z-2 (Borde Centro), Z-3 (Apoyo Ruta), Z-AV (Área Verde) - tablas embebidas como imagen (confirmado pdfimages+render pág6: tabla completa Z-1 con usos permit/prohib, superficie subdivisión 400m2, COS 0.5-0.7, CC 1.0-1.4, altura 8-10m, agrupamiento, antejardín 3m, densidad 140hab/ha). Nota de Contraloría aclara terminología de Z-AV (superficie de subdivisión predial mínima = área verde)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T06:18:42",
+  "fin": "2026-07-17T06:39:29",
+  "resultado": {
+    "archivo": "extraccion_normas/renaico/renaico_decreto4_tijeral_zonas_z1_z2_z3_zav_pag6-9.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-AV"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto N4/2012 MINVU, PRC Parcial Renaico localidad Tijeral, Cap.V Art.10. Comuna nueva en el corpus. Trampa imagen confirmada (pdfimages+render), transcrito integro. 4 zonas: Z-1 Centro (predial 400m2, COS 0,5-0,7, CC 1,0-1,4, altura 8-10m, agrupamiento Aislado-Pareado-Continuo residencial/equip / Aislado act.productivas, antejardin 3m, densidad 140hab/ha - los 7 valores anticipados coinciden exacto, sin discrepancias); Z-2 Borde Centro (predial 500m2, COS 0,3-0,5, CC 0,5, altura 8m, antejardin 5m, densidad 70hab/ha); Z-3 Apoyo Ruta (predial 500m2, COS 0,3-0,7, CC 0,5-1,4, altura 8-13m, incorpora categoria Infraestructura transporte/sanitaria/energetica, densidad 70hab/ha); Z-AV Area Verde (sin tabla usos propia, solo parrafo descriptivo; predial 2500m2 - aclarado como 'superficie de subdivision predial minima' por Oficio Contraloria N44.186/2012 transcrito integro, COS 0,2, CC 0,2, altura 7m, antejardin 10m). Confianza alta, imagenes legibles en su totalidad."
+  }
+}

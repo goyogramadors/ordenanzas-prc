@@ -1,0 +1,35 @@
+{
+  "id": "pirque_b19cae1223",
+  "comuna": "pirque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pirque_1297_aprueba_plan_regulador_comunal_de_pirque__planregulador_1297.pdf",
+  "rangos": [
+    [
+      5,
+      8
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "PIRQUE: Decreto 1297 (2015), aprueba el PRC. Cap IV Art 11, p5-8: TABLA-IMAGEN CONFIRMADA (cero coincidencias de COS-CC-superficie en el texto pese a que las tablas existen extensas; solo pasan los titulos de zona). 8 zonas del area urbana: ZM-1 Centro Civico (COS 0,2-0,3, CC 0,4-0,9, altura 10,5-12m, densidad 180 hab-ha), ZM-2, ZH-1 residencial baja densidad (COS 0,4-0,3, altura 9-7m), ZH-2 residencial (COS 0,6-0,4, altura 7m), ZE-1 (COS 0,05, altura 7m), ZE-2 equipamiento recreacional-deportivo, ZP-1 actividades productivas (COS 0,1, altura 3,5m), ZP-E (predial minima 1.500 m2, COS 0,4, CC 0,6, altura 10,5m). Todas con usos permitidos-prohibidos y normas de subdivision-edificacion. Cierra en p8 al empezar el listado de inmuebles de conservacion historica y Cap V Vialidad (excluidos). LA FASE SIGUIENTE DEBE USAR VISION: todo el bloque p5-8 es imagen, no texto seleccionable. 4 pags verificadas visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T06:18:42",
+  "fin": "2026-07-17T06:39:18",
+  "resultado": {
+    "archivo": "extraccion_normas/pirque/pirque_do1297_zonas_zm1_zm2_zh1_zh2_ze1_ze2_zp1_zpe_pag5-8.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZM-1",
+      "ZM-2",
+      "ZH-1",
+      "ZH-2",
+      "ZE-1",
+      "ZE-2",
+      "ZP-1",
+      "ZP-E"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 1297 (2015) DO N41.339 23-dic-2015, Aprueba PRC Pirque, Cap.IV Art.10-11. Trampa imagen confirmada, transcrito con recortes ampliados. Comuna nueva en el corpus. 8 zonas completas (usos suelo + condiciones subdivision/edificacion). ZM-1/ZH-2/ZE-1/ZP-E: coinciden exacto con lo anticipado en fase3. ZM-2: sin anticipo previo, transcrita integra (unica con 3 columnas residencial/equipamiento/act.productivas). HALLAZGO IMPORTANTE - correccion a la ficha fase3: (1) ZH-1 altura anticipada '9-7m' es incorrecta, valor real 7,50m (2 pisos+mansarda) igual ambas columnas, verificado con zoom; (2) ZP-1 anticipaba COS 0,1/altura 3,5m pero esos son en realidad los valores de ZE-2 (cruce de datos entre zonas en la ficha previa) - ZP-1 real es COS 0,6/CC 0,8/altura 7,5m, verificado con zoom sin ambiguedad. Se documentan ambas zonas con sus valores reales y nota explicita del cruce. 2 particularidades del propio documento anotadas (no errores de transcripcion): ZM-2 usos prohibidos repite items ya permitidos (posible copia de tabla ZM-1); ZM-2/ZP-E omiten algunas clases de Equipamiento en tabla de permitidos."
+  }
+}

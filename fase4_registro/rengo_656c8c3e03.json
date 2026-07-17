@@ -1,0 +1,36 @@
+{
+  "id": "rengo_656c8c3e03",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\rengo_70_ordenanza_plan_regulador_intercomunal_rio_claro__do-20101224.pdf",
+  "rangos": [
+    [
+      10,
+      13
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "TRAMPA comuna ajena masiva: documento DO de 132 páginas escaneadas, pero el Plan Regulador Intercomunal Río Claro (Res.70) solo ocupa pág9-13 (Cuerpo I). Pág9 solo texto general Título I. Pág10 tabla de localidades urbanas + inicio tabla clasificatoria zonas (ZUC/ZE/AR/ZP). Tablas con valores normativos (superficie predial mín, agrupamiento, antejardín, COS, CC, altura, distanciamiento) para zonas de EXTENSIÓN urbana ZE-REQ, ZE-LLIR, ZE-MALL, ZE-QT, ZE-PEL, ZE-GGUE, ZEQ-1, ZEQ-2, ZE-ED en pág11-13 (las zonas urbanas consolidadas se rigen por PRC comunales propios, sin tabla aquí). Desde pág14 el documento contiene OTRA ordenanza completamente distinta (PRI Rancagua), sin relación con Rengo/Río Claro - 119 de 132 páginas son contenido ajeno",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T06:18:42",
+  "fin": "2026-07-17T06:39:44",
+  "resultado": {
+    "archivo": "extraccion_normas/rengo/rengo_res70_pri_rioclaro_zonas_extension_pag10-13.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "ZE-REQ",
+      "ZE-LLIR",
+      "ZE-PEL",
+      "ZE-MALL",
+      "ZE-QT",
+      "ZE-GGUE",
+      "ZEQ-1",
+      "ZEQ-2",
+      "ZE-ED"
+    ],
+    "confianza": "ALTA",
+    "nota": "Resolucion 70 (2010), Plan Regulador Intercomunal Rio Claro (Rengo/Malloa/Requinoa/Quinta de Tilcoco/Coinco), DO N39.843 24-dic-2010. Verificado explicitamente: las 4 paginas 10-13 corresponden integramente al PRI Rio Claro, SIN mezcla con el PRI Rancagua que ocupa el resto del PDF de 132 paginas (119 ajenas). 9 zonas de Extension Urbana: ZE-REQ/ZE-LLIR/ZE-PEL/ZE-MALL/ZE-QT/ZE-GGUE (Arts.14-19, solo densidad promedio + 2 subtablas de condiciones para instalaciones de alto impacto: act.productivas e infraestructura sanitaria, sin predial/agrupamiento/COS en estas paginas) y ZEQ-1/ZEQ-2/ZE-ED (Arts.20-22, tablas completas 3 columnas de uso permitido: predial/agrupamiento/antejardin/COS/CC/altura/distanciamiento). Tambien tabla de localidades urbanas y cuadro de clasificacion de zonas (ZUC/ZE/AR/ZP1). Confianza alta en las 9 tablas normativas (releidas a 400dpi). Confianza media en tabla de localidades urbanas (fotocopia con trama semitono) - digitos dudosos marcados explicitamente con asterisco en vez de adivinados, incluyendo un caso de fecha imposible (1899) dejado como no determinable. Nota de grafia propia del documento: 'Guacarhue' en cuadro de clasificacion vs 'GUACARGUE' en encabezado Art.19."
+  }
+}

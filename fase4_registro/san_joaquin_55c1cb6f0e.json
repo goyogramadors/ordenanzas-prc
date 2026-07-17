@@ -1,0 +1,30 @@
+{
+  "id": "san_joaquin_55c1cb6f0e",
+  "comuna": "san_joaquin",
+  "ruta": "Ordenanzas ordenadas\\san_joaquin_306_aprueba_y_promulga_modificacion_al_plan_regulador_de_san_joaquin__DECRETO_306.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Diario Oficial N40.798, 4-mar-2014, 4 pags. Decreto Seccion 1a N306, 25-feb-2014, San Joaquin, APRUEBA Y PROMULGA 'Modificacion a zonas Z-13A y Z-14A del Plan Regulador Comunal, sector nororiente'. Modifica arts.10,11,12 (cierros, condiciones edificacion, antejardines, estacionamientos) y agrega al Capitulo IV tres tablas completas de normas: ZONA Z15 Residencial Mixta con Equipamiento (pag3: superficie predial min 300m2, COS 0.6/0.7, CC 1.5/2, sist.agrupamiento, altura max 2 pisos 7.0m, densidad 450 hab/ha), ZONA Z16 Residencial Mixta (pag4: predial min 600m2, COS 0.6/0.7, CC 2.0-4.0 segun superficie, altura 12-20 pisos edif.aislada, densidad 1300-2000 hab/ha) y ZONA Z16A Residencial Mixta con Densificacion y Equipamiento (pag4). Verificado visualmente paginas 1-4 de 4.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T06:18:42",
+  "fin": "2026-07-17T06:39:57",
+  "resultado": {
+    "archivo": "extraccion_normas/san_joaquin/san_joaquin_do306_zonas_z15_z16_z16a_pag1-4.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "Z15",
+      "Z16",
+      "Z16A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Secc.1a N306, 25-feb-2014, San Joaquin, DO N40.798 4-mar-2014. Titulo dice 'Modificacion a Zonas Z-13A y Z-14A sector nororiente' pero el Articulo Unico en realidad SUSTITUYE polígonos de partes de Z-13A/Z-14A por 3 zonas enteramente nuevas: Z15 Residencial Mixta c/Equipamiento (predial 300m2, COS 0,6/0,7, CC 1,5/2, altura 2pisos/7,0m, densidad 450hab/ha - coincide exacto con ficha), Z16 Residencial Mixta (predial 600m2, COS 0,6/0,7, CC escalonado 2,0-4,0 segun superficie lote, altura aislada 12pisos/42m, densidad 1300hab/ha), Z16A Residencial Mixta c/Densificacion y Equipamiento (mismo predial/COS/CC que Z16 pero altura aislada 20pisos/70m y densidad 2000hab/ha, clausula especial distanciamiento 5m a medianeros junto a actividad industrial). HALLAZGO: la ficha fase3 resumia Z16 con rango combinado 12-20pisos/1300-2000hab-ha que en realidad mezclaba los cuadros separados de Z16 y Z16A - desagregado correctamente. Tambien modifica art.13 (Estacionamientos), no anticipado en fase3. Relacion con decreto 1203/2016 (Z13A/Z13B/Z14/Z14A): acto independiente y posterior, sector oriente distinto, sin referencia cruzada entre ambos."
+  }
+}
