@@ -1,0 +1,39 @@
+{
+  "id": "romeral_e854e79e6b",
+  "comuna": "romeral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\romeral_44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que__07306_PRC_ROMERAL_OR_44_17.pdf",
+  "rangos": [
+    [
+      14,
+      18
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Misma trampa nueva que Molina: veredicto TEXTO pero tablas de zona en imagen (Diario Oficial digital 2017). Verificado por render: p14 Art.4.2 lista de zonas (ZU-1 a ZU-7, ZAV, ZE-1 a ZE-4) + tabla ZU-1 y ZU-2 completas en la misma pagina; p15-18 resto de zonas. p19 ya es Titulo 5 Vialidad Estructurante (fuera de rango).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T18:56:36",
+  "fin": "2026-07-17T19:35:48",
+  "resultado": {
+    "archivo": "extraccion_normas/romeral/romeral_do44_zonas_zu1_zu7_zav_ze1_ze4_pag14-18.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZAV",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 44/2017 Romeral, Art.4.2 (Zonificacion) + Art.4.3 (Normas Urbanisticas por Zona), DO 41.766 25-may-2017 pag14-18. Trampa confirmada: tablas de Usos de Suelo y Normas de Subdivision/Edificacion en imagen, .txt solo sirve para titulos -- todos los valores leidos de PNG 250dpi con zoom 1.5x-2.5x. 12 zonas confirmadas exactas a fase3: ZU-1 a ZU-7 (Mixta/Mixta Residencial), ZAV (Area Verde), ZE-1 a ZE-4 (Equipamiento). CORRECCION a fase3: 'ZU-1 y ZU-2 completas en p14' es impreciso -- ZU-2 tiene usos de suelo en p14 pero su tabla de Normas de Subdivision esta PARTIDA, termina al inicio de p15. HALLAZGO no cubierto por fase3: mismo patron de particion de tabla se repite en ZU-7 (usos p16, normas continua p17) -- verificado con zoom en ambos cortes que no se perdio ninguna fila de Usos de Suelo. HALLAZGO no cubierto por fase3: tras completarse ZAV (ultima de las 12 zonas) en p18, empieza Art.4.4 'Areas de Proteccion de Recursos de Valor Patrimonial Cultural' (Monumento Historico + Inmuebles de Conservacion Historica) -- fuera de alcance, no transcrito en detalle, solo documentada su existencia. No se pudo verificar visualmente si Titulo 5 Vialidad empieza en p19 (fuera del material entregado). Estructura no uniforme entre zonas: ZAV sin tabla de Usos de Suelo (solo parrafo descriptivo); ZE-2/ZE-3 sin fila RESIDENCIAL ni Densidad Bruta Maxima (no admiten uso residencial); ZU-7 sin filas SALUD/SEGURIDAD/SERVICIOS/SOCIAL a diferencia de ZU-4/ZU-5. 2 celdas genuinamente vacias verificadas 2 veces con zoom (no error de extraccion): ZU-1/SEGURIDAD y ZE-4/COMERCIO, ambas columna EXCEPTO. 0 usos de 'Dato no determinable' -- todos los vacios identificados como (a) celda vacia por diseno o (b) fila/tabla ausente por no aplicar. Contexto cruzado: se referencian 2 actos posteriores que modifican SOLO 2 poligonos municipales de ZU-1 (Decreto 2782/2019 y Decreto 2056/2021, archivos ya existentes en la carpeta romeral/), no incorporados al cuadro base transcrito (correcto, tarea es sobre decreto original). Categorias 'Grupo 1-4' de equipamiento no definidas en este rango de paginas (probablemente articulo anterior fuera de alcance). Sin notas al pie numeradas pese a que la tarea anticipaba esa complejidad. Inconsistencias tipograficas menores preservadas literal (m2 vs m², ha vs há, coma faltante en ZU-4/CULTO). 0 valores inventados. Confianza alta global, uniforme en las 5 paginas."
+  }
+}
