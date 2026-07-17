@@ -1,0 +1,39 @@
+{
+  "id": "caldera_67338feb7b",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_296_aprueba_modificacion_y_publicacion_al_proyecto_modificacion_plan_regulador_d__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      9
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Modif. PRC Caldera, sector Playa Ramada. Mismo formato narrativo por zona en texto plano (verificado con render p3,4,8,9,10). Zonas con cuadro completo: U3ACB-1 a U3ACB-7 y R21B-a. p3 termina en el encabezado sin tabla; p9 cierra la ultima tabla y abre Cap.IV Vialidad. p7-8: ZP-1, ZP-2, R22a, A.V. son de restriccion sin cuadro numerico (no confundir con sin-tablas). p10 = tabla de VIALIDAD, fuera del rango.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T19:38:53",
+  "fin": "2026-07-17T19:57:40",
+  "resultado": {
+    "archivo": "extraccion_normas/caldera/caldera_do296_zonas_u3acb1_a_u3acb7_r21ba_pag4-9.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "U3ACB-1",
+      "U3ACB-2",
+      "U3ACB-3",
+      "U3ACB-4",
+      "U3ACB-5",
+      "U3ACB-6",
+      "U3ACB-7",
+      "R21B-a",
+      "ZP-1",
+      "ZP-2",
+      "R22a",
+      "A.V."
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 296 Caldera, Modif. PRC sector Playa Ramada, pag4-9 (de 10), texto nativo BCN LeyChile (regenerado dinamicamente, no escaneo -- .txt coincide caracter por caracter con imagen en las 6 paginas). Formato confirmado: NO es tabla con bordes, es lista letrada (a.-, b.-, c.-...) dentro de texto corrido bajo encabezado INTENSIDAD DE OCUPACION, convertida aqui a tabla Markdown preservando contenido literal. 12 zonas documentadas: 8 con cuadro completo (U3ACB-1 a U3ACB-7 + R21B-a, con superficie predial, frente, COS, CC, agrupamiento, distanciamiento, altura, antejardin, estacionamiento, cierros, densidad cuando aplica) + 4 de restriccion sin cuadro numerico (ZP-1,ZP-2,R22a,A.V., confirmado que ninguna tiene lista INTENSIDAD DE OCUPACION). CORRECCION/matiz a fase3: ZP-1 SI tiene 2 valores cuantitativos explicitos en su texto narrativo (franja 80m playa arenosa, franja 37m proteccion/circulacion borde rocoso) que no deben tratarse como sin-datos -- no contradice a fase3 (que hablaba de ausencia de 'cuadro numerico', no de ausencia total de cifras) pero se documenta para que no se pierdan esos anchos de franja. HALLAZGO no cubierto por fase3: 3 zonas U3ACB (2,4,6) tienen su lista INTENSIDAD DE OCUPACION partida entre paginas (identificadas una por una); tambien se parte la descripcion narrativa de ZP-1 y el preambulo de R21B-a (su cuadro numerico en si NO se parte). HALLAZGO: patron tipografico 'Altura maxima; 2 m.;' (punto y coma en vez de dos puntos) se repite identico en 6 de 8 zonas con cuadro (todas salvo U3ACB-1 y U3ACB-5) -- verificado que cada instancia se cotejo individualmente, no copiada en bloque. HALLAZGO: U3ACB-5 es la unica zona sin la opcion 'cierro vivo' que las demas si tienen. HALLAZGO: clausula de altura de U3ACB-7 (condicionada por altura de un peñon) es distinta a la de U3ACB-6 pese a compartir la primera oracion -- verificado con cuidado para no confundirlas. Verificado con lectura directa el cierre limpio de R21B-a en p9 y apertura inmediata de Cap.IV Vialidad (Art.9 y Art.10 con oraciones completas), confirmando exactamente lo dicho por fase3. Codigos de zona U3ACB-1 a U3ACB-7 verificados individualmente contra imagen, aparecen en orden ascendente estricto sin saltos (auto-validacion cruzada). 0 usos de Dato no determinable -- fuente nitida y completa en las 6 paginas, todo vacio es por diseno de zona (no ilegibilidad). Confianza alta uniforme en las 6 paginas."
+  }
+}
