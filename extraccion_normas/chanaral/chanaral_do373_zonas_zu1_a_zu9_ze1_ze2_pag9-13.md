@@ -249,7 +249,7 @@ Nota: solo dos tramos de superficie predial en esta zona (no hay tramo "1.001 a 
 
 ### Estructura morfológica
 
-- Con el fin de que la norma responda a situaciones particulares presentes en las áreas de pendiente, la zona ZU5 se divide en las subzonas ZU5.1 y ZU5.2. La ZU5.1 determina la normativa a aplicar en un área fuertemente comprometida con el sistema natural y ambiental propio de las quebradas, fijándose en ella franjas de protección ambiental y zonas de escurrimientos meteoricos de aguas lluvia. Mientras tanto, la ZU5.2 determina la normativa de las zonas de pendiente expuesta a desencadenamiento de derrumbes y desplazamientos de material. En ambos casos, los emplazamientos residenciales deben observar las precauciones ambientales y de seguridad.
+- Con el fin de que la norma responda a situaciones particulares presentes en las áreas de pendiente, la zona ZU5 se divide en las subzonas ZU5.1 y ZU5.2. La ZU5.1 determina la normativa a aplicar en un área fuertemente comprometida con el sistema natural y ambiental propio de las quebradas, fijándose en ella franjas de protección ambiental y zonas de escurrimientos meteóricos de aguas lluvia. Mientras tanto, la ZU5.2 determina la normativa de las zonas de pendiente expuesta a desencadenamiento de derrumbes y desplazamientos de material. En ambos casos, los emplazamientos residenciales deben observar las precauciones ambientales y de seguridad.
 - La estructura morfológica resultante de la ZU5 debería tender hacia una imagen urbana del tipo ciudad jardín, emplazada en zonas de pendientes.
 
 ---
