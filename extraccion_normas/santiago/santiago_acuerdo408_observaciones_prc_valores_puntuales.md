@@ -90,9 +90,9 @@ Formato de votación: "Votantes N" + detalle "X SI / Y NO / Z ABST" con iniciale
 
 ### Página 7 del PDF (Informe N°32, Página N°3) — Observaciones N°9 a N°15
 
-**Observación N°9** (Sr. Víctor Pérez Guttiérrez) — solicita corrección de la Memoria Explicativa, punto 11.4 (el Sr. Miguel Lawner no formó parte del equipo del Edificio UNCTAD III). Sin cifra de norma. Votantes 10 (DCF,MUD,CDR,AYV,RCA,JME,YTC,SMA,PMC,VPE). Detalle: 10 SI (todos) → **Aprobada por unanimidad.**
+**Observación N°9** (Sr. Víctor Pérez Gutiérrez) — solicita corrección de la Memoria Explicativa, punto 11.4 (el Sr. Miguel Lawner no formó parte del equipo del Edificio UNCTAD III). Sin cifra de norma. Votantes 10 (DCF,MUD,CDR,AYV,RCA,JME,YTC,SMA,PMC,VPE). Detalle: 10 SI (todos) → **Aprobada por unanimidad.**
 
-**Observación N°10** (Sra. Sandra Adriana Aliaga Vera) — solicita modificar la ficha del Inmueble de Conservación Histórica N°654, Casa Ariztia. No es una norma de zona (es un registro de un inmueble específico). Votantes 10. Detalle: 10 SI (todos) → **Aprobada por unanimidad.**
+**Observación N°10** (Sra. Sandra Adriana Aliaga Vera) — solicita modificar la ficha del Inmueble de Conservación Histórica N°654, Casa Ariztía. No es una norma de zona (es un registro de un inmueble específico). Votantes 10. Detalle: 10 SI (todos) → **Aprobada por unanimidad.**
 
 **Observación N°11** (Sra. Marcia Cuiza) — solicita eliminar del listado de ICH el N°071 "Edificio Anexo Iglesia Santo Domingo" (calle Santo Domingo 949/971), pues el Decreto N°123/2017 del MINEDUC ya lo incorporó como parte del Monumento Histórico (Plano PRS-02H). No es una norma de zona. Votantes 10. Detalle: 6 SI (DCF,MUD,CDR,AYV,PMC,VPE) — 2 NO (RCA,JME) — 2 ABST (YTC,SMA) → **Aprobada** (mayoría simple).
 
@@ -146,7 +146,7 @@ Mismo texto que la Observación 33 del cuerpo (A). Votantes 8. Detalle: 3 SI (DC
 | 32 | (A) | Protección ICH: demostrar mejor protección con norma actual o rasante 60° | Sin mayoría absoluta (4-2-5) |
 | 33 | (A) | Disconformidad con aumento de altura junto a patrimonio | Sin mayoría absoluta (2-3-6) |
 | 9 | (B) | Corrección Memoria Explicativa pto. 11.4 | Aprobada (10 SI) |
-| 10 | (B) | Modificar ficha ICH N°654 Casa Ariztia | Aprobada (10 SI) |
+| 10 | (B) | Modificar ficha ICH N°654 Casa Ariztía | Aprobada (10 SI) |
 | 11 | (B) | Eliminar del listado ICH el N°071 (ya es Monumento Histórico) | Aprobada (6-2-2) |
 | 15 | (B) | Incorporar cúpulas/decorativos en medición de altura de monumentos | Rechazada (0-9-1) |
 

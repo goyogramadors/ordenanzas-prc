@@ -26,7 +26,7 @@ Las páginas 5, 9 y 17 sí coinciden con lo anticipado por Fase 3 (Observaciones
 
 A diferencia de lo que se observa en el Acuerdo N°408 (donde predomina la aprobación), **en este documento la generalización de Fase 3 sí se confirma**, observación por observación:
 
-- **Cuerpo (A)** (6 observaciones: 12,13,14,15,27,28): 5 rechazadas (12, 13, 14, 15 — estas tres últimas por unanimidad—, y 27) vs. 1 aprobada (28).
+- **Cuerpo (A)** (6 observaciones: 12,13,14,15,27,28): 5 rechazadas (12, 13, 14, 15 — estas tres últimas por unanimidad —, y 27) vs. 1 aprobada (28).
 - **Cuerpo (B)** (8 observaciones-instancia: 22-27, 34-35): 5 rechazadas (22, 23, 24, 25, 26) vs. 3 aprobadas (27-repetida, 34, 35).
 - **Total combinado:** 10 rechazadas vs. 4 aprobadas (~71% de rechazo).
 
