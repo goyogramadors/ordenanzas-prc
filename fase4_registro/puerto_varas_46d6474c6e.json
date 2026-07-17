@@ -1,0 +1,39 @@
+{
+  "id": "puerto_varas_46d6474c6e",
+  "comuna": "puerto_varas",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_varas_2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas__Exportar.pdf",
+  "rangos": [
+    [
+      13,
+      17
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "PUERTO VARAS: Decreto 2 (BCN LeyChile, 18p), aprueba el PRC. Art 21 'Usos de suelo y normas especificas', p13-17, TEXTO NATIVO LIMPIO (sin trampa, verificado en render y con pdfimages: solo logos BCN): un articulo por zona (H-1, H-2, H-3, C, T, I, y restriccion R-1 a R-6), cada una con usos permitidos y prohibidos, c1 a c8-c10 (predial minima, frente predial, porcentaje de ocupacion de suelo, CC, agrupamiento, altura maxima, antejardin, adosamiento). Cierra al empezar Cap V Vialidad (p18, que si tiene tabla-imagen pero es vialidad, fuera de alcance: remite a Diario Oficial 33.615 pag 20-21). Tablas complementarias NO incluidas: estacionamientos por uso (Art 12, p7-9) y clasificacion de equipamiento por escala (Art 20, p10-12).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T18:56:36",
+  "fin": "2026-07-17T19:21:59",
+  "resultado": {
+    "archivo": "extraccion_normas/puerto_varas/puerto_varas_do2_zonas_h1_h2_h3_c_t_i_restriccion_r1_r6_pag13-17.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "H-1",
+      "H-2",
+      "H-3",
+      "C",
+      "T",
+      "I",
+      "R-1",
+      "R-2",
+      "R-3",
+      "R-4",
+      "R-5",
+      "R-6"
+    ],
+    "confianza": "ALTA",
+    "nota": "PRC Puerto Varas, Art.21 'Usos de suelo y normas especificas', pag13-17, TEXTO NATIVO LIMPIO confirmado (coincidencia 100% txt vs imagen). 12 zonas confirmadas: H-1,H-2,H-3 (habitacionales, c1-c8/c10/c8), C (centro, c1-c9), T (turismo, c1-c8), I (industrial, c1-c8) + R-1 a R-6 (restriccion). HALLAZGO: documento se autoidentifica en cada pagina como 'Resolucion 2, VIVIENDA (1990)', NO 'Decreto N2' como lo llama el encargo -- no verificable cual es el nombre correcto del instrumento con este corpus, se mantuvo el nombre de archivo del encargo. CORRECCION importante a fase3: la estructura 'c1 a c8-c10' NO aplica a las 6 zonas R, solo a H/C/T/I -- las 6 zonas R no tienen numeracion cX y su formato interno es heterogeneo entre si (R-1/R-2/R-4 tienen c) como frase unica; R-3 no tiene a/b/c en absoluto, solo prosa+cita legal DS1157/1931; R-5/R-6 tienen solo a/b sin c). 2 campos vacios genuinos de la fuente verificados 2 veces contra imagen (no error de extraccion): H-2 c4 (CC sin valor) y zona T c7 (antejardin sin valor, rotulo llega hasta 'm.' sin numero). Zona R-6 termina en el borde mismo de p.17 -- no se pudo verificar visualmente si continua en p.18 (fuera del material entregado), se confia en reporte de fase3 sobre inicio de Cap.V Vialidad en p.18 pero sin inspeccion propia. Multiples erratas tipograficas de la fuente preservadas tal cual y marcadas [sic]: '196O' en vez de '1960', 'del 968' en vez de 'de 1968', variaciones de tilde en 'especificas', 'comercio minoristas' vs 'minorista', falta de comas puntuales. Confianza alta global, con salvedad Media en R-3 (ausencia total de estructura a/b/c, no es duda de lectura) y Media en limite R-6/pagina18 (depende de fase3, no inspeccion propia)."
+  }
+}
