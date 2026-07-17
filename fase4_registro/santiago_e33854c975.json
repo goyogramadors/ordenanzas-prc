@@ -1,0 +1,43 @@
+{
+  "id": "santiago_e33854c975",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_138_modifica_el_plan_regulador_comunal_de_santiago__138.pdf",
+  "rangos": [
+    [
+      1,
+      5
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "SANTIAGO: Diario Oficial 1-feb-2016, decreto 138, Modifica el PRC. OCR con caracteres corruptos, pero contenido real confirmado: renombra planos, modifica varios articulos y sobre todo la Zona de Conservacion Historica A y Sectores Especiales A y B: reemplaza repetidas veces frases de altura minima-maxima de edificacion por nuevas alturas maximas unicas, modifica el Coeficiente maximo de constructibilidad para otros usos distintos a vivienda, y en la Zona de Conservacion Historica B cambia el guarismo 0.7 por 1.0. Tambien trae listado de inmuebles de conservacion historica y modifica el cuadro de estandares de estacionamiento. CONFIANZA MEDIA por la calidad de OCR: verificar visualmente antes de extraer.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T19:38:53",
+  "fin": "2026-07-17T20:06:42",
+  "resultado": {
+    "archivo": "extraccion_normas/santiago/santiago_do138_zch_a_sectores_esp_a_b_zch_b_pag1-5.md",
+    "zonas": 16,
+    "zonas_codigos": [
+      "A",
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "A7",
+      "B3",
+      "B8",
+      "B9",
+      "B10",
+      "B13",
+      "B14",
+      "D",
+      "D6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Alcaldicio 138/2016 Santiago, DO 41371 1-feb-2016, pag1-5, Modificacion PRC circunscrita a 'Sector 6 Club Hipico-Parque O'Higgins' (dato de alcance geografico no cubierto por fase3). Documento MODIFICATORIO puro (tecnica reemplacese/eliminese/incorporese sobre Ordenanza vigente no incluida en el rango) -- NO se reconstruyeron cuadros completos ficticios de zonas, solo se transcribieron los cambios puntuales efectivamente citados por el decreto. CONFIRMADO EXACTO lo pedido por fase3: guarismo '0.7'->'1.0' en Zona de Conservacion Historica B3 letra b) (fase3 no precisaba el subindice 3). CONFIANZA SUBIDA de MEDIA (fase3) a ALTA: la corrupcion OCR que fase3 reporto es real pero esta confinada a la capa .txt (vocales acentuadas, ñ, comillas, digitos con glifos incorrectos) -- el render PNG es texto vectorial nitido sin ese problema, se trabajo directo contra imagen con zoom 2x-3x en puntos criticos, 0 ambiguedad de digitos. 16 zonas/sectores con cambio normativo especifico identificado: A(f, elimina altura minima), A1/A2/A4/A5/A6/A7 (alturas minima-maxima -> maxima unica, cifras 35.5/18/18/41.5/25.5/23m todas verificadas con zoom), A3 y B13 (nueva letra 'Coeficiente maximo constructibilidad otros usos distintos a vivienda: libre' -- CORRECCION a fase3 que lo mencionaba en singular, son 2 incorporaciones separadas en zonas distintas), B3 (ademas del guarismo, elimina fragmentos de altura minima en 2 incisos), B8/B9/B10 (mismo patron de eliminacion de altura minima via fragmento, no reemplazo de frase completa -- imposible reconstruir texto final sin la Ordenanza completa, no inventado), B14 (guarismo h->j), D (elimina 'colindantes'), D6 (corrimiento de letras). HALLAZGOS no cubiertos en absoluto por fase3: renombre plano PRS-02E->02F en 5 articulos + derogacion/reemplazo del plano; reemplazos integros de Art.4/8/11/17(fachadas-balcones-antejardines)/18(cierros, incluye cuadro nuevo transcrito completo); renumeracion cruzada Art.24<->25; renombre listados Art.38; cuadro estacionamientos Art.39 solo elimina guarismo '(2)' en destino Servicios (NO se reconstruyo cuadro completo, no esta en la fuente). Listado Inmuebles Conservacion Historica Art.28 transcrito integro: 1 linea reemplazada completa (036), 42 correcciones puntuales de Direccion (verificadas digito a digito), 1 linea reemplazada completa (748), 1 eliminada (749 sin dato de que inmueble era), 162 inmuebles nuevos incorporados (1221-1382, verificado sin huecos/duplicados). Erratas [sic] preservadas: 'Actidades productivas', 'Neomedivales', 'Jose Toribio Medina' (sin tilde, la Direccion misma linea si tiene tilde), 'Av. Beachuef', 'son' por 'con', 3 rangos numericos descendentes en direcciones (1249,1284,1294) todos re-verificados con zoom para descartar error propio. Inconsistencia real no normalizada: decreto usa 'Zona de Conservacion Historica' para A1/A4/A7 pero 'Zona de Conservacion' (sin Historica) para A2/A3 -- verificado con zoom, no es error de lectura. Nota: pag1 comparte fisicamente con un decreto NO relacionado de Las Condes (higienizacion predio Piacenza) que antecede al de Santiago en la misma edicion DO -- no confundir, no transcrito. 0 valores inventados, 0 cuadros ficticios reconstruidos por analogia."
+  }
+}
