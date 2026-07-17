@@ -1,0 +1,74 @@
+{
+  "comuna": "valdivia",
+  "region": "14",
+  "geojson_file": "14_PRC_Valdivia.json",
+  "salida_json": "14_valdivia.json",
+  "markdowns": [
+    {
+      "id": "valdivia_8d9e9b45b4",
+      "archivo": "extraccion_normas\\valdivia\\valdivia_179_ordenanza_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 18,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZR-4",
+        "ZE-1.a",
+        "ZE-1.b",
+        "ZE-1.c",
+        "ZE-1.d",
+        "ZE-2",
+        "ZE-3.a",
+        "ZE-3.b"
+      ],
+      "nota": "Ordenanza Local completa art.21-23: 18 zonas/subzonas (7 ZU consolidadas, 4 ZR especiales, 6 ZE extension urbana incluyendo ZE-1 con 4 subzonas a-d) con usos de suelo y condiciones de subdivision/edificacion completas. Art.24 (listado inmuebles conservacion historica, 60+ filas) excluido por no ser norma de zona. Vialidad y contenido ajeno (gremios Arica/Victoria) excluidos. Texto nativo limpio. Verificado contra nota_fase3: coincide y amplia el detalle."
+    },
+    {
+      "id": "valdivia_bde4b49d2d",
+      "archivo": "extraccion_normas\\valdivia\\valdivia_4151_zb5_equipamiento_salud_pag1-2.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZB-5"
+      ],
+      "nota": "CORRECCION A NOTA_FASE3: si existe cuadro propio completo de ZB-5 (no es mera remision): predial indivisible, aislado, altura 3 pisos, antejardin 3m, estacionamientos art.11. Agrega uso Salud a deportes/cultura/organizaciones comunitarias ya vigentes. Documento completo 2p, texto plano."
+    },
+    {
+      "id": "valdivia_f88234d66c",
+      "archivo": "extraccion_normas\\valdivia\\valdivia_2793_enmienda_zkv1_zkv2_porcentajes_pag1-2.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 2,
+      "zonas_codigos": [
+        "ZK-V1",
+        "ZK-V2"
+      ],
+      "nota": "Confirmado: solo porcentajes de variacion (COS +30% ambas zonas, CC +30% ZK-V1/-7,14% ZK-V2, altura minima -20% ZK-V2), sin valores absolutos base ni finales -- remite a DO 05-jun-2008 pag8, no en el corpus. Se agrega uso Equipamiento Comercio en ambas. Coincide con nota_fase3."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "CLOUD1",
+  "inicio": "2026-07-16T22:21:05",
+  "fin": "2026-07-16T22:21:05",
+  "resultado": {
+    "archivo_json": "14_valdivia.json",
+    "zonas_ficha": 72,
+    "zonas_geojson": 69,
+    "zonas_cubiertas": 69,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "B-5",
+      "E-1D",
+      "U-3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza 1988 (18 zonas ZU/ZR/ZE) + enmienda ZB-5 (Dcto.Ex.4151/2017) + enmienda ZK-V1/V2 (Dcto.Ex.2793/2008, solo % variacion, confianza MEDIA para esas 2). GeoJSON trae 68 codigos unicos (mucho mas granular: series ZC/ZCE/ZCH/ZCP/ZCR y ZE-4..9 sin cuadro en Fase4 disponible) -- se generaron fichas estimadas (null+nota) para las no documentadas, cobertura 100%. Discrepancia ZE-1d(ordenanza)/ZE-1e(geojson) documentada en notas de ambas fichas. ZU-3(ordenanza) vs ZU-3c(geojson) y ZB-5 sin poligono geojson actual: se conservaron igual. 'Area Verde'/'Área Verde' son dos strings literales distintos en el geojson, cada uno con su ficha propia."
+  }
+}

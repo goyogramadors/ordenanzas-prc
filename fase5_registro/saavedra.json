@@ -1,0 +1,40 @@
+{
+  "comuna": "saavedra",
+  "region": "09",
+  "geojson_file": "09_PRC_Puerto_Saavedra.json",
+  "salida_json": "09_saavedra.json",
+  "markdowns": [
+    {
+      "id": "saavedra_841aa72ebc",
+      "archivo": "extraccion_normas\\saavedra\\saavedra_1_prc_1963_6zonas_pag1-2.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 6,
+      "zonas_codigos": [
+        "Areas Residenciales",
+        "Area Administrativa",
+        "Area Equipamiento Urbano",
+        "Areas Verdes",
+        "Areas Industriales",
+        "Area Cooperativa Agricola"
+      ],
+      "nota": "PRC historico 1963, 6 zonas completas: residenciales (superficie 45%, antejardin 3m, 1 piso, cierros 1,6m), administrativa (7m), equipamiento urbano (por tipo edificio: escuela 8m, iglesia 12m, edif publicos 7m), areas verdes (sin numeros), industrial (no existe), cooperativa agricola (predial min 9000m2 o excepcion 19 viviendas en zona no inundable). Texto nativo completo. Coincide con nota_fase3."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "CLOUD1",
+  "inicio": "2026-07-16T22:05:20",
+  "fin": "2026-07-16T22:20:11",
+  "resultado": {
+    "archivo_json": "09_saavedra.json",
+    "zonas_ficha": 9,
+    "zonas_geojson": 7,
+    "zonas_cubiertas": 7,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "ÁREACOOPERATIVAAGRÍCOLA",
+      "ÁREASINDUSTRIALES"
+    ],
+    "confianza": "ALTA",
+    "nota": "PRC historico 1963 (6 zonas nombradas, no por codigo). Match por nombre contra GeoJSON: Zona Residencial, Area Administrativa, Areas de Equipamiento, Area verde (4 exactas); Areas Industriales y Area Cooperativa Agricola sin poligono geojson actual (se conservan, la ordenanza declara la primera inexistente). 3 zonas del GeoJSON sin cuadro en la ordenanza de 1963 (Inundable restringida, Playa, Areas no edificables): fichas estimadas, probablemente de actualizacion posterior al plano historico."
+  }
+}

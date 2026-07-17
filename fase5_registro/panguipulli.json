@@ -1,0 +1,42 @@
+{
+  "comuna": "panguipulli",
+  "region": "14",
+  "geojson_file": "14_PRC_Panguipulli.json",
+  "salida_json": "14_panguipulli.json",
+  "markdowns": [
+    {
+      "id": "panguipulli_67f243ca29",
+      "archivo": "extraccion_normas\\panguipulli\\panguipulli_5_ordenanza_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "Z0",
+        "Z1",
+        "Z2",
+        "Z3",
+        "Z4",
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5",
+        "R6"
+      ],
+      "nota": "Cap.IV completo arts 18-21: 5 zonas urbanas (Z0-Z4) con usos de suelo y normas especificas completas + 6 zonas de restriccion (R1-R6). Texto nativo confirmado, no imagen. p5 vialidad excluida. Verificado contra nota_fase3: coincide."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "CLOUD1",
+  "inicio": "2026-07-16T22:05:20",
+  "fin": "2026-07-16T22:20:11",
+  "resultado": {
+    "archivo_json": "14_panguipulli.json",
+    "zonas_ficha": 11,
+    "zonas_geojson": 11,
+    "zonas_cubiertas": 11,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "11 zonas completas (Z0-Z4 urbanas + R1-R6 restriccion), match perfecto 1:1 con GeoJSON (normalizando guion Z0->Z-0 etc)."
+  }
+}

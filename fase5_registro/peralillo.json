@@ -1,0 +1,36 @@
+{
+  "comuna": "peralillo",
+  "region": "06",
+  "geojson_file": "06_PRC_Peralillo.json",
+  "salida_json": "06_peralillo.json",
+  "markdowns": [
+    {
+      "id": "peralillo_6d88d27652",
+      "archivo": "extraccion_normas\\peralillo\\peralillo_688_ordenanza_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 5,
+      "zonas_codigos": [
+        "ZC",
+        "ZE",
+        "ZVb",
+        "ZVa",
+        "ZRa"
+      ],
+      "nota": "4 zonas urbanas (ZC,ZE,ZVb,ZVa) con cuadro completo art.19, MAS Zona ZRa (art.20, resguardo patrimonio) que tambien trae cuadro completo de valores en p4 -- nota_fase3 solo menciono ZRb-ZRg como descriptivas sin cuadro, pero ZRa si tiene cuadro y se incluyo. Resto de zonas restriccion (ZRb+) sin valores, excluidas. Verificado contra nota_fase3: coincide y amplia cobertura con ZRa."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "CLOUD1",
+  "inicio": "2026-07-16T22:05:20",
+  "fin": "2026-07-16T22:20:11",
+  "resultado": {
+    "archivo_json": "06_peralillo.json",
+    "zonas_ficha": 11,
+    "zonas_geojson": 11,
+    "zonas_cubiertas": 11,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "5 zonas con cuadro completo (ZC,ZE,ZVb,ZVa,ZRa-patrimonial). Resto de subzonas de restriccion (ZRb,ZRc,ZRe,ZRf,ZRv) sin cuadro de valores en el Art.20 -- ya senalado por fase4, fichas estimadas. Z_DIFUSA sin referencia en el decreto disponible, ficha estimada."
+  }
+}

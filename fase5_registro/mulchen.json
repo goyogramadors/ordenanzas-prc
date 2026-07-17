@@ -1,0 +1,63 @@
+{
+  "comuna": "mulchen",
+  "region": "08",
+  "geojson_file": "08_PRC_Mulchen.json",
+  "salida_json": "08_mulchen.json",
+  "markdowns": [
+    {
+      "id": "mulchen_a0fc62b101",
+      "archivo": "extraccion_normas\\mulchen\\mulchen_ordenanza_prc_normas_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "ZH1",
+        "ZH2-ZH3",
+        "ZM",
+        "ZI",
+        "ZEX1",
+        "ZEX2",
+        "ZEX3",
+        "ZE1",
+        "ZE2",
+        "ZE3",
+        "ZR"
+      ],
+      "nota": "Ordenanza Local completa arts 19-21: usos de suelo + normas especificas (predial/frente/COS/CC/agrupamiento/altura) para las 11 zonas del PRC de Mulchen. Confirmado encabezado y firma municipal. p23-27 excluidas (anexos ajenos, incl. Providencia). Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "mulchen_de6c69aa90",
+      "archivo": "extraccion_normas\\mulchen\\mulchen_10_prc_zonas_completas_pag18-19.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "ZH1",
+        "ZH2",
+        "ZH3",
+        "ZM",
+        "ZI",
+        "ZEX1",
+        "ZEX2",
+        "ZEX3",
+        "ZE1",
+        "ZE2",
+        "ZE3",
+        "ZR"
+      ],
+      "nota": "Documento duplicado de mulchen_a0fc62b101 (mismo contenido, registrado como item independiente por instruccion de la cola). Confirma nota_fase3: 12 zonas completas (usos+condiciones), tabla Art.21 con valores numericos por zona. Toponimia 100% Mulchen confirmada."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "CLOUD1",
+  "inicio": "2026-07-16T22:21:05",
+  "fin": "2026-07-16T22:21:05",
+  "resultado": {
+    "archivo_json": "08_mulchen.json",
+    "zonas_ficha": 13,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "12 zonas completas (ZH1-3,ZM,ZI,ZEX1-3,ZE1-3,ZR), match casi perfecto con GeoJSON (solo 1 stub: 'Area verde', respetando casing exacto del geojson). ZH2 y ZH3 comparten tabla en la ordenanza (valores identicos, no inventado)."
+  }
+}
