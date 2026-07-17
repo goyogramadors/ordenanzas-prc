@@ -1,0 +1,41 @@
+{
+  "id": "villarrica_04d21f34aa",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_resolucion_18_plan_regulador_de_la_localidad_de_lican_ray__plan_regulador_lican_ray_1992.pdf",
+  "rangos": [
+    [
+      13,
+      17
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "PRC Licán Ray 1992: pág13-17 tablas por zona con usos permitidos/prohibidos, superficie y frente predial mínimo, % ocupación suelo, sistema agrupamiento, altura máxima, coeficiente constructibilidad; texto nativo completo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T19:38:53",
+  "fin": "2026-07-17T20:14:49",
+  "resultado": {
+    "archivo": "extraccion_normas/villarrica/villarrica_res18_licanray_zonas_pag13-17.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2a",
+      "Z-2b",
+      "Z-3",
+      "Z-3E",
+      "Z-4",
+      "Z-5",
+      "Z-R1",
+      "ZR-1a",
+      "ZR-1b",
+      "Z-R2",
+      "ZR-3",
+      "ZR-4",
+      "ZR-5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Resolucion 18 (12-may-1992) Plan Regulador localidad Lican Ray, comuna Villarrica, Art.21, pag13-17, LeyChile texto nativo. HALLAZGO PRINCIPAL: fase3 no determino codigos de zona -- este documento aporta los 14 codigos exactos (informacion completamente nueva, no discrepancia): Z-1,Z-2a,Z-2b,Z-3,Z-3E,Z-4,Z-5 (Area Consolidada y su Extension, 7 codigos) + Z-R1 con subzonas ZR-1a/ZR-1b, Z-R2, ZR-3, ZR-4, ZR-5 (Area Especial, 7 codigos incluyendo subzonas). Triple verificacion cruzada: imagen 250dpi + .txt entregado + pdftotext independiente sobre PDF completo -- coinciden linea por linea en 100% de los valores, 0 discrepancias entre las 3 fuentes. HALLAZGO no cubierto por fase3: inconsistencia sistematica 'Z-R' vs 'ZR' en la propia fuente -- indice Art.20 siempre 'ZR' sin guion, pero encabezados narrativos Art.21 usan 'Z-R1'/'Z-R2' CON guion para las zonas madre (subzonas y demas mantienen 'ZR' sin guion) -- verificado en 4 apariciones independientes, incluye caso donde el propio parrafo de Z-R2 se autonombra 'Z-R2' y cita a su vecina 'ZR-1b' en la misma oracion. HALLAZGO: Zona Z-5 es la unica de las 5 zonas Z numeradas SIN Coeficiente de Constructibilidad (omision real del original, no inventado). HALLAZGO: errata 'Sistema maximo de la edificacion' en Z-5 (deberia decir Altura, verificado 2 veces con zoom, preservado literal [sic] sin corregir). Z-3 y Z-3E comparten una sola tabla de norma (no dos separadas). Patron relevante para fase 5: las 'Areas Especiales' (Z-R1/ZR-1a/ZR-1b/Z-R2/ZR-3/ZR-4/ZR-5) tienen cuadros normativos incompletos o inexistentes por DISENO (remiten a DS609/1978, concesiones maritimas DFL340/1960, Codigo Sanitario, etc.), contraste con 'Areas Consolidadas' Z-1 a Z-5 que si siguen cuadro uniforme -- requiere manejo de campos vacios 'por diseno' no 'por falta de dato'. 4 tablas partidas entre paginas identificadas y reconciliadas sin perdida (Z-2a p13-14, Z-4 p14-15, Z-R1 usos prohibidos p15-16, nombre de zona ZR-3 partido p16-17). Trampa comuna ajena: NO detectada, topónimos 100% consistentes con Lican Ray (no confundir con Villarrica urbana propiamente tal, que tiene su propio PRC intercomunal ya en villarrica_res17). Numerosas erratas tipograficas menores preservadas [sic]: apostrofes sueltos, signo = suelto, 'Coeficientes' plural, 'Superficies' plural, 'maximo' por 'maxima', 'de y agrupamiento', 'mts.' por 'm.'. No es escaneo -- republicacion texto nativo BCN/LeyChile 2016, sin degradacion entre paginas. 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas."
+  }
+}
