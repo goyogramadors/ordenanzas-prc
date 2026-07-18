@@ -1,0 +1,22 @@
+{
+  "id": "talca_3bf1398e77",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_3920_apruebase_en_forma_definitiva_via_enmienda_a_la_ordenanza_local_del_plan_re__3920.pdf_1496170476650.pdf",
+  "rangos": [
+    [
+      4,
+      11
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Decreto Alcaldicio N3920 aprueba Enmienda N1 a Ordenanza Local PRC Talca. Pag1-2 vistos/considerandos. Pag3 modificaciones articulos generales (cuerpos salientes, cierros). Pag4 tabla estacionamientos por uso de suelo + inicio Cap.IV Zonificacion y Normas Urbanisticas. Pag5-11 tabla completa por zona (ZONA U-1 Centro Comercial hasta ZONA U-22 Agricultura y Agroindustria): superficie predial minima, densidad max, COS, coef.constructibilidad, altura max, agrupamiento, distanciamiento, antejardin -incluye subtablas infraestructura (transporte/sanitaria/energia). Pag11 firma Alcalde 23/08/2016.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "FALLIDO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:16:03",
+  "fin": "2026-07-18T19:17:25",
+  "resultado": {
+    "motivo": "DUPLICADO CONFIRMADO: mismo Decreto Alcaldicio N3920 (Talca, 24-ago-2016, Enmienda N1) que talca_dcaf16a427 -- verificado visualmente (render pag1 identico en ambos PDFs, mismo escaneo, 11 paginas, tamanos de archivo casi identicos: 5952352 vs 5949631 bytes). talca_dcaf16a427 ya fue transcrito y completado (22 zonas U-1 a U-22, extraccion_normas/talca/talca_decreto3920_enmienda1_zonas_u1-u22.md). No se retranscribe para evitar trabajo duplicado. Hallazgo para Fase 0/1: falto deduplicar estas 2 rutas del mismo decreto en el catalogo original."
+  }
+}

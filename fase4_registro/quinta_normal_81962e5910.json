@@ -1,0 +1,36 @@
+{
+  "id": "quinta_normal_81962e5910",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_70_aprueba_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "rangos": [
+    [
+      12,
+      19
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "QUINTA NORMAL: Decreto 70 (BCN LeyChile, 24p), aprueba el PRC. Cap IV Art 22-24, p12-19: zonas RM1, RM2, SM, SC, CC, MI, IE, D, AR, cada una con usos permitidos-prohibidos y condiciones de subdivision predial y edificacion (predial minima, COS, agrupamiento, rasantes-distanciamientos, altura, antejardin, CC, densidad bruta). Cierra en p19 (Zona AR = no se permite edificacion) al empezar Cap V Vialidad. TEXTO NATIVO LIMPIO sin trampa: pdfimages solo muestra banner BCN repetido (max 596x102), sin JPEGs de tabla; sin delatores. 2 pags verificadas visualmente (bordes 12 y 19). NO incluidos: Art 15 (p6, mini-cuadro de estandares para terminales de transporte, transversal a cualquier zona) y Art 17 (p7-10, estacionamientos minimos por uso, sin COS-altura).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:16:03",
+  "fin": "2026-07-18T19:21:04",
+  "resultado": {
+    "archivo": "extraccion_normas\\quinta_normal\\quinta_normal_70_zonas_rm1_rm2_sm_sc_cc_mi_ie_d_ar_pag12-19.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "RM1",
+      "RM2",
+      "SM",
+      "SC",
+      "CC",
+      "MI",
+      "IE",
+      "D",
+      "AR"
+    ],
+    "confianza": "ALTA",
+    "nota": "Texto nativo confirmado limpio y sin trampa de imagen, contrastado contra los 8 renders. IE remite integro al Plan Intercomunal de Santiago sin cuadro propio -- transcrito tal cual, no es brecha. AR es zona sin edificacion permitida -- documentada tal cual. Densidad bruta maxima de RM2 (600) aparece sin unidad impresa en el original (a diferencia de RM1 que trae 400 Hab/Ha) -- transcrito literal sin inventar la unidad, bajado a MEDIA solo en esa celda."
+  }
+}

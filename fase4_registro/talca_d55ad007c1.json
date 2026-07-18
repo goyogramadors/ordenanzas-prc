@@ -1,0 +1,49 @@
+{
+  "id": "talca_d55ad007c1",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_apruebase_en_forma_definitiva_las_siguientes_modificaciones_via_enmienda__2359.pdf_1506351486367.pdf",
+  "rangos": [
+    [
+      4,
+      11
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Decreto Alcaldicio 2359/2016: APRUEBA EN FORMA DEFINITIVA Enmienda N1 a la Ordenanza Local del PRC de Talca (Res.342/2011 GORE Maule). Modificacion N6, Capitulo 4 Zonificacion y Normas Urbanisticas (pag4-11): cuadros completos de Normas de Subdivision y Edificacion (superficie predial minima, COS, coef constructibilidad, densidad maxima, altura maxima, distanciamiento, antejardin) para 22 zonas U-1 a U-22 (Centro Comercial, Centro Institucional, Densificacion Residencial, Mixta Residencial, Residencial Densidad Media, Industria Inofensiva, Equipamiento Deportivo, Equipamiento y Densificacion Residencial, Nodo Comercial-Transporte, Equipamiento Recreacional-Area Verde, Vivienda Densidad Media, Villorrio Residencial/Mixto, Equipamiento y Vivienda, Vivienda Poniente, Vivienda Baja Densidad-Agroindustria, Mixta con Limitaciones, Industria e Infraestructura, Servicio de Transporte, Recreacional-Deportiva, Agricultura y Agroindustria), mas normas de infraestructura (transporte/sanitaria/energia) por zona. Modificaciones 1-5 (pag2-4) son de texto normativo general (cuerpos salientes, cierros, tabla de estacionamientos -fuera de alcance-, combustible, antenas).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:16:03",
+  "fin": "2026-07-18T19:24:05",
+  "resultado": {
+    "archivo": "extraccion_normas\\talca\\talca_decreto2359_2016_zonas_u_pag4-11.md",
+    "zonas": 22,
+    "zonas_codigos": [
+      "U-1",
+      "U-2",
+      "U-3",
+      "U-4",
+      "U-5",
+      "U-6",
+      "U-7",
+      "U-8",
+      "U-9",
+      "U-10",
+      "U-11",
+      "U-12",
+      "U-13",
+      "U-14",
+      "U-15",
+      "U-16",
+      "U-17",
+      "U-18",
+      "U-19",
+      "U-20",
+      "U-21",
+      "U-22"
+    ],
+    "confianza": "ALTA",
+    "nota": "CONFIRMADO NO ES DUPLICADO de talca_dcaf16a427 (decreto 3920): decreto distinto (N2359, 25-may-2016 vs N3920, 24-ago-2016), con valores normativos diferentes para las mismas zonas -- U-3 COS 0,6/0,52 en 2359 vs 0,39 en 3920; U-4 coef.constructibilidad 2,0 en 2359 vs 1,95 en 3920. Este decreto (2359) solo trae los parametros MODIFICADOS de cada zona (cuadros breves 1-5 filas), no la ficha completa como el 3920, por eso las 22 zonas cupieron completas en el rango 4-11 pese a tener 11 paginas totales. U-1 y U-2 resultaron identicos entre ambos decretos. Caso dudoso resuelto: tabla de infraestructura de pag.7 pertenece a U-9 no a U-8 (verificado por recorte de imagen)."
+  }
+}
