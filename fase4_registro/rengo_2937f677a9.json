@@ -1,0 +1,28 @@
+{
+  "id": "rengo_2937f677a9",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rengo_decreto_434_aprueba_modificacioin_no_6_al_plan_regulador_comunal_de_rengo__0434_21.03.2023_Aprueba%20Modificacion%20N%206%20al%20Plan%20Regulador%20Comunal%20de%20Rengo.pdf",
+  "rangos": [
+    [
+      6,
+      14
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "RENGO: DUPLICADO de sin_comuna_19d72598d7 (mismo decreto 0434, mar-2023, Modificacion N6 al PRC, mismo conteo de caracteres por pagina). Nucleo: pags 13-14 Articulo 38 bis zona nueva ZH3-A (usos de suelo mas condiciones de edificacion). Rango ampliado a 6-14 por precaucion: 6-9 inventario patrimonial ICH-ZCH, 9-11 dotacion de estacionamientos, 11-12 vialidad estructurante. Ver nota completa en sin_comuna_19d72598d7.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:24:41",
+  "fin": "2026-07-18T19:29:11",
+  "resultado": {
+    "archivo": "extraccion_normas\\rengo\\rengo_0434_2023_zona_zh3a_pag6-14.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZH3-A"
+    ],
+    "confianza": "MEDIA",
+    "nota": "DUPLICADO conocido de sin_comuna_19d72598d7 (aun no reclamado/completado por nadie) -- si ese item se reclama despues, deberia marcarse fallar referenciando este resultado (rengo es el nombre de comuna correcto). Cuadro de condiciones de edificacion de ZH3-A (Art.38 bis) viene como texto corrido agrupado por rubro, no tabla nativa -- COS y agrupamiento de Comercio no se desglosan individualmente, transcrito con nota de agrupamiento sin inventar valores. Sin distanciamiento/rasante numerica declarada, solo norma especial que prohibe planos inclinados por rasantes. Zona ZE de Equipamiento (pag9) se transforma desde ZI3/ZR7/ZH2/ZH3 pero remite a Plano N6 grafico sin tabla propia en el rango -- no transcribible. Patrimonio ICH/ZCH (pag6-8) documentado aparte, no es zona de edificacion; tabla Esmeralda podria continuar en pag8 fuera de rango."
+  }
+}
