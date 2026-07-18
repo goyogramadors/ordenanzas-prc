@@ -1,0 +1,53 @@
+{
+  "id": "graneros_e3ab1365c7",
+  "comuna": "graneros",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\graneros_481_dispuso_la_aprobacion_del_plan_regulador_de_la_comuna_de_graneros__Plan Regulador Graneros, Diario oficial descarga.pdf",
+  "rangos": [
+    [
+      22,
+      27
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "TRAMPA imagen: PRC completo Graneros/La Compañía, Cap.V (Art.7) Zonificación pág22-27: todas las zonas ZH1-7 (habitacional densidad alta/media/baja), ZM1-4 (mixtas), ZI1-2 (industrial), ZEE/ZEC/ZERD/ZIS/ZET (equipamiento), AV (área verde), ZCH1-3 (conservación histórica) - cada zona aparece solo como título en texto, tablas embebidas como imagen JPEG (confirmado con pdfimages, múltiples imágenes grandes por página)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T14:49:08",
+  "fin": "2026-07-18T15:09:24",
+  "resultado": {
+    "archivo": "extraccion_normas/graneros/graneros_481_2016_26zonas_pag22-27.md",
+    "zonas": 26,
+    "zonas_codigos": [
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZH4",
+      "ZH5",
+      "ZH6",
+      "ZH7",
+      "ZM1",
+      "ZM2",
+      "ZM3",
+      "ZM4",
+      "ZI1",
+      "ZI2",
+      "ZERD",
+      "ZET",
+      "ZEE",
+      "ZEC",
+      "ZIS",
+      "AV",
+      "FLF",
+      "FAT",
+      "FO",
+      "RI-1",
+      "ZCH1",
+      "ZCH2",
+      "ZCH3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 481/2016, D.O. 41498. Trampa imagen, 100% render visual 200dpi pag22-27. ICH1-7 (inmuebles patrimoniales puntuales) listados por nombre pero sin cuadro de normas propio en el rango."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fresia_e6c11a7fa1",
+  "comuna": "fresia",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\fresia_63_aprueba_plan_regulador_de_fresia__Exportar.pdf",
+  "rangos": [
+    [
+      15,
+      20
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "FRESIA: Ordenanza Local del PRC (decreto 63). Art 29 'Usos de suelo y normas especificas', pags 15-20: un articulo por zona en prosa, 9 zonas (ZU-1, ZU-2, ZU-3, Z EX-1, Z EX-2, ZE-1 deportivo, ZE-2 cementerio, ZR-1, ZR-2), cada una con usos permitidos y prohibidos mas c1 a c10 (predial minima, frente predial, COS, CC, agrupamiento, altura, adosamiento, antejardin). Cierra limpio en p20 al empezar el Cap V Vialidad. Texto NATIVO fiable, valores bien emparejados con su etiqueta (verificado en render). AVISO: en p20 hay dos delatores de cuadro ('es la contenida en el siguiente Cuadro:') pero son de VIALIDAD y el propio documento remite a 'VER DIARIO OFICIAL DE 19.01.2004 PAGINA 19-20' (fuera de este PDF): quedan fuera del rango. Tablas complementarias no incluidas: p9-10 estacionamientos por uso (Art 13) y p26-27 clasificacion de equipamiento por escala.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T14:49:08",
+  "fin": "2026-07-18T15:09:23",
+  "resultado": {
+    "archivo": "extraccion_normas/fresia/fresia_63_2003_zu1_zu3_zex1_zex2_ze1_ze2_zr1_zr2_pag15-20.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZEX-1",
+      "ZEX-2",
+      "ZE-1",
+      "ZE-2",
+      "ZR-1",
+      "ZR-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Resolucion 63/2003. 9 zonas via pdftotext -layout + cotejo visual. ZE-2/ZR-1/ZR-2 sin cuadro numerico propio en fuente (documentado tal cual)."
+  }
+}
