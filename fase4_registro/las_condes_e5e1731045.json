@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_e5e1731045",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4482.28dic2004.pdf",
+  "rangos": [
+    [
+      2,
+      7
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "LAS CONDES: Diario Oficial 28-dic-2004 (decreto 4.482), aprueba el Plano Seccional de la Zona de Uso de Suelo Vivienda y Oficina, PS-U-VO. Norma en p2-7, EN TEXTO PLANO (sin trampa): detalla en el Cap IV Art 40 el 'CUADRO DE USOS DE SUELO ZONA U-VO', columnas por tipo de via (local, servicio, colectora, troncal, expresa), y por cada tipo/clase (residencial, areas verdes, espacio publico, seguridad, culto y cultura, social, equipamiento deportes) las actividades permitidas y condiciones, con COS y CC incrustados en el texto de la condicion cuando aplica (ej 'ocupacion de suelo maxima de 0.4 y coeficiente de constructibilidad de 0.6').",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T15:40:00",
+  "fin": "2026-07-18T15:51:50",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_4482_2004_zona_u_vo_pag2-7.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-VO"
+    ],
+    "confianza": "ALTA",
+    "nota": "Acuerdo 102/2004. 1 zona (U-VO), cuadro estructurado por tipo de via en vez de norma unica. Via pdftotext -layout, texto nativo."
+  }
+}
