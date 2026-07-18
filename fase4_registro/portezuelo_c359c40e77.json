@@ -1,0 +1,35 @@
+{
+  "id": "portezuelo_c359c40e77",
+  "comuna": "portezuelo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\portezuelo_ordenanza_ordenanza_local_plan_regulador_comunal_de_portezuelo__prc.mod.pdf",
+  "rangos": [
+    [
+      12,
+      19
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Articulado Art.29 Cap.IV Zonificacion, Usos de Suelo y Normas Especificas. Cubre 11 zonas con normas completas (subdivision predial minima, COS, CC, agrupamiento, altura max, densidad, antejardin, usos permitidos/prohibidos): ZHM,ZHMC,ZE,ZE1(salud),ZE2(deportivo),ZPI(industrial),ZEXH-1,ZEXH-2,ZEXHMP,ZPU,ZP,ZR. Empieza pag12 Zonas del Area Consolidada, termina pag19 con ZR; pag20 Cap.V Vialidad. Desde pag21 memoria explicativa de modificacion posterior 2011 que solo cita zona ZE existente como contexto, sin tabla nueva (modificacion afecta solo plano).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:10:39",
+  "fin": "2026-07-18T19:14:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\portezuelo\\portezuelo_prc_art29_zonas_zhm_ze_zpi_zexh_zpu_zp_zr_pag12-19.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZHM",
+      "ZHMC",
+      "ZE",
+      "ZE1",
+      "ZE2",
+      "ZPI",
+      "ZEXH-1",
+      "ZEXH-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "nota_fase3 desalineada con el render real: Zonas del Area Consolidada empieza en pag15, no pag12 (pag12-14 son cierre articulado Art.23-29 sin tablas). El rango 12-19 asignado NO alcanza ZEXHMP,ZPU,ZP,ZR -- quedan fuera, en paginas posteriores no autorizadas en este reclamo. De las 12 zonas listadas en nota_fase3 solo 8 caen en el rango. ZE1 no fija COS/CC/altura/subdivision, remite a OGUC y Reglamento de Cementerios -- documentado asi, no inventado."
+  }
+}

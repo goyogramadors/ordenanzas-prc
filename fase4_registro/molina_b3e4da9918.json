@@ -1,0 +1,43 @@
+{
+  "id": "molina_b3e4da9918",
+  "comuna": "molina",
+  "ruta": "Ordenanzas ordenadas\\molina_ordenanza_ordenanza_local_plan_regulador_comunal_de_molina__Ordenaza-Local-PRC-Molina.pdf",
+  "rangos": [
+    [
+      12,
+      19
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Ordenanza Local PRC Molina (26p). Art.4.3 Normas Urbanísticas por Zona, tabla completa pp.12-19: ZU-1..ZU-7, ZE-1..ZE-6, ZAP, ZAV (COS, CC, altura, agrupamiento, predial mínima, densidad, antejardín desde ZU-2b). Zonas de Molina/Lontué/Itahue/Radal, sin comuna ajena. Excluidas pp.20-25 (vialidad estructurante, anchos de vía) y p.26 firmas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:10:39",
+  "fin": "2026-07-18T19:15:24",
+  "resultado": {
+    "archivo": "extraccion_normas\\molina\\molina_ordenanza_local_zonas_zu_ze_zap_zav_pag12-19.md",
+    "zonas": 16,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-2b",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZE-6",
+      "ZAP",
+      "ZAV"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Coincide con nota_fase3 salvo 2 matices: ZU-7 trae cuadro de usos inusualmente acotado (solo Residencial + Equipamiento Cientifico y Culto/Cultura, sin Comercio/Deporte/Educacion) -- verificado visualmente, marcado confianza MEDIA en esa seccion. ZE-2 carece de columna Tipos explicita (solo Clases). Resto de zonas y numeros nitidos en render 250dpi, sin ilegibles. ZAV sin fila de COS (solo CC) -- No especificado, no inventado. Nota: este es un documento distinto (Ordenanza Local PRC Molina, 26p) al decreto 52/2022 ya registrado para la misma comuna -- mismas 16 zonas base, corpus complementario, sin fusionar."
+  }
+}

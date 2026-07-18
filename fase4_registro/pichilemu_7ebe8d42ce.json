@@ -1,0 +1,37 @@
+{
+  "id": "pichilemu_7ebe8d42ce",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_3223_aprueba_modificacion_al_plan_regulador_comunal__publicacion1_2012.pdf",
+  "rangos": [
+    [
+      2,
+      4
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      19,
+      20
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Cuadro de Normas de Edificacion (Situacion Actual y Modificacion) para Zonas A3 y A4: densidad bruta maxima, coeficiente de constructibilidad, COS, altura maxima, rasante, sistema de agrupamiento, frente minimo, antejardin, cierros, predial minimo. El decreto exento 3223 repite el mismo contenido 3 veces en el PDF de 21 pags: (1) cuerpo del decreto pp.2-4, (2) memorandum DOM 611 adjunto pp.10-12, (3) publicacion en Diario Oficial N40.419 del 26-nov-2012 pp.19-20 -confirma que las zonas A3/A4 corresponden a Pichilemu (Municipalidad de Pichilemu explicito en encabezado), no hay comuna ajena colada. Excluidas: pp.1,9,18(?) portada/considerandos, pp.5-8,13-18,21 texto de Estudio Ambiental Estrategico y tablas de cesion de areas verdes/equipamiento/circulaciones (no son normas por zona sino porcentajes de cesion por densidad, y pp. finales de Diario Oficial contienen ordenanza de transporte de OTRA materia, cuerpo I-10, ajena a normas urbanisticas). pp.8,14,17,21 firmas/cierre.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:10:39",
+  "fin": "2026-07-18T19:15:06",
+  "resultado": {
+    "archivo": "extraccion_normas\\pichilemu\\pichilemu_3223_2012_zonas_a3_a4_pag2-4_10-12_19-20.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "A3",
+      "A4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Los 3 bloques (decreto pp.2-4, memorandum DOM 611 pp.10-12, Diario Oficial N40.419 pp.19-20) coinciden dato por dato sin discrepancias -- se uso Diario Oficial como base por mas nitido. Modificacion Zona A3 introduce Condiciones Especiales que no existian en Situacion Actual. Zona A4: Coeficiente de Constructibilidad sube de 0,8 a 1,0 con la Modificacion, baja umbral de pano de densificacion de 10.000m2 a 5.000m2. Frente Minimo omitido consistentemente en sub-tablas de condiciones especiales de densificacion (A3 y A4, Modificacion) en los 3 bloques -- No especificado, no inventado."
+  }
+}
