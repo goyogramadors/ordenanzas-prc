@@ -2,20 +2,32 @@
   "id": "angol_e76a35ae24",
   "comuna": "angol",
   "ruta": "Ordenanzas ordenadas\\OCR ok\\angol_40_gobierno_regional_de_la_araucania_promulga_actualizacion_del_plan_regulador_c__40.pdf",
-  "rangos": [[7, 13]],
+  "rangos": [
+    [
+      7,
+      13
+    ]
+  ],
   "paginas_utiles": 7,
   "nota_fase3": "Actualizacion PRC Angol (Diario Oficial 14-10-2022). p8-13=art.7, una tabla por zona: Z-1 a Z-5 y Z-AV.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
   "estado": "HECHO",
-  "sesion": "AMIGO1",
+  "sesion": "SESION4",
   "inicio": "2026-07-18T21:34:01",
   "fin": "2026-07-18T21:50:43",
   "resultado": {
-    "archivo": "extraccion_normas/angol/angol_40_2022_z1_z2_z3_z4_z5_zav_pag7-13.md",
+    "archivo": "extraccion_normas/angol/angol_actualizacion_prc_zonas_z1_a_z5_zav_pag7-13.md",
     "zonas": 6,
-    "zonas_codigos": ["Z-1", "Z-2", "Z-3", "Z-4", "Z-5", "Z-AV"],
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-AV"
+    ],
     "confianza": "ALTA",
-    "nota": "6 zonas urbanas, transcripcion 100% visual con doble pasada y zoom. Z-AV con 4 filas ausentes por corte de tabla, documentado no inventado. Anomalias reales de fuente documentadas: titulo cuadro Z-5 dice 'Densidad Media', celda Esparcimiento Z-AV tachada."
+    "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) que se cruzaron sin saberlo -- AMIGO1 quedo registrado como HECHO con archivo angol_40_2022_z1_z2_z3_z4_z5_zav_pag7-13.md (35 lineas, 2948 bytes, resumen muy condensado: solo cifras de las tablas de edificacion en prosa corrida, sin listas de usos de suelo permitidos/prohibidos). SESION4 detecto el choque al intentar pushear su registro (ya en curso, subagente no tenia forma de saberlo) y comparo ambas versiones valor por valor. RESULTADO DE LA COMPARACION: TODOS los valores numericos de las 6 zonas coinciden EXACTAMENTE entre ambas transcripciones (densidad, predial minimo, COS, CC, altura, agrupamiento, antejardin, por cada columna de uso de cada zona) -- cero discrepancia de cifra en ninguna de las 6 zonas. Ambas sesiones detectaron ademas, de forma independiente, los mismos 2 hallazgos de anomalia de fuente: (1) el titulo de la tabla de normas de Z-5 dice \"...Densidad Media\" (nombre real de Z-3) en vez de \"...Productiva\"; (2) en Z-AV la celda \"Esparcimiento\" tiene la palabra \"Todos\" tachada en el original sin resolver. Ambas coinciden tambien en que la tabla de Z-AV queda incompleta (solo 6 de 10 filas) por limite del rango de paginas entregado, no por ilegibilidad. Esta triple coincidencia independiente (cifras + 2 hallazgos + limite de rango) es evidencia solida de que ambas transcripciones son fieles a la fuente -- no hay error de contenido en ninguna. DIFERENCIA DE ALCANCE (no de exactitud, la unica razon de esta reconciliacion): la version AMIGO1 es un resumen extremadamente condensado que omite por completo las tablas de \"USOS DE SUELO PERMITIDOS / PROHIBIDOS\" de las 6 zonas (que es la mitad del contenido normativo de cada zona, con diferencias reales y no triviales entre zonas en Salud/Seguridad/Comercio/Transporte/Sanitaria) y tambien omite el cuadro completo de estandares minimos de estacionamiento (Art.5, pag.7, 28 filas transcritas integras por SESION4). Por esa diferencia de completitud sustancial (no por diferencia de exactitud, que es nula), se elige la version SESION4 como resultado canonico de este registro. El archivo de AMIGO1 se deja intacto en el repo (no se borro contenido ajeno) pero ya no es el referenciado por este registro. NOTA SUSTANTIVA DE LA EXTRACCION (SESION4): Actualizacion PRC Angol, Diario Oficial N43.376, 14-oct-2022, pag7-13 de 20. Confirmada \"trampa mixto\" de fase3 (pdftotext solo da titulos, tablas son imagen) -- incluso mas extrema en pag7 (el .txt ni siquiera da el titulo). 6 zonas confirmadas exactas a fase3 por conteo propio: Z-1 Centro Historico, Z-2 Eje Bernardo OHiggins, Z-3 Residencial Mixta Densidad Media, Z-4 Residencial Mixta Densidad Baja, Z-5 Residencial Mixta Productiva, Z-AV Area Verde. CORRECCION a fase3: la nota decia \"una pagina = una zona\" (p8=Z1...p13=ZAV) -- FALSO, cada zona ocupa ~1.5 paginas y las 6 quedan escalonadas (Z-1 en p8-9, Z-2 en p9-10, etc.), verificado tabla de correspondencia completa. HALLAZGO principal no cubierto por fase3: las tablas de usos de suelo NO son copia-pega uniforme entre zonas pese a compartir plantilla -- diferencias reales verificadas con zoom en Salud, Seguridad, Deporte/Esparcimiento (Z-5 los simplifica a \"Todos\" a diferencia de las otras 5), Transporte (Z-5 permite instalaciones aeroportuarias, las demas no) y Sanitaria (Z-3 permite rellenos sanitarios, las demas no) -- documentado que una fase posterior no debe asumir uniformidad entre zonas similares. Erratas [sic] preservadas: GASEODUCTO (Z-3), 1CADA sin espacio (p7), titulo Z-5 con nombre de Z-3, tachado sin resolver en Z-AV. 0 trampa comuna ajena (verificado ademas que el codigo de laminas PRC 09201 coincide con el codigo INE real de Angol). Dato no determinable usado unicamente en Z-AV (4 filas finales de su tabla de normas, fuera del rango de paginas entregado, no por ilegibilidad). Confianza alta uniforme en las 7 paginas."
   }
 }
