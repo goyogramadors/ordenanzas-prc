@@ -1,0 +1,46 @@
+{
+  "id": "el_tabo_415b478242",
+  "comuna": "el_tabo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_tabo_ordenanza_aprueba_ordenanza_plano_regulador__pdo.pdf",
+  "rangos": [
+    [
+      7,
+      12
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Diario Oficial N38.144 (25.04.2005), Ordenanza Local del PRC de El Tabo, Balnearios El Tabo y Las Cruces (100% escaneado pero legible). Tablas de normas por zona pp.7-12 (impresas pag.10-15): Z1/Z2 (predial 200m2, frente 10m, ocupacion 100%, densidad 120 hab/ha, CC vivienda 2.0/otros 2.5, agrupacion aislado-continuo, altura 10m, rasante 60), Z3-Z8, ZI-1/ZI-2 (predial 500m2, CC 1.0), ZE-1..ZE-5, ZR-1..ZR-4, mas tabla de fajas de restriccion de esteros/quebradas en p.11. Sin mezcla de otra comuna (encabezados Balneario El Tabo/Las Cruces consistentes). Excluidas pp.13-14: solo tablas de vialidad (anchos de calle).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T20:18:16",
+  "fin": "2026-07-18T14:51:32",
+  "resultado": {
+    "archivo": "extraccion_normas/el_tabo/el_tabo_ordenanza_zonas_z1_a_z8_zi1_zi2_ze1_a_ze5_zr1_a_zr4_pag7-12.md",
+    "zonas": 19,
+    "zonas_codigos": [
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "Z5",
+      "Z6",
+      "Z7",
+      "Z8",
+      "ZI-1",
+      "ZI-2",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza PRC El Tabo (balnearios El Tabo y Las Cruces), DO 38144 25-abr-2005, pag7-12 (impresas 10-15, desfase +3 confirmado en encabezado de cada pagina). Documento escaneado pero muy legible, .txt de apoyo vacio (1 caracter, sin OCR aprovechable) -- 100% transcrito desde imagen con zoom hasta 8x. 19 zonas confirmadas exactas a fase3: Z1-Z8 (Z1/Z2 comparten UNA sola tabla, titulo conjunto 'Zona Z1 Central El Tabo y Zona Z2 Central Las Cruces'), ZI-1/ZI-2, ZE-1 a ZE-5, ZR-1 a ZR-4. DISCREPANCIA NUMERICA CONFIRMADA importante: fase3 decia ZI-1/ZI-2 comparten predial 500m2 -- FALSO, ZI-1=500m2 pero ZI-2=10.000m2 (20x mayor), verificado 2 veces con zoom, resto de parametros si coinciden (CC1.0, aislado, rasante45, distanciamiento10m). Precision (no error) sobre Z1/Z2: fase3 decia agrupamiento 'aislado-continuo' -- el campo explicito dice solo 'Continuo', el 'aislado' viene de una fila separada (altura edificacion aislada SOBRE la continua, regida por rasante) no es un segundo valor del campo agrupamiento. Patron CC vivienda-vs-otros-usos confirmado tambien en Z3 y Z8 (no exclusivo de Z1/Z2 como sugeria fase3). HALLAZGO no cubierto por fase3: Z3 tiene sub-norma completa separada para 'Campamentos turisticos o campings' (predial5000m2/frente50m/ocup25%/densidad200/CC0.8/aislado/1piso/antejardin5m/distancia5m), Z7 remite explicitamente a esa misma sub-norma para sus propios campings. HALLAZGO: de las 5 zonas ZE, solo ZE-1 y ZE-2 tienen cuadro numerico -- ZE-3(proteccion forestal) y ZE-4(proteccion dunas) son zonas de proteccion sin norma de edificacion, ZE-5(cementerio) remite integramente a normativa sanitaria externa. HALLAZGO: ZR-1 tiene listado breve de usos, ZR-3/ZR-4 no tienen listado de usos en absoluto (solo tabla numerica) y ademas tienen la MISMA tabla numerica letra por letra (2500m2/10%/Aislado/0.1/12m/10m/no permite), verificado 2 veces por separado para descartar duplicacion propia -- son asi en el original. Tabla completa de fajas de restriccion esteros/quebradas (dentro de ZR-2) transcrita integra: 23 filas (11 Balneario El Tabo + 12 Las Cruces). Unico Dato no determinable de todo el documento: fila Estero El Canelo, texto fisicamente cortado en margen derecho del escaneo (verificado con zoom 2.8x, no es problema de nitidez). Confirmado cierre limpio hacia Cap.V Vialidad (empieza ya en la misma pag12/ultima del rango, columna derecha) y ausencia de trampa comuna ajena (encabezados DO correlativos, contenido 100% El Tabo/Las Cruces). NOTA: este subagente file fallo por limite de sesion API justo despues de escribir el archivo completo (verificado leyendo el archivo integro antes de aceptar, no solo el resumen del subagente)."
+  }
+}
