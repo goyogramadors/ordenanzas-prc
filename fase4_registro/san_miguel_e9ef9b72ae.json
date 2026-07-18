@@ -1,1 +1,41 @@
-PLACEHOLDER_WILL_NOT_BE_USED
+{
+  "id": "san_miguel_e9ef9b72ae",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_2401_aprueba_nuevo_plan_regulador_comuna_de_san_miguel__DECRETO 2401 28-11-2005 ok.pdf",
+  "rangos": [
+    [
+      6,
+      11
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Dec.2401/2005 (DO) Aprueba NUEVO PRC San Miguel. p1-5 vistos/considerandos (tramite, excluidos). p6 Cap.IV Tipologia y Escalas Equipamiento + inicio Cap.V 'Definicion de Zonificacion, Usos del Suelo y Normas Especificas' art.25 (lista zonas ZU-1 a ZU-5, EC-1 a EC-3). p6-10 desarrollo de cada zona con usos permitidos/prohibidos y Condiciones de Subdivision y Edificacion (predial min, altura, densidad, agrupamiento, antejardin, rasante) en TEXTO extraible. p11 tabla de vialidad (calles/anchos) + articulos finales (vigencia, derogacion Dec.916/1951, publicacion) - incluida por continuidad aunque la tabla vial no es norma de zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T16:41:20",
+  "fin": "2026-07-18T21:17:55",
+  "resultado": {
+    "archivo": "extraccion_normas/san_miguel/san_miguel_2401_2005_zu_em_ec_ich_pag6-11.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "EM-1",
+      "EM-2",
+      "EM-3",
+      "EM-4",
+      "EC-1",
+      "EC-2",
+      "EC-3",
+      "ICH"
+    ],
+    "confianza": "ALTA",
+    "nota": "14 zonas/areas. Documento a 2 columnas: pdftotext -layout desordena texto de columnas en tablas extensas, se reverifico visualmente 100% con render 200dpi para atribuir correctamente cada cuadro a su zona, incl. zoom en transiciones ZU-3/ZU-4/ZU-5/EM-1. Un bloque de disposiciones antes de ZU-5 no se pudo atribuir con certeza absoluta (ZU-3 vs ZU-4), documentado como caveat explicito en vez de asignarlo silenciosamente. ZU-6 sin usos/cuadro (solo limites geograficos). ICH remite a zona circundante, sin cuadro propio. Incluye Art.26 AR-1 a AR-4."
+  }
+}
