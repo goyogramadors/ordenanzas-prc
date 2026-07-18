@@ -17,7 +17,7 @@
   "inicio": "2026-07-18T18:13:55",
   "fin": "2026-07-18T18:21:35",
   "resultado": {
-    "archivo": "extraccion_normas\\mejillones\\mejillones_2150_zonas_c1-c5_u1-u8_eu_er_e_ap_pag3-9.md",
+    "archivo": "extraccion_normas/mejillones/mejillones_2150_zonas_c1-c5_u1-u8_eu_er_e_ap_pag3-9.md",
     "zonas": 28,
     "zonas_codigos": [
       "C1",
@@ -50,6 +50,6 @@
       "AP"
     ],
     "confianza": "MEDIA",
-    "nota": "Zona C6 nombrada en Art.25.1 pero sin ficha propia en pp.3-9 (salta de C5 a AV) -- documentada sin cuadro, no inventada. AP no es zona edificable, es macro-area; sus zonas reales son P1/P2 (uso remitido a naturaleza portuaria, sin cuadro subdivision/edificacion). EU5,ER1,ER2,ER4,E1,E2,E3 sin cuadro de subdivision (uso restringido/prohibido por definicion) -- documentados solo usos. U4 sin fila Antejardin (confirmado por salto de pagina). U5 muestra Altura minima 3mts literal, menor que otras zonas U -- transcrito tal cual sin corregir. Confianza MEDIA por estos 3 hallazgos que difieren de nota_fase3."
+    "nota": "Zona C6 nombrada en Art.25.1 pero sin ficha propia en pp.3-9 (salta de C5 a AV) -- documentada sin cuadro, no inventada. AP no es zona edificable, es macro-area; sus zonas reales son P1/P2 (uso remitido a naturaleza portuaria, sin cuadro subdivision/edificacion). EU5,ER1,ER2,ER4,E1,E2,E3 sin cuadro de subdivision (uso restringido/prohibido por definicion) -- documentados solo usos. U4 sin fila Antejardin (confirmado por salto de pagina). U5 muestra Altura minima 3mts literal, menor que otras zonas U -- transcrito tal cual sin corregir. Confianza MEDIA por estos 3 hallazgos que difieren de nota_fase3. RECONCILIACION: AMIGO1 reclamo y transcribio este mismo documento en paralelo (colision de reclamo por asincronia git). Hallazgos consistentes entre ambas transcripciones independientes (28 zonas, C6 sin desarrollar, AP=macro-area de P1/P2, U4 sin antejardin) -- buena senal de confiabilidad cruzada. AMIGO1 aporto 2 datos que esta version no tenia: zonas EU/ER3 citan Art.14 (no Art.18) y U7 usa unidad 'mts' en vez de 'm' -- ambos pendientes de verificar en una revision futura si se retoma este documento. El archivo que AMIGO1 registro (extraccion_normas/mejillones/mejillones_2150_2000_pag3-9.md) nunca llego a subirse al repo -- se mantiene este resultado (GREGO1) como canonico por ser el unico con archivo real presente."
   }
 }

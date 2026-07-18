@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_ed8c68a432",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4485.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      7
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Dec.4485/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Vivienda 2 (PS-U-V2) y DETALLA el art.40 del PRC Las Condes con el cuadro de usos de suelo de la zona U-V2 en TEXTO extraible (4 apariciones del cuadro). Mismo formato que la serie U-C2/U-C3/U-Ee2/U-V/U-V3 ya registrada.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T22:12:48",
+  "fin": "2026-07-18T22:19:19",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_do4485_2004_uv2_pag1-7.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-V2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 4485/2004, Plano Seccional PS-U-V2, detalla Art.40 con cuadro de usos de suelo de zona U-V2. El cuadro aparece en 4 bloques con encabezado repetido pero verificado que son complementarios (filas distintas, no duplicados) -no 4 copias como sugeria nota Fase3-. Cuadro completo por actividad x 5 categorias de via (local/servicio/colectora/troncal/expresa). Confirmado explicitamente que NO hay cuadro de condiciones de edificacion (COS/CC/altura) general para la zona en este documento -busqueda de texto completo sin 'altura'/'rasante'/'antejardin'-; solo COS/CC embebidos por actividad (0.4/0.4 en general, 0.4/0.6 para oficinas). Sigla 'SR' interpretada como Sin Restriccion por convencion de decretos gemelos ya registrados (N4478/4479/4483), documentado como inferencia explicita no confirmada en el propio texto."
+  }
+}

@@ -17,7 +17,7 @@
   "inicio": "2026-07-18T18:13:55",
   "fin": "2026-07-18T18:20:47",
   "resultado": {
-    "archivo": "extraccion_normas\\molina\\molina_52_2022_zonas_zu_ze_zap_zav_pag15-21.md",
+    "archivo": "extraccion_normas/molina/molina_52_2022_zonas_zu_ze_zap_zav_pag15-21.md",
     "zonas": 18,
     "zonas_codigos": [
       "ZU-1",
@@ -40,6 +40,6 @@
       "ICH"
     ],
     "confianza": "ALTA",
-    "nota": "Confirmada trampa (tablas por zona en imagen dentro de PDF nativo Diario Oficial 2022). Zona adicional no listada en nota_fase3: ZU-2b. ZPL e ICH NO son alias de ZAV como sugeria la nota, son categorias de proteccion aparte (ZPL: areas protegidas por decreto externo sin COS/altura; ICH: listado numerado de inmuebles patrimoniales ICH1-11 visibles en el rango, catalogo continua mas alla de p21). ZAV sin fila de COS en el render, solo constructibilidad/altura/agrupamiento/antejardin -- transcrito tal cual."
+    "nota": "Confirmada trampa (tablas por zona en imagen dentro de PDF nativo Diario Oficial 2022). Zona adicional no listada en nota_fase3: ZU-2b. ZPL e ICH NO son alias de ZAV como sugeria la nota, son categorias de proteccion aparte (ZPL: areas protegidas por decreto externo sin COS/altura; ICH: listado numerado de inmuebles patrimoniales ICH1-11 visibles en el rango, catalogo continua mas alla de p21). ZAV sin fila de COS en el render, solo constructibilidad/altura/agrupamiento/antejardin -- transcrito tal cual. RECONCILIACION: AMIGO1 reclamo y transcribio este mismo documento en paralelo (colision de reclamo por asincronia git); resultado 100% convergente (mismas 18 zonas, mismo hallazgo de ZU-2b, misma nota de ICH incompleta mas alla de p21) -- alta confianza cruzada. AMIGO1 aporto un dato adicional util: ZU-2b fue verificada cruzando contra el decreto N2922/2023. Se mantiene este archivo (GREGO1) como canonico y se descarta el duplicado de AMIGO1 (extraccion_normas/molina/molina_52_2022_zu_ze_zap_zav_pag15-21.md) para cumplir la regla de un documento, un Markdown."
   }
 }
