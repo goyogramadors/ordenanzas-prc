@@ -1,0 +1,42 @@
+{
+  "id": "villarrica_1de66da8b5",
+  "comuna": "villarrica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\villarrica_resolucion_47_modifica_plan_regulador_comunal_de_villarrica__modificacion_ordenanza_local_2003.pdf",
+  "rangos": [
+    [
+      2,
+      7
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Resolucion 47/2003 (SEREMI Vivienda IX Region) modifica PRC Villarrica: 'Ampliacion Limites Urbanos y Zonas Z-4, Z-4E, ZE-5, ZE-5A, ZR-1A, SZ-1b, Z-2, Z-3, Z-2E'. TODO EN TEXTO REAL, disperso en varios articulos: p2-4 coordenadas de limite urbano (excluido, es deslinde). p5-6: art.12 modifica cuadro de zonas, agrega ZE-5A; G.6-G.8: agrega usos de suelo permitidos en Z-2/Z-2E/Z-4/Z-4E/ZE-5/ZE-6; SUSTITUYE en ZE-5 la Altura Maxima de Edificacion de 12 a 21 m; crea nueva ZONA ZE-5A con Usos del Suelo y Superficie/Frente Predial Minimo. p7: normas de Portales/Marquesinas para SZ-1a/SZ-1b, distanciamiento Z-2/Z-2E, Paseo Peatonal Camino a Freire 10 m.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-18T16:28:57",
+  "fin": "2026-07-18T21:11:50",
+  "resultado": {
+    "archivo": "extraccion_normas/villarrica/villarrica_res47_modificaciones_z4_z4e_ze5_ze5a_zr1a_sz1b_z2_z3_z2e_pag2-7.md",
+    "zonas": 15,
+    "zonas_codigos": [
+      "Z-2",
+      "Z-2E",
+      "Z-3",
+      "Z-4",
+      "Z-4E",
+      "ZE-5",
+      "ZE-5A",
+      "ZR-1A",
+      "SZ-1a",
+      "SZ-1b",
+      "ZE-6",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZEE"
+    ],
+    "confianza": "ALTA",
+    "nota": "Resolucion 47/2003 (Gob. Regional Araucania), modifica PRC Villarrica, pag2-7 de 7 -- documento tipo \"modificacion puntual\" (patron ya visto en Quinta Normal/Rengo Res.557/Santiago Decreto138), NO cuadros completos de zona. 17 letras/sub-letras identificadas (A a L, sin I/J/K -- confirmado que el original salta de H a L sin paginas faltantes). A y B son deslinde puro de limite urbano (excluido). 15 restantes transcritas en detalle: C/D/E/F (Art.10/11/12/22) insertan codigo \"ZE-5A\" a continuacion de \"ZE-5\"; G.1 sustituye material fachada metal por cobre; G.2 prohibe planchas de Zinc en 11 zonas (SZ-1a,SZ-1b,Z-2,Z-2E,ZE-5,ZE-5A,ZE-6,ZH-1,ZH-2,ZH-3,ZEE); G.3 Portales(SZ-1a obligatorio)/Marquesinas(SZ-1b condicional); G.4-G.5 sustituyen distanciamiento/rasante Z-2/Z-2E; G.6 agrega uso \"Juzgados\" en Z-4/Z-4E; G.7 agrega uso \"Oficinas en General\" en Z-2/Z-2E/Z-4/Z-4E/ZE-5/ZE-6; G.8 sustituye Altura Maxima ZE-5 de 12 a 21m (verificado con zoom); G.9 crea zona ZE-5A completa (predial 4.000m2, frente 35m, ocupacion 10%, aislado, altura 9m, remite a OGUC para rasantes/distanciamiento); H (Art.26) agrega 11 vias estructurantes incluida \"Paseo Peatonal Camino a Freire\" 10m; L modifica Art.9 de la Resolucion N1/1996-1998 (documento hermano villarrica_res1), sustituyendo en ZH-1 Altura de 5 a 10 -- CRUCE DE VALIDACION verificado: el propio villarrica_res1...md ya registraba nota marginal \"RES 47, GOB.REG.ARAUCANIA, N1 L.-, D.O. 08.05.2003\" confirmando la cifra 10, la unidad \"pisos\", y la fecha de publicacion de esta Resolucion47 (08-may-2003). DISCREPANCIAS vs fase3: (1) modificaciones puntuales no arrancan en p5-6 sino que letra C ya esta completa en p4; (2) fase3 atribuye Portales/Marquesinas SZ-1a/SZ-1b y distanciamiento Z-2/Z-2E a p7, en realidad ambas estan en p5 -- solo Paseo Peatonal esta efectivamente en p7; (3) \"G.6-G.8 agrega usos de suelo\" agrupa impreciso: G.6/G.7 si agregan usos, G.8 sustituye guarismo de altura (no es error de fondo, fase3 lo aclara en frase siguiente, pero la agrupacion es imprecisa). HALLAZGOS no cubiertos por fase3: letra L completa (conexion directa verificable con villarrica_res1, la mas significativa); tabla completa Art.26 con 10 filas viales adicionales; G.1 y G.2 (Zinc, conecta con 4 zonas de la Resolucion N1); erratum [sic] en G.6 \"para las Zona Z-4 y Zona Z-4E\". ZE-6 confirmado codigo real y distinto (no errata de ZE-5), verificado 2 veces contra imagen en G.2 y G.7 -- no aparece en el listado de ampliacion de limites porque ese listado es solo ajuste GEOGRAFICO, mientras G.2/G.7 son normas de uso/material extendidas a zonas adicionales sin tocar su limite. 0 trampa comuna ajena (firma Intendente/Secretario Ejecutivo CORE Araucania, topos locales consistentes). 0 Dato no determinable. Doble corroboracion cruzada con villarrica_res1...md. Confianza alta uniforme en las 6 paginas."
+  }
+}
