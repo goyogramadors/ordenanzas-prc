@@ -1,0 +1,33 @@
+{
+  "id": "tolten_6c1d046394",
+  "comuna": "tolten",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tolten_ordenanza_la_presente_ordenanza_local_contiene_las_normas_referentes_a_limite_ur__download.aspx.pdf",
+  "rangos": [
+    [
+      6,
+      11
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Ordenanza Local PRC Tolten independiente (mismo contenido normativo que tolten_3f8d1ae78d pero archivo separado sin el decreto de promulgación): pág6-11 zonas ZMC, ZM2, ZM3, ZM4, ZE, ZAV con usos permitidos/prohibidos y condiciones edificación/subdivisión completas; texto nativo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T16:41:20",
+  "fin": "2026-07-18T21:08:42",
+  "resultado": {
+    "archivo": "extraccion_normas/tolten/tolten_6c1d046394_zmc_zm_ze_zav_pag6-11.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "ZMC",
+      "ZM2",
+      "ZM3",
+      "ZM4",
+      "ZE",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "6 zonas completas, texto nativo pdftotext sin ambiguedad. Documento equivalente/redundante en contenido con tolten_3f8d1ae78d ya transcrito (mismo articulado, distinta paginacion por ausencia de decreto de promulgacion), verificado zona por zona contra ese archivo, sin diferencias de fondo (solo 2 diferencias menores de forma documentadas). Incluye Art.8 areas de riesgo AR-1 a AR-4 y Art.9 inmueble de conservacion historica."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "san_carlos_c6a4e1b97f",
+  "comuna": "san_carlos",
+  "ruta": "Ordenanzas ordenadas\\san_carlos_39577_plan_regulador_comunal_de_san_carlos_ordenanza_local__OrdenanzaDiarioOficial.pdf",
+  "rangos": [
+    [
+      6,
+      11
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "DO 03-02-2010, 'Promulga Plan Regulador Comunal de San Carlos' — Ordenanza Local completa (11p). P1-5: Titulo I-III (disposiciones generales, limite urbano por coordenadas UTM, cuadros de vialidad estructurante) sin normas de zona. P6-7: Titulo IV Cap.I condiciones generales de edificacion (adosamiento, rasantes, antejardin, estacionamientos) y Cap.II usos de suelo generales. P8-11 (paginas DO 29-32): TITULO V zonificacion completa con tabla USOS DE SUELO + tabla EDIFICACION (superficie predial minima, coef ocupacion, coef constructibilidad, altura maxima, sistema agrupamiento, altura maxima continuidad, adosamiento, antejardin, densidad habitacional) para 13 zonas: ZHMC, ZH-1, ZH-2, ZH-3, ZE, ZED, ZES, ZP1, ZP2, ZEH-1, ZEH-2, ZET, ZPD. Documento de alta calidad y completo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T16:41:20",
+  "fin": "2026-07-18T21:08:31",
+  "resultado": {
+    "archivo": "extraccion_normas/san_carlos/san_carlos_39577_2010_13zonas_pag6-11.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "ZHMC",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZE",
+      "ZED",
+      "ZES",
+      "ZP1",
+      "ZP2",
+      "ZEH-1",
+      "ZEH-2",
+      "ZET",
+      "ZPD"
+    ],
+    "confianza": "ALTA",
+    "nota": "13 zonas completas (usos + condiciones de edificacion), verificado visual 200dpi con recortes ampliados 2x en cada cuadro. Documento sin capa de texto, pdftotext no extrae nada. Caveats explicitos: celdas vacias/guiones en ZE/ZES/ZET documentadas tal cual, rotulo 'ZET-D' vs 'ZET' documentado como probable error de diagramacion, diferencia real ZH-2 sin excepcion discotecas vs otras ZH. ZPD sin cuadro, solo remision a Art 25-26."
+  }
+}
