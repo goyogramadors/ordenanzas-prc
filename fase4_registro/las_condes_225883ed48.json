@@ -1,0 +1,29 @@
+{
+  "id": "las_condes_225883ed48",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Mem.Explicativa_dec.966-2014.pdf",
+  "rangos": [
+    [
+      5,
+      11
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Memoria Explicativa, Rectificacion al Proyecto de Modificacion N8 al PRC de Las Condes (ene-2014). Pagina 6: tabla completa de rectificacion de ANTEJARDINES por via (Nombre de la Via, Desde, Hasta, Incremento en metros, Costado). Pagina 10: tabla de VIALIDAD INTERCOMUNAL Y COMUNAL (Clasificacion, Ancho Minimo Linea Oficial, N Pistas, Distancia Eje a L.O. Norte/Sur/Oriente/Poniente, Afectacion a Utilidad Publica). Pagina 9 texto menciona que existen tablas de coeficiente de ocupacion de suelo, coeficiente de constructibilidad y altura maxima de edificacion 'por las distintas areas de edificacion' pero esas tablas NO estan transcritas en este documento (se citan por referencia). Verificado visualmente paginas 1-3, 6, 9, 10, 14 de 14.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T21:34:01",
+  "fin": "2026-07-18T21:50:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_mod8_memoria_antejardines_vialidad_pag5-11.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "Antejardines-por-via",
+      "Vialidad-Troncal-y-Colectora"
+    ],
+    "confianza": "ALTA",
+    "nota": "Documento atipico: Memoria Explicativa de rectificacion al Proyecto Mod.N8 PRC Las Condes, NO es ordenanza de zonificacion. Formato adaptado (no ficha por zona): confirma explicitamente que las tablas COS/CC/altura NO estan en el rango 5-11 (unica mencion es referencial en pag.10), hallazgo documentado en vez de asumir su ausencia sin verificar. Contiene 2 cuadros tecnicos completos transcritos 100% visual: antejardines por via (~70 filas, incl. fila 'Nevria' tachada en el original correspondiente a correccion del punto 1.8) y vialidad troncal/colectora (Cuadro 1 completo, Cuadro 2 truncado al final del rango, documentado como truncamiento no omision). Validacion cruzada positiva contra las_condes_do966_rectificacion_antejardin_tablac_art41_pag3-6.md ya registrado (mismas 7 calles agregadas coinciden)."
+  }
+}
