@@ -1,0 +1,38 @@
+{
+  "id": "antofagasta_e4293f7436",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antofagasta_145_modifica_plan_regulador_comunal_de_antofagasta__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      11
+    ],
+    [
+      16,
+      16
+    ],
+    [
+      20,
+      20
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "Modificacion PRC Antofagasta (Decreto 145, 20 pags, mixto). p4,6,8,10: cuadros TABLA-IMAGEN de ESTACIONAMIENTOS minimos por tipo de uso (vivienda, salud, educacion, deportivo, comercio, talleres, industria) -- organizados por uso, no por zona. p11: tabla real insertada (fila CC') con columnas Zona/predial min/ocupacion max/CC max/agrupamiento/altura max/pisos max/distanciamiento/continuidad-pareo/rasante/antejardin min -- tabla de norma por zona completa. p16: CONDICIONES DE EDIFICACION ZONA C1Bc, tabla completa (altura max/min, rasante, CC, ocupacion, predial min, adosamiento/pareo, antejardin, distanciamiento, agrupamiento). p20: otra tabla completa (letras a-j) para nueva zona agregada al art.62/63. OJO: p12-15 y p17-19 son NARRATIVAS ('reemplacese en cuadro de Zonas Consolidadas, fila Cx, columna Y...') que modifican un cuadro base que NO esta reproducido en este PDF -- no confundir esas paginas con la tabla maestra, son parches sin la tabla completa de referencia.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:32:15",
+  "fin": "2026-07-18T19:39:12",
+  "resultado": {
+    "archivo": "extraccion_normas\\antofagasta\\antofagasta_145_zonas_cc_c1bc_zona_nueva_pag4-11_16_20.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "CC-prima",
+      "C1Bc",
+      "zona-sin-codigo-pag20"
+    ],
+    "confianza": "MEDIA",
+    "nota": "nota_fase3 decia fila CC en pag11, el render muestra literalmente CC' (zona nueva intercalada, una sola fila, no varias zonas). Zona de pag20 sin codigo identificable: su encabezado esta en pag17-19 (fuera del rango autorizado, zona narrativa de parches sin tabla base). Verificacion manual del orquestador en pag19-20: pag19 es integramente texto de reemplazo articulo por articulo (sin tabla ni encabezado de zona nueva), pag20 solo trae la tabla a-j seguida de 3.-Apruebese el siguiente nuevo plano: EPRCA-01 -- eso es el nombre de un PLANO cartografico nuevo, no confirmado como codigo de zona, se dejo sin inferir por rigor. Cuadros de estacionamientos (pag4-10) documentados como 2 cuadros distintos por inferencia del texto, no confirmado contra pag1-3 fuera de rango -- confianza MEDIA declarada explicita. 2 celdas ilegibles/dudosas marcadas en el archivo (tramo >12.000m2 pag7, fila Agrupacion Comercial 200-500m2 pag9-10 con texto aparentemente duplicado)."
+  }
+}

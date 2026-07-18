@@ -1,0 +1,37 @@
+{
+  "id": "vina_del_mar_0d3e0cd3f2",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vina_del_mar_10404_promulga_modificacion_al_plan_regulador_comunal_de_vina_del_mar__20180427132635-0310404.pdf",
+  "rangos": [
+    [
+      9,
+      17
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "Modificacion PRC sector Santa Ines (V7/E5). Pag9-11: Cuadro Zona V7 y Zona E5 (usos+condiciones subdivision/edificacion: superficie predial min, COS, coef.constructibilidad, agrupamiento, altura, antejardin) + Cuadro N8 (constructibilidad/densidad por rango predial zonas V7/E3/E5/E5E art.17). Pag12-14: crea 8 subzonas (E5-A,E5-B,V7-A,V7-B,E5-ZCH-1,E5-ZCH-2,V7-ZCH-3,V7-ZCH-4) Cuadro N9 resumen. Pag14-17 Ordenanza Local Art.16-17 modificados con condiciones detalladas por las 8 subzonas nuevas. Verificado render pag9,11,16: texto coincide exacto, imagenes son planos/fotos aereas no tablas ocultas. Pag1-8 solo antecedentes/diagnostico.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T19:32:15",
+  "fin": "2026-07-18T19:35:56",
+  "resultado": {
+    "archivo": "extraccion_normas\\vina_del_mar\\vina_del_mar_10404_santa_ines_v7_e5_subzonas_pag9-17.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "V7",
+      "E5",
+      "E5-A",
+      "E5-B",
+      "V7-A",
+      "V7-B",
+      "E5-ZCH-1",
+      "E5-ZCH-2",
+      "V7-ZCH-3",
+      "V7-ZCH-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Texto y render coinciden exactamente en las 4 paginas verificadas visualmente (9,11,16,17), sin trampa de imagen. E3 y E5E solo mencionadas en Cuadro N8 compartido (art.17 PRC2002) sin ficha propia de usos/edificacion en el rango -- no forman parte del sector Santa Ines de este documento, no es brecha. Dos vacios menores del propio original: E5-A omite literal a) Vivienda del COS, V7-B no trae punto de COS -- documentados como no especificado en el original, no inventados."
+  }
+}
