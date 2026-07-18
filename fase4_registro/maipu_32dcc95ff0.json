@@ -1,0 +1,28 @@
+{
+  "id": "maipu_32dcc95ff0",
+  "comuna": "maipu",
+  "ruta": "Ordenanzas ordenadas\\maipu_1984_primera_modificacion_al_plan_regulador_comunal_2004_sector_el_almendral__Publ_diario_decreto_1984_05_2007.pdf",
+  "rangos": [
+    [
+      1,
+      7
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Documento duplica el mismo decreto 1984/2007 dos veces. Pag1-4 (escaneadas, copia limpia productos.doe.cl): pag3 tabla completa 'Condiciones de edificacion y subdivision' columna ZE-12 (superficie predial minima, COS, coef.constructibilidad, altura max, agrupamiento, rasante, distanciamiento, adosamiento), pag4 cierra tabla (antejardin minimo, densidad habitacional) + firma. Pag5-7 edicion completa Diario Oficial 05-06-2007: pag7 repite mismo decreto/tabla ZE-12 + cuadro resumen 13 predios modificados, Art.41 Zonas de Uso Especial PRC Maipu. Preferir extraccion de pag3-4 (version limpia), usar 5-7 como respaldo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T22:12:48",
+  "fin": "2026-07-18T22:16:26",
+  "resultado": {
+    "archivo": "extraccion_normas/maipu/maipu_1984_2007_ze12_pag1-7.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE-12"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 1984/2007, crea zona ZE-12 (Equipamiento Exclusivo El Almendral) en el Art.41 Zonas de Uso Especial. Documento duplicado 2 veces (paginas 1-4 copia limpia productos.doe.cl vs 5-7 Diario Oficial N38.780) - verificadas ambas versiones, identicas valor por valor, sin discrepancias. Cuadro completo: predial 1000m2, COS 0.8, CC 4, altura 30m/8 pisos (Av.Rinconada) o 14m/4pisos (calle Maipu/Olimpo), rasante 70, distanciamiento 5m, antejardin 5m. Densidad habitacional sin valor (guion en el original, documentado no interpretado como cero). Incluye cuadro resumen de 13 predios modificados (55.568 m2 total) por completitud."
+  }
+}
