@@ -1,0 +1,21 @@
+{
+  "id": "las_condes_225883ed48",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\las_condes_Mem.Explicativa_dec.966-2014.pdf",
+  "rangos": [[5, 11]],
+  "paginas_utiles": 7,
+  "nota_fase3": "Memoria Explicativa, Rectificacion Mod.N8 PRC Las Condes. Tabla antejardines (pag6) + tabla vialidad (pag10). Posible ausencia de tablas COS/CC/altura a verificar.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T21:34:01",
+  "fin": "2026-07-18T21:50:43",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_mod8_memoria_antejardines_vialidad_pag5-11.md",
+    "zonas": 2,
+    "zonas_codigos": ["Antejardines-por-via", "Vialidad-Troncal-y-Colectora"],
+    "confianza": "ALTA",
+    "nota": "Documento atipico (Memoria, no ordenanza). Confirma explicitamente ausencia de tablas COS/CC/altura en el rango. 2 cuadros tecnicos completos: antejardines (~70 filas, incl. fila Nevria tachada) y vialidad (Cuadro1 completo, Cuadro2 truncado). Validacion cruzada positiva con archivo ya registrado."
+  }
+}

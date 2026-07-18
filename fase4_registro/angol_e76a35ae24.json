@@ -1,0 +1,21 @@
+{
+  "id": "angol_e76a35ae24",
+  "comuna": "angol",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\angol_40_gobierno_regional_de_la_araucania_promulga_actualizacion_del_plan_regulador_c__40.pdf",
+  "rangos": [[7, 13]],
+  "paginas_utiles": 7,
+  "nota_fase3": "Actualizacion PRC Angol (Diario Oficial 14-10-2022). p8-13=art.7, una tabla por zona: Z-1 a Z-5 y Z-AV.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T21:34:01",
+  "fin": "2026-07-18T21:50:43",
+  "resultado": {
+    "archivo": "extraccion_normas/angol/angol_40_2022_z1_z2_z3_z4_z5_zav_pag7-13.md",
+    "zonas": 6,
+    "zonas_codigos": ["Z-1", "Z-2", "Z-3", "Z-4", "Z-5", "Z-AV"],
+    "confianza": "ALTA",
+    "nota": "6 zonas urbanas, transcripcion 100% visual con doble pasada y zoom. Z-AV con 4 filas ausentes por corte de tabla, documentado no inventado. Anomalias reales de fuente documentadas: titulo cuadro Z-5 dice 'Densidad Media', celda Esparcimiento Z-AV tachada."
+  }
+}

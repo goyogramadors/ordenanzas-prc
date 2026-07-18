@@ -1,0 +1,21 @@
+{
+  "id": "cauquenes_bc983b59f8",
+  "comuna": "cauquenes",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cauquenes_decreto_500_apruebase_la_ordenanza_local_plan_regulador_comunal_de_cauquenes__6ae85605-5cc1-4792-b5e8-5697f80d2aca.pdf",
+  "rangos": [[18, 24]],
+  "paginas_utiles": 7,
+  "nota_fase3": "CAUQUENES: Decreto 500, Ordenanza Local del PRC. Cap V Art 24, p18-24: 15 zonas/entradas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T21:34:01",
+  "fin": "2026-07-18T21:44:42",
+  "resultado": {
+    "archivo": "extraccion_normas/cauquenes/cauquenes_500_zm_zh_ze_zap_zi_zav_zne_zri_zch_pag18-24.md",
+    "zonas": 15,
+    "zonas_codigos": ["ZM1", "ZM2", "ZM3", "ZH1", "ZH2", "ZH3", "ZE1", "ZE2", "ZAP", "ZI", "ZAV", "ZNE", "ZRI1", "ZRI2", "ZCH"],
+    "confianza": "ALTA",
+    "nota": "15 zonas, escaneado sin capa de texto, 100% visual. Filas ausentes de antejardin/densidad documentadas. ZE2/ZAV/ZNE/ZRI1 sin cuadro propio. ZRI2 remite a ZM2 (verificado). ZCH con unico parametro numerico (altura 10m)."
+  }
+}
