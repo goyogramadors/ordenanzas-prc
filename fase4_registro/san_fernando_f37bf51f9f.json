@@ -1,0 +1,42 @@
+{
+  "id": "san_fernando_f37bf51f9f",
+  "comuna": "san_fernando",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_fernando_1698_plan_regulador_y_ordenanza_municipal__Exportar.pdf",
+  "rangos": [
+    [
+      14,
+      19
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "!!ALERTA CRITICA (patron ya visto en Quinta de Tilcoco)!! El CUADRO NUMERICO PRINCIPAL (superficie predial minima, COS, coef. constructibilidad, altura, agrupamiento) esta AUSENTE en las 13 zonas del PRC San Fernando (ZU-0 a ZU-9, ZE-1 a ZE-4): cada zona dice literalmente 'Cuadro de normas urbanisticas: VER D.O. DE FECHA 10.09.1998'. Verificado texto+render de p14 (no es imagen oculta, es una omision real del documento BCN/leychile). SI HAY contenido real y usable: Usos de Suelo Permitidos/Prohibidos completos por zona (p14 ZU-1 Comercial, ZU-2; p15 ZU-3/ZU-4; p16 ZU-5/ZU-6/ZU-7; p17 ZU-8/ZU-9/ZU-0; p18 ZE-1/ZE-2; p19 ZE-3/ZE-4) y algunas 'disposiciones complementarias' con datos sueltos (densidad min/max, predial de casos especiales). p19-20 en adelante: Zonas ZR de restriccion (oleoductos, lineas alta tension, rios, aerodromos), sin cuadro de edificacion. REQUIERE URGENTE conseguir el Diario Oficial del 10-09-1998 para completar COS/CC/altura de las 13 zonas.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-18T16:28:57",
+  "fin": "2026-07-18T16:45:37",
+  "resultado": {
+    "archivo": "extraccion_normas/san_fernando/san_fernando_do1698_zonas_zu0_a_zu9_ze1_a_ze4_pag14-19.md",
+    "zonas": 15,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZU-9",
+      "ZU-0",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZR-0"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Decreto 1698 Exento San Fernando (1997), pag14-19 (de 23). CONFIRMADA de forma independiente la alerta critica de fase3: el cuadro numerico principal (predial minima, COS, CC, altura, agrupamiento) esta AUSENTE en las 14 zonas ZU/ZE -- cada una remite literalmente 'VER D.O. DE FECHA 10.09.1998' (variante sin espacio 'D.O.DE' solo en ZU-4, unico caso). Confirmado que NO es trampa imagen: es texto tipografico nativo, sin cuadro oculto, omision real del documento disponible en este corpus. CONFIANZA MEDIA (heredada de fase3, no se pudo subir a ALTA pese a fidelidad de transcripcion perfecta): la limitacion es estructural de la fuente (requiere DO 10-09-1998 no disponible), no de esta extraccion -- confianza en la FIDELIDAD de lo transcrito es alta, pero la COMPLETITUD normativa de fondo (los 5 parametros clave x 14 zonas = 70 datos, de los cuales solo 2 estan disponibles) es baja por causas ajenas. CORRECCION aritmetica a fase3: dice '13 zonas (ZU-0 a ZU-9, ZE-1 a ZE-4)' pero ese mismo rango ya suma 14 (10 ZU + 4 ZE) -- error de conteo de fase3, no de la fuente. HALLAZGO no cubierto por fase3: superficie predial minima SI esta disponible en ZU-4 y ZE-1 (160m2, texto identico palabra por palabra en ambas, via disposiciones complementarias no via el cuadro formal, con posible rebaja Art.7.2.6 OGUC por construccion simultanea) -- COS/CC/altura/agrupamiento siguen ausentes en ambas. HALLAZGO: solo ZR-0 (Riberas Estero Antivero, sin cuadro por diseño -- zona de proteccion de cauce remitida a Plano PR SF-1) cae dentro del rango 14-19; las demas zonas ZR que fase3 menciona (oleoductos, alta tension, aerodromos) estan en pag20+ fuera de rango, no confirmables. Disposiciones complementarias con datos sueltos si capturadas: densidades min/max por zona (ZU-3:400min, ZU-4:300min, ZU-5:100max, ZE-1:350min, ZE-2:200max), prediales de casos especiales para talleres/gas licuado (ZU-3:1000m2/25ml, ZE-1:500m2/15ml), clausulas de resguardo para predios preexistentes bajo estandar (indicios indirectos del predial real, NO confirmados, se dejaron como Dato no determinable igual), rebajas 50% permisos por reconstruccion (ZU-1,ZU-3,ZU-0), retiro pisos altos (ZU-0). 0 trampa comuna ajena. Recomendacion de fase3 de conseguir el DO 10-09-1998 CONFIRMADA como necesaria para completar este registro en el futuro."
+  }
+}
