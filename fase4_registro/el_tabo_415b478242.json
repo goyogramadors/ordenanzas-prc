@@ -1,0 +1,46 @@
+{
+  "id": "el_tabo_415b478242",
+  "comuna": "el_tabo",
+  "ruta": "Ordenanzas Descargadas\\1-600\\el_tabo_ordenanza_aprueba_ordenanza_plano_regulador__pdo.pdf",
+  "rangos": [
+    [
+      7,
+      12
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Diario Oficial N38.144 (25.04.2005), Ordenanza Local del PRC de El Tabo, Balnearios El Tabo y Las Cruces (100% escaneado pero legible). Tablas de normas por zona pp.7-12 (impresas pag.10-15): Z1/Z2 (predial 200m2, frente 10m, ocupacion 100%, densidad 120 hab/ha, CC vivienda 2.0/otros 2.5, agrupacion aislado-continuo, altura 10m, rasante 60), Z3-Z8, ZI-1/ZI-2 (predial 500m2, CC 1.0), ZE-1..ZE-5, ZR-1..ZR-4, mas tabla de fajas de restriccion de esteros/quebradas en p.11. Sin mezcla de otra comuna (encabezados Balneario El Tabo/Las Cruces consistentes). Excluidas pp.13-14: solo tablas de vialidad (anchos de calle).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T14:49:08",
+  "fin": "2026-07-18T15:10:13",
+  "resultado": {
+    "archivo": "extraccion_normas/el_tabo/el_tabo_ordenanza_2005_z1_z8_zi1_zi2_ze1_ze5_zr1_zr4_pag7-12.md",
+    "zonas": 19,
+    "zonas_codigos": [
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "Z5",
+      "Z6",
+      "Z7",
+      "Z8",
+      "ZI-1",
+      "ZI-2",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza 2005, D.O. 38144. 19 zonas/subzonas (Z1 y Z2 comparten norma, seccion combinada) verificadas via render visual 200dpi pag7-12."
+  }
+}

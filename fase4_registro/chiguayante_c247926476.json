@@ -1,0 +1,57 @@
+{
+  "id": "chiguayante_c247926476",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_637_promulgacion_plan_regulador_comunal_de_chiguayante__637.pdf",
+  "rangos": [
+    [
+      3,
+      8
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "ORDENANZA COMPLETA PRC Chiguayante (Decreto 637/2003, escaneo Diario Oficial con OCR). p3: Cap.IV zonificacion (art.24-25). p4-8: normas POR ZONA en formato texto (Usos Permitidos / Usos Prohibidos / Condiciones de Subdivision, Urbanizacion y Edificacion con predial min, frente, densidad bruta, COS, CC, agrupamiento, altura, antejardin). Zonas: ZU3A, ZU3B, ZU7, ZU8, ZU2, ZR1 (proteccion laderas), ZR6 (cementerio), etc. Cap.V vialidad arranca en p8. OJO: OCR MUY DEGRADADO (pega palabras, '200 m*' por '200 m2') -> la fase siguiente debe RE-RENDERIZAR estas paginas, no fiarse del texto.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T14:49:08",
+  "fin": "2026-07-18T15:09:24",
+  "resultado": {
+    "archivo": "extraccion_normas/chiguayante/chiguayante_637_2003_30zonas_pag9-14.md",
+    "zonas": 30,
+    "zonas_codigos": [
+      "ZU1A",
+      "ZU1B",
+      "ZU2A",
+      "ZU2B",
+      "ZU3A",
+      "ZU3B",
+      "ZU4",
+      "ZU5",
+      "ZU6",
+      "ZU7",
+      "ZU8-1",
+      "ZU8-2",
+      "ZEU1",
+      "ZEU2",
+      "ZEU3",
+      "ZEU4",
+      "ZEU5",
+      "ZI",
+      "ZEIRE",
+      "ZR1",
+      "ZR2",
+      "ZR3",
+      "ZR4",
+      "ZR5",
+      "ZR6",
+      "ZPR",
+      "ZVN",
+      "ZVNR",
+      "ZM",
+      "ZRD"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 637/2003, D.O. 37600. OCR degradado, transcripcion 100% via render visual 200dpi pag9-14. Nota de calidad: posible typo en usos prohibidos de ZU5 en fuente (documentado sin corregir)."
+  }
+}

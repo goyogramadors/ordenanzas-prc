@@ -1,0 +1,47 @@
+{
+  "id": "curico_e9e76b0822",
+  "comuna": "curico",
+  "ruta": "Ordenanzas ordenadas\\curico_93_invalida_resoluccon_que_indica_y_reemplaza_por_la_presente_resolucion_que_pro__93.pdf",
+  "rangos": [
+    [
+      13,
+      18
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Diario Oficial N40025 (2-ago-2011) contiene integra la Resolucion93 que promulga el PRC de Curico. Pag13 Titulo2 normas generales tecnico-urbanisticas + tabla estacionamientos por destino. Pag14 Titulo3 tablas grupos de actividades (Culto/Cultura,Deporte,Educacion,Esparcimiento,Salud,Seguridad,Servicios,Social). Pag15-17 tablas Normas de Subdivision y Edificacion por Usos para 11 zonas (ZCC,ZU-1 a ZU-4,ZU-6 a ZU-11,ZI): superficie predial minima, COS, coef.constructibilidad, agrupamiento, distanciamiento, altura maxima, densidad maxima, antejardin. Pag18 continua zonas especiales ZE-1 a ZE-5 (recreacional, comercial, infraestructura, deportivo, estacion FFCC) mismas tablas, cierra con Area Riesgo/Patrimonial sin parametros. Pag19+ anexos vialidad/coordenadas, pag25 Cuerpo II DO ajeno (telecomunicaciones).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T14:49:08",
+  "fin": "2026-07-18T15:10:26",
+  "resultado": {
+    "archivo": "extraccion_normas/curico/curico_93_2011_zcc_zu1_zu11_zi_zav_ze1_ze5_pag13-18.md",
+    "zonas": 20,
+    "zonas_codigos": [
+      "ZCC",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZU-9",
+      "ZU-10",
+      "ZU-11",
+      "ZI",
+      "ZAV",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZRI"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Resolucion 93/2011, D.O. 40025. Render visual 200dpi pag13-18. Confianza MEDIA en ZU-8/ZU-9/ZU-10 y varias celdas por baja legibilidad del escaneo; ZU-5 con tabla incompleta por corte de pagina; ZE-3 sin tabla numerica visible. Tambien documentados sin contar en zonas: M (monumentos), ZT (zona tipica, usa norma ZCC), ICH (listado parcial 8/N inmuebles)."
+  }
+}
