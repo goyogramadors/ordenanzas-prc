@@ -1,0 +1,33 @@
+{
+  "id": "tolten_6c1d046394",
+  "comuna": "tolten",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\tolten_ordenanza_la_presente_ordenanza_local_contiene_las_normas_referentes_a_limite_ur__download.aspx.pdf",
+  "rangos": [
+    [
+      6,
+      11
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "Ordenanza Local PRC Tolten independiente (mismo contenido normativo que tolten_3f8d1ae78d pero archivo separado sin el decreto de promulgación): pág6-11 zonas ZMC, ZM2, ZM3, ZM4, ZE, ZAV con usos permitidos/prohibidos y condiciones edificación/subdivisión completas; texto nativo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-18T16:28:57",
+  "fin": "2026-07-18T21:11:50",
+  "resultado": {
+    "archivo": "extraccion_normas/tolten/tolten_ordenanza_independiente_zonas_zmc_zm2_zm3_zm4_ze_zav_pag6-11.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "ZMC",
+      "ZM2",
+      "ZM3",
+      "ZM4",
+      "ZE",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "Ordenanza Local PRC Tolten \"independiente\" (pag6-11 de 14), PDF DISTINTO al ya procesado tolten_3f8d1ae78d (decreto de promulgacion, pag12-16 de 20). Encargo: confirmar/refutar si es duplicado. CONFIRMADO: mismo contenido normativo sustantivo -- mismas 6 zonas (ZMC, ZM2, ZM3, ZM4, ZE, ZAV), mismos usos permitidos/prohibidos, y los 42 valores numericos (7 parametros x 6 zonas) de las tablas de condiciones son identicos cifra por cifra, verificados con zoom. PERO no es reproduccion caracter por caracter: 8 diferencias textuales reales encontradas y verificadas con zoom contra imagen (ninguna cambia una cifra ni un uso): (1) \"el articulos 2.1.30/2.1.31\" (plural, sistematico en 10 apariciones ZMC/ZM2/ZM3/ZM4/ZE) vs \"el articulo\" (singular) del hermano -- errata acotada solo a esa frase boilerplate, el resto del documento usa \"articulo\" correctamente; (2) ZM2 filas Deporte/Salud/Seguridad con punto final aqui vs sin punto final en el hermano (discrepancia mas clara); (3) ZM2 Antejardin \"3mts\" sin espacio vs \"3 mts\" con espacio; (4) ZM4 parrafo riesgo \"AR-2 ,\" espacio antes de coma; (5) ZAV \"O.G.U. Y C.\" mayuscula vs \"O.G.U. y C.\" minuscula; (6) Art.8 AR-1/AR-3 \"rio\" sin tilde vs \"rio\" con tilde (palabra vecina \"freatica\" si conserva tilde, descarta problema de renderizado); (7) Art.8 AR-4 sin punto final vs con punto final; (8) Art.9 tiene parrafo introductorio adicional (\"Se ha identificado el inmueble a ser conservado aplicando la LGUC y la OGUC...\") que el documento hermano no transcribe pese a etiquetarse \"transcripcion completa\" -- no se pudo resolver si es diferencia real entre los PDF o una omision del hermano (sin acceso a sus imagenes originales), queda como hallazgo abierto para revision futura. HALLAZGO estructural adicional: en este documento ninguna zona se parte entre paginas (cada una cabe completa en su propia pagina), mientras que el hermano si partia tablas de ZM3/ZM4 y el parrafo de riesgo de ZE entre paginas -- confirmacion independiente de que son dos PDF distintos, consistente con fase3. Confirmado el inmueble patrimonial unico (Parroquia San Antonio, O'Higgins 440, rol 54-2) identico en ambos. 0 trampa comuna ajena (encabezados \"Nueva Tolten y Villa Boldos/Los Boldos\" consistentes, con inconsistencia interna propia del documento entre encabezado de pagina \"Villa Boldos\" y texto de zona \"Villa Los Boldos\", documentada por transparencia). 0 usos de Dato no determinable -- render nitido, texto nativo en las 6 paginas. Confianza alta uniforme."
+  }
+}
