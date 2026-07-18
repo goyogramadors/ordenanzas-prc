@@ -1,0 +1,30 @@
+{
+  "id": "penalolen_78ea649ccd",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_12004405_reconoce_modificacion_parcial_al_plan_regulador_comunal_de_penalolen__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      9
+    ]
+  ],
+  "paginas_utiles": 6,
+  "nota_fase3": "reconoce modificación parcial (tras fallo Corte Suprema que excluyó sector Antupirán) sectores Las Perdices/Oriental (Zona R2), Cancha Tres (Zona EQ-1), El Sauzal (Zona R10). Usos Permitidos en texto nativo pág3-4,6,8; Usos Prohibidos y Condiciones de Subdivisión y Edificación (COS/CC/altura) embebidos como imagen en pág5,7,8,9 (confirmado pdfimages)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T16:01:04",
+  "fin": "2026-07-18T16:09:24",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_4405_2018_r2_eq1_r10_pag3-9.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "R2",
+      "EQ-1",
+      "R10"
+    ],
+    "confianza": "ALTA",
+    "nota": "R2 y EQ-1 completas (usos + condiciones edificacion). R10: usos completos, cuadro numerico de condiciones cae en pag10 fuera de rango 3-9 asignado, documentado explicitamente como ausente sin inventar valores."
+  }
+}
