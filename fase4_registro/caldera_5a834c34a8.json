@@ -1,0 +1,36 @@
+{
+  "id": "caldera_5a834c34a8",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_298_aprueba_modificacion_y_publicacion_al_estudio_modificacion_plan_regulador_co__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      10
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Modif. PRC Caldera (estudio). Tablas narrativas por zona formato INTENSIDAD DE OCUPACION a) b) c), en texto plano (no imagen; verificado con render p3,4,9,10,11). 9 zonas con cuadro completo: U2H1, U2H2, U2H3, U2J1, U2J1-a, U2J2, U2J3, R21A, R21B-a (predial min, frente, ocupacion, constructibilidad, agrupamiento, altura, antejardin, densidad). p3 = tabla de limites (punto/tramo), NO norma. p11-12 = tabla de VIALIDAD (anchos de via), fuera del rango.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-18T16:28:57",
+  "fin": "2026-07-18T21:11:50",
+  "resultado": {
+    "archivo": "extraccion_normas/caldera/caldera_do298_zonas_u2h1_a_u2h3_u2j1_u2j1a_u2j2_u2j3_r21a_r21ba_pag4-10.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "U2H1",
+      "U2H2",
+      "U2H3",
+      "U2J1",
+      "U2J1-a",
+      "U2J2",
+      "U2J3",
+      "R21A",
+      "R21B-a"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 298 \"Aprueba Modificacion y Publicacion al Estudio Modificacion Plan Regulador\" Caldera (2002), pag4-10 de 12, sector Bahia Inglesa (identificado via Art.7 explicito + menciones a \"Rocas Negras\") -- distinto del ya procesado Decreto 296 \"...al Proyecto...\" sector Playa Ramada. 9 zonas confirmadas exactas a fase3: U2H1, U2H2, U2H3, U2J1, U2J1-a, U2J2, U2J3, R21A, R21B-a, formato narrativo por zona (INTENSIDAD DE OCUPACION a) b) c)), texto plano nativo, coincidencia exacta imagen-vs-txt en las 7 paginas. MATIZ importante no cubierto por fase3: no las 9 zonas comparten el mismo formato -- R21A NO tiene encabezado \"INTENSIDAD DE OCUPACION\", sus 3 parametros (agrupamiento/altura/materialidad) estan en prosa corrida con letras inline, unica de las 9 asi. La enumeracion generica de fase3 (predial/frente/ocupacion/CC/agrupamiento/altura/antejardin/densidad) tampoco aplica igual a las 9: R21A solo tiene 3 de esos campos, R21B-a carece de predial/frente/densidad, U2J1 reemplaza \"predial minimo\" por DOS superficies fijas de lote (17.897m2 y 51.883,60m2 -- este ultimo el unico valor de todo el documento con coma decimal, verificado en imagen). COMPARACION R21B-a Decreto298 vs Decreto296 (punto central del encargo): son dos poligonos fisicamente distintos que comparten codigo por ser el mismo tipo normativo (apoyo pesca artesanal/acuicultura), no duplicacion ni error -- 7 parametros duros (ocupacion80%, CC0.8, aislado, distanciamiento \"5m a medianeros aun en muros sin vanos\", altura7m, antejardin \"5m sin edificaciones ni instalaciones de ningun tipo\", estacionamiento) identicos, en 2 casos palabra por palabra; pero difieren en superficie de zona (2.1ha Decreto296 vs 5.66ha Decreto298), plano de referencia (P-MOD-CAL-RAMADA vs P-MOD-CAL-01), item \"Cierros\" (texto generico zocalo/cierro vivo en 296 vs muro de mamposteria con deslinde curvo 3m/2m en 298), y Decreto298 carece por completo de los items \"Materialidad de instalaciones\" y \"Normas Especiales\" que si tiene Decreto296 (lista termina en h, no en j) -- interpretacion: mismo template normativo aplicado a dos sectores distintos de Caldera. U2J1 vs U2J1-a confirmadas zonas genuinamente distintas (no duplicado de fase3): diferencia de escala explicita \"comunal y regional\" vs \"vecinal\", altura 30m vs 7m, CC 2 vs 0.6, ocupacion 50% vs 30%, uso de gran equipamiento (hipodromo/casino/hoteles) vs equipamiento menor borde costero (restaurantes/bares). HALLAZGO no cubierto por fase3: inconsistencia interna fuente entre \"Subzona R-5\" (Art.8) y \"ZONA RS\" (encabezado propio) -- zona fuera de las 9 pedidas, solo documentada por rigor. Verificaciones adicionales: p3 no verificable directamente (fuera de material entregado) pero indicio indirecto consistente con \"tabla de limites\"; p10 cierra con Art.9 Vialidad cortado a media frase, sin alcanzar tabla de anchos de via (consistente con p11-12 fuera de rango). 0 trampa comuna ajena (todas las referencias institucionales/toponimicas son de Caldera, \"I.Municipalidad de Caldera\" x4). 0 usos de Dato no determinable en ningun campo -- todos los \"sin valor\" justificados por diseño de zona. Confianza alta uniforme en las 7 paginas."
+  }
+}
