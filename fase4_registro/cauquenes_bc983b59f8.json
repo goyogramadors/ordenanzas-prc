@@ -1,0 +1,42 @@
+{
+  "id": "cauquenes_bc983b59f8",
+  "comuna": "cauquenes",
+  "ruta": "Ordenanzas Descargadas\\1-600\\cauquenes_decreto_500_apruebase_la_ordenanza_local_plan_regulador_comunal_de_cauquenes__6ae85605-5cc1-4792-b5e8-5697f80d2aca.pdf",
+  "rangos": [
+    [
+      18,
+      24
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "CAUQUENES: Decreto 500, aprueba la Ordenanza Local del PRC (37p, escaneado sin OCR). Cap V Art 24 'Normativa Especifica por Zona', p18-24: area urbana ZM1 (mixta comercio-servicios), ZM2, ZM3, ZH1, ZH2, ZH3, ZE1, ZE2 (cementerio, remite a reglamento), ZAP, ZI (cada una con NORMAS DE USOS DE SUELO + NORMAS DE SUBDIVISION Y EDIFICACION: predial minima, COS, CC, altura maxima, agrupamiento, antejardin, densidad); ZAV solo remite al Art 2.1.31 OGUC (sin tabla propia). p24: zonas no edificables y de riesgo ZNE, ZRI1, ZRI2 en prosa (remisiones, ZRI2 toma las condiciones de ZM2) y ZCH con un parametro concreto en prosa (altura maxima 10 m). Cierra en p26 al empezar Cap VI Vialidad Estructurante; el inventario ICH (inmuebles de conservacion historica, p25-26) queda excluido por ser catastro patrimonial. La tabla de p13 (clasificacion G1-G5 de equipamiento) es diccionario de siglas usado dentro de las tablas 18-23, no cuenta por si sola. Escaneo legible sin necesidad de alta resolucion; las 37 pags fueron muestreadas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T21:34:01",
+  "fin": "2026-07-18T21:44:42",
+  "resultado": {
+    "archivo": "extraccion_normas/cauquenes/cauquenes_500_zm_zh_ze_zap_zi_zav_zne_zri_zch_pag18-24.md",
+    "zonas": 15,
+    "zonas_codigos": [
+      "ZM1",
+      "ZM2",
+      "ZM3",
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZE1",
+      "ZE2",
+      "ZAP",
+      "ZI",
+      "ZAV",
+      "ZNE",
+      "ZRI1",
+      "ZRI2",
+      "ZCH"
+    ],
+    "confianza": "ALTA",
+    "nota": "15 zonas, documento escaneado sin capa de texto, transcripcion 100% visual 200dpi. Filas ausentes de antejardin/densidad en varias zonas documentadas explicitamente (no inventadas ni copiadas por analogia). ZE2/ZAV/ZNE/ZRI1 sin cuadro propio, remisiones normativas puras. ZRI2 remite a condiciones de ZM2 (verificado). ZCH con unico parametro numerico (altura 10m), resto cualitativo. Referencias cruzadas a enmiendas posteriores de ZM2/ZM3 ya presentes en el pipeline, sin mezclar valores."
+  }
+}

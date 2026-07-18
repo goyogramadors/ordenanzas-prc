@@ -1,0 +1,36 @@
+{
+  "id": "caldera_5a834c34a8",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas Descargadas\\1-600\\caldera_298_aprueba_modificacion_y_publicacion_al_estudio_modificacion_plan_regulador_co__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      10
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Modif. PRC Caldera (estudio). Tablas narrativas por zona formato INTENSIDAD DE OCUPACION a) b) c), en texto plano (no imagen; verificado con render p3,4,9,10,11). 9 zonas con cuadro completo: U2H1, U2H2, U2H3, U2J1, U2J1-a, U2J2, U2J3, R21A, R21B-a (predial min, frente, ocupacion, constructibilidad, agrupamiento, altura, antejardin, densidad). p3 = tabla de limites (punto/tramo), NO norma. p11-12 = tabla de VIALIDAD (anchos de via), fuera del rango.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T21:34:01",
+  "fin": "2026-07-18T21:44:42",
+  "resultado": {
+    "archivo": "extraccion_normas/caldera/caldera_298_u2h_u2j_r21_pag4-10.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "U2H1",
+      "U2H2",
+      "U2H3",
+      "U2J1",
+      "U2J1-a",
+      "U2J2",
+      "U2J3",
+      "R21A",
+      "R21B-a"
+    ],
+    "confianza": "ALTA",
+    "nota": "9 zonas con cuadro completo, texto nativo pdftotext sin ambiguedad. Formato narrativo letrado (a-h) reproducido como tabla. Densidad ausente en U2H3/U2J1/U2J2 (documentado, no inventado). U2J1 con superficies puntuales de 2 predios en vez de minimo generico, y frente predial remitido a plano P-MODCAL01 sin cifra. R21A y R21B-a con cuadros estructuralmente incompletos respecto al esquema de 8 parametros (playas/BNUP, naturaleza distinta a zonas residenciales) - ausencias documentadas explicitamente, no inventadas. 7 de 9 zonas sin clausula explicita de usos prohibidos en la fuente."
+  }
+}
