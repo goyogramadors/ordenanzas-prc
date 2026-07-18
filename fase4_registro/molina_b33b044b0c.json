@@ -1,0 +1,26 @@
+{
+  "id": "molina_b33b044b0c",
+  "comuna": "molina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\molina_52_promulga_plan_regulador_comunal_de_molina_y_deja_sin_efecto_resoluciones_afec__Publicacion-del-Miercoles-7-de-Diciembre-de-2022-DIARIO-OFICIAL.pdf",
+  "rangos": [
+    [
+      15,
+      21
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "TRAMPA NUEVA: veredicto TEXTO en promedio, tablas como IMAGEN. p15 Art.4.2 lista zonas. p16-21 tablas completas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T22:12:48",
+  "fin": "2026-07-18T22:23:40",
+  "resultado": {
+    "archivo": "extraccion_normas/molina/molina_52_2022_zu_ze_zap_zav_pag15-21.md",
+    "zonas": 18,
+    "zonas_codigos": ["ZU-1", "ZU-2", "ZU-2b", "ZU-3", "ZU-4", "ZU-5", "ZU-6", "ZU-7", "ZE-1", "ZE-2", "ZE-3", "ZE-4", "ZE-5", "ZE-6", "ZAP", "ZAV", "ZPL", "ICH"],
+    "confianza": "ALTA",
+    "nota": "18 unidades. 17 zonas con cuadro completo. ICH INCOMPLETA: solo ICH1-11, tabla continua fuera de rango, documentado explicitamente. ZU-2b verificada cruzada contra decreto N2922/2023."
+  }
+}
