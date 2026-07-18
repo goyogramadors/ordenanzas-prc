@@ -13,24 +13,24 @@
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
   "estado": "HECHO",
-  "sesion": "AMIGO1",
-  "inicio": "2026-07-18T15:26:11",
-  "fin": "2026-07-18T15:32:52",
+  "sesion": "SESION4",
+  "inicio": "2026-07-17T20:18:16",
+  "fin": "2026-07-18T16:06:18",
   "resultado": {
-    "archivo": "extraccion_normas/fresia/fresia_63_2003_zu1_zu3_zex1_zex2_ze1_ze2_zr1_zr2_pag15-20.md",
+    "archivo": "extraccion_normas/fresia/fresia_do63_zonas_zu1_zu2_zu3_zex1_zex2_ze1_ze2_zr1_zr2_pag15-20.md",
     "zonas": 9,
     "zonas_codigos": [
       "ZU-1",
       "ZU-2",
       "ZU-3",
-      "ZEX-1",
-      "ZEX-2",
+      "Z EX-1",
+      "Z EX-2",
       "ZE-1",
       "ZE-2",
       "ZR-1",
       "ZR-2"
     ],
     "confianza": "ALTA",
-    "nota": "Resolucion 63/2003. 9 zonas via pdftotext -layout + cotejo visual."
+    "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) que se cruzaron sin saberlo -- AMIGO1 termino primero (15:26-15:32 UTC) y quedo registrado brevemente como HECHO con archivo fresia_63_2003_zu1_zu3_zex1_zex2_ze1_ze2_zr1_zr2_pag15-20.md (183 lineas, nota de una linea 'via pdftotext -layout + cotejo visual'). SESION4 detecto el choque al intentar pushear su propio resultado (ya en curso, subagente no tenia forma de saberlo) y comparo ambas versiones releyendo directamente las imagenes fuente (pag16 y pag19) para dirimir, no solo por volumen de detalle. Verificacion directa encontro que la version SESION4 es mas precisa en varios puntos factuales concretos donde AMIGO1 normalizo silenciosamente el texto original: (1) separador decimal -- la fuente usa PUNTO en la mayoria de zonas (confirmado en pag16 ZU-1: '0.9'/'3.6') pero COMA especificamente en ZE-1 (confirmado en pag19: '0,8'/'1,6') -- AMIGO1 uso coma en TODAS las zonas por igual, perdiendo esta inconsistencia real de la fuente; (2) puntuacion/espaciado literal de encabezados de zona -- pag19 confirma 'ZONA EQUIPAMIENTO DEPORTIVO Z E - 1' (espacios antes/despues del guion) y 'ZONA EQUIPAMIENTO. CEMENTERIO. ZE - 2' (con puntos), AMIGO1 normalizo a 'ZE-1'/'ZE-2' sin espacios ni puntos; (3) errata de ZE-1 c2 -- fuente dice literalmente 'Frente predial minima 25 m2.' (concordancia de genero incorrecta 'minima' en vez de 'minimo', y unidad de superficie 'm2' para una medida lineal), AMIGO1 lo escribio como 'Frente predial minimo | 25 m' -- corrigiendo silenciosamente ambos errores de la fuente. En sustancia (valores numericos de fondo, codigos de zona, usos permitidos/prohibidos) ambas versiones coinciden y se validan mutuamente -- no hay error de contenido en ninguna, solo de fidelidad literal, que es exactamente el estandar que este proyecto ha priorizado consistentemente (preservar erratas con [sic], no autocorregir, documentar inconsistencias de formato como hallazgo). Por eso se elige la version SESION4 como resultado canonico. El archivo de AMIGO1 se deja intacto en el repo (no se borro contenido ajeno) pero ya no es el referenciado por este registro. NOTA SUSTANTIVA DE LA EXTRACCION (SESION4): Resolucion/Decreto 63 (2003) 'AFECTA', Art.29 pag15-20, doble verificacion texto nativo + imagen con 19 recortes zoom. 9 zonas confirmadas exactas a fase3. HALLAZGO principal: estructura c1-c10 NO homogenea -- solo ZU-1 llega a c10 e incluye altura de edificacion; ZU-2/ZU-3/Z EX-1/Z EX-2/ZE-1 llegan solo a c7 sin altura; ZE-2 y ZR-1 no tienen sistema c1-c10 en absoluto. HALLAZGO: 'Equipamiento Mediano' ausente identicamente en Z EX-1 y Z EX-2. HALLAZGO: tras el cierre firmado del decreto en p20, la pagina continua con un 'CAPITULO V' vacio y luego 'CAPITULO IV' que reinicia la seccion de zonificacion -- no es trampa comuna ajena, alerta para quien procese pag21-28. 0 usos de Dato no determinable. Confianza alta uniforme en las 6 paginas."
   }
 }
