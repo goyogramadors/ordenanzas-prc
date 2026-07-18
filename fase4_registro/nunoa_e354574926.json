@@ -1,0 +1,41 @@
+{
+  "id": "nunoa_e354574926",
+  "comuna": "nunoa",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\nunoa_1167_promulga_aprobacion_de_la_modificacion_no_18_del_plan_regulador_de_nunoa__PUBLICACION_30_DE_AGOSTO_2019.pdf",
+  "rangos": [
+    [
+      19,
+      25
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "modificación N18: Art.26 Normas de edificación y subdivisión reemplaza cuadros normativos por zona (Z-1,Z-1A,Z-1B,Z-2,Z-3,Z-3A,Z-4,Z-4m,Z-4C,Z-5,Z-6,ZI-1) como imágenes incrustadas grandes, verificado con pdfimages+render: pág19 Z-1 completa, pág22 Z-1B+Z-2, pág24 Z-4/Z-4m/Z-5, pág25 ediciones Z-6/ZI-1",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:13:55",
+  "fin": "2026-07-18T18:20:28",
+  "resultado": {
+    "archivo": "extraccion_normas\\nunoa\\nunoa_1167_mod18_zonas_z1_a_z6_zi1_pag19-25.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-1A",
+      "Z-1B",
+      "Z-1C",
+      "Z-1D",
+      "Z-2",
+      "Z-3",
+      "Z-3A",
+      "Z-4",
+      "Z-4m",
+      "Z-4C",
+      "Z-5",
+      "Z-6",
+      "ZI-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Hallazgo no anticipado en nota_fase3: Z-6 original ELIMINADA, la Z-6 vigente es la ex Z-8A renombrada; aparece Z-1D nueva con cuadro completo; Z-7A/Z-7B renombradas a Z-5A/Z-5B (documentadas como submenciones, no secciones propias en este rango). 6 de las 12 zonas de la lista de fase3 (Z-3A,Z-4,Z-4m,Z-4C,Z-6,ZI-1) solo tienen parches puntuales visibles en pag19-25, no su cuadro base completo -- valores marcados No especificado, no inventados. Todo verificado contra render 250dpi."
+  }
+}

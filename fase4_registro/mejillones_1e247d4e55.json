@@ -1,0 +1,55 @@
+{
+  "id": "mejillones_1e247d4e55",
+  "comuna": "mejillones",
+  "ruta": "Ordenanzas ordenadas\\mejillones_2150_enmiendase_el_plan_regulador_comunal_de_mejillones_publicado_en_el_diario_o__OREDENANZA-PLAN-REGULADOR-COMUNAL-11.11.2000.pdf",
+  "rangos": [
+    [
+      3,
+      9
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Diario Oficial N36.810 (11.11.2000), Ordenanza PRC del Puerto y Bahia de Mejillones. Tablas Condiciones de Uso de Suelo/Subdivision y Edificacion por zona pp.3-9: C1 (sin subdivision nueva, ocup 40%, aislado, distanciamiento 3m, altura 7m), C2 (ocup 40%, rasante 45, distanciamiento 10m, antejardin 5m), C3 (predial 360m2, ocup 60%, altura 7m), C4 (predial 200m2, ocup 60%, altura 12m continuo/7m aislado), C5 (predial 2500m2), U1-U8 (predial 100-10000m2, ocup 40-80%, altura 6-18m variable segun cuadra), EU1-EU4 (frente al mar, ocup 40-60%, altura 6-18m por cuadra), EU5/ER1-4/E1-3/AP (uso restringido/portuario). Excluidas: pp.1-2 (limite urbano, sin norma) y p.10 (cuadros de vialidad estructural). Sin comuna ajena, todo confirmado Mejillones.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:13:55",
+  "fin": "2026-07-18T18:21:35",
+  "resultado": {
+    "archivo": "extraccion_normas\\mejillones\\mejillones_2150_zonas_c1-c5_u1-u8_eu_er_e_ap_pag3-9.md",
+    "zonas": 28,
+    "zonas_codigos": [
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "AV",
+      "U1",
+      "U2",
+      "U3",
+      "U4",
+      "U5",
+      "U6",
+      "U7",
+      "U8",
+      "EU1",
+      "EU2",
+      "EU3",
+      "EU4",
+      "EU5",
+      "ER1",
+      "ER2",
+      "ER3",
+      "ER4",
+      "E1",
+      "E2",
+      "E3",
+      "AP"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Zona C6 nombrada en Art.25.1 pero sin ficha propia en pp.3-9 (salta de C5 a AV) -- documentada sin cuadro, no inventada. AP no es zona edificable, es macro-area; sus zonas reales son P1/P2 (uso remitido a naturaleza portuaria, sin cuadro subdivision/edificacion). EU5,ER1,ER2,ER4,E1,E2,E3 sin cuadro de subdivision (uso restringido/prohibido por definicion) -- documentados solo usos. U4 sin fila Antejardin (confirmado por salto de pagina). U5 muestra Altura minima 3mts literal, menor que otras zonas U -- transcrito tal cual sin corregir. Confianza MEDIA por estos 3 hallazgos que difieren de nota_fase3."
+  }
+}

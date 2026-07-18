@@ -1,0 +1,45 @@
+{
+  "id": "molina_b33b044b0c",
+  "comuna": "molina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\molina_52_promulga_plan_regulador_comunal_de_molina_y_deja_sin_efecto_resoluciones_afec__Publicacion-del-Miercoles-7-de-Diciembre-de-2022-DIARIO-OFICIAL.pdf",
+  "rangos": [
+    [
+      15,
+      21
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "TRAMPA NUEVA (no es la trampa LeyChile/Caldera): el veredicto de pagina es TEXTO en promedio, pero las tablas de normas por zona estan insertadas como IMAGEN dentro de un PDF nativo del Diario Oficial digital (2022); el texto solo extrae encabezados de zona (ZU-1, ZU-2...), no los valores. Verificado por render: p15 Art.4.2 lista de zonas (ZU-1 a ZU-7, ZE-1 a ZE-6, ZAP, ZAV) + p16-21 tablas completas por zona (usos de suelo, COS, CC, altura, agrupamiento, antejardin, densidad) terminando en ZAV/ZPL/ICH patrimonial. p22 ya es Titulo 5 Vialidad (fuera de rango). Revisar TODOS los PDFs de Diario Oficial digital 2020+ con este patron -- el veredicto TEXTO no garantiza que las tablas sean texto.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:13:55",
+  "fin": "2026-07-18T18:20:47",
+  "resultado": {
+    "archivo": "extraccion_normas\\molina\\molina_52_2022_zonas_zu_ze_zap_zav_pag15-21.md",
+    "zonas": 18,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-2b",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZE-6",
+      "ZAP",
+      "ZAV",
+      "ZPL",
+      "ICH"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmada trampa (tablas por zona en imagen dentro de PDF nativo Diario Oficial 2022). Zona adicional no listada en nota_fase3: ZU-2b. ZPL e ICH NO son alias de ZAV como sugeria la nota, son categorias de proteccion aparte (ZPL: areas protegidas por decreto externo sin COS/altura; ICH: listado numerado de inmuebles patrimoniales ICH1-11 visibles en el rango, catalogo continua mas alla de p21). ZAV sin fila de COS en el render, solo constructibilidad/altura/agrupamiento/antejardin -- transcrito tal cual."
+  }
+}
