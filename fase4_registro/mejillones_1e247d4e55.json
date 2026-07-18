@@ -1,0 +1,26 @@
+{
+  "id": "mejillones_1e247d4e55",
+  "comuna": "mejillones",
+  "ruta": "Ordenanzas ordenadas\\mejillones_2150_enmiendase_el_plan_regulador_comunal_de_mejillones_publicado_en_el_diario_o__OREDENANZA-PLAN-REGULADOR-COMUNAL-11.11.2000.pdf",
+  "rangos": [
+    [
+      3,
+      9
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Diario Oficial N36.810, Ordenanza PRC Puerto y Bahia de Mejillones. Tablas por zona pp.3-9.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-18T22:12:48",
+  "fin": "2026-07-18T22:23:40",
+  "resultado": {
+    "archivo": "extraccion_normas/mejillones/mejillones_2150_2000_pag3-9.md",
+    "zonas": 28,
+    "zonas_codigos": ["C1", "C2", "C3", "C4", "C5", "AV", "U1", "U2", "U3", "U4", "U5", "U6", "U7", "U8", "EU1", "EU2", "EU3", "EU4", "EU5", "ER1", "ER2", "ER3", "ER4", "E1", "E2", "E3", "P1", "P2"],
+    "confianza": "ALTA",
+    "nota": "28 zonas en 4 macro-areas, escaneado sin capa de texto, 100% visual con 6 zooms. C6 mencionada pero no desarrollada. 11 de 28 zonas sin cuadro de edificacion. Caveats: U4 sin antejardin, U7 unidad 'mts', zonas EU/ER3 citan Art.14 no 18, U1/U2/U5 altura minima no maxima, AP=P1+P2."
+  }
+}
