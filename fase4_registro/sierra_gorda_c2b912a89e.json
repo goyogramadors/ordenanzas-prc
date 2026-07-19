@@ -1,0 +1,41 @@
+{
+  "id": "sierra_gorda_c2b912a89e",
+  "comuna": "sierra_gorda",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\sierra_gorda_ordenanza_ordenanza_del_plan_regulador_de_la_comuna_de_sierra_gorda__Ordenanza_Plan_Regulador_Sierra_Gorda_2001.pdf",
+  "rangos": [
+    [
+      21,
+      41
+    ]
+  ],
+  "paginas_utiles": 21,
+  "nota_fase3": "Cap.IV Art.18-20. Art.18 Macro-Areas y Zonas (AEC,AC,AU-1..6,AE-1..7) pag22; Art.19 zonificacion por localidad pag22-23; Art.20 Condiciones de Uso del Suelo y Normas Especificas + Condiciones de subdivision y edificacion zona por zona: AC pag25-27 (superficie predial min, frente predial, %ocupacion suelo, agrupamiento, distanciamiento, altura max, antejardin, cierro, estacionamientos), AU-1 pag27-29, AU-2 pag29-31, AU-3 pag31-33, AU-4 pag32-34, AU-5 pag34-36, AU-6 pag35-37, AE-1 pag37-38, AE-7 pag40-41 (AE-2 a AE-6 sin tabla numerica, remiten a otros articulos). 9 tablas completas. Cap.V (vialidad/estacionamientos pag43-53) tiene tablas de anchos de via, no son normas de zona, excluidas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:54:59",
+  "fin": "2026-07-19T00:06:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\sierra_gorda\\sierra_gorda_zonas_ac_au_ae.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "AC",
+      "AU-1",
+      "AU-2",
+      "AU-3",
+      "AU-4",
+      "AU-5",
+      "AU-6",
+      "AE-1",
+      "AE-2",
+      "AE-3",
+      "AE-4",
+      "AE-5",
+      "AE-6",
+      "AE-7"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmada la lista completa del Art.18 (macro-areas + zonas) contra el propio texto de p22, coincide con lo orientativo. AE-2 a AE-6 confirmados SIN tabla numerica de condiciones de subdivision/edificacion (solo usos de suelo + en AE-2 una remision al art.16) -- transcrito tal cual, no inventado. Nota rara: AU-5 remite a 'articulo 25' para estacionamientos mientras el resto de zonas remite al 'articulo 23' -- discrepancia real del documento, transcrita tal cual aparece, no corregida."
+  }
+}

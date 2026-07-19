@@ -1,0 +1,54 @@
+{
+  "id": "san_felipe_24a886136b",
+  "comuna": "san_felipe",
+  "ruta": "Ordenanzas ordenadas\\san_felipe_plan_regulador__N-48.pdf",
+  "rangos": [
+    [
+      19,
+      39
+    ]
+  ],
+  "paginas_utiles": 21,
+  "nota_fase3": "Cap.IV Zonificacion y Normas Especificas (Art.31-34) inicia pag19-20 con listado zonas (C-1,C-2,C-3,H-4..H-8,I-1,I-2,E-1,E-2,E-5..E-10,R-1,R-3..R-11). Tabla/articulos por zona confirmados: C-1(pag21),H-4(pag25),H-7(pag29),E-1(pag33),E-5(pag34),E-6/E-7/E-8(pag35),E-9(pag36),E-10(pag37-38),R-1..R-11(pag38-39). Cada zona define uso permitido/restringido/prohibido, superficie predial minima, coef.constructibilidad, COS, agrupamiento, altura maxima, rasante, antejardin, distanciamiento medianeros, densidad, estacionamientos. Pag40 Cap.V Vialidad (Art.35-37) tablas de anchos de vias, excluida.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:54:59",
+  "fin": "2026-07-19T00:06:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_felipe\\san_felipe_zonas_c_h_i_e_r.md",
+    "zonas": 27,
+    "zonas_codigos": [
+      "C-1",
+      "C-2",
+      "C-3",
+      "H-4",
+      "H-5",
+      "H-6",
+      "H-7",
+      "H-8",
+      "I-1",
+      "I-2",
+      "E-1",
+      "E-5",
+      "E-6",
+      "E-7",
+      "E-8",
+      "E-9",
+      "E-10",
+      "R-1",
+      "R-3",
+      "R-4",
+      "R-5",
+      "R-6",
+      "R-7",
+      "R-8",
+      "R-9",
+      "R-10",
+      "R-11"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmados los saltos reales en la numeracion (sin H-1/H-2/H-3, sin E-3/E-4, sin R-2), consistente con nota_fase3. ZONA E-2 esta LISTADA en el Art.31 pero SIN texto normativo propio en el rango p19-39 -- no se incluyo en zonas-codigos ni se invento tabla, se dejo nota explicita del vacio para que la fase siguiente decida si buscarla en otro rango del mismo documento. R-7 a R-11 son descriptivas por remision a normativa sectorial (ley ferrocarriles, SEC, DGA, aeronautica), sin cuadro COS/CC."
+  }
+}

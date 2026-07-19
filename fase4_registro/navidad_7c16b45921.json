@@ -1,0 +1,49 @@
+{
+  "id": "navidad_7c16b45921",
+  "comuna": "navidad",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\navidad_resolucion_afecta_aprueba_reformulacion_plan_regulador_comunal_de_navidad__ad5c1efd-b09d-4033-8bac-8b656f591f00.pdf",
+  "rangos": [
+    [
+      35,
+      55
+    ]
+  ],
+  "paginas_utiles": 21,
+  "nota_fase3": "reformulación PRC completa: Capítulo IV Zonificación/Uso Suelo/Normas Específicas (art.24), pág35 encabezado+listado zonas, pág36-55 tabla normativa completa por zona (A1,A1c,A2-A7c,B,BCD,C,E,EB1,EB2,ZR-1,R1-R6,P1) con usos permit./prohib., densidad, COS, CC, altura máxima, rasante, agrupamiento, antejardín, cierros, superficie predial mínima; texto nativo",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:54:59",
+  "fin": "2026-07-19T00:06:01",
+  "resultado": {
+    "archivo": "extraccion_normas\\navidad\\navidad_reformulacion_zonas_a_b_c_e_r_p.md",
+    "zonas": 22,
+    "zonas_codigos": [
+      "A1",
+      "A1(c)",
+      "A2",
+      "A3",
+      "A4",
+      "A4(c)",
+      "A5(c)",
+      "A6",
+      "A7(c)",
+      "B",
+      "BCD",
+      "C",
+      "E",
+      "EB1",
+      "EB2",
+      "ZR-1",
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "P1"
+    ],
+    "confianza": "ALTA",
+    "nota": "HALLAZGO: inconsistencia real del documento -- el listado del encabezado Art.24 llama 'R6' a la ultima zona restringida, pero la ficha de condiciones (p40) la rotula 'R5', dejado explicito en el markdown, se transcribio con el codigo de la ficha (R5). Zonas con sufijo (c) son variantes 'condicionadas' de sus zonas base, con normas propias completas, no fichas parciales. Varias zonas (A3, A6) traen condiciones adicionales para 'proyectos de densificacion' con parametros distintos a la ficha base -- ambas transcritas. ZR-1, R1-R5 y P1 no traen COS/CC formal (son zonas de restriccion/proteccion), transcrito el texto descriptivo tal cual, sin inventar valores."
+  }
+}
