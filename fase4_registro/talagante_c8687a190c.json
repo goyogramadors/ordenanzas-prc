@@ -1,0 +1,46 @@
+{
+  "id": "talagante_c8687a190c",
+  "comuna": "talagante",
+  "ruta": "Ordenanzas ordenadas\\talagante_decreto_dicta_ordenanza_local_del_plan_regulador_comunal_de_talagante__Dec. Ex. nº 3991 Plan Regulador.pdf",
+  "rangos": [
+    [
+      7,
+      20
+    ]
+  ],
+  "paginas_utiles": 14,
+  "nota_fase3": "Decreto Ex. 3991/2014 (01-10-2014): transcribe la Ordenanza Local completa del PRC de Talagante (ajustada segun Dictamen CGR 67919/2014). P7-20 (Art.9-27): tablas completas de normas urbanisticas por zona (formato grilla apaisada para zonas ZU-CV/ZU-1 a ZU-8/ZP/ZIE-1 a ZIE-3, y prosa articulada con valores concretos para zonas especiales ZE-1 Deportivo-Recreacional, ZE-2 Equipamiento Exclusivo, ZE-3 Resguardo Ferroviario, ZR-1 Restriccion inundacion, ZR-2 Restriccion pendiente): superficie predial minima 200-2500 m2, densidad bruta maxima 16-800 Hab/Ha, coef. ocupacion suelo, coef. constructibilidad hasta 6, sistema agrupamiento, altura maxima 7-28m / 2-8 pisos, rasantes, antejardin, retranqueo de fachada. P21-27 excluidas (vialidad estructurante Talagante/Lonquen/Talagante Oriente). P28-29: estandares de estacionamiento (Cuadro 10) y cierre del decreto. Documento grande y completo, la Ordenanza Local matriz del PRC.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO3",
+  "inicio": "2026-07-18T21:16:35",
+  "fin": "2026-07-18T21:25:57",
+  "resultado": {
+    "archivo": "extraccion_normas\\talagante\\talagante_3991_2014_ordenanza_matriz_pag7-20.md",
+    "zonas": 19,
+    "zonas_codigos": [
+      "ZU-CV",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZP",
+      "ZAV",
+      "ZIE-1",
+      "ZIE-2",
+      "ZIE-3",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZR-1",
+      "ZR-2"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Documento distinto del ya transcrito talagante_3226 (Ordenanza Local matriz vs actualizacion posterior). Zona adicional no listada en nota_fase3: ZAV (Area Verde, Art.19), distinta de ZP, sin cuadro de coeficientes propio. Las 9 zonas ZU (grilla apaisada 90 grados) entregan un coeficiente por cada clase de uso de suelo, no uno solo por zona -- se transcribio la fila Vivienda/Residencial como Condiciones principales y se anoto en prosa la variacion de Equipamiento/Infraestructura. ZIE-3 remite integramente al PRMS sin coeficientes propios, coincide con nota_fase3. Confianza MEDIA por subdivisiones finas de antejardin/ochavos por jerarquia vial en zonas de grilla, dificiles de precisar con texto rotado a 300dpi (valores principales predial/densidad/COS/CC/pisos/altura si con confianza ALTA). RECONCILIACION: talagante_dba606702d (sesion GREGO1) reclamo y transcribio en paralelo el mismo Decreto 3991 desde OTRO PDF fuente (ruta distinta, mismo decreto, verificado visualmente -- pag8 de ambos PDFs muestra el mismo contenido institucional con 1 pagina de desfase de paginacion entre ambos escaneos). Esa version resulto MAS COMPLETA: 20 zonas (incluye ZVN-HU, Art.27bis, fuera del rango 7-20 de este reclamo) vs 19 aqui, y transcribe el cuadro ZU-CV/ZU-1..8 completo fila por fila (cada Tipo/Clase de uso con su propio COS/CC/altura) en vez de simplificar a la fila Vivienda/Residencial. Se elimino el archivo duplicado de este resultado (talagante_3991_2014_ordenanza_matriz_pag7-20.md) y se dejo talagante_3991_zonas_zu_zp_zav_zie_ze_zr_zvnhu_pag7-22.md como version canonica -- ver ese archivo para el contenido completo."
+  }
+}

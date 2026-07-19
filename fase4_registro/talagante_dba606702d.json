@@ -1,0 +1,47 @@
+{
+  "id": "talagante_dba606702d",
+  "comuna": "talagante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talagante_3991_transcribe_texto_ajustado_de_ordenanza_local_del_plan_regulador_comunal_de___Exportar.pdf",
+  "rangos": [
+    [
+      7,
+      22
+    ]
+  ],
+  "paginas_utiles": 16,
+  "nota_fase3": "Texto refundido completo Ordenanza Local PRC Talagante. Titulo4 Zonificacion usos de suelo y normas especificas, Art.8-27bis, 18 zonas (ZU-CV,ZU-1 a ZU-8,ZP,ZAV,ZIE-1 a ZIE-3,ZE-1 a ZE-3,ZR-1,ZR-2,ZVN-HU). Trampa LeyChile confirmada: cada articulo termina con punto solitario antes de tabla-imagen (superficie predial minima, densidad, COS, constructibilidad, agrupamiento, altura max, antejardin), ej pag8 ZU-CV, pag18 ZIE-1. Zonas especiales ZE-1,ZE-2,ZR-1,ZR-2,ZVN-HU pag20-22 SI tienen tabla como texto extraible. Titulo6 vialidad (cuadros7-9 pag23-26) y Cuadro10 estacionamientos (pag26) excluidos por no ser normas de zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T23:29:57",
+  "fin": "2026-07-18T23:39:53",
+  "resultado": {
+    "archivo": "extraccion_normas\\talagante\\talagante_3991_zonas_zu_zp_zav_zie_ze_zr_zvnhu_pag7-22.md",
+    "zonas": 20,
+    "zonas_codigos": [
+      "ZU-CV",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZP",
+      "ZAV",
+      "ZIE-1",
+      "ZIE-2",
+      "ZIE-3",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZR-1",
+      "ZR-2",
+      "ZVN-HU"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Trampa LeyChile confirmada en ZU-CV a ZIE-2 (cuadros-imagen tras punto solitario), transcritos desde render con la tabla completa fila por fila (cada Tipo/Clase de uso con su propio COS/CC/altura). ZIE-3 no trae cuadro propio, remite al PRMS art.8.2.2. ZE-1/ZE-2/ZE-3/ZR-1/ZR-2/ZVN-HU en formato lista de texto corrido, coincidente con render. Punto dudoso: ZIE-2 (pag19) fila entre Comercio y Deporte con Clase ilegible/sin rotulo claro, transcrita literal con nota de confianza MEDIA especifica en esa fila. RECONCILIACION: talagante_c8687a190c (sesion GREGO3) reclamo el mismo Decreto 3991 en paralelo desde OTRO PDF fuente (verificado visualmente pag8 identica con 1 pagina de desfase). Esta version (GREGO1) resulto mas completa -- 20 zonas incluyendo ZVN-HU vs 19, y tabla ZU completa vs fila unica simplificada -- se mantiene como canonica, se elimino el duplicado de GREGO3 (nunca comiteado) y se anoto la reconciliacion en su registro."
+  }
+}

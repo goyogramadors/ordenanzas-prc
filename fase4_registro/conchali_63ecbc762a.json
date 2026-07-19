@@ -1,0 +1,44 @@
+{
+  "id": "conchali_63ecbc762a",
+  "comuna": "conchali",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\conchali_292_municipalidad_de_conchali_aprueba_plan_regulador_comunal__Exportar.pdf",
+  "rangos": [
+    [
+      7,
+      23
+    ]
+  ],
+  "paginas_utiles": 17,
+  "nota_fase3": "Dec.292/2013 aprueba PRC Conchali completo (Ordenanza Local). TRAMPA CONFIRMADA: TODAS las tablas de zona son IMAGEN JPEG, el texto solo saca el titulo del cuadro y deja un punto solitario. Art.15 (zonificacion, lista de zonas) y Art.16 (inicio normas por zona) en p7. p7-23: una seccion por zona con Uso de Suelo + Normas de Edificacion (COS 1er/2do piso, COS pisos superiores, CC, agrupamiento, altura max, predial min) + Loteos/Subdivisiones, para ZM-1 a ZM-7, ZR-1, ZR-2, ZE-1, ZCH, Z-1, ZAV/Z2, ZES-1, Es-2. Verificado por render p7,8,20,22,23. p23 (parte inferior) cierra con Es-2 y arranca Cap.V Vialidad en la misma pagina. EXCLUIDAS: p3 coordenadas limite urbano, p6 dotacion estacionamientos, p23(inf)-25 vialidad estructurante (todas imagen pero no son norma de zona).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T23:29:57",
+  "fin": "2026-07-18T23:37:04",
+  "resultado": {
+    "archivo": "extraccion_normas\\conchali\\conchali_292_zonas_zm_zr_ze_zch_z1_zav_zes_es2_pag7-23.md",
+    "zonas": 17,
+    "zonas_codigos": [
+      "ZM-1",
+      "ZM-2",
+      "ZM-3",
+      "ZM-4",
+      "ZM-5",
+      "ZM-6",
+      "ZM-7",
+      "ZR-1",
+      "ZR-2",
+      "ZE-1",
+      "ERD",
+      "ZCH-1",
+      "Z1",
+      "ZAV",
+      "Z2",
+      "ZES-1",
+      "Es-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmada trampa: los 3 cuadros por zona (Uso de Suelo/Normas de Edificacion/Loteos) son imagen pura, texto solo deja un punto -- toda la transcripcion viene del render. Nomenclatura discrepante dentro del propio documento: Art.15 llama ZI-1,ZEs-1,ZEs-2 a las zonas que el Art.16 titula Z1,ZES-1,Es-2 -- se uso la grafia del cuerpo normativo (Art.16). ERD (Equipamiento Recreacional Deportivo, Estadio Municipal) no estaba en la lista de fase3, se incluyo por integridad al aparecer en el mismo tramo. ZCH-1,ZAV,Es-2 no traen tabla de edificacion (remiten a zona contigua/OGUC o son solo uso de suelo). ZM-6 trae dos valores de altura maxima (28m y 22m) sin criterio de aplicacion visible; fila Residencial de ZES-1 muestra celda prohibidos con texto aparentemente mal reimpreso -- ambos bajados a confianza MEDIA/BAJA puntual dentro del archivo."
+  }
+}
