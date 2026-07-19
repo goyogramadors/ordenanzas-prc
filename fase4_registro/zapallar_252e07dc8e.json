@@ -1,0 +1,47 @@
+{
+  "id": "zapallar_252e07dc8e",
+  "comuna": "zapallar",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\zapallar_decreto_ordenanza_local_del_plan_regulador_comunal_de_zapallar__14.pdf",
+  "rangos": [
+    [
+      6,
+      23
+    ]
+  ],
+  "paginas_utiles": 18,
+  "nota_fase3": "ZAPALLAR: Ordenanza Local del PRC (Sector Borde Costero, 48p). Cap 5 Normas Tecnicas, Art 12, p6-23: tablas de usos de suelo y condiciones de subdivision-edificacion por zona: ZH-1A, ZH-1B, ZH-2A, ZH-4A, ZH-6, ZE-1, ZE-2, ZR-1, ZR-1E, ZR-2 a ZR-5, ZAV, con COS, coeficiente de constructibilidad, densidad, agrupamiento, altura maxima, antejardin. ZR-1E y ZR-3 (MN monumento nacional) no traen cuadro propio, remiten al Plan Intercomunal de Valparaiso o a la Ley 17.288 (normativa por remision, igual parte del tramo). Cierra en p23 al empezar Art 13 en texto corrido. *** TRAMPA: pdftotext -layout entremezcla las columnas caracter por caracter (falso patron de texto corrupto/bajo), pero al RENDERIZAR se ve una tabla de texto real y completa, no imagen ***. La fase siguiente DEBE usar el render visual, no el texto plano. Excluidas: p34-43 perfiles viales ruta F-30E (Cap 6 Vialidad), p47 estandares de estacionamiento (Art 54-55, Cap 7), p48 plano PR-Z-BC-01 (grafico). 14 pags verificadas visualmente, repartidas por todo el documento.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:40:33",
+  "fin": "2026-07-18T23:53:52",
+  "resultado": {
+    "archivo": "extraccion_normas\\zapallar\\zapallar_ordlocal_borde_costero_zonas_zh_ze_zr.md",
+    "zonas": 20,
+    "zonas_codigos": [
+      "ZH-1",
+      "ZH-1A",
+      "ZH-1B",
+      "ZH-1C",
+      "ZH-2",
+      "ZH-2A",
+      "ZH-3",
+      "ZH-4",
+      "ZH-4A",
+      "ZH-5",
+      "ZH-6",
+      "ZE-1",
+      "ZE-2",
+      "ZR-1",
+      "ZR-1E",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4",
+      "ZR-5",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "HALLAZGO: nota_fase3 listaba orientativamente ~14 zonas: el Art.12 completo (p6-23) trae 20 zonas reales (incluye subzonas ZH-1B, ZH-1C no mencionadas antes). Confirmado con render visual, NO con pdftotext, tal como advertia la trampa de fase3 (columnas entremezcladas en texto plano). ZR-1E, ZR-3, ZR-4, ZR-5 y ZAV son zonas por remision (Plan Intercomunal Valparaiso / Ley 17.288 / Direccion Monumentos Nacionales), sin cuadro propio de COS/CC -- transcrito el texto de remision tal cual, no inventado. Norma transversal de vivienda social aplicable a todas las zonas incluida al final."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pichidegua_a776d94dff",
+  "comuna": "pichidegua",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pichidegua_1460_ratifica_proceso_de_plan_regulador_de_pichidegua__do-20061025.pdf",
+  "rangos": [
+    [
+      6,
+      22
+    ]
+  ],
+  "paginas_utiles": 17,
+  "nota_fase3": "ratifica proceso PRC completo, incluye 2 localidades: Pichidegua (Cap.I-IV, zonas ZU-1/ZU-2/ZA-3/ZI/AD/ADP, pág6-15) + Pataguas Cerro (Cap.I-III, zonas ZU-1/ZU-2/ZU-3/ZEI/ZE/AD/AVP, pág16-22). Cuadros de normas urbanísticas embebidos como IMAGEN en pág10,11,12,20,21,22 (verificado con render). Desde pág23 cambia a Normas Particulares de otros ministerios (edición DO completa), sin relación con Pichidegua",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:40:33",
+  "fin": "2026-07-18T23:53:51",
+  "resultado": {
+    "archivo": "extraccion_normas\\pichidegua\\pichidegua_1460_zonas_pichidegua_pataguas.md",
+    "zonas": 17,
+    "zonas_codigos": [
+      "ZU-1-Pichidegua",
+      "ZU-2-Pichidegua",
+      "ZA-3-Pichidegua",
+      "ZI-Pichidegua",
+      "ZE-Pichidegua",
+      "AD-Pichidegua",
+      "ADP-Pichidegua",
+      "AV-Pichidegua",
+      "AVP-Pichidegua",
+      "ZU-1-PataguasCerro",
+      "ZU-2-PataguasCerro",
+      "ZU-3-PataguasCerro",
+      "ZEI-PataguasCerro",
+      "ZI-PataguasCerro",
+      "ZE-PataguasCerro",
+      "AD-PataguasCerro",
+      "AVP-PataguasCerro"
+    ],
+    "confianza": "ALTA",
+    "nota": "Documento cubre DOS localidades con zonificacion propia (Pichidegua p6-15, Pataguas Cerro p16-22), ambas usan codigos ZU-1/ZU-2 pero son zonas DISTINTAS -- se diferenciaron con sufijo -Pichidegua/-PataguasCerro en zonas-codigos para no mezclarlas. Cuadros normativos confirmados como imagen en las paginas que decia nota_fase3, transcritos desde el render. ZA-3 tiene discrepancia de nomenclatura propia del documento (encabezado dice ZA-3, articulo de zonificacion lo llama ZU-3) -- se dejo explicito, transcrito tal cual aparece."
+  }
+}
