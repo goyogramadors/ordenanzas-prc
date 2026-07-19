@@ -1,0 +1,68 @@
+{
+  "id": "las_condes_208e2f4248",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\las_condes_Memoria_Explicativa_Mod_11_v_corregida_firmada.pdf",
+  "rangos": [
+    [
+      16,
+      16
+    ],
+    [
+      18,
+      18
+    ],
+    [
+      22,
+      33
+    ],
+    [
+      43,
+      44
+    ]
+  ],
+  "paginas_utiles": 16,
+  "nota_fase3": "MEMORIA EXPLICATIVA Mod.11 Las Condes (54 pags) - ATIPICA: SI trae normativa real, no solo diagnostico. Texto nativo (verificado con render de p22). p16: Tabla A y Tabla B para Predio Existente Remanente de Densificacion (densidad bruta, CC 2,0, rasante 70, altura 5 pisos/17,5 m o 3/10,5 m, antejardin 4-5 m). p18: tabla Pendiente(%) / Superficie Predial Minima / COS / Rasante (ej. pendiente 45,1-65% -> predial 8.000 m2, COS 0,30, rasante 60). p22-31: cuadro comparativo NORMA VIGENTE vs PROPUESTA del art.38, tablas reales por zona (E-Aa3, E-Aa+cm, E-Am1'...) con densidad, subdivision, CC, COS, rasante, altura, antejardin, distanciamiento, agrupamiento. p32-33: tablas de reconversion Densidad Neta->Bruta de todas las zonas E-Ab1..E-Aa+cm. p43-44: zona E-e5 patrimonial y predios colindantes (E-Am1). p20-21 solo siglas; p34-42 y 45-48 derogaciones sin valores.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:29:30",
+  "fin": "2026-07-18T23:39:55",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_mod11_memoria_vigente_vs_propuesta.md",
+    "zonas": 29,
+    "zonas_codigos": [
+      "E-Ab3",
+      "E-Aa3",
+      "E-Aa+cm",
+      "E-Ab2",
+      "E-Am1'",
+      "E-Aa1",
+      "E-Aa2",
+      "E-Aa4",
+      "E-Ab4",
+      "E-Ab4'",
+      "E-Am1",
+      "E-Am2",
+      "E-Am4",
+      "E-Aa+ca",
+      "E-Ab1",
+      "E-Aa+cm-A",
+      "E-Aa+cm-B",
+      "E-Ab2-A",
+      "E-Ab2-B",
+      "E-Ab2-C",
+      "E-Ab2-D",
+      "E-Am1-A",
+      "E-Am2-A",
+      "E-Aa3-A",
+      "E-Aa3-B",
+      "E-Am4-A",
+      "E-Aa+ca-A",
+      "E-Ab1-A",
+      "E-e5"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Documento atipico (Memoria Explicativa con normativa real) organizado como comparativo VIGENTE vs PROPUESTA por zona (no la tabla unica de 9 parametros que sugeria nota_fase3, sino series de Tablas N4-N8 con ajustes puntuales, redacciones y algunos cambios normativos reales de densidad/subdivision/coef.area libre). Bajo confianza a MEDIA porque para muchas zonas (E-Ab3, E-Am1' parcial, E-Aa1/2/4, E-Ab4/4') el cuadro comparativo de este rango de paginas NO trae todos los 9 parametros -- se marco explicitamente 'No especificado en el cuadro' en vez de inventar continuidad con la ficha completa de otro documento de Las Condes ya registrado (decreto 3218/2003). Incluye tabla completa de reconversion Densidad Neta->Bruta (p32-33, todas las zonas E-Ab1..E-Aa+cm) y ficha nueva completa de zona patrimonial E-e5 (antes sin cuadro normativo, ahora si)."
+  }
+}

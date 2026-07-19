@@ -1,0 +1,28 @@
+{
+  "id": "nacimiento_f9bc448e33",
+  "comuna": "nacimiento",
+  "ruta": "Ordenanzas ordenadas\\nacimiento_1270_promulga_enmienda_n2_al_plan_regulador_comunal_de_nacimiento__50977_enmienda2_prc_nacimiento.pdf",
+  "rangos": [
+    [
+      1,
+      16
+    ]
+  ],
+  "paginas_utiles": 16,
+  "nota_fase3": "Decreto 1270/2020, 30-sep-2020, PROMULGA ENMIENDA N2 AL PRC DE NACIMIENTO. Modifica Art 39 de la Ordenanza Local, trasladando uso de suelo Equipamiento Educacional desde Zona Microcentro a un sector de la Zona Actividades Productivas ZAP (Fundo El Huingan, junto a planta INFORSA). Trae tabla COMPLETA 'ZONA ACTIVIDADES PRODUCTIVAS ZAP': Usos de Suelo (permitido/condicionado/prohibido por tipo: residencial, equipamiento, comercio, deporte, educacion, esparcimiento, salud, seguridad, servicios, actividades productivas), y Condiciones de Edificacion y Urbanizacion: Superficie Predial Minima 2500m2, Coeficiente Maximo Ocupacion 0.5, Altura Maxima segun Art 2.6.3 OGUC, Sistema Agrupamiento Aislado, Adosamiento no se permite, Distancia Minima a Medianeros 5.0mts, Antejardin Minimo (10m actividades productivas / 5m otros usos), Densidad Maxima no se exige. La tabla aparece 3 veces: en el oficio SECPLAN (pag 4), en la publicacion Diario Oficial (repite el decreto completo desde pag 6) y en el Plano E2-PRCN a color con leyenda de zonificacion (pag 16, incluye tambien ZRM-1, ZRC-2, ZAM, ZAMAP, ZMC, ZPR-1, ZPR-5). Documento de 16 paginas, rango generoso porque el contenido normativo se repite en formato oficio + DO + plano. Verificado visualmente paginas 1-6 y 16 de 16.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:29:30",
+  "fin": "2026-07-18T23:39:55",
+  "resultado": {
+    "archivo": "extraccion_normas\\nacimiento\\nacimiento_1270_enmienda2_zap.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZAP"
+    ],
+    "confianza": "ALTA",
+    "nota": "Unica zona con ficha completa: ZAP. Confirmadas las 3 apariciones del cuadro (oficio SECPLAN, Diario Oficial, plano E2-PRCN) -- coinciden salvo 1 discrepancia real en antejardin (el plano da un solo valor 5,0m, el texto legal diferencia 10m actividades productivas / 5m otros usos); se uso el valor del texto legal por ser la fuente normativa y se dejo la discrepancia explicita. Otras 8 zonas nombradas solo en la leyenda del plano (ZRM-1,ZRC-2,ZAM,ZAMAP,ZMC,ZPR-1,ZPR-5 + Zona Inundable) NO tienen ficha en este documento, listadas como contexto sin inventar parametros."
+  }
+}

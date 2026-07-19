@@ -1,0 +1,64 @@
+{
+  "id": "santiago_04573ca4a4",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_1640_modificacion_al_plan_regulador_comunal_de_santiago_aprobado_por_resolucion___1640.pdf",
+  "rangos": [
+    [
+      9,
+      19
+    ],
+    [
+      24,
+      27
+    ],
+    [
+      36,
+      36
+    ]
+  ],
+  "paginas_utiles": 16,
+  "nota_fase3": "Decreto Secc.2da N°1640/2011 (DO 05-09-2011), Modificacion sustantiva al PRC de Santiago (Sectores 3-4, Barrio Universitario/Expansion del Centro). P9-19: modifica Art.30 con normas urbanisticas completas por zona/subzona en formato articulado con letras (a-f): Zona A, B, B1 Guayaquil-Quito, Sector Especial B2 (Corredores Santa Isabel/Vicuna Mackenna/Santa Rosa), B3 Catedral, B4 Republica, B6 Iglesia San Francisco, B7 Dieciocho-Ejercito, B8-B11 (Remodelacion San Borja, predial minima 2500m2), B12 Entorno Claustro del 900, Zona D/D1-D5, Zona E/E1/E3/E4/E5/E6 Bascunan Guerrero. Valores: COS 0.7-1.0, coef. constructibilidad 1.6-5.5 (vivienda/otros usos), sistema agrupamiento, altura maxima 12-30.5m, distanciamientos, superficie predial minima. P19-23 tablas de giros CIIU (usos de suelo/actividades productivas) por zona. P24-27: Cap.V Normas Morfologicas (fachadas, vanos min 30%, cierros 1.75-2.6m, retranqueo max 50%) con valores por zona. P36: cuadro estandares de estacionamiento y deroga Seccional San Borja. P28-35 excluidas (vialidad: anchos de vias, no normas de zona). Documento grande y de alta calidad.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T23:29:30",
+  "fin": "2026-07-18T23:39:55",
+  "resultado": {
+    "archivo": "extraccion_normas\\santiago\\santiago_1640_barrio_universitario_zonas_a_e6.md",
+    "zonas": 29,
+    "zonas_codigos": [
+      "A",
+      "B",
+      "B1",
+      "B2",
+      "B2a",
+      "B2b",
+      "B3",
+      "B4",
+      "B6",
+      "B7",
+      "B7a",
+      "B7b",
+      "B8",
+      "B9",
+      "B10",
+      "B11",
+      "B12",
+      "D",
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D5",
+      "E",
+      "E1",
+      "E3",
+      "E4",
+      "E5",
+      "E6"
+    ],
+    "confianza": "MEDIA",
+    "nota": "HALLAZGO IMPORTANTE: el documento es un decreto de MODIFICACION (formulas 'Reemplacese/Incorporese/Modifiquese'), no el texto integro del PRC -- para muchas zonas (A, B3, B8, B9, B10, D general, D1-D5, E general, E1, E3-E5) el decreto solo cambia palabras o guarismos sueltos, no repite la tabla completa de COS/CC/altura/agrupamiento que tenia la ordenanza base (que no esta en este documento). Se transcribio SOLO lo que el decreto realmente cambia, marcando 'No especificado en este tramo (modificacion parcial)' para el resto -- NO se inventaron valores de la ordenanza base no vista. Para zonas con texto REEMPLAZADO INTEGRO (B1,B2/B2a/B2b,B4,B6,B7/B7a/B7b,B11,B12,E6) si hay ficha completa real. Tabla giros CIIU se corta al final de p19 (continua fuera del rango, dicho explicitamente). Confianza MEDIA por la naturaleza fragmentaria de gran parte del documento, no por dudas de lectura."
+  }
+}
