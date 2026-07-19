@@ -1,0 +1,40 @@
+{
+  "id": "linares_18df578732",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\linares_decreto_modificacion_ordenanza_local_plan_regulador_comunal_de_linares__ORD_4_MODIF.pdf",
+  "rangos": [
+    [
+      9,
+      16
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Ordenanza Local modificada, PRC Linares (22 pags, escaneo OCR). TODO EN TEXTO PLANO (no imagen). p9-13: art.10 Zonificacion, cuadros completos Z-1 a Z-9 (usos permitidos/prohibidos + Normas de Subdivision y Edificacion: superficie predial minima, densidad bruta max, COS por vivienda/otros usos, coef. constructibilidad, agrupamiento, altura max, profundidad, continuidad, antejardin). p14: ZE Zona Equipamiento y ZAP Zona Actividades Productivas. p15: ZAV Zona Areas Verdes. p16: zonas no edificables y faja de proteccion ferroviaria (art.13, descriptivo). p17-21: Cap.IV Vialidad (art.14-15), EXCLUIDO. p22: Cap.V transitorio (via expresa Ruta 5 Sur) + firmas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:05:37",
+  "fin": "2026-07-18T19:16:44",
+  "resultado": {
+    "archivo": "extraccion_normas\\linares\\linares_ordlocal_zonificacion_z1-z10_ze_zap_zav.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-6",
+      "Z-7",
+      "Z-8",
+      "Z-9",
+      "Z-10",
+      "ZE",
+      "ZAP",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "HALLAZGO: nota_fase3 solo listaba Z-1 a Z-9 + ZE/ZAP/ZAV (12 zonas); el rango real p9-16 trae una zona adicional Z-10 (paginas 12-13) no mencionada en la nota, con usos y condiciones propias -- se transcribio completa. ZAV es descriptiva, sin cuadro de condiciones de subdivision/edificacion (confirmado, no omision). p16 no tiene zona propia, solo texto descriptivo de zonas no edificables (fajas electricas) y faja de proteccion ferroviaria -- incluido como nota al final, no como zona con --zonas-codigos."
+  }
+}

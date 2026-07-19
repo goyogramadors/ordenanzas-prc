@@ -1,0 +1,70 @@
+{
+  "id": "valparaiso_3f525da144",
+  "comuna": "valparaiso",
+  "ruta": "Ordenanzas ordenadas\\valparaiso_418_aprueba_modificacion_plan_regulador_comunal_declaratoria_de_zonas_de_conserv__do-20100421.pdf",
+  "rangos": [
+    [
+      17,
+      20
+    ],
+    [
+      25,
+      25
+    ],
+    [
+      28,
+      28
+    ],
+    [
+      30,
+      30
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Decreto Alcaldicio 418/2010 (DO 21-04-2010): aprueba modificación PRC Valparaíso Sector Playa Ancha Fase 2 (declara Zonas de Conservación Historica ZCHI/ZCHP/ZCHA) y ademas publica el texto completo de la Ordenanza Local Refundida del PRC (todas las zonas de la comuna, 56p). P17-19: normas completas de ZM (Zona de la Meseta), SZPP/SZPF (Sub Zonas Pendiente), ZCU, ZEE — superficie predial 160-25000 m2, ocupacion 20-100%, densidad hasta 1600 hab/ha, coef. constructibilidad hasta 3, agrupamiento, alturas 3-7 pisos. P20: modifica alturas de Zona ZOHI/ZOHFP (5-7 pisos) y Zona C1 (11.90m). P25: Cuadro de Alturas Maximas por Areas V-1 a V-14 (21-36m, rasantes 20-50°). P28: Zona B1 (altura 21m) y Zona C1 (predial 300m2, ocupacion 75%). P30: las zonas ZCH propiamente dichas — ZCHI (predial 480m2, frente 15m, ocupacion 100%, altura continuidad 11.90m), ZCHP, ZCHA (retranqueos, alturas segun art.16, distanciamiento 3m). Excluidas: p16 (coordenadas limite urbano), p20(inf)-24 y 37-38 (listados de fichas de inmuebles ICH sin parametros + descripcion de limites poligonales de zona por calles, ambos sin valores de edificacion), p35-37 (vialidad estructurante, no cuenta como norma de zona).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:46:32",
+  "fin": "2026-07-18T18:58:13",
+  "resultado": {
+    "archivo": "extraccion_normas\\valparaiso\\valparaiso_418_ordenanza_refundida_fragmentos_pag17-30.md",
+    "zonas": 31,
+    "zonas_codigos": [
+      "ZM",
+      "ZP",
+      "SZPP",
+      "SZPF",
+      "SZPO",
+      "ZCU",
+      "ZEE",
+      "ZCHUP",
+      "ZCHI",
+      "C1",
+      "C",
+      "G",
+      "B1",
+      "B1-1",
+      "ZC",
+      "ZCHP",
+      "ZCHA",
+      "V-1",
+      "V-2",
+      "V-3",
+      "V-4",
+      "V-5",
+      "V-6",
+      "V-7",
+      "V-8",
+      "V-9",
+      "V-10",
+      "V-11",
+      "V-12",
+      "V-13",
+      "V-14"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Documento es la Ordenanza Refundida COMPLETA de Valparaiso (56p), este item cubre 4 tramos discontinuos (p17-20,25,28,30) que caen en partes MUY distintas del articulado -- se organizo el markdown POR PAGINA en vez de por zona porque no forman una secuencia continua de un solo articulo. Bajo confianza a MEDIA (fase3 la tenia ALTA) por 3 hallazgos nuevos: (1) p20 Art.9 tiene un codigo de zona ilegible en el escaneo, transcrito tentativamente como 'ZCHUP' -- valores coinciden con alturas de ZM pero el codigo real es incierto; (2) ZCHI y C1 aparecen DOS VECES en el rango (p20 como modificacion puntual de un articulo previo, p28/p30 como ficha completa) -- son la misma zona, no zonas nuevas, se transcribieron ambas apariciones por separado y marcadas como tal; (3) ZCHA en p30 queda con 'Condiciones de Subdivision y Edificacion' cortada por el borde de la imagen, no visible, marcada 'no especificado'. Las Areas V-1 a V-14 (p25) son restricciones de altura que se superponen a otras zonas, no zonas de uso de suelo en si mismas -- se transcribieron igual porque fijan un parametro normativo (altura maxima) usado por las zonas B1/C1/B1-1/ZC que las referencian."
+  }
+}

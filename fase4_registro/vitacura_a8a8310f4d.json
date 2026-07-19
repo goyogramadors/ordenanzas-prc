@@ -1,0 +1,36 @@
+{
+  "id": "vitacura_a8a8310f4d",
+  "comuna": "vitacura",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vitacura_191825_promulga_modificacion_n_35_al_plan_regulador_comunal_de_vitacura__Promulga modificación plano regulador 02.08.18.pdf",
+  "rangos": [
+    [
+      4,
+      11
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "ADVERTENCIA nombre de archivo: filename dice 'modificacion_n_35' pero el contenido real del decreto es 'PROMULGA MODIFICACIÓN N°33' (Actualización del Artículo 43, DO 02-ago-2018, Nº42.122) - posible error de nomenclatura en el corpus. TRAMPA imagen: Art.43 rehace 'Usos de Suelo por Zonas y Subzonas', cada Cuadro (8, 48-56) por zona U-V,U-PVEV,U-PVO,U-PVOsz,U-POC,U-POCsz,U-PC,U-PCsz,U-Ee1-4,U-AVPC está embebido como imagen JPEG grande (confirmado con pdfimages+extracción, ej. pág4 tabla completa Uso Vivienda con Residencial/Equipamiento por clase permitido/prohibido). Pág4-11 cubren todas las zonas. Solo usos de suelo (sin COS/CC/altura, esos no se tocan en esta modificación)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:16:49",
+  "fin": "2026-07-18T19:24:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\vitacura\\vitacura_mod33_art43_usos_suelo_zonas.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "U-V",
+      "U-PVEV",
+      "U-PVO",
+      "U-PVOsz",
+      "U-POC",
+      "U-POCsz",
+      "U-PC",
+      "U-PCsz",
+      "U-Ee1"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRECCION al nombre del decreto: el archivo del corpus dice 'modificacion_n_35' pero el contenido real dice 'Modificacion N33' -- se dejo la aclaracion explicita en el markdown para que la fase de JSON no cite el numero de decreto equivocado. Confirmado: p4-11 SI cubren las 8 zonas/subzonas de vivienda-comercio-oficinas completas (U-V a U-PCsz) con tabla completa de usos, pero de las zonas de Equipamiento Especial (U-Ee1 a U-Ee4) SOLO aparece U-Ee1, y no como tabla completa sino como reemplazo de listados de direcciones puntuales (Educacion/Salud/Social-Deportivo/Cientifico) -- U-Ee2, U-Ee3, U-Ee4 y U-AVPC NO tienen contenido en este rango de paginas, se dejo explicito, no se inventaron. Documento no toca COS/CC/altura en ninguna zona (confirmado, coherente con nota_fase3)."
+  }
+}

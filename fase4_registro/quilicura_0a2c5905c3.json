@@ -1,0 +1,30 @@
+{
+  "id": "quilicura_0a2c5905c3",
+  "comuna": "quilicura",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\quilicura_acta_12_1_enmienda_plan_regulador_comunal__3bf9a227-f7b1-454b-af86-bd6a41019fc8.pdf",
+  "rangos": [
+    [
+      3,
+      9
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "ES UN ACTA DE AUDIENCIA (Sesion Extraordinaria N12 del Concejo Municipal, 11-10-2017), NO el decreto final: transcribe la presentacion de la Enmienda al PRC en discusion, con valores PROPUESTOS en prosa: zona H1 (altura actual 15 m/5 pisos -> propone 6 pisos), zona H2 (altura actual 7 m/2 pisos -> propone incremento), zona I3 (normada por decretos supremos caducados -> propone 18 m/6 pisos, en concordancia con H1). Tambien antejardines: permite construccion en antejardin en 3 vias (Manuel Antonio Matta tramo San Martin-El Parque, entre otras). Promedio densidad actual 53-83 hab/ha. CONFIANZA MEDIA: son valores en DISCUSION/propuesta en audiencia publica, no necesariamente el texto final aprobado -- verificar si existe el decreto definitivo de esta enmienda en la cola.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:34:24",
+  "fin": "2026-07-18T18:38:54",
+  "resultado": {
+    "archivo": "extraccion_normas\\quilicura\\quilicura_acta12_enmienda_h1_h2_i3_propuesta.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "H1",
+      "H2",
+      "I3"
+    ],
+    "confianza": "BAJA",
+    "nota": "Confirmado: es un ACTA de audiencia publica (Sesion Extraordinaria N12, 11-10-2017), no el decreto aprobado -- todos los valores son PROPUESTAS en discusion, marcados como tal explicitamente en el markdown (tabla actual vs propuesto). Baje confianza a BAJA (mas estricto que la MEDIA sugerida por fase3) porque estos valores podrian no coincidir con el texto finalmente aprobado -- RECOMENDACION EXPLICITA para la fase siguiente: buscar en la cola si existe el decreto DEFINITIVO de esta enmienda (post-audiencia) antes de usar estos valores como norma vigente; si no existe, dejar estos datos marcados como 'propuesta historica 2017', no como ficha normativa actual."
+  }
+}

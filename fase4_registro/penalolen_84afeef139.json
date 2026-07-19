@@ -1,0 +1,40 @@
+{
+  "id": "penalolen_84afeef139",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\penalolen_MPRC_1989.pdf",
+  "rangos": [
+    [
+      3,
+      9
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Decreto 55, 28-abr-1989 (DO N33.433, 27-jul-1989), Ordenanza Local Plan Regulador Peñalolen, texto refundido, 10 pags. Pags 3: Art.28-30 macroareas y listado de zonas (R1,R2,R3,CC,SH1,SH2,IE,EQ / Z1,Z2 / AR,AR1,AR2,AR3). Pags 4-9: Art.31 tablas completas por zona (R.1, R.2, R.3, C.C., S.H., E.Q., Z.1, A.R., A.R.2, A.R.3, etc.) con usos permitidos/excluidos y condiciones de subdivision predial y edificacion (superficie predial minima, frente predial, ocupacion suelo, coef. constructibilidad, densidad, sistema agrupamiento, rasantes, distanciamiento, altura, antejardin, estacionamientos) para vivienda/equipamiento/industria por escala. Pag10 en adelante es solo Capitulo V Vialidad (anchos de vias, sin normas de uso de suelo) -> excluida del rango. Verificado visualmente paginas 1,2,4,7,9,10 de 10.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:24:34",
+  "fin": "2026-07-18T18:34:18",
+  "resultado": {
+    "archivo": "extraccion_normas\\penalolen\\penalolen_mprc1989_zonas_pag3-9.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "R1",
+      "R2",
+      "R3",
+      "CC",
+      "SM1",
+      "SM2",
+      "IE",
+      "EQ",
+      "Z1",
+      "Z2",
+      "AR1",
+      "AR2",
+      "AR3"
+    ],
+    "confianza": "MEDIA",
+    "nota": "13 zonas con tabla propia en pag4-9 (todas las de pag3 excepto 'A.R.' que es solo rotulo de categoria sin tabla propia -- A.R.1/A.R.2/A.R.3 si tienen tabla y se transcribieron). HALLAZGO nuevo no anticipado por fase3: discrepancia S.H.1/S.H.2 (listado art.29, pag3) vs S.M.1/S.M.2 (encabezado real de las tablas, pag5-6) -- documento de 1989 en mal estado, no se pudo resolver con certeza cual es el codigo correcto, se transcribio con S.M. por ser el que aparece en el encabezado de la tabla normativa. Tambien hay correcciones manuscritas sobre valores impresos en R.1 (ocupacion 40%->60%, densidad 196->450 hab/ha) transcritas ambas explicitamente. Bajar CONFIANZA a MEDIA por estas dos incertidumbres; recomiendo a fase siguiente revisar el documento original si aparece de nuevo con mejor calidad."
+  }
+}

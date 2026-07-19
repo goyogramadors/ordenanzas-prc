@@ -1,0 +1,47 @@
+{
+  "id": "las_condes_1970e1affb",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.N3218.04dic2003.pdf",
+  "rangos": [
+    [
+      2,
+      9
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "DO 3218 (04-12-2003) Las Condes, 10 pags. Normas EN TEXTO (no imagen). p2: TABLA A y TABLA B para predio existente residual de densificacion (zonas UV0, UV1, UV2, UV3, UC1, UC2: densidad, CC 2,0, rasante 70, altura 5 pisos/17,50 m, antejardin 5 m, distanciamiento 4 m). p3-9: tablas completas de edificacion zona por zona: E-Ab1 (densidad 10 viv/ha, subdivision 1.000 m2, CC 0,6, COS 0,4, rasante 60, altura 3 pisos/10,5 m), E-Ab2, E-Ab3, E-Ab4/4', E-Am1/1'/2/4, E-Aa1/2/3/4, E-Aa+cm, E-Aa+ca, E-e1, E-e2 (CC 0,3, COS 0,2, area libre 0,7, altura 5 pisos/17,50 m). p9 tambien trae tabla de usos de suelo por actividad (art.41: jardines infantiles, ensenanza, oficinas). Desde la mitad de p9 y toda la p10: VIALIDAD (art.45), excluido. Todo es de Las Condes, sin avisos ajenos.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:05:37",
+  "fin": "2026-07-18T19:16:44",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3218_2003_areas_edificacion.md",
+    "zonas": 20,
+    "zonas_codigos": [
+      "TABLA_A",
+      "TABLA_B",
+      "E-Ab1",
+      "E-Ab2",
+      "E-Ab3",
+      "E-Ab4",
+      "E-Ab4'",
+      "E-Am1",
+      "E-Am1'",
+      "E-Am2",
+      "E-Am4",
+      "E-Aa1",
+      "E-Aa2",
+      "E-Aa3",
+      "E-Aa4",
+      "E-Aa+cm",
+      "E-Aa+ca",
+      "E-e1",
+      "E-e2",
+      "USOS_SUELO_ART41"
+    ],
+    "confianza": "ALTA",
+    "nota": "Documento denso: 17 areas de edificacion (con sub-tablas A/B/C/D por caso: nueva vivienda, densificacion equipamiento, densificacion vivienda, mas variantes por poligono geografico especifico) + 2 tablas de predio residual (A/B) + tabla de usos art.41. Confirmado en cuadro de siglas (art.34) que existen ademas E-e3/E-e4/E-e5 mencionados solo por renumeracion, SIN tabla propia en este rango p2-9 -- no se incluyeron como zonas transcritas porque no tienen contenido en este tramo, se dejo la aclaracion en el markdown. Muchos poligonos geograficos especificos (Cerro San Luis, Sector Visviri, Sector Los Militares, Sector Hermanos Cabot, etc.) traen variantes de altura/antejardin dentro de la MISMA area de edificacion -- se transcribieron como sub-notas dentro de cada area, no como zonas nuevas."
+  }
+}

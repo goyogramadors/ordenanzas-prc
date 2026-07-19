@@ -1,0 +1,49 @@
+{
+  "id": "talca_dcaf16a427",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\talca_decreto_modificaciones_via_enmienda_ordenanza_local_plan_regulador_comunal_de_ta__3920.pdf_1506351298822.pdf",
+  "rangos": [
+    [
+      5,
+      11
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Decreto Alcaldicio 3920 (24-ago-2016): Enmienda N1 a la Ordenanza Local del PRC de Talca. Cuadros completos de Normas de Subdivisión y Edificación por zona, pp.5-11: ZONA U-1 Centro Comercial (predial 500m2, densidad 1200hab/ha), U-2 Centro Institucional, U-3 Densificación Residencial, U-4 Mixta Residencial (CC 1.95, densidad 540hab/ha), U-5 Residencial Densidad Media, U-6 Industria Inofensiva (CC 1.8, predial 260m2, densidad 360hab/ha), U-7 Equipamiento Deportivo Recreacional (COS 0.3, CC 1.0), U-8 Equipamiento y Densificación Residencial (COS 0.75, CC 5.20), y siguientes hasta U-22 Agricultura y Agroindustria (predial 2000m2, COS/CC 0.065) — cada zona además con tabla de Normas Urbanísticas para Actividades del Uso Infraestructura (distanciamiento y antejardín mínimo por Transporte/Sanitaria/Energía). Excluidas pp.1-2 (vistos/considerandos) y pp.3-4 (Modificaciones N1-N3: cuerpos salientes, altura de cierros, tabla de estacionamientos — normas generales, no cuadro por zona).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:39:08",
+  "fin": "2026-07-18T18:46:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\talca\\talca_decreto3920_enmienda1_zonas_u1-u22.md",
+    "zonas": 22,
+    "zonas_codigos": [
+      "U-1",
+      "U-2",
+      "U-3",
+      "U-4",
+      "U-5",
+      "U-6",
+      "U-7",
+      "U-8",
+      "U-9",
+      "U-10",
+      "U-11",
+      "U-12",
+      "U-13",
+      "U-14",
+      "U-15",
+      "U-16",
+      "U-17",
+      "U-18",
+      "U-19",
+      "U-20",
+      "U-21",
+      "U-22"
+    ],
+    "confianza": "ALTA",
+    "nota": "Documento muy denso: las 22 zonas U-1 a U-22 (nota_fase3 solo detallaba hasta U-8 explicitamente y decia 'y siguientes hasta U-22') caben completas dentro de p5-11, confirmado visualmente. Varias zonas (U-1,U-2,U-13,U-16,U-20,U-21) tienen tablas incompletas EN EL PROPIO ORIGINAL -- no traen todos los parametros (p.ej. sin COS/CC propios, o sin tabla de Normas de Subdivision y solo la de Infraestructura) -- se marco explicitamente '(No aparece tabla ... para esta zona)' en vez de inventar valores. Numeros decimales transcritos tal cual el original (formato con punto, ej '1.95', no coma chilena -- asi aparece en el documento real pese a ser un decreto chileno)."
+  }
+}

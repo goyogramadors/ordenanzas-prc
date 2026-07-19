@@ -1,0 +1,28 @@
+{
+  "id": "sin_comuna_19d72598d7",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\RE6B5F~1.PDF",
+  "rangos": [
+    [
+      6,
+      14
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "RENGO: Decreto 0434 (mar-2023) Modificacion N6 al PRC (parcial, 5 temas). NUCLEO: pags 13-14 = Articulo 38 bis zona nueva ZH3-A (usos de suelo + condiciones de edificacion: predial minima, COS, CC, agrupamiento, altura, antejardin, densidad) en formato prosa/articulo, NO grilla. Rango ampliado a 6-14 por precaucion: 6-9 inventario patrimonial ICH/ZCH, 9-11 dotacion de estacionamientos por actividad, 11-12 vialidad estructurante. Pags 17-21 son planos apaisados escaneados (mirados: solo mapas, leyendas y firmas). OJO: este PDF NO trae el cuadro general de normas por zona del PRC vigente de Rengo, solo la zona nueva. [comuna corregida en revision Fase4: era SIN_COMUNA]",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:25:07",
+  "fin": "2026-07-18T19:31:41",
+  "resultado": {
+    "archivo": "extraccion_normas\\rengo\\rengo_mod6_re6b5f_zh3a_art38bis.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZH3-A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Fuente alternativa (PDF distinto, RE6B5F~1.PDF) de la MISMA Modificacion N6/Decreto 434 de Rengo que rengo_544c69d46a -- contenido de ZH3-A (art.38bis), inventario patrimonial ICH/ZCH y tablas de estacionamiento se solapan casi completamente entre ambos items de la cola. Se transcribio integro este rango especifico (p6-14) igual, dejando la duplicidad explicita en el markdown para que la fase de consolidacion decida cual version usar o si fusionarlas. El item tenia comuna='SIN_COMUNA' originalmente, ya corregida a 'rengo' segun nota_fase3."
+  }
+}

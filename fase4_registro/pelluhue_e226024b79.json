@@ -1,0 +1,41 @@
+{
+  "id": "pelluhue_e226024b79",
+  "comuna": "pelluhue",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\pelluhue_6629_aprueba_ordenanza_plan_regulador_comuna_de_pelluhue__Exportar.pdf",
+  "rangos": [
+    [
+      8,
+      14
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "TRAMPA imagen: Ordenanza PRC completa Pelluhue (Curanipe/Pelluhue/Mariscadero). Título4 Zonificación pág8-14: zonas ZC, ZU-1 a ZU-3, ZE-1 a ZE-3, ZAC, ZTBC-1/2, ZAP, ZAV, ZP-1/2 - cada zona título en texto, tablas embebidas como imagen (confirmado pdfimages). Cuadro estacionamientos (pág4-6) es normativa general no de zona",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:24:34",
+  "fin": "2026-07-18T18:34:17",
+  "resultado": {
+    "archivo": "extraccion_normas\\pelluhue\\pelluhue_6629_zonificacion_pag8-14.md",
+    "zonas": 14,
+    "zonas_codigos": [
+      "ZC",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZAC",
+      "ZTBC-1",
+      "ZTBC-2",
+      "ZAP",
+      "ZAV",
+      "ZP-1",
+      "ZP-2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmado en Art.4.1 (pag8): las 14 zonas de la nota_fase3 son exactamente las que trae el rango p8-14, ninguna quedo fuera. Tablas confirmadas como imagen (trampa ya conocida), transcritas desde el render. Cuadro de usos de suelo con columnas Tipo/Destino/Clase/Permitidos/Excepto por zona, cuadro de condiciones de subdivision y edificacion aparte. Sin valores inventados; los pocos 'No especificado' son casos donde la zona no fija ese parametro (p.ej. altura maxima en ZAP/ZP-1/ZP-2)."
+  }
+}

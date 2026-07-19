@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_428210500e",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4476.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      9
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "Dec.4476/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Comercial 3 (PS-U-C3) y DETALLA el art.40 (Cap.IV Zonificacion y Normas Especificas) del PRC Las Condes con el cuadro de usos de suelo de la zona U-C3 en TEXTO extraible: matriz uso de suelo (tipo/clase/actividad/condiciones) cruzada por categoria de via (local, servicio, colectora, troncal, expresa). Cuadro extenso, ocupa casi todo el documento (p1-9). Es tabla de USOS por zona; no trae COS/CC/altura.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:16:49",
+  "fin": "2026-07-18T19:24:49",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_4476_2004_uc3_usos_suelo.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-C3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Unica zona U-C3, mismo patron que la serie ya registrada de Las Condes (U-C1, U-C2, U-V2, U-V3): cuadro extenso de usos de suelo por tipo de via, sin COS/CC/altura (confirmado, no es omision). 3 celdas de la fila 'Templos. Parroquias.' (columnas Colectora/Troncal/Expresa) no tenian texto en el propio documento original -- marcadas como tal, no como ilegibles ni inventadas."
+  }
+}

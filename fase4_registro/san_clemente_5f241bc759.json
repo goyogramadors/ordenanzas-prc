@@ -1,0 +1,42 @@
+{
+  "id": "san_clemente_5f241bc759",
+  "comuna": "san_clemente",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_clemente_15_promulga_plan_regulador_comunal_de_san_clemente_y_deja_sin_efecto_resolucione__Exportar.pdf",
+  "rangos": [
+    [
+      16,
+      22
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Trampa LeyChile clasica (delator 'cuadros siguientes:' + punto solitario) confirmada en p7 y p23. p8-15 son tablas de limite urbano (coordenadas, NO normas). p16: lista de zonas (ZCV, ZU-1 a ZU-8, ZE-1 a ZE-3, ZAV, ZAP, ZNE). p17-22: tablas completas por zona (usos, COS, CC, altura, antejardin, distanciamiento, cierros) terminando en ZAV/ZAP/ZNE. p23 ya es Titulo 3 Vialidad Urbana Local (fuera de rango). Comuna tiene 2 areas urbanas (San Clemente + Aurora Flor del Llano) -- verificar si Aurora Flor del Llano tiene su propio cuadro de zonas separado no capturado en este rango.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:39:08",
+  "fin": "2026-07-18T18:46:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_clemente\\san_clemente_15_zonificacion_pag16-22.md",
+    "zonas": 15,
+    "zonas_codigos": [
+      "ZCV",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZAV",
+      "ZAP",
+      "ZNE"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Confirmado en p16: las 15 zonas de la lista de fase3 son exactas. Bajo CONFIANZA a MEDIA (fase3 la tenia en ALTA) porque ZNE queda con contenido INCOMPLETO -- su articulo narrativo se corta al final de p22 y continua en p23 fuera del rango asignado; se transcribio lo que hay pero falta el resto. No se detecto cuadro de zonas separado para el area urbana Aurora Flor del Llano dentro de p16-22 (nota_fase3 pedia verificarlo) -- si existe, debe estar en otro rango del mismo documento no asignado a este item."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_363d018906",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4474.28dic2004.pdf",
+  "rangos": [
+    [
+      2,
+      9
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "DO 4474 (28-12-2004) Las Condes: CUADRO DE USOS DE SUELO ZONA U-C1 (usos permitidos/condicionados segun via local o de servicio), p2 a p9, en texto. Trae ademas valores explicitos de tamano predial minimo (categoria A4: 800 m2; B2: 1.000 m2; A6: 4.000 m2, p8-9) y topes de superficie construida (locales comerciales max 300 m2/predio; oficinas max 200 m2). Cierra en p9 ('el resto de los usos se entienden prohibidos', Acuerdo 103/2004). NO trae COS/CC/altura: es tabla de USOS, que si cuenta. p1 solo vistos. OJO: este es el unico de los decretos 447x de dic-2004 que SI trae el cuadro; los demas (4475,4476,4484,4486) solo aprueban seccionales sin anexo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:05:37",
+  "fin": "2026-07-18T19:16:44",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_4474_2004_uc1_usos_suelo.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-C1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Unica zona U-C1 confirmada, sin mezcla de otras zonas. Documento es tabla de USOS DE SUELO por tipo de via, NO trae COS/CC/altura (confirmado, no es omision de transcripcion) -- nota_fase3 ya avisaba esto y se dejo explicito en el markdown para que la fase de JSON no interprete el vacio como dato faltante por error. Un valor de superficie en la fila 'Centros de Servicio Automotriz y Venta de Vehiculos' quedo parcialmente ilegible en el escaneo, marcado como tal."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "vina_del_mar_c0260b6a94",
+  "comuna": "vina_del_mar",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\vina_del_mar_6969_promulga_modificacion_al_plan_regulador_comunal_actualizacion_zona_re_2_pla__Exportar.pdf",
+  "rangos": [
+    [
+      16,
+      19
+    ],
+    [
+      21,
+      21
+    ],
+    [
+      23,
+      23
+    ],
+    [
+      27,
+      27
+    ],
+    [
+      29,
+      29
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Dec.6969/2014 promulga Modificacion PRC Vina del Mar 'Actualizacion Zona RE-2, Plan Seccional Recreo'. TRAMPA MIXTO: p16-19,21,23,27 son IMAGEN (raster sin capa de texto, pdftotext solo da el titulo + punto solitario; el cuadro se renderiza en la pagina SIGUIENTE a su titulo). p17 Cuadro5 sintesis RE-1 a RE-6 (constructibilidad 1,2-1,8, alturas 12-14m/OGUC, densidad 200-460 hab/ha). p18-19 Cuadro6/7 RE-2 actual: usos de suelo + condiciones (ocupacion predial 0,5 hasta 10,5m/0,3 sobre, CC 1,2, aislado/escalonado/pareado, densidad 350 hab/ha). p21,23 Cuadro8-11 estructura predial/catastro RE-2 (dato de contexto, no parametro normativo puro, incluido por continuidad). p27 Cuadro12 comparacion ACTUAL vs PROPUESTA (altura 15m max 5 pisos, densidad 350->300 hab/ha, CC 1,2->1). p29 TEXTO real: Ordenanza Local art.unico, valores DEFINITIVOS vigentes para RE-2: altura max 15m/5 pisos, CC 1,0, densidad bruta max 300 hab/ha.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:16:49",
+  "fin": "2026-07-18T19:24:48",
+  "resultado": {
+    "archivo": "extraccion_normas\\vina_del_mar\\vina_del_mar_6969_re2_actualizacion_plan_seccional_recreo.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "RE-2",
+      "RE-1",
+      "RE-3",
+      "RE-4",
+      "RE-5",
+      "RE-6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmado en p29 (Ordenanza Local, articulo unico) los valores DEFINITIVOS vigentes de RE-2 tras la modificacion: altura 15m/5 pisos, CC 1,0, densidad 300 hab/ha -- esta es la fuente autoritativa, distinta de p18-19 (RE-2 ANTES de modificar) y p27 (comparacion), ambas incluidas como contexto historico/comparativo, no como norma vigente. RE-1,RE-3 a RE-6 solo tienen el cuadro sintesis de p17 (Plan Seccional Recreo), no ficha completa de usos de suelo -- se registraron igual porque traen parametros normativos reales (predial, COS, CC, altura, densidad, agrupamiento) por zona. p21/p23 son dato de contexto (catastro predial), no normativo puro, incluidos por continuidad segun pedia nota_fase3."
+  }
+}

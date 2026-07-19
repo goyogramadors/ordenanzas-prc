@@ -1,0 +1,43 @@
+{
+  "id": "salamanca_be46de0c89",
+  "comuna": "salamanca",
+  "ruta": "Ordenanzas ordenadas\\salamanca_plan_regulador__Plan_Regulador_22.08.1988.pdf",
+  "rangos": [
+    [
+      11,
+      19
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "Cap.IV Definicion de macro-areas, zonificacion, uso del suelo y normas especificas (Art.18-19). Tabla normativa por zona pag13 (Art.19, ZONA ZU-1) hasta pag19 (ZE-2, ZR-1 a ZR-6, cierre Art.20): usos permitidos/prohibidos, superficie predial minima, frente predial minimo, %ocupacion suelo, coef.constructibilidad, agrupamiento, altura maxima, densidad. Pag11-12 Art.14 equipamiento (servicentros/garages/terminales) como margen previo. Pag20-23 Cap.V Vialidad (anchos de vias) y cierre, excluidos.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "grego4",
+  "inicio": "2026-07-18T19:25:07",
+  "fin": "2026-07-18T19:31:41",
+  "resultado": {
+    "archivo": "extraccion_normas\\salamanca\\salamanca_prc1988_zonificacion_zu_ze_zr.md",
+    "zonas": 16,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4",
+      "ZR-5",
+      "ZR-6"
+    ],
+    "confianza": "ALTA",
+    "nota": "HALLAZGO: nota_fase3 solo mencionaba orientativamente ZU-1 hasta ZE-2/ZR-1 a ZR-6; el Art.19 completo (p13-19) trae 16 zonas reales: 7 ZU (areas consolidadas), 3 ZE (extension urbana) y 6 ZR (areas especiales, proteccion de cauces/riesgos) -- todas transcritas. ZR-2, ZR-3, ZR-5, ZR-6 son zonas de proteccion/restriccion SIN cuadro de subdivision/edificacion en el documento original (solo texto descriptivo de usos permitidos o de la sola restriccion de forestacion) -- confirmado, no es omision. Documento de 1988: un valor de superficie predial minima en ZE-1 (vivienda en Chalinga) quedo ilegible en el escaneo, marcado como tal."
+  }
+}

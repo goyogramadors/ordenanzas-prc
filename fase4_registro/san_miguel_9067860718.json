@@ -1,0 +1,34 @@
+{
+  "id": "san_miguel_9067860718",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_sn_plan_regulador_comunal__ME_20memoria_20explicativa_20nov.2016.pdf",
+  "rangos": [
+    [
+      144,
+      150
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "Memoria Explicativa (documento de fundamentacion, no la Ordenanza Local) de la Modificacion PRC San Miguel nov.2016. El propio doc aclara que el articulado normativo va en 'Anexo 3: Texto Normativo' -mencionado en el indice p152 pero SIN CONTENIDO, no incluido en este PDF-. SIN EMBARGO p144-149 'Propuesta de Desarrollo Urbano' SI trae parametros concretos por zona en prosa: Z1 Preferente Comercio (altura 27m/10 pisos aislado, 14m/5 pisos continuo, densidad neta max 1.000 hab/ha), Z2 Comercio y Vivienda (altura 14m), Z3 Residencial baja altura (14m), Z4 Residencial en altura (23m/8 pisos), Z5 Mixto (14m aislado/9m pareado-continuo), Z6 Mixto en altura (27m aislado/9m pareado-continuo), Z7 Industria Exclusiva. p148 tabla de superficies por zona (hectareas) + densidad bruta actual promedio 94,37 hab/ha (censo 2012). CONFIANZA MEDIA: son valores PROPUESTOS dentro de un documento de fundamentacion/diagnostico (no la norma final aprobada), y estan INCOMPLETOS (falta COS, CC, predial minimo, antejardin, distanciamiento). Util solo si no se encuentra en el corpus la Ordenanza Local final de esta modificacion.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:39:08",
+  "fin": "2026-07-18T18:46:21",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_miguel\\san_miguel_memoria2016_propuesta_zonas_z1-z7.md",
+    "zonas": 7,
+    "zonas_codigos": [
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "Z5",
+      "Z6",
+      "Z7"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Confirmado: es Memoria Explicativa (fundamentacion), NO la Ordenanza Local aprobada -- el propio documento remite el articulado normativo a un Anexo 3 no incluido en este PDF. Transcritos los 7 parametros que SI trae el documento (altura, pisos, sistema de agrupamiento cuando se menciona, densidad neta, ubicacion) marcados explicitamente como PROPUESTA e INCOMPLETOS -- faltan COS, CC, predial minimo, antejardin y distanciamiento para las 7 zonas (no inventados, marcados 'No especificado, ver Anexo 3 no disponible'). Incluida tabla de superficies p148 y densidad bruta actual (94,37 hab/ha censo 2012) como contexto. RECOMENDACION para fase siguiente: buscar en la cola si existe la Ordenanza Local final de esta modificacion (con Anexo 3 completo) antes de usar estos datos como ficha normativa."
+  }
+}
