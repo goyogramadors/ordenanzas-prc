@@ -1,0 +1,32 @@
+{
+  "id": "rancagua_308c1c986d",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\rancagua_559_y_764_modificacion_al_planregulador_comunal_de_rancagua_plan_seccional_n21_y__2372308.pdf",
+  "rangos": [
+    [
+      18,
+      44
+    ],
+    [
+      65,
+      66
+    ]
+  ],
+  "paginas_utiles": 29,
+  "nota_fase3": "cuadros 'Normas de uso de suelo' y 'Normas de subdivisión predial y edificación' (COS, coef. constructibilidad, superficie predial minima, densidad, altura maxima, sistema de agrupamiento, antejardin, distanciamientos, rasantes, ochavos) embebidos como imagen JPEG por zona (R1..R6, SM1..SM4, BR-M1..M5, BR-SM1-2, IA, IE, IT-1, EQS, EQ-SC, EQ-CB, EQ-CB1, EQ-PU-1, C1, CU, EX1-3, BRO, EQ-CBSO, RAM, Z11B-1, EQ-D, EQ-EDS) verificados visualmente en 20+ paginas muestreadas dentro de 18-44 y 65-66; el bloque 46-64 es tabla de renombre de calles/parques y ciclovias (irrelevante), y 1-17 es articulado/vistos sin tablas de normas",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-23T19:52:10",
+  "fin": "2026-07-23T20:15:33",
+  "resultado": {
+    "archivo": "extraccion_normas/rancagua/rancagua_559y764_plan_seccional_n21_zonas_pag18-44_65-66.md",
+    "zonas": 60,
+    "zonas_codigos": [
+      "R1", "R2", "R3", "R4", "R5", "R6", "SM1", "SM1-A", "SM2", "SM3", "SM4", "BR-M1", "BR-M2", "BR-M3", "BR-M4", "BR-SM1", "BR-SM2", "ZM", "IA", "IE", "IT-1", "EQS", "EQ-SC", "EQ-CB", "EQ-CB1", "EQ-PU-1", "EQ-PU-2", "EQ-E", "ZEQPU-1", "C1", "PE", "PU1-AV", "PU2-EP", "EX1", "EX2", "EX3", "EX4", "EX5", "EX6", "EX7", "EX8", "BRO", "EQ-CBSO", "RAM", "Z11A", "Z11B-1", "Z11B-2", "Z12", "Z20", "ZCH-1", "EQ-CBM1", "CU", "PU-M", "PU-R1", "R1-A", "R2-A", "R3-A", "BR-M5", "EQ-D", "EQ-EDS"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decretos Exentos 559 y 764/2023 (D.O. 43.647, 7-sep-2023), Modificacion PRC Rancagua \"Plan Seccional N21\", dos tramos pag18-44 y pag65-66 de 67, documento integramente escaneado (imagen, sin capa de texto). El documento real resulto MUCHO mas grande de lo que nota_fase3 anticipaba (~25-30 zonas esperadas vs 60 entradas reales) porque el decreto crea zonas nuevas repartidas en Temas N1 a N3 y N7 dentro del rango solicitado, ademas de derogar varias zonas antiguas. TODOS los codigos de nota_fase3 quedaron ubicados y verificados. 60 entradas totales: 47 con cuadro numerico propio de subdivision/edificacion (la mayoria SOLO trae cuadro de subdivision, no de usos de suelo, porque el decreto es 'de modificacion' puntual sobre el Art.29 vigente, no una ordenanza completa -- se documenta expresamente 'No especificado en este documento' donde el decreto no toco ese campo, sin inventar ni rellenar con datos de otros decretos); 7 zonas DEROGADAS sin cuadro (SM1-A, SM2, EQ-PU-1, EQ-PU-2, EQ-E, EX4, Z20); 2 zonas de restriccion sin cuadro de COS/CC porque remiten integramente a normativa aeronautica/sectorial externa al PRC (Z11A: Cono de Proteccion Aerodromo La Independencia Ley16.752; Z12: fajas de proteccion de alta tension); y ZCH-1 que en este decreto especifico solo trae 1 fila (Estacionamientos), su cuadro completo (COS y CC=3,0 corregido) pertenece al Decreto 3326/2020 ya cubierto en rancagua_2236_fe_erratas_zch1_za1_pag2.md de esta misma carpeta -- no se mezclaron valores de ambos decretos. HALLAZGO PRINCIPAL -- trampa de nomenclatura 'Parque Urbano' (EQ-PU-1/EQPU1): el documento usa dos grafias distintas en dos secciones distintas del mismo decreto con resultados distintos: en la seccion Art.29 (numeral 1.30) declara derogadas 'EQ-PU-1' y 'EQ-PU-2' y crea sucesora 'ZEQPU-1' con cuadro propio; en la seccion Art.27 'Areas Consolidadas' (numeral 3.2) renombra 'EQPU1'/'EQPU2' (sin guion) a 'PU1-AV' y 'PU2-EP' respectivamente, cada una con su propio cuadro. Resultado: HAY TRES FICHAS DISTINTAS de 'zona de parque urbano' en este documento (ZEQPU-1, PU1-AV, PU2-EP), todas sucesoras en distintas secciones de la misma zona extinta -- se transcribieron las tres por separado, sin fusionarlas ni resolver cual es la 'correcta'. HALLAZGO -- familia EX es EX1 a EX8, no EX1-3 como preveia nota_fase3: las ocho se transcribieron. ADVERTENCIA EXPLICITA: la zona EX6 DE ESTE decreto (2023) es un documento y probablemente delimitacion DISTINTA de la zona 'EX 6' ya transcrita en rancagua_fe_erratas_tramitacion16_zona_ex6_pag1-2.md (decreto de Tramitacion N16, 2009/2010) de esta misma carpeta -- comparten sigla pero no se cruzo informacion entre ambos documentos. ERRATAS/ANOMALIAS DEL ORIGINAL preservadas sin corregir: (1) Zona BRO (p.32): CC '10' verificado con zoom 2x, literal sin coma decimal -- valor atipicamente alto (rango normal 0,2-5), posible errata por '1,0', confianza MEDIA en esa celda puntual, transcrito [sic]; ademas trae un recuadro 'Eliminese' con valores de BRO que YA NO son norma vigente, documentados aparte como referencia historica. (2) BR-M3 (p.22): permite Aislado/Pareado/Continuo pero Altura Maxima solo trae valor para 'Pareado' (7m) -- verificado con zoom, es del original. (3) EX1 (p.29): cuadro termina en 'Altura Maxima -- Pareado: 17,5', sin fila Continuo ni Antejardin, a diferencia de EX2/EX3. (4) PU-R1 (p.38-39): posible redundancia del original entre Deporte permitido y prohibido -- transcrita literal, confianza MEDIA puntual. ESTRUCTURA ADICIONAL: varias tablas de 'Correccion de Plano' que reasignan sectores especificos de zona a otra (ej. 'La Compania con Los Talaveras: EQS -> R2') se transcribieron como Anexo de referencia, no repetidas como zonas (sin columnas COS/CC). Tablas de incentivo (IPAEP/IIS, Art.9) en varias zonas se transcribieron en subseccion aparte 'Normas con incentivo', separadas de la norma base. Se detecto en vivo que otra tarea paralela (misma sesion SESION4, subagente distinto) escribio rancagua_5415_2017_modificacion20_ex_ruta5_sur_pag8-19.md en la misma carpeta durante el trabajo -- no se toco ni se leyo ese archivo; es un decreto distinto (5415/2016) con superposicion de codigos de zona en BRO/SM4/BR-M1-4/BR-SM1-2/R6/EX8/IT-1/PU1-AV -- 2 decretos distintos y sucesivos que tocan las mismas zonas, cada uno transcrito fielmente por separado sin fusionar valores; una fase posterior debera aplicar 'gana el mas reciente' (559-764/2023 es posterior a 5415/2017) al consolidar. Confianza global ALTA con 2 celdas puntuales en MEDIA (BRO/CC y BR-M3/altura Aislado-Continuo). Cubre tambien Decreto 764 (Tema N7, p.65-66, creacion zona EQ-EDS) dentro del rango solicitado."
+  }
+}
