@@ -1,0 +1,68 @@
+{
+  "comuna": "pelluhue",
+  "region": "07",
+  "geojson_file": "07_PRC_Pelluhue.json",
+  "salida_json": "07_pelluhue.json",
+  "markdowns": [
+    {
+      "id": "pelluhue_e226024b79",
+      "archivo": "extraccion_normas\\pelluhue\\pelluhue_6629_zonificacion_pag8-14.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 14,
+      "zonas_codigos": [
+        "ZC",
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZAC",
+        "ZTBC-1",
+        "ZTBC-2",
+        "ZAP",
+        "ZAV",
+        "ZP-1",
+        "ZP-2"
+      ],
+      "nota": "Confirmado en Art.4.1 (pag8): las 14 zonas de la nota_fase3 son exactamente las que trae el rango p8-14, ninguna quedo fuera. Tablas confirmadas como imagen (trampa ya conocida), transcritas desde el render. Cuadro de usos de suelo con columnas Tipo/Destino/Clase/Permitidos/Excepto por zona, cuadro de condiciones de subdivision y edificacion aparte. Sin valores inventados; los pocos 'No especificado' son casos donde la zona no fija ese parametro (p.ej. altura maxima en ZAP/ZP-1/ZP-2)."
+    },
+    {
+      "id": "pelluhue_c88b7f41b7",
+      "archivo": "extraccion_normas\\pelluhue\\pelluhue_6629_prc_pag7-20.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 14,
+      "zonas_codigos": [
+        "ZC",
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZAC",
+        "ZTBC-1",
+        "ZTBC-2",
+        "ZAP",
+        "ZAV",
+        "ZP-1",
+        "ZP-2"
+      ],
+      "nota": "Render a 300dpi legible en las 14 paginas, 1 zona por pagina. Orden real del documento difiere del listado de nota_fase3 pero coincide en el conjunto completo de 14 zonas e inicio/fin de rango. ZU-1/2/3 llevan subtitulos internos Zona Mixta 1, Zona Residencial 2 y Zona Residencial 3. ZAV no presenta filas de COS ni coeficiente de constructibilidad en su tabla original, marcado no especificado, no inventado."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION 55",
+  "inicio": "2026-07-23T09:51:21",
+  "fin": "2026-07-23T10:03:45",
+  "resultado": {
+    "archivo_json": "07_pelluhue.json",
+    "zonas_ficha": 14,
+    "zonas_geojson": 14,
+    "zonas_cubiertas": 14,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "14/14 zonas del GeoJSON con ficha (ZC,ZU-1/2/3,ZE-1/2/3,ZAC,ZTBC-1/2,ZAP,ZAV,ZP-1/2). Ambos markdowns de Fase4 (dos transcripciones independientes de la misma ordenanza, Decreto 6.629) coinciden exactamente en las 14 zonas y sus normas; sin enmiendas posteriores detectadas. ZAV/ZP-1/ZP-2/ZAP tienen COS/altura null con nota explicita (ficha original sin esa fila, no 'libre'). Generado en 3 fragmentos por subagentes paralelos y ensamblado/validado por la sesion."
+  }
+}

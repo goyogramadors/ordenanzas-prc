@@ -1,0 +1,53 @@
+{
+  "comuna": "navidad",
+  "region": "06",
+  "geojson_file": "06_PRC_Navidad.json",
+  "salida_json": "06_navidad.json",
+  "markdowns": [
+    {
+      "id": "navidad_7c16b45921",
+      "archivo": "extraccion_normas\\navidad\\navidad_reformulacion_zonas_a_b_c_e_r_p.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 22,
+      "zonas_codigos": [
+        "A1",
+        "A1(c)",
+        "A2",
+        "A3",
+        "A4",
+        "A4(c)",
+        "A5(c)",
+        "A6",
+        "A7(c)",
+        "B",
+        "BCD",
+        "C",
+        "E",
+        "EB1",
+        "EB2",
+        "ZR-1",
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5",
+        "P1"
+      ],
+      "nota": "HALLAZGO: inconsistencia real del documento -- el listado del encabezado Art.24 llama 'R6' a la ultima zona restringida, pero la ficha de condiciones (p40) la rotula 'R5', dejado explicito en el markdown, se transcribio con el codigo de la ficha (R5). Zonas con sufijo (c) son variantes 'condicionadas' de sus zonas base, con normas propias completas, no fichas parciales. Varias zonas (A3, A6) traen condiciones adicionales para 'proyectos de densificacion' con parametros distintos a la ficha base -- ambas transcritas. ZR-1, R1-R5 y P1 no traen COS/CC formal (son zonas de restriccion/proteccion), transcrito el texto descriptivo tal cual, sin inventar valores."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION 55",
+  "inicio": "2026-07-23T10:03:50",
+  "fin": "2026-07-23T10:16:46",
+  "resultado": {
+    "archivo_json": "06_navidad.json",
+    "zonas_ficha": 22,
+    "zonas_geojson": 21,
+    "zonas_cubiertas": 21,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "22/22 zonas con ficha (A1,A1c,A2-A7c,B,BCD,C,E,EB1,EB2,ZR1,R1-R5,P1). Fuente unica (Resolucion 64 Afecta 2008/2009), sin enmiendas detectadas. HALLAZGO 1: el encabezado Art.24 rotula la 6ta zona restringida 'R6' pero su ficha de condiciones la llama 'R5'; se uso R5 (coincide con GeoJSON). HALLAZGO 2 (colision del matcher, no de la ficha): GeoJSON trae 'R1' (riesgo inundacion, 33 features) y 'ZR1' (restriccion borde costero, 2 features) como zonas DISTINTAS, pero normalizar_codigo() les quita el prefijo Z a ambas -> 'ZR1' colisiona con 'R1' tras normalizar. Se generaron fichas separadas y correctas para R1 y ZR1 (esta ultima con zona_codigo='ZR1' sin guion para calzar con el GeoJSON real), pero el matcher de la app solo puede resolver una via el codigo normalizado; los 2 poligonos ZR1 probablemente heredan la ficha de R1 en runtime. Requiere ajuste al matcher o a la regla de normalizacion, no a los datos. R3/A7c admiten solo instalaciones temporales (no residencia permanente); R1-R5 y P1 sin coeficientes por ser zonas de prohibicion total de edificar."
+  }
+}

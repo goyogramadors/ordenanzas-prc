@@ -1,0 +1,46 @@
+{
+  "comuna": "donihue",
+  "region": "06",
+  "geojson_file": "06_PRC_Donihue.json",
+  "salida_json": "06_donihue.json",
+  "markdowns": [
+    {
+      "id": "donihue_4cd663b29b",
+      "archivo": "extraccion_normas/donihue/donihue_do56_zonas_donihue_lomiranda_pag8-9_21-23.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 13,
+      "zonas_codigos": [
+        "DONIHUE-ZU-1",
+        "DONIHUE-ZU-2",
+        "DONIHUE-ZE-1",
+        "DONIHUE-ZE-2",
+        "DONIHUE-ZTE",
+        "DONIHUE-ZR-1",
+        "DONIHUE-ZR-2",
+        "LOMIRANDA-ZU-1",
+        "LOMIRANDA-ZU-2",
+        "LOMIRANDA-ZU-3",
+        "LOMIRANDA-ZE-1",
+        "LOMIRANDA-ZE-2",
+        "LOMIRANDA-ZR"
+      ],
+      "nota": "Decreto 56/1988, cubre DOS localidades (Doñihue y Lo Miranda) con bloques normativos independientes dentro del mismo Cap.IV. Formato prosa articulo-por-zona (no cuadro), texto nativo nitido verificado palabra por palabra contra 5 imagenes. 13 zonas: Doñihue ZU-1,ZU-2,ZE-1,ZE-2,ZTE,ZR-1,ZR-2 + Lo Miranda ZU-1,ZU-2,ZU-3,ZE-1,ZE-2,ZR. Documento de 1988 NO define CC ni densidad habitacional en ninguna zona (ausencia real de la fuente, no dato perdido). HALLAZGO clave: el glifo 'ZU-a' de Lo Miranda (reportado por fase3 como corregible via render) en realidad se ve como 'a' minusculas TANTO en texto como en imagen con zoom 4x -- fase3 sobrestimo lo legible del render. Identificacion final como ZU-2 se mantiene pero por inferencia contextual (Art.19 enumera ZU-1,ZU-2,ZU-3,ZR en orden) no por lectura directa. Otros hallazgos: numeracion de articulos Doñihue es Art.19 (no 17-18 como decia fase3) para el cierre de zonas; inconsistencia interna ZR-1 'camino H-30' (titulo) vs 'camino II-30' (cuerpo); errata 'paleado' por 'pareado' en ZE-1; texto desordenado entre agrupamiento/altura en ZE-2; ZU-3 y ZE-2 de Lo Miranda son textualmente identicas (verificado, no es error). Sin datos inventados, 0 campos marcados no-determinable (documento nitido en su totalidad)."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION 55",
+  "inicio": "2026-07-23T10:16:57",
+  "fin": "2026-07-23T10:21:00",
+  "resultado": {
+    "archivo_json": "06_donihue.json",
+    "zonas_ficha": 8,
+    "zonas_geojson": 7,
+    "zonas_cubiertas": 7,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "TE"
+    ],
+    "confianza": "MEDIA",
+    "nota": "8 fichas generadas (7/7 codigos del GeoJSON + ZTE extra por fidelidad, sin geometria propia). Decreto 56/1988 cubre 2 localidades (Donihue 7 zonas + Lo Miranda 6 zonas = 13 zonas de ordenanza) pero el GeoJSON SOLO trae 7 codigos SIN campo de localidad que distinga Donihue de Lo Miranda -- mismo codigo se usa para zonas de ambas. Para ZU-1/ZU-2/ZE-1/ZR-1 las fichas de ambas localidades son casi identicas (fusionadas en 1 ficha, diffs menores documentados). CRITICO -- ZE-2: codigo COLISIONA entre Donihue (residencial-equipamiento, 500m2 COS40%) y Lo Miranda (INDUSTRIAL, 3000m2 COS50%) -- son normativas opuestas compartiendo el mismo zona_codigo en el GeoJSON. Ficha ZE-2 documenta ambas completas (Donihue en campos principales, Lo Miranda integra en excepciones_predios_especiales_txt), pero el matcher de la app NO puede resolver correctamente cual poligono recibe cual ficha -- requiere agregar atributo de localidad al GeoJSON o renombrar codigos (ZE-2-DON/ZE-2-LOM) para resolverse de verdad; no es arreglable solo con el JSON de normativa. Decreto 1988 no define CC ni densidad en ninguna zona (ausencia real de la fuente). Confianza MEDIA por el conflicto ZE-2 sin resolver a nivel de matcher."
+  }
+}
