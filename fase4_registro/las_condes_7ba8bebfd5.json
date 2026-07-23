@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_7ba8bebfd5",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4475.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      9
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "Dec.4475/2004 (Diario Oficial): aprueba Plano Seccional de la Zona de Uso de Suelo Comercial 2 (PS-U-C2) y DETALLA el art.40 (Cap.IV Zonificacion y Normas Especificas) del PRC Las Condes con el cuadro de usos de suelo de la zona U-C2 en TEXTO extraible: matriz uso de suelo (tipo/clase/actividad/condiciones) cruzada por categoria de via (local, servicio, colectora, troncal, expresa). El cuadro ocupa casi todo el documento (p1-9). Mismo formato que los decretos 4476 (U-C3) y 4478 (U-Ee2).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:25:36",
+  "fin": "2026-07-23T14:34:13",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_4475_2004_uc2_usos_suelo.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-C2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto 4.475/2004 (DO 03/02/2005): detalla art.40 PRC Las Condes, zona U-C2 (Comercial 2). Cuadro de usos de suelo completo: 31 filas tipo/clase/actividad x 5 vias (local/servicio/colectora/troncal/expresa) = 155 celdas, transcritas integramente desde texto nativo del PDF (pdftotext -layout, p1-9). Verificacion visual (pdftoppm) en paginas 2, 6, 7 y 8 (las de mayor densidad/riesgo, incl. fila Terminales de Transporte con categorias A4/A6/B2 cruzadas) confirmo coincidencia exacta con el texto extraido. Sin COS/CC/altura en el documento (mismo alcance que decretos hermanos 4476 U-C3 y 4478 U-Ee2)."
+  }
+}
