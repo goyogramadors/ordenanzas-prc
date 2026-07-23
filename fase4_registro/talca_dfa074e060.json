@@ -1,0 +1,61 @@
+{
+  "id": "talca_dfa074e060",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talca_decreto_ordenanza_local_plan_regulador_de_talca_abril_2011__ORDENANZA LOCAL 2016.pdf",
+  "rangos": [
+    [
+      7,
+      9
+    ],
+    [
+      12,
+      65
+    ]
+  ],
+  "paginas_utiles": 57,
+  "nota_fase3": "ORDENANZA LOCAL COMPLETA PRC Talca (abril 2011, 89 pags) - EL DOCUMENTO MAS IMPORTANTE de la comuna. TODO EN TEXTO NATIVO (verificado en render p7,14,15,16,33,41,50,65: ninguna imagen, sin trampa). p7-9: art.11 Exigencias de Estacionamientos + TABLA por uso/destino. p12-13: art.20-21, catalogo de zonas (U-1 a U-22, R-1 a R-7 con subzonas A-D, ZCH). p14-61: 22 zonas urbanas (U-1..U-22) + 7 zonas de riesgo (R-1,R-3 A-D,R-4,R-5,R-6,R-7 A-B), cada una con USOS DE SUELO permitidos/prohibidos + NORMAS DE SUBDIVISION Y EDIFICACION (predial min, COS, CC, agrupamiento, distanciamiento, altura, antejardin, densidad max) + normas de infraestructura (transporte/sanitaria/energia). Ejemplo verificado: ZONA U-1 predial 500 m2, COS 0,9, CC 8. p62-65: marco patrimonial, listado 29 Inmuebles de Conservacion Historica (solo direcciones, sin parametros) y la ZCH Centro Civico con sus 3 tablas completas. p66: arranca Cap.V Vialidad Estructurante, EXCLUIDO.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T19:24:49",
+  "fin": "2026-07-23T19:35:25",
+  "resultado": {
+    "archivo": "extraccion_normas/talca/talca_ordenanza_2011_u1_u22_r1_r7_zch_pag7-65.md",
+    "zonas": 30,
+    "zonas_codigos": [
+      "U-1",
+      "U-2",
+      "U-3",
+      "U-4",
+      "U-5",
+      "U-6",
+      "U-7",
+      "U-8",
+      "U-9",
+      "U-10",
+      "U-11",
+      "U-12",
+      "U-13",
+      "U-14",
+      "U-15",
+      "U-16",
+      "U-17",
+      "U-18",
+      "U-19",
+      "U-20",
+      "U-21",
+      "U-22",
+      "R-1",
+      "R-2",
+      "R-3",
+      "R-4",
+      "R-5",
+      "R-6",
+      "R-7",
+      "ZCH"
+    ],
+    "confianza": "ALTA",
+    "nota": "Extracción completa texto nativo (sin OCR) p7-9 y p12-65. Art.11 tabla estacionamientos por uso/destino. Art.20-22: 22 zonas urbanas U-1..U-22 + 7 zonas de riesgo R-1,R-2(no listada en encargo pero presente en catalogo Art.21 y con tabla completa p47, incluida por completitud),R-3(subzonas A-D),R-4,R-5,R-6(sin tabla, solo restricciones),R-7(subzonas A-B), cada una con usos de suelo permitidos/prohibidos + normas de subdivision y edificacion (predial min, COS, CC, agrupamiento, distanciamiento, altura, antejardin, adosamiento, densidad max) + normas de infraestructura (transporte/sanitaria/energia) donde aplica. Art.23-28 marco patrimonial: 10 Monumentos Historicos (M1-M10), 12 Monumentos Publicos (no graficados), 1 Monumento Arqueologico, listado completo 29 Inmuebles de Conservacion Historica (solo direcciones, sin parametros individuales), ZCH Centro Civico con sus 3 tablas (usos, subdivision/edificacion, infraestructura). No especificado usado para campos ausentes en tablas parciales (varias zonas de riesgo omiten Distanciamiento o Altura en la tabla original). p66 Cap.V Vialidad Estructurante excluido del alcance."
+  }
+}
