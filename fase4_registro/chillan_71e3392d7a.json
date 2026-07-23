@@ -9,12 +9,42 @@
     ]
   ],
   "paginas_utiles": 13,
-  "nota_fase3": "CHILLAN: Decreto que promulga la Modificacion del PRC (41p) = ES EL DOCUMENTO TESTIGO del proyecto (el mismo de 'chillan_normas_urbanisticas_pag23-33.md'). NUCLEO 23-33: Titulo V, Arts 8-12, una tabla por zona: ZC-1..ZC-3 (23-24), ZM-1..ZM-2 (25), ZH-1..ZH-7 (26-28), ZI y ZBA (29), ZE-1..ZE-5 (29-31), ZIS (31), ZIE y ZIT (32), ZAV (33). En p33 empieza el Titulo VI. Anadidas 21-22: cuadro de estacionamientos por carga de ocupacion (Titulo III). Excluidas: p1-7 considerandos + informe ambiental EAE, p15-20 vialidad estructurante, p34-41 cola del documento. Texto OCR legible, no requirio render.",
+  "nota_fase3": "CHILLAN: Decreto que promulga la Modificacion del PRC (41p) = ES EL DOCUMENTO TESTIGO del proyecto (el mismo de 'chillan_normas_urbanisticas_pag23-33.md'). NUCLEO 23-33: Titulo V, Arts 8-12, una tabla por zona: ZC-1..ZC-3 (23-24), ZM-1..ZM-2 (25), ZH-1..ZH-7 (26-28), ZI y ZBA (29), ZE-1..ZE-5 (29-31), ZIS (31), ZIE y ZIT (32), ZAV (33). En p33 empieza el Titulo VI. Coincide EXACTAMENTE con el rango de referencia 23-33, validado de forma independiente. Anadidas 21-22: cuadro de estacionamientos por carga de ocupacion (Titulo III). Excluidas: p1-7 considerandos + informe ambiental EAE, p15-20 vialidad estructurante (lista de vias y anchos), p34-41 cola del documento. Texto OCR legible, no requirio render.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO",
-  "estado": "EN_PROCESO",
+  "estado": "HECHO",
   "sesion": "AMIGO1",
   "inicio": "2026-07-23T19:24:49",
-  "fin": null,
-  "resultado": null
+  "fin": "2026-07-23T19:33:23",
+  "resultado": {
+    "archivo": "extraccion_normas/chillan/chillan_2016_zc_zm_zh_zi_zba_ze_zis_zie_zit_zav_pag21-33.md",
+    "zonas": 23,
+    "zonas_codigos": [
+      "ZC-1",
+      "ZC-2",
+      "ZC-3",
+      "ZM-1",
+      "ZM-2",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZH-4",
+      "ZH-5",
+      "ZH-6",
+      "ZH-7",
+      "ZI",
+      "ZBA",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZIS",
+      "ZIE",
+      "ZIT",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "Transcripcion completa de p21-33 (Titulo III cuadro estacionamientos Art5 + Titulo V Arts 8-12, 23 zonas: ZC-1..3, ZM-1..2, ZH-1..7, ZI, ZBA, ZE-1..5, ZIS, ZIE, ZIT, ZAV) del Decreto que promulga la Modificacion del PRC de Chillan 2016. Metodo: pdftotext -layout muy degradado (capa OCR ruidosa), se verifico visualmente el 100% del rango p21-33 con pdftoppm -r 200 + lectura de imagen, tabla por tabla, celda por celda. Zonificacion Art.11 confirmada exhaustivamente: coincide 1:1 con nota_fase3 (23 zonas, sin faltantes ni sobrantes). Valores 'No especificado' donde el cuadro original no trae dato (ej: ZI y ZBA solo traen superficie predial minima y COS; ZE-3 no trae COS/CC/altura; ZIS, ZIT y ZAV no traen cuadro de condiciones de subdivision y edificacion en absoluto, solo usos de suelo) -- nunca se inventaron valores. Validacion cruzada positiva: existe extraccion independiente de un decreto distinto con el mismo contenido normativo (chillan_7458_prc_23zonas_pag10-13.md, id diferente, mismo PRC publicado en Diario Oficial) que coincide con este archivo en 21 de las 23 zonas; se detecto una discrepancia puntual: ese otro archivo atribuye a la zona ZIT los valores de condiciones de subdivision (predial 2000m2, COS 0.7, CC 2, altura libre, Aislado, antejardin 5m) que en este documento (verificado visualmente en el render de p32) pertenecen inequivocamente al cuadro de la zona ZIE; en este archivo ZIT queda correctamente marcada como sin cuadro de condiciones propio. Documentado explicitamente en el .md bajo la seccion de Zona ZIT."
+  }
 }
