@@ -12,9 +12,36 @@
   "nota_fase3": "ORDENANZA LOCAL PRC Yumbel (15 pags). TODO EN TEXTO REAL. Cap.IV Areas especiales y de restriccion, arranca p7. p8: Zona Habitacional H1 (predios en calles especificas con normas propias) y H2 (usos vivienda+equipamiento, longitud agrupamiento 75%, densidad 120 viv/ha). p9: densidad 100 viv/ha, antejardin 2 m, Area de Extension Urbana. p10-11: Zona de Equipamiento E (agrupamiento aislado, altura 7 m, antejardin 2 m), E3 (culto/educacion), E4 (deportes). p12: predial 4.000 m2, frente 90 m, Zona Industrial ZI, Zona Proteccion Ecologica ZPE (Estero Cambrales). p13: predial 1.000 m2, frente 25 m, COS 0,2, CC 0,3, agrupamiento aislado, altura 7 m, densidad 20 viv/ha, antejardin 10 m; Zona Proteccion Incendios Forestales ZPI (predial 4.000 m2, frente 50 m); Zona Proteccion Ferrovias PFC. p14 en adelante: Cap.V Vialidad (art.23-26, cuadros de vias estructurantes y no estructurantes), EXCLUIDO.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO",
-  "estado": "EN_PROCESO",
+  "estado": "HECHO",
   "sesion": "AMIGO1",
   "inicio": "2026-07-23T14:00:25",
-  "fin": null,
-  "resultado": null
+  "fin": "2026-07-23T14:10:23",
+  "resultado": {
+    "archivo": "extraccion_normas/yumbel/yumbel_zonificacion_usos_suelo_normas_especificas_pag7-13.md",
+    "zonas": 20,
+    "zonas_codigos": [
+      "H1",
+      "H2",
+      "H3",
+      "H4",
+      "ZEX1",
+      "ZEX2",
+      "E",
+      "E1",
+      "E2",
+      "E3",
+      "E4",
+      "E5",
+      "CP",
+      "C",
+      "ZI",
+      "ZPE",
+      "ZRF",
+      "ZRP",
+      "ZPI",
+      "PFC"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Cap.IV Art.21-22 completo (pag7-13). 20 zonas transcritas (nota_fase3 solo listaba 9: H1,H2,E,E3,E4,ZI,ZPE,ZPI,PFC -- se encontraron ademas H3,H4,ZEX1,ZEX2,E1,E2,E5,CP,C,ZRF). Metodo TEXTO nativo (pdftotext -layout), verificado visualmente contra render 200dpi de las 7 paginas del rango sin discrepancias. Confianza MEDIA (no ALTA) por un solo caveat real: el encabezado 'Zona de Extension Urbana 2, ZEX 2' esta ausente en el PDF fuente (confirmado visualmente, no es artefacto de extraccion) -- el segundo bloque de parametros en pag9 se atribuye a ZEX2 por descarte logico (unico bloque restante antes de Areas Especiales, Art.21 anuncia exactamente 2 zonas ZEX). Otros hallazgos: zonas C, ZPE y PFC solo tienen usos permitidos/prohibidos sin cuadro de subdivision/edificacion en el original (no inventado, asi esta impreso); ZPI solo trae subdivision predial y frente, sin COS/CC/altura/agrupamiento/antejardin. Cap.V Vialidad excluido correctamente segun rango asignado."
+  }
 }
