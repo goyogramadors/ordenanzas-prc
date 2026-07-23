@@ -1,0 +1,43 @@
+{
+  "comuna": "codegua",
+  "region": "06",
+  "geojson_file": "06_PRC_Codegua.json",
+  "salida_json": "06_codegua.json",
+  "markdowns": [
+    {
+      "id": "codegua_c9d542df1a",
+      "archivo": "extraccion_normas\\codegua\\codegua_decreto28_2018_zonificacion_pag15-26.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "ZH1",
+        "ZH2",
+        "ZH3",
+        "ZH4",
+        "ZM1",
+        "ZM2",
+        "ZM3",
+        "ZE",
+        "ZED",
+        "ZIS",
+        "AV",
+        "ZCH1"
+      ],
+      "nota": "Render mas legible de lo que sugeria la advertencia de fase3; los 3 valores de control de nota_fase3 (ZH4,ZED,ZCH1) se confirmaron exactos digito a digito, OCR del documento es efectivamente poco confiable pero el render a 300-400dpi resolvio todo. Error de tipeo del propio decreto en p23: tabla de normas que sigue al cuadro de usos de ZE esta rotulada Normas Urbanisticas ZED (confirmado a 400dpi, no es OCR) -- se asigno por posicion/contenido a ZE, la tabla correcta de p24 quedo para ZED. Zona AV no tiene tabla de usos ni normas propia, solo texto remitiendo a OGUC. La tabla de ZCH esta rotulada ZCH1 aunque encabezado de seccion y art.7 usan ZCH."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION66",
+  "inicio": "2026-07-23T10:17:31",
+  "fin": "2026-07-23T10:24:57",
+  "resultado": {
+    "archivo_json": "06_codegua.json",
+    "zonas_ficha": 12,
+    "zonas_geojson": 12,
+    "zonas_cubiertas": 12,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "12 zonas (Decreto 28/2018). 12/12 codigos GeoJSON cubiertos. GeoJSON usa ZCH (no ZCH1 del cuadro), alias documentado. AV sin cuadro propio, remite a OGUC, todo null. Fecha vigencia 2018-02-26 no confirmada como fecha DO."
+  }
+}

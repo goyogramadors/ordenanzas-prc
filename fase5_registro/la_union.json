@@ -1,0 +1,84 @@
+{
+  "comuna": "la_union",
+  "region": "14",
+  "geojson_file": "14_PRC_La_Union.json",
+  "salida_json": "14_launion.json",
+  "markdowns": [
+    {
+      "id": "la_union_2731dcc5d2",
+      "archivo": "extraccion_normas\\la_union\\la_union_2900_enmienda_estacionamientos_zu4_pag1.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZU-4"
+      ],
+      "nota": "Enmienda puntual de estacionamientos (Salud 1/40->1/52 m2, Deporte 1/24->1/31 espectadores) en zona ZU-4. Texto limpio, sin trampa. No aporta COS/CC/altura. Coincide con nota_fase3."
+    },
+    {
+      "id": "la_union_3caf5f6931",
+      "archivo": "extraccion_normas\\la_union\\la_union_9132_enmienda_zr4_pag15.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZR-4"
+      ],
+      "nota": "PELIGRO DE CONTAMINACION confirmado: p14 del mismo PDF trae norma de CABRERO (zona ZPI-2) con mismas etiquetas. Se extrajo EXCLUSIVAMENTE p15, verificando encabezado MUNICIPALIDAD DE LA UNION y zona ZR-4 antes de transcribir. Predial 1000m2, COS 0,5, CC 1,0, aislado, antejardin 3m, altura segun rasante OGUC 2.6.3. Coincide con nota_fase3."
+    },
+    {
+      "id": "la_union_ce0b6a28f9",
+      "archivo": "extraccion_normas\\la_union\\la_union_117_modificacion_zr8_zui_pag3.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 2,
+      "zonas_codigos": [
+        "ZR-8",
+        "ZU-I"
+      ],
+      "nota": "Extraida solo columna derecha de p3 (texto limpio). Columna izquierda tiene cuadros-imagen de indicadores EAE, no normas de zona, excluidos correctamente. Ambas zonas con usos de suelo + condiciones de edificacion completas."
+    },
+    {
+      "id": "la_union_a8f3c7c994",
+      "archivo": "extraccion_normas\\la_union\\la_union_9_2003_prc_pag15-20_28-40.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 19,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-I",
+        "ZE-1",
+        "ZE-2",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZR-4",
+        "ZR-5",
+        "ZR-6",
+        "ZR-7",
+        "ZR-8",
+        "ZEx-1",
+        "ZEx-2"
+      ],
+      "nota": "Texto nativo limpio, sin trampa. Discrepancia con nota_fase3: documento trae 19 zonas, no 16 (conteo previo omitio que hay 8 sub-zonas ZR y 2 ZE, no solo 1 de cada una). ZR-1,ZR-3,ZR-4,ZR-5 no traen valores numericos de subdivision/edificacion, documentado No especificado o remision al servicio competente tal cual el original; ZR-7 remite explicitamente a la normativa de ZU-2. ZE-1 y ZE-2 dicen literalmente No se consultan. Norma de discotecas/boites (Art.22) y tabla de estacionamientos (Art.13) documentadas aparte, fuera de las 19 zonas."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "SESION66",
+  "inicio": "2026-07-23T10:06:56",
+  "fin": "2026-07-23T10:07:07",
+  "resultado": {
+    "archivo_json": "14_launion.json",
+    "zonas_ficha": 19,
+    "zonas_geojson": 17,
+    "zonas_cubiertas": 17,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "U1",
+      "UI"
+    ],
+    "confianza": "ALTA",
+    "nota": "19 zonas (ordenanza 9/2003 base + enmienda 9132/2014 ZR-4 + modificacion 117/2012 ZR-8,ZU-I + enmienda 2900/2013 estacionamientos ZU-4). zona_codigo sin guion para calzar con el GeoJSON (ZR4 no ZR-4). ZU-1 y ZU-I en ordenanza pero no en GeoJSON, incluidas igual. ZR-7 se asimila a ZU-2 por texto propio de la ordenanza."
+  }
+}
