@@ -13,16 +13,16 @@
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
   "estado": "HECHO",
-  "sesion": "AMIGO1",
-  "inicio": "2026-07-18T22:12:48",
-  "fin": "2026-07-18T22:16:26",
+  "sesion": "SESION4",
+  "inicio": "2026-07-18T22:12:01",
+  "fin": "2026-07-23T13:49:13",
   "resultado": {
-    "archivo": "extraccion_normas/maipu/maipu_1984_2007_ze12_pag1-7.md",
+    "archivo": "extraccion_normas/maipu/maipu_1984_zona_ze12_pag1-7.md",
     "zonas": 1,
     "zonas_codigos": [
       "ZE-12"
     ],
     "confianza": "ALTA",
-    "nota": "Decreto 1984/2007, crea zona ZE-12 (Equipamiento Exclusivo El Almendral) en el Art.41 Zonas de Uso Especial. Documento duplicado 2 veces (paginas 1-4 copia limpia productos.doe.cl vs 5-7 Diario Oficial N38.780) - verificadas ambas versiones, identicas valor por valor, sin discrepancias. Cuadro completo: predial 1000m2, COS 0.8, CC 4, altura 30m/8 pisos (Av.Rinconada) o 14m/4pisos (calle Maipu/Olimpo), rasante 70, distanciamiento 5m, antejardin 5m. Densidad habitacional sin valor (guion en el original, documentado no interpretado como cero). Incluye cuadro resumen de 13 predios modificados (55.568 m2 total) por completitud."
+    "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) -- AMIGO1 quedo registrado primero como HECHO con archivo maipu_1984_2007_ze12_pag1-7.md (81 lineas). SESION4 detecto el choque al pushear y comparo ambas versiones valor por valor. RESULTADO: los 12 parametros del cuadro ZE-12 (predial 1000m2, COS 0,8, COS pisos superiores 0,8, CC 4, coef.area libre 0,2, altura 30m/8pisos Av.Rinconada o 14m/4pisos calle Maipu/Olimpo, agrupamiento aislado-pareado, rasante 70, distanciamiento 5m, adosamiento OGUC, antejardin 5m, densidad \"-\") y las 13 filas + total del cuadro resumen de predios (55.568 m2) coinciden EXACTAMENTE entre ambas transcripciones -- cero discrepancia numerica. DIFERENCIA DE COMPLETITUD (razon de esta reconciliacion): la version SESION4 agrega (1) verificacion cruzada cifra por cifra entre las 2 copias del propio decreto (paginas 1-4 vs 5-7) documentada en tabla dedicada; (2) control aritmetico independiente de la suma de los 13 predios (cuadra exacto contra el total impreso); (3) hallazgo explicito y destacado de que el cuadro resumen de 13 predios corresponde a la zona ZE-2 (no a ZE-12) segun el Art.2 punto 1 -- relevante para evitar una asociacion zona-predio incorrecta en el geolocalizador, mencionado por AMIGO1 solo de pasada sin remarcarlo como hallazgo; (4) errata [sic] de concordancia verbal \"Reemplacese\"/\"Remplazase\" en el Art.2 punto1, no detectada por AMIGO1; (5) verificacion de \"trampa comuna ajena\" mas exhaustiva, identificando y verificando por nombre de alcalde tanto el contenido de Cerro Navia (pag6) como el de Providencia (pag7) que rodean el decreto de Maipu en la edicion completa del Diario Oficial -- AMIGO1 no revisa esto en absoluto. Por esta diferencia de completitud (no de exactitud, que es nula), se elige la version SESION4 como resultado canonico. El archivo de AMIGO1 se deja intacto en el repo, ya no referenciado por este registro. NOTA SUSTANTIVA (SESION4): Decreto Alcaldicio 1984/2007, Municipalidad de Maipu, DO N38.780 05-jun-2007, pag1-7 de 7 (documento duplicado 2 veces: pag1-4 copia limpia productos.doe.cl, pag5-7 edicion completa del Diario Oficial). Crea zona ZE-12 \"Equipamiento Exclusivo El Almendral\" en el Art.41 Zonas de Uso Especial. Verificacion cruzada cifra por cifra entre ambas copias del decreto: 100% de coincidencia, sin ninguna discrepancia. 0 trampa comuna ajena dentro del propio decreto de Maipu (se detecto contenido de Cerro Navia y Providencia en la misma edicion del Diario Oficial pero claramente delimitado, no mezclado). Confianza alta."
   }
 }
