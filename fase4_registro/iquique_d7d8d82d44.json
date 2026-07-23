@@ -12,9 +12,24 @@
   "nota_fase3": "IQUIQUE: Decreto 264 (BCN LeyChile, 12p) que aprueba el PLAN SECCIONAL BORDE COSTERO (Subzona A-2), modificando el PRC del DS 233-1981. Normas en pags 4-11, formato 'Etiqueta dos puntos Valor' por articulo y subsector (NO es cuadro ni imagen): Sector A-2.1 general (Art 20, p4), Remodelacion El Morro (Art 26, p5), El Morro (Art 31, p6-7), Balmaceda (Art 33, p7), Peninsula de Cavancha (Art 35, p7-8), Cavancha (Art 37, p8), Aeropuerto (Art 39, p9) e inmuebles hoteleros (Art 44, p11). Campos: usos permitidos y prohibidos, superficie predial minima, ocupacion maxima de suelo, coeficiente de constructibilidad, altura, rasantes, antejardin, cierros. EXCEPCION A LA TRAMPA BCN: texto integro y fiel, cero delatores, 9 pags verificadas visualmente. Excluida la tabla de vialidad (Art 42, p9-10).",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
-  "estado": "EN_PROCESO",
+  "estado": "HECHO",
   "sesion": "AMIGO1",
   "inicio": "2026-07-23T14:00:25",
-  "fin": null,
-  "resultado": null
+  "fin": "2026-07-23T14:07:23",
+  "resultado": {
+    "archivo": "extraccion_normas/iquique/iquique_264_bordecostero_pag4-11.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "A-2.1",
+      "A-2.2-REMOD-EL-MORRO",
+      "A-2.2-EL-MORRO",
+      "A-2.2-BALMACEDA",
+      "A-2.2-PENINSULA-CAVANCHA",
+      "A-2.2-CAVANCHA",
+      "A-2.2-AEROPUERTO",
+      "A-2.1-HOTELERO-PENINSULA-CAVANCHA"
+    ],
+    "confianza": "ALTA",
+    "nota": "Plan Seccional Borde Costero Subzona A-2 (Decreto 264, 1993), texto nativo integro Art 18-47 (pags 4-11). 8 subsectores con cuadro propio: Sector A-2.1 general (Art20, aplicable tambien a sus 4 subsectores internos por remision del Art22), Remodelacion El Morro (Art26), El Morro (Art31), Balmaceda (Art33), Peninsula de Cavancha (Art35), Cavancha (Art37), Aeropuerto (Art39), regimen especial inmuebles hoteleros en Peninsula Cavancha (Art44). Verificado visualmente con render 200dpi en pags 5, 6 y 11 -- coincidencia letra por letra, cero trampa BCN. Excluida tabla de vialidad Art42 (pags 9-10) por instruccion del encargo. Preservado typo genuino de la fuente 'deprotivo' (Art26), confirmado visualmente como del original."
+  }
 }
