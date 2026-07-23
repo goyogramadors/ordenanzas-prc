@@ -1,0 +1,53 @@
+{
+  "comuna": "paredones",
+  "region": "06",
+  "geojson_file": "06_PRC_Paredones.json",
+  "salida_json": "06_paredones.json",
+  "markdowns": [
+    {
+      "id": "paredones_80e4dcaffc",
+      "archivo": "extraccion_normas/paredones/paredones_do3593_zonas_a_bc_zs_zt_zch_e_zd_zcem_p1_riesgo_pag9-13.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 17,
+      "zonas_codigos": [
+        "A-1",
+        "A-2",
+        "A-3",
+        "BCD",
+        "BCE",
+        "ZS1",
+        "ZT-SPA",
+        "ZCH",
+        "B-1",
+        "E",
+        "ZD",
+        "BC",
+        "ZCEM",
+        "P1",
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "nota": "Decreto 3593/2014 Paredones (DO 17-dic-2014), 17 zonas/areas: 14 zonas A/B (A-1,A-2,A-3,BCD,BCE,ZS1,ZT-SPA,ZCH,B-1,E,ZD,BC,ZCEM,P1) + 3 areas de restriccion (R1 inundable,R2 remocion en masa,R3 tsunami). Verificado columna por columna (no fila por fila) contra 5 imagenes 250dpi -- el .txt intercala fragmentos de ambas columnas en la misma linea cuando coinciden en altura, lo que produce atribucion erronea si se lee fila por fila. HALLAZGO A-1/A-2 confirmado y resuelto (el bloque de valores que parece pegado a una zona en el .txt en realidad pertenece a la zona ANTERIOR en el orden real de lectura por columnas): A-1=300m2/COS0.6/CC0.9/80hab-h/sin excepcion Bucalemu; A-2=180m2/COS0.6/CC1/120hab-ha/antejardin4m/con excepcion Bucalemu; A-3=400m2/COS0.4/CC0.6/30hab-ha/antejardin6m/con excepcion Bucalemu. HALLAZGO ADICIONAL no anticipado por fase3: mismo patron de salto de columna entre B-1 y BC (pag11-12) -- el bloque 300m2/3pisos-9m/rasantes70/60hab-ha/antejardin5m pertenece a B-1, no a BC. Inconsistencia propia del decreto (no de la transcripcion): Art.4.2 clasifica Zona BC como Mixta pero en el cuerpo del texto aparece entre las Zonas Exclusivas -- se transcribio respetando la ubicacion real en el cuerpo. Campos ausentes en la fuente marcados Dato no determinable sin inventar (Antejardin/Densidad en BC, Densidad en P1 y ZD, seccion 5 ausente en A-1). Erratas tipograficas de la fuente preservadas tal cual (80 hab/h en A-1 sin la a final, Antejardin sin tilde en A-3, nomenclatura de planos inconsistente PRC-CP0x/PRCP-02/PRC-PA2 en R1/R3, mezcla de coma y punto decimal entre Zonas Mixtas y Exclusivas). Confirmado que las 3 tablas fuera de alcance (estacionamientos p8, catastro patrimonial ICH1-34 p14) no aparecen en el rango p9-13; vialidad estructurante si aparece parcialmente en columna derecha p13 pero no se transcribio, conforme al encargo. Cierre limpio confirmado: el contenido de zonas (R3.b Riesgo Alto) termina completo justo antes de Capitulo V Vialidad en p13, ninguna zona quedo a medio transcribir. Confianza alta en las 17 zonas."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:07:15",
+  "fin": "2026-07-23T10:18:11",
+  "resultado": {
+    "archivo_json": "06_paredones.json",
+    "zonas_ficha": 17,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "CH",
+      "R1",
+      "R2",
+      "R3"
+    ],
+    "confianza": "ALTA",
+    "nota": "17 fichas, 13/13 codigos del geojson cubiertos (ZCH,R1,R2,R3 documentados por la ordenanza pero sin poligono en esta capa). ZCH remite integro a Cap.VI + Zona A-1 sin cifras propias (null+txt). BC esta en zonas exclusivas del cuerpo del texto aunque el indice Art.4.2 la lista en Zonas Mixtas -- discrepancia de la fuente, documentada. R1/R2/R3 sin cuadro de edificacion propio, solo normas de restriccion/edificacion tsunami-resistente. zona_codigo de P1 registrado como 'P-1' para calzar con el geojson."
+  }
+}

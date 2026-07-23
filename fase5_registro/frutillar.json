@@ -1,0 +1,33 @@
+{
+  "comuna": "frutillar",
+  "region": "10",
+  "geojson_file": "10_PRC_Frutillar.json",
+  "salida_json": "10_frutillar.json",
+  "markdowns": [
+    {
+      "id": "frutillar_e538a72fb9",
+      "archivo": "extraccion_normas\\frutillar\\frutillar_150_prc1983_9zonas_pag6-8.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 9,
+      "zonas_codigos": [
+        "H-1",
+        "H-2",
+        "T",
+        "TR",
+        "C",
+        "K",
+        "DR",
+        "I",
+        "V"
+      ],
+      "nota": "9 zonas completas en prosa (art.10): predial 160-2000m2, ocupacion 10-70%, rasante 30-60 grados, antejardin 2-10m, agrupamiento variado. Art.11 (cuadro resumen) no digitalizado por BCN pero valores ya estan en prosa del art.10, transcritos integros. Zona V sin condiciones (forestacion). Coincide con nota_fase3."
+    }
+  ],
+  "estado": "FALLIDO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:36:10",
+  "fin": "2026-07-23T09:38:50",
+  "resultado": {
+    "motivo": "Desajuste total fuente vs GeoJSON: Fase4 solo sourceo Decreto 150/1983 (zonas H-1,H-2,T,TR,C,K,DR,I,V) pero el GeoJSON vigente 10_PRC_Frutillar.json tiene 37 codigos ZU-/ZEx-/ZR-/ZE-/ZTH-/Z- sin ninguna superposicion -- el instrumento vigente que genero esa capa es posterior a 1983 y aun no fue sourceado. Requiere volver a ordenanza-buscar-y-bajar para localizar el PRC actualizado antes de poder convertir."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "comuna": "yumbel",
+  "region": "08",
+  "geojson_file": "08_PRC_Yumbel.json",
+  "salida_json": "08_yumbel.json",
+  "markdowns": [
+    {
+      "id": "yumbel_f3582f265f",
+      "archivo": "extraccion_normas\\yumbel\\yumbel_ordenanza_local_prc_pag7-13.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 20,
+      "zonas_codigos": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "ZEX1",
+        "ZEX2",
+        "E",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "CP",
+        "C",
+        "ZI",
+        "ZPE",
+        "ZRF",
+        "ZRP",
+        "ZPI",
+        "PFC"
+      ],
+      "nota": "nota_fase3 solo mencionaba subconjunto; documento real tiene 20 zonas (art. IV completo), todas transcritas. Zona ZEX2 identificada por posicion/contexto en p9, no trae rotulo explicito impreso. C/ZPE/ZPI/PFC sin todos los parametros dimensionales en el texto -> marcados No especificado."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:44:02",
+  "fin": "2026-07-19T00:14:59",
+  "resultado": {
+    "archivo_json": "08_yumbel.json",
+    "zonas_ficha": 22,
+    "zonas_geojson": 22,
+    "zonas_cubiertas": 22,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "22 fichas = 22/22 codigos geojson. HALLAZGO IMPORTANTE no anticipado: el geojson usa un esquema de codigos (ZH1-4,ZEH-1/2/2c,ZE,ZECET,ZED,ZEE,ZESA,ZESC,ZESE,ZHMC,ZIS,ZP,ZPD,ZRI,AV,Agua,BNUP) totalmente distinto al del Art.22 transcrito en fase4 (H1-4,ZEX1/2,E/E1-5,CP,C,ZI,ZPE,ZRF,ZRP,ZPI,PFC) -- se remapeo por nombre/uso (ZH1->H1, ZEH-1->ZEX1, ZESA->E1, ZED->E4, ZP->ZI, ZRI->ZRF, ZESC->C, ZESE->CP, etc.), dejando el razonamiento en cada ficha. ZHMC/ZECET/ZEE/ZIS sin correspondencia textual defendible -- null+nota. Decreto/resolucion especifico de aprobacion no se ubico (solo D.O. 28-04-1998, plano PRY-01, confirmado por el subagente vía busqueda externa BND). Requiere validacion humana del remapeo de codigos."
+  }
+}

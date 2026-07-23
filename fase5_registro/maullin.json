@@ -1,0 +1,43 @@
+{
+  "comuna": "maullin",
+  "region": "10",
+  "geojson_file": "10_PRC_Maullin.json",
+  "salida_json": "10_maullin.json",
+  "markdowns": [
+    {
+      "id": "maullin_bedb10aa02",
+      "archivo": "extraccion_normas\\maullin\\maullin_43305_prc_completo_pag10-21.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "Z1",
+        "Z2",
+        "Z3",
+        "Z4",
+        "Z5",
+        "Z6",
+        "Z7",
+        "ZAP",
+        "ZAV",
+        "ZE1",
+        "ZE2",
+        "ZPL"
+      ],
+      "nota": "Las 12 zonas con tabla propia transcritas completas respetando cortes Continua de pagina anterior entre p11-21. AR1-AR3 documentadas como nota (Art.9: toman norma de zona base, sin tabla propia), coincide con nota_fase3. Discrepancia notable: tabla de Z5 (p15) no lista Esparcimiento en usos permitidos (a diferencia de Z4 que si permite solo Juegos electronicos/mecanicos); en Z5 Esparcimiento aparece integramente en no permitidos, documentado explicito."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:36:10",
+  "fin": "2026-07-23T09:46:39",
+  "resultado": {
+    "archivo_json": "10_maullin.json",
+    "zonas_ficha": 13,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "13 fichas = 13/13 codigos geojson. Z1-Z7+ZAP+ZAV+ZE1+ZE2+ZPL con tabla propia completa. 'Areas verdes publicas' del geojson asimilada a ZAV (sin tabla propia en D.O.43305, nota de gap). AR1-AR3 (zonas de riesgo, toman norma de zona base) no aparecen en este geojson. Discrepancia real de fuente en Z5 (Esparcimiento prohibido, a diferencia de Z4) transcrita tal cual."
+  }
+}

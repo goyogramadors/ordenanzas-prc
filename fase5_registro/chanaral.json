@@ -1,0 +1,95 @@
+{
+  "comuna": "chanaral",
+  "region": "03",
+  "geojson_file": "03_PRC_Chanaral.json",
+  "salida_json": "03_chanaral.json",
+  "markdowns": [
+    {
+      "id": "chanaral_50b8bc5d15",
+      "archivo": "extraccion_normas\\chanaral\\chanaral_1711_enmienda_zu41_pag1.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZU4.1"
+      ],
+      "nota": "Trampa LeyChile confirmada: tabla 100% imagen, texto no trae nada. Transcrito integro desde render: usos, superficie 301-500m2, frente 12m, altura 3 pisos, CC 1.4, ocupacion 40%, agrupamiento aislado/pareado/continuo, sin antejardin, adosamiento 40%, estacionamientos. Coincide con nota_fase3."
+    },
+    {
+      "id": "chanaral_8c84efc72a",
+      "archivo": "extraccion_normas\\chanaral\\chanaral_6714_enmienda_zu5_pag1.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 2,
+      "zonas_codigos": [
+        "ZU-5.1",
+        "ZU-5.2"
+      ],
+      "nota": "Enmienda parcial en texto plano (no imagen): CC 1.4->1.8, ocupacion 40%->50%, antejardin 3m->opcional. Resto de parametros de la zona no vienen en este acto. Coincide con nota_fase3."
+    },
+    {
+      "id": "chanaral_592e85ad99",
+      "archivo": "extraccion_normas/chanaral/chanaral_do373_zonas_zu1_a_zu9_ze1_ze2_pag9-13.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZU-8",
+        "ZU-9",
+        "ZE-1",
+        "ZE-2"
+      ],
+      "nota": "Decreto Alcaldicio 373 exento (17-mar-2004), DO 13-abr-2005, aprueba Plan Regulador y Seccional Comunal de Chanaral (comuna nueva en el corpus). 11 zonas (ZU-1 a ZU-9 -- ZU-5 con subzonas 5.1/5.2 en un mismo cuadro, asignacion fila->subzona inferida y marcada como tal --, ZE-1, ZE-2) mas Cuadro Z12 de sintesis (uso predominante/densidad/morfologia). ZU-1 confirma exacto lo anticipado en fase3 (predio 300-500m2, frente 15m, CC 2,0-3,5, COS 75/40/30, adosamiento max 70%). Cuidado especial en distinguir celdas fusionadas (un valor aplica a varios tramos) de celdas vacias, verificado con zoom 2x-7x sobre lineas divisorias. HALLAZGOS: (1) densidad media ZU-1=300hab/ha declarada en disposiciones complementarias pero el Cuadro Z12 muestra guion para esa zona -- discrepancia interna del propio documento, documentada; (2) Art.21 del decreto dice textualmente 'ZU-1...ZU-7' pese a que el documento desarrolla hasta ZU-9 -- discrepancia textual propia del original. Estructura de columnas COS (orden area libre/estacionamiento) varia por zona, documentado explicitamente en cada tabla. Fuera de alcance (solo mencionadas): Art.22 Zonas Especiales (ZPA/ZB/ZP-1/ZR-1/ZR-2/ZR-4/ZR-5/ZR-6) y inicio Vialidad Estructurante Art.23-24."
+    },
+    {
+      "id": "chanaral_823a7dc6d8",
+      "archivo": "extraccion_normas\\chanaral\\chanaral_prc_zonificacion_pag25-40.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 21,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5.1",
+        "ZU-5.2",
+        "ZU-6",
+        "ZU-7",
+        "ZU-8",
+        "ZU-9",
+        "ZE-1",
+        "ZE-2",
+        "ZP-A",
+        "ZB",
+        "ZP-1",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZR-4",
+        "ZR-5",
+        "ZR-6"
+      ],
+      "nota": "pdftotext -layout jumblo columnas en varios cuadros (ZU6-ZU9 y bloque de zonas especiales), verificado con render 200dpi antes de transcribir, todos los valores dimensionales confirmados contra imagen. Codigos de zonas especiales (ZP-A,ZB,ZP-1,ZR-1 a ZR-6) no coincidian con nota_fase3 (ZR/ZP/Balneario/Aerodromo generico), confirmados visualmente, texto interno llama ZRA a la franja de ZP-A. Cuadro Z12 (p40) es sintesis, no zona nueva, salvo dato de altura en plantas para ZU-1/ZU-2 agregado como nota. Discrepancia detectada entre Z12 y cuadros Z10/Z11: densidades de ZE-1/ZE-2 aparecen invertidas, documentada al final del archivo, prevalece el dato del cuadro de detalle."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:50",
+  "resultado": {
+    "archivo_json": "03_chanaral.json",
+    "zonas_ficha": 16,
+    "zonas_geojson": 15,
+    "zonas_cubiertas": 15,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "U4.1"
+    ],
+    "confianza": "MEDIA",
+    "nota": "16 fichas = 15/15 codigos geojson + 1 ficha bonus (ZU4.1, subzona de la enmienda1711 sin poligono propio en este geojson). Discrepancia Z10/Z11 vs Z12 en densidad ZE1/ZE2 (Z12 invierte los valores) -- se uso Z10/Z11 como fuente primaria, discrepancia documentada sin poder determinar cual cuadro tiene el error. Geojson solo trae 'ZU5' sin distinguir subzonas 5.1/5.2 -- se fusiono en una sola ficha con la enmienda6714 aplicada (CC1.8/COS50%/antejardin opcional), ambas densidades (50 y 150 hab/ha) documentadas sin poder asignar cual aplica a la zona fusionada."
+  }
+}

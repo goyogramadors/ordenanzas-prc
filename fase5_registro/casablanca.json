@@ -1,0 +1,76 @@
+{
+  "comuna": "casablanca",
+  "region": "05",
+  "geojson_file": "05_PRC_Casablanca.json",
+  "salida_json": "05_casablanca.json",
+  "markdowns": [
+    {
+      "id": "casablanca_91d849d80b",
+      "archivo": "extraccion_normas\\casablanca\\casablanca_6007_modificacion_plan_regulador_pag1.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZHE"
+      ],
+      "nota": "Modif. en prosa sin cuadro: agrega Equipamiento de Salud a usos permitidos de ZHE (art.20 parrafo 3). No hay otras normas en el documento."
+    },
+    {
+      "id": "casablanca_eda2986a72",
+      "archivo": "extraccion_normas\\casablanca\\casablanca_6828_enmienda_n1_2022_zed_zhm4_pag4.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 2,
+      "zonas_codigos": [
+        "ZED",
+        "ZHM-4"
+      ],
+      "nota": "Enmienda N1/2022, solo reemplaza altura maxima de ZED (12,6 m) y ZHM-4 (4,2 m continua / 10 m aislada). Texto integro, sin trampa de imagen."
+    },
+    {
+      "id": "casablanca_30900085f5",
+      "archivo": "extraccion_normas\\casablanca\\casablanca_4674_actualizacion_prc_pag17-29_48.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 24,
+      "zonas_codigos": [
+        "ZH-1",
+        "ZH-2",
+        "ZH-3A",
+        "ZH-3B",
+        "ZH-4",
+        "ZH-5",
+        "ZH-6",
+        "ZH-6B",
+        "ZH-7",
+        "ZHM-1",
+        "ZHM-2",
+        "ZHM-3",
+        "ZHM-4",
+        "ZHM-5",
+        "ZEC",
+        "ZED",
+        "ZER",
+        "ZIS",
+        "ZAV",
+        "ZPC",
+        "ZII-PM",
+        "ZII-PT",
+        "ZPBC-1",
+        "ZCH-L"
+      ],
+      "nota": "El documento tiene 24 zonas, no 22 como decia nota_fase3: ZH-3 esta partida en ZH-3A/ZH-3B y existe ZH-6B (confirmadas en listado del art.8 y su propia tabla p21), ninguna mencionada en la nota. Titulos reales dicen ZII-PM ZONA PRODUCTIVA MOLESTA y ZII-PT ZONA PRODUCTIVA PORTUARIA (sin PREMVAL que si aparece en el listado del art.8). ZPC y ZAV no tienen tabla propia (remiten a OGUC 2.1.30/2.1.31, solo fijan altura max 7m). ZEC/ZED/ZER/ZIS no tienen fila de Densidad Bruta Maxima (zonas sin uso residencial). En ZCH-L un item de Salud queda cortado en el borde de pagina, marcado ilegible."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:42:05",
+  "fin": "2026-07-19T00:14:19",
+  "resultado": {
+    "archivo_json": "05_casablanca.json",
+    "zonas_ficha": 25,
+    "zonas_geojson": 25,
+    "zonas_cubiertas": 25,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "25 fichas: 24 zonas del Art.8 (con enmienda 2022 ZED/ZHM-4 altura aplicada sobre la base) + AVE del geojson sin correspondencia en el listado de 24 zonas (null+nota). ZHE (modificacion sin fecha clara que agrega uso Salud) NO se pudo correlacionar con certeza a ninguno de los 24 codigos oficiales ni aparece en el geojson -- quedo sin aplicar, requiere revision humana de a que zona real corresponde. ZPC/ZAV remiten a OGUC 2.1.30/2.1.31 (solo altura 7m, sin cuadro propio, documentado). ZEC/ZED/ZER/ZIS sin fila de Densidad (zonas sin uso residencial)."
+  }
+}

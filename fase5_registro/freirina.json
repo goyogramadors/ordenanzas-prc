@@ -1,0 +1,46 @@
+{
+  "comuna": "freirina",
+  "region": "03",
+  "geojson_file": "03_PRC_Freirina.json",
+  "salida_json": "03_freirina.json",
+  "markdowns": [
+    {
+      "id": "freirina_549e2ad04b",
+      "archivo": "extraccion_normas\\freirina\\freirina_3882_enmienda_c2.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "C2"
+      ],
+      "nota": "Norma puntual altura +20% acotada a poligono A-B-C-D-E dentro de Zona C2 (coordenadas UTM completas transcritas). Resto de C2 mantiene PRC base Decreto 2932/2008, no incluido aqui. Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "freirina_78286358d6",
+      "archivo": "extraccion_normas/freirina/freirina_do2932_zonas_c_c1_c2_d_e_pag20-24.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 5,
+      "zonas_codigos": [
+        "C",
+        "C1",
+        "C2",
+        "D",
+        "E"
+      ],
+      "nota": "Decreto 2932 PRC base de Freirina (documento MIXTO OCR+imagen), 5 zonas confirman exactamente lo anticipado por fase3: C Centro, C1 Pie de Cerro, C2 Residencial, D Industria, E Costanera. Verificado 2 veces (imagen completa + recortes ampliados 2.2x de cifras decimales). Hallazgos: (1) CC de zona C e impreso con PUNTO (1.5) mientras el resto del documento usa COMA -- confirmado en zoom, es del original; (2) C1 tiene CC=2 (entero) para Comercio/Servicios, dato llamativo pero verificado; (3) zonas D y E NO traen seccion Disposiciones Complementarias/densidad (a diferencia de C/C1/C2) -- marcado no determinable, no inventado; (4) C1 excluye Casinos de usos prohibidos a diferencia de C (verificado); (5) discrepancia de año no resuelta: enmienda 3882 cita el PRC base como de 2008, este documento dice 2009 en su encabezado; (6) cruce con freirina_3882_enmienda_c2.md (enmienda posterior C2): coherente, altura base 7m + 20% = 8.4m sin contradiccion."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:18:59",
+  "fin": "2026-07-23T10:28:26",
+  "resultado": {
+    "archivo_json": "03_freirina.json",
+    "zonas_ficha": 12,
+    "zonas_geojson": 12,
+    "zonas_cubiertas": 12,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "12 fichas: 5 zonas con norma completa (C,C1,C2,D,E) del D.O.2932/2008. C2 documenta la excepcion +20% altura (poligono A-B-C-D-E) de la enmienda3882 SIN generalizarla a toda la zona. CC de C=1.5 y C2=1.2 con punto decimal (confirmado del original, no error). C1 Comercio/Servicios CC=2 entero (verificado). D y E sin densidad por diseno del documento. 7 codigos del geojson (R1,R2,R3,R4,R6,R7,Area Verde) sin fuente en fase4 -- fichas con usos desde atributos del geojson y numericos en null, marcadas FALTANTE. Discrepancia de año del decreto base (2008 vs 2009 segun fuente) documentada sin resolver."
+  }
+}

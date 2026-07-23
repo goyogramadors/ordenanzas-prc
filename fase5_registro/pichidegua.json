@@ -1,0 +1,48 @@
+{
+  "comuna": "pichidegua",
+  "region": "06",
+  "geojson_file": "06_PRC_Pichidegua.json",
+  "salida_json": "06_pichidegua.json",
+  "markdowns": [
+    {
+      "id": "pichidegua_a776d94dff",
+      "archivo": "extraccion_normas\\pichidegua\\pichidegua_1460_zonas_pichidegua_pataguas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 17,
+      "zonas_codigos": [
+        "ZU-1-Pichidegua",
+        "ZU-2-Pichidegua",
+        "ZA-3-Pichidegua",
+        "ZI-Pichidegua",
+        "ZE-Pichidegua",
+        "AD-Pichidegua",
+        "ADP-Pichidegua",
+        "AV-Pichidegua",
+        "AVP-Pichidegua",
+        "ZU-1-PataguasCerro",
+        "ZU-2-PataguasCerro",
+        "ZU-3-PataguasCerro",
+        "ZEI-PataguasCerro",
+        "ZI-PataguasCerro",
+        "ZE-PataguasCerro",
+        "AD-PataguasCerro",
+        "AVP-PataguasCerro"
+      ],
+      "nota": "Documento cubre DOS localidades con zonificacion propia (Pichidegua p6-15, Pataguas Cerro p16-22), ambas usan codigos ZU-1/ZU-2 pero son zonas DISTINTAS -- se diferenciaron con sufijo -Pichidegua/-PataguasCerro en zonas-codigos para no mezclarlas. Cuadros normativos confirmados como imagen en las paginas que decia nota_fase3, transcritos desde el render. ZA-3 tiene discrepancia de nomenclatura propia del documento (encabezado dice ZA-3, articulo de zonificacion lo llama ZU-3) -- se dejo explicito, transcrito tal cual aparece."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:07:15",
+  "fin": "2026-07-23T10:18:25",
+  "resultado": {
+    "archivo_json": "06_pichidegua.json",
+    "zonas_ficha": 17,
+    "zonas_geojson": 17,
+    "zonas_cubiertas": 17,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "17 fichas = geojson NO diferencia Pichidegua de Pataguas Cerro (ZU1,ZU2,ZU3,ZI,ZE,AD,AVP aparecen 2 veces cada uno bajo el mismo codigo). Se uso Pichidegua como ficha canonica, valores de Pataguas Cerro documentados en notas_adicionales (ZE difiere bastante: sin columna densidad, CC mas bajo). ADP/AV exclusivas de Pichidegua, ZEI exclusiva de Pataguas Cerro. Se corrigio una inversion aparente de columnas Ocupacion/Densidad en ZU1/ZU2 de Pichidegua (confirmada por comparacion cruzada). ECH (Cap.V Normas Patrimoniales) y 6 codigos del geojson ajenos a la ordenanza transcrita (CE,APF,AR,AR2,PT,ARC) quedaron con null+nota de brecha."
+  }
+}

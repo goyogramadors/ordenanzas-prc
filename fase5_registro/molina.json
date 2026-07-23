@@ -1,0 +1,91 @@
+{
+  "comuna": "molina",
+  "region": "07",
+  "geojson_file": "07_PRC_Molina.json",
+  "salida_json": "07_molina.json",
+  "markdowns": [
+    {
+      "id": "molina_7b21ea12db",
+      "archivo": "extraccion_normas\\molina\\molina_2922_modificacion_zu_zap.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 8,
+      "zonas_codigos": [
+        "ZU-no-identificada",
+        "ZU-2b",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZAP"
+      ],
+      "nota": "Confirmada 7a zona (ZAP) que nota_fase3 no habia verificado visualmente. Ademas se incluyo una tabla adicional sin encabezado de zona (continuacion de p2, fuera de rango) con valores reales, marcada como no identificada. Todas las tablas Actual/Reemplazado transcritas desde imagen. Verificado contra nota_fase3: coincide y amplia con ZAP y zona no identificada."
+    },
+    {
+      "id": "molina_b33b044b0c",
+      "archivo": "extraccion_normas/molina/molina_52_2022_zonas_zu_ze_zap_zav_pag15-21.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 18,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-2b",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZE-4",
+        "ZE-5",
+        "ZE-6",
+        "ZAP",
+        "ZAV",
+        "ZPL",
+        "ICH"
+      ],
+      "nota": "Confirmada trampa (tablas por zona en imagen dentro de PDF nativo Diario Oficial 2022). Zona adicional no listada en nota_fase3: ZU-2b. ZPL e ICH NO son alias de ZAV como sugeria la nota, son categorias de proteccion aparte (ZPL: areas protegidas por decreto externo sin COS/altura; ICH: listado numerado de inmuebles patrimoniales ICH1-11 visibles en el rango, catalogo continua mas alla de p21). ZAV sin fila de COS en el render, solo constructibilidad/altura/agrupamiento/antejardin -- transcrito tal cual. RECONCILIACION: AMIGO1 reclamo y transcribio este mismo documento en paralelo (colision de reclamo por asincronia git); resultado 100% convergente (mismas 18 zonas, mismo hallazgo de ZU-2b, misma nota de ICH incompleta mas alla de p21) -- alta confianza cruzada. AMIGO1 aporto un dato adicional util: ZU-2b fue verificada cruzando contra el decreto N2922/2023. Se mantiene este archivo (GREGO1) como canonico y se descarta el duplicado de AMIGO1 (extraccion_normas/molina/molina_52_2022_zu_ze_zap_zav_pag15-21.md) para cumplir la regla de un documento, un Markdown."
+    },
+    {
+      "id": "molina_b3e4da9918",
+      "archivo": "extraccion_normas\\molina\\molina_ordenanza_local_zonas_zu_ze_zap_zav_pag12-19.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 16,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-2b",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZE-4",
+        "ZE-5",
+        "ZE-6",
+        "ZAP",
+        "ZAV"
+      ],
+      "nota": "Coincide con nota_fase3 salvo 2 matices: ZU-7 trae cuadro de usos inusualmente acotado (solo Residencial + Equipamiento Cientifico y Culto/Cultura, sin Comercio/Deporte/Educacion) -- verificado visualmente, marcado confianza MEDIA en esa seccion. ZE-2 carece de columna Tipos explicita (solo Clases). Resto de zonas y numeros nitidos en render 250dpi, sin ilegibles. ZAV sin fila de COS (solo CC) -- No especificado, no inventado. Nota: este es un documento distinto (Ordenanza Local PRC Molina, 26p) al decreto 52/2022 ya registrado para la misma comuna -- mismas 16 zonas base, corpus complementario, sin fusionar."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:30",
+  "resultado": {
+    "archivo_json": "07_molina.json",
+    "zonas_ficha": 18,
+    "zonas_geojson": 18,
+    "zonas_cubiertas": 18,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "18 fichas = 18/18 codigos geojson (17 de la ordenanza + AVE huerfano sin fuente, null+nota). ZU-2 identificada por aritmetica (COS/CC x1.3, altura/densidad x1.2 sobre Decreto52/2022, agrupamiento coincide) como la 'zona no identificada' del Decreto2922/2023 -- inferencia razonada, no confirmada textualmente, requiere validacion. Decreto2922 aplicado sobre ZU-2/ZU-2b/ZU-3-7/ZAP. ZAV sin COS propio (solo CC). ZU-7 con cuadro de usos acotado, confianza MEDIA en esa seccion (heredada de fase4). ZPL sin cuadro normativo propio (area protegida por decreto externo). ICH no incluido (no es codigo ZONA separado en el geojson)."
+  }
+}

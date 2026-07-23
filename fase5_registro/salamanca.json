@@ -1,0 +1,47 @@
+{
+  "comuna": "salamanca",
+  "region": "04",
+  "geojson_file": "04_PRC_Salamanca.json",
+  "salida_json": "04_salamanca.json",
+  "markdowns": [
+    {
+      "id": "salamanca_be46de0c89",
+      "archivo": "extraccion_normas\\salamanca\\salamanca_prc1988_zonificacion_zu_ze_zr.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 16,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZR-4",
+        "ZR-5",
+        "ZR-6"
+      ],
+      "nota": "HALLAZGO: nota_fase3 solo mencionaba orientativamente ZU-1 hasta ZE-2/ZR-1 a ZR-6; el Art.19 completo (p13-19) trae 16 zonas reales: 7 ZU (areas consolidadas), 3 ZE (extension urbana) y 6 ZR (areas especiales, proteccion de cauces/riesgos) -- todas transcritas. ZR-2, ZR-3, ZR-5, ZR-6 son zonas de proteccion/restriccion SIN cuadro de subdivision/edificacion en el documento original (solo texto descriptivo de usos permitidos o de la sola restriccion de forestacion) -- confirmado, no es omision. Documento de 1988: un valor de superficie predial minima en ZE-1 (vivienda en Chalinga) quedo ilegible en el escaneo, marcado como tal."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:07:15",
+  "fin": "2026-07-23T10:18:25",
+  "resultado": {
+    "archivo_json": "04_salamanca.json",
+    "zonas_ficha": 16,
+    "zonas_geojson": 16,
+    "zonas_cubiertas": 16,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "16 fichas cubren todos los codigos del geojson salvo AV (no presente en Art.19 de la ordenanza, creada con null+nota de brecha). ZR-4 de la ordenanza no esta en el geojson, se omitio. Superficie predial de vivienda en Chalinga (ZE-1) marcada explicitamente como no determinable por ilegibilidad del documento 1988 (no inventada). ZR-2,3,5,6 sin cuadro numerico (solo texto), documentado."
+  }
+}

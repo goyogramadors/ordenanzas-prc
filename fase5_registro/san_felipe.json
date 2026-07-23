@@ -1,0 +1,70 @@
+{
+  "comuna": "san_felipe",
+  "region": "05",
+  "geojson_file": "05_PRC_San_Felipe.json",
+  "salida_json": "05_sanfelipe.json",
+  "markdowns": [
+    {
+      "id": "san_felipe_64f7c62b47",
+      "archivo": "extraccion_normas\\san_felipe\\san_felipe_797_enmienda_e1_e8_e10.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 3,
+      "zonas_codigos": [
+        "E-1",
+        "E-8",
+        "E-10"
+      ],
+      "nota": "3 zonas completas (usos+condiciones), texto integro no imagen. Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "san_felipe_24a886136b",
+      "archivo": "extraccion_normas\\san_felipe\\san_felipe_zonas_c_h_i_e_r.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 27,
+      "zonas_codigos": [
+        "C-1",
+        "C-2",
+        "C-3",
+        "H-4",
+        "H-5",
+        "H-6",
+        "H-7",
+        "H-8",
+        "I-1",
+        "I-2",
+        "E-1",
+        "E-5",
+        "E-6",
+        "E-7",
+        "E-8",
+        "E-9",
+        "E-10",
+        "R-1",
+        "R-3",
+        "R-4",
+        "R-5",
+        "R-6",
+        "R-7",
+        "R-8",
+        "R-9",
+        "R-10",
+        "R-11"
+      ],
+      "nota": "Confirmados los saltos reales en la numeracion (sin H-1/H-2/H-3, sin E-3/E-4, sin R-2), consistente con nota_fase3. ZONA E-2 esta LISTADA en el Art.31 pero SIN texto normativo propio en el rango p19-39 -- no se incluyo en zonas-codigos ni se invento tabla, se dejo nota explicita del vacio para que la fase siguiente decida si buscarla en otro rango del mismo documento. R-7 a R-11 son descriptivas por remision a normativa sectorial (ley ferrocarriles, SEC, DGA, aeronautica), sin cuadro COS/CC."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:30",
+  "resultado": {
+    "archivo_json": "05_sanfelipe.json",
+    "zonas_ficha": 21,
+    "zonas_geojson": 21,
+    "zonas_cubiertas": 21,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "21 fichas = 21/21 codigos geojson. E-1/E-8/E-10 con Enmienda 797/2002 aplicada. E-2 sin texto propio en el rango transcrito (null+nota). R-1/R-3/R-7/R-9/R-11 restriccion sectorial sin COS/CC. R-8 caso especial: COS 0,05/CC 0,1 solo como excepcion en predios >=5000m2, no derecho general, documentado asi. ADVERTENCIA: fecha/decreto exacto de aprobacion del PRC base no se pudo confirmar en las fuentes disponibles (sin poppler para revisar PDF original) -- se uso la fecha de la Enmienda 797/2002 como ancla, requiere validacion."
+  }
+}

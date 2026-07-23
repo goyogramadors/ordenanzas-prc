@@ -1,0 +1,75 @@
+{
+  "comuna": "renaico",
+  "region": "09",
+  "geojson_file": "09_PRC_Renaico.json",
+  "salida_json": "09_renaico.json",
+  "markdowns": [
+    {
+      "id": "renaico_35eaf1369e",
+      "archivo": "extraccion_normas/renaico/renaico_decreto4_tijeral_zonas_z1_z2_z3_zav_pag6-9.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 4,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-3",
+        "Z-AV"
+      ],
+      "nota": "Decreto N4/2012 MINVU, PRC Parcial Renaico localidad Tijeral, Cap.V Art.10. Comuna nueva en el corpus. Trampa imagen confirmada (pdfimages+render), transcrito integro. 4 zonas: Z-1 Centro (predial 400m2, COS 0,5-0,7, CC 1,0-1,4, altura 8-10m, agrupamiento Aislado-Pareado-Continuo residencial/equip / Aislado act.productivas, antejardin 3m, densidad 140hab/ha - los 7 valores anticipados coinciden exacto, sin discrepancias); Z-2 Borde Centro (predial 500m2, COS 0,3-0,5, CC 0,5, altura 8m, antejardin 5m, densidad 70hab/ha); Z-3 Apoyo Ruta (predial 500m2, COS 0,3-0,7, CC 0,5-1,4, altura 8-13m, incorpora categoria Infraestructura transporte/sanitaria/energetica, densidad 70hab/ha); Z-AV Area Verde (sin tabla usos propia, solo parrafo descriptivo; predial 2500m2 - aclarado como 'superficie de subdivision predial minima' por Oficio Contraloria N44.186/2012 transcrito integro, COS 0,2, CC 0,2, altura 7m, antejardin 10m). Confianza alta, imagenes legibles en su totalidad."
+    },
+    {
+      "id": "renaico_709c3ad8ae",
+      "archivo": "extraccion_normas\\renaico\\renaico_780_res90_2022_prc_pag7-19.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "Z-H",
+        "Z-M1",
+        "Z-M2",
+        "Z-M3",
+        "Z-E",
+        "Z-AV",
+        "ZLF",
+        "ZLAT",
+        "MN1",
+        "ICH_1",
+        "ICH_2",
+        "ICH_3"
+      ],
+      "nota": "Tablas imagen JPEG legibles a 300dpi, sin celdas ilegibles. Discrepancia con nota_fase3: codigos son Z-M1/Z-M2/Z-M3 (con guion), no M-1/M2/M3. AR-1/AR-2 son areas de riesgo superpuestas sin tabla de subdivision propia (remiten a normas de ZM1/ZM2/ZM3/ZE/ZAV), no zonas independientes. ZLF y ZLAT tampoco tienen tabla de condiciones propia, solo uso Area Verde/Todos permitido. ICH_1 e ICH_3 comparten una misma tabla de condiciones; ICH_2 (Estacion FFCC) tiene tabla simplificada propia por estar en zona ZAV."
+    },
+    {
+      "id": "renaico_6a7bef6a37",
+      "archivo": "extraccion_normas\\renaico\\renaico_decreto780_texto_nativo_pag8-18_21-23.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 10,
+      "zonas_codigos": [
+        "Z-H",
+        "M-1",
+        "M-2",
+        "M-3",
+        "Z-E",
+        "ZAV",
+        "MN1",
+        "ICH_1",
+        "ICH_2",
+        "ICH_3"
+      ],
+      "nota": "Version de texto nativo del mismo PRC ya transcrito en renaico_780_res90_2022_prc_pag7-19.md (desde imagen). VERIFICACION CRUZADA POSITIVA: todos los valores numericos (predial, COS, CC, altura, agrupamiento, adosamiento, antejardin, densidad) coinciden exactamente, incluida la errata literal 160 b/ha en Z-E -- confirma que la transcripcion anterior fue correcta. Unica discrepancia: nomenclatura interna del propio documento, el Art.9 indice llama a las zonas mixtas Z-M1/Z-M2/Z-M3 pero los encabezados de zona y tabla del Art.10 en este mismo PDF las llaman M-1/M-2/M-3 sin prefijo Z-, no senalado en la transcripcion previa."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:44:02",
+  "fin": "2026-07-19T00:14:36",
+  "resultado": {
+    "archivo_json": "09_renaico.json",
+    "zonas_ficha": 7,
+    "zonas_geojson": 7,
+    "zonas_cubiertas": 7,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "7 fichas = 7 codigos geojson (Z-H,Z-M1,Z-M2,Z-M3,Z-E,ZAV,BNUP). El geojson de esta capa NO incluye Tijeral (Z-1/Z-2/Z-3/ZAV del Decreto4/2012) -- ese instrumento queda sin uso en esta ficha por no tener poligono en esta capa, no se penso descartar informacion, solo no aplica aqui. Docs de comuna general (Res.90/2022 imagen + texto nativo) verificados cruzados sin discrepancia numerica. BNUP null+nota (dominio publico)."
+  }
+}

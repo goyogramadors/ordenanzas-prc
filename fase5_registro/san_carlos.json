@@ -1,0 +1,44 @@
+{
+  "comuna": "san_carlos",
+  "region": "08",
+  "geojson_file": "08_PRC_San_Carlos.json",
+  "salida_json": "08_sancarlos.json",
+  "markdowns": [
+    {
+      "id": "san_carlos_c6a4e1b97f",
+      "archivo": "extraccion_normas/san_carlos/san_carlos_do_zonas_zhmc_zh1_zh2_zh3_ze_zed_zes_zp1_zp2_zeh1_zeh2_zet_zpd_pag6-11.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 13,
+      "zonas_codigos": [
+        "ZHMC",
+        "ZH-1",
+        "ZH-2",
+        "ZH-3",
+        "ZE",
+        "ZED",
+        "ZES",
+        "ZP1",
+        "ZP2",
+        "ZEH-1",
+        "ZEH-2",
+        "ZET",
+        "ZPD"
+      ],
+      "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) que se cruzaron sin saberlo -- AMIGO1 termino primero (fin 21:08:31) y quedo registrado como HECHO con archivo san_carlos_39577_2010_13zonas_pag6-11.md (362 lineas, 32105 bytes, formato condensado/resumen). SESION4 detecto el choque al intentar pushear su registro (ya en curso, subagente no tenia forma de saberlo) y comparo ambas versiones linea por linea, zona por zona, valor por valor. RESULTADO DE LA COMPARACION: los 13x12=156 valores numericos/textuales de las 12 tablas de Edificacion (todas menos ZPD) son IDENTICOS entre ambas transcripciones, incluida la tabla de franjas de proteccion contra incendios forestales del Art.27 donde SESION4 habia corregido un \"26\" a \"25\" en un borrador propio anterior -- AMIGO1 tambien transcribe \"25\", confirmando de forma cruzada e independiente que 25 es el valor correcto. Ambas sesiones tambien detectaron, de forma independiente, los mismos 2 hallazgos secundarios: (1) la fila Comercio de ZH-2 no lleva \"excepto discotecas\" a diferencia de ZHMC/ZH-1; (2) el titulo de la tabla de edificacion de ZET esta impreso como \"ZONA ZET-D\" sin que exista tal zona en el listado del Art.35. Esta doble coincidencia independiente en cifras y hallazgos es fuerte evidencia de que ambas transcripciones son fieles a la fuente -- no hay error de contenido en ninguna. DIFERENCIAS DE ALCANCE (no de exactitud): la version SESION4 es sustancialmente mas completa -- incluye transcripcion VERBATIM integra de los Art.10 a 34 (Titulo IV completo + Titulo V Cap.I completo), mientras AMIGO1 los resume en parrafos propios; SESION4 incluye ademas Titulo VI (Conservacion Historica, tabla de 5 inmuebles incl. Casa de Violeta Parra), Titulo VII (Ornato), el cierre de toma de razon de Contraloria, y el aviso INAPI, ninguno de los cuales aparece en AMIGO1. SESION4 tambien documenta un hallazgo metodologico que AMIGO1 no señala: la ubicacion real de \"adosamiento/rasantes/antejardin\" no es \"Titulo IV Cap.I pag6-7\" (como decia fase3) sino Art.28-30 del Titulo V Cap.I, pag8 -- verificado 2 veces sobre los encabezados de Titulo/Capitulo. Un matiz menor de fidelidad literal (no de contenido): en la zona ZE, campo \"Condiciones especiales\", la fuente tiene un error gramatical real (\"Los equipamiento... ,deberan...\" con concordancia y coma irregulares) -- SESION4 lo preserva con [sic] tal como exige el estandar del proyecto, AMIGO1 lo normaliza silenciosamente a \"Los equipamientos... deberan...\". Por la mayor completitud (transcripcion verbatim vs resumen, cobertura de Titulo VI/VII y cierre institucional) y mayor fidelidad literal, se elige la version SESION4 como resultado canonico de este registro. El archivo de AMIGO1 se deja intacto en el repo (no se borro contenido ajeno) pero ya no es el referenciado por este registro. NOTA SUSTANTIVA DE LA EXTRACCION (SESION4, ver tambien nota anterior mas abajo para el detalle completo de hallazgos): DO 03-02-2010 \"Promulga Plan Regulador Comunal de San Carlos\", Ordenanza Local completa, pag6-11. 13 zonas confirmadas exactas a fase3 (conteo propio independiente contando encabezados \"NORMAS URBANISTICAS DE LA ZONA...\"): ZHMC, ZH-1, ZH-2, ZH-3, ZE, ZED, ZES, ZP1, ZP2, ZEH-1, ZEH-2, ZET, ZPD. Tabla usos+edificacion completas en 12 de 13 -- unica excepcion ZPD (zona proteccion drenaje, solo 2 lineas remitiendo a Art.25/26, sin cuadro por diseño). .txt de apoyo inutil (6 bytes, solo saltos de pagina) -- transcripcion 100% visual sobre imagen a 250dpi con zooms 3x-6x dirigidos. HALLAZGO METODOLOGICO PRINCIPAL (corrige ubicacion de fase3): \"adosamiento/rasantes/antejardin\" NO estan en \"Titulo IV Cap.I pag6-7\" como decia fase3 -- son en realidad Art.28/29/30 del Titulo V Cap.I \"De la Edificacion\", pag8, justo antes del cuadro de las 13 zonas; el verdadero Titulo IV Cap.I se llama \"De la Urbanizacion\" (Art.11-12) y no trata esas materias; \"Estacionamientos\" (Art.10) es cola de un titulo anterior al IV. 0 trampa comuna ajena (revisados los 5 \"centros urbanos\" de vialidad p6, el topo \"Cachapoal\" verificado como sector propio de San Carlos con una sola C, coincide con nota marginal de Contraloria sobre errata \"Cacchapoal\" en el resuelvo primero fuera de este rango). Unico contenido ajeno real: aviso publicitario INAPI del propio Diario Oficial en p11 (no es otra comuna). HALLAZGOS adicionales: heterogeneidad de formulas \"sin valor\" entre zonas; grafia \"ZP1/ZP2\" sin espacio en Art.35 vs \"ZP 1/ZP 2\" con espacio en encabezados propios; fila \"Permitida\" en femenino unica vez (ZP1); celda \"Industria\" en blanco en fila Molesta de ZP2. 0 usos de Dato no determinable. Confianza alta uniforme en las 6 paginas."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:36:10",
+  "fin": "2026-07-23T09:46:39",
+  "resultado": {
+    "archivo_json": "08_sancarlos.json",
+    "zonas_ficha": 15,
+    "zonas_geojson": 15,
+    "zonas_cubiertas": 15,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "15 fichas = 15/15 codigos geojson. 13 zonas del Art.35 (reconciliacion previa SESION4/AMIGO1 sin discrepancia, 156 valores verificados) + AV/BNUP sin cuadro propio (null, remite a Art.12/18 OL). ZPD sin tablas (solo espacio publico). Enums de agrupamiento/uso-suelo aproximados donde el esquema no calza exacto con nomenclatura local."
+  }
+}

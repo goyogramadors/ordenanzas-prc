@@ -1,0 +1,52 @@
+{
+  "comuna": "coinco",
+  "region": "06",
+  "geojson_file": "06_PRC_Coinco.json",
+  "salida_json": "06_coinco.json",
+  "markdowns": [
+    {
+      "id": "coinco_26b2dbd291",
+      "archivo": "extraccion_normas\\coinco\\coinco_123_2008_reformulacion_prc_pag12-26.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 21,
+      "zonas_codigos": [
+        "ZC(Coinco)",
+        "ZH1(Coinco)",
+        "ZH1-R(Coinco)",
+        "ZH2(Coinco)",
+        "ZH2-R(Coinco)",
+        "ZH3(Coinco)",
+        "ZE1(Coinco)",
+        "ZE2(Coinco)",
+        "ZR1(Coinco)",
+        "ZR2(Coinco)",
+        "ZR3(Coinco)",
+        "ZCH(Coinco)",
+        "ZAV(Coinco)",
+        "ZC(Copequin)",
+        "ZH1(Copequin)",
+        "ZH2(Copequin)",
+        "ZE1(Copequin)",
+        "ZE2(Copequin)",
+        "ZCH(Copequin)",
+        "ZR3(Copequin)",
+        "ZAV(Copequin)"
+      ],
+      "nota": "Texto extraido limpio, sin OCR. Coincide exactamente con nota_fase3 en zonas y valores citados. ZH1-R y ZH2-R no tienen cuadro normativo propio, remiten a ZH1/ZH2 + informe de riesgos. ZR1,ZR2,ZR3 de ambas localidades son zonas de restriccion sin cuadro predial/CC/COS/altura, marcado No especificado. Tabla de Vialidad Estructurante (art.56) remite a p27-28 del Diario Oficial, fuera del rango 12-26, no transcrita. Zonas agrupadas por localidad (Coinco-Cruz de Chillehue vs Copequin) por tener codigos homonimos con normas potencialmente distintas."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:07:15",
+  "fin": "2026-07-23T10:18:11",
+  "resultado": {
+    "archivo_json": "06_coinco.json",
+    "zonas_ficha": 13,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "13 fichas = 13/13 codigos geojson. HALLAZGO: el geojson NO diferencia Coinco de Copequin -- 8 codigos (ZC,ZH1,ZH2,ZE1,ZE2,ZCH,ZR3,ZAV) cubren poligonos de ambas localidades bajo el mismo texto ZONA. Se uso Coinco-Cruz de Chillehue (cabecera comunal) como ficha canonica, valores de Copequin documentados en notas_adicionales (perdida de granularidad del esquema, no error). ZH1-R/ZH2-R/ZH3/ZR1 exclusivas de Coinco. ZR2 sin poligono en este geojson. Codigo huerfano 'ZH' detectado (NOM sugiere ZH2 Copequin mal tipeado en el geojson) -- ficha puente creada con advertencia explicita."
+  }
+}

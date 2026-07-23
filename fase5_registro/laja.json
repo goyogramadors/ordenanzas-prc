@@ -1,0 +1,60 @@
+{
+  "comuna": "laja",
+  "region": "08",
+  "geojson_file": "08_PRC_Laja.json",
+  "salida_json": "08_laja.json",
+  "markdowns": [
+    {
+      "id": "laja_1e606a4092",
+      "archivo": "extraccion_normas/laja/laja_106_2008_29zonas_pag8-13.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 29,
+      "zonas_codigos": [
+        "ZCC",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZRM-1",
+        "ZC",
+        "ZED",
+        "ZTES",
+        "ZEE",
+        "ZEC-1",
+        "ZEC-2",
+        "ZM-1",
+        "ZISC",
+        "ZAP-1",
+        "ZAP-2",
+        "ZAPC-1",
+        "ZExR-1",
+        "ZExR-2",
+        "ZExP-1",
+        "ZExP-2",
+        "ZExAP-1",
+        "ZExAV",
+        "ZRi-1",
+        "ZRi-2",
+        "ZRi-3",
+        "ZRi-4",
+        "ZRi-5",
+        "ZPdr",
+        "ZAM"
+      ],
+      "nota": "Resolucion 106/2008, D.O. 39189. 29 zonas, render visual 200dpi pag8-13. ZRi-4 con confianza MEDIA: cuadro de condiciones de edificacion no visible en el rango asignado."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:42:05",
+  "fin": "2026-07-19T00:14:19",
+  "resultado": {
+    "archivo_json": "08_laja.json",
+    "zonas_ficha": 34,
+    "zonas_geojson": 34,
+    "zonas_cubiertas": 34,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "34 fichas cubriendo 34 codigos geojson desde 1 ordenanza (Res.106/2008, 29 zonas transcritas). ZRi-4 sin cuadro de condiciones visible en el rango (null, confianza MEDIA puntual). ZISC con 2 celdas sin valor en el original. Geojson usa 'Zex' minuscula vs 'ZEx' de la ordenanza -- se uso grafia del geojson para asegurar match. 5 codigos del geojson sin cuadro en el rango transcrito (AV, EP, Agua, Plan Seccional, Terr.Reserv.Ampliacion) -- Plan Seccional Playas de Laja es instrumento de 1964 no incluido en fase4, null+nota."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "comuna": "linares",
+  "region": "07",
+  "geojson_file": "07_PRC_Linares.json",
+  "salida_json": "07_linares.json",
+  "markdowns": [
+    {
+      "id": "linares_11af6748de",
+      "archivo": "extraccion_normas\\linares\\linares_1962-2024_enmienda2_zonas_z3_z5_z10_pag2-3.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 3,
+      "zonas_codigos": [
+        "Z-3",
+        "Z-5",
+        "Z-10"
+      ],
+      "nota": "3 tablas comparativas Dice/Debe decir transcritas completas. Z-3: solo antejardin cambia (3m generico -> exento en poligono especifico de calles). Z-5: solo predial minimo 120->156m2. Z-10: COS 0,4->0,52, CC 3->3,9, antejardin generico 15m -> normas diferenciadas por tramo de via. p4-5 vialidad fuera de alcance."
+    },
+    {
+      "id": "linares_f859ef1614",
+      "archivo": "extraccion_normas\\linares\\linares_34_prc1990_zonas_completas_pag2-4.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 13,
+      "zonas_codigos": [
+        "Z1",
+        "Z2",
+        "Z3",
+        "Z4",
+        "Z5",
+        "ZI-1",
+        "ZI-2",
+        "ZE-1",
+        "ZE-2",
+        "ZR1",
+        "ZR2",
+        "ZR3",
+        "ZR4"
+      ],
+      "nota": "Confirma nota_fase3 exacta: 13 zonas del PRC de Linares 1990 completas, reordenadas correctamente pese al desorden OCR de columnas. Confirmada trampa comuna ajena en p1 (Estacion Central) y salto de paginas 6-7 faltantes en el DO original. Vialidad (Cap.V, art.27-29) correctamente excluida."
+    },
+    {
+      "id": "linares_9578417ea8",
+      "archivo": "extraccion_normas/linares/linares_ord4_z1_z10_ze_zap_pag8-13.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-3",
+        "Z-4",
+        "Z-5",
+        "Z-6",
+        "Z-7",
+        "Z-8",
+        "Z-9",
+        "Z-10",
+        "ZE",
+        "ZAP"
+      ],
+      "nota": "Ordenanza Municipal N4 Linares. 12 zonas, render visual 200dpi pag8-13."
+    },
+    {
+      "id": "linares_97505091b5",
+      "archivo": "extraccion_normas/linares/linares_784_2019_enmienda1_z1_z2_z4_z6_z8_z10_pag3-8.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 6,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-4",
+        "Z-6",
+        "Z-8",
+        "Z-10"
+      ],
+      "nota": "Decreto 784/2019, enmienda N1. 6 zonas enmendadas (Donde Dice/Debe Decir), render visual 200dpi pag3-8. Z-3,Z-5,Z-7,Z-9,ZE,ZAP no modificadas por este decreto."
+    },
+    {
+      "id": "linares_18df578732",
+      "archivo": "extraccion_normas\\linares\\linares_ordlocal_zonificacion_z1-z10_ze_zap_zav.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 13,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-3",
+        "Z-4",
+        "Z-5",
+        "Z-6",
+        "Z-7",
+        "Z-8",
+        "Z-9",
+        "Z-10",
+        "ZE",
+        "ZAP",
+        "ZAV"
+      ],
+      "nota": "HALLAZGO: nota_fase3 solo listaba Z-1 a Z-9 + ZE/ZAP/ZAV (12 zonas); el rango real p9-16 trae una zona adicional Z-10 (paginas 12-13) no mencionada en la nota, con usos y condiciones propias -- se transcribio completa. ZAV es descriptiva, sin cuadro de condiciones de subdivision/edificacion (confirmado, no omision). p16 no tiene zona propia, solo texto descriptivo de zonas no edificables (fajas electricas) y faja de proteccion ferroviaria -- incluido como nota al final, no como zona con --zonas-codigos."
+    },
+    {
+      "id": "linares_730334327e",
+      "archivo": "extraccion_normas\\linares\\linares_92_prc2017_pag10-17.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-3",
+        "Z-4",
+        "Z-5",
+        "Z-6",
+        "Z-7",
+        "Z-8",
+        "Z-9",
+        "Z-10",
+        "Z-E",
+        "ZAP"
+      ],
+      "nota": "Trampa de imagen confirmada, legible a 300dpi. Cuadro-resumen art.10 (p12) usa ZE sin guion pero encabezado propio de p17 usa Z-E; se uso Z-E. Z-7 tiene cuadro de usos mas acotado (solo Vivienda/Culto-Cultura/Deporte/Social), consistente con render, no es omision. Version 2017, NO confundir con linares_f859ef1614 (version 1990, zonas Z1-Z5/ZI/ZR)."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:36:10",
+  "fin": "2026-07-23T09:46:54",
+  "resultado": {
+    "archivo_json": "07_linares.json",
+    "zonas_ficha": 14,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "14 fichas = 14/14 codigos geojson (Z-1..Z-10,ZE,ZAP,ZAV,AV). Base PRC2017(Res.92) + Enmienda2019 sobre Z-1/2/4/6/8/10 + Enmienda2024(mas reciente) sobre Z-3/5/10. Z-1 con anomalia documentada (altura otro sistema Libre->2m en Decreto784/2019). AV tratado como equivalente de ZAV (sin articulo propio, solo en geojson). ADVERTENCIA: la fecha exacta de la Enmienda 2024 no consta en la fuente transcrita -- el subagente uso 2024-01-01 como placeholder en fecha_vigencia, requiere corregir con la fecha real del Diario Oficial cuando se ubique."
+  }
+}

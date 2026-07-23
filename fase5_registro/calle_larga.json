@@ -1,0 +1,63 @@
+{
+  "comuna": "calle_larga",
+  "region": "05",
+  "geojson_file": "05_PRC_Calle_Larga.json",
+  "salida_json": "05_callelarga.json",
+  "markdowns": [
+    {
+      "id": "calle_larga_0aea627fa8",
+      "archivo": "extraccion_normas/calle_larga/calle_larga_do353_enmienda1_zonas_zuc_zu2_zu2a_zu3_zu3a_zu4_zu5_zu6_pag2-6.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 8,
+      "zonas_codigos": [
+        "ZU-C",
+        "ZU-2",
+        "ZU-2A",
+        "ZU-3",
+        "ZU-3A",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6"
+      ],
+      "nota": "Decreto Exento 353 (2022, LeyChile), Enmienda N1 al PRC de Calle Larga, aprobada por Sesion N8 Concejo 10-mar-2022. Trampa mixta confirmada: cambio de densidad bruta max (+20%) en texto plano 'donde dice/debe decir', pero cuadro normativo COMPLETO resultante ('Quedando de la siguiente manera:') es IMAGEN. 8 zonas con cuadro completo (usos suelo + condiciones subdivision/edificacion), cada cambio de densidad verificado imagen vs texto, coincide exacto en las 8: ZU-C 90->108, ZU-2 75->90, ZU-2A 90->108, ZU-3 60->72, ZU-3A 72->86 (redondeo 86,4), ZU-4 16->19 (redondeo 19,2), ZU-5 60->72, ZU-6 72->86. ZU-C verificado con zoom coincide con lo anticipado en fase3 (predial 290m2, ocupacion 0,5/0,9, CC 0,7/1,8, altura 12m). Diferencias reales entre zonas documentadas: subgrupos de Equipamiento con alturas distintas en ZU-2/2A; Infraestructura Sanitaria vs Transporte segun zona; solo ZU-C/ZU-6 incluyen clase Servicios en Equipamiento; ZU-6 tiene disposicion especial propia (antejardin 10m Vias Troncales). No se determino la fecha exacta de dictacion/publicacion en Diario Oficial (no consta en el texto disponible, documentado explicitamente)."
+    },
+    {
+      "id": "calle_larga_4b7f752d7b",
+      "archivo": "extraccion_normas\\calle_larga\\calle_larga_218_actualizacion_prc_pag18-32.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 15,
+      "zonas_codigos": [
+        "ZU-C",
+        "ZU-1",
+        "ZU-2",
+        "ZU-2A",
+        "ZU-3",
+        "ZU-3A",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZE-4",
+        "ZE-5",
+        "ZAV"
+      ],
+      "nota": "Coincide exactamente con nota_fase3. Defecto de escaneo constatado en TODAS las tablas p19-31: margen izquierdo de la tabla apaisada queda cortado por el borde de pagina, perdiendo las primeras letras de la columna Clase (equipamiento), reconstruido por contexto sin afectar valores numericos que estan integros. ZE-3 (p29) no tiene parametros propios en el cuadro: todas sus columnas son guion en el original, no es problema de lectura. Verificado con recortes ampliados el patron de celdas fusionadas de subdivision predial minima (a veces incluye Vivienda, a veces no) en ZU-C, ZU-1 y ZU-2."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:44:02",
+  "fin": "2026-07-19T00:14:37",
+  "resultado": {
+    "archivo_json": "05_callelarga.json",
+    "zonas_ficha": 15,
+    "zonas_geojson": 15,
+    "zonas_cubiertas": 15,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "15 fichas = 15/15 codigos geojson. Enmienda N1/2022 (densidad +20%) aplicada sobre las 8 zonas ZU correspondientes, resto de columnas sin cambio. ZE-3 documentada como 'no aplica' (cuadro fuente todo guion). Fecha exacta de Diario Oficial del decreto base de la Actualizacion PRC no consta en las fuentes -- se uso 2022-03-10 (fecha sesion Concejo Enmienda1) como fecha_vigencia con caveat explicito en notas de zonas no tocadas por la enmienda."
+  }
+}

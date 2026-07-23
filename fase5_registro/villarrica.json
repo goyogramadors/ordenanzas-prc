@@ -1,0 +1,105 @@
+{
+  "comuna": "villarrica",
+  "region": "09",
+  "geojson_file": "09_PRC_Villarrica.json",
+  "salida_json": "09_villarrica.json",
+  "markdowns": [
+    {
+      "id": "villarrica_8d20c79efa",
+      "archivo": "extraccion_normas\\villarrica\\villarrica_res17_zona_mixta_parque_lago_pag1-3.md",
+      "categoria": "PRI_INTERCOMUNAL",
+      "zonas": 2,
+      "zonas_codigos": [
+        "Zona Mixta de Residencia y Equipamiento",
+        "Zona de Parque Borde de Lago"
+      ],
+      "nota": "CORRECCION A NOTA_FASE3: el contenido de zona NO esta en p1 (solo Vistos/Resuelvo administrativo) sino en p2-3, verificado con pdftotext antes de transcribir. Se renderizaron y transcribieron las 3 paginas del documento completo para no omitir norma pese a que el rango asignado era [1,1]. Zona Mixta: predial 600m2, ocupacion 35%, densidad 160 hab/ha, aislada, altura 5 pisos. Parque Borde Lago: franja 10m (min 5m BNUP), concesion max 15%/tramo, edificacion max 5%/2 pisos. Aplica a Villarrica y Puncon (plan intercomunal)."
+    },
+    {
+      "id": "villarrica_ae0e47e69c",
+      "archivo": "extraccion_normas\\villarrica\\villarrica_oficio38_interpreta_franja_pag2.md",
+      "categoria": "?",
+      "zonas": 0,
+      "zonas_codigos": [],
+      "nota": "Confirmado: documento de interpretacion juridica que INVALIDA (no aplica) la franja de 50m de los arts 22/23/29 del plan intercomunal, por exceder competencia y quedar tacitamente derogados por OGUC 1992. No es cuadro de norma vigente. Coincide con nota_fase3 (confianza MEDIA)."
+    },
+    {
+      "id": "villarrica_01af443107",
+      "archivo": "extraccion_normas/villarrica/villarrica_res1_zonas_zh1_zh2_zh3_zee_zne_zrp_zr1b_zpf_pag5-9.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 8,
+      "zonas_codigos": [
+        "ZH-1",
+        "ZH-2",
+        "ZH-3",
+        "ZEE",
+        "ZNE",
+        "ZRp",
+        "ZR-1B",
+        "ZPF"
+      ],
+      "nota": "Resolucion 1, Modifica PRC Villarrica (Mod. Ordenanza Local 1998), Art.8, pag5-9, LeyChile texto nativo. 8 zonas confirmadas exactas a fase3: ZH-1,ZH-2,ZH-3,ZEE (residencial/equipamiento), ZNE,ZRp,ZR-1B,ZPF (restriccion/proteccion). CONFIRMADO patron cuadro-completo (no modificacion puntual tipo Rengo/Quinta Normal). CORRECCION importante a fase3: los '4 parametros resumidos' (superficie predial, % ocupacion, coef. construccion, densidad) solo aplican completos a ZH-1/ZH-2/ZH-3 y parcialmente ZEE (sin densidad) -- las otras 4 zonas (ZNE,ZRp,ZR-1B,ZPF) NO tienen bloque B. de condiciones de subdivision/edificacion en absoluto, estructura mucho mas simple solo usos permitidos/prohibidos, remitidas a 'proyecto especifico ante DOM' (ZRp,ZR-1B) o 'legislacion vigente' (ZPF) o de plano no aplica por ser zona no edificable (ZNE). HALLAZGO no cubierto por fase3: nota marginal 'RES 47, GOB.REG.ARAUCANIA, N1 L.-, D.O. 08.05.2003' junto a B.8 Altura de ZH-1 (permiso 10 pisos) -- sugiere que ese parrafo especifico proviene de una resolucion distinta y posterior a la que da nombre al documento, posible vista consolidada de LeyChile con anotaciones de procedencia por parrafo; no resuelto del todo por estar pag1-4 fuera de rango. HALLAZGO: existe 9na zona Z-2E (Zona de expansion urbana) cuyo titulo aparece al final de p9 sin ningun contenido -- desarrollo cae en p10 fuera de rango, documentada pero no contada entre las 8. Diferencias estructurales entre las 3 zonas ZH no señaladas por fase3: ZH-3 tiene lista de usos mas corta (sin parrafo usos de apoyo), sin excepcion de continuidad, sin parrafo alturas mayores equipamiento -- pero sus valores numericos replican ZH-2 no ZH-1 (verificado con zoom, riesgo de confusion ZH-1/ZH-3 mitigado). Trampa comuna ajena: NO detectada, las 5 paginas son consistentes Villarrica en todas las referencias. 4 cortes de pagina revisados sin perdida de texto (prosa corrida, no tablas con bordes). 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas."
+    },
+    {
+      "id": "villarrica_04d21f34aa",
+      "archivo": "extraccion_normas/villarrica/villarrica_res18_licanray_zonas_pag13-17.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 14,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2a",
+        "Z-2b",
+        "Z-3",
+        "Z-3E",
+        "Z-4",
+        "Z-5",
+        "Z-R1",
+        "ZR-1a",
+        "ZR-1b",
+        "Z-R2",
+        "ZR-3",
+        "ZR-4",
+        "ZR-5"
+      ],
+      "nota": "Resolucion 18 (12-may-1992) Plan Regulador localidad Lican Ray, comuna Villarrica, Art.21, pag13-17, LeyChile texto nativo. HALLAZGO PRINCIPAL: fase3 no determino codigos de zona -- este documento aporta los 14 codigos exactos (informacion completamente nueva, no discrepancia): Z-1,Z-2a,Z-2b,Z-3,Z-3E,Z-4,Z-5 (Area Consolidada y su Extension, 7 codigos) + Z-R1 con subzonas ZR-1a/ZR-1b, Z-R2, ZR-3, ZR-4, ZR-5 (Area Especial, 7 codigos incluyendo subzonas). Triple verificacion cruzada: imagen 250dpi + .txt entregado + pdftotext independiente sobre PDF completo -- coinciden linea por linea en 100% de los valores, 0 discrepancias entre las 3 fuentes. HALLAZGO no cubierto por fase3: inconsistencia sistematica 'Z-R' vs 'ZR' en la propia fuente -- indice Art.20 siempre 'ZR' sin guion, pero encabezados narrativos Art.21 usan 'Z-R1'/'Z-R2' CON guion para las zonas madre (subzonas y demas mantienen 'ZR' sin guion) -- verificado en 4 apariciones independientes, incluye caso donde el propio parrafo de Z-R2 se autonombra 'Z-R2' y cita a su vecina 'ZR-1b' en la misma oracion. HALLAZGO: Zona Z-5 es la unica de las 5 zonas Z numeradas SIN Coeficiente de Constructibilidad (omision real del original, no inventado). HALLAZGO: errata 'Sistema maximo de la edificacion' en Z-5 (deberia decir Altura, verificado 2 veces con zoom, preservado literal [sic] sin corregir). Z-3 y Z-3E comparten una sola tabla de norma (no dos separadas). Patron relevante para fase 5: las 'Areas Especiales' (Z-R1/ZR-1a/ZR-1b/Z-R2/ZR-3/ZR-4/ZR-5) tienen cuadros normativos incompletos o inexistentes por DISENO (remiten a DS609/1978, concesiones maritimas DFL340/1960, Codigo Sanitario, etc.), contraste con 'Areas Consolidadas' Z-1 a Z-5 que si siguen cuadro uniforme -- requiere manejo de campos vacios 'por diseno' no 'por falta de dato'. 4 tablas partidas entre paginas identificadas y reconciliadas sin perdida (Z-2a p13-14, Z-4 p14-15, Z-R1 usos prohibidos p15-16, nombre de zona ZR-3 partido p16-17). Trampa comuna ajena: NO detectada, topónimos 100% consistentes con Lican Ray (no confundir con Villarrica urbana propiamente tal, que tiene su propio PRC intercomunal ya en villarrica_res17). Numerosas erratas tipograficas menores preservadas [sic]: apostrofes sueltos, signo = suelto, 'Coeficientes' plural, 'Superficies' plural, 'maximo' por 'maxima', 'de y agrupamiento', 'mts.' por 'm.'. No es escaneo -- republicacion texto nativo BCN/LeyChile 2016, sin degradacion entre paginas. 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas."
+    },
+    {
+      "id": "villarrica_1de66da8b5",
+      "archivo": "extraccion_normas/villarrica/villarrica_res47_modificaciones_z4_z4e_ze5_ze5a_zr1a_sz1b_z2_z3_z2e_pag2-7.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 15,
+      "zonas_codigos": [
+        "Z-2",
+        "Z-2E",
+        "Z-3",
+        "Z-4",
+        "Z-4E",
+        "ZE-5",
+        "ZE-5A",
+        "ZR-1A",
+        "SZ-1a",
+        "SZ-1b",
+        "ZE-6",
+        "ZH-1",
+        "ZH-2",
+        "ZH-3",
+        "ZEE"
+      ],
+      "nota": "Resolucion 47/2003 (Gob. Regional Araucania), modifica PRC Villarrica, pag2-7 de 7 -- documento tipo \"modificacion puntual\" (patron ya visto en Quinta Normal/Rengo Res.557/Santiago Decreto138), NO cuadros completos de zona. 17 letras/sub-letras identificadas (A a L, sin I/J/K -- confirmado que el original salta de H a L sin paginas faltantes). A y B son deslinde puro de limite urbano (excluido). 15 restantes transcritas en detalle: C/D/E/F (Art.10/11/12/22) insertan codigo \"ZE-5A\" a continuacion de \"ZE-5\"; G.1 sustituye material fachada metal por cobre; G.2 prohibe planchas de Zinc en 11 zonas (SZ-1a,SZ-1b,Z-2,Z-2E,ZE-5,ZE-5A,ZE-6,ZH-1,ZH-2,ZH-3,ZEE); G.3 Portales(SZ-1a obligatorio)/Marquesinas(SZ-1b condicional); G.4-G.5 sustituyen distanciamiento/rasante Z-2/Z-2E; G.6 agrega uso \"Juzgados\" en Z-4/Z-4E; G.7 agrega uso \"Oficinas en General\" en Z-2/Z-2E/Z-4/Z-4E/ZE-5/ZE-6; G.8 sustituye Altura Maxima ZE-5 de 12 a 21m (verificado con zoom); G.9 crea zona ZE-5A completa (predial 4.000m2, frente 35m, ocupacion 10%, aislado, altura 9m, remite a OGUC para rasantes/distanciamiento); H (Art.26) agrega 11 vias estructurantes incluida \"Paseo Peatonal Camino a Freire\" 10m; L modifica Art.9 de la Resolucion N1/1996-1998 (documento hermano villarrica_res1), sustituyendo en ZH-1 Altura de 5 a 10 -- CRUCE DE VALIDACION verificado: el propio villarrica_res1...md ya registraba nota marginal \"RES 47, GOB.REG.ARAUCANIA, N1 L.-, D.O. 08.05.2003\" confirmando la cifra 10, la unidad \"pisos\", y la fecha de publicacion de esta Resolucion47 (08-may-2003). DISCREPANCIAS vs fase3: (1) modificaciones puntuales no arrancan en p5-6 sino que letra C ya esta completa en p4; (2) fase3 atribuye Portales/Marquesinas SZ-1a/SZ-1b y distanciamiento Z-2/Z-2E a p7, en realidad ambas estan en p5 -- solo Paseo Peatonal esta efectivamente en p7; (3) \"G.6-G.8 agrega usos de suelo\" agrupa impreciso: G.6/G.7 si agregan usos, G.8 sustituye guarismo de altura (no es error de fondo, fase3 lo aclara en frase siguiente, pero la agrupacion es imprecisa). HALLAZGOS no cubiertos por fase3: letra L completa (conexion directa verificable con villarrica_res1, la mas significativa); tabla completa Art.26 con 10 filas viales adicionales; G.1 y G.2 (Zinc, conecta con 4 zonas de la Resolucion N1); erratum [sic] en G.6 \"para las Zona Z-4 y Zona Z-4E\". ZE-6 confirmado codigo real y distinto (no errata de ZE-5), verificado 2 veces contra imagen en G.2 y G.7 -- no aparece en el listado de ampliacion de limites porque ese listado es solo ajuste GEOGRAFICO, mientras G.2/G.7 son normas de uso/material extendidas a zonas adicionales sin tocar su limite. 0 trampa comuna ajena (firma Intendente/Secretario Ejecutivo CORE Araucania, topos locales consistentes). 0 Dato no determinable. Doble corroboracion cruzada con villarrica_res1...md. Confianza alta uniforme en las 6 paginas."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:42:05",
+  "fin": "2026-07-19T00:13:47",
+  "resultado": {
+    "archivo_json": "09_villarrica.json",
+    "zonas_ficha": 32,
+    "zonas_geojson": 30,
+    "zonas_cubiertas": 30,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "32 fichas para 32 codigos geojson (Villarrica urbano + Lican Ray comparten capa). Ambiguedades reales sin resolver: ZR-1A/ZR-1B vs ZR-1a/ZR-1b parecen duplicado por capitalizacion (se documentaron 4 fichas separadas); ZR-2 geojson (proteccion vertientes) no calza con ZR-2 Lican Ray (Peninsula), mas cercano a ZR-3; ZR-4 geojson (Cementerio, Decreto 533) vs ZR-5 Lican Ray (Decreto 553) posible errata de numero. ZR-3/5/6/7/8/9, ZEF, Zona Difusa, Area Verde sin cuadro normativo en el corpus (null+nota). Z-2/Z-2E/Z-3/Z-4/Z-4E/ZE-5/ZE-6/SZ-1b solo tienen modificaciones puntuales de Res.47/2003 (usos/altura), sin cuadro base completo en el rango de paginas de fase4. Requiere validacion humana contra el plano oficial."
+  }
+}

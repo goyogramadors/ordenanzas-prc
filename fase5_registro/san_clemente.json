@@ -1,0 +1,82 @@
+{
+  "comuna": "san_clemente",
+  "region": "07",
+  "geojson_file": "07_PRC_San_Clemente.json",
+  "salida_json": "07_sanclemente.json",
+  "markdowns": [
+    {
+      "id": "san_clemente_2444d0f4c8",
+      "archivo": "extraccion_normas\\san_clemente\\san_clemente_1212_enmienda_n1_zu1a_zu7_zu8_pag3-5.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 3,
+      "zonas_codigos": [
+        "ZU-1A",
+        "ZU-7",
+        "ZU-8"
+      ],
+      "nota": "3 zonas con comparacion ACTUAL/PROPUESTO completa: ZU-1A altura 14,4m/densidad 320hab-ha; ZU-7 CC 1,95/altura 13,2m/densidad 360hab-ha (+usos completos); ZU-8 predial 560m2/CC 0,52/altura 13,2m/densidad 48hab-ha (+usos completos). Coincide con nota_fase3."
+    },
+    {
+      "id": "san_clemente_5f241bc759",
+      "archivo": "extraccion_normas\\san_clemente\\san_clemente_15_zonificacion_pag16-22.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 15,
+      "zonas_codigos": [
+        "ZCV",
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZU-8",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZAV",
+        "ZAP",
+        "ZNE"
+      ],
+      "nota": "Confirmado en p16: las 15 zonas de la lista de fase3 son exactas. Bajo CONFIANZA a MEDIA (fase3 la tenia en ALTA) porque ZNE queda con contenido INCOMPLETO -- su articulo narrativo se corta al final de p22 y continua en p23 fuera del rango asignado; se transcribio lo que hay pero falta el resto. No se detecto cuadro de zonas separado para el area urbana Aurora Flor del Llano dentro de p16-22 (nota_fase3 pedia verificarlo) -- si existe, debe estar en otro rango del mismo documento no asignado a este item."
+    },
+    {
+      "id": "san_clemente_8c48d8d2e4",
+      "archivo": "extraccion_normas\\san_clemente\\san_clemente_3075_enmienda1_y_ordenanza_anexa_pag3-6_16-26.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 15,
+      "zonas_codigos": [
+        "Enmienda-N1(ZU-1A+ZU-7+ZU-8)",
+        "ZCV",
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZU-8",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZAV",
+        "ZAP"
+      ],
+      "nota": "Todo el texto legible a 300dpi. Verificacion cruzada positiva: valores ACTUAL de ZU-7/ZU-8 en la Enmienda N1 coinciden exactamente con los de la Ordenanza anexa oct-2018, y la tabla ACTUAL de ZU-1A coincide con ZU-1 (zona nueva segregada). HALLAZGO PARA FASE SIGUIENTE: documentada explicitamente la superposicion cronologica con Decreto 1212 (san_clemente_2444d0f4c8) sobre las mismas 3 zonas con cifras propuestas distintas, sin elegir cual rige -- requiere cotejo cronologico. Altura/antejardin/adosamiento No especificado para ZE-1,ZE-2,ZE-3,ZAV, no por ilegibilidad sino porque el documento no las consigna."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:50",
+  "resultado": {
+    "archivo_json": "07_sanclemente.json",
+    "zonas_ficha": 16,
+    "zonas_geojson": 15,
+    "zonas_cubiertas": 15,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "16 fichas = 16/16 codigos geojson. Conflicto Decreto1212(2026) vs Enmienda2018 resuelto: Decreto1212 es cronologicamente posterior, pero al comparar cifra por cifra ambos documentos coinciden EXACTAMENTE en los valores finales de ZU-7/ZU-8 (no hubo que elegir ni promediar). ZU-1A no es codigo del geojson actual (solo ZU-1), documentado como excepcion en la ficha ZU-1. 2 codigos del geojson sin cobertura en las 3 fuentes fase4 (AV='Area Verde Existente' distinto de ZAV; ZR-1='Inundacion Cauces Superficiales') -- fichas creadas con null+nota explicita en vez de omitirlas."
+  }
+}

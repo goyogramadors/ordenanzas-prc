@@ -1,0 +1,78 @@
+{
+  "comuna": "los_lagos",
+  "region": "14",
+  "geojson_file": "14_PRC_Los_Lagos.json",
+  "salida_json": "14_loslagos.json",
+  "markdowns": [
+    {
+      "id": "los_lagos_4ececfecdd",
+      "archivo": "extraccion_normas\\los_lagos\\los_lagos_144_ordenanza_original_19zonas_pag5-6.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 19,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZEx-1",
+        "ZEx-2",
+        "ZEx-3",
+        "ZEx-4",
+        "ZEx-5",
+        "ZP-1",
+        "ZP-2",
+        "ZP-3",
+        "ZP-4",
+        "ZP-5",
+        "ZP-6",
+        "ZP-7"
+      ],
+      "nota": "Ordenanza original completa: 19 zonas (7 urbanas + 5 extension + 7 restriccion) todas transcritas integras desde el render (texto OCR legible pese a desorden de columnas). Art.26 vialidad al final de p6 es tabla de vialidad, no de zona, no transcrita. Trampa comuna ajena confirmada en p7-8 (El Bosque, aseo domiciliario) -- no aplica a este rango [5,6], ya excluida por Fase 3. Coincide con nota_fase3."
+    },
+    {
+      "id": "los_lagos_10d160f476",
+      "archivo": "extraccion_normas\\los_lagos\\los_lagos_plan_regulador_1996_pag1-6_9-10.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 19,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZEx-1",
+        "ZEx-2",
+        "ZEx-3",
+        "ZEx-4",
+        "ZEx-5",
+        "ZP-1",
+        "ZP-2",
+        "ZP-3",
+        "ZP-4",
+        "ZP-5",
+        "ZP-6",
+        "ZP-7"
+      ],
+      "nota": "pdftotext ilegible en tablas de 2 columnas (p5-6), se renderizo a 250dpi y se transcribio visual, lectura limpia. ZEx-3 tiene norma 1996 (industria/molesto, predial 2.500-5.000m2) reemplazada por Decreto 796/2007 (publicado 2008) que la asimila a ZU-4, pero el decreto solo menciona Lotes 3 y 4 (~46.325 m2, Seccional La Rotonda, ex Martabid) -- no aclara si aplica a toda la zona, ambas normas documentadas dentro de la seccion ZEx-3. Discrepancia con nota_fase3: los campos predial minima 5.000m2/frente 50m que la nota atribuia a ZP-4 (Recinto ESSAL) en realidad pertenecen a ZP-3 -- probable error de nota_fase3 por el layout en columnas, corregido en el markdown. Se agregaron 9 zonas del mismo Art.23 no listadas en nota_fase3 (ZEx-1,ZEx-2,ZEx-4,ZP-1,ZP-2,ZP-3,ZP-5,ZP-6,ZP-7)."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:50",
+  "resultado": {
+    "archivo_json": "14_loslagos.json",
+    "zonas_ficha": 19,
+    "zonas_geojson": 19,
+    "zonas_cubiertas": 19,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "19 fichas = 19/19 codigos geojson. Correccion aplicada: predial minima 5000m2/frente 50m pertenecen a ZP-3, no a ZP-4/Recinto ESSAL (sin tabla propia). ZEx-3 con ambiguedad de alcance sin resolver entre norma industrial 1996 (usada como valor numerico principal) y Decreto796/2007 (asimila a ZU-4 pero solo menciona explicitamente Lotes 3-4 ~46325m2 Seccional La Rotonda, sin aclarar si aplica a toda la zona) -- ambas normas documentadas en la ficha, requiere validacion humana de alcance."
+  }
+}

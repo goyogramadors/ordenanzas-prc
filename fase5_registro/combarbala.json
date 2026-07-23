@@ -1,0 +1,47 @@
+{
+  "comuna": "combarbala",
+  "region": "04",
+  "geojson_file": "04_PRC_Combarbala.json",
+  "salida_json": "04_combarbala.json",
+  "markdowns": [
+    {
+      "id": "combarbala_27429e1e45",
+      "archivo": "extraccion_normas\\combarbala\\combarbala_532_2020_prc_pag11-25.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 16,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZU-8",
+        "ZU-9",
+        "ZU-10",
+        "ZU-11",
+        "ZU-12",
+        "ZAV-1",
+        "EP",
+        "A-1",
+        "A-2"
+      ],
+      "nota": "Coincide con nota_fase3 (12 ZU + ZAV-1 + EP en art.8, A-1/A-2 en art.9 con altura 10/7m). pdftotext -layout desalineo etiqueta/valor en tablas de ZU-7,ZU-8,ZU-9,ZU-11 y en cuadro ICH, verificadas con render de p20,21,23,25. ZU-8,ZU-9,ZU-10,ZU-11,ZU-12 tienen normas incompletas en el propio texto oficial (faltan COS/CC/Agrupamiento/Antejardin/Estacionamientos segun el caso), marcadas No especificado. Se agrego tabla referencial para ZR-1/ZR-2 (zonas de restriccion sin normas propias, remiten a zona base) sin contarlas como zona adicional."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:07:15",
+  "fin": "2026-07-23T10:18:25",
+  "resultado": {
+    "archivo_json": "04_combarbala.json",
+    "zonas_ficha": 14,
+    "zonas_geojson": 14,
+    "zonas_cubiertas": 14,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "14 fichas = 14/14 codigos geojson (ZU1-ZU12, ZAV-1, EP). ZR-1/ZR-2 y A-1/A-2 de la ordenanza no aparecen en este geojson, no se generaron fichas. ZU8 y EP con multiples campos null (COS,CC,agrupamiento,antejardin) por estar 'No especificado' en el propio Decreto532/2020."
+  }
+}

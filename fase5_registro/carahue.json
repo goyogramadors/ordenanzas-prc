@@ -1,0 +1,51 @@
+{
+  "comuna": "carahue",
+  "region": "09",
+  "geojson_file": "09_PRC_Carahue.json",
+  "salida_json": "09_carahue.json",
+  "markdowns": [
+    {
+      "id": "carahue_e140c061fe",
+      "archivo": "extraccion_normas\\carahue\\carahue_8_prc_carahue_trovolhue_pag10-18_30-33.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 20,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "ZE-1",
+        "Z-3",
+        "Z-4",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZR-4",
+        "ZR-5",
+        "ZR-6",
+        "ZR-7",
+        "ZR-8",
+        "ZR-9",
+        "ZR-10",
+        "Z-1(Trovolhue)",
+        "ZE-1(Trovolhue)",
+        "ZR-1a(Trovolhue)",
+        "ZR-1b(Trovolhue)",
+        "ZR-2(Trovolhue)"
+      ],
+      "nota": "Confirmado caso mixto real: Z-1/Z-2/ZE-1 de Carahue y todo Trovolhue en texto plano; Z-3,Z-4,ZR-6 a ZR-10 de Carahue son tablas-imagen legibles a 300dpi, transcritas por render. ZR-1 a ZR-5 de Carahue y ZR-1a/ZR-1b/ZR-2 de Trovolhue no tienen cuadro numerico (solo prosa de usos), marcado explicito, sin inventar valores. p32-33 confirmado sin contenido adicional de zona (vialidad estructurante en blanco + articulo derogatorio)."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:44:02",
+  "fin": "2026-07-19T00:14:37",
+  "resultado": {
+    "archivo_json": "09_carahue.json",
+    "zonas_ficha": 18,
+    "zonas_geojson": 18,
+    "zonas_cubiertas": 18,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "18 fichas = 18/18 codigos geojson. HALLAZGO IMPORTANTE: el geojson reutiliza el mismo codigo Z1 para la Z-1 de Carahue (predial 300m2, POS 80%, altura continua 7m) Y la Z-1 de Trovolhue (predial 150m2, POS 65%, altura continua 12m) -- normas DISTINTAS bajo un solo codigo; se documento con los valores de Carahue y nota de advertencia (el geolocalizador podria mostrar norma incorrecta para puntos en Trovolhue bajo este codigo). ZE1 y ZR2 tambien compartidos pero sin conflicto (normas identicas). ZR1(Carahue)/ZR1a,ZR-1b(Trovolhue) si tienen codigo propio diferenciado. 3 codigos sin articulo propio en el corpus (AV, Lecho de Cauce, Modificacion D.S.230) documentados con null+nota; D.S.230 investigado externamente (reemplaza ZR-5/parte Z-1 por Z-2), fecha exacta no confirmada."
+  }
+}

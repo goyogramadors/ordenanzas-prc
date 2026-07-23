@@ -1,0 +1,56 @@
+{
+  "comuna": "purranque",
+  "region": "10",
+  "geojson_file": "10_PRC_Purranque.json",
+  "salida_json": "10_purranque.json",
+  "markdowns": [
+    {
+      "id": "purranque_74d25f651f",
+      "archivo": "extraccion_normas\\purranque\\purranque_ordenanza_la_colmena_zonas.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 10,
+      "zonas_codigos": [
+        "ZH1/ZH1-A",
+        "ZH2",
+        "ZM1",
+        "ZC",
+        "ZE1/ZE1-A",
+        "ZE2",
+        "AV",
+        "AV-1",
+        "ZR-Le",
+        "ZE3"
+      ],
+      "nota": "10 zonas completas (usos+normas especificas) transcritas. Contaminacion DO confirmada (Valdivia p1, Providencia/Defensa p5) aislada correctamente. Vialidad (p2) excluida. Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "purranque_663a645402",
+      "archivo": "extraccion_normas\\purranque\\purranque_ordenanza_1967_pag14-23.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 6,
+      "zonas_codigos": [
+        "Comerciales(Art.32)",
+        "Residenciales existentes(Art.33)",
+        "Residenciales nuevas(Art.34)",
+        "Mixtas Industriales-Residenciales(Art.35)",
+        "Huertos(Art.36)",
+        "Industriales(Art.37)"
+      ],
+      "nota": "Coincide con nota_fase3 en estructura y nucleo duro p18-22. Escaneo legible en general a 300dpi. Numero de articulo de Residenciales nuevas en p20 tiene el digito tras ART.3 ausente en el original -> se infiere Art.34 por contexto secuencial (33 antes, 35 despues), no por lectura directa. Filas Densidad predial/habitacional de Art.34 usan unidad m. en vez de Hab/Ha - Viv/Ha (error de tipeo del original, confirmado porque Art.35 repite los mismos valores 225/40 correctamente rotulados) -> transcrito tal cual con nota aclaratoria."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:44:02",
+  "fin": "2026-07-19T00:14:59",
+  "resultado": {
+    "archivo_json": "10_purranque.json",
+    "zonas_ficha": 32,
+    "zonas_geojson": 32,
+    "zonas_cubiertas": 32,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "BAJA",
+    "nota": "32 fichas = 32/32 codigos geojson, pero SOLO 17 de 32 tienen respaldo textual real: 6 zonas Ordenanza 1967 (emparejadas por nombre de articulo, no codigo corto, coincide con nomenclatura del geojson) + 11 codigos cortos de la Modificacion La Colmena (ZH1,ZH1-A,ZH2,ZM1,ZC,ZE1,ZE1-A,ZE2,AV,AV-1,ZR-Le). Los 15 restantes NO tienen fuente en el corpus fase4 disponible: 2 remiten conceptualmente a Arts.29-30/1967 sin tabla numerica; 8 son categorias tipicas de plano base (area verde exist/proyectada, cementerio, no edificables, educacionales publicas, aeropuerto exist/proyectado, vegetacion protectora) fuera del rango transcrito; 5 (ZHE,ZHN,ZI,ZR,ZE) no calzan con ninguna fuente transcrita y probablemente pertenecen a un tercer instrumento no capturado en fase4 -- posible hueco real de descarga, no solo de transcripcion. Confianza BAJA por el volumen de fichas sin respaldo textual (usos tomados solo de UPERM/UPROH del propio geojson, nunca inventados). Recomendacion: revisar si existe un PRC seccional adicional de Purranque no descargado."
+  }
+}

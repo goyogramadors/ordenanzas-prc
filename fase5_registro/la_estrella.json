@@ -1,0 +1,42 @@
+{
+  "comuna": "la_estrella",
+  "region": "06",
+  "geojson_file": "06_PRC_La_Estrella.json",
+  "salida_json": "06_laestrella.json",
+  "markdowns": [
+    {
+      "id": "la_estrella_56a175f510",
+      "archivo": "extraccion_normas\\la_estrella\\la_estrella_243_ordenanza_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 9,
+      "zonas_codigos": [
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZE-4",
+        "ZE-5",
+        "ZE-6",
+        "ZD",
+        "AV",
+        "ISAN"
+      ],
+      "nota": "Imagen unica gigante (p10) transcrita mediante 5 recortes ampliados en 4x. 9 zonas completas (usos permitidos/prohibidos + normas urbanisticas). p12-13 (conservacion historica) y p11 (vialidad) excluidas. Verificado contra nota_fase3: coincide."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:18:59",
+  "fin": "2026-07-23T10:28:25",
+  "resultado": {
+    "archivo_json": "06_laestrella.json",
+    "zonas_ficha": 9,
+    "zonas_geojson": 8,
+    "zonas_cubiertas": 8,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "ISAN"
+    ],
+    "confianza": "ALTA",
+    "nota": "9 fichas, 8/8 codigos geojson (ZE1-6,ZD,AV) + ISAN agregada por completitud de la ordenanza aunque no tiene poligono en este geojson. Metadatos del decreto (promulgacion 23-feb-2016, D.O. 12-abr-2016) verificados por el subagente abriendo el PDF fuente ante ambiguedad real de fecha."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "comuna": "teno",
+  "region": "07",
+  "geojson_file": "07_PRC_Teno.json",
+  "salida_json": "07_teno.json",
+  "markdowns": [
+    {
+      "id": "teno_b4adad4b23",
+      "archivo": "extraccion_normas\\teno\\teno_52_zonas_zu_pag15-23.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 12,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZU-7",
+        "ZU-8",
+        "ZE1",
+        "ZE2",
+        "ZE3",
+        "ZAV"
+      ],
+      "nota": "nota_fase3 solo verificaba ZU-3/ZU-4 como muestra pero el Art.7 (p15-16) lista 12 zonas, todas cubiertas p16-22. Trampa LeyChile confirmada, se transcribio desde el render, no desde pdftotext. P23 (Art.8-10) confirmado texto descriptivo puro sin tabla normativa nueva; se documento de regalo el Art.11 (ICH, Cap.6) en la misma pagina. Punto dudoso en ZE1 (p21): columnas permitidos/prohibidas de Actividades Productivas e Infraestructura Sanitaria parecen contradictorias entre si, verificado a 500dpi y transcrito literal sin reinterpretar, flageado en el archivo."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:29:19",
+  "fin": "2026-07-23T10:29:19",
+  "resultado": {
+    "archivo_json": "07_teno.json",
+    "zonas_ficha": 13,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "13 fichas: 12 zonas Art.7 (ZU-1..8,ZE-1..3,ZAV) completas + AV (Area Verde Existente, brecha, solo en geojson, null+nota). ZE-1 documenta tal cual la contradiccion aparente entre columnas de usos permitidos/prohibidos de Actividades Productivas e Infraestructura Sanitaria (verificado a 500dpi en fase4, no resuelta arbitrariamente). CORRECCION POST-SUBAGENTE: el geojson de Teno usa el NOMBRE DESCRIPTIVO completo en el campo ZONA (ej. 'Zona Urbana 1'), no el codigo corto (ZU-1) -- el subagente origial genero zona_codigo='ZU-1' etc, causando cobertura 0/13; corregido manualmente igualando zona_codigo al nombre exacto del campo ZONA de cada feature."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "comuna": "florida",
+  "region": "08",
+  "geojson_file": "08_PRC_Florida.json",
+  "salida_json": "08_florida.json",
+  "markdowns": [
+    {
+      "id": "florida_dfb14181f3",
+      "archivo": "extraccion_normas\\florida\\florida_ordenanza_prc_pag16-27.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 13,
+      "zonas_codigos": [
+        "ZH-1",
+        "ZH-2",
+        "ZH-3",
+        "ZH-4",
+        "ZH-5",
+        "ZHCC",
+        "ZEXH-1",
+        "ZEXH-2",
+        "ZEXHC",
+        "ZER",
+        "ZAP",
+        "ZIS",
+        "ZEC"
+      ],
+      "nota": "Texto nativo pdftotext -layout confiable, una zona por pagina segun anticipaba nota_fase3, sin necesidad de render/OCR. Tabla de condiciones de ZEXHC (p24) llego con filas Agrupamiento/Altura/Antejardin desalineadas por el layout del PDF, se reconstruyo el orden logico consistente con el resto de zonas. ZIS y ZEC (p27) no traen cuadro numerico de condiciones urbanisticas, solo usos permitidos/prohibidos, coincide con nota_fase3."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:44:02",
+  "fin": "2026-07-19T00:14:59",
+  "resultado": {
+    "archivo_json": "08_florida.json",
+    "zonas_ficha": 14,
+    "zonas_geojson": 14,
+    "zonas_cubiertas": 14,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "14 fichas = 14/14 codigos geojson: 13 zonas del Cap.IV (ZH-1..5,ZHCC,ZEXH-1/2,ZEXHC,ZER,ZAP,ZIS,ZEC) + AVP del geojson sin articulo propio en el rango transcrito (null+nota). ZIS/ZEC sin cuadro numerico (solo usos, tal como anticipaba fase4). Altura en todas las zonas remite a rasante OGUC 2.6.3 sin numero fijo en el cuadro fuente."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "comuna": "cauquenes",
+  "region": "07",
+  "geojson_file": "07_PRC_Cauquenes.json",
+  "salida_json": "07_cauquenes.json",
+  "markdowns": [
+    {
+      "id": "cauquenes_3dcb951602",
+      "archivo": "extraccion_normas\\cauquenes\\cauquenes_3519_enmienda_n1.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZM3"
+      ],
+      "nota": "Enmienda de una sola norma (altura maxima 18m) para ZM3; resto de la tabla ZM3 no modificado y no presente en el documento. Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "cauquenes_f0dfd12ea8",
+      "archivo": "extraccion_normas\\cauquenes\\cauquenes_decreto_exento_1033_enmienda_02.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "ZM2"
+      ],
+      "nota": "Enmienda de una sola norma (altura maxima 14,40 m, +20%) para ZM2; escaneo con OCR pobre pero render nitido confirma el valor en tabla. Resto de ZM2 no modificado. Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "cauquenes_bc983b59f8",
+      "archivo": "extraccion_normas/cauquenes/cauquenes_500_zm_zh_ze_zap_zi_zav_zne_zri_zch_pag18-24.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 15,
+      "zonas_codigos": [
+        "ZM1",
+        "ZM2",
+        "ZM3",
+        "ZH1",
+        "ZH2",
+        "ZH3",
+        "ZE1",
+        "ZE2",
+        "ZAP",
+        "ZI",
+        "ZAV",
+        "ZNE",
+        "ZRI1",
+        "ZRI2",
+        "ZCH"
+      ],
+      "nota": "15 zonas, escaneado sin capa de texto, 100% visual. Filas ausentes de antejardin/densidad documentadas. ZE2/ZAV/ZNE/ZRI1 sin cuadro propio. ZRI2 remite a ZM2 (verificado). ZCH con unico parametro numerico (altura 10m)."
+    },
+    {
+      "id": "cauquenes_3d38696675",
+      "archivo": "extraccion_normas\\cauquenes\\cauquenes_500_2009_ordenanza_local_pag8-17.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "ZM1",
+        "ZM2",
+        "ZM3",
+        "ZH1",
+        "ZH2",
+        "ZH3",
+        "ZE1",
+        "ZE2",
+        "ZAP",
+        "ZI",
+        "ZAV"
+      ],
+      "nota": "Codigos y las 11 zonas coinciden con nota_fase3. Incluida tabla clave G1-G5 (Art.14, p9) como seccion aparte, imprescindible para interpretar cuadros de uso de zona. ZM3/ZH1/ZE1 tienen cuadros de usos con menos filas que las demas (sin Esparcimiento/Seguridad/Servicios/Act.Productivas segun el caso), transcrito tal cual el escaneo, no es omision propia. ZE2 y ZAV no tienen cuadro numerico de subdivision/edificacion (remiten a Codigo Sanitario y Art 2.1.31 OGUC), consistente con su naturaleza de zona especial."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:07:06",
+  "resultado": {
+    "archivo_json": "07_cauquenes.json",
+    "zonas_ficha": 14,
+    "zonas_geojson": 14,
+    "zonas_cubiertas": 14,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "14 fichas = 14/14 codigos geojson (ZM1-3,ZH1-3,ZE1-2,ZAP,ZI,ZAV,ZCH,ZR1-2). Enmiendas aplicadas: ZM3 altura 18m, ZM2 altura 14,40m (+20%). ZR2 hereda norma de ZM2 ya enmendada (verificado en fase4). ZR1/ZR2 mapeados desde ZRI1/ZRI2 de la ordenanza al codigo exacto del geojson. ZE2/ZAV/ZCH/ZR1 con remision normativa (Codigo Sanitario/OGUC) sin cuadro numerico propio. ZNE no aparece en este geojson, no se genero ficha."
+  }
+}

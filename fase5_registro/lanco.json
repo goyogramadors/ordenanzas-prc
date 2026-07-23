@@ -1,0 +1,69 @@
+{
+  "comuna": "lanco",
+  "region": "14",
+  "geojson_file": "14_PRC_Lanco.json",
+  "salida_json": "14_lanco.json",
+  "markdowns": [
+    {
+      "id": "lanco_7ba456f6dc",
+      "archivo": "extraccion_normas\\lanco\\lanco_5674_ordenanza_zonas.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 15,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ZU-6",
+        "ZEX-1",
+        "ZEX-2",
+        "ZE-D",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "ZR-4",
+        "ZR-5",
+        "ZR-6"
+      ],
+      "nota": "15 zonas/subzonas: ZU1-6 y ZEX1-2 con cuadros completos (usos+normas), ZE-D completo, ZR1-6 en su mayoria solo texto/usos (sin cuadro numerico propio salvo ZE-D). p8 (comuna ajena, Valdivia) excluida. Verificado contra nota_fase3: coincide."
+    },
+    {
+      "id": "lanco_8ad3ac6f83",
+      "archivo": "extraccion_normas\\lanco\\lanco_prc_pag13-24_28-30.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 14,
+      "zonas_codigos": [
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZU-5",
+        "ICH",
+        "AV-1",
+        "AV-2",
+        "ZI-1",
+        "ZI-2",
+        "ZI-3",
+        "ZI-4",
+        "ZR-1",
+        "ZR-2"
+      ],
+      "nota": "Cuadros 5-9 (ZU1-ZU5) y Cuadro 13 (estacionamientos) transcritos completos con confianza ALTA. Cuadro 10 (p23) se aplico a AV-1/AV-2 por continuidad textual directa confirmada, pero el texto NO confirma explicitamente su aplicacion a ICH ni a las ZI como sugeria nota_fase3 -- esas zonas quedan con parametros No especificado y confianza baja/media por zona. ICH no tiene ninguna norma descrita en p13-24 (detalle de inmuebles esta en p12, fuera de rango). ZI-4 es explicitamente inedificable; ZI-1/ZI-3 remiten a leyes sectoriales (Ferrocarriles, Cementerios) sin parametros propios. ZR-1 y ZR-2 transcritas en prosa desde p24 (mitad superior), segunda mitad (Cap.III Vialidad) excluida."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:51",
+  "resultado": {
+    "archivo_json": "14_lanco.json",
+    "zonas_ficha": 15,
+    "zonas_geojson": 15,
+    "zonas_cubiertas": 15,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "15 fichas = 15/15 codigos geojson (coinciden con nomenclatura del Decreto5674/2003). Para ZU-1..5 se uso el doc.2 (Cuadros5-9) como fuente numerica primaria por mayor granularidad (vivienda/equipamiento/bodegas diferenciados), con discrepancias del Decreto5674 documentadas en notas. ZU-6/ZEX-1/ZEX-2/ZE-D solo en doc.1. ZR-1..6 sin cuadro numerico propio (remiten a leyes sectoriales o inedificables). ICH/AV-1/AV-2/ZI-1..4 del doc.2 no tienen geometria en este geojson, quedaron fuera."
+  }
+}

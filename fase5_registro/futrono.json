@@ -1,0 +1,47 @@
+{
+  "comuna": "futrono",
+  "region": "14",
+  "geojson_file": "14_PRC_Futrono.json",
+  "salida_json": "14_futrono.json",
+  "markdowns": [
+    {
+      "id": "futrono_19540b20a8",
+      "archivo": "extraccion_normas\\futrono\\futrono_res37_1997_res101_2006_cruzado_pag5-15.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 14,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-3",
+        "Z-4",
+        "Z-5",
+        "Z-6",
+        "Z-7",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZR-1",
+        "ZR-2",
+        "ZR-3",
+        "Areas Verdes"
+      ],
+      "nota": "p5-9 (Res.37/1997) se leyo visualmente por render 300dpi, escaneo nitido de texto a dos columnas, confirmo todos los valores sin ambiguedad. p10-15 (Res.101/2006) se extrajo con pdftotext, confiable, tabla del Art.8 (Z-1,Z-3,Z-6) tambien modifica agrupamiento/adosamientos/antejardin ademas de lo que decia nota_fase3. Se agregaron 4 zonas no listadas en nota original (ZR-1,ZR-2,ZR-3,Areas Verdes) por aparecer en el rango procesado. Valores vigentes cruzados: Z-3 y Z-6 usan tabla de reemplazo 2006, resto usa 1997 sin cambios, Z-7 100% nueva 2006."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T10:07:15",
+  "fin": "2026-07-23T10:18:46",
+  "resultado": {
+    "archivo_json": "14_futrono.json",
+    "zonas_ficha": 15,
+    "zonas_geojson": 14,
+    "zonas_cubiertas": 14,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "7"
+    ],
+    "confianza": "MEDIA",
+    "nota": "15 fichas: 14 codigos del geojson + Z-7 (creada por Res.101/2006, sin poligono en esta capa geojson, incluida igual por completitud normativa). Z-1/Z-3/Z-6 con valores 2006 (incluye agrupamiento/adosamiento/antejardin), resto con valores 1997. 'Zona Difusa' del geojson sin correlato en la ordenanza transcrita, ficha con null+nota. Fecha Res.101/2006 (17-ago-2006) inferida de LeyChile/BCN por el subagente, no confirmada contra Diario Oficial fisico -- validar."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "comuna": "san_esteban",
+  "region": "05",
+  "geojson_file": "05_PRC_San_Esteban.json",
+  "salida_json": "05_sanesteban.json",
+  "markdowns": [
+    {
+      "id": "san_esteban_269e39be3f",
+      "archivo": "extraccion_normas\\san_esteban\\san_esteban_11_actualizacion_prc_pag13-22.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "ZU-C",
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZE-4",
+        "ZE-5",
+        "ZAV"
+      ],
+      "nota": "3 tablas por zona legibles a 300dpi sin reintento a 400dpi. ZE-5 Zona Especial Areas Verdes y ZAV Zona Areas Verdes (Art.10, texto nativo) son zonas distintas pese al nombre parecido, ambas documentadas; ZAV coincide con nota_fase3 (2500m2, altura 3.5m, aislado, antejardin 10m). ZE-5 solo trae 2 tablas (usos + subdivision con COS/CC remitidos a Art.2.1.31 OGUC), no 3 como el resto, documentado tal cual. Art.11/Cuadro 4 ICH resumido como referencia, no como zona."
+    },
+    {
+      "id": "san_esteban_ad3d23e1c5",
+      "archivo": "extraccion_normas\\san_esteban\\san_esteban_98576_2018_version_vigente_pag8-18.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 11,
+      "zonas_codigos": [
+        "ZU-C",
+        "ZU-1",
+        "ZU-2",
+        "ZU-3",
+        "ZU-4",
+        "ZE-1",
+        "ZE-2",
+        "ZE-3",
+        "ZE-4",
+        "ZE-5",
+        "ZAV"
+      ],
+      "nota": "Version de texto limpio de la MISMA normativa que san_esteban_269e39be3f (transcrita desde imagen). Verificado valor por valor contra esa transcripcion anterior: coinciden exactamente en las 11 zonas + ZAV, sin discrepancias -- sirve de confirmacion cruzada de calidad para ambos documentos. pdftotext -layout tenia corrimiento sistematico de una fila entre etiqueta y valor en varias zonas, reconstruido y confirmado fila a fila. ZE-5 confirma genuinamente carecer de filas de altura/sistema/antejardin, no es artefacto. HALLAZGO PARA FASE SIGUIENTE: este documento y san_esteban_269e39be3f son la misma normativa en dos fuentes, candidato a dedup/consolidacion (a diferencia del caso vitacura, aqui NO hay discrepancia de contenido)."
+    },
+    {
+      "id": "san_esteban_b1c5295680",
+      "archivo": "extraccion_normas\\san_esteban\\san_esteban_2014_derogada_zonas_h_e_r.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 18,
+      "zonas_codigos": [
+        "H-1",
+        "H-3",
+        "H-4",
+        "H-5",
+        "H-6",
+        "H-8",
+        "H-9",
+        "H-10",
+        "E-2",
+        "E-5",
+        "E-6",
+        "E-8",
+        "E-11",
+        "R-4",
+        "R-5",
+        "R-6",
+        "R-8",
+        "R-9"
+      ],
+      "nota": "ADVERTENCIA CLAVE dejada explicita en el markdown: esta es una ordenanza DEROGADA (version 2014, ya reemplazada) -- normativa historica, no vigente. Confirmado que no existen zonas H-2, H-7 ni R-7 (saltos reales en la numeracion del propio Art.29, no error de transcripcion). R-4,R-5,R-8,R-9 son descriptivas sin cuadro numerico (remiten a normativa sectorial externa), transcritas como texto, no como tabla inventada. E-5 y E-6 tampoco traen cuadro numerico (proteccion patrimonial/ambiental por remision)."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-23T09:50:11",
+  "fin": "2026-07-23T10:06:29",
+  "resultado": {
+    "archivo_json": "05_sanesteban.json",
+    "zonas_ficha": 13,
+    "zonas_geojson": 13,
+    "zonas_cubiertas": 13,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "ALTA",
+    "nota": "13 fichas = 13/13 codigos geojson. Ordenanza vigente (2 transcripciones cruzadas, coinciden exacto) usada, NO la version derogada 2014 (verificado que el geojson usa nomenclatura ZU-/ZE-/ZAV, no la H-/E-/R- derogada). ZE-5 y ZAV documentadas como zonas distintas. CR/TE (fajas no edificables) sin norma propia en el rango transcrito, null+nota. Fecha D.O. 2018-01-29 confirmada por busqueda web complementaria del subagente, no por apertura de PDF."
+  }
+}

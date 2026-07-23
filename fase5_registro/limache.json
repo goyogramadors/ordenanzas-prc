@@ -1,0 +1,57 @@
+{
+  "comuna": "limache",
+  "region": "05",
+  "geojson_file": "05_PRC_Limache.json",
+  "salida_json": "05_limache.json",
+  "markdowns": [
+    {
+      "id": "limache_b7c6015de9",
+      "archivo": "extraccion_normas\\limache\\limache_44143_actualizacion_prc_pag14-24.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 26,
+      "zonas_codigos": [
+        "ZC0",
+        "ZC0a",
+        "ZC1",
+        "ZC1a",
+        "ZC1b",
+        "ZC2",
+        "ZC2a",
+        "ZR0",
+        "ZR0a",
+        "ZR1",
+        "ZR1a",
+        "ZR2",
+        "ZR3",
+        "ZR4",
+        "ZE-1",
+        "ZE-2",
+        "ZCS",
+        "ZCS-CCU",
+        "ZCEM",
+        "ZC1bc",
+        "ZI",
+        "ZAP",
+        "AV",
+        "ZAV",
+        "ZCH",
+        "AR1-H"
+      ],
+      "nota": "Mapeo de columnas verificado visualmente contra render de p16 (Art.13 ZC0) y contrastado con Tabla 4 (p15) para las 26 densidades, 100% coincidencia. Unico punto dudoso: en ZCEM (Art.31) aparece un valor suelto 3,5 no asociable con certeza a una fila especifica (posible altura de subclase Salud/Culto no identificada), documentado como nota, confianza MEDIA solo en ese dato puntual (resto ALTA). AR-1, AR-2, ICH y Zona Tipica excluidos por remitir a zona base o ser listados sin cuadro propio, coincide con nota_fase3."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "S1",
+  "inicio": "2026-07-18T23:42:05",
+  "fin": "2026-07-19T00:14:20",
+  "resultado": {
+    "archivo_json": "05_limache.json",
+    "zonas_ficha": 28,
+    "zonas_geojson": 27,
+    "zonas_cubiertas": 27,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [],
+    "confianza": "MEDIA",
+    "nota": "28 fichas para 28 codigos geojson desde 1 ordenanza (26 zonas transcritas + normalizacion ZC0a/ZE-1/ZE-2 -> ZC0A/ZE1/ZE2 para calzar grafia geojson). 3 codigos del geojson sin cuadro en el rango transcrito (ZPP remite a Art.41 fuera de rango; AGUA y ZNE no identificados en el extracto) -- null+nota, requieren validacion contra Diario Oficial completo. AR1-H tiene cuadro propio en la ordenanza pero no aparece en este geojson, se excluyo. Dato puntual 3,5 de ZCEM (Art.31) no asociable con certeza a una fila -- confianza MEDIA puntual, no forzado."
+  }
+}
