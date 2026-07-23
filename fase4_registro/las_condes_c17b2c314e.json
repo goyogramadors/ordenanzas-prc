@@ -9,12 +9,14 @@
     ]
   ],
   "paginas_utiles": 9,
-  "nota_fase3": "Dec.3218/2003 (Diario Oficial) promulga texto resolutivo de la MODIFICACION N.2 del PRC Las Condes. p1-9 TEXTO denso: tablas de 'Normas Especificas de Edificacion' por area (E-Ab1/2/3, E-Am2, E-Am4 Cerro San Luis, E-Am4 Sector Visviri...), con Tabla A (proyecto nuevo) y Tabla B (densificacion) por area, columnas: densidad max neta, subdivision predial min, coef.constructibilidad, coef.ocupacion de suelo, coef.area libre, rasante, altura max, antejardin min, distanciamiento a medianeros, agrupamiento/adosamiento. p9-10 pasa a VIALIDAD - EXCLUIDO por no ser norma de edificacion.",
+  "nota_fase3": "Dec.3218/2003 (Diario Oficial) promulga texto resolutivo de la MODIFICACION N.2 del PRC Las Condes. p1-9 TEXTO denso: tablas de 'Normas Especificas de Edificacion' por area (E-Ab1/2/3, E-Am2, E-Am4 Cerro San Luis, E-Am4 Sector Visviri...), con Tabla A (proyecto nuevo) y Tabla B (densificacion) por area, columnas: densidad max neta, subdivision predial min, coef.constructibilidad, coef.ocupacion de suelo, coef.area libre, rasante, altura max, antejardin min, distanciamiento a medianeros, agrupamiento/adosamiento. Ej. area E-Am2 tabla B: densidad 240 viv/ha, predial 1.500m2, CC 1.8, COS 0.4, altura 9 pisos/31,5m, antejardin 7m. p9-10 pasa a VIALIDAD (perfiles y anchos de calles, cuadro de vias colectoras/servicio/locales) - EXCLUIDO por no ser norma de edificacion.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO",
-  "estado": "EN_PROCESO",
+  "estado": "FALLIDO",
   "sesion": "AMIGO1",
   "inicio": "2026-07-23T14:25:36",
-  "fin": null,
-  "resultado": null
+  "fin": "2026-07-23T14:32:52",
+  "resultado": {
+    "motivo": "DUPLICADO CONFIRMADO del mismo Decreto N.3218/2003 (04-dic-2003, Diario Oficial N.37.728, MODIFICACION N.2 PRC Las Condes) ya transcrito y completado como las_condes_1970e1affb (sesion grego4, 2026-07-18, estado HECHO, archivo extraccion_normas/las_condes/las_condes_3218_2003_areas_edificacion.md, 20 zonas/tablas: TABLA_A, TABLA_B [predio residual densificacion], E-Ab1, E-Ab2, E-Ab3, E-Ab4, E-Ab4prima, E-Am1, E-Am1prima, E-Am2, E-Am4 [incl. sub-sectores Cerro San Luis, Sector Visviri, Sector Los Militares, Cerro El Plomo, Hermanos Cabot], E-Aa1, E-Aa2, E-Aa3, E-Aa4, E-Aa+cm, E-Aa+ca, E-e1, E-e2, USOS_SUELO_ART41). Mismo decreto cargado 3 veces en el catalogo bajo nombres de archivo distintos (las_condes_D.O.N3218.04dic2003.pdf usado por 1970e1affb; las_condes_D.O.N_3218.04dic2003.pdf usado por este id c17b2c314e, con guion bajo de mas; existe ademas las_condes_decreto.3218.04dic2003.pdf sin registro). Verificado con pdftotext: la unica diferencia de rango (mi asignacion 1-9 vs 2-9 del canonico) es la pagina 1, que contiene EXCLUSIVAMENTE el preambulo del decreto (vistos y considerandos) y modificaciones generales a los articulos 7,9,15,16,17,18,20,22,30,31 (definiciones, antejardines, fachadas, piso retirado, subsuelo) -- sin ninguna tabla de normas por area de edificacion. Pagina 9 tambien verificada: coincide con el contenido ya documentado en el canonico (tabla E-e2, renumeracion letra H, inicio Vialidad art.45 excluido). No se retranscribe para evitar trabajo duplicado, cumpliendo la regla de un documento un Markdown. No se creo ni subio ningun .md nuevo para este id."
+  }
 }
