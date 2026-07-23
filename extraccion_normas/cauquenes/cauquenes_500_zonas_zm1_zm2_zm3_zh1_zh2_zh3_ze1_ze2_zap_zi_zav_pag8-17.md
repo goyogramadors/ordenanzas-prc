@@ -11,7 +11,7 @@
 - `cauquenes_3519_enmienda_n1.md` (Decreto 3519, 2017): sube la Altura Máxima de **ZM3** a **18 metros**.
 - `cauquenes_decreto_exento_1033_enmienda_02.md` (Decreto Exento 1033): sube la Altura Máxima de **ZM2** a **14,40 metros**, explicitando que equivale a "un incremento del 20% respecto de la altura anterior".
 
-Estos dos documentos **no se editaron ni se usaron como fuente de valores** para este trabajo (que transcribe exclusivamente el Decreto 500/2009 original, páginas 8-17). Se usaron solo como **control aritmético externo**: 14,40 m ÷ 1,20 = **12,00 m**, que coincide exactamente con el valor de Altura Máxima que se transcribió aquí para ZM2 (ver §8 y §19). Esto es una confirmación cruzada independiente de que la lectura de ZM2 es correcta. Para ZM3, el valor aquí transcrito (15 metros, del texto original de 2009) **ya no es el vigente** — fue reemplazado por 18 metros en 2017; se deja la nota correspondiente en §10 y en §19 para que una fase posterior no interprete 15 m como la norma actualmente vigente.
+Estos dos documentos **no se editaron ni se usaron como fuente de valores** para este trabajo (que transcribe exclusivamente el Decreto 500/2009 original, páginas 8-17). Se usaron solo como **control aritmético externo**: 14,40 m ÷ 1,20 = **12,00 m**, que coincide exactamente con el valor de Altura Máxima que se transcribió aquí para ZM2 a partir de la imagen (ver §8 y §19). Esto es una confirmación cruzada independiente de que la lectura de ZM2 es correcta. Para ZM3, el valor aquí transcrito (15 metros, del texto original de 2009) **ya no es el vigente** — fue reemplazado por 18 metros en 2017; se deja la nota correspondiente en §10 y en §19 para que una fase posterior no interprete 15 m como la norma actualmente vigente.
 
 ---
 
