@@ -12,9 +12,27 @@
   "nota_fase3": "TRAMPA IMPORTANTE: actualización PRC completa, Título 4 Zonificación pág13-21 (zonas ZU-C, ZU-1 a ZU-4, ZE-1 a ZE-5) con 3 tablas por zona (usos suelo, normas edificación, ocupación/constructibilidad) embebidas como imagen JPEG PEQUEÑA - verificado con pdfimages, PERO estas páginas NO estaban marcadas en 'paginas_con_imagen' precalculado (solo marcaba 2,5,10,11,12,24) - el mapa precalculado de imágenes grandes falla en detectar tablas-imagen de tamaño moderado (~700x100-400px). Pág21-22 Art.10 ZAV (texto nativo completo: sup.predial 2500m2, CC según OGUC, altura 3.5m, aislado, antejardín 10m) + Art.11 Cuadro 4 Inmuebles Conservación Histórica (imagen pequeña)",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
-  "estado": "EN_PROCESO",
-  "sesion": "AMIGO1",
-  "inicio": "2026-07-23T14:50:46",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "GREGO3",
+  "inicio": "2026-07-18T19:40:03",
+  "fin": "2026-07-18T19:45:52",
+  "resultado": {
+    "archivo": "extraccion_normas\\san_esteban\\san_esteban_11_actualizacion_prc_pag13-22.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "ZU-C",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "3 tablas por zona legibles a 300dpi sin reintento a 400dpi. ZE-5 Zona Especial Areas Verdes y ZAV Zona Areas Verdes (Art.10, texto nativo) son zonas distintas pese al nombre parecido, ambas documentadas; ZAV coincide con nota_fase3 (2500m2, altura 3.5m, aislado, antejardin 10m). ZE-5 solo trae 2 tablas (usos + subdivision con COS/CC remitidos a Art.2.1.31 OGUC), no 3 como el resto, documentado tal cual. Art.11/Cuadro 4 ICH resumido como referencia, no como zona."
+  }
 }

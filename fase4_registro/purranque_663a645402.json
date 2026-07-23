@@ -12,9 +12,22 @@
   "nota_fase3": "Titulo IV De las caracteristicas de la edificacion y de la subdivision. Pag14-17 Art.28 define terminos/columnas (altura, %edificable por piso, indice de edificabilidad, agrupamiento aislado/pareado/continuo/armonico, antejardin/entrante/faja libre, patio lateral, patio trasero, linea de edificacion interior, superficie predial, frente predial, densidad predial, densidad habitacional). Pag18-22 tablas numeradas (Designacion/Valor/Limitaciones) con esos 14 parametros para 6 zonas: Art.32 Comerciales, Art.33 Residenciales existentes, Art.34 Residenciales nuevas, Art.35 Mixtas Industriales-Residenciales, Art.36 Huertos, Art.37 Industriales. Pag23 texto corrido (Art.39 ochavos, Art.40 sistemas constructivos) sin tablas. Nucleo duro con valores: 18-22.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "VISUAL",
-  "estado": "EN_PROCESO",
-  "sesion": "AMIGO1",
-  "inicio": "2026-07-23T14:50:46",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "GREGO3",
+  "inicio": "2026-07-18T19:40:03",
+  "fin": "2026-07-18T19:45:44",
+  "resultado": {
+    "archivo": "extraccion_normas\\purranque\\purranque_ordenanza_1967_pag14-23.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "Comerciales(Art.32)",
+      "Residenciales existentes(Art.33)",
+      "Residenciales nuevas(Art.34)",
+      "Mixtas Industriales-Residenciales(Art.35)",
+      "Huertos(Art.36)",
+      "Industriales(Art.37)"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Coincide con nota_fase3 en estructura y nucleo duro p18-22. Escaneo legible en general a 300dpi. Numero de articulo de Residenciales nuevas en p20 tiene el digito tras ART.3 ausente en el original -> se infiere Art.34 por contexto secuencial (33 antes, 35 despues), no por lectura directa. Filas Densidad predial/habitacional de Art.34 usan unidad m. en vez de Hab/Ha - Viv/Ha (error de tipeo del original, confirmado porque Art.35 repite los mismos valores 225/40 correctamente rotulados) -> transcrito tal cual con nota aclaratoria."
+  }
 }

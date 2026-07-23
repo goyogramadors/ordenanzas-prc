@@ -12,9 +12,27 @@
   "nota_fase3": "ORDENANZA LOCAL COMPLETA PRC Cauquenes (Decreto 500/2009, 24 pags). Tablas son IMAGEN (pdftotext solo da los titulos de zona; paginas_con_imagen solo listaba 22-23, inutil). p8: cuadro estandares de estacionamiento por uso/clase. p9: TABLA CLAVE art.14 = grupos de actividades G1-G5 (imprescindible: las tablas de zona referencian G1..G5). p10-11: condiciones por uso en texto. p12: cuadro de zonificacion (indice de zonas). p13-17: art.24 normativa especifica, DOS cuadros por zona (normas de usos de suelo + normas de subdivision y edificacion: predial min, ocupacion, constructibilidad, altura, agrupamiento, antejardin, densidad). Zonas: ZM1 ZM2 ZM3 ZH1 ZH2 ZH3 ZE1 ZE2 ZAP ZI ZAV. p18-19: ZNE/ZRI/ZCH/ICH en prosa (sin cuadro). p21-23: tablas de VIALIDAD, no normas de zona.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
-  "estado": "EN_PROCESO",
-  "sesion": "AMIGO1",
-  "inicio": "2026-07-23T14:50:46",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "GREGO3",
+  "inicio": "2026-07-18T19:34:21",
+  "fin": "2026-07-18T19:39:41",
+  "resultado": {
+    "archivo": "extraccion_normas\\cauquenes\\cauquenes_500_2009_ordenanza_local_pag8-17.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "ZM1",
+      "ZM2",
+      "ZM3",
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZE1",
+      "ZE2",
+      "ZAP",
+      "ZI",
+      "ZAV"
+    ],
+    "confianza": "ALTA",
+    "nota": "Codigos y las 11 zonas coinciden con nota_fase3. Incluida tabla clave G1-G5 (Art.14, p9) como seccion aparte, imprescindible para interpretar cuadros de uso de zona. ZM3/ZH1/ZE1 tienen cuadros de usos con menos filas que las demas (sin Esparcimiento/Seguridad/Servicios/Act.Productivas segun el caso), transcrito tal cual el escaneo, no es omision propia. ZE2 y ZAV no tienen cuadro numerico de subdivision/edificacion (remiten a Codigo Sanitario y Art 2.1.31 OGUC), consistente con su naturaleza de zona especial."
+  }
 }
