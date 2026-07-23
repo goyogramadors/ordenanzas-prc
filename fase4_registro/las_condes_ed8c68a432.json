@@ -13,16 +13,16 @@
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO",
   "estado": "HECHO",
-  "sesion": "AMIGO1",
-  "inicio": "2026-07-18T22:12:48",
-  "fin": "2026-07-18T22:19:19",
+  "sesion": "SESION4",
+  "inicio": "2026-07-18T22:12:01",
+  "fin": "2026-07-23T13:49:22",
   "resultado": {
-    "archivo": "extraccion_normas/las_condes/las_condes_do4485_2004_uv2_pag1-7.md",
+    "archivo": "extraccion_normas/las_condes/las_condes_do4485_zona_uv2_usos_suelo_pag1-7.md",
     "zonas": 1,
     "zonas_codigos": [
       "U-V2"
     ],
     "confianza": "ALTA",
-    "nota": "Decreto 4485/2004, Plano Seccional PS-U-V2, detalla Art.40 con cuadro de usos de suelo de zona U-V2. El cuadro aparece en 4 bloques con encabezado repetido pero verificado que son complementarios (filas distintas, no duplicados) -no 4 copias como sugeria nota Fase3-. Cuadro completo por actividad x 5 categorias de via (local/servicio/colectora/troncal/expresa). Confirmado explicitamente que NO hay cuadro de condiciones de edificacion (COS/CC/altura) general para la zona en este documento -busqueda de texto completo sin 'altura'/'rasante'/'antejardin'-; solo COS/CC embebidos por actividad (0.4/0.4 en general, 0.4/0.6 para oficinas). Sigla 'SR' interpretada como Sin Restriccion por convencion de decretos gemelos ya registrados (N4478/4479/4483), documentado como inferencia explicita no confirmada en el propio texto."
+    "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) -- AMIGO1 quedo registrado primero como HECHO con archivo las_condes_do4485_2004_uv2_pag1-7.md (78 lineas). SESION4 detecto el choque al pushear y comparo ambas versiones. RESULTADO: mismo hallazgo central en ambas (el cuadro \"aparece 4 veces\" NO son 4 copias redundantes sino una sola tabla logica de 14 filas partida en 4 bloques por reimpresion de cabecera en los saltos de pagina), misma conclusion de que este decreto SI trae COS/coeficiente de constructibilidad por actividad de equipamiento (a diferencia de sus 5 decretos gemelos ya registrados), mismos valores COS=0.4/CC=0.4 para la mayoria de actividades y CC=0.6 para Oficinas, misma conclusion de que NO hay cuadro general de condiciones de edificacion (superficie predial/altura/agrupamiento/antejardin) para la zona, misma convencion de interpretar \"SR\" como Sin Restriccion. Cero discrepancia numerica. DIFERENCIA DE COMPLETITUD (razon de esta reconciliacion): la version SESION4 (1) preserva el cuadro COMPLETO Y VERBATIM columna por columna de las 5 categorias de via para las 14 filas de actividad, mientras AMIGO1 condensa cada actividad en una frase de resumen tipo \"mismas condiciones en las demas vias\" -- para un proyecto de extraccion normativa exacta, el texto literal por columna es preferible al parafraseo; (2) detecta 2 erratas [sic] de la fuente verificadas con zoom 2x que AMIGO1 no menciona en absoluto: fila Deportes escribe \"coeficiente de ocupacion de suelo\" en vez de \"constructibilidad\" (Via Local), y fila Oficinas usa \"ocupacion de suelo maximo\" (masculino) en vez de \"maxima\"; (3) documenta explicitamente que celdas Tipo/Clase quedan en blanco por continuidad visual del grupo anterior, verificado contra lineas de grilla de la tabla (no solo espaciado del texto plano), especificando exactamente en cuales de las 14 filas ocurre. Por esta diferencia de completitud y fidelidad (no de exactitud numerica, que es nula), se elige la version SESION4 como resultado canonico. El archivo de AMIGO1 se deja intacto en el repo, ya no referenciado por este registro. NOTA SUSTANTIVA (SESION4): Decreto Alcaldicio Secc.1a N4.485, Las Condes, 28-dic-2004 (Plano Seccional PS-U-V2), DO 3-feb-2005, pag1-7 de 7. Cuadro de usos de suelo del Art.40 con 14 filas de datos, cruzadas por 5 categorias de via. Excepcion dentro de la serie de decretos gemelos U-C2/U-C3/U-Ee1/U-Ee2/U-Ee5/U-V/U-V1/U-V3 ya registrados: unico que trae COS/CC explicitos (condicionados por actividad de equipamiento, no como parametro general de zona). Confianza alta, verificado con zoom 2x en celdas dudosas y contraste 100% contra texto de apoyo. 0 trampa comuna ajena."
   }
 }
