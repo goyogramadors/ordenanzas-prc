@@ -123,24 +123,29 @@ def main() -> None:
 
     # Estado + resultado de Fase 4
     hecho = {}
+    fallido = set()
     for f in glob.glob(str(RAIZ / "fase4_registro" / "*.json")):
         d = json.loads(Path(f).read_text(encoding="utf-8"))
         if d["estado"] == "HECHO":
             hecho[d["id"]] = d.get("resultado") or {}
+        elif d["estado"] == "FALLIDO":
+            fallido.add(d["id"])
 
     # Categoría de Fase 1 por ruta
     categoria = {r["ruta"]: r["categoria"]
                  for r in csv.DictReader(LISTA_BLANCA.open(encoding="utf-8-sig"))}
 
-    # Comunas 100% completas en Fase 4
+    # Comunas 100% resueltas en Fase 4 (HECHO aporta markdown; FALLIDO es terminal
+    # -- ej. duplicado confirmado -- y no debe bloquear la comuna para siempre)
+    resuelto = set(hecho) | fallido
     listas = [c for c, ids in ids_por_comuna.items()
-              if all(i in hecho for i in ids)]
+              if all(i in resuelto for i in ids)]
 
     buckets = collections.defaultdict(list)
     items_procesar = []
 
     for comuna in listas:
-        ids = ids_por_comuna[comuna]
+        ids = [i for i in ids_por_comuna[comuna] if i in hecho]
         markdowns = []
         zonas_total = 0
         tiene_base = False

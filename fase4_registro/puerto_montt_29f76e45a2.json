@@ -1,0 +1,22 @@
+{
+  "id": "puerto_montt_29f76e45a2",
+  "comuna": "puerto_montt",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_montt_ordenanza_plan_regulador_comunal_puerto_montt__ordenanza Plan Regulador Comunal 2008.pdf_1572350811605.pdf",
+  "rangos": [
+    [
+      53,
+      130
+    ]
+  ],
+  "paginas_utiles": 78,
+  "nota_fase3": "Titulo IV Zonificacion y Normas Especificas. Art.69/70 clasificacion de 78 zonas (C,CC,CB-1/2/3,PC,PC-M,ZEM,ZEU,subcentros,R1,R2-A/B/C/D,R3,R4,AP-1/2/3,extension urbana condicionada,borde costero,balnearios,caletas,Isla Tenglo,Angelmo,conservacion historica,areas verdes,laderas,equipamientos alto impacto,infraestructura) pag54. Art.71 Cap.2 Normas Especificas: tabla articulada zona por zona (usos permitidos/prohibidos, superficie predial minima, agrupamiento, COS, coef.constructibilidad, altura max, antejardin, densidad, distanciamiento) pag58-129 continua desde zona1 Centro hasta zona78 Ex Estanques Petroleo. Pag130 inicia Titulo V (zonas protegidas). Nota: tabla pequena incentivos densificacion Pericentro Art.50.3 pag45, no incluida (anexo puntual 2 filas).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "FALLIDO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T20:06:08",
+  "fin": "2026-07-23T20:06:18",
+  "resultado": {
+    "motivo": "SUPERSEDIDO: es la Ordenanza PRC 2008 (78 zonas), version anterior a la ya registrada puerto_montt_598c7b39dd (Ordenanza Local REFUNDIDA/ENMIENDA, portada 'ENMIENDA PUBLICADA D.O. 25.10.2016', 60 zonas, ya HECHO confianza ALTA). La version 2016 es la vigente y reemplaza a esta; no se retranscribe la version obsoleta para no introducir datos derogados en el geolocalizador. Retomar explicitamente si se requiere valor historico/comparativo."
+  }
+}

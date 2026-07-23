@@ -1,0 +1,22 @@
+{
+  "id": "chillan_b7607186b4",
+  "comuna": "chillan",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chillan_decreto_municipal_7458_promulga_modificacion_plan_regulador_comuna_de_chillan_re__Decreto_207458.pdf",
+  "rangos": [
+    [
+      21,
+      33
+    ]
+  ],
+  "paginas_utiles": 13,
+  "nota_fase3": "CHILLAN: Decreto Municipal 7458 'Promulga Modificacion PRC' (41p). *** DUPLICADO EXACTO de chillan_71e3392d7a *** (mismo decreto, otro escaneo/OCR). Estructura verificada independientemente: p21 cuadro de estacionamientos (Art 5), p23 arranca Titulo V Art 8-12 con una tabla por zona (ZC-1..ZC-3, ZM-1..ZM-2, ZH-1..ZH-7, ZI, ZBA, ZE-1..ZE-5, ZIS, ZIE, ZIT, ZAV) hasta p33, donde empieza el Titulo VI. Coincide con el rango de referencia 23-33 del archivo testigo del proyecto. Excluidas p1-7 (considerandos + informe ambiental EAE) y p15-20 (vialidad estructurante).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "FALLIDO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T20:06:08",
+  "fin": "2026-07-23T20:06:18",
+  "resultado": {
+    "motivo": "DUPLICADO EXACTO confirmado por nota_fase3: mismo Decreto Municipal 7458 'Promulga Modificacion PRC' que chillan_71e3392d7a (ya HECHO, 23 zonas, p21-33), otro escaneo/OCR del mismo documento. No se retranscribe."
+  }
+}
