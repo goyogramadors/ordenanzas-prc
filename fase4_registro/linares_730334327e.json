@@ -1,0 +1,39 @@
+{
+  "id": "linares_730334327e",
+  "comuna": "linares",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\linares_92_aprueba_nuevo_plan_regulador_para_la_comuna_de_linares__plan_regulador_2017.pdf",
+  "rangos": [
+    [
+      10,
+      17
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Aprueba NUEVO PRC Linares 2017 (24 pags). TRAMPA IMAGEN CONFIRMADA (verificado en render p9-18): todo el cuerpo normativo es IMAGEN pese a que el resto del PDF (preambulo, considerandos) es texto perfecto. p10-12: cuadro de ESTACIONAMIENTOS (uso/automoviles/bicicletas: residencial, cientifico, comercio, culto-cultura, deporte, educacion, esparcimiento, salud, seguridad, servicios, social, actividades productivas, infraestructura). p13-17: art.11 Usos de suelo y normas especificas, zonas Z-1 a Z-10, Z-E (Equipamiento), ZAP (Actividades Productivas) -- cada una con usos permitidos/excepto/prohibidos + superficie predial min, densidad bruta max, COS, CC, agrupamiento, altura, cierros, ochavos, antejardin. p18: ZAV sin cuadro (solo texto) + M/ICH (listado de inmuebles, no normas). p20 y p23: VIALIDAD, excluidas. OJO: version 2017 con zonas Z1-Z10 distinta a la version 1990 (linares_f859ef1614, zonas Z1-Z5/ZI/ZR): NO mezclar, son normativas de epocas distintas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:00:25",
+  "fin": "2026-07-23T14:10:49",
+  "resultado": {
+    "archivo": "extraccion_normas/linares/linares_92_2017_estacionamientos_z1_z10_ze_zap_pag10-17.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-6",
+      "Z-7",
+      "Z-8",
+      "Z-9",
+      "Z-10",
+      "ZE",
+      "ZAP"
+    ],
+    "confianza": "ALTA",
+    "nota": "PRC Linares 2017 (Diario Oficial N41.924). p10-12: cuadro completo de estandares de estacionamientos Art.7 (13 categorias de uso, automoviles+bicicletas), cuadro de ochavos (cont. Art.5), listado oficial de zonas Art.10. p13-17: Art.11 zonas Z-1 a Z-10, ZE, ZAP completas -- valores coinciden exactamente (verificado celda a celda) con linares_ord4 (id linares_9578417ea8), confirmando ambas transcripciones de forma cruzada contra el Diario Oficial (fuente primaria). Aporte nuevo al corpus: cuadro de estacionamientos, no capturado antes en Linares. Metodo 100% visual 250dpi + recortes ampliados en tabla Industria/Almacenamiento (celdas fusionadas verticalmente). ADVIERTE explicitamente: PRC 2017 (Z1-Z10/ZE/ZAP) distinto del PRC 1990 (linares_f859ef1614, Z1-Z5/ZI/ZE/ZR)."
+  }
+}
