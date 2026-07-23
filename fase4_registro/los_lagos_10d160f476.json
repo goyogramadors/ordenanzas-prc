@@ -1,0 +1,51 @@
+{
+  "id": "los_lagos_10d160f476",
+  "comuna": "los_lagos",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\los_lagos_na_plan_regulador__Plan_Regulador_Comunal.pdf",
+  "rangos": [
+    [
+      1,
+      6
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "Cap.5 Zonificacion, Uso de Suelo y Normas Especificas (Ordenanza Local 1996, Res.77) pag1-6: define terminos (COS, coef.constructibilidad, densidad bruta, agrupamiento) pag2 y articula normas por zona ZU-1 a ZU-7, ZEx-3, ZP-4, ZEx-5 (superficie predial minima, frente predial, COS, densidad bruta, agrupamiento, altura maxima, antejardin) pag3-6; pag6 cierra e inicia Cap.V Vialidad (pag6-8, excluida). Pag9-10 decreto posterior N796/2007 (publicado 2008) fija usos y normas completas zona ZEx-3 asimilada a ZU-4 (superficie predial 160m2, frente 8m, COS 60%, agrupamiento aislado/pareado), verificado visual. Pag11-12 planos de zonificacion sin texto normativo adicional.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:25:36",
+  "fin": "2026-07-23T14:36:56",
+  "resultado": {
+    "archivo": "extraccion_normas/los_lagos/los_lagos_zonas_zu1_zu7_zex_zp4_pag1-6_9-10.md",
+    "zonas": 20,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZEx-1",
+      "ZEx-2",
+      "ZEx-3",
+      "ZEx-4",
+      "ZEx-5",
+      "ZP-1",
+      "ZP-2",
+      "ZP-3",
+      "ZP-4",
+      "ZP-5",
+      "ZP-6",
+      "ZP-7",
+      "ZU-4(Decreto796-2007-exZEx3)"
+    ],
+    "confianza": "ALTA",
+    "nota": "19 zonas del Cap.IV (Art.21-23) de la Ordenanza Local 1996 (Res.77, DO 31-12-1996) transcritas integras: 7 ZU + 5 ZEx + 7 ZP (5 zonas ZP sin tabla numerica en la fuente, declarado explicito, no inventado). Definiciones Art.7 (COS, coef.constructibilidad, edificacion aislada/pareada/continua, densidad bruta, altura) como contexto. Mas Decreto N796/2007 (DO 03-07-2008, p9-10) completo: ZEx-3 (Lotes 3-4, Empresas Martabid) asimilada a ZU-4 (Seccional La Rotonda), mismos 7 parametros que ZU-4 original. Verificado visual: agrupamiento (no agolpamiento, error sistematico de pdftotext), COS 0,2% de ZEx-4 confirmado, errata precedemente propia de ZEx-1. Cruce 100% coincidente con transcripcion independiente de otro id/PDF (los_lagos_4ececfecdd) para las mismas 19 zonas."
+  }
+}
