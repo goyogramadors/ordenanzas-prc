@@ -1,0 +1,69 @@
+{
+  "comuna": "talca",
+  "region": "07",
+  "geojson_file": "07_PRC_Talca.json",
+  "salida_json": "07_talca.json",
+  "markdowns": [
+    {
+      "id": "talca_678da9d7ed",
+      "archivo": "extraccion_normas\\talca\\talca_1822_subzonas_z6h2_z6h3_pag1-2.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 2,
+      "zonas_codigos": ["Z-6H2", "Z-6H3"],
+      "nota": "Confirma nota_fase3 exacta. Cuadro numerado 1-9 completo (incluye antejardin optativo) + usos permitidos + exigencias generales (franja proteccion 10m + via 8m)."
+    },
+    {
+      "id": "talca_a8cf76dc23",
+      "archivo": "extraccion_normas\\talca\\talca_44273_zona_u7_subzona_u7a_pag2-3.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 2,
+      "zonas_codigos": ["U-7", "U-7A"],
+      "nota": "Confirma nota_fase3, con mas detalle: usos de suelo completos por clase/actividad para ambas zonas (identicos salvo Seguridad agregada en U-7A). Normas infraestructura identicas. Unico cambio real: COS 0,3->0,4 en U-7A."
+    },
+    {
+      "id": "talca_fb2dd78aeb",
+      "archivo": "extraccion_normas\\talca\\talca_2081_subzona_z6h1_pag1-2.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 1,
+      "zonas_codigos": ["Z-6H1"],
+      "nota": "Confirma nota_fase3 exacta: decreto gemelo de 1822, mismos valores para Z-6H1 que Z-6H2/Z-6H3."
+    },
+    {
+      "id": "talca_1a0e5fb2f5",
+      "archivo": "extraccion_normas\\talca\\talca_3_modificacion_ordenanza_zonas_z1z6_ze1ze3_pag1-3.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 5,
+      "zonas_codigos": ["Z-1", "Z-2", "Z-3", "Z-4", "ZE-3"],
+      "nota": "5 zonas con modificacion de sistema de agrupamiento y antejardin en prosa, mas ZE-3 (densidad maxima neta no determinada). Normas generales tambien transcritas. Coincide con nota_fase3."
+    },
+    {
+      "id": "talca_dcaf16a427",
+      "archivo": "extraccion_normas\\talca\\talca_decreto3920_enmienda1_zonas_u1-u22.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 22,
+      "zonas_codigos": ["U-1","U-2","U-3","U-4","U-5","U-6","U-7","U-8","U-9","U-10","U-11","U-12","U-13","U-14","U-15","U-16","U-17","U-18","U-19","U-20","U-21","U-22"],
+      "nota": "Las 22 zonas U-1 a U-22 caben completas dentro de p5-11. Varias zonas (U-1,U-2,U-13,U-16,U-20,U-21) tienen tablas incompletas EN EL PROPIO ORIGINAL -- se marco explicitamente '(No aparece tabla ... para esta zona)'. Numeros decimales con punto (formato original)."
+    },
+    {
+      "id": "talca_d55ad007c1",
+      "archivo": "extraccion_normas\\talca\\talca_decreto2359_2016_zonas_u_pag4-11.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 22,
+      "zonas_codigos": ["U-1","U-2","U-3","U-4","U-5","U-6","U-7","U-8","U-9","U-10","U-11","U-12","U-13","U-14","U-15","U-16","U-17","U-18","U-19","U-20","U-21","U-22"],
+      "nota": "CONFIRMADO NO ES DUPLICADO de talca_dcaf16a427 (decreto 3920): decreto distinto (N2359, 25-may-2016 vs N3920, 24-ago-2016), con valores normativos DIFERENTES para las mismas zonas -- U-3 COS 0,6/0,52 en 2359 vs 0,39 en 3920; U-4 CC 2,0 en 2359 vs 1,95 en 3920. Este decreto (2359) es MAS RECIENTE y solo trae los parametros MODIFICADOS. U-1 y U-2 identicos entre ambos."
+    },
+    {
+      "id": "talca_dfa074e060",
+      "archivo": "extraccion_normas/talca/talca_ordenanza_2011_u1_u22_r1_r7_zch_pag7-65.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 30,
+      "zonas_codigos": ["U-1","U-2","U-3","U-4","U-5","U-6","U-7","U-8","U-9","U-10","U-11","U-12","U-13","U-14","U-15","U-16","U-17","U-18","U-19","U-20","U-21","U-22","R-1","R-2","R-3","R-4","R-5","R-6","R-7","ZCH"],
+      "nota": "Extraccion completa texto nativo p7-9 y p12-65. Art.11 tabla estacionamientos. Art.20-22: 22 zonas urbanas + 7 zonas de riesgo R-1 a R-7 (R-3 subzonas A-D, R-7 subzonas A-B), cada una con usos + subdivision/edificacion + infraestructura. Art.23-28 marco patrimonial: 10 Monumentos Historicos, listado 29 ICH (solo direcciones), ZCH Centro Civico con sus 3 tablas. No especificado usado para campos ausentes en tablas parciales."
+    }
+  ],
+  "estado": "EN_PROCESO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T20:07:45",
+  "fin": null,
+  "resultado": null
+}
