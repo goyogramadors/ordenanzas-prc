@@ -1,0 +1,36 @@
+{
+  "id": "las_condes_fb19033833",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_dec.alcaldicio_n_3360_11ago2010.pdf",
+  "rangos": [
+    [
+      1,
+      7
+    ]
+  ],
+  "paginas_utiles": 7,
+  "nota_fase3": "LAS CONDES: Decreto 3360 (ago-2010, BCN LeyChile, 7p), 'Asigna a 60 vias de la comuna las nuevas normas urbanisticas de edificacion y usos de suelo' (vias cuya declaratoria de utilidad publica caduco, asimiladas a las areas de edificacion y zonas de uso de suelo adyacentes). El decreto (p1-2) anuncia 'Tabla con las declaratorias de utilidad publica caducadas y las normas de edificacion y uso de suelo que se asignan: LISTADO DE VIAS' y la tabla real esta en p3-7 COMO IMAGEN (confirmado con render de p4): columnas Nombre, Tramo, Situacion Anterior, Situacion Propuesta, Area de Edificacion y Zona de Uso de Suelo para cada una de las 60 vias, en tabla apaisada muy densa. CONFIANZA MEDIA: la imagen es de baja resolucion, la fase siguiente debe renderizar a alta resolucion para leer el detalle de cada via. Mismo mecanismo que los casos ya registrados de Concepcion-Conchali-Machali (asignacion de zona a predios con declaratoria caducada), pero a escala de TODA la comuna (60 vias).",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "GREGO1",
+  "inicio": "2026-07-18T18:10:20",
+  "fin": "2026-07-18T18:24:27",
+  "resultado": {
+    "archivo": "extraccion_normas\\las_condes\\las_condes_3360_2010_60vias_asignacion_zonas.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "UC1",
+      "UC2",
+      "UV",
+      "UV0",
+      "UV1",
+      "UV2",
+      "UBe1",
+      "UBe2",
+      "UBe3"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Decreto 3360/2010: tabla de ASIGNACION (no de parametros por zona) - 60 vias/tramos con Situacion Anterior/Propuesta y Area de Edificacion + Zona de Uso de Suelo asignada. Renderizado a 300dpi (mas alto que el estandar 250dpi) por baja resolucion del original; aun asi 3 filas (3, 4, 26) quedaron con celdas ilegibles, marcadas explicitamente en la tabla, no inventadas. zonas-codigos lista los 9 codigos de Zona de Uso de Suelo distintos (UC/UV/UBe); los codigos de Area de Edificacion (EAa1-EAo2, Ex1-Ex5) son una taxonomia distinta y quedan en la tabla completa del markdown. RECONCILIACION: AMIGO1 tambien completo este mismo documento en paralelo (colision de reclamo por asincronia git, sin forma de saberlo de antemano). Comparacion via por via de las 60 vias: alta convergencia en tramo, ancho, categoria/tipo/orientacion y en la mayoria de los codigos de Area de Edificacion y Zona de Uso de Suelo, pero con dos diferencias sustantivas que impiden declarar 100% convergencia (a diferencia de la reconciliacion de Molina): (1) DISCREPANCIA DE CODIGO no resuelta: en las vias con Area de Edificacion 'Ee' (equipamiento) -- por ejemplo N45 Avda. Pdte. Errazuriz (area 'Estadio Frances') y N47 Reina Astrid (area 'Rolf Nathan') -- esta version (GREGO1) lee la Zona de Uso de Suelo asignada como 'UBe1/UBe2', mientras AMIGO1 leyo consistentemente 'UEe1/UEe2' para las mismas vias y areas; ambas son lecturas visuales del mismo escaneo de baja resolucion, celda B/E facilmente confundible en tipografia pequena. AMIGO1 aporta como indicio indirecto que esas areas de edificacion 'Ee' remiten explicitamente a equipamientos nombrados en la tabla (Estadio Frances, Hogar Espanol, Colegio SEK, Escuela Militar Bernardo O'Higgins), lo que favorece 'Ee' (Equipamiento) sobre 'Be' tambien en la Zona de Uso de Suelo asignada, pero no es concluyente sin cotejar contra el plano oficial de zonificacion de Las Condes -- PENDIENTE DE VERIFICAR EN FASE 5. (2) COMPLETITUD: esta version (GREGO1) no deja ninguna celda de Area de Edificacion/Zona de Uso de Suelo vacia (solo las 3 filas ya declaradas ilegibles); la version de AMIGO1, aunque mas granular por sub-tramo y costado, dejo varios sub-tramos con el codigo de Zona de Uso de Suelo sin completar -- por esa razon de completitud se mantiene esta version (GREGO1) como canonica, siguiendo la regla de un documento, un Markdown (no se incorpora el duplicado de AMIGO1 al repositorio)."
+  }
+}
