@@ -1,0 +1,20 @@
+{
+  "id": "chiguayante_11a0246870",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_1512_aprueba_de_plan_regulador_de_chiguayante_modificacion_2009__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      11
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "Dec.1512/2009 modifica PRC Chiguayante. Formato 'donde dice / debe decir' zona por zona (ZU1-A a ZU8-1, ZEU1-4, ZR1, ZRD, ZR2): predial min 250->200 m2, densidad VCE 185->230 hab/ha, constructibilidad 0,4->0,6, ocupacion ZEU2 0,8->0,6, alturas, distanciamientos, agrupamiento. Todo en TEXTO extraible, redactado como articulo (no cuadro grafico).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "EN_PROCESO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:50:46",
+  "fin": null,
+  "resultado": null
+}

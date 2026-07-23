@@ -1,0 +1,20 @@
+{
+  "id": "cauquenes_3d38696675",
+  "comuna": "cauquenes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\cauquenes_500_ordenanza_local_plan_regulador_de_cauquenes__Decreto-500_04-SEP-2009.pdf",
+  "rangos": [
+    [
+      8,
+      17
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "ORDENANZA LOCAL COMPLETA PRC Cauquenes (Decreto 500/2009, 24 pags). Tablas son IMAGEN (pdftotext solo da los titulos de zona; paginas_con_imagen solo listaba 22-23, inutil). p8: cuadro estandares de estacionamiento por uso/clase. p9: TABLA CLAVE art.14 = grupos de actividades G1-G5 (imprescindible: las tablas de zona referencian G1..G5). p10-11: condiciones por uso en texto. p12: cuadro de zonificacion (indice de zonas). p13-17: art.24 normativa especifica, DOS cuadros por zona (normas de usos de suelo + normas de subdivision y edificacion: predial min, ocupacion, constructibilidad, altura, agrupamiento, antejardin, densidad). Zonas: ZM1 ZM2 ZM3 ZH1 ZH2 ZH3 ZE1 ZE2 ZAP ZI ZAV. p18-19: ZNE/ZRI/ZCH/ICH en prosa (sin cuadro). p21-23: tablas de VIALIDAD, no normas de zona.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "EN_PROCESO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:50:46",
+  "fin": null,
+  "resultado": null
+}
