@@ -1,0 +1,39 @@
+{
+  "id": "rancagua_7ea02082d3",
+  "comuna": "rancagua",
+  "ruta": "Ordenanzas ordenadas\\rancagua_5415_modificacion_no_20_al_plan_regulador_comunal_rancagua_sector_ex_ruta_5_sur__2017-02-PDO-41655-2.pdf",
+  "rangos": [
+    [
+      8,
+      19
+    ]
+  ],
+  "paginas_utiles": 12,
+  "nota_fase3": "Diario Oficial N41.655, 11-01-2017, Modificacion N20 PRC Rancagua Sector Ex Ruta 5 Sur (decreto 5415 exento, 28-12-2016). Tema 3 (Modificaciones y correcciones a la Ordenanza Local en cuanto a zonificacion) trae cuadros numericos completos (superficie predial minima, densidad maxima, sistema de agrupamiento, antejardin, distanciamientos, altura de edificacion, rasante, adosamientos, coeficiente de constructibilidad CC y coeficiente de ocupacion de suelo COS) por zona: SM4 Zona Mixta 4 Frente Rio Cachapoal (p.8-9), BR-M1 Subcentro de Equipamiento (p.9-11), BR-M2 Reconversion Centro Norte (p.10-11), BR-M3 Reconversion Centro Sur (p.11-12), BR-M4 Equipamiento e Infraestructura Sanitaria (p.13), BR-MS1 Barrio Empresarial (p.14), BR-MS2 Barrio Empresarial Sur (p.15), R6 Barrio La Granja (p.16-17), EX8 Barrio Norte (p.17), IT-1 Infraestructura de Transporte-Terminales de Buses (p.18), PU1-AV Area Verde Parque Urbano 1 (p.18), y modificacion de zona BRO existente (p.19, tabla con predial/densidad/CC/COS). Todas las zonas corresponden a Rancagua (decreto explicito Municipalidad de Rancagua, planos MPRC-R_Ruta 5 Sur), sin mezcla de otra comuna. EXCLUI: p.1-2 (considerandos/decreto administrativo), p.3-7 Tema1/Tema2 (tablas de coordenadas UTM de vertices A-AF y puntos 1-23 del limite urbano/poligono de congelamiento, no son normas urbanisticas), p.19-20 zona PU1-EP y Z12 (solo texto/definicion, sin cuadro numerico), p.20-23 Tema4 (tablas de estandares de estacionamientos, no son COS/CC/altura/etc), p.23-30 Tema5 (tablas de vialidad estructurante: nombre de via, ancho, categoria - no son normas de zona).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "visual",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-23T19:34:04",
+  "fin": "2026-07-23T19:51:02",
+  "resultado": {
+    "archivo": "extraccion_normas/rancagua/rancagua_5415_2017_modificacion20_ex_ruta5_sur_pag8-19.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "SM4",
+      "BR-M1",
+      "BR-M2",
+      "BR-M3",
+      "BR-M4",
+      "BR-MS1",
+      "BR-MS2",
+      "R6",
+      "EX8",
+      "IT-1",
+      "PU1-AV",
+      "BRO"
+    ],
+    "confianza": "ALTA",
+    "nota": "Decreto Exento 5415/2016 (D.O. 41.655, 11-ene-2017), Modificación N20 PRC Rancagua Sector Ex Ruta 5 Sur, Tema 3 completo pag8-19 de 30, documento integramente escaneado (imagen, sin capa de texto). 12 zonas con cuadro normativo completo transcritas (SM4, BR-M1, BR-M2, BR-M3, BR-M4, BR-MS1, BR-MS2, R6, EX8, IT-1, PU1-AV, BRO), coincide exacto con nota_fase3. Ademas se transcribio integro por completitud, sin contar en el total de zonas: PU1-EP (solo definicion en prosa, sin cuadro numerico, todos los parametros \"No especificado\" en el original) y el punto 3.12 (nota de eliminacion de 3 zonas preexistentes IE IA/EQ CB1/Z 16, no es zona nueva). BRO es unicamente actualizacion PARCIAL de una zona ya existente en el Plan base (el propio texto dice \"Modifiquese... las condiciones de edificacion\", sin tabla de usos de suelo) -- se transcribio la tabla de condiciones reemplazada integra mas el inciso de bono de densidad, dejando explicito que no es una ficha completa nueva. HALLAZGOS: (1) BRO trae Coeficiente de Constructibilidad \"10\" (Vivienda y Otros usos) verificado con zoom 4x, literal sin coma decimal -- valor atipicamente alto frente al resto del corpus (maximo 3,0 en otras zonas de este mismo documento), se transcribe tal cual sin corregir, posible errata del Diario Oficial sin fe de erratas posterior disponible en el corpus. (2) Discrepancia interna del propio original: el listado introductorio de p.8 llama a la zona \"PU2-EP\" pero el encabezado de su ficha en p.19 dice \"PU1-EP\" -- ambas lecturas verificadas con zoom, se deja constancia de la contradiccion sin resolverla. (3) El codigo eliminado en el punto 3.12 se verifico como \"Z 16\" (con espacio), no \"Z12\" como sugeria la nota_fase3 previa -- posible imprecision de esa nota. (4) Errata sistematica \"formula plateada\" en vez de \"planteada\", repetida en 8 notas al pie de arborizacion en distintas zonas -- transcrita tal cual, sin corregir. (5) R6 tiene una tabla de \"Condiciones para Construcciones Existentes\" sin fila de altura de edificacion (a diferencia de la tabla equivalente de BR-M3 que si la trae) -- verificado con zoom, ausencia real del original, no defecto de renderizado. Legibilidad general alta a 250dpi, sin celdas ilegibles que requirieran degradar confianza. Este documento (decreto 5415) es distinto de los otros 2 ya extraidos en extraccion_normas/rancagua/ (decreto 3326: ZCH-1/ZA-1/ZT/ZMN: y el decreto 559y764 en proceso paralelo) -- sin superposicion de zonas entre ellos, se dejaron intactos."
+  }
+}
