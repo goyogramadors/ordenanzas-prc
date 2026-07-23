@@ -1,0 +1,24 @@
+{
+  "id": "talca_dfa074e060",
+  "comuna": "talca",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\talca_decreto_ordenanza_local_plan_regulador_de_talca_abril_2011__ORDENANZA LOCAL 2016.pdf",
+  "rangos": [
+    [
+      7,
+      9
+    ],
+    [
+      12,
+      65
+    ]
+  ],
+  "paginas_utiles": 57,
+  "nota_fase3": "ORDENANZA LOCAL COMPLETA PRC Talca (abril 2011, 89 pags) - EL DOCUMENTO MAS IMPORTANTE de la comuna. TODO EN TEXTO NATIVO. p7-9: art.11 Exigencias de Estacionamientos + TABLA por uso/destino. p12-13: art.20-21, catalogo de zonas (U-1 a U-22, R-1 a R-7 con subzonas A-D, ZCH). p14-61: 22 zonas urbanas (U-1..U-22) + 7 zonas de riesgo (R-1,R-3 A-D,R-4,R-5,R-6,R-7 A-B), cada una con USOS DE SUELO permitidos/prohibidos + NORMAS DE SUBDIVISION Y EDIFICACION (predial min, COS, CC, agrupamiento, distanciamiento, altura, antejardin, densidad max) + normas de infraestructura. p62-65: marco patrimonial, listado 29 ICH (solo direcciones) y la ZCH Centro Civico con sus 3 tablas completas. p66: Cap.V Vialidad, EXCLUIDO.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "EN_PROCESO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T19:24:49",
+  "fin": null,
+  "resultado": null
+}
