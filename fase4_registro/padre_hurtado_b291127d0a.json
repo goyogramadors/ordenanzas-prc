@@ -1,0 +1,50 @@
+{
+  "id": "padre_hurtado_b291127d0a",
+  "comuna": "padre_hurtado",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\padre_hurtado_92_plan_regulador_comuna_de_padre_hurtado__PLAN_REGULADOR_ORDENANZA_LOCAL.pdf_1461086609789.pdf",
+  "rangos": [
+    [
+      8,
+      14
+    ],
+    [
+      19,
+      20
+    ]
+  ],
+  "paginas_utiles": 9,
+  "nota_fase3": "ORDENANZA LOCAL PRC Padre Hurtado (21 pags; deroga el PRC de Penaflor para esta comuna). TODO EN TEXTO REAL. p8-14: art.4.3.1 normas por zona (usos de suelo Residencial/Equipamiento/Actividades Productivas): ZONA A, ZONA B (B1 Corredor Regional, B3 Corredor Local, densidad 350 Hab/Ha), ZONA D Mixta, ZONA E2 Equipamiento Comunitario (densidad 450 Hab/Ha), ZONA E5 Areas Verdes e Infraestructura, Area R4 Restriccion lineas de transmision electrica -- todas con superficie predial minima, densidad maxima, etc. p15-18: VIALIDAD ESTRUCTURANTE (intercomunal y comunal, cuadros de vias con ancho existente/proyectado y una columna ANTEJARDIN ligada al ancho de via, no a zona) -- EXCLUIDO, es vialidad. p19-20: parrafo 2 Estacionamientos (art.5.2), cuadro N de estacionamientos por unidad especificada -- SI cuenta como norma. p21: art.6 disposiciones finales.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:25:36",
+  "fin": "2026-07-23T14:35:16",
+  "resultado": {
+    "archivo": "extraccion_normas/padre_hurtado/padre_hurtado_92_zonas_a_b_d_e2_e5_r4_estacionamientos_pag8-14_19-20.md",
+    "zonas": 19,
+    "zonas_codigos": [
+      "A",
+      "B1",
+      "B2",
+      "B3",
+      "C1",
+      "C2",
+      "C3",
+      "H1",
+      "D",
+      "E1",
+      "E2",
+      "E3",
+      "E4",
+      "E5",
+      "F1",
+      "R1",
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Texto real (pdftotext -layout) verificado visualmente pág. a pág. (pdftoppm 220dpi) contra imagen. Se corrige la nota de Fase 3: los cuadros de zona están en Art.4.3.2 (no 4.3.1, que es solo tabla plantilla vacía) y las áreas de restricción en Art.4.3.3. Se transcribieron todas las zonas presentes en p8-14 (más de las listadas en Fase 3): A, B1, B2, B3, C1/C2/C3, H1, D, E1, E2, E3, E4, E5, F1, mas Areas R1-R4 (incluye tabla de fajas de proteccion electrica R4), y el cuadro completo de Estacionamientos Art.5.2 (p19-20). Un valor de la fuente (estacionamientos minimos para venta minorista de combustibles) esta ausente en el PDF original y se dejo marcado como tal sin inventarlo."
+  }
+}

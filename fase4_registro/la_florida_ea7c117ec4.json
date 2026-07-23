@@ -1,0 +1,42 @@
+{
+  "id": "la_florida_ea7c117ec4",
+  "comuna": "la_florida",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_florida_461_promulgacion_de_modificacion_n9_del_plan_regulador_comunal_de_la_florida_apr__Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      10
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "LA FLORIDA: Decreto 461 exento (2015, BCN LeyChile, 11p), Modificacion N9 al PRC. *** TRAMPA LEYCHILE MASIVA: 15+ CUADROS DE NORMA, TODOS COMO IMAGEN, en p3-p10 *** pdftotext solo devuelve la frase anunciadora ('por las siguientes nuevas tablas:') seguida de PUNTOS SOLITARIOS, uno por tabla. Contenido: p3-4 estacionamientos por uso (Art 15); p5 cuadro 'Areas Caracteristicas de Edificacion' (siglas E-AB1 a E-A1) + inicio condiciones de edificacion; p5-p7 LAS 12 ZONAS E-AB1..E-A1 con predial minima, COS, CC, altura, agrupamiento, rasante, distancia a medianero, antejardin, estacionamientos y densidad bruta; p8-9 usos de suelo de U-Vev1 y U-Vev2; p10 zona nueva ESP-4 Precordillera (usos + condiciones: COS 0,014, CC 0,014, coef. suelo natural 0,972, rasante 70 grados, altura 8 m, antejardin 8, agrupamiento aislado). LA FASE SIGUIENTE DEBE RENDERIZAR A ALTA RESOLUCION: no hay atajo de texto, cada celda esta solo en la imagen. Las 11 pags fueron miradas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:00:25",
+  "fin": "2026-07-23T14:10:48",
+  "resultado": {
+    "archivo": "extraccion_normas/la_florida/la_florida_461_mod9_zonas_eab_uvev_esp4_pag3-10.md",
+    "zonas": 15,
+    "zonas_codigos": [
+      "E-AB1",
+      "E-AB2",
+      "E-AB3",
+      "E-AB4",
+      "E-AB5",
+      "E-AM1",
+      "E-AM2",
+      "E-AM3",
+      "E-AM4",
+      "E-AA1",
+      "E-AA2",
+      "E-A1",
+      "U-Vev1",
+      "U-Vev2",
+      "ESP-4"
+    ],
+    "confianza": "MEDIA",
+    "nota": "100% visual (pdftoppm 250dpi + zoom PIL en celdas densas). Transcritos: estacionamientos Art15 (p3-4), cuadro Areas Caracteristicas de Edificacion (p5), las 12 zonas E-AB1..E-A1 completas con todos sus parametros (p5-7), usos de suelo U-Vev1/U-Vev2 (p8-9) y zona nueva ESP-4 Precordillera completa (p10, valores confirmados exactos vs nota fase3). Hallazgo: predial minima de E-AM2 (500 m2) y E-AM3 (700 m2) en esta Mod.N9 difiere de los valores de Mod.N5 ya transcrita en el pipeline (700 y 1400 m2) - verificado con zoom 5x, documentado como cambio normativo real, no error de lectura. Confianza MEDIA por calidad de escaneo de p5-7 (12 zonas), aunque cada celda relevante fue verificada con zoom sin ambiguedad."
+  }
+}

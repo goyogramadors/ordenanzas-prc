@@ -1,0 +1,44 @@
+{
+  "id": "chiguayante_11a0246870",
+  "comuna": "chiguayante",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\chiguayante_1512_aprueba_de_plan_regulador_de_chiguayante_modificacion_2009__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      11
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "Dec.1512/2009 modifica PRC Chiguayante. Formato 'donde dice / debe decir' zona por zona (ZU1-A a ZU8-1, ZEU1-4, ZR1, ZRD, ZR2): predial min 250->200 m2, densidad VCE 185->230 hab/ha, constructibilidad 0,4->0,6, ocupacion ZEU2 0,8->0,6, alturas, distanciamientos, agrupamiento. Todo en TEXTO extraible, redactado como articulo (no cuadro grafico).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-23T14:32:35",
+  "fin": "2026-07-23T14:48:45",
+  "resultado": {
+    "archivo": "extraccion_normas/chiguayante/chiguayante_1512_modificacion2009_pag2-11.md",
+    "zonas": 17,
+    "zonas_codigos": [
+      "ZU1-A",
+      "ZU2-A",
+      "ZU2-B",
+      "ZU3-A",
+      "ZU3-B",
+      "ZU4",
+      "ZU5",
+      "ZU6",
+      "ZU7",
+      "ZU8-1",
+      "ZEU1",
+      "ZEU2",
+      "ZEU3",
+      "ZEU4",
+      "ZR1",
+      "ZRD",
+      "ZR2"
+    ],
+    "confianza": "ALTA",
+    "nota": "NOTA DE CONCURRENCIA: al momento de pushear este resultado, el registro remoto mostraba AMIGO1 con este mismo item en estado EN_PROCESO (reclamado 2026-07-23T14:50:46, posterior al tomar y al pre-chequeo de colision de SESION4 a las 14:32) pero SIN resultado ni archivo completado -- no hay contenido terminado de AMIGO1 que reconciliar, solo una reclamacion en paralelo sin trabajo que comparar. Se pushea el resultado completo de SESION4 con normalidad. Decreto 1512/2009, Modificacion al PRC de Chiguayante y su Ordenanza Local, pag2-11 de 11 (pag1 no provista). Texto nativo (LeyChile/BCN), verificado linea por linea contra las 10 imagenes -- coincidencia 100%, el .txt de apoyo es plenamente confiable. 17 zonas con modificaciones en el Art.26, todas confirmadas: ZU1-A, ZU2-A, ZU2-B, ZU3-A, ZU3-B, ZU4, ZU5, ZU6, ZU7, ZU8-1, ZEU1, ZEU2, ZEU3, ZEU4, ZR1, ZRD, ZR2 -- coincide exacto con el listado expandido de fase3, ninguna de mas ni de menos. Formato mixto del decreto: 31 pares numericos limpios \"donde dice/debe decir\" en 9 de las 17 zonas (tabla consolidada en el documento) + cambios via reemplazo de texto completo (mayoritario en Sistema de Agrupamiento y Altura Maxima) documentados con la convencion \"No transcrito por el decreto (reemplazo de texto completo)\" para el valor anterior, nunca inferido. Parametros no tocados marcados explicitamente \"No modificado por este decreto\" en vez de omitirlos. MATIZ IMPORTANTE a la nota de fase3: los 3 primeros valores de ejemplo que cita (predial 250->200, densidad VCE 185->230, constructibilidad 0,4->0,6) son los TRES especificos de una sola zona (ZU2-B), no cifras generales -- otras zonas cambian los mismos parametros con cifras distintas (ZU3-B y ZEU2 predial 300->200; ZU5 constructibilidad 3,8->6,0; ZU6/ZU7 3,0->3,2). Solo el 4to ejemplo (ocupacion ZEU2 0,8->0,6) la nota lo atribuye correctamente. Hallazgos no cubiertos por fase3: 2 numeraciones duplicadas en el propio decreto (2.7 usado para ZU1-A y ZU2-A; 2.21 usado para ZRD y ZR2); ZU4 cita erratamente \"Art.2.3.6\" de la OGUC en vez de \"Art.2.6.3\" (unica excepcion entre 8 zonas que citan ese articulo para altura); ZEU4 cambia la etiqueta de categoria de vivienda de VU a VCE al mismo tiempo que el numero, sin aclararlo; remisiones cruzadas de Sistema de Agrupamiento (ZU4, ZU6, ZEU3 heredan el texto de ZU5 ya modificado por este mismo decreto, documentado sin duplicar contenido). Confianza ALTA para los 31 pares numericos y la identificacion de las 17 zonas; MEDIA solo para una clausula de altura de ZR1 (sector Lonco-limite Concepcion) de redaccion ambigua en el original, senalada explicitamente como lectura tentativa. 0 trampa comuna ajena (encabezado y paginacion correlativa 2-11 sin discontinuidad, exclusivo Chiguayante). Verificado que ZU8-2 y ZU8-3 (de otro decreto ya en el corpus) no aparecen mencionadas en este documento -- 0 ocurrencias confirmado por busqueda de texto."
+  }
+}

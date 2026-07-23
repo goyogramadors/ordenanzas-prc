@@ -1,0 +1,59 @@
+{
+  "id": "monte_patria_10ff4d784f",
+  "comuna": "monte_patria",
+  "ruta": "Ordenanzas Descargadas\\600-1200\\monte_patria_decreto_alcaldicio_10156_aprueba_plan_regulador__42916bf5-5ef5-4f4a-b675-7da0f6c73425.pdf",
+  "rangos": [
+    [
+      38,
+      42
+    ],
+    [
+      60,
+      64
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "Doc es Volumen I Memoria Explicativa (no la Ordenanza Local formal). Cap 7.2.1: pag38 listado/leyenda codigos de zona (ZU1-ZU10,ZE1-ZE11,ZIS,ZIE,ZAV,ZAV1,ZCH,AR1,AR2); pag39-41 tabla 'Caracteristicas de las Zonas' con SUPERFICIE PREDIAL MINIMA, DENSIDAD BRUTA MAXIMA y USOS DE SUELO por zona/localidad; pag42 tabla complementaria 'Intensidad Ocupacion Suelo' (MEDIA/MEDIA-BAJA/BAJA). OJO: tabla INCOMPLETA -no trae COS, coef.constructibilidad, altura maxima, agrupamiento, antejardin ni distanciamiento (no aparecen en el doc). Pag60-64 Anexo A homologa nomenclatura antigua (A1,A2,B1...) a la nueva con mismos 3 parametros. Paginas con imagen (6,19,27-33,37) verificadas: son mapas/figuras de localizacion, no tabla oculta.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "SESION4",
+  "inicio": "2026-07-23T14:32:35",
+  "fin": "2026-07-23T14:54:54",
+  "resultado": {
+    "archivo": "extraccion_normas/monte_patria/monte_patria_10156_memoria_explicativa_zonas_pag38-42_60-64.md",
+    "zonas": 28,
+    "zonas_codigos": [
+      "ZU1",
+      "ZU2",
+      "ZU3",
+      "ZU4",
+      "ZU5",
+      "ZU6",
+      "ZU7",
+      "ZU8",
+      "ZU9",
+      "ZU10",
+      "ZE1",
+      "ZE2",
+      "ZE3",
+      "ZE4",
+      "ZE5",
+      "ZE6",
+      "ZE7",
+      "ZE8",
+      "ZE9",
+      "ZE10",
+      "ZE11",
+      "ZIS",
+      "ZIE",
+      "ZAV",
+      "ZAV1",
+      "ZCH",
+      "AR1",
+      "AR2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Memoria Explicativa PRC Monte Patria (Decreto Alcaldicio 10156), pag38-42 y 60-64 de 64. Confirma advertencia de fase3: es Memoria Explicativa, no la Ordenanza Local formal -- la tabla no trae COS, coef.constructibilidad, altura maxima, agrupamiento, antejardin ni distanciamiento para ninguna de las 26 zonas con ficha completa (documentado \"Sin valor especifico en la fuente\", confirmado ademas cruzando con decreto 3534 de rectificacion ZE5 ya en el corpus, que cita un articulado de Ordenanza Local mas fino que si existe separado). 28 codigos totales en la leyenda (10 ZU + 11 ZE + ZIS + ZIE + ZAV + ZAV1 + ZCH + AR1 + AR2), coincide con el total implicito de fase3 -- 26 con ficha normativa completa (superficie predial minima + densidad bruta maxima + usos de suelo + localidad), AR1/AR2 son solo descripciones de riesgo sin parametros propios. 5 zonas nuevas marcadas por sombreado (sector Embalse La Paloma): ZU9, ZU10, ZE7, ZE8, ZAV1. 15 localidades unicas identificadas. Anexo A (pag60-64): 31 filas homologando nomenclatura 2009->2015. CORRECCION a fase3: la leyenda de codigos esta en pag.39 (no pag.38, que solo trae encabezado de seccion); GAP DETECTADO -- la tabla \"Intensidad de Ocupacion del Suelo\" que fase3 ubicaba en pag.42 en realidad NO esta ahi (pag.42 solo trae titulo y parrafo introductorio) sino aparentemente en pag.43, fuera del rango entregado -- se aporto una verificacion exploratoria no oficial (solo texto plano, no visual) de esa pagina, marcada explicitamente como no confiable/informativa, recomendando redespacho con esa pagina si se necesita formalmente. Hallazgos: ZU9 tiene densidad distinta entre la tabla principal (150 hab/ha) y el Anexo A (80 hab/ha) para la misma superficie, verificado con doble zoom, discrepancia real de la fuente; AR1/AR2 son codigos reciclados con significado distinto entre 2009 (infraestructura telecomunicaciones) y 2015 (categorias de riesgo puro); ZCH pierde \"Act Productivas\" entre Anexo A y tabla principal; B2/B3 (->ZE3/ZE4) pierden el matiz \"*Residencial viviendas existentes\" al pasar a la tabla principal; fila ZIS partida por salto de pagina 41->42, corregida verificando 4 localidades (no 1) por patron de encabezado repetido tipico de tabla Word/PDF. 0 trampa comuna ajena (10 paginas exclusivas Monte Patria, localidades propias verificadas). Confianza alta para leyenda/tabla principal/anexo/conteo; media-alta para las interpretaciones de discrepancias; baja/informativa solo para el fragmento exploratorio de pagina 43. AMIGO1 tenia este item EN_PROCESO en paralelo al momento de pushear, sin resultado ni archivo -- no hay nada que reconciliar, se pushea con normalidad."
+  }
+}

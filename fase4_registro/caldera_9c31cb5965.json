@@ -1,0 +1,35 @@
+{
+  "id": "caldera_9c31cb5965",
+  "comuna": "caldera",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\caldera_525_aprueba_aprobacion_y_publicacion_del_proyecto_denominado_modificacion_al_pla__Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      12
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "Dec.525/2004 modificacion PRC Caldera. p3-5 cuadro de equipamientos por escala (regional/comunal/vecinal); p6-11 una seccion por zona con condiciones de subdivision y edificacion: CD (predial 2.500m2, ocup 50%, constr 0,5), U1D (2.500m2, 25%, 0,25), U2D (700m2, 40%, 0,4, aislado), R3, R21E (2.500m2, 50%, 0,5), R21F (cierres), R22, R12 sector industrial norte. Tablas en TEXTO extraible.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:25:36",
+  "fin": "2026-07-23T14:37:11",
+  "resultado": {
+    "archivo": "extraccion_normas/caldera/caldera_525_2004_cd_u1d_u2d_r3_r21e_r21f_r22_r12_pag3-12.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "CD",
+      "U1D",
+      "U2D",
+      "R3",
+      "R21E",
+      "R21F",
+      "R22",
+      "R12"
+    ],
+    "confianza": "ALTA",
+    "nota": "Cuadro de equipamientos por escala (Art.10, p3-5) + Art.11 estacionamientos + 8 zonas completas (Art.13: CD,U1D,U2D,R3,R21E,R21F,R22,R12) con usos de suelo y condiciones de subdivision/edificacion (p7-11). Texto nativo, verificado visualmente pag por pag (200dpi) contra pdftotext -layout, coincidencia exacta. R3/R22/R12 sin cuadro numerico de subdivision predial en la fuente (solo descriptivo); R21F solo cierres exteriores. Coef. constructibilidad impreso con simbolo % en la fuente (0.5%/0.25%/0.4%), transcrito literal + equivalente decimal. Documento DISTINTO de otras transcripciones Caldera ya en el repo (Dec.297/2002, Dec.298, DO296, DO298, s-n U2AC1/R22)."
+  }
+}

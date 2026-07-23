@@ -1,0 +1,20 @@
+{
+  "id": "san_esteban_269e39be3f",
+  "comuna": "san_esteban",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\san_esteban_11_actualizacion_plano_regulador__Exportar.pdf",
+  "rangos": [
+    [
+      13,
+      22
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "TRAMPA IMPORTANTE: actualización PRC completa, Título 4 Zonificación pág13-21 (zonas ZU-C, ZU-1 a ZU-4, ZE-1 a ZE-5) con 3 tablas por zona (usos suelo, normas edificación, ocupación/constructibilidad) embebidas como imagen JPEG PEQUEÑA - verificado con pdfimages, PERO estas páginas NO estaban marcadas en 'paginas_con_imagen' precalculado (solo marcaba 2,5,10,11,12,24) - el mapa precalculado de imágenes grandes falla en detectar tablas-imagen de tamaño moderado (~700x100-400px). Pág21-22 Art.10 ZAV (texto nativo completo: sup.predial 2500m2, CC según OGUC, altura 3.5m, aislado, antejardín 10m) + Art.11 Cuadro 4 Inmuebles Conservación Histórica (imagen pequeña)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "EN_PROCESO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-23T14:50:46",
+  "fin": null,
+  "resultado": null
+}
