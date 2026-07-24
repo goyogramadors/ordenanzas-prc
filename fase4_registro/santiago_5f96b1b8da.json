@@ -1,0 +1,43 @@
+{
+  "id": "santiago_5f96b1b8da",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\santiago_10.-Acuerdo-N_C2_B0408.pdf",
+  "rangos": [
+    [
+      2,
+      3
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Acuerdo N408 del Concejo Municipal de Santiago: vota 7 observaciones ciudadanas (pag1-4) mas anexo Informe N32 Comision de Barrios con 35 observaciones (pag5-11). No es una grilla de normas por zona (el anteproyecto/Informe del Asesor Urbanista con las normas completas no esta incluido), pero SI cita valores puntuales de norma vigente vs propuesta dentro del texto de varias observaciones: pag2 Obs29 altura maxima Subzona AR y A1R (41.5 y 35.5m); pag3 Obs34 altura maxima Subzonas R =70% actual, Obs35 rasante 45 grados subzona R; pag7 Obs12 altura Subzona B4R/B7bR (6 pisos/16m vs 24m vigente), Obs13 COS Zona Conservacion Historica B3 (0.7 actual vs 0.6 propuesto), Obs14 COS SE B5 (0.7 vs 1); pag10 Obs28 rasante ZICH (45 vs 60 grados), Obs29 alturas AR/A1R repetido. Cifras dispersas dentro de registro de votacion, no cuadro formal - confianza MEDIA.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T13:40:17",
+  "fin": "2026-07-23T13:46:41",
+  "resultado": {
+    "archivo": "extraccion_normas/santiago/santiago_acuerdo408_observaciones_pag2-3-7-10.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "AR",
+      "A1R",
+      "R",
+      "B4R",
+      "B7bR",
+      "B3",
+      "B5",
+      "ZICH"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Coincide con nota_fase3 (7 observaciones, 8 subzonas/zonas mencionadas). Obs29 (AR/A1R) aparece dos veces con votaciones distintas -- Informe N32/Comision de Barrios (7SI-1NO-1ABST) y Acuerdo 408/Concejo Pleno (11-0-0 unanime) -- ambas registradas."
+  }
+}

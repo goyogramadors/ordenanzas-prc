@@ -1,0 +1,40 @@
+{
+  "id": "santiago_e33854c975",
+  "comuna": "santiago",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\santiago_138_modifica_el_plan_regulador_comunal_de_santiago__138.pdf",
+  "rangos": [
+    [
+      1,
+      5
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "SANTIAGO: Diario Oficial 1-feb-2016, decreto 138, Modifica el PRC. OCR con caracteres corruptos, pero contenido real confirmado: renombra planos, modifica varios articulos y sobre todo la Zona de Conservacion Historica A y Sectores Especiales A y B: reemplaza repetidas veces frases de altura minima-maxima de edificacion por nuevas alturas maximas unicas, modifica el Coeficiente maximo de constructibilidad para otros usos distintos a vivienda, y en la Zona de Conservacion Historica B cambia el guarismo 0.7 por 1.0. Tambien trae listado de inmuebles de conservacion historica y modifica el cuadro de estandares de estacionamiento. CONFIANZA MEDIA por la calidad de OCR: verificar visualmente antes de extraer.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:53:24",
+  "fin": "2026-07-23T19:15:28",
+  "resultado": {
+    "archivo": "extraccion_normas/santiago/santiago_138_zch_a_b_deltas_pag1-5.md",
+    "zonas": 13,
+    "zonas_codigos": [
+      "ZonaA",
+      "ZCH-A1",
+      "ZCH-A2",
+      "ZCH-A4",
+      "SectorEspecialA5",
+      "SectorEspecialA6",
+      "ZCH-A7",
+      "ZCH-A3",
+      "SectorEspecialB13",
+      "SectorEspecialB8",
+      "SectorEspecialB9",
+      "SectorEspecialB10",
+      "ZCH-B3"
+    ],
+    "confianza": "MEDIA",
+    "nota": "Verificado manualmente por mi (nota: el agente reporto que el clasificador de seguridad no estuvo disponible al revisar su trabajo -- lei el archivo completo y confirmo que es una transcripcion cuidadosa, sin contenido problematico). Todo el decreto es del Sector 6 Club Hipico-Parque OHiggins. Cambio 0.7->1.0 en ZCH-B3 letra b): parametro exacto no confirmado al 100%, razonablemente inferido como CC pero documentado como inferencia, no dato transcrito. Listado de inmuebles: 162 nuevos (lineas 1221-1382), no transcrito completo por extension."
+  }
+}
