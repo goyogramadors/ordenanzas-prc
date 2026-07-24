@@ -1,0 +1,39 @@
+{
+  "id": "puerto_varas_46d6474c6e",
+  "comuna": "puerto_varas",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\puerto_varas_2_aprueba_plan_regulador_comunal_de_la_comuna_de_puerto_varas__Exportar.pdf",
+  "rangos": [
+    [
+      13,
+      17
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "PUERTO VARAS: Decreto 2 (BCN LeyChile, 18p), aprueba el PRC. Art 21 'Usos de suelo y normas especificas', p13-17, TEXTO NATIVO LIMPIO (sin trampa, verificado en render y con pdfimages: solo logos BCN): un articulo por zona (H-1, H-2, H-3, C, T, I, y restriccion R-1 a R-6), cada una con usos permitidos y prohibidos, c1 a c8-c10 (predial minima, frente predial, porcentaje de ocupacion de suelo, CC, agrupamiento, altura maxima, antejardin, adosamiento). Cierra al empezar Cap V Vialidad (p18, que si tiene tabla-imagen pero es vialidad, fuera de alcance: remite a Diario Oficial 33.615 pag 20-21). Tablas complementarias NO incluidas: estacionamientos por uso (Art 12, p7-9) y clasificacion de equipamiento por escala (Art 20, p10-12).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:38:21",
+  "fin": "2026-07-23T14:44:02",
+  "resultado": {
+    "archivo": "extraccion_normas/puerto_varas/puerto_varas_2_12zonas_pag13-17.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "H-1",
+      "H-2",
+      "H-3",
+      "C",
+      "T",
+      "I",
+      "R-1",
+      "R-2",
+      "R-3",
+      "R-4",
+      "R-5",
+      "R-6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3. R-3,R-5,R-6 no presentan estructura completa a/b/c de las demas zonas (R-3 remite a normativa ferroviaria sin usos explicitos, R-5/R-6 sin literal c Normas especificas) -- confirmado visualmente, no es texto faltante. Casillas en blanco en el original: H-2 c4 sin valor, T c7 Antejardin sin cifra; I c4 valor sin decimales."
+  }
+}

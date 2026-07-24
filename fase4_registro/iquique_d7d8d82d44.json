@@ -1,0 +1,35 @@
+{
+  "id": "iquique_d7d8d82d44",
+  "comuna": "iquique",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\iquique_264_aprueba_proyecto_de_modificacion_del_plan_regulador_de_la_comuna_de_iquique__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      11
+    ]
+  ],
+  "paginas_utiles": 8,
+  "nota_fase3": "IQUIQUE: Decreto 264 (BCN LeyChile, 12p) que aprueba el PLAN SECCIONAL BORDE COSTERO (Subzona A-2), modificando el PRC del DS 233-1981. Normas en pags 4-11, formato 'Etiqueta dos puntos Valor' por articulo y subsector (NO es cuadro ni imagen): Sector A-2.1 general (Art 20, p4), Remodelacion El Morro (Art 26, p5), El Morro (Art 31, p6-7), Balmaceda (Art 33, p7), Peninsula de Cavancha (Art 35, p7-8), Cavancha (Art 37, p8), Aeropuerto (Art 39, p9) e inmuebles hoteleros (Art 44, p11). Campos: usos permitidos y prohibidos, superficie predial minima, ocupacion maxima de suelo, coeficiente de constructibilidad, altura, rasantes, antejardin, cierros. EXCEPCION A LA TRAMPA BCN: texto integro y fiel, cero delatores, 9 pags verificadas visualmente. Excluida la tabla de vialidad (Art 42, p9-10).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T19:16:15",
+  "fin": "2026-07-23T19:31:37",
+  "resultado": {
+    "archivo": "extraccion_normas/iquique/iquique_264_bordecostero_8subsectores_pag4-11.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "A-2.1",
+      "RemodelacionElMorro",
+      "ElMorro",
+      "Balmaceda",
+      "PeninsulaCavancha",
+      "Cavancha",
+      "Aeropuerto",
+      "InmueblesHoteleros"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3; texto nativo verificado integro contra el render visual (pag.4-11), tabla de vialidad (Art.42) excluida segun alcance. Varios campos estandar (altura, rasantes, cierros) no estan explicitos en varios articulos y se marcaron como 'no se especifica' en vez de inferirse, para mantener fidelidad."
+  }
+}

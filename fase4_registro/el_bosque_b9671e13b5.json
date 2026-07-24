@@ -1,0 +1,34 @@
+{
+  "id": "el_bosque_b9671e13b5",
+  "comuna": "el_bosque",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\el_bosque_126_enmienda_plan_regulador_comuna_de_el_bosque__Plan_2026_6631.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Texto REFUNDIDO (DO 44.360) de la MISMA enmienda que el_bosque_3e5f3087fc, repaginado. Normas en texto: p2 ZONA C, p3 ZONA H, p4 ZONA R + inicio ZONA 1-2-3, p5 ZONA 1-2-3 completa + inicio ZONA 4, p6 ZONA 4 + Zona Seccional Lo Moreno Z-A/Z-B (aqui termina el art.2). p7-11 VIALIDAD (excluidas). p12 proteccion aeronautica. DUPLICADO NORMATIVO: basta transcribir uno de los dos documentos.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:02:07",
+  "fin": "2026-07-23T14:02:28",
+  "resultado": {
+    "archivo": "extraccion_normas/el_bosque/el_bosque_4433_zonas_pag2-5.md",
+    "zonas": 7,
+    "zonas_codigos": [
+      "Zona C",
+      "Zona H",
+      "Zona R",
+      "Zona 1-2-3",
+      "Zona 4",
+      "Zona Seccional Lo Moreno Z-A",
+      "Zona Seccional Lo Moreno Z-B"
+    ],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO NORMATIVO confirmado por Fase3 de el_bosque_3e5f3087fc (texto refundido DO44360 de la misma enmienda, repaginado) -- se reutiliza el archivo ya transcrito y verificado en esa sesion, no se reproceso. Contenido identico: 7 zonas."
+  }
+}

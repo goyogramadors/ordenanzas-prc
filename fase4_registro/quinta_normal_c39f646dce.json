@@ -1,0 +1,31 @@
+{
+  "id": "quinta_normal_c39f646dce",
+  "comuna": "quinta_normal",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\quinta_normal_192_promulga_modificacion_al_plan_regulador_comunal_de_quinta_normal__Exportar.pdf",
+  "rangos": [
+    [
+      7,
+      11
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "QUINTA NORMAL: Decreto 192 (BCN LeyChile, 11p), Modificacion N2 (MPRC-QN-02) al PRC. Ajusta limite urbano, zonas E-D-AR y CREA la zona C. Normas en p7-11, TEXTO PLANO LIMPIO (sin trampa): ZONA SM, ZONA MI, ZONA E (p7-9) y ZONA C nueva (p10-11), cada una con predial minima, porcentaje de ocupacion maxima, agrupamiento, rasante-distanciamiento, altura maxima, CC, densidad bruta maxima. Hay DOS tablas-imagen confirmadas en p4 y p5 pero son secundarias: p4 = deslindes del poligono urbano (JPEG 528x714, no es norma de zona), p5 = estacionamientos minimos por tipo de vivienda social-colectiva (JPEG 528x220, fuera de la definicion de norma urbanistica). Ninguna de las dos afecta la tabla objetivo. 2 pags verificadas visualmente.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:46:06",
+  "fin": "2026-07-23T14:51:06",
+  "resultado": {
+    "archivo": "extraccion_normas/quinta_normal/quinta_normal_192_sm_mi_e_c_pag7-11.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "SM",
+      "MI",
+      "E",
+      "C"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3, 4 zonas con cuadros completos, cada una con 2-3 subcategorias de uso. Densidad bruta maxima solo aplica a uso residencial/vivienda, no a equipamiento/industria (patron normal). Inconsistencia propia del decreto original en Zona E-Equipamiento: altura aislada-pareada 3pisos/15m vs nota de cierre que indica maximo 10.5m -- documentada tal cual, no corregida."
+  }
+}

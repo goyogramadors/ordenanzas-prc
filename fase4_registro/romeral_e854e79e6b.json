@@ -1,0 +1,39 @@
+{
+  "id": "romeral_e854e79e6b",
+  "comuna": "romeral",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\romeral_44_promulga_plan_regulador_comunal_de_romeral_y_deja_sin_efecto_resoluciones_que__07306_PRC_ROMERAL_OR_44_17.pdf",
+  "rangos": [
+    [
+      14,
+      18
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Misma trampa nueva que Molina: veredicto TEXTO pero tablas de zona en imagen (Diario Oficial digital 2017). Verificado por render: p14 Art.4.2 lista de zonas (ZU-1 a ZU-7, ZAV, ZE-1 a ZE-4) + tabla ZU-1 y ZU-2 completas en la misma pagina; p15-18 resto de zonas. p19 ya es Titulo 5 Vialidad Estructurante (fuera de rango).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:46:06",
+  "fin": "2026-07-23T14:53:08",
+  "resultado": {
+    "archivo": "extraccion_normas/romeral/romeral_44_12zonas_pag14-18.md",
+    "zonas": 12,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZAV",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3, veredicto TEXTO pero tablas en imagen, transcrito por render 250dpi (recortes 400dpi para celdas ambiguas). Orden fisico real difiere levemente del listado Art.4.2 (ZE-1 a ZE-4 aparecen antes de ZAV, no despues), sin impacto en cobertura."
+  }
+}
