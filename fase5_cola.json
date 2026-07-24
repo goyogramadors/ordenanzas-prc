@@ -1,7 +1,538 @@
 {
- "generado": "2026-07-23T10:29:31",
- "total": 1,
+ "generado": "2026-07-24T00:52:14",
+ "total": 25,
  "items": [
+  {
+   "comuna": "quilpue",
+   "region": "05",
+   "geojson_file": "05_PRC_Quilpue.json",
+   "geojson_existe": true,
+   "salida_json": "05_quilpue.json",
+   "tier": 0,
+   "zonas_total": 53,
+   "markdowns": [
+    {
+     "id": "quilpue_17f18a5bc1",
+     "archivo": "extraccion_normas/quilpue/quilpue_2732_2019_actualizacion_prc_zonas_pag28-51.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 53,
+     "zonas_codigos": [
+      "ZR1",
+      "ZR2",
+      "ZR3",
+      "ZR4",
+      "ZR5",
+      "ZR6",
+      "ZR7",
+      "ZR8",
+      "ZR9",
+      "ZR10",
+      "ZRM1",
+      "ZRM2",
+      "ZM1",
+      "ZM2",
+      "ZM3",
+      "ZE1",
+      "ZE2",
+      "ZE3",
+      "ZE4",
+      "C1",
+      "C1-a",
+      "C2",
+      "C3",
+      "C4",
+      "C4-a",
+      "C5",
+      "C6",
+      "F",
+      "SC",
+      "ET",
+      "ETR",
+      "EI",
+      "EI-a",
+      "E",
+      "EDR",
+      "EDR-a",
+      "EE",
+      "ES",
+      "ES1",
+      "EP",
+      "CE",
+      "PT",
+      "PI",
+      "INT",
+      "INS",
+      "AVC1",
+      "AVC2",
+      "AVC3",
+      "AVC4",
+      "AVI1",
+      "AVI2",
+      "AVI3",
+      "AVI4"
+     ],
+     "nota": "Decreto 2732/2019 (D.O. 42.413, 26-jul-2019), \"Aprueba actualizacion al Plan Regulador Comunal de Quilpue\", Capitulo 5 Normas Urbanisticas Art.5.1 completo, pag28-51 de 79. Documento es texto vectorial convertido a imagen (no escaneo fisico), 100% de las 53 tablas de zona confirmadas como imagen pura via pdftotext filtrado (cero contenido de tabla extraible salvo 3 parrafos de prosa real: intro Art.5.1 p28, nota Sub-Zona C1-a p38, intro Art.5.2 p51). 53 zonas/subzonas transcritas en 6 categorias con banner propio: ZONAS HABITACIONALES MIXTAS (ZR1-ZR10, ZRM1-ZRM2, ZM1-ZM3, ZE1-ZE4 = 19), ZONAS DE EQUIPAMIENTO PREFERENTE (C1,C1-a,C2,C3,C4,C4-a,C5,C6,F,SC,ET,ETR,EI,EI-a,E,EDR,EDR-a,EE,ES,ES1,EP,CE = 22), ZONAS DE ACTIVIDADES PRODUCTIVAS (PT,PI = 2), ZONAS DE INFRAESTRUCTURA (INT,INS = 2), AREA VERDE Y ESPACIOS PUBLICOS (AVC1-4,AVI1-4 = 8). 19+22+2+2+8=53, coincide exacto con el recuento hecho al recorrer el documento y con nota_fase3 (primera zona ZR1 pag28, ultima AVI4 pag51, justo antes del Art.5.2 Incentivos que confirma el cierre del rango). Sin saltos de numeracion sospechosos en ninguna familia (verificado explicitamente ZR1-10, ZE1-4, C1-6, AVC1-4, AVI1-4). Documento considerablemente mas denso que el resto del corpus trabajado hasta ahora (53 zonas en 24 paginas vs 11 zonas en 10 paginas de Cauquenes, por ejemplo). Mitigacion aplicada contra el bug conocido de omision en filas de 5+ items casi identicos: celdas largas de Comercio/Culto y Cultura/Servicios se transcribieron primero linea por linea y solo se incorporaron a la tabla tras verificar el conteo completo contra la imagen. Mas de 30 recortes con zoom (1,3x-3x, PIL, con autocontraste) sobre celdas estructuralmente dudosas -- 0 celdas ilegibles en todo el documento (texto vectorial, no escaneo fisico, nitido a 250dpi en el 100% de lo revisado). Verificacion de trampa comuna ajena: 0 encontrada, headers de Diario Oficial consistentes en las 24 paginas y multiples toponimos reales de Quilpue confirmados (Poblacion Carozzi/Wiegand/California/Las Rosas para ZE1-4, Centro Belloto para C2, estero Quilpue para AVC3, clinica Los Carrera para ES1). HALLAZGOS PRINCIPALES: (1) 9 zonas sin ningun uso residencial (C2 con solo Hospedaje sin Vivienda, F, ES1, EP, CE, PT, PI, INT, INS) -- patron no anticipado por nota_fase3; (2) zonas E y EE tienen una inconsistencia de rotulado del original: la columna Destino dice \"Hospedaje\" pero la actividad permitida transcrita es \"Hogares de acogida\" -- preservado [sic] sin reinterpretar; (3) erratum de plantilla \"0EQUIPAMIENTO\" (cero espurio) en EI-a, verificado con zoom; (4) erratum \"Culto Cultura\" sin la conjuncion \"y\" en PT, verificado con zoom; (5) discordancias de numero \"1 pisos\" (AVC2, AVC4, AVI3, AVI4) y \"10 metro\" sin la s final (AVI4), preservadas [sic]; (6) subconjunto de 5 zonas duras de infraestructura/productivas/cementerio (CE 5m, PT 5m, PI 5m, INT 7m, INS 7m) fijan Distanciamiento a Medianeros como valor numerico directo en vez de remitir al Art.2.6.3 OGUC como las 48 zonas restantes; (7) las 8 zonas de Area Verde y Espacios Publicos (AVC1-4, AVI1-4) expresan COS y CC como remision directa a Art.2.1.30 o 2.1.31 de la OGUC, no como cifra; (8) identidades verificadas por comparacion directa: ZM1=ZM2 (usos), C4=C4-a (usos y 8 de 9 parametros de edificacion, difieren solo en antejardin: 10m vs 3m), INT=INS (edificacion), EDR=EDR-a (edificacion), ZE1=ZE2=ZE3=ZE4 (usos de suelo); (9) EI-a es la zona de mayor altura de todo el rango (12 pisos o 42m). Confianza global ALTA, uniforme en las 53 zonas -- no fue necesario degradar confianza en ninguna, el renderizado a 250dpi resulto nitido en el 100% de las celdas revisadas por ser texto vectorial y no escaneo fisico. No se invento ningun valor: parametros sin dato se marcaron \"No aplica\" (cuando la fuente usa esa frase textual) o \"fila ausente en la fuente\" (cuando la fila completa no existe para esa zona), nunca se dejo en blanco ni se completo por analogia con zonas vecinas sin verificacion visual directa."
+    }
+   ]
+  },
+  {
+   "comuna": "villarrica",
+   "region": "09",
+   "geojson_file": "09_PRC_Villarrica.json",
+   "geojson_existe": true,
+   "salida_json": "09_villarrica.json",
+   "tier": 0,
+   "zonas_total": 39,
+   "markdowns": [
+    {
+     "id": "villarrica_8d20c79efa",
+     "archivo": "extraccion_normas\\villarrica\\villarrica_res17_zona_mixta_parque_lago_pag1-3.md",
+     "categoria": "PRI_INTERCOMUNAL",
+     "zonas": 2,
+     "zonas_codigos": [
+      "Zona Mixta de Residencia y Equipamiento",
+      "Zona de Parque Borde de Lago"
+     ],
+     "nota": "CORRECCION A NOTA_FASE3: el contenido de zona NO esta en p1 (solo Vistos/Resuelvo administrativo) sino en p2-3, verificado con pdftotext antes de transcribir. Se renderizaron y transcribieron las 3 paginas del documento completo para no omitir norma pese a que el rango asignado era [1,1]. Zona Mixta: predial 600m2, ocupacion 35%, densidad 160 hab/ha, aislada, altura 5 pisos. Parque Borde Lago: franja 10m (min 5m BNUP), concesion max 15%/tramo, edificacion max 5%/2 pisos. Aplica a Villarrica y Puncon (plan intercomunal)."
+    },
+    {
+     "id": "villarrica_ae0e47e69c",
+     "archivo": "extraccion_normas\\villarrica\\villarrica_oficio38_interpreta_franja_pag2.md",
+     "categoria": "?",
+     "zonas": 0,
+     "zonas_codigos": [],
+     "nota": "Confirmado: documento de interpretacion juridica que INVALIDA (no aplica) la franja de 50m de los arts 22/23/29 del plan intercomunal, por exceder competencia y quedar tacitamente derogados por OGUC 1992. No es cuadro de norma vigente. Coincide con nota_fase3 (confianza MEDIA)."
+    },
+    {
+     "id": "villarrica_01af443107",
+     "archivo": "extraccion_normas/villarrica/villarrica_res1_zonas_zh1_zh2_zh3_zee_zne_zrp_zr1b_zpf_pag5-9.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 8,
+     "zonas_codigos": [
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZEE",
+      "ZNE",
+      "ZRp",
+      "ZR-1B",
+      "ZPF"
+     ],
+     "nota": "Resolucion 1, Modifica PRC Villarrica (Mod. Ordenanza Local 1998), Art.8, pag5-9, LeyChile texto nativo. 8 zonas confirmadas exactas a fase3: ZH-1,ZH-2,ZH-3,ZEE (residencial/equipamiento), ZNE,ZRp,ZR-1B,ZPF (restriccion/proteccion). CONFIRMADO patron cuadro-completo (no modificacion puntual tipo Rengo/Quinta Normal). CORRECCION importante a fase3: los '4 parametros resumidos' (superficie predial, % ocupacion, coef. construccion, densidad) solo aplican completos a ZH-1/ZH-2/ZH-3 y parcialmente ZEE (sin densidad) -- las otras 4 zonas (ZNE,ZRp,ZR-1B,ZPF) NO tienen bloque B. de condiciones de subdivision/edificacion en absoluto, estructura mucho mas simple solo usos permitidos/prohibidos, remitidas a 'proyecto especifico ante DOM' (ZRp,ZR-1B) o 'legislacion vigente' (ZPF) o de plano no aplica por ser zona no edificable (ZNE). HALLAZGO no cubierto por fase3: nota marginal 'RES 47, GOB.REG.ARAUCANIA, N1 L.-, D.O. 08.05.2003' junto a B.8 Altura de ZH-1 (permiso 10 pisos) -- sugiere que ese parrafo especifico proviene de una resolucion distinta y posterior a la que da nombre al documento, posible vista consolidada de LeyChile con anotaciones de procedencia por parrafo; no resuelto del todo por estar pag1-4 fuera de rango. HALLAZGO: existe 9na zona Z-2E (Zona de expansion urbana) cuyo titulo aparece al final de p9 sin ningun contenido -- desarrollo cae en p10 fuera de rango, documentada pero no contada entre las 8. Diferencias estructurales entre las 3 zonas ZH no señaladas por fase3: ZH-3 tiene lista de usos mas corta (sin parrafo usos de apoyo), sin excepcion de continuidad, sin parrafo alturas mayores equipamiento -- pero sus valores numericos replican ZH-2 no ZH-1 (verificado con zoom, riesgo de confusion ZH-1/ZH-3 mitigado). Trampa comuna ajena: NO detectada, las 5 paginas son consistentes Villarrica en todas las referencias. 4 cortes de pagina revisados sin perdida de texto (prosa corrida, no tablas con bordes). 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas."
+    },
+    {
+     "id": "villarrica_04d21f34aa",
+     "archivo": "extraccion_normas/villarrica/villarrica_res18_licanray_zonas_pag13-17.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 14,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2a",
+      "Z-2b",
+      "Z-3",
+      "Z-3E",
+      "Z-4",
+      "Z-5",
+      "Z-R1",
+      "ZR-1a",
+      "ZR-1b",
+      "Z-R2",
+      "ZR-3",
+      "ZR-4",
+      "ZR-5"
+     ],
+     "nota": "Resolucion 18 (12-may-1992) Plan Regulador localidad Lican Ray, comuna Villarrica, Art.21, pag13-17, LeyChile texto nativo. HALLAZGO PRINCIPAL: fase3 no determino codigos de zona -- este documento aporta los 14 codigos exactos (informacion completamente nueva, no discrepancia): Z-1,Z-2a,Z-2b,Z-3,Z-3E,Z-4,Z-5 (Area Consolidada y su Extension, 7 codigos) + Z-R1 con subzonas ZR-1a/ZR-1b, Z-R2, ZR-3, ZR-4, ZR-5 (Area Especial, 7 codigos incluyendo subzonas). Triple verificacion cruzada: imagen 250dpi + .txt entregado + pdftotext independiente sobre PDF completo -- coinciden linea por linea en 100% de los valores, 0 discrepancias entre las 3 fuentes. HALLAZGO no cubierto por fase3: inconsistencia sistematica 'Z-R' vs 'ZR' en la propia fuente -- indice Art.20 siempre 'ZR' sin guion, pero encabezados narrativos Art.21 usan 'Z-R1'/'Z-R2' CON guion para las zonas madre (subzonas y demas mantienen 'ZR' sin guion) -- verificado en 4 apariciones independientes, incluye caso donde el propio parrafo de Z-R2 se autonombra 'Z-R2' y cita a su vecina 'ZR-1b' en la misma oracion. HALLAZGO: Zona Z-5 es la unica de las 5 zonas Z numeradas SIN Coeficiente de Constructibilidad (omision real del original, no inventado). HALLAZGO: errata 'Sistema maximo de la edificacion' en Z-5 (deberia decir Altura, verificado 2 veces con zoom, preservado literal [sic] sin corregir). Z-3 y Z-3E comparten una sola tabla de norma (no dos separadas). Patron relevante para fase 5: las 'Areas Especiales' (Z-R1/ZR-1a/ZR-1b/Z-R2/ZR-3/ZR-4/ZR-5) tienen cuadros normativos incompletos o inexistentes por DISENO (remiten a DS609/1978, concesiones maritimas DFL340/1960, Codigo Sanitario, etc.), contraste con 'Areas Consolidadas' Z-1 a Z-5 que si siguen cuadro uniforme -- requiere manejo de campos vacios 'por diseno' no 'por falta de dato'. 4 tablas partidas entre paginas identificadas y reconciliadas sin perdida (Z-2a p13-14, Z-4 p14-15, Z-R1 usos prohibidos p15-16, nombre de zona ZR-3 partido p16-17). Trampa comuna ajena: NO detectada, topónimos 100% consistentes con Lican Ray (no confundir con Villarrica urbana propiamente tal, que tiene su propio PRC intercomunal ya en villarrica_res17). Numerosas erratas tipograficas menores preservadas [sic]: apostrofes sueltos, signo = suelto, 'Coeficientes' plural, 'Superficies' plural, 'maximo' por 'maxima', 'de y agrupamiento', 'mts.' por 'm.'. No es escaneo -- republicacion texto nativo BCN/LeyChile 2016, sin degradacion entre paginas. 0 usos de Dato no determinable. Confianza alta uniforme en las 5 paginas."
+    },
+    {
+     "id": "villarrica_1de66da8b5",
+     "archivo": "extraccion_normas/villarrica/villarrica_res47_modificaciones_z4_z4e_ze5_ze5a_zr1a_sz1b_z2_z3_z2e_pag2-7.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 15,
+     "zonas_codigos": [
+      "Z-2",
+      "Z-2E",
+      "Z-3",
+      "Z-4",
+      "Z-4E",
+      "ZE-5",
+      "ZE-5A",
+      "ZR-1A",
+      "SZ-1a",
+      "SZ-1b",
+      "ZE-6",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZEE"
+     ],
+     "nota": "Resolucion 47/2003 (Gob. Regional Araucania), modifica PRC Villarrica, pag2-7 de 7 -- documento tipo \"modificacion puntual\" (patron ya visto en Quinta Normal/Rengo Res.557/Santiago Decreto138), NO cuadros completos de zona. 17 letras/sub-letras identificadas (A a L, sin I/J/K -- confirmado que el original salta de H a L sin paginas faltantes). A y B son deslinde puro de limite urbano (excluido). 15 restantes transcritas en detalle: C/D/E/F (Art.10/11/12/22) insertan codigo \"ZE-5A\" a continuacion de \"ZE-5\"; G.1 sustituye material fachada metal por cobre; G.2 prohibe planchas de Zinc en 11 zonas (SZ-1a,SZ-1b,Z-2,Z-2E,ZE-5,ZE-5A,ZE-6,ZH-1,ZH-2,ZH-3,ZEE); G.3 Portales(SZ-1a obligatorio)/Marquesinas(SZ-1b condicional); G.4-G.5 sustituyen distanciamiento/rasante Z-2/Z-2E; G.6 agrega uso \"Juzgados\" en Z-4/Z-4E; G.7 agrega uso \"Oficinas en General\" en Z-2/Z-2E/Z-4/Z-4E/ZE-5/ZE-6; G.8 sustituye Altura Maxima ZE-5 de 12 a 21m (verificado con zoom); G.9 crea zona ZE-5A completa (predial 4.000m2, frente 35m, ocupacion 10%, aislado, altura 9m, remite a OGUC para rasantes/distanciamiento); H (Art.26) agrega 11 vias estructurantes incluida \"Paseo Peatonal Camino a Freire\" 10m; L modifica Art.9 de la Resolucion N1/1996-1998 (documento hermano villarrica_res1), sustituyendo en ZH-1 Altura de 5 a 10 -- CRUCE DE VALIDACION verificado: el propio villarrica_res1...md ya registraba nota marginal \"RES 47, GOB.REG.ARAUCANIA, N1 L.-, D.O. 08.05.2003\" confirmando la cifra 10, la unidad \"pisos\", y la fecha de publicacion de esta Resolucion47 (08-may-2003). DISCREPANCIAS vs fase3: (1) modificaciones puntuales no arrancan en p5-6 sino que letra C ya esta completa en p4; (2) fase3 atribuye Portales/Marquesinas SZ-1a/SZ-1b y distanciamiento Z-2/Z-2E a p7, en realidad ambas estan en p5 -- solo Paseo Peatonal esta efectivamente en p7; (3) \"G.6-G.8 agrega usos de suelo\" agrupa impreciso: G.6/G.7 si agregan usos, G.8 sustituye guarismo de altura (no es error de fondo, fase3 lo aclara en frase siguiente, pero la agrupacion es imprecisa). HALLAZGOS no cubiertos por fase3: letra L completa (conexion directa verificable con villarrica_res1, la mas significativa); tabla completa Art.26 con 10 filas viales adicionales; G.1 y G.2 (Zinc, conecta con 4 zonas de la Resolucion N1); erratum [sic] en G.6 \"para las Zona Z-4 y Zona Z-4E\". ZE-6 confirmado codigo real y distinto (no errata de ZE-5), verificado 2 veces contra imagen en G.2 y G.7 -- no aparece en el listado de ampliacion de limites porque ese listado es solo ajuste GEOGRAFICO, mientras G.2/G.7 son normas de uso/material extendidas a zonas adicionales sin tocar su limite. 0 trampa comuna ajena (firma Intendente/Secretario Ejecutivo CORE Araucania, topos locales consistentes). 0 Dato no determinable. Doble corroboracion cruzada con villarrica_res1...md. Confianza alta uniforme en las 6 paginas."
+    }
+   ]
+  },
+  {
+   "comuna": "angol",
+   "region": "09",
+   "geojson_file": "09_PRC_Angol.json",
+   "geojson_existe": true,
+   "salida_json": "09_angol.json",
+   "tier": 0,
+   "zonas_total": 6,
+   "markdowns": [
+    {
+     "id": "angol_e76a35ae24",
+     "archivo": "extraccion_normas/angol/angol_actualizacion_prc_zonas_z1_a_z5_zav_pag7-13.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 6,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-AV"
+     ],
+     "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) que se cruzaron sin saberlo -- AMIGO1 quedo registrado como HECHO con archivo angol_40_2022_z1_z2_z3_z4_z5_zav_pag7-13.md (35 lineas, 2948 bytes, resumen muy condensado: solo cifras de las tablas de edificacion en prosa corrida, sin listas de usos de suelo permitidos/prohibidos). SESION4 detecto el choque al intentar pushear su registro (ya en curso, subagente no tenia forma de saberlo) y comparo ambas versiones valor por valor. RESULTADO DE LA COMPARACION: TODOS los valores numericos de las 6 zonas coinciden EXACTAMENTE entre ambas transcripciones (densidad, predial minimo, COS, CC, altura, agrupamiento, antejardin, por cada columna de uso de cada zona) -- cero discrepancia de cifra en ninguna de las 6 zonas. Ambas sesiones detectaron ademas, de forma independiente, los mismos 2 hallazgos de anomalia de fuente: (1) el titulo de la tabla de normas de Z-5 dice \"...Densidad Media\" (nombre real de Z-3) en vez de \"...Productiva\"; (2) en Z-AV la celda \"Esparcimiento\" tiene la palabra \"Todos\" tachada en el original sin resolver. Ambas coinciden tambien en que la tabla de Z-AV queda incompleta (solo 6 de 10 filas) por limite del rango de paginas entregado, no por ilegibilidad. Esta triple coincidencia independiente (cifras + 2 hallazgos + limite de rango) es evidencia solida de que ambas transcripciones son fieles a la fuente -- no hay error de contenido en ninguna. DIFERENCIA DE ALCANCE (no de exactitud, la unica razon de esta reconciliacion): la version AMIGO1 es un resumen extremadamente condensado que omite por completo las tablas de \"USOS DE SUELO PERMITIDOS / PROHIBIDOS\" de las 6 zonas (que es la mitad del contenido normativo de cada zona, con diferencias reales y no triviales entre zonas en Salud/Seguridad/Comercio/Transporte/Sanitaria) y tambien omite el cuadro completo de estandares minimos de estacionamiento (Art.5, pag.7, 28 filas transcritas integras por SESION4). Por esa diferencia de completitud sustancial (no por diferencia de exactitud, que es nula), se elige la version SESION4 como resultado canonico de este registro. El archivo de AMIGO1 se deja intacto en el repo (no se borro contenido ajeno) pero ya no es el referenciado por este registro. NOTA SUSTANTIVA DE LA EXTRACCION (SESION4): Actualizacion PRC Angol, Diario Oficial N43.376, 14-oct-2022, pag7-13 de 20. Confirmada \"trampa mixto\" de fase3 (pdftotext solo da titulos, tablas son imagen) -- incluso mas extrema en pag7 (el .txt ni siquiera da el titulo). 6 zonas confirmadas exactas a fase3 por conteo propio: Z-1 Centro Historico, Z-2 Eje Bernardo OHiggins, Z-3 Residencial Mixta Densidad Media, Z-4 Residencial Mixta Densidad Baja, Z-5 Residencial Mixta Productiva, Z-AV Area Verde. CORRECCION a fase3: la nota decia \"una pagina = una zona\" (p8=Z1...p13=ZAV) -- FALSO, cada zona ocupa ~1.5 paginas y las 6 quedan escalonadas (Z-1 en p8-9, Z-2 en p9-10, etc.), verificado tabla de correspondencia completa. HALLAZGO principal no cubierto por fase3: las tablas de usos de suelo NO son copia-pega uniforme entre zonas pese a compartir plantilla -- diferencias reales verificadas con zoom en Salud, Seguridad, Deporte/Esparcimiento (Z-5 los simplifica a \"Todos\" a diferencia de las otras 5), Transporte (Z-5 permite instalaciones aeroportuarias, las demas no) y Sanitaria (Z-3 permite rellenos sanitarios, las demas no) -- documentado que una fase posterior no debe asumir uniformidad entre zonas similares. Erratas [sic] preservadas: GASEODUCTO (Z-3), 1CADA sin espacio (p7), titulo Z-5 con nombre de Z-3, tachado sin resolver en Z-AV. 0 trampa comuna ajena (verificado ademas que el codigo de laminas PRC 09201 coincide con el codigo INE real de Angol). Dato no determinable usado unicamente en Z-AV (4 filas finales de su tabla de normas, fuera del rango de paginas entregado, no por ilegibilidad). Confianza alta uniforme en las 7 paginas."
+    }
+   ]
+  },
+  {
+   "comuna": "nacimiento",
+   "region": "08",
+   "geojson_file": "08_PRC_Nacimiento.json",
+   "geojson_existe": true,
+   "salida_json": "08_nacimiento.json",
+   "tier": 1,
+   "zonas_total": 31,
+   "markdowns": [
+    {
+     "id": "nacimiento_7aa90ac7cd",
+     "archivo": "extraccion_normas\\nacimiento\\nacimiento_70_modificacion2004_zonas_z6_z7_z8_pag4-5.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 3,
+     "zonas_codigos": [
+      "Z-6",
+      "Z-7",
+      "Z-8"
+     ],
+     "nota": "Confirma nota_fase3 exacta: 3 zonas nuevas completas (usos+condiciones), mas excepcion de antejardin (5m/3m) para Z-3,Z-7,Z-8 en uso industria/bodega/acopio (art.13 Cap.IV modificado)."
+    },
+    {
+     "id": "nacimiento_bf04f82409",
+     "archivo": "extraccion_normas\\nacimiento\\nacimiento_116_prc1985_zonas_z1-z5_pag2-3.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 5,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5"
+     ],
+     "nota": "Cuadro Art.8 completo para Z-1 a Z-5 transcrito integro desde render (usos+condiciones con desgloses por tipo de uso donde aplica). Cap.IV completo (art.9-16) tambien transcrito. p3 confirma: tras vialidad de Nacimiento comienza ordenanza de OTRA comuna (Lo Prado) en la misma edicion DO, correctamente excluida."
+    },
+    {
+     "id": "nacimiento_f5dcee8426",
+     "archivo": "extraccion_normas/nacimiento/nacimiento_do15_zonas_zr_zrm_zrc_zec_zm_zap_zam_zst_zed_zmc_zep_zexr_zexapc_pag6-10.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 22,
+     "zonas_codigos": [
+      "ZCC",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4",
+      "ZRM-1",
+      "ZRM-2",
+      "ZRC-1",
+      "ZRC-2",
+      "ZEC",
+      "ZM-1",
+      "ZM-2",
+      "ZAP",
+      "ZAM",
+      "ZAMAP",
+      "ZST",
+      "ZED",
+      "ZMC",
+      "ZEP",
+      "ZExR-1",
+      "ZExR-2",
+      "ZExAPC"
+     ],
+     "nota": "Ordenanza Local PRC Nacimiento 2009 (DO 13-jul-2009), pag6-10 del PDF. 22 zonas con cuadro normativo propio (no 21 como decia fase3): CORRECCION -- ZCC (Zona Centro Civico) fue omitida por fase3, es la PRIMERA zona de Art.38 y trae cuadro completo (usos+condiciones+incentivos), ubicada en pagina 6 (no en pag7-10 como decia la nota). Resto de zonas confirma exactamente lo que fase3 listo: ZR-1 a ZR-4, ZRM-1/2, ZRC-1/2, ZEC, ZM-1/2, ZAP, ZAM, ZAMAP, ZST, ZED, ZMC, ZEP, ZExR-1/2, ZExAPC. 4 zonas (ZEC,ZAM,ZAMAP,ZEP) carecen por completo de tabla de condiciones de edificacion en la fuente -- documentado explicito, no inventado. Solo 8 de 22 zonas traen tabla de incentivos (ZCC,ZR-1,ZRM-2,ZST,ZMC,ZExR-1,ZExR-2,ZExAPC). Las 5 zonas no edificables (ZPR-1 a ZPR-5) estan listadas en Art.38 pero NO tienen cuadro normativo propio en pag6-10 -- confirmado recorriendo las 5 paginas completas, documentado como tal sin inventar valores. PAGINA 11 no se pudo verificar: el material fuente (render4/) solo incluye imagenes de pag6-10, no existe render de pag11 en disco y las instrucciones prohibian renderizar el PDF -- documentado honestamente en vez de inventar confirmacion de la nota_fase3 sobre Titulo VI Inmuebles Conservacion Historica. Dos posibles erratas del documento ORIGINAL (no de fase3 ni de la transcripcion), verificadas a zoom 2-3x y transcritas tal cual: nota de ZAM cita zona 'ZRC-3' que no existe (solo hay ZRC-1/ZRC-2); tabla de incentivos de ZMC muestra '500m3' en vez de '500m2'. Metodologia: cada pagina leida completa a 250dpi y re-verificada con recortes 2x2 con solape mas zoom puntual 2-3x en celdas dudosas. Confianza alta en las 22 zonas, con las dos anomalias tipograficas del original marcadas explicitamente."
+    },
+    {
+     "id": "nacimiento_f9bc448e33",
+     "archivo": "extraccion_normas\\nacimiento\\nacimiento_1270_enmienda2_zap.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 1,
+     "zonas_codigos": [
+      "ZAP"
+     ],
+     "nota": "Unica zona con ficha completa: ZAP. Confirmadas las 3 apariciones del cuadro (oficio SECPLAN, Diario Oficial, plano E2-PRCN) -- coinciden salvo 1 discrepancia real en antejardin (el plano da un solo valor 5,0m, el texto legal diferencia 10m actividades productivas / 5m otros usos); se uso el valor del texto legal por ser la fuente normativa y se dejo la discrepancia explicita. Otras 8 zonas nombradas solo en la leyenda del plano (ZRM-1,ZRC-2,ZAM,ZAMAP,ZMC,ZPR-1,ZPR-5 + Zona Inundable) NO tienen ficha en este documento, listadas como contexto sin inventar parametros."
+    }
+   ]
+  },
+  {
+   "comuna": "san_felipe",
+   "region": "05",
+   "geojson_file": "05_PRC_San_Felipe.json",
+   "geojson_existe": true,
+   "salida_json": "05_sanfelipe.json",
+   "tier": 1,
+   "zonas_total": 30,
+   "markdowns": [
+    {
+     "id": "san_felipe_64f7c62b47",
+     "archivo": "extraccion_normas\\san_felipe\\san_felipe_797_enmienda_e1_e8_e10.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 3,
+     "zonas_codigos": [
+      "E-1",
+      "E-8",
+      "E-10"
+     ],
+     "nota": "3 zonas completas (usos+condiciones), texto integro no imagen. Verificado contra nota_fase3: coincide."
+    },
+    {
+     "id": "san_felipe_24a886136b",
+     "archivo": "extraccion_normas\\san_felipe\\san_felipe_zonas_c_h_i_e_r.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 27,
+     "zonas_codigos": [
+      "C-1",
+      "C-2",
+      "C-3",
+      "H-4",
+      "H-5",
+      "H-6",
+      "H-7",
+      "H-8",
+      "I-1",
+      "I-2",
+      "E-1",
+      "E-5",
+      "E-6",
+      "E-7",
+      "E-8",
+      "E-9",
+      "E-10",
+      "R-1",
+      "R-3",
+      "R-4",
+      "R-5",
+      "R-6",
+      "R-7",
+      "R-8",
+      "R-9",
+      "R-10",
+      "R-11"
+     ],
+     "nota": "Confirmados los saltos reales en la numeracion (sin H-1/H-2/H-3, sin E-3/E-4, sin R-2), consistente con nota_fase3. ZONA E-2 esta LISTADA en el Art.31 pero SIN texto normativo propio en el rango p19-39 -- no se incluyo en zonas-codigos ni se invento tabla, se dejo nota explicita del vacio para que la fase siguiente decida si buscarla en otro rango del mismo documento. R-7 a R-11 son descriptivas por remision a normativa sectorial (ley ferrocarriles, SEC, DGA, aeronautica), sin cuadro COS/CC."
+    }
+   ]
+  },
+  {
+   "comuna": "laja",
+   "region": "08",
+   "geojson_file": "08_PRC_Laja.json",
+   "geojson_existe": true,
+   "salida_json": "08_laja.json",
+   "tier": 1,
+   "zonas_total": 29,
+   "markdowns": [
+    {
+     "id": "laja_1e606a4092",
+     "archivo": "extraccion_normas/laja/laja_106_2008_29zonas_pag8-13.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 29,
+     "zonas_codigos": [
+      "ZCC",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZRM-1",
+      "ZC",
+      "ZED",
+      "ZTES",
+      "ZEE",
+      "ZEC-1",
+      "ZEC-2",
+      "ZM-1",
+      "ZISC",
+      "ZAP-1",
+      "ZAP-2",
+      "ZAPC-1",
+      "ZExR-1",
+      "ZExR-2",
+      "ZExP-1",
+      "ZExP-2",
+      "ZExAP-1",
+      "ZExAV",
+      "ZRi-1",
+      "ZRi-2",
+      "ZRi-3",
+      "ZRi-4",
+      "ZRi-5",
+      "ZPdr",
+      "ZAM"
+     ],
+     "nota": "Resolucion 106/2008, D.O. 39189. 29 zonas, render visual 200dpi pag8-13. ZRi-4 con confianza MEDIA: cuadro de condiciones de edificacion no visible en el rango asignado."
+    }
+   ]
+  },
+  {
+   "comuna": "conchali",
+   "region": "13",
+   "geojson_file": "13_PRC_Conchali.json",
+   "geojson_existe": true,
+   "salida_json": "13_conchali.json",
+   "tier": 1,
+   "zonas_total": 21,
+   "markdowns": [
+    {
+     "id": "conchali_f675d974d0",
+     "archivo": "extraccion_normas\\conchali\\conchali_302_vialidad_y_parques_caducados_pag1-2.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 4,
+     "zonas_codigos": [
+      "Z1 Norte",
+      "Z1 Sur",
+      "Z3",
+      "Z4"
+     ],
+     "nota": "Trampa LeyChile confirmada (2 puntos solitarios, 2 tablas imagen). Tabla I: calle General Gambino asimilada a Z4. Tabla II: 2 tramos de parque asimilados a Z1Sur/Z4/Z1Norte y Z3/Z4. No define parametros nuevos. Coincide con nota_fase3."
+    },
+    {
+     "id": "conchali_63ecbc762a",
+     "archivo": "extraccion_normas\\conchali\\conchali_292_zonas_zm_zr_ze_zch_z1_zav_zes_es2_pag7-23.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 17,
+     "zonas_codigos": [
+      "ZM-1",
+      "ZM-2",
+      "ZM-3",
+      "ZM-4",
+      "ZM-5",
+      "ZM-6",
+      "ZM-7",
+      "ZR-1",
+      "ZR-2",
+      "ZE-1",
+      "ERD",
+      "ZCH-1",
+      "Z1",
+      "ZAV",
+      "Z2",
+      "ZES-1",
+      "Es-2"
+     ],
+     "nota": "Confirmada trampa: los 3 cuadros por zona (Uso de Suelo/Normas de Edificacion/Loteos) son imagen pura, texto solo deja un punto -- toda la transcripcion viene del render. Nomenclatura discrepante dentro del propio documento: Art.15 llama ZI-1,ZEs-1,ZEs-2 a las zonas que el Art.16 titula Z1,ZES-1,Es-2 -- se uso la grafia del cuerpo normativo (Art.16). ERD (Equipamiento Recreacional Deportivo, Estadio Municipal) no estaba en la lista de fase3, se incluyo por integridad al aparecer en el mismo tramo. ZCH-1,ZAV,Es-2 no traen tabla de edificacion (remiten a zona contigua/OGUC o son solo uso de suelo). ZM-6 trae dos valores de altura maxima (28m y 22m) sin criterio de aplicacion visible; fila Residencial de ZES-1 muestra celda prohibidos con texto aparentemente mal reimpreso -- ambos bajados a confianza MEDIA/BAJA puntual dentro del archivo."
+    }
+   ]
+  },
+  {
+   "comuna": "yumbel",
+   "region": "08",
+   "geojson_file": "08_PRC_Yumbel.json",
+   "geojson_existe": true,
+   "salida_json": "08_yumbel.json",
+   "tier": 1,
+   "zonas_total": 20,
+   "markdowns": [
+    {
+     "id": "yumbel_f3582f265f",
+     "archivo": "extraccion_normas/yumbel/yumbel_zonificacion_usos_suelo_normas_especificas_pag7-13.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 20,
+     "zonas_codigos": [
+      "H1",
+      "H2",
+      "H3",
+      "H4",
+      "ZEX1",
+      "ZEX2",
+      "E",
+      "E1",
+      "E2",
+      "E3",
+      "E4",
+      "E5",
+      "CP",
+      "C",
+      "ZI",
+      "ZPE",
+      "ZRF",
+      "ZRP",
+      "ZPI",
+      "PFC"
+     ],
+     "nota": "Cap.IV Art.21-22 completo (pag7-13). 20 zonas transcritas (nota_fase3 solo listaba 9: H1,H2,E,E3,E4,ZI,ZPE,ZPI,PFC -- se encontraron ademas H3,H4,ZEX1,ZEX2,E1,E2,E5,CP,C,ZRF). Metodo TEXTO nativo (pdftotext -layout), verificado visualmente contra render 200dpi de las 7 paginas del rango sin discrepancias. Confianza MEDIA (no ALTA) por un solo caveat real: el encabezado 'Zona de Extension Urbana 2, ZEX 2' esta ausente en el PDF fuente (confirmado visualmente, no es artefacto de extraccion) -- el segundo bloque de parametros en pag9 se atribuye a ZEX2 por descarte logico (unico bloque restante antes de Areas Especiales, Art.21 anuncia exactamente 2 zonas ZEX). Otros hallazgos: zonas C, ZPE y PFC solo tienen usos permitidos/prohibidos sin cuadro de subdivision/edificacion en el original (no inventado, asi esta impreso); ZPI solo trae subdivision predial y frente, sin COS/CC/altura/agrupamiento/antejardin. Cap.V Vialidad excluido correctamente segun rango asignado."
+    }
+   ]
+  },
+  {
+   "comuna": "san_carlos",
+   "region": "08",
+   "geojson_file": "08_PRC_San_Carlos.json",
+   "geojson_existe": true,
+   "salida_json": "08_sancarlos.json",
+   "tier": 1,
+   "zonas_total": 13,
+   "markdowns": [
+    {
+     "id": "san_carlos_c6a4e1b97f",
+     "archivo": "extraccion_normas/san_carlos/san_carlos_do_zonas_zhmc_zh1_zh2_zh3_ze_zed_zes_zp1_zp2_zeh1_zeh2_zet_zpd_pag6-11.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 13,
+     "zonas_codigos": [
+      "ZHMC",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZE",
+      "ZED",
+      "ZES",
+      "ZP1",
+      "ZP2",
+      "ZEH-1",
+      "ZEH-2",
+      "ZET",
+      "ZPD"
+     ],
+     "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) que se cruzaron sin saberlo -- AMIGO1 termino primero (fin 21:08:31) y quedo registrado como HECHO con archivo san_carlos_39577_2010_13zonas_pag6-11.md (362 lineas, 32105 bytes, formato condensado/resumen). SESION4 detecto el choque al intentar pushear su registro (ya en curso, subagente no tenia forma de saberlo) y comparo ambas versiones linea por linea, zona por zona, valor por valor. RESULTADO DE LA COMPARACION: los 13x12=156 valores numericos/textuales de las 12 tablas de Edificacion (todas menos ZPD) son IDENTICOS entre ambas transcripciones, incluida la tabla de franjas de proteccion contra incendios forestales del Art.27 donde SESION4 habia corregido un \"26\" a \"25\" en un borrador propio anterior -- AMIGO1 tambien transcribe \"25\", confirmando de forma cruzada e independiente que 25 es el valor correcto. Ambas sesiones tambien detectaron, de forma independiente, los mismos 2 hallazgos secundarios: (1) la fila Comercio de ZH-2 no lleva \"excepto discotecas\" a diferencia de ZHMC/ZH-1; (2) el titulo de la tabla de edificacion de ZET esta impreso como \"ZONA ZET-D\" sin que exista tal zona en el listado del Art.35. Esta doble coincidencia independiente en cifras y hallazgos es fuerte evidencia de que ambas transcripciones son fieles a la fuente -- no hay error de contenido en ninguna. DIFERENCIAS DE ALCANCE (no de exactitud): la version SESION4 es sustancialmente mas completa -- incluye transcripcion VERBATIM integra de los Art.10 a 34 (Titulo IV completo + Titulo V Cap.I completo), mientras AMIGO1 los resume en parrafos propios; SESION4 incluye ademas Titulo VI (Conservacion Historica, tabla de 5 inmuebles incl. Casa de Violeta Parra), Titulo VII (Ornato), el cierre de toma de razon de Contraloria, y el aviso INAPI, ninguno de los cuales aparece en AMIGO1. SESION4 tambien documenta un hallazgo metodologico que AMIGO1 no señala: la ubicacion real de \"adosamiento/rasantes/antejardin\" no es \"Titulo IV Cap.I pag6-7\" (como decia fase3) sino Art.28-30 del Titulo V Cap.I, pag8 -- verificado 2 veces sobre los encabezados de Titulo/Capitulo. Un matiz menor de fidelidad literal (no de contenido): en la zona ZE, campo \"Condiciones especiales\", la fuente tiene un error gramatical real (\"Los equipamiento... ,deberan...\" con concordancia y coma irregulares) -- SESION4 lo preserva con [sic] tal como exige el estandar del proyecto, AMIGO1 lo normaliza silenciosamente a \"Los equipamientos... deberan...\". Por la mayor completitud (transcripcion verbatim vs resumen, cobertura de Titulo VI/VII y cierre institucional) y mayor fidelidad literal, se elige la version SESION4 como resultado canonico de este registro. El archivo de AMIGO1 se deja intacto en el repo (no se borro contenido ajeno) pero ya no es el referenciado por este registro. NOTA SUSTANTIVA DE LA EXTRACCION (SESION4, ver tambien nota anterior mas abajo para el detalle completo de hallazgos): DO 03-02-2010 \"Promulga Plan Regulador Comunal de San Carlos\", Ordenanza Local completa, pag6-11. 13 zonas confirmadas exactas a fase3 (conteo propio independiente contando encabezados \"NORMAS URBANISTICAS DE LA ZONA...\"): ZHMC, ZH-1, ZH-2, ZH-3, ZE, ZED, ZES, ZP1, ZP2, ZEH-1, ZEH-2, ZET, ZPD. Tabla usos+edificacion completas en 12 de 13 -- unica excepcion ZPD (zona proteccion drenaje, solo 2 lineas remitiendo a Art.25/26, sin cuadro por diseño). .txt de apoyo inutil (6 bytes, solo saltos de pagina) -- transcripcion 100% visual sobre imagen a 250dpi con zooms 3x-6x dirigidos. HALLAZGO METODOLOGICO PRINCIPAL (corrige ubicacion de fase3): \"adosamiento/rasantes/antejardin\" NO estan en \"Titulo IV Cap.I pag6-7\" como decia fase3 -- son en realidad Art.28/29/30 del Titulo V Cap.I \"De la Edificacion\", pag8, justo antes del cuadro de las 13 zonas; el verdadero Titulo IV Cap.I se llama \"De la Urbanizacion\" (Art.11-12) y no trata esas materias; \"Estacionamientos\" (Art.10) es cola de un titulo anterior al IV. 0 trampa comuna ajena (revisados los 5 \"centros urbanos\" de vialidad p6, el topo \"Cachapoal\" verificado como sector propio de San Carlos con una sola C, coincide con nota marginal de Contraloria sobre errata \"Cacchapoal\" en el resuelvo primero fuera de este rango). Unico contenido ajeno real: aviso publicitario INAPI del propio Diario Oficial en p11 (no es otra comuna). HALLAZGOS adicionales: heterogeneidad de formulas \"sin valor\" entre zonas; grafia \"ZP1/ZP2\" sin espacio en Art.35 vs \"ZP 1/ZP 2\" con espacio en encabezados propios; fila \"Permitida\" en femenino unica vez (ZP1); celda \"Industria\" en blanco en fila Molesta de ZP2. 0 usos de Dato no determinable. Confianza alta uniforme en las 6 paginas."
+    }
+   ]
+  },
+  {
+   "comuna": "fresia",
+   "region": "10",
+   "geojson_file": "10_PRC_Fresia.json",
+   "geojson_existe": true,
+   "salida_json": "10_fresia.json",
+   "tier": 1,
+   "zonas_total": 9,
+   "markdowns": [
+    {
+     "id": "fresia_e6c11a7fa1",
+     "archivo": "extraccion_normas/fresia/fresia_do63_zonas_zu1_zu2_zu3_zex1_zex2_ze1_ze2_zr1_zr2_pag15-20.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 9,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "Z EX-1",
+      "Z EX-2",
+      "ZE-1",
+      "ZE-2",
+      "ZR-1",
+      "ZR-2"
+     ],
+     "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y AMIGO1) que se cruzaron sin saberlo -- AMIGO1 termino primero (15:26-15:32 UTC) y quedo registrado brevemente como HECHO con archivo fresia_63_2003_zu1_zu3_zex1_zex2_ze1_ze2_zr1_zr2_pag15-20.md (183 lineas, nota de una linea 'via pdftotext -layout + cotejo visual'). SESION4 detecto el choque al intentar pushear su propio resultado (ya en curso, subagente no tenia forma de saberlo) y comparo ambas versiones releyendo directamente las imagenes fuente (pag16 y pag19) para dirimir, no solo por volumen de detalle. Verificacion directa encontro que la version SESION4 es mas precisa en varios puntos factuales concretos donde AMIGO1 normalizo silenciosamente el texto original: (1) separador decimal -- la fuente usa PUNTO en la mayoria de zonas (confirmado en pag16 ZU-1: '0.9'/'3.6') pero COMA especificamente en ZE-1 (confirmado en pag19: '0,8'/'1,6') -- AMIGO1 uso coma en TODAS las zonas por igual, perdiendo esta inconsistencia real de la fuente; (2) puntuacion/espaciado literal de encabezados de zona -- pag19 confirma 'ZONA EQUIPAMIENTO DEPORTIVO Z E - 1' (espacios antes/despues del guion) y 'ZONA EQUIPAMIENTO. CEMENTERIO. ZE - 2' (con puntos), AMIGO1 normalizo a 'ZE-1'/'ZE-2' sin espacios ni puntos; (3) errata de ZE-1 c2 -- fuente dice literalmente 'Frente predial minima 25 m2.' (concordancia de genero incorrecta 'minima' en vez de 'minimo', y unidad de superficie 'm2' para una medida lineal), AMIGO1 lo escribio como 'Frente predial minimo | 25 m' -- corrigiendo silenciosamente ambos errores de la fuente. En sustancia (valores numericos de fondo, codigos de zona, usos permitidos/prohibidos) ambas versiones coinciden y se validan mutuamente -- no hay error de contenido en ninguna, solo de fidelidad literal, que es exactamente el estandar que este proyecto ha priorizado consistentemente (preservar erratas con [sic], no autocorregir, documentar inconsistencias de formato como hallazgo). Por eso se elige la version SESION4 como resultado canonico. El archivo de AMIGO1 se deja intacto en el repo (no se borro contenido ajeno) pero ya no es el referenciado por este registro. NOTA SUSTANTIVA DE LA EXTRACCION (SESION4): Resolucion/Decreto 63 (2003) 'AFECTA', Art.29 pag15-20, doble verificacion texto nativo + imagen con 19 recortes zoom. 9 zonas confirmadas exactas a fase3. HALLAZGO principal: estructura c1-c10 NO homogenea -- solo ZU-1 llega a c10 e incluye altura de edificacion; ZU-2/ZU-3/Z EX-1/Z EX-2/ZE-1 llegan solo a c7 sin altura; ZE-2 y ZR-1 no tienen sistema c1-c10 en absoluto. HALLAZGO: 'Equipamiento Mediano' ausente identicamente en Z EX-1 y Z EX-2. HALLAZGO: tras el cierre firmado del decreto en p20, la pagina continua con un 'CAPITULO V' vacio y luego 'CAPITULO IV' que reinicia la seccion de zonificacion -- no es trampa comuna ajena, alerta para quien procese pag21-28. 0 usos de Dato no determinable. Confianza alta uniforme en las 6 paginas."
+    }
+   ]
+  },
   {
    "comuna": "frutillar",
    "region": "10",
@@ -28,6 +559,687 @@
       "V"
      ],
      "nota": "9 zonas completas en prosa (art.10): predial 160-2000m2, ocupacion 10-70%, rasante 30-60 grados, antejardin 2-10m, agrupamiento variado. Art.11 (cuadro resumen) no digitalizado por BCN pero valores ya estan en prosa del art.10, transcritos integros. Zona V sin condiciones (forestacion). Coincide con nota_fase3."
+    }
+   ]
+  },
+  {
+   "comuna": "linares",
+   "region": "07",
+   "geojson_file": "07_PRC_Linares.json",
+   "geojson_existe": true,
+   "salida_json": "07_linares.json",
+   "tier": 2,
+   "zonas_total": 59,
+   "markdowns": [
+    {
+     "id": "linares_11af6748de",
+     "archivo": "extraccion_normas\\linares\\linares_1962-2024_enmienda2_zonas_z3_z5_z10_pag2-3.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 3,
+     "zonas_codigos": [
+      "Z-3",
+      "Z-5",
+      "Z-10"
+     ],
+     "nota": "3 tablas comparativas Dice/Debe decir transcritas completas. Z-3: solo antejardin cambia (3m generico -> exento en poligono especifico de calles). Z-5: solo predial minimo 120->156m2. Z-10: COS 0,4->0,52, CC 3->3,9, antejardin generico 15m -> normas diferenciadas por tramo de via. p4-5 vialidad fuera de alcance."
+    },
+    {
+     "id": "linares_f859ef1614",
+     "archivo": "extraccion_normas\\linares\\linares_34_prc1990_zonas_completas_pag2-4.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 13,
+     "zonas_codigos": [
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z4",
+      "Z5",
+      "ZI-1",
+      "ZI-2",
+      "ZE-1",
+      "ZE-2",
+      "ZR1",
+      "ZR2",
+      "ZR3",
+      "ZR4"
+     ],
+     "nota": "Confirma nota_fase3 exacta: 13 zonas del PRC de Linares 1990 completas, reordenadas correctamente pese al desorden OCR de columnas. Confirmada trampa comuna ajena en p1 (Estacion Central) y salto de paginas 6-7 faltantes en el DO original. Vialidad (Cap.V, art.27-29) correctamente excluida."
+    },
+    {
+     "id": "linares_9578417ea8",
+     "archivo": "extraccion_normas/linares/linares_ord4_z1_z10_ze_zap_pag8-13.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 12,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-6",
+      "Z-7",
+      "Z-8",
+      "Z-9",
+      "Z-10",
+      "ZE",
+      "ZAP"
+     ],
+     "nota": "Ordenanza Municipal N4 Linares. 12 zonas, render visual 200dpi pag8-13."
+    },
+    {
+     "id": "linares_97505091b5",
+     "archivo": "extraccion_normas/linares/linares_784_2019_enmienda1_z1_z2_z4_z6_z8_z10_pag3-8.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 6,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-4",
+      "Z-6",
+      "Z-8",
+      "Z-10"
+     ],
+     "nota": "Decreto 784/2019, enmienda N1. 6 zonas enmendadas (Donde Dice/Debe Decir), render visual 200dpi pag3-8. Z-3,Z-5,Z-7,Z-9,ZE,ZAP no modificadas por este decreto."
+    },
+    {
+     "id": "linares_18df578732",
+     "archivo": "extraccion_normas\\linares\\linares_ordlocal_zonificacion_z1-z10_ze_zap_zav.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 13,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-6",
+      "Z-7",
+      "Z-8",
+      "Z-9",
+      "Z-10",
+      "ZE",
+      "ZAP",
+      "ZAV"
+     ],
+     "nota": "HALLAZGO: nota_fase3 solo listaba Z-1 a Z-9 + ZE/ZAP/ZAV (12 zonas); el rango real p9-16 trae una zona adicional Z-10 (paginas 12-13) no mencionada en la nota, con usos y condiciones propias -- se transcribio completa. ZAV es descriptiva, sin cuadro de condiciones de subdivision/edificacion (confirmado, no omision). p16 no tiene zona propia, solo texto descriptivo de zonas no edificables (fajas electricas) y faja de proteccion ferroviaria -- incluido como nota al final, no como zona con --zonas-codigos."
+    },
+    {
+     "id": "linares_730334327e",
+     "archivo": "extraccion_normas/linares/linares_92_2017_estacionamientos_z1_z10_ze_zap_pag10-17.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 12,
+     "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-4",
+      "Z-5",
+      "Z-6",
+      "Z-7",
+      "Z-8",
+      "Z-9",
+      "Z-10",
+      "ZE",
+      "ZAP"
+     ],
+     "nota": "PRC Linares 2017 (Diario Oficial N41.924). p10-12: cuadro completo de estandares de estacionamientos Art.7 (13 categorias de uso, automoviles+bicicletas), cuadro de ochavos (cont. Art.5), listado oficial de zonas Art.10. p13-17: Art.11 zonas Z-1 a Z-10, ZE, ZAP completas -- valores coinciden exactamente (verificado celda a celda) con linares_ord4 (id linares_9578417ea8), confirmando ambas transcripciones de forma cruzada contra el Diario Oficial (fuente primaria). Aporte nuevo al corpus: cuadro de estacionamientos, no capturado antes en Linares. Metodo 100% visual 250dpi + recortes ampliados en tabla Industria/Almacenamiento (celdas fusionadas verticalmente). ADVIERTE explicitamente: PRC 2017 (Z1-Z10/ZE/ZAP) distinto del PRC 1990 (linares_f859ef1614, Z1-Z5/ZI/ZE/ZR)."
+    }
+   ]
+  },
+  {
+   "comuna": "molina",
+   "region": "07",
+   "geojson_file": "07_PRC_Molina.json",
+   "geojson_existe": true,
+   "salida_json": "07_molina.json",
+   "tier": 2,
+   "zonas_total": 42,
+   "markdowns": [
+    {
+     "id": "molina_7b21ea12db",
+     "archivo": "extraccion_normas\\molina\\molina_2922_modificacion_zu_zap.md",
+     "categoria": "MODIFICACION_PRC",
+     "zonas": 8,
+     "zonas_codigos": [
+      "ZU-no-identificada",
+      "ZU-2b",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZAP"
+     ],
+     "nota": "Confirmada 7a zona (ZAP) que nota_fase3 no habia verificado visualmente. Ademas se incluyo una tabla adicional sin encabezado de zona (continuacion de p2, fuera de rango) con valores reales, marcada como no identificada. Todas las tablas Actual/Reemplazado transcritas desde imagen. Verificado contra nota_fase3: coincide y amplia con ZAP y zona no identificada."
+    },
+    {
+     "id": "molina_b33b044b0c",
+     "archivo": "extraccion_normas/molina/molina_52_prc_normas_urbanisticas_16zonas_pag15-21.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 18,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-2b",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZE-6",
+      "ZAP",
+      "ZAV",
+      "ZPL",
+      "ICH"
+     ],
+     "nota": "RECONCILIACION DE TRABAJO DUPLICADO (TRIPLE): este item fue reclamado por tres sesiones -- AMIGO1, GREGO1 y SESION4 -- de forma independiente. GREGO1 ya habia reconciliado su version contra la de AMIGO1 (100% convergentes en 18 zonas, misma nota de ZU-2b y de ICH incompleto) y quedo registrado como HECHO con archivo molina_52_2022_zonas_zu_ze_zap_zav_pag15-21.md (506 lineas), descartando el duplicado de AMIGO1. SESION4 detecto el choque contra GREGO1 al pushear y comparo ambas versiones zona por zona, valor por valor, incluyendo verificacion cruzada contra el documento hermano ya existente en el repo molina_2922_modificacion_zu_zap.md (que ambas partes citan como fuente de validacion independiente para 6 zonas). RESULTADO DE LA COMPARACION: la gran mayoria de valores coincide exactamente (16 zonas con cuadro completo + ZPL + ICH = 18 codigos en ambas, mismos usos de suelo, mismas normas de subdivision/edificacion en 14 de las 16 zonas). SE ENCONTRO UN ERROR REAL (no solo diferencia de completitud) EN LA VERSION GREGO1, CONFIRMADO POR FUENTE INDEPENDIENTE: la tabla de \"Normas de subdivision y edificacion\" de GREGO1 OMITE la fila \"Antejardin\" en las zonas ZU-4 y ZU-5. SESION4 SI trae esa fila (ZU-4: 3m/3m; ZU-5: 3m) y esto se CONFIRMA de forma independiente contra molina_2922_modificacion_zu_zap.md, que en su seccion \"ZU-4 -- Actual\" y \"ZU-5 -- Actual\" (transcrita en fase previa, antes de que existiera colision alguna) muestra explicitamente Antejardin=3m para ambas zonas. Es decir, el parametro SI existe en la fuente y GREGO1 lo omitio en su transcripcion -- no es una diferencia de estilo, es una fila faltante. INCERTIDUMBRE GENUINA PRESERVADA (no resuelta, ninguna version se impone sobre la otra): en la zona ZU-2, SESION4 transcribe el separador decimal como mixto dentro del propio cuadro fuente (COS Residencial/Equipamiento \"0.4\"/\"0.5\" con punto; CC Residencial \"0,8\" con coma pero CC Equipamiento \"1.0\" con punto -- doble marcado [sic] en el archivo SESION4), mientras GREGO1 transcribe los 4 valores uniformemente con coma chilena (\"0,4\"/\"0,5\"/\"0,8\"/\"1,0\"). El documento hermano molina_2922 no cubre la zona ZU-2 (el decreto 2922/2023 no la modifica), por lo que no sirve para arbitrar este punto especifico, y no fue posible re-verificar contra el render de imagen en este momento. Se deja constancia expresa de esta discrepancia sin resolverla -- si se retoma este documento, conviene re-verificar con zoom la fila COS/CC de ZU-2 en la pagina 16 del PDF fuente. DIFERENCIA DE COMPLETITUD ADICIONAL: SESION4 incluye ademas indice de cobertura con pagina y tipo de cuadro por zona, y documenta explicitamente 4 inconsistencias tipograficas mas de la fuente (separador de miles inconsistente en predial minima, doble nombre de ZAP entre Art.4.2 y Art.4.3, \"Cerrrillo\" con triple r en ICH5, variantes de rotulo \"EDIFICACION\"/\"EDIFICACIÓN\"). Por el error confirmado (antejardin ZU-4/ZU-5) mas la completitud adicional, se elige la version SESION4 como resultado canonico. El archivo de GREGO1 se deja intacto en el repo, ya no referenciado por este registro. NOTA SUSTANTIVA (SESION4, ya documentada en el propio archivo): Decreto 52/2022 PRC Molina, DO 43.420, 7-dic-2022, pag15-21 de 30, Art.4.2-4.3. Trampa nueva confirmada (tablas por zona en imagen dentro de PDF nativo Diario Oficial 2022). 18 codigos totales: 16 con cuadro normativo completo (incluye ZU-2b no explicitada por fase3) + ZPL e ICH que son catastros de proteccion sin cuadro de COS/CC/altura (no zonas edificables). Cruce de validacion externo: 6 de las 16 zonas coinciden exactamente con los valores \"Actual\" de molina_2922_modificacion_zu_zap.md. Sin comuna ajena (Molina/Lontue/Radal/Siete Tazas, las 4 dentro de la comuna). Confianza alta."
+    },
+    {
+     "id": "molina_b3e4da9918",
+     "archivo": "extraccion_normas\\molina\\molina_ordenanza_local_zonas_zu_ze_zap_zav_pag12-19.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 16,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-2b",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZE-6",
+      "ZAP",
+      "ZAV"
+     ],
+     "nota": "Coincide con nota_fase3 salvo 2 matices: ZU-7 trae cuadro de usos inusualmente acotado (solo Residencial + Equipamiento Cientifico y Culto/Cultura, sin Comercio/Deporte/Educacion) -- verificado visualmente, marcado confianza MEDIA en esa seccion. ZE-2 carece de columna Tipos explicita (solo Clases). Resto de zonas y numeros nitidos en render 250dpi, sin ilegibles. ZAV sin fila de COS (solo CC) -- No especificado, no inventado. Nota: este es un documento distinto (Ordenanza Local PRC Molina, 26p) al decreto 52/2022 ya registrado para la misma comuna -- mismas 16 zonas base, corpus complementario, sin fusionar."
+    }
+   ]
+  },
+  {
+   "comuna": "cauquenes",
+   "region": "07",
+   "geojson_file": "07_PRC_Cauquenes.json",
+   "geojson_existe": true,
+   "salida_json": "07_cauquenes.json",
+   "tier": 2,
+   "zonas_total": 28,
+   "markdowns": [
+    {
+     "id": "cauquenes_3dcb951602",
+     "archivo": "extraccion_normas\\cauquenes\\cauquenes_3519_enmienda_n1.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 1,
+     "zonas_codigos": [
+      "ZM3"
+     ],
+     "nota": "Enmienda de una sola norma (altura maxima 18m) para ZM3; resto de la tabla ZM3 no modificado y no presente en el documento. Verificado contra nota_fase3: coincide."
+    },
+    {
+     "id": "cauquenes_f0dfd12ea8",
+     "archivo": "extraccion_normas\\cauquenes\\cauquenes_decreto_exento_1033_enmienda_02.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 1,
+     "zonas_codigos": [
+      "ZM2"
+     ],
+     "nota": "Enmienda de una sola norma (altura maxima 14,40 m, +20%) para ZM2; escaneo con OCR pobre pero render nitido confirma el valor en tabla. Resto de ZM2 no modificado. Verificado contra nota_fase3: coincide."
+    },
+    {
+     "id": "cauquenes_bc983b59f8",
+     "archivo": "extraccion_normas/cauquenes/cauquenes_500_zm_zh_ze_zap_zi_zav_zne_zri_zch_pag18-24.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 15,
+     "zonas_codigos": [
+      "ZM1",
+      "ZM2",
+      "ZM3",
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZE1",
+      "ZE2",
+      "ZAP",
+      "ZI",
+      "ZAV",
+      "ZNE",
+      "ZRI1",
+      "ZRI2",
+      "ZCH"
+     ],
+     "nota": "15 zonas, escaneado sin capa de texto, 100% visual. Filas ausentes de antejardin/densidad documentadas. ZE2/ZAV/ZNE/ZRI1 sin cuadro propio. ZRI2 remite a ZM2 (verificado). ZCH con unico parametro numerico (altura 10m)."
+    },
+    {
+     "id": "cauquenes_3d38696675",
+     "archivo": "extraccion_normas/cauquenes/cauquenes_500_zonas_zm1_zm2_zm3_zh1_zh2_zh3_ze1_ze2_zap_zi_zav_pag8-17.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 11,
+     "zonas_codigos": [
+      "ZM1",
+      "ZM2",
+      "ZM3",
+      "ZH1",
+      "ZH2",
+      "ZH3",
+      "ZE1",
+      "ZE2",
+      "ZAP",
+      "ZI",
+      "ZAV"
+     ],
+     "nota": "RECONCILIACION DE TRABAJO DUPLICADO: este item fue completado independientemente por dos sesiones (SESION4 y GREGO3) -- GREGO3 quedo registrado primero como HECHO con archivo cauquenes_500_2009_ordenanza_local_pag8-17.md (95 lineas, formato prosa condensada). SESION4 detecto el choque al pushear y comparo ambas versiones zona por zona, valor por valor. RESULTADO: TODOS los valores numericos de las 11 zonas coinciden EXACTAMENTE entre ambas transcripciones (predial, COS, CC, altura, agrupamiento, antejardin, densidad, y hasta el detalle de \"Distancia a Medianeros\" exclusivo de ZE1) -- cero discrepancia de cifra. GREGO3 confirma ademas de forma independiente los 2 hallazgos mas contraintuitivos de SESION4: la asimetria ZAP (Educacion G3-G4) vs ZI (Educacion G1-G2-G3-G4) y la identidad de usos de suelo entre ZH2 y ZH3. UNICA DUDA GENUINA (no resuelta, se deja constancia sin forzar una lectura sobre otra): en ZM1/Seguridad, SESION4 interpreta que la nota al pie \"Solo se permite en la Localidad de Santa Sofia\" aplica al par G1-G2 completo (marcador (*) tras \"G1-G2\"), mientras GREGO3 la interpreta como aplicable solo a G2 (\"G1-G2 (nota: G2 solo se permite en la Localidad de Santa Sofia)\"). No fue posible re-verificar contra el render de imagen en este momento; se recomienda zoom dedicado a esa celda si se retoma el documento. DIFERENCIA DE COMPLETITUD (razon de esta reconciliacion): la version SESION4 preserva el cuadro G1-G5 en formato tabla verbatim con las erratas [sic] de la fuente marcadas individualmente (\"restoranes\", \"tecnologico y o la\", \"de de Fondos de Pensiones\" duplicado, concordancias de genero \"practico\"/\"privado\"), mientras GREGO3 normaliza silenciosamente esas erratas al transcribir en prosa; SESION4 ademas hace verificacion aritmetica EXTERNA cruzando contra las 2 enmiendas posteriores ya en el repo (14,40/1,20=12,00 exacto para ZM2; +20% implicito consistente para ZM3), detecta el erratum de referencia cruzada interna del Art.23 (\"Articulo 21\" en vez de \"Articulo 22\"), y documenta explicitamente la verificacion de trampa comuna ajena con evidencia textual. GREGO3 no incluye ninguno de estos tres elementos. Por esta diferencia de completitud y fidelidad (no de exactitud, que es nula salvo la duda genuina senalada), se elige la version SESION4 como resultado canonico. El archivo de GREGO3 se deja intacto en el repo, ya no referenciado por este registro.\n\nOrdenanza Local PRC Cauquenes (Decreto 500/2009, LeyChile/BCN), pag8-17 de 24. 11 zonas del literal a) Area Urbana confirmadas exactas al encargo y al indice del Art.23: ZM1, ZM2, ZM3, ZH1, ZH2, ZH3, ZE1, ZE2, ZAP, ZI, ZAV -- ninguna de mas ni de menos, verificado dos veces. HALLAZGO PRINCIPAL no anticipado por fase3: la nota decia \"DOS cuadros por zona\" para las 11 zonas, pero ZE2 (Cementerio) y ZAV (Area Verde) no tienen ningun cuadro numerico -- se regulan enteramente en prosa remitiendo a Codigo Sanitario/OGUC art.2.6.3 (ZE2) y OGUC art.2.1.31 (ZAV). Transcrita completa la tabla clave de Grupos G1-G5 (Art.14, pag9), imprescindible porque las 9 zonas con cuadro la referencian. Mas de 25 recortes con zoom (1,4x-4x, PIL, varios con autocontraste) sobre celdas dudosas -- 0 \"Dato no determinable\" en todo el documento, todo resultó legible. VERIFICACION ARITMETICA EXTERNA (cruce con 2 enmiendas posteriores ya en el repo, no editadas ni usadas como fuente de valores, solo como control): Decreto Exento 1033 fija nueva altura ZM2=14,40m declarando +20% respecto de la anterior -> 14,40/1,20=12,00m exacto, coincide con el valor aqui transcrito para ZM2 (confirmacion independiente); Decreto 3519 fija nueva altura ZM3=18m sin declarar porcentaje -> con el valor aqui transcrito (15m) el incremento implicito tambien es +20%, corroboracion indirecta consistente con el mismo criterio. Se advierte explicitamente que los valores de ZM2/ZM3 transcritos aqui son los originales de 2009 (los que pedia el encargo), ya no vigentes -- para que una fase posterior no los use como norma actual sin este contexto. Hallazgos adicionales no cubiertos por fase3: ZH2 y ZH3 tienen tabla de usos de suelo identica (verificado dos veces por lo inesperado) pero subdivision/edificacion distinta; ZM3 y ZE1 usan condicion en prosa en vez de codigos G para \"Comercio\"; ZAP restringe Educacion a G3-G4 mientras ZI permite G1-G2-G3-G4 (asimetria contraintuitiva, verificada dos veces); erratas [sic] en cuadro G1-G5: \"restoranes\", \"tecnologico y o la\", \"practico\"/\"privado\" sin concordancia de genero, \"de de Fondos de Pensiones\" duplicado; error de referencia cruzada interna en Art.23 (\"Articulo 21\" en vez de \"Articulo 22\"). Cuadro de estacionamiento (pag8, contexto, no es norma de zona) confirmado con precision adicional: es cola de un articulo previo (probablemente Art.12, encabezado en pag7 fuera de rango) y trae ademas subtabla \"INFRAESTRUCTURA\" no mencionada por fase3. 0 trampa comuna ajena (encabezado \"Decreto 500, CAUQUENES\" en las 10 paginas, acronimo PRCC consistente, localidades propias Santa Sofia y Cauquenes verificadas). Confianza alta uniforme. AMIGO1 tenia este item EN_PROCESO en paralelo al momento de pushear, sin resultado ni archivo -- no hay nada que reconciliar."
+    }
+   ]
+  },
+  {
+   "comuna": "navidad",
+   "region": "06",
+   "geojson_file": "06_PRC_Navidad.json",
+   "geojson_existe": true,
+   "salida_json": "06_navidad.json",
+   "tier": 2,
+   "zonas_total": 22,
+   "markdowns": [
+    {
+     "id": "navidad_7c16b45921",
+     "archivo": "extraccion_normas\\navidad\\navidad_reformulacion_zonas_a_b_c_e_r_p.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 22,
+     "zonas_codigos": [
+      "A1",
+      "A1(c)",
+      "A2",
+      "A3",
+      "A4",
+      "A4(c)",
+      "A5(c)",
+      "A6",
+      "A7(c)",
+      "B",
+      "BCD",
+      "C",
+      "E",
+      "EB1",
+      "EB2",
+      "ZR-1",
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "P1"
+     ],
+     "nota": "HALLAZGO: inconsistencia real del documento -- el listado del encabezado Art.24 llama 'R6' a la ultima zona restringida, pero la ficha de condiciones (p40) la rotula 'R5', dejado explicito en el markdown, se transcribio con el codigo de la ficha (R5). Zonas con sufijo (c) son variantes 'condicionadas' de sus zonas base, con normas propias completas, no fichas parciales. Varias zonas (A3, A6) traen condiciones adicionales para 'proyectos de densificacion' con parametros distintos a la ficha base -- ambas transcritas. ZR-1, R1-R5 y P1 no traen COS/CC formal (son zonas de restriccion/proteccion), transcrito el texto descriptivo tal cual, sin inventar valores."
+    }
+   ]
+  },
+  {
+   "comuna": "paredones",
+   "region": "06",
+   "geojson_file": "06_PRC_Paredones.json",
+   "geojson_existe": true,
+   "salida_json": "06_paredones.json",
+   "tier": 2,
+   "zonas_total": 17,
+   "markdowns": [
+    {
+     "id": "paredones_80e4dcaffc",
+     "archivo": "extraccion_normas/paredones/paredones_do3593_zonas_a_bc_zs_zt_zch_e_zd_zcem_p1_riesgo_pag9-13.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 17,
+     "zonas_codigos": [
+      "A-1",
+      "A-2",
+      "A-3",
+      "BCD",
+      "BCE",
+      "ZS1",
+      "ZT-SPA",
+      "ZCH",
+      "B-1",
+      "E",
+      "ZD",
+      "BC",
+      "ZCEM",
+      "P1",
+      "R1",
+      "R2",
+      "R3"
+     ],
+     "nota": "Decreto 3593/2014 Paredones (DO 17-dic-2014), 17 zonas/areas: 14 zonas A/B (A-1,A-2,A-3,BCD,BCE,ZS1,ZT-SPA,ZCH,B-1,E,ZD,BC,ZCEM,P1) + 3 areas de restriccion (R1 inundable,R2 remocion en masa,R3 tsunami). Verificado columna por columna (no fila por fila) contra 5 imagenes 250dpi -- el .txt intercala fragmentos de ambas columnas en la misma linea cuando coinciden en altura, lo que produce atribucion erronea si se lee fila por fila. HALLAZGO A-1/A-2 confirmado y resuelto (el bloque de valores que parece pegado a una zona en el .txt en realidad pertenece a la zona ANTERIOR en el orden real de lectura por columnas): A-1=300m2/COS0.6/CC0.9/80hab-h/sin excepcion Bucalemu; A-2=180m2/COS0.6/CC1/120hab-ha/antejardin4m/con excepcion Bucalemu; A-3=400m2/COS0.4/CC0.6/30hab-ha/antejardin6m/con excepcion Bucalemu. HALLAZGO ADICIONAL no anticipado por fase3: mismo patron de salto de columna entre B-1 y BC (pag11-12) -- el bloque 300m2/3pisos-9m/rasantes70/60hab-ha/antejardin5m pertenece a B-1, no a BC. Inconsistencia propia del decreto (no de la transcripcion): Art.4.2 clasifica Zona BC como Mixta pero en el cuerpo del texto aparece entre las Zonas Exclusivas -- se transcribio respetando la ubicacion real en el cuerpo. Campos ausentes en la fuente marcados Dato no determinable sin inventar (Antejardin/Densidad en BC, Densidad en P1 y ZD, seccion 5 ausente en A-1). Erratas tipograficas de la fuente preservadas tal cual (80 hab/h en A-1 sin la a final, Antejardin sin tilde en A-3, nomenclatura de planos inconsistente PRC-CP0x/PRCP-02/PRC-PA2 en R1/R3, mezcla de coma y punto decimal entre Zonas Mixtas y Exclusivas). Confirmado que las 3 tablas fuera de alcance (estacionamientos p8, catastro patrimonial ICH1-34 p14) no aparecen en el rango p9-13; vialidad estructurante si aparece parcialmente en columna derecha p13 pero no se transcribio, conforme al encargo. Cierre limpio confirmado: el contenido de zonas (R3.b Riesgo Alto) termina completo justo antes de Capitulo V Vialidad en p13, ninguna zona quedo a medio transcribir. Confianza alta en las 17 zonas."
+    }
+   ]
+  },
+  {
+   "comuna": "pichidegua",
+   "region": "06",
+   "geojson_file": "06_PRC_Pichidegua.json",
+   "geojson_existe": true,
+   "salida_json": "06_pichidegua.json",
+   "tier": 2,
+   "zonas_total": 17,
+   "markdowns": [
+    {
+     "id": "pichidegua_a776d94dff",
+     "archivo": "extraccion_normas\\pichidegua\\pichidegua_1460_zonas_pichidegua_pataguas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 17,
+     "zonas_codigos": [
+      "ZU-1-Pichidegua",
+      "ZU-2-Pichidegua",
+      "ZA-3-Pichidegua",
+      "ZI-Pichidegua",
+      "ZE-Pichidegua",
+      "AD-Pichidegua",
+      "ADP-Pichidegua",
+      "AV-Pichidegua",
+      "AVP-Pichidegua",
+      "ZU-1-PataguasCerro",
+      "ZU-2-PataguasCerro",
+      "ZU-3-PataguasCerro",
+      "ZEI-PataguasCerro",
+      "ZI-PataguasCerro",
+      "ZE-PataguasCerro",
+      "AD-PataguasCerro",
+      "AVP-PataguasCerro"
+     ],
+     "nota": "Documento cubre DOS localidades con zonificacion propia (Pichidegua p6-15, Pataguas Cerro p16-22), ambas usan codigos ZU-1/ZU-2 pero son zonas DISTINTAS -- se diferenciaron con sufijo -Pichidegua/-PataguasCerro en zonas-codigos para no mezclarlas. Cuadros normativos confirmados como imagen en las paginas que decia nota_fase3, transcritos desde el render. ZA-3 tiene discrepancia de nomenclatura propia del documento (encabezado dice ZA-3, articulo de zonificacion lo llama ZU-3) -- se dejo explicito, transcrito tal cual aparece."
+    }
+   ]
+  },
+  {
+   "comuna": "salamanca",
+   "region": "04",
+   "geojson_file": "04_PRC_Salamanca.json",
+   "geojson_existe": true,
+   "salida_json": "04_salamanca.json",
+   "tier": 2,
+   "zonas_total": 16,
+   "markdowns": [
+    {
+     "id": "salamanca_be46de0c89",
+     "archivo": "extraccion_normas\\salamanca\\salamanca_prc1988_zonificacion_zu_ze_zr.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 16,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZR-1",
+      "ZR-2",
+      "ZR-3",
+      "ZR-4",
+      "ZR-5",
+      "ZR-6"
+     ],
+     "nota": "HALLAZGO: nota_fase3 solo mencionaba orientativamente ZU-1 hasta ZE-2/ZR-1 a ZR-6; el Art.19 completo (p13-19) trae 16 zonas reales: 7 ZU (areas consolidadas), 3 ZE (extension urbana) y 6 ZR (areas especiales, proteccion de cauces/riesgos) -- todas transcritas. ZR-2, ZR-3, ZR-5, ZR-6 son zonas de proteccion/restriccion SIN cuadro de subdivision/edificacion en el documento original (solo texto descriptivo de usos permitidos o de la sola restriccion de forestacion) -- confirmado, no es omision. Documento de 1988: un valor de superficie predial minima en ZE-1 (vivienda en Chalinga) quedo ilegible en el escaneo, marcado como tal."
+    }
+   ]
+  },
+  {
+   "comuna": "romeral",
+   "region": "07",
+   "geojson_file": "07_PRC_Romeral.json",
+   "geojson_existe": true,
+   "salida_json": "07_romeral.json",
+   "tier": 2,
+   "zonas_total": 15,
+   "markdowns": [
+    {
+     "id": "romeral_0699cde51f",
+     "archivo": "extraccion_normas\\romeral\\romeral_2782_enmienda1_zu1.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 1,
+     "zonas_codigos": [
+      "ZU-1"
+     ],
+     "nota": "Tabla transcrita desde el render (imagen pese a anuncio en texto). Aplica solo a 2 poligonos municipales especificos (Municipalidad y colindante Surfrut); resto de ZU-1 mantiene norma original. Verificado contra nota_fase3: coincide."
+    },
+    {
+     "id": "romeral_c54b5e4949",
+     "archivo": "extraccion_normas\\romeral\\romeral_2056_enmienda_n2_zu1_pag3.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 2,
+     "zonas_codigos": [
+      "ZU-1(poligono a-b-c-d)",
+      "ZU-1(poligono e-f-g-h)"
+     ],
+     "nota": "Trampa confirmada (mismo patron que Enmienda N1): cuadros anunciados en texto son imagen. 2 poligonos municipales especificos dentro de ZU-1: predial 350m2, COS 0,78, CC 1,56, continuo, altura 9,6m; densidad 90 hab/ha (poligono abcd) vs 75 hab/ha (poligono efgh). Resto de ZU-1 mantiene texto original. Coincide con nota_fase3."
+    },
+    {
+     "id": "romeral_e854e79e6b",
+     "archivo": "extraccion_normas/romeral/romeral_do44_zonas_zu1_zu7_zav_ze1_ze4_pag14-18.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 12,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZAV",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4"
+     ],
+     "nota": "Decreto 44/2017 Romeral, Art.4.2 (Zonificacion) + Art.4.3 (Normas Urbanisticas por Zona), DO 41.766 25-may-2017 pag14-18. Trampa confirmada: tablas de Usos de Suelo y Normas de Subdivision/Edificacion en imagen, .txt solo sirve para titulos -- todos los valores leidos de PNG 250dpi con zoom 1.5x-2.5x. 12 zonas confirmadas exactas a fase3: ZU-1 a ZU-7 (Mixta/Mixta Residencial), ZAV (Area Verde), ZE-1 a ZE-4 (Equipamiento). CORRECCION a fase3: 'ZU-1 y ZU-2 completas en p14' es impreciso -- ZU-2 tiene usos de suelo en p14 pero su tabla de Normas de Subdivision esta PARTIDA, termina al inicio de p15. HALLAZGO no cubierto por fase3: mismo patron de particion de tabla se repite en ZU-7 (usos p16, normas continua p17) -- verificado con zoom en ambos cortes que no se perdio ninguna fila de Usos de Suelo. HALLAZGO no cubierto por fase3: tras completarse ZAV (ultima de las 12 zonas) en p18, empieza Art.4.4 'Areas de Proteccion de Recursos de Valor Patrimonial Cultural' (Monumento Historico + Inmuebles de Conservacion Historica) -- fuera de alcance, no transcrito en detalle, solo documentada su existencia. No se pudo verificar visualmente si Titulo 5 Vialidad empieza en p19 (fuera del material entregado). Estructura no uniforme entre zonas: ZAV sin tabla de Usos de Suelo (solo parrafo descriptivo); ZE-2/ZE-3 sin fila RESIDENCIAL ni Densidad Bruta Maxima (no admiten uso residencial); ZU-7 sin filas SALUD/SEGURIDAD/SERVICIOS/SOCIAL a diferencia de ZU-4/ZU-5. 2 celdas genuinamente vacias verificadas 2 veces con zoom (no error de extraccion): ZU-1/SEGURIDAD y ZE-4/COMERCIO, ambas columna EXCEPTO. 0 usos de 'Dato no determinable' -- todos los vacios identificados como (a) celda vacia por diseno o (b) fila/tabla ausente por no aplicar. Contexto cruzado: se referencian 2 actos posteriores que modifican SOLO 2 poligonos municipales de ZU-1 (Decreto 2782/2019 y Decreto 2056/2021, archivos ya existentes en la carpeta romeral/), no incorporados al cuadro base transcrito (correcto, tarea es sobre decreto original). Categorias 'Grupo 1-4' de equipamiento no definidas en este rango de paginas (probablemente articulo anterior fuera de alcance). Sin notas al pie numeradas pese a que la tarea anticipaba esa complejidad. Inconsistencias tipograficas menores preservadas literal (m2 vs m², ha vs há, coma faltante en ZU-4/CULTO). 0 valores inventados. Confianza alta global, uniforme en las 5 paginas."
+    }
+   ]
+  },
+  {
+   "comuna": "san_fernando",
+   "region": "06",
+   "geojson_file": "06_PRC_San_Fernando.json",
+   "geojson_existe": true,
+   "salida_json": "06_sanfernando.json",
+   "tier": 2,
+   "zonas_total": 15,
+   "markdowns": [
+    {
+     "id": "san_fernando_f37bf51f9f",
+     "archivo": "extraccion_normas/san_fernando/san_fernando_do1698_zonas_zu0_a_zu9_ze1_a_ze4_pag14-19.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 15,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZU-9",
+      "ZU-0",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZR-0"
+     ],
+     "nota": "Decreto 1698 Exento San Fernando (1997), pag14-19 (de 23). CONFIRMADA de forma independiente la alerta critica de fase3: el cuadro numerico principal (predial minima, COS, CC, altura, agrupamiento) esta AUSENTE en las 14 zonas ZU/ZE -- cada una remite literalmente 'VER D.O. DE FECHA 10.09.1998' (variante sin espacio 'D.O.DE' solo en ZU-4, unico caso). Confirmado que NO es trampa imagen: es texto tipografico nativo, sin cuadro oculto, omision real del documento disponible en este corpus. CONFIANZA MEDIA (heredada de fase3, no se pudo subir a ALTA pese a fidelidad de transcripcion perfecta): la limitacion es estructural de la fuente (requiere DO 10-09-1998 no disponible), no de esta extraccion -- confianza en la FIDELIDAD de lo transcrito es alta, pero la COMPLETITUD normativa de fondo (los 5 parametros clave x 14 zonas = 70 datos, de los cuales solo 2 estan disponibles) es baja por causas ajenas. CORRECCION aritmetica a fase3: dice '13 zonas (ZU-0 a ZU-9, ZE-1 a ZE-4)' pero ese mismo rango ya suma 14 (10 ZU + 4 ZE) -- error de conteo de fase3, no de la fuente. HALLAZGO no cubierto por fase3: superficie predial minima SI esta disponible en ZU-4 y ZE-1 (160m2, texto identico palabra por palabra en ambas, via disposiciones complementarias no via el cuadro formal, con posible rebaja Art.7.2.6 OGUC por construccion simultanea) -- COS/CC/altura/agrupamiento siguen ausentes en ambas. HALLAZGO: solo ZR-0 (Riberas Estero Antivero, sin cuadro por diseño -- zona de proteccion de cauce remitida a Plano PR SF-1) cae dentro del rango 14-19; las demas zonas ZR que fase3 menciona (oleoductos, alta tension, aerodromos) estan en pag20+ fuera de rango, no confirmables. Disposiciones complementarias con datos sueltos si capturadas: densidades min/max por zona (ZU-3:400min, ZU-4:300min, ZU-5:100max, ZE-1:350min, ZE-2:200max), prediales de casos especiales para talleres/gas licuado (ZU-3:1000m2/25ml, ZE-1:500m2/15ml), clausulas de resguardo para predios preexistentes bajo estandar (indicios indirectos del predial real, NO confirmados, se dejaron como Dato no determinable igual), rebajas 50% permisos por reconstruccion (ZU-1,ZU-3,ZU-0), retiro pisos altos (ZU-0). 0 trampa comuna ajena. Recomendacion de fase3 de conseguir el DO 10-09-1998 CONFIRMADA como necesaria para completar este registro en el futuro."
+    }
+   ]
+  },
+  {
+   "comuna": "chepica",
+   "region": "06",
+   "geojson_file": "06_PRC_Chepica.json",
+   "geojson_existe": true,
+   "salida_json": "06_chepica.json",
+   "tier": 2,
+   "zonas_total": 13,
+   "markdowns": [
+    {
+     "id": "chepica_3fda0422ca",
+     "archivo": "extraccion_normas/chepica/chepica_do79_zonas_zch_zu_ze_zex_zav_zes_zur_pag6-8_12-13.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 13,
+     "zonas_codigos": [
+      "ZCH-1",
+      "ZCH-2",
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZAV",
+      "ZE-1",
+      "ZE-2",
+      "ZEX",
+      "ZES-1",
+      "ZES-2",
+      "ZUR-1",
+      "ZUR-2"
+     ],
+     "nota": "Ordenanza Local 79/2009, PRC Chepica (localidades Chepica y Auquinco comparten tabla). Art.4.1.1-3, 13 zonas confirmadas exactas vs fase3 (orden real difiere: ZAV va antes de ZE-1/ZE-2/ZEX). Texto nativo 2 columnas -- pdftotext -layout empareja horizontalmente lineas de columnas que NO son del mismo parrafo (distinta velocidad vertical); se transcribio leyendo cada columna completa de la imagen, anclada por letras de zona a-m, NO por el orden de lineas del txt. Autocorreccion documentada: primer pase confundio los bloques de condiciones de ZU-2 y ZE-1 (contaminacion cruzada de columnas), detectado y corregido releyendo imagen en alta resolucion antes de la version final. Regla especial calles 18 de Septiembre/Manuel Montt (ZU-1, solo Chepica, exige edificacion continua) confirmada igual a fase3. Estructuras no homogeneas documentadas sin forzar uniformidad: ZAV sin numerar i/ii/iii, ZEX sin parrafo descriptivo, ZUR-1 SIN tabla de usos/condiciones (solo franja de restriccion hidrologica 5m), ZCH-2 sin fila Adosamientos, ZUR-2 sin fila Densidad. DISCREPANCIA relevante con fase3: la advertencia de 'listados patrimoniales Cuadros 8/9/10 muy degradados' en p12 es incorrecta -- p12-13 contienen Cuadro8 (vialidad Chepica) + Cuadro9 (vialidad Auquinco) + Cuadro10 (estacionamientos), NINGUNO patrimonial. El txt de Cuadros 8/9 si esta muy degradado pero la IMAGEN en zoom alta resolucion resulto legible confianza media-alta (transcritos completos, con un punado de celdas puntuales marcadas ambiguas: ancho by-pass 60 vs 80, un estado ilegible en Auquinco, un digito borroso). Cuadro 10 nitido, confianza alta. Sesion mas larga del lote (69 tool uses, 247k tokens) por el volumen (13 zonas + 2 cuadros viales grandes). 0 valores inventados."
+    }
+   ]
+  },
+  {
+   "comuna": "donihue",
+   "region": "06",
+   "geojson_file": "06_PRC_Donihue.json",
+   "geojson_existe": true,
+   "salida_json": "06_donihue.json",
+   "tier": 2,
+   "zonas_total": 13,
+   "markdowns": [
+    {
+     "id": "donihue_4cd663b29b",
+     "archivo": "extraccion_normas/donihue/donihue_do56_zonas_donihue_lomiranda_pag8-9_21-23.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 13,
+     "zonas_codigos": [
+      "DONIHUE-ZU-1",
+      "DONIHUE-ZU-2",
+      "DONIHUE-ZE-1",
+      "DONIHUE-ZE-2",
+      "DONIHUE-ZTE",
+      "DONIHUE-ZR-1",
+      "DONIHUE-ZR-2",
+      "LOMIRANDA-ZU-1",
+      "LOMIRANDA-ZU-2",
+      "LOMIRANDA-ZU-3",
+      "LOMIRANDA-ZE-1",
+      "LOMIRANDA-ZE-2",
+      "LOMIRANDA-ZR"
+     ],
+     "nota": "Decreto 56/1988, cubre DOS localidades (Doñihue y Lo Miranda) con bloques normativos independientes dentro del mismo Cap.IV. Formato prosa articulo-por-zona (no cuadro), texto nativo nitido verificado palabra por palabra contra 5 imagenes. 13 zonas: Doñihue ZU-1,ZU-2,ZE-1,ZE-2,ZTE,ZR-1,ZR-2 + Lo Miranda ZU-1,ZU-2,ZU-3,ZE-1,ZE-2,ZR. Documento de 1988 NO define CC ni densidad habitacional en ninguna zona (ausencia real de la fuente, no dato perdido). HALLAZGO clave: el glifo 'ZU-a' de Lo Miranda (reportado por fase3 como corregible via render) en realidad se ve como 'a' minusculas TANTO en texto como en imagen con zoom 4x -- fase3 sobrestimo lo legible del render. Identificacion final como ZU-2 se mantiene pero por inferencia contextual (Art.19 enumera ZU-1,ZU-2,ZU-3,ZR en orden) no por lectura directa. Otros hallazgos: numeracion de articulos Doñihue es Art.19 (no 17-18 como decia fase3) para el cierre de zonas; inconsistencia interna ZR-1 'camino H-30' (titulo) vs 'camino II-30' (cuerpo); errata 'paleado' por 'pareado' en ZE-1; texto desordenado entre agrupamiento/altura en ZE-2; ZU-3 y ZE-2 de Lo Miranda son textualmente identicas (verificado, no es error). Sin datos inventados, 0 campos marcados no-determinable (documento nitido en su totalidad)."
+    }
+   ]
+  },
+  {
+   "comuna": "teno",
+   "region": "07",
+   "geojson_file": "07_PRC_Teno.json",
+   "geojson_existe": true,
+   "salida_json": "07_teno.json",
+   "tier": 2,
+   "zonas_total": 12,
+   "markdowns": [
+    {
+     "id": "teno_b4adad4b23",
+     "archivo": "extraccion_normas\\teno\\teno_52_zonas_zu_pag15-23.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 12,
+     "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7",
+      "ZU-8",
+      "ZE1",
+      "ZE2",
+      "ZE3",
+      "ZAV"
+     ],
+     "nota": "nota_fase3 solo verificaba ZU-3/ZU-4 como muestra pero el Art.7 (p15-16) lista 12 zonas, todas cubiertas p16-22. Trampa LeyChile confirmada, se transcribio desde el render, no desde pdftotext. P23 (Art.8-10) confirmado texto descriptivo puro sin tabla normativa nueva; se documento de regalo el Art.11 (ICH, Cap.6) en la misma pagina. Punto dudoso en ZE1 (p21): columnas permitidos/prohibidas de Actividades Productivas e Infraestructura Sanitaria parecen contradictorias entre si, verificado a 500dpi y transcrito literal sin reinterpretar, flageado en el archivo."
+    }
+   ]
+  },
+  {
+   "comuna": "la_estrella",
+   "region": "06",
+   "geojson_file": "06_PRC_La_Estrella.json",
+   "geojson_existe": true,
+   "salida_json": "06_laestrella.json",
+   "tier": 2,
+   "zonas_total": 9,
+   "markdowns": [
+    {
+     "id": "la_estrella_56a175f510",
+     "archivo": "extraccion_normas\\la_estrella\\la_estrella_243_ordenanza_zonas.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 9,
+     "zonas_codigos": [
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZE-6",
+      "ZD",
+      "AV",
+      "ISAN"
+     ],
+     "nota": "Imagen unica gigante (p10) transcrita mediante 5 recortes ampliados en 4x. 9 zonas completas (usos permitidos/prohibidos + normas urbanisticas). p12-13 (conservacion historica) y p11 (vialidad) excluidas. Verificado contra nota_fase3: coincide."
+    }
+   ]
+  },
+  {
+   "comuna": "freirina",
+   "region": "03",
+   "geojson_file": "03_PRC_Freirina.json",
+   "geojson_existe": true,
+   "salida_json": "03_freirina.json",
+   "tier": 2,
+   "zonas_total": 6,
+   "markdowns": [
+    {
+     "id": "freirina_549e2ad04b",
+     "archivo": "extraccion_normas\\freirina\\freirina_3882_enmienda_c2.md",
+     "categoria": "ENMIENDA_PRC",
+     "zonas": 1,
+     "zonas_codigos": [
+      "C2"
+     ],
+     "nota": "Norma puntual altura +20% acotada a poligono A-B-C-D-E dentro de Zona C2 (coordenadas UTM completas transcritas). Resto de C2 mantiene PRC base Decreto 2932/2008, no incluido aqui. Verificado contra nota_fase3: coincide."
+    },
+    {
+     "id": "freirina_78286358d6",
+     "archivo": "extraccion_normas/freirina/freirina_do2932_zonas_c_c1_c2_d_e_pag20-24.md",
+     "categoria": "ORDENANZA_PRC",
+     "zonas": 5,
+     "zonas_codigos": [
+      "C",
+      "C1",
+      "C2",
+      "D",
+      "E"
+     ],
+     "nota": "Decreto 2932 PRC base de Freirina (documento MIXTO OCR+imagen), 5 zonas confirman exactamente lo anticipado por fase3: C Centro, C1 Pie de Cerro, C2 Residencial, D Industria, E Costanera. Verificado 2 veces (imagen completa + recortes ampliados 2.2x de cifras decimales). Hallazgos: (1) CC de zona C e impreso con PUNTO (1.5) mientras el resto del documento usa COMA -- confirmado en zoom, es del original; (2) C1 tiene CC=2 (entero) para Comercio/Servicios, dato llamativo pero verificado; (3) zonas D y E NO traen seccion Disposiciones Complementarias/densidad (a diferencia de C/C1/C2) -- marcado no determinable, no inventado; (4) C1 excluye Casinos de usos prohibidos a diferencia de C (verificado); (5) discrepancia de año no resuelta: enmienda 3882 cita el PRC base como de 2008, este documento dice 2009 en su encabezado; (6) cruce con freirina_3882_enmienda_c2.md (enmienda posterior C2): coherente, altura base 7m + 20% = 8.4m sin contradiccion."
     }
    ]
   }
