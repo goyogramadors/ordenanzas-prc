@@ -1,0 +1,57 @@
+{
+  "id": "arica_35367f1a8d",
+  "comuna": "arica",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\arica_ordenanza_ordenanza_plan_regulador_comunal_de_arica__ORDENANZA_PLAN_REGULADOR.pdf",
+  "rangos": [
+    [
+      29,
+      52
+    ],
+    [
+      82,
+      85
+    ]
+  ],
+  "paginas_utiles": 28,
+  "nota_fase3": "ARICA: Ordenanza del PRC (86p). NUCLEO pags 29-52: Titulo 2 'Normas especificas de usos de suelo y condiciones de subdivision y edificacion' (Art 39) = un articulo por zona con DOS sub-cuadros (usos de suelo + condiciones de edificacion: predial minima, densidad, agrupamiento, antejardin, distanciamientos, altura, rasante, CC, COS). 24 zonas (ZR1-ZR4, ZM1-ZM2, ZCA, ZC, ZPE, ZT2-ZT3, ZI1-ZI3, ZP-Puerto, ZP1-ZP5, ZCE, ZV/EP, ZET, ZDD, ZER, ZMN, ZCH), practicamente una zona por pagina. Tablas NATIVAS de buena calidad, no escaneadas. Pag 28 = solo indice de zonas (excluida). Anadidas 82-85: Titulo 4 infraestructura de transporte, normas por USO (no por zona) con agrupamiento/distanciamiento/ocupacion. Pags 53-81 = desafectaciones, patrimonio, vialidad, areas de riesgo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T19:15:59",
+  "fin": "2026-07-23T19:31:35",
+  "resultado": {
+    "archivo": "extraccion_normas/arica/arica_ordenanza_zonas_completo_pag29-52-82-85.md",
+    "zonas": 26,
+    "zonas_codigos": [
+      "ZR1",
+      "ZR2",
+      "ZR3",
+      "ZR4",
+      "ZM1",
+      "ZM2",
+      "ZCA",
+      "ZC",
+      "ZPE",
+      "ZT2",
+      "ZT3",
+      "ZI1",
+      "ZI2",
+      "ZI3",
+      "ZP",
+      "ZP1",
+      "ZP2",
+      "ZP3",
+      "ZP5",
+      "ZCE",
+      "ZV/EP",
+      "ZET",
+      "ZDD",
+      "ZER",
+      "ZMN",
+      "ZCH"
+    ],
+    "confianza": "ALTA",
+    "nota": "Documento completo (86 pag) transcrito en 2 mitades paralelas (p.29-40 y p.41-52+82-85) y consolidado aqui en un archivo unico para Fase 5. Total real 26 zonas, no 24 como estimaba nota_fase3: no existe 'ZP4' (el correlativo salta de ZP3 a ZP5, verificado visual+texto) y se sumaron ZMN y ZCH como entradas propias aunque sin cuadros de usos/condiciones (son normas de proteccion patrimonial, transcritas integras). Incluye ademas Titulo 4 Infraestructura de Transporte (p.82-85, normas por USO no por zona) como contexto complementario, no cuenta en --zonas. Confianza ALTA por texto nativo fiel, verificado contra render en ambas mitades."
+  }
+}
