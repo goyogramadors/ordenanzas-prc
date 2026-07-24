@@ -1,0 +1,28 @@
+{
+  "id": "la_serena_72f878c588",
+  "comuna": "la_serena",
+  "ruta": "Ordenanzas Descargadas\\1-600\\la_serena_539_aprueba_plano_seccional_no4_del_plan_regulador_comunal_de_la_serena__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Plano Seccional N4 La Serena, ZONA ZE-8 Proteccion Costera (Playas), art.73, formato DONDE DICE/DEBE DECIR. p2-3: usos de suelo permitidos (area verde, deporte, esparcimiento, comercio y servicios de turismo) y prohibidos detallados por clase de equipamiento. p3 abre 'Condiciones Urbanisticas'. p4-5: condiciones morfologicas (volumetria, materialidad -prohibe albanileria/hormigon armado/muro cortina-, 60%/30% de vanos, colores Pantone) y faja NO EDIFICABLE de 20 m desde la linea de alta marea (equivale a retranqueo). Zona atipica: NO tiene cuadro clasico COS/CC/altura. p6 solo cierre y firmas. Confianza MEDIA por lo atipico del formato.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T21:29:51",
+  "fin": "2026-07-18T21:36:34",
+  "resultado": {
+    "archivo": "extraccion_normas/la_serena/la_serena_539_seccional4_ze8_pag2-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZE-8"
+    ],
+    "confianza": "ALTA",
+    "nota": "CORRIGE nota_fase3: ZE-8 SI tiene cuadro clasico de condiciones (predio minimo, superficie max ocupacion, CC 0.2/0.5, altura max 5m, antejardin 3m, distanciamiento 150/300m en p4), transcrito integro -- no es cierto que carezca de cuadro numerico. Ademas mantiene las condiciones morfologicas y faja no edificable de 20m (excepcion sector Faro Monumental) descritas por Fase3. Se uso el texto DEBE DECIR como norma vigente."
+  }
+}
