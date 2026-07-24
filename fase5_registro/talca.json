@@ -1,0 +1,111 @@
+{
+  "comuna": "talca",
+  "region": "07",
+  "geojson_file": "07_PRC_Talca.json",
+  "salida_json": "07_talca.json",
+  "markdowns": [
+    {
+      "id": "talca_678da9d7ed",
+      "archivo": "extraccion_normas\\talca\\talca_1822_subzonas_z6h2_z6h3_pag1-2.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 2,
+      "zonas_codigos": [
+        "Z-6H2",
+        "Z-6H3"
+      ],
+      "nota": "Confirma nota_fase3 exacta. Cuadro numerado 1-9 completo (incluye antejardin optativo) + usos permitidos + exigencias generales (franja proteccion 10m + via 8m)."
+    },
+    {
+      "id": "talca_a8cf76dc23",
+      "archivo": "extraccion_normas\\talca\\talca_44273_zona_u7_subzona_u7a_pag2-3.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 2,
+      "zonas_codigos": [
+        "U-7",
+        "U-7A"
+      ],
+      "nota": "Confirma nota_fase3, con mas detalle: usos de suelo completos por clase/actividad para ambas zonas (identicos salvo Seguridad agregada en U-7A). Normas infraestructura por tipo (transporte/sanitaria/energia) identicas en ambas. Unico cambio real: COS 0,3->0,4 en U-7A."
+    },
+    {
+      "id": "talca_fb2dd78aeb",
+      "archivo": "extraccion_normas\\talca\\talca_2081_subzona_z6h1_pag1-2.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 1,
+      "zonas_codigos": [
+        "Z-6H1"
+      ],
+      "nota": "Confirma nota_fase3 exacta: decreto gemelo de 1822, mismos valores para Z-6H1 que Z-6H2/Z-6H3. Usos y exigencias generales referenciados al documento hermano para evitar duplicacion textual."
+    },
+    {
+      "id": "talca_1a0e5fb2f5",
+      "archivo": "extraccion_normas\\talca\\talca_3_modificacion_ordenanza_zonas_z1z6_ze1ze3_pag1-3.md",
+      "categoria": "MODIFICACION_PRC",
+      "zonas": 5,
+      "zonas_codigos": [
+        "Z-1",
+        "Z-2",
+        "Z-3",
+        "Z-4",
+        "ZE-3"
+      ],
+      "nota": "5 zonas con modificacion de sistema de agrupamiento y antejardin en prosa, mas ZE-3 (densidad maxima neta no determinada). Normas generales (art.11 caseta porteria, art.14 estacionamiento 1/40m2, art.21 cuerpos salientes, art.24 predial 2500m2 vivienda economica, art.27 ancho via) tambien transcritas. Coincide con nota_fase3."
+    },
+    {
+      "id": "talca_dcaf16a427",
+      "archivo": "extraccion_normas\\talca\\talca_decreto3920_enmienda1_zonas_u1-u22.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 22,
+      "zonas_codigos": [
+        "U-1", "U-2", "U-3", "U-4", "U-5", "U-6", "U-7", "U-8", "U-9", "U-10",
+        "U-11", "U-12", "U-13", "U-14", "U-15", "U-16", "U-17", "U-18", "U-19", "U-20", "U-21", "U-22"
+      ],
+      "nota": "Documento muy denso: las 22 zonas U-1 a U-22 (nota_fase3 solo detallaba hasta U-8 explicitamente y decia 'y siguientes hasta U-22') caben completas dentro de p5-11, confirmado visualmente. Varias zonas (U-1,U-2,U-13,U-16,U-20,U-21) tienen tablas incompletas EN EL PROPIO ORIGINAL -- no traen todos los parametros (p.ej. sin COS/CC propios, o sin tabla de Normas de Subdivision y solo la de Infraestructura) -- se marco explicitamente '(No aparece tabla ... para esta zona)' en vez de inventar valores. Numeros decimales transcritos tal cual el original (formato con punto, ej '1.95', no coma chilena -- asi aparece en el documento real pese a ser un decreto chileno)."
+    },
+    {
+      "id": "talca_d55ad007c1",
+      "archivo": "extraccion_normas\\talca\\talca_decreto2359_2016_zonas_u_pag4-11.md",
+      "categoria": "ENMIENDA_PRC",
+      "zonas": 22,
+      "zonas_codigos": [
+        "U-1", "U-2", "U-3", "U-4", "U-5", "U-6", "U-7", "U-8", "U-9", "U-10",
+        "U-11", "U-12", "U-13", "U-14", "U-15", "U-16", "U-17", "U-18", "U-19", "U-20", "U-21", "U-22"
+      ],
+      "nota": "CONFIRMADO NO ES DUPLICADO de talca_dcaf16a427 (decreto 3920): decreto distinto (N2359, 25-may-2016 vs N3920, 24-ago-2016), con valores normativos diferentes para las mismas zonas -- U-3 COS 0,6/0,52 en 2359 vs 0,39 en 3920; U-4 coef.constructibilidad 2,0 en 2359 vs 1,95 en 3920. Este decreto (2359) solo trae los parametros MODIFICADOS de cada zona (cuadros breves 1-5 filas), no la ficha completa como el 3920, por eso las 22 zonas cupieron completas en el rango 4-11 pese a tener 11 paginas totales. U-1 y U-2 resultaron identicos entre ambos decretos. Caso dudoso resuelto: tabla de infraestructura de pag.7 pertenece a U-9 no a U-8 (verificado por recorte de imagen)."
+    },
+    {
+      "id": "talca_dfa074e060",
+      "archivo": "extraccion_normas/talca/talca_ordenanza_2011_u1_u22_r1_r7_zch_pag7-65.md",
+      "categoria": "ORDENANZA_PRC",
+      "zonas": 30,
+      "zonas_codigos": [
+        "U-1", "U-2", "U-3", "U-4", "U-5", "U-6", "U-7", "U-8", "U-9", "U-10",
+        "U-11", "U-12", "U-13", "U-14", "U-15", "U-16", "U-17", "U-18", "U-19", "U-20", "U-21", "U-22",
+        "R-1", "R-2", "R-3", "R-4", "R-5", "R-6", "R-7", "ZCH"
+      ],
+      "nota": "Extracción completa texto nativo (sin OCR) p7-9 y p12-65. Art.11 tabla estacionamientos por uso/destino. Art.20-22: 22 zonas urbanas U-1..U-22 + 7 zonas de riesgo R-1,R-2(no listada en encargo pero presente en catalogo Art.21 y con tabla completa p47, incluida por completitud),R-3(subzonas A-D),R-4,R-5,R-6(sin tabla, solo restricciones),R-7(subzonas A-B), cada una con usos de suelo permitidos/prohibidos + normas de subdivision y edificacion (predial min, COS, CC, agrupamiento, distanciamiento, altura, antejardin, adosamiento, densidad max) + normas de infraestructura (transporte/sanitaria/energia) donde aplica. Art.23-28 marco patrimonial: 10 Monumentos Historicos (M1-M10), 12 Monumentos Publicos (no graficados), 1 Monumento Arqueologico, listado completo 29 Inmuebles de Conservacion Historica (solo direcciones, sin parametros individuales), ZCH Centro Civico con sus 3 tablas (usos, subdivision/edificacion, infraestructura). No especificado usado para campos ausentes en tablas parciales (varias zonas de riesgo omiten Distanciamiento o Altura en la tabla original). p66 Cap.V Vialidad Estructurante excluido del alcance."
+    }
+  ],
+  "estado": "HECHO",
+  "sesion": "AMIGO1",
+  "inicio": "2026-07-24T00:33:33Z",
+  "fin": "2026-07-24T00:33:44",
+  "resultado": {
+    "archivo_json": "07_talca.json",
+    "zonas_ficha": 43,
+    "zonas_geojson": 35,
+    "zonas_cubiertas": 35,
+    "geojson_sin_ficha": [],
+    "ficha_sin_geojson": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6H1",
+      "6H2",
+      "6H3",
+      "E-3"
+    ],
+    "confianza": "ALTA",
+    "nota": "NormativaPRC generada desde: Ordenanza Local 2011 (base, Res.342/2011, 30 zonas: U-1..U-22, R-1..R-7[A-D/A-B], ZCH) + Enmienda N1 Decreto 2359 (25-05-2016) + Enmienda N1 Decreto 3920 (24-08-2016, prevalente sobre 2359 en conflicto; para casi todas las zonas el efecto neto tras aplicar ambas enmiendas coincide con la base 2011, salvo U-3 donde 2359 modifico COS-edificios de 0.4 a 0.52 y 3920 no lo volvio a tocar) + Modificacion Decreto 1822 (21-06-2004, crea Z-6H2/Z-6H3) + Decreto 2081 (21-07-2004, crea Z-6H1) + Enmienda DO 44273 (13-10-2025, crea U-7A dentro de U-7, COS 0.3->0.4) + Resolucion 3 (11-11-1993, modifica agrupamiento/antejardin de zonas legado Z-1..Z-4 y densidad de ZE-3, codigos previos a la recodificacion U-N de 2011, sin correspondencia confirmada ni presencia en el GeoJSON actual). 43 fichas totales: 34 cubren el 100% de los 34 codigos unicos del GeoJSON (zona ZCH graficada como ZCH-1 en el geojson, usado tal cual para emparejar) + 9 zonas adicionales (Z-1,Z-2,Z-3,Z-4,Z-6H1,Z-6H2,Z-6H3,ZE-3) agregadas por instruccion expresa aunque no aparecen en la capa GeoJSON consultada, documentando explicitamente esa limitacion en cada ficha. Ningun valor numerico fue inventado; null + explicacion donde no habia dato en el corpus."
+  }
+}
