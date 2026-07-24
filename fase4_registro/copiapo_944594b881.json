@@ -1,0 +1,37 @@
+{
+  "id": "copiapo_944594b881",
+  "comuna": "copiapo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\copiapo_3381_aprueba_actualizacion_plan_regulador_de_la_comuna_de_copiapo__Exportar.pdf",
+  "rangos": [
+    [
+      22,
+      40
+    ],
+    [
+      46,
+      55
+    ]
+  ],
+  "paginas_utiles": 29,
+  "nota_fase3": "Dec.3381/2002 Ordenanza Local PRC Copiapo + anexo Dec.2057/2011. p22-40 TEXTO: zonificacion A-F, una seccion por zona con usos y 'Condiciones de Subdivision y Edificacion' (Zona A: predial 400m2, frente 10m, CC 5,0, altura continua 7-12,6m; Zona C: 400m2, COS 60%, CC 1,5; Zona D agricola: 5.000m2, COS 10%, CC 0,15; Zona E industrial: 1.000m2, COS 40%, CC 0,4; Zona F areas verdes: COS 0,01). p47-54 IMAGEN (JPEG): 'CATASTRO Y CUADRO DE NUEVAS NORMAS URBANISTICAS - VIAS CADUCADAS', items 1-59 de vias con la norma a la que se asimila cada tramo (ej. Avda. Copayapu -> Sector Especial C2 + antejardin 3,0m). PATRON LEYCHILE (norma inalcanzable): p43-44 anuncian 'TABLA DE USOS DE SUELO PERMITIDOS' y 'CONDICIONES DE SUBDIVISION Y EDIFICACION' del PRC 2002 pero NO estan en el PDF: remiten a 'VER DIARIO OFICIAL 17.12.2002 paginas 16 y 17'. Esas 2 tablas resumen hay que buscarlas en el DO si se necesitan.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T19:16:20",
+  "fin": "2026-07-23T19:31:41",
+  "resultado": {
+    "archivo": "extraccion_normas/copiapo/copiapo_3381_zonasAF_pag22-40.md",
+    "zonas": 6,
+    "zonas_codigos": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "confianza": "ALTA",
+    "nota": "Zona B si existe (Mixta Vivienda/Equipamiento/Talleres/Almacenamiento Inofensivo, p.28-32; nota_fase3 saltaba de A a C pero el Art.21 la lista explicitamente). Zona F: tabla de usos y condiciones b/c/d quedan cortadas al limite p.40/p.41; se completo por verificacion visual de p.41 (fuera del rango formal 22-40) y quedo documentado en el archivo, la ficha de Zona F queda completa (COS 0,01 confirmado, coincide con nota_fase3). El documento (decreto 3381) incluye ademas, en p.46-55, un catalogo de 59 vias caducadas con su reasignacion a Zona A/B/C/D/F o Sector Especial A1/A2/C2/E1 -- guardado aparte en extraccion_normas/copiapo/copiapo_3381_viascaducadas_59items_pag46-55.md; es una tabla de reasignacion de trazado vial, NO son zonas de uso de suelo adicionales y no se cuentan en --zonas de este registro."
+  }
+}
