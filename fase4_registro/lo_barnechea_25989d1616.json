@@ -1,0 +1,28 @@
+{
+  "id": "lo_barnechea_25989d1616",
+  "comuna": "lo_barnechea",
+  "ruta": "Ordenanzas ordenadas\\lo_barnechea_3980_aprueba_modificacion_al_plan_regulador_comunal_de_lo_barnechea__PUBLICACION_DO_14-07-15_MPRC-LB-24_DECRETO_3980_09_07_2015.pdf",
+  "rangos": [
+    [
+      1,
+      5
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Decreto 3980, 9-jul-2015 (DO 14-jul-2015), APRUEBA MODIFICACION AL PRC DE LO BARNECHEA MPRC-LB-24: crea nueva Subzona J2 de Densificacion dentro de Zona J La Dehesa. Articulo 2 trae tabla completa CONDICIONES DE SUBDIVISION Y EDIFICACION: Uso de Suelo Residencial, Antejardin Minimo 5mts, Coeficiente Ocupacion Suelo Max 0.4, Coeficiente Constructibilidad Maxima 1.8, Sistema de Agrupamiento Aislada, Altura Maxima 17.50mts (5 pisos), Densidad Bruta Maxima 456 h/h, Rasante y Distanciamiento 70 grados y 3mts con/sin vano en 1 y 2 pisos, Adosamiento O.Gral de U y C. Articulo 3: Superficie de Subdivision Predial Minima 900 m2. El PDF contiene tanto la version publicada en Diario Oficial (paginas 2-3) como el decreto original con membrete municipal (paginas 1,4,5) -- la tabla aparece duplicada en ambas versiones. Verificado visualmente las 5 paginas.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:10:48",
+  "fin": "2026-07-23T14:14:12",
+  "resultado": {
+    "archivo": "extraccion_normas/lo_barnechea/lo_barnechea_3980_subzona_j2_pag1-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "J2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3 en todos los valores, tabla identica entre version DO y municipal. Correccion menor de paginacion: DO ocupa p1(parcial)-2 y municipal p3-5 (no p2-3/p1,4,5 como decia nota_fase3), sin afectar el contenido."
+  }
+}
