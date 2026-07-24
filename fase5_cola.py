@@ -13,8 +13,16 @@ Aplica tres filtros y clasifica en buckets:
   2. BASE: la comuna necesita al menos un documento ORDENANZA_PRC con zonas
      transcritas. Solo con enmiendas/modificaciones NO se puede armar una ficha
      completa (falta la ordenanza base) -> bucket SIN_BASE (hueco de descarga).
-  3. EXISTENTE: si ya hay un JSON en `norma-data`, es perfeccionamiento (aplicar
-     modificaciones a la ficha existente) -> bucket PERFECCIONAR, al final.
+  3. EXISTENTE: si ya hay un JSON en `norma-data` CON PARAMETROS REALES (al
+     menos una zona con algun campo numerico de edificacion no nulo), es
+     perfeccionamiento (aplicar modificaciones a la ficha existente) -> bucket
+     PERFECCIONAR, al final. Un JSON "existente" cuyas zonas son 100% nulas
+     (ingesta de la capa GeoJSON con solo nombre+usos, sin ningun COS/altura/
+     predial extraido de la ordenanza) NO cuenta como existente para este
+     filtro -- se trata como si no existiera y sigue el flujo normal hacia
+     PROCESAR. Sin este chequeo de contenido, una comuna con ficha 100% nula
+     queda enterrada en PERFECCIONAR (que ademas ni siquiera se escribe en
+     fase5_cola.json, solo se reporta por consola) y nunca se vuelve a tocar.
 
 Los que pasan los tres -> bucket PROCESAR, ordenados por PRIORIDAD:
   tier 0: ciudad grande (lista curada CIUDADES_GRANDES, editable)
@@ -56,6 +64,15 @@ LISTA_BLANCA = RAIZ / "lista_blanca.csv"
 SALIDA = RAIZ / "fase5_cola.json"
 
 REGIONES_PRIORITARIAS = {"13", "05", "08", "09", "10"}
+
+# Campos numericos de edificacion cuya presencia (no-nula) en al menos una zona
+# distingue una ficha "real" (con trabajo de extraccion de la ordenanza) de un
+# stub de ingesta GeoJSON (solo nombre+usos, todo lo demas null).
+CAMPOS_PARAMETRO_REAL = (
+    "coef_constructibilidad", "cos_primer_piso", "cos_pisos_superiores",
+    "altura_maxima_metros", "altura_maxima_pisos",
+    "superficie_predial_minima_m2", "densidad_maxima_hab_ha",
+)
 
 # Comunas que se dejan para el final por decisión del usuario (perfeccionamiento
 # de fichas ya desarrolladas). Slugs del corpus.
@@ -103,16 +120,38 @@ def clave_manifest(comuna: str, manifest: dict) -> str | None:
     return None
 
 
+def tiene_parametros_reales(ruta_json: Path) -> bool:
+    """True si al menos una zona del JSON trae un parametro de edificacion no nulo.
+    Distingue una ficha con trabajo real de extraccion de un stub de ingesta
+    GeoJSON (solo nombre+usos, todo el resto null) -- ver nota del bucket EXISTENTE."""
+    try:
+        datos = json.loads(ruta_json.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return False
+    if not isinstance(datos, list):
+        return False
+    return any(
+        isinstance(zona, dict)
+        and any(zona.get(campo) is not None for campo in CAMPOS_PARAMETRO_REAL)
+        for zona in datos
+    )
+
+
 def main() -> None:
     if not MANIFEST.exists():
         raise SystemExit(f"Falta el manifiesto GeoJSON: {MANIFEST}")
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
 
-    existentes = {
-        m.group(1)
-        for fn in os.listdir(NORMADIR)
-        if (m := re.match(r"\d+_(.+)\.json", fn))
-    }
+    existentes = set()
+    stubs_ignorados = []
+    for fn in os.listdir(NORMADIR):
+        m = re.match(r"\d+_(.+)\.json", fn)
+        if not m:
+            continue
+        if tiene_parametros_reales(NORMADIR / fn):
+            existentes.add(m.group(1))
+        else:
+            stubs_ignorados.append((m.group(1), fn))
 
     cola4 = json.loads(COLA_FASE4.read_text(encoding="utf-8"))
     ids_por_comuna = collections.defaultdict(list)
@@ -123,29 +162,24 @@ def main() -> None:
 
     # Estado + resultado de Fase 4
     hecho = {}
-    fallido = set()
     for f in glob.glob(str(RAIZ / "fase4_registro" / "*.json")):
         d = json.loads(Path(f).read_text(encoding="utf-8"))
         if d["estado"] == "HECHO":
             hecho[d["id"]] = d.get("resultado") or {}
-        elif d["estado"] == "FALLIDO":
-            fallido.add(d["id"])
 
     # Categoría de Fase 1 por ruta
     categoria = {r["ruta"]: r["categoria"]
                  for r in csv.DictReader(LISTA_BLANCA.open(encoding="utf-8-sig"))}
 
-    # Comunas 100% resueltas en Fase 4 (HECHO aporta markdown; FALLIDO es terminal
-    # -- ej. duplicado confirmado -- y no debe bloquear la comuna para siempre)
-    resuelto = set(hecho) | fallido
+    # Comunas 100% completas en Fase 4
     listas = [c for c, ids in ids_por_comuna.items()
-              if all(i in resuelto for i in ids)]
+              if all(i in hecho for i in ids)]
 
     buckets = collections.defaultdict(list)
     items_procesar = []
 
     for comuna in listas:
-        ids = [i for i in ids_por_comuna[comuna] if i in hecho]
+        ids = ids_por_comuna[comuna]
         markdowns = []
         zonas_total = 0
         tiene_base = False
@@ -220,6 +254,12 @@ def main() -> None:
                    9: "diferida (perfeccionamiento)"}
     print(f"Cola Fase 5 generada: {SALIDA.name}")
     print(f"Comunas 100% completas en Fase 4: {len(listas)}")
+    if stubs_ignorados:
+        print(f"\nStubs de ingesta GeoJSON ignorados para el filtro EXISTENTE "
+              f"({len(stubs_ignorados)}, ficha 100% nula -> tratadas como si no "
+              f"existieran, siguen el flujo normal en vez de caer directo a PERFECCIONAR):")
+        for slug, fn in sorted(stubs_ignorados):
+            print(f"  {slug:20s} {fn}")
     print()
     print(f"=== PROCESAR (crea ficha nueva): {len(items_procesar)} ===")
     for it in items_procesar:
