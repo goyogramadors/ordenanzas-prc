@@ -1,0 +1,31 @@
+{
+  "id": "penalolen_b7623576fd",
+  "comuna": "penalolen",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\penalolen_MPRC_1999.pdf",
+  "rangos": [
+    [
+      1,
+      5
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "TRAMPA COMUNA AJENA CONFIRMADA (patron ya documentado). p1 SUPERIOR (tabla de vias 'Avda.Angelmo', 'Volcan Osorno', 'Camino a localidad Alerce', 'Camino viejo a Chamiza') es de OTRA comuna (Puerto Montt: Angelmo es su barrio puerto emblematico) - aviso previo no relacionado en la misma edicion del Diario Oficial. El decreto real de Peñalolen 'MODIFICA PLAN REGULADOR COMUNAL DE PEÑALOLEN, AMPLIACION DEL LIMITE URBANO' (Resolucion 45, 6-ago-1999) empieza en la MITAD INFERIOR de p1 y continua p2-5. Contenido legitimo: p3-4 usos de suelo/equipamiento por escala; p5 'Cuadro Resumen: Uso de Suelo y Normas Especificas' zonas E1/R4/R5/R6 con TODOS los parametros (predial min 800-1700m2, frente predial 20-30m, agrupamiento aislado, COS 0,15-0,4, CC 0,4-2, altura 9-15m, densidad 25-50 hab/ha, antejardin 3-7m). Cierra 'La Municipalidad de Peñalolen publicara...'. USAR SOLO la mitad inferior de p1 en adelante, NO el cuadro vial superior.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:38:21",
+  "fin": "2026-07-23T14:45:59",
+  "resultado": {
+    "archivo": "extraccion_normas/penalolen/penalolen_mprc1999_e1_r4_r5_r6_pag1-5.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "E1",
+      "R4",
+      "R5",
+      "R6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmado: mitad superior p1 es contenido ajeno de Puerto Montt, ignorado. Coincide con nota_fase3 en las 4 zonas y valores, verificado cruzando Art.11 (p2-4) con Cuadro Resumen (p5). Correccion: antejardin real es 5-7m (no 3-7m); el valor 3m corresponde a distanciamiento, no a antejardin."
+  }
+}
