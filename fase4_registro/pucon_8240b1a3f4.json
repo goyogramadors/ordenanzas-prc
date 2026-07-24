@@ -1,0 +1,28 @@
+{
+  "id": "pucon_8240b1a3f4",
+  "comuna": "pucon",
+  "ruta": "Ordenanzas Descargadas\\1200 x\\pucon_140_aprueba_enmienda_al_plano_regulador_comunal_de_pucon__2263188.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Dec.140/2023 (DO) Enmienda PRC Pucon. Formato 'Donde dice/Debe decir': modifica art.13 estacionamientos (comercio/equipamiento: 1 c/50m2 -> 1 c/100m2 en la nueva zona) y crea ZONA Z-3A (segrega un lote de la Zona Z-3, deslindes catastrales completos) con tabla completa: usos permitidos (vivienda, equipamiento turismo/esparcimiento/comercio/organizacion comunitaria/cultura y educacion/servicios publicos), prohibidos (todo lo no permitido), ocupacion 20%->26%, distanciamiento segun art.2.6.3 OGUC, altura 3 pisos -> 4 pisos y 12,60m, antejardin 3,0m. p5-6 EXCLUIDAS (solo planos/imagenes de zonificacion actual y propuesta, sin texto de tabla).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T22:17:13",
+  "fin": "2026-07-18T22:19:23",
+  "resultado": {
+    "archivo": "extraccion_normas/pucon/pucon_140_zona_z3a_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "Z-3A"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3: Art.13 estacionamientos 1c/50m2 a 1c/100m2 en Z-3A; nueva zona segregada de Z-3 (Lote B) con deslindes catastrales completos, ocupacion 20-26%, distanciamiento Art2.6.3 OGUC, altura 3-4 pisos/12.60m, antejardin 3.0m."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "la_reina_beca99bc37",
+  "comuna": "la_reina",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\la_reina_1857_aprueba_enmiendas_al_plan_regulador_vigente__Exportar.pdf",
+  "rangos": [
+    [
+      3,
+      3
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      7,
+      7
+    ],
+    [
+      9,
+      9
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto 1857, aprueba enmiendas al PRC vigente de La Reina. 4 tablas-imagen independientes (verificado render p2-9): p3 Zona A-1 (predial min 500 m2, COS 0,4, CC 2, altura 18 m/6 pisos, densidad 400 hab/ha, agrupamiento aislado, distanciamiento 5 m, antejardin 5/3 m). p5 Zona B (predial 2.500 m2, COS 0,8, CC 6, altura 56 m, densidad 1.200 hab/ha). p7 Zona C1 (columnas Residencia/Equipamiento). p9 Zona C2 (COS 0,3/0,4, CC 2,4/2, altura 30/30 m). Cada tabla es independiente, no un rango continuo. p2,4,6,8 solo texto que anuncia la tabla (sin cuadro); p1 vistos; p10 firma.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T21:29:51",
+  "fin": "2026-07-18T21:31:40",
+  "resultado": {
+    "archivo": "extraccion_normas/la_reina/la_reina_1857_zonas_a1_b_c1_c2_pag3-5-7-9.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "A-1",
+      "B",
+      "C1",
+      "C2"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide totalmente con nota_fase3. Datos adicionales del render: A-1 COS esquina 0.5, adosamiento no permitido; B agrupamiento aislado, distanciamiento 10m, antejardin Residencia 10m/Equipamiento 5m; C1/C2 predial, CC, adosamiento Art.2.6.2 OGUC y antejardin para ambas columnas."
+  }
+}
