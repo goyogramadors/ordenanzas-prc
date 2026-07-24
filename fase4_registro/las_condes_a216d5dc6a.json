@@ -1,0 +1,28 @@
+{
+  "id": "las_condes_a216d5dc6a",
+  "comuna": "las_condes",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\las_condes_D.O.4477.28dic2004.pdf",
+  "rangos": [
+    [
+      1,
+      5
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "DO 4477 (28-12-2004, publicacion Diario Oficial, 5 pags) - version CON el cuadro (igual patron que 4474 y 4484). p1: aprueba Plano Seccional PS-U-Ee1 (Especial 1). p2-4: CUADRO DE USOS DE SUELO ZONA U-Ee1 completo (aparece 2 veces). p5: cierre del texto resolutivo.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:10:48",
+  "fin": "2026-07-23T14:15:52",
+  "resultado": {
+    "archivo": "extraccion_normas/las_condes/las_condes_4477_zona_uee1_usos_pag1-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "U-Ee1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3 (mismo patron matriz uso-de-suelo que U-Ee2/U-V1). Correccion: encabezado aparece 3 veces (no 2), pero es UNA sola tabla continua de 16 filas partida en 3 recuadros por salto de pagina, sin filas duplicadas. Locales Comerciales es la unica actividad que nunca alcanza SR."
+  }
+}
