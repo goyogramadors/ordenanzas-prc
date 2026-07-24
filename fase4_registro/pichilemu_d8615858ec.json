@@ -1,0 +1,28 @@
+{
+  "id": "pichilemu_d8615858ec",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_1888_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a3__publicacion_zona3_2020.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto Exento 1888, 25-ago-2020, Pichilemu, Aprueba Enmienda PRC Zona A3, 4 pags (pags1-2 copia municipal, pags3-4 copia Diario Oficial N42.748 4-sep-2020, mismo texto). Cambio numerico concreto en poligono A-B-C-D: relocaliza Equipamiento de Seguridad y Cientifico, aumenta Coeficiente de Constructibilidad a 0,52, Ocupacion de Suelo a 52% y Altura Maxima de Edificacion a 10,8 metros. Verificado visualmente paginas 1-4 de 4.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T22:04:02",
+  "fin": "2026-07-18T22:09:03",
+  "resultado": {
+    "archivo": "extraccion_normas/pichilemu/pichilemu_1888_enmienda_zona_a3_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "A3"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3 (relocalizacion Seguridad/Cientifico sin destino exacto en texto, CC 0.52, ocupacion 52%, altura 10.8m). Detalle adicional: los Vistos citan Certificado N258 como referido a Zona A5 (en ambas copias) -- aparente erratum del documento original, ya que el resto del acto es consistente con Zona A3."
+  }
+}

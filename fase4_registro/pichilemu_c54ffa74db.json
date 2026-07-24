@@ -1,0 +1,28 @@
+{
+  "id": "pichilemu_c54ffa74db",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_52_aprueba_enmienda_plan_regulador_comunal_de_pichilemu_zona_a5__enmienda_zona_a5_2020.pdf",
+  "rangos": [
+    [
+      1,
+      4
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto Exento 52, 9-ene-2020, Pichilemu, Aprueba Enmienda PRC Zona A5, 4 pags (pags1-2 copia municipal original, pags3-4 copia Diario Oficial N42.555 17-ene-2020, mismo texto). Cambio numerico concreto: relocaliza Equipamiento de Salud en Zona A5 en reemplazo de Zona A-4(c) y aumenta el coeficiente de Constructibilidad a 0,5 en Zona A5. Verificado visualmente paginas 1-4 de 4.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T21:55:51",
+  "fin": "2026-07-18T22:01:03",
+  "resultado": {
+    "archivo": "extraccion_normas/pichilemu/pichilemu_52_enmienda_zona_a5_pag1-4.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "A5"
+    ],
+    "confianza": "ALTA",
+    "nota": "Confirmado: p1-2 (copia municipal) y p3-4 (Diario Oficial) texto identico, coincide con nota_fase3 y archivo de referencia (relocalizacion Salud, CC 0.5). Diferencia menor: referencia agrega '(futuro Hospital de Pichilemu)' que NO aparece impreso en esta copia -- se omitio por no ser verificable en esta fuente. Esta copia si aporta vistos/firmas/confirmacion de publicacion completos."
+  }
+}

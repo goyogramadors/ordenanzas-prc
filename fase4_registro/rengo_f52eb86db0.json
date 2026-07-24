@@ -1,0 +1,37 @@
+{
+  "id": "rengo_f52eb86db0",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\rengo_557_md_modificacion_n5_plan_regulador_comunal_varios_temas__DIARIO OFICIAL 10 05 2017-MODIFICACION Nº5PRC-RENGO.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Modificacion N5 PRC Rengo 'varios temas', 10 temas modificados. Pag2-3 tablas con imagen son solo vialidad estructurante (excluidas). Pag2 Tema1: agrega usos Culto/Cultura en ZE,ZE2,ZE4,ZE6,ZE10 (texto). Pag3-4 Tema4 Art.34 ZC1: usos permitidos/condicionados/prohibidos completos. Pag4-5 Tema8: crea zona ZE11 (Art.59 Bis A) tabla completa: superficie predial min 2.34, coef.constructibilidad 0.78, agrupamiento Continuo/Pareado/Aislado, altura max 12.6m, distanciamiento/antejardin segun OGUC. Pag5 Tema10: superficie predial min ZH7=160m2. Pag6 Tema14: superficie predial min ZH9=200m2, ZH10=300m2.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:46:06",
+  "fin": "2026-07-23T14:52:41",
+  "resultado": {
+    "archivo": "extraccion_normas/rengo/rengo_557_mod5_variostemas_pag2-6.md",
+    "zonas": 10,
+    "zonas_codigos": [
+      "ZE",
+      "ZE2",
+      "ZE4",
+      "ZE6",
+      "ZE10",
+      "ZC1",
+      "ZE11",
+      "ZH7",
+      "ZH9",
+      "ZH10"
+    ],
+    "confianza": "ALTA",
+    "nota": "El decreto numera de 14 (no 10 como decia el titulo original); de 13 temas realmente presentes (1-12 y 14), solo 5 (Temas1,4,8,10,14) tienen contenido normativo de zona -- los otros 8 son solo vialidad estructurante. Tema13 no existe en el texto publicado (verificado 3 metodos + render). CORRIGE nota_fase3 sobre Tema8/ZE11: superficie predial minima es Existente, 2.34 es coef.constructibilidad y 0.78 es coef.ocupacion de suelo (no al reves)."
+  }
+}

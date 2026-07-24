@@ -1,0 +1,28 @@
+{
+  "id": "pichilemu_fc866f9207",
+  "comuna": "pichilemu",
+  "ruta": "Ordenanzas ordenadas\\pichilemu_2200_apruebase_modificacion_del_plan_regulador_comunal_de_pichilemu_sector_punta__20161.pdf",
+  "rangos": [
+    [
+      36,
+      39
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "Decreto Exento 2200, 24-oct-2016, Pichilemu, Aprueba Modificacion PRC Sector Punta de Lobos, 39 pags (pags1-35 tramitacion/Memoria Explicativa sin tablas de normas edificables, solo diagnostico, riesgos, contexto regional; pags36-39 copia Diario Oficial N41.604 10-nov-2016 con el decreto completo). La modificacion real: incorpora 'Zona E1-Area Verde 1 Parque Comunal Punta de Lobos' con tabla completa de usos de suelo permitidos/prohibidos y condiciones de edificacion/subdivision/urbanizacion: superficie predial minima 5000m2, coef ocupacion 0.02, coef constructibilidad 0.02, altura maxima 3.5m, sistema agrupamiento aislado, antejardin 3m (pagina 39). Verificado visualmente paginas 1,5,10,15,20,25,30,35-39 de 39.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T22:04:02",
+  "fin": "2026-07-18T22:06:51",
+  "resultado": {
+    "archivo": "extraccion_normas/pichilemu/pichilemu_2200_zona_e1_puntadelobos_pag36-39.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "E1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide plenamente con nota_fase3, tabla nitida p39. Se agrego detalle completo de usos permitidos/prohibidos y condiciones adicionales (adosamiento, distancia a medianeros, densidad bruta) no listadas explicitamente en nota_fase3. p36-38 solo considerandos/vistos, sin otras zonas."
+  }
+}

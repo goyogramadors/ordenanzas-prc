@@ -1,0 +1,17 @@
+# Decreto Exento N°3.162 — Modifica Ordenanza Local del PRC de San Miguel
+
+Fuente: Diario Oficial (edición completa, con contenido ajeno de otras materias — solo se transcribe la parte de San Miguel/PRC). Layout a 2 columnas verificado visualmente para evitar desemparejamiento de valores (patrón ya visto en Linares).
+
+## Zona ZU-4' (Industrial Mixta)
+**Condiciones:** Coeficiente de Ocupación 0,7 (graficado en plano PRSM-I); Coeficiente de Constructibilidad 2,0; Densidad Bruta Máxima 1.400 hab/há; Altura máxima: Rasante; Sistema de Agrupamiento: Aislado; Rasantes y Distanciamientos: según OGUC; Antejardín mínimo 3 m; Adosamiento máximo 40; Superficie predial mínima de subdivisión: 250 m² (uso general/residencial-equipamiento), 1.000 m² (actividades productivas e instalaciones de impacto similar al industrial) y 1.000 m² (infraestructura y equipamiento).
+
+### Contexto
+El decreto reemplaza, en la totalidad del polígono A-B-C-D-E-F-A (antes parte de la Zona ZU-2, Residencial de Renovación), la zonificación por la nueva Zona ZU-4' (Industrial Mixta). Incorpora en el artículo 25° de la Ordenanza Local: (1.1) una fila nueva en el cuadro resumen de zonas de uso de suelo (plano PRSM-I), y (1.2) el texto normativo completo de la zona — usos permitidos/prohibidos y cuadro de normas urbanísticas. Modifica además el plano PRSM-I, Zonificación, conforme a lo graficado en el plano M4-ZU4'-PRSM, escala 1:5.000. (El expediente municipal citado en los "vistos" tramitó en paralelo los sectores "El Tatio" y "Equipamiento Educacional", pero ambos son ajenos al texto resolutivo de este decreto 3.162, que solo promulga la Zona ZU-4' Industrial Mixta.)
+
+### Usos de suelo (Art. 25°, Zona ZU-4')
+- **Permitidos:** Residencial (vivienda, con comercio en 1er piso); Equipamiento científico, comercio, culto y cultura, deporte, educación, esparcimiento, salud, seguridad, servicios y social; Actividades productivas y de servicio de impacto similar al industrial calificadas como inofensivas (incl. vivienda de cuidador); Infraestructura de transporte, sanitaria y energética (ductos de gas); Áreas verdes (parque, plazas, jardines).
+- **Prohibidos:** Equipamiento de deporte tipo coliseo/estadio/gimnasio/medialuna/piscina/sauna/baño turco; equipamiento de esparcimiento tipo hotel/motel; equipamiento de salud tipo casa de reposo/clínica/hospital; equipamiento de seguridad tipo cárcel/centro de detención; establecimientos industriales peligrosos, insalubres, contaminantes o molestos; infraestructura de disposición de residuos sólidos, estaciones/talleres ferroviarios o de metro, plantas de tratamiento de aguas servidas.
+- **Disposición adicional:** en esta zona se aplica la restricción de altura de edificación correspondiente a áreas de aproximación de aeródromo (art. 26° de la Ordenanza).
+
+---
+_Verificación visual: el "Cuadro de Normas Urbanísticas" se ubica íntegro en la página 5 (última del rango), como una única caja de dos columnas (parámetro | valor) dentro de la columna derecha de esa página — no está partido entre columnas del Diario Oficial, por lo que el reemparejamiento parámetro-valor observado en pdftotext (modo -layout) coincide exactamente con el render visual a 250/400 dpi. Confirmado además que el código de zona impreso como "ZCU-T⁷" en la fila intercalada del cuadro resumen de zonas (art. 25°, inciso 1°) es un artefacto de fuente/OCR del documento — el resto del decreto (más de 8 menciones) usa consistentemente "ZU-4'"._

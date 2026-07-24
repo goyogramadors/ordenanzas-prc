@@ -12,9 +12,33 @@
   "nota_fase3": "Diario Oficial N40.065, 20-sep-2011, 12 pags. Decreto Alcaldicio N11.447, 14-sep-2011, Viña del Mar, en pags2-4 (Cuerpo I-2 a I-4): APRUEBA ORDENANZA SOBRE ROLES DE LAS PROPIEDADES GRAVADAS Y ALTURAS MAXIMAS PERMITIDAS EN LOS MIRADORES regulados por el art.14.3 del PRC de Viña del Mar. Establece formula de altura maxima H=(Z2-Z1)-(0.05*D1) para predios a <=100m del mirador y H=(Z2-Z1)-5 para predios a >100m, y tabla completa de 17 miradores (Las Cañitas, Los Sargazos, Gomez Carreño, Santa Ines, Villa Dulce, Cerro Castillo x5, Recreo x3, Variante Agua Santa, Los Almendros, Camino Internacional, Variante Santa Ines) cada uno con listado detallado de roles de predios gravados y altura del mirador sobre nivel del mar (entre 8 y 200 metros segun mirador). Verificado visualmente paginas 1-4 de 12.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "VISUAL",
-  "estado": "EN_PROCESO",
-  "sesion": "SESION3",
-  "inicio": "2026-07-16T08:27:01",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T16:30:04",
+  "fin": "2026-07-18T16:41:04",
+  "resultado": {
+    "archivo": "extraccion_normas/vina_del_mar/vina_del_mar_11447_miradores_alturas_pag2-4.md",
+    "zonas": 17,
+    "zonas_codigos": [
+      "Las Canitas",
+      "Los Sargazos",
+      "Gomez Carreno Atlantico-11Poniente",
+      "Gomez Carreno 5Sector-29Poniente",
+      "Santa Ines",
+      "Villa Dulce",
+      "Cerro Castillo Berger",
+      "Cerro Castillo Vista Hermosa",
+      "Cerro Castillo Murphy",
+      "Cerro Castillo Britania",
+      "Recreo Capuchinos",
+      "Recreo Bustos",
+      "Recreo Amunategui-Bascunan",
+      "Variante Agua Santa",
+      "Los Almendros",
+      "Camino Internacional",
+      "Variante Santa Ines"
+    ],
+    "confianza": "ALTA",
+    "nota": "17 miradores confirmados, coincide con nota_fase3 en total y formula. El desglose entre parentesis de nota_fase3 (Cerro Castillo x5) no calzaba exactamente -- son 4 Cerro Castillo + 2 Gomez Carreno; documento numera 1-17 sin ambiguedad, verificado y contrastado contra decreto 12.029 complementario ya archivado en la misma carpeta. Dos erratas tipograficas del original transcritas literalmente con [sic]."
+  }
 }

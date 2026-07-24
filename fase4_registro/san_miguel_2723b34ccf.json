@@ -1,0 +1,28 @@
+{
+  "id": "san_miguel_2723b34ccf",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_3162_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.162.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "SAN MIGUEL: *** CONTAMINACION: edicion completa del DO (5p) *** con material ajeno (Hacienda, Aduanas, capacitacion). Decreto exento 3.162, Modifica la Ordenanza Local del PRC, concentrado en p2-5. Contenido real confirmado: 'graficadas en el plano PRSM-I, lo siguiente: Coeficiente Ocupacion de 0.7' - el valor SI esta en el texto, pero el layout a 2 columnas del DO lo descoloca (parece punto solitario a primera vista, pero no es tabla-imagen, es reordenamiento de columnas, igual al patron ya documentado en Linares). Texto NATIVO denso. CONFIANZA MEDIA: la fase siguiente debe verificar visualmente el reemparejamiento de columnas antes de extraer valores.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T13:32:55",
+  "fin": "2026-07-23T13:40:12",
+  "resultado": {
+    "archivo": "extraccion_normas/san_miguel/san_miguel_3162_modificacion_pag2-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-4 prima"
+    ],
+    "confianza": "ALTA",
+    "nota": "Identifica ZU-4' (Industrial Mixta), creada sobre ex poligono ZU-2 (Residencial de Renovacion). Cuadro integro en pag5, una sola caja de 2 columnas parametro-valor, no partida por el layout del DO, verificado a 250/400dpi: COS 0.7, CC 2.0 y resto reemparejan correctamente. Sectores El Tatio y Equipamiento Educacional en los vistos son expedientes paralelos ajenos al texto resolutivo de este decreto."
+  }
+}

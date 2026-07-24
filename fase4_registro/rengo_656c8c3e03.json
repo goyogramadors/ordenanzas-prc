@@ -1,0 +1,36 @@
+{
+  "id": "rengo_656c8c3e03",
+  "comuna": "rengo",
+  "ruta": "Ordenanzas ordenadas\\rengo_70_ordenanza_plan_regulador_intercomunal_rio_claro__do-20101224.pdf",
+  "rangos": [
+    [
+      10,
+      13
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "TRAMPA comuna ajena masiva: documento DO de 132 páginas escaneadas, pero el Plan Regulador Intercomunal Río Claro (Res.70) solo ocupa pág9-13 (Cuerpo I). Pág9 solo texto general Título I. Pág10 tabla de localidades urbanas + inicio tabla clasificatoria zonas (ZUC/ZE/AR/ZP). Tablas con valores normativos (superficie predial mín, agrupamiento, antejardín, COS, CC, altura, distanciamiento) para zonas de EXTENSIÓN urbana ZE-REQ, ZE-LLIR, ZE-MALL, ZE-QT, ZE-PEL, ZE-GGUE, ZEQ-1, ZEQ-2, ZE-ED en pág11-13 (las zonas urbanas consolidadas se rigen por PRC comunales propios, sin tabla aquí). Desde pág14 el documento contiene OTRA ordenanza completamente distinta (PRI Rancagua), sin relación con Rengo/Río Claro - 119 de 132 páginas son contenido ajeno",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T22:17:13",
+  "fin": "2026-07-18T22:27:58",
+  "resultado": {
+    "archivo": "extraccion_normas/rengo/rengo_70_pri_rioclaro_extension_pag10-13.md",
+    "zonas": 9,
+    "zonas_codigos": [
+      "ZE-REQ",
+      "ZE-LLIR",
+      "ZE-MALL",
+      "ZE-QT",
+      "ZE-PEL",
+      "ZE-GGUE",
+      "ZEQ-1",
+      "ZEQ-2",
+      "ZE-ED"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3 en cobertura (9 zonas ZE pag11-13, ZUC sin tabla aqui). Discrepancia relevante: solo ZEQ-1/ZEQ-2/ZE-ED usan cuadro de 7 parametros completo; las otras 6 (REQ,LLIR,MALL,QT,PEL,GGUE) se regulan en prosa con Densidad Promedio + 2 subconjuntos (actividades productivas / infraestructura sanitaria alto impacto intercomunal), cada uno con solo 4 parametros, sin predial minimo/agrupamiento/COS explicitos -- no se inventaron valores ausentes."
+  }
+}

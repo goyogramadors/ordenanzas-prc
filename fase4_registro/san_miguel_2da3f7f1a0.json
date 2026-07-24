@@ -1,0 +1,28 @@
+{
+  "id": "san_miguel_2da3f7f1a0",
+  "comuna": "san_miguel",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\san_miguel_3163_modifica_ordenanza_local_del_plan_regulador_comunal_san_miguel__DECRETO EXENTO 3.163.pdf",
+  "rangos": [
+    [
+      2,
+      5
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "SAN MIGUEL: *** CONTAMINACION: edicion completa del DO (5p) *** con material ajeno. Decreto exento 3.163, Modifica la Ordenanza Local del PRC, concentrado en p2-5 (verificado por conteo de menciones SAN MIGUEL). Mismo patron que el decreto gemelo 3162 (mismo dia de publicacion, misma edicion del DO): texto denso nativo con contenido dimensional real pero layout a 2 columnas que puede desordenar valores (patron Linares). CONFIANZA MEDIA: verificar visualmente antes de extraer.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T13:32:55",
+  "fin": "2026-07-23T13:39:46",
+  "resultado": {
+    "archivo": "extraccion_normas/san_miguel/san_miguel_3163_modificacion_pag2-5.md",
+    "zonas": 1,
+    "zonas_codigos": [
+      "ZU-2 prima"
+    ],
+    "confianza": "ALTA",
+    "nota": "Crea zona ZU-2' (Residencial de Renovacion) en sector El Tatio, reemplazando parte de ex zona EC-1 (poligono Complejo Deportivo Tatio). No se superpone con decreto gemelo 3162. Celda Coeficiente de constructibilidad viene en blanco en el original (verificado a 250dpi), no se informa valor -- no inventado."
+  }
+}
