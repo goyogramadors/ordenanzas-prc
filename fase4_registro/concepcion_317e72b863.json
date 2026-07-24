@@ -12,9 +12,27 @@
   "nota_fase3": "Modificacion PRC Concepcion (DO 42.321, 03-04-2019, 10 pags). p2-6: puros cuadros de VIALIDAD (arts.23 y 57: vias troncales/colectoras/de servicio/locales estructurantes) -> fuera del rango. p7-10 = NORMAS POR ZONA: p7 art.44 tabla Zonas Habitacionales Consolidadas + art.45 tabla Edificacion H1/H3/HE3; p8 art.45 crea la nueva ZONA H3L (barrio Lomas de San Andres) con DOS cuadros IMAGEN: usos de suelo y condiciones de edificacion (predial min 180 m2, COS 0,8, CC 3,5, altura 10 m/4 pisos+retiro, agrupamiento, altura continuidad 5,5 m, longitud continuidad 70%, antejardin 2,5 m, densidad 672 hab/ha); tambien ajusta la Zona P. p9: zona E-4 (equipamiento salud) y todos los cuadros EDIFICACION ZONA. p10: usos de suelo zonas C1, CU3b, CU4a, HR1.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
-  "estado": "EN_PROCESO",
-  "sesion": "SESION1",
-  "inicio": "2026-07-16T08:34:22",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T16:41:11",
+  "fin": "2026-07-18T16:48:03",
+  "resultado": {
+    "archivo": "extraccion_normas/concepcion/concepcion_208_modificacion_zonas_pag7-10.md",
+    "zonas": 11,
+    "zonas_codigos": [
+      "H1L",
+      "H3L",
+      "H1",
+      "H3",
+      "HE3",
+      "P",
+      "E-4",
+      "C1",
+      "CU3b",
+      "CU4a",
+      "HR1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Zona adicional NO mencionada en nota_fase3: H1L (mismo barrio Lomas de San Andres, tabla completa p7, creada junto a H3L: predial 400m2, COS 0.6, CC 3.25, continuidad 3.5m/40%, antejardin 4m, densidad 672 hab/ha). H1,H3,HE3,P,C1,CU3b,CU4a,HR1 solo reciben ajustes puntuales de texto en este decreto (no tablas completas nuevas) -- documentado asi, no fabricado. H3L confirmado exacto contra nota_fase3."
+  }
 }

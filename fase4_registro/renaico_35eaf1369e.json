@@ -1,0 +1,31 @@
+{
+  "id": "renaico_35eaf1369e",
+  "comuna": "renaico",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\renaico_decreto_4_plan_regulador_de_la_comuna_de_renaico_localidad_tijeral__prvtij.pdf",
+  "rangos": [
+    [
+      6,
+      9
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "TRAMPA imagen: PRC Parcial Renaico localidad Tijeral, Cap.V (Art.10) Zonificación: zonas Z-1 (Centro), Z-2 (Borde Centro), Z-3 (Apoyo Ruta), Z-AV (Área Verde) - tablas embebidas como imagen (confirmado pdfimages+render pág6: tabla completa Z-1 con usos permit/prohib, superficie subdivisión 400m2, COS 0.5-0.7, CC 1.0-1.4, altura 8-10m, agrupamiento, antejardín 3m, densidad 140hab/ha). Nota de Contraloría aclara terminología de Z-AV (superficie de subdivisión predial mínima = área verde)",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T22:17:13",
+  "fin": "2026-07-18T22:21:00",
+  "resultado": {
+    "archivo": "extraccion_normas/renaico/renaico_decreto4_tijeral_4zonas_pag6-9.md",
+    "zonas": 4,
+    "zonas_codigos": [
+      "Z-1",
+      "Z-2",
+      "Z-3",
+      "Z-AV"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3; valores COS/CC/altura de Z-1 (0.5-0.7 y 1.0-1.4) NO son rangos ambiguos, son diferenciados por uso (residencial/equipamiento vs actividades productivas), mismo patron en Z-2/Z-3. Confirma nota de Contraloria (Ord.44186/2012): en Z-AV superficie predial minima = superficie subdivision predial minima, uso permitido = area verde."
+  }
+}

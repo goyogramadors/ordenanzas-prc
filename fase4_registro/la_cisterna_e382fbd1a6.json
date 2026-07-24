@@ -1,0 +1,34 @@
+{
+  "id": "la_cisterna_e382fbd1a6",
+  "comuna": "la_cisterna",
+  "ruta": "Ordenanzas ordenadas\\la_cisterna_decreto_3467_promulgese_aprobacion_de_la_modificacion_n01_del_plan_regulador_com__DEC3467.pdf",
+  "rangos": [
+    [
+      8,
+      11
+    ]
+  ],
+  "paginas_utiles": 4,
+  "nota_fase3": "DUPLICADO de la_cisterna_c51731c1b8: mismo Dec.Alc.3467/2021 Modificacion N.1 PRC La Cisterna, distinta copia escaneada, contenido identico verificado pixel a pixel en p1. Ver nota del documento hermano para el detalle de valores (zonas ZU-1 a ZU-7, art.4).",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T21:26:23",
+  "fin": "2026-07-18T21:29:20",
+  "resultado": {
+    "archivo": "extraccion_normas/la_cisterna/la_cisterna_3467_zu1_zu7_pag8-11.md",
+    "zonas": 7,
+    "zonas_codigos": [
+      "ZU-1",
+      "ZU-2",
+      "ZU-3",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6",
+      "ZU-7"
+    ],
+    "confianza": "ALTA",
+    "nota": "DUPLICADO confirmado por Fase 3 (pixel a pixel) de la_cisterna_c51731c1b8 -- se reutiliza el mismo archivo verificado, no se reproceso."
+  }
+}

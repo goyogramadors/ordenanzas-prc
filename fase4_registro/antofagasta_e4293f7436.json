@@ -1,0 +1,43 @@
+{
+  "id": "antofagasta_e4293f7436",
+  "comuna": "antofagasta",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\antofagasta_145_modifica_plan_regulador_comunal_de_antofagasta__Exportar.pdf",
+  "rangos": [
+    [
+      4,
+      11
+    ],
+    [
+      16,
+      16
+    ],
+    [
+      20,
+      20
+    ]
+  ],
+  "paginas_utiles": 10,
+  "nota_fase3": "Modificacion PRC Antofagasta (Decreto 145, 20 pags, mixto). p4,6,8,10: cuadros TABLA-IMAGEN de ESTACIONAMIENTOS minimos por tipo de uso (vivienda, salud, educacion, deportivo, comercio, talleres, industria) -- organizados por uso, no por zona. p11: tabla real insertada (fila CC') con columnas Zona/predial min/ocupacion max/CC max/agrupamiento/altura max/pisos max/distanciamiento/continuidad-pareo/rasante/antejardin min -- tabla de norma por zona completa. p16: CONDICIONES DE EDIFICACION ZONA C1Bc, tabla completa (altura max/min, rasante, CC, ocupacion, predial min, adosamiento/pareo, antejardin, distanciamiento, agrupamiento). p20: otra tabla completa (letras a-j) para nueva zona agregada al art.62/63. OJO: p12-15 y p17-19 son NARRATIVAS ('reemplacese en cuadro de Zonas Consolidadas, fila Cx, columna Y...') que modifican un cuadro base que NO esta reproducido en este PDF -- no confundir esas paginas con la tabla maestra, son parches sin la tabla completa de referencia.",
+  "confianza_fase3": "MEDIA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T19:15:48",
+  "fin": "2026-07-23T19:31:32",
+  "resultado": {
+    "archivo": "extraccion_normas/antofagasta/antofagasta_145_zonas_pag11-16-20.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "CC'",
+      "C1Bc",
+      "C1a",
+      "C1b",
+      "C1c",
+      "C2",
+      "C3",
+      "C9"
+    ],
+    "confianza": "MEDIA",
+    "nota": "p11 y p16 coinciden con nota_fase3 (CC' y C1Bc, tabla real de norma por zona completa: predial min/ocupacion max/CC max/agrupamiento/altura max/pisos max/distanciamiento/continuidad-pareo/rasante/antejardin min). p20 NO es zona con codigo propio nuevo: es parrafo agregado al Art.62(actual 63) que aplica una regla de rasante (frente Av. Costanera, tabla a-j embebida como imagen) a los predios de las zonas C1a,C1b,C1c,C2,C3 y C9 ya existentes -- se registran como 6 codigos afectados, no como zona nueva, siguiendo el mismo criterio usado en el decreto 138 de Santiago (contar codigos de zona afectados, no encabezados de seccion)."
+  }
+}

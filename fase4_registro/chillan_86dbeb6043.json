@@ -12,9 +12,19 @@
   "nota_fase3": "CHILLAN: Decreto 3123 (Enmienda N01-2024, ANTEJARDINES). Modifica el Art 11 (Zonificacion) del PRC creando las subzonas ZH-1-1, ZH-2-1 y ZM-2-1 para eliminar antejardines en sectores patrimoniales. p4 cierra con 'Las normas urbanisticas aplicables en cada subzona son las siguientes:' y un cuadro resumen; p5, p6 y p7 traen cada una el encabezado 'NORMAS URBANISTICAS DE LA SUBZONA' con usos de suelo y condiciones de subdivision y edificacion (predial minima, COS, CC, altura, agrupamiento, retranqueo, antejardin, densidad bruta). PDF NATIVO con firma electronica: texto limpio, extraible directo sin OCR ni render. Candidato ideal para extraccion automatica.",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO",
-  "estado": "EN_PROCESO",
-  "sesion": "SESION1",
-  "inicio": "2026-07-16T08:34:22",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T16:41:11",
+  "fin": "2026-07-18T16:45:07",
+  "resultado": {
+    "archivo": "extraccion_normas/chillan/chillan_3123_antejardines_subzonas_pag4-7.md",
+    "zonas": 3,
+    "zonas_codigos": [
+      "ZH-1-1",
+      "ZH-2-1",
+      "ZM-2-1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Condiciones de subdivision/edificacion coinciden exactamente con archivo de referencia chillan_enmienda1_2024_subzonas_antejardines_pag4-6.md (otra fuente/version, 10 pags) y con nota_fase3. Discrepancia detectada en usos de suelo: ZM-2-1 NO es identica a ZH-1-1 como afirma el archivo de referencia -- Transporte es Permitido (no Prohibido) y Educacion Permitido sin excepcion; confirmado por render 250dpi p7."
+  }
 }

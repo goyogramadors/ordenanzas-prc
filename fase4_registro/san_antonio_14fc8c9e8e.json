@@ -1,0 +1,29 @@
+{
+  "id": "san_antonio_14fc8c9e8e",
+  "comuna": "san_antonio",
+  "ruta": "Ordenanzas ordenadas\\san_antonio_7379_promulga_modificacion_del_plan_regulador_comunal_de_san_antonio_en_el_secto__DA 7379.pdf",
+  "rangos": [
+    [
+      28,
+      32
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "Cap.III Zonificacion, usos de suelo y normas especificas (Art.5-6). Dos zonas en formato articulado: ZONA ZR4 Residencial4 (pag28,30): usos permitidos/prohibidos, superficie predial minima 160m2, densidad neta max 500hab/ha, COS 0.60, coef.constructibilidad 1.0-1.6, agrupamiento aislado/pareado/continuo, distanciamientos, rasante70, altura max 14m, cierros, antejardin3m, estacionamientos. ZONA ZD1 Deportes y Recreacion1 (pag30-32): usos permitidos/prohibidos, superficie predial minima 2500m2, densidad no aplicable, COS 0.4, coef.constructibilidad 0.5, agrupamiento aislado, rasante70, antejardin10m. Documento con paginacion doble (17p impresas + blancos intercalados en 32 del PDF); pag27,29,31 en blanco.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T14:53:24",
+  "fin": "2026-07-23T14:57:30",
+  "resultado": {
+    "archivo": "extraccion_normas/san_antonio/san_antonio_7379_zr4_zd1_pag28-32.md",
+    "zonas": 2,
+    "zonas_codigos": [
+      "ZR4",
+      "ZD1"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3 en todos los valores. Detalle adicional: altura maxima ZR4 es 14m aislado pero 7m pareado (nota solo decia 14m). Sector Cerro Alegre; Art.5 agrupa ZR4 bajo Zona Residencial y ZD1 bajo categoria Especial."
+  }
+}

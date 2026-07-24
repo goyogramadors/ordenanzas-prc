@@ -9,12 +9,42 @@
     ]
   ],
   "paginas_utiles": 4,
-  "nota_fase3": "TRAMPA imagen sistemática: actualización PRC completa Chillán, Título V (Art.11) 'NORMAS URBANÍSTICAS DE LA ZONA X' para TODAS las zonas (ZC-1/2/3, ZM-1/2, ZH-1 a ZH-7, ZI, ZBA, ZE-1 a ZE-5, ZIT, ZAV, ZIS, ZIE) - cada tabla aparece SOLO como título en texto, contenido embebido como imagen (confirmado con pdfimages: 5-8 imágenes grandes por página en pág10-13). Pág9 Art.5 estacionamientos y pág7-8 Art.4 vialidad estructurante (cuadros de vías, no normas de zona, excluidos). Pág14 Art.14 nota general: ICH deben mantener normas urbanísticas (uso suelo, sup.predial, COS, altura, agrupamiento) de su zona",
+  "nota_fase3": "TRAMPA imagen sistematica: actualizacion PRC completa Chillan, Titulo V (Art.11) 'NORMAS URBANISTICAS DE LA ZONA X' para TODAS las zonas (ZC-1/2/3, ZM-1/2, ZH-1 a ZH-7, ZI, ZBA, ZE-1 a ZE-5, ZIT, ZAV, ZIS, ZIE) - cada tabla aparece SOLO como titulo en texto, contenido embebido como imagen (confirmado con pdfimages: 5-8 imagenes grandes por pagina en pag10-13). Pag9 Art.5 estacionamientos y pag7-8 Art.4 vialidad estructurante (cuadros de vias, no normas de zona, excluidos). Pag14 Art.14 nota general: ICH deben mantener normas urbanisticas (uso suelo, sup.predial, COS, altura, agrupamiento) de su zona",
   "confianza_fase3": "ALTA",
   "metodo_fase3": "TEXTO+VISUAL",
-  "estado": "EN_PROCESO",
-  "sesion": "SESION1",
-  "inicio": "2026-07-16T08:34:22",
-  "fin": null,
-  "resultado": null
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-18T16:41:11",
+  "fin": "2026-07-18T16:42:20",
+  "resultado": {
+    "archivo": "extraccion_normas/chillan/chillan_7458_prc_23zonas_pag10-13.md",
+    "zonas": 23,
+    "zonas_codigos": [
+      "ZC-1",
+      "ZC-2",
+      "ZC-3",
+      "ZM-1",
+      "ZM-2",
+      "ZH-1",
+      "ZH-2",
+      "ZH-3",
+      "ZH-4",
+      "ZH-5",
+      "ZH-6",
+      "ZH-7",
+      "ZI",
+      "ZBA",
+      "ZE-1",
+      "ZE-2",
+      "ZE-3",
+      "ZE-4",
+      "ZE-5",
+      "ZIT",
+      "ZAV",
+      "ZIS",
+      "ZIE"
+    ],
+    "confianza": "ALTA",
+    "nota": "Archivo ya existia en el repo (trabajo de sesion anterior, nunca registrado antes de quedar huerfano) y coincide exactamente con este claim: mismo decreto 7458, mismo rango pag10-13, 23/23 zonas de nota_fase3 presentes. Verificado conteo y codigos antes de registrar, no se reproceso."
+  }
 }
