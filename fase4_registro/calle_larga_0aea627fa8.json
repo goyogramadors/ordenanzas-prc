@@ -1,0 +1,35 @@
+{
+  "id": "calle_larga_0aea627fa8",
+  "comuna": "calle_larga",
+  "ruta": "Ordenanzas ordenadas\\OCR ok\\calle_larga_353_enmienda_n_1_al_plan_regulador_comunal_de_calle_larga__Exportar.pdf",
+  "rangos": [
+    [
+      2,
+      6
+    ]
+  ],
+  "paginas_utiles": 5,
+  "nota_fase3": "TRAMPA MIXTO (patron LeyChile). Dec.353 Enmienda N1 PRC Calle Larga: sube 20% la densidad bruta max de 8 zonas (ZU-C, ZU-2, ZU-2A, ZU-3, ZU-3A, ZU-4, ZU-5, ZU-6). El cambio puntual de densidad esta en texto ('donde dice/debe decir'), pero el CUADRO NORMATIVO COMPLETO de cada zona ('Quedando de la siguiente manera:') es IMAGEN: usos permitidos/prohibidos, subdivision predial min, COS, coef. constructibilidad, agrupamiento, altura max, antejardin. Verificado visualmente p3 (ZU-C: predial 290m2, dens 108, ocup 0,5/0,9, constr 0,7/1,8, altura 12m) y p6. Un cuadro por articulo, 2 cuadros por pagina, p3-p6.",
+  "confianza_fase3": "ALTA",
+  "metodo_fase3": "TEXTO+VISUAL",
+  "estado": "HECHO",
+  "sesion": "S4",
+  "inicio": "2026-07-23T13:40:17",
+  "fin": "2026-07-23T13:48:12",
+  "resultado": {
+    "archivo": "extraccion_normas/calle_larga/calle_larga_353_enmienda1_8zonas_pag2-6.md",
+    "zonas": 8,
+    "zonas_codigos": [
+      "ZU-C",
+      "ZU-2",
+      "ZU-2A",
+      "ZU-3",
+      "ZU-3A",
+      "ZU-4",
+      "ZU-5",
+      "ZU-6"
+    ],
+    "confianza": "ALTA",
+    "nota": "Coincide con nota_fase3, ZU-C verificado exacto. Cuadro completo de cada zona es imagen. Densidades finales ya incrementadas 20% transcritas: ZU-C 108, ZU-2 90, ZU-2A 108, ZU-3 72, ZU-3A 86, ZU-4 19, ZU-5 72, ZU-6 86, junto con usos/predial/COS/constructibilidad/agrupamiento/altura/antejardin completos."
+  }
+}
