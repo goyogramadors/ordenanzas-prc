@@ -103,16 +103,41 @@ def clave_manifest(comuna: str, manifest: dict) -> str | None:
     return None
 
 
+# Campos numéricos "clave" de NormativaPRC: si TODAS las fichas de un JSON
+# existente tienen estos campos en null, es una ficha fallback (nombre+usos
+# desde el GeoJSON, sin edificación real extraída de la ordenanza) y NO debe
+# tratarse como "comuna terminada" -- gap conocido, ver docstring del módulo.
+CAMPOS_PARAMETRO_REAL = (
+    "coef_constructibilidad", "superficie_predial_minima_m2",
+    "altura_maxima_pisos", "altura_maxima_metros",
+    "cos_primer_piso", "cos_pisos_superiores",
+    "densidad_maxima_hab_ha", "densidad_maxima_viv_ha",
+)
+
+
+def tiene_parametros_reales(ruta_json: Path) -> bool:
+    try:
+        fichas = json.loads(ruta_json.read_text(encoding="utf-8"))
+    except Exception:
+        return False
+    if not isinstance(fichas, list):
+        return False
+    return any(
+        isinstance(ficha, dict) and any(ficha.get(c) is not None for c in CAMPOS_PARAMETRO_REAL)
+        for ficha in fichas
+    )
+
+
 def main() -> None:
     if not MANIFEST.exists():
         raise SystemExit(f"Falta el manifiesto GeoJSON: {MANIFEST}")
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
 
-    existentes = {
-        m.group(1)
-        for fn in os.listdir(NORMADIR)
-        if (m := re.match(r"\d+_(.+)\.json", fn))
-    }
+    existentes = {}  # slug -> True (con parámetros reales) / False (fallback vacío)
+    for fn in os.listdir(NORMADIR):
+        m = re.match(r"\d+_(.+)\.json", fn)
+        if m:
+            existentes[m.group(1)] = tiene_parametros_reales(NORMADIR / fn)
 
     cola4 = json.loads(COLA_FASE4.read_text(encoding="utf-8"))
     ids_por_comuna = collections.defaultdict(list)
@@ -169,9 +194,15 @@ def main() -> None:
         region = manifest[gk]["region"]
         geojson = manifest[gk]["file"]
 
-        if slug_plano(comuna) in existentes:
-            buckets["PERFECCIONAR"].append((comuna, region, zonas_total))
-            continue
+        sp = slug_plano(comuna)
+        if sp in existentes:
+            if existentes[sp]:
+                buckets["PERFECCIONAR"].append((comuna, region, zonas_total))
+                continue
+            # Existe archivo pero es fallback puro (0 parámetros reales, ver
+            # tiene_parametros_reales): NO se trata como terminada -- sigue
+            # de largo hacia la evaluación normal de tier/PROCESAR.
+            buckets["REPROCESAR_SIN_PARAMS"].append((comuna, region, zonas_total))
         if zonas_total == 0:
             buckets["REVISAR_0_ZONAS"].append((comuna, region, zonas_total))
             continue
@@ -223,7 +254,8 @@ def main() -> None:
 
     for nombre, titulo in [
         ("SIN_BASE", "SIN_BASE (solo enmienda; falta ordenanza base -> re-descarga)"),
-        ("PERFECCIONAR", "PERFECCIONAR (ya tiene JSON; aplicar modificaciones, al final)"),
+        ("PERFECCIONAR", "PERFECCIONAR (ya tiene JSON con parámetros reales; al final)"),
+        ("REPROCESAR_SIN_PARAMS", "REPROCESAR_SIN_PARAMS (JSON existente es fallback puro -- 0 parámetros reales; incluidas igual en PROCESAR arriba, no se dan por terminadas)"),
         ("SIN_GEOJSON", "SIN_GEOJSON (excluidas por regla; ficha no usable en la app)"),
         ("REVISAR_0_ZONAS", "REVISAR (0 zonas transcritas en Fase 4)"),
     ]:
